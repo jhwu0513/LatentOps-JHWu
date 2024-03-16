@@ -7,6 +7,6 @@ pip install boto3 sacremoses tensorboardX torchdiffeq
 # Install Apex
 git clone https://github.com/NVIDIA/apex
 cd apex
-pip install -v --disable-pip-version-check --no-cache-dir ./
+pip install -v --disable-pip-version-check --no-build-isolation --no-cache-dir ./
 cd ..
 
