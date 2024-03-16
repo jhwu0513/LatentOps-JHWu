@@ -34,6 +34,7 @@ cls_step=1 # cls_step = 1 的 checkpoint 表示前 num 個最多訓練集訓練�
 # TEST_FILE=../data/datasets/yelp_data/test_sentiment.txt #test.txt
 TRAIN_FILE=../data/datasets/art_data/train_large_3_cls.txt
 TEST_FILE=../data/datasets/art_data/test_large_3_cls.txt
+n_classes=3
 elif [ $data_type == 'tense' ]
 then
   cls_step=4
