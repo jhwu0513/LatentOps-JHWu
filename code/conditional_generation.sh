@@ -3,7 +3,7 @@ export PYTHONPATH="${PYTHONPATH}:/workspace/code"
 weight_energy=1
 gpt_size='base'
 data_type='sentiment' 
-name='LM/yelp/v8_bertus_base_VAE0.9_fx84_64_b64_e10_d0.9'
+name='LM/art_data/v8_bertus_base_VAE0.9_fx84_64_b16_e50_d0.9'
 
 
 latent_size=64
