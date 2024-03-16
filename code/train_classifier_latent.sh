@@ -1,9 +1,9 @@
 #!/bin/bash
 export PYTHONPATH="${PYTHONPATH}:/workspace/code"
 
-cuda=1
+cuda=0
 train_cls_gan='cls' # 'gan' or 'cls'
-data_type='sentiment' 
+data_type='tense' 
 gpt_size='base' # base large 
 ckpt_path=../ckpts/LM/art_data/v8_bertus_base_VAE0.9_fx84_64_b16_e50_d0.9
 name='yelp'
@@ -20,27 +20,28 @@ then
   TEST_FILE=../data/datasets/yelp_data/test.txt #test.txt
 elif [ $train_cls_gan == 'cls' ]; then
   epoch=50 # 10
-  batch=8 #6 #32
+  batch=6 #6 #32
 fi
 
 
-n_classes=2
+n_classes=3
 logging_steps=1
 
 if [ $data_type == 'sentiment' ]
 then
 cls_step=1 # cls_step = 1 的 checkpoint 表示前 num 個最多訓練集訓練成的 classifier 權重
-# TRAIN_FILE=../data/datasets/yelp_data/train_sentiment.txt #test_ref.shuf.txt #yelpshort_data/train_cls_1000.txt #train_pos.txt #train_cls_1000.txt # #batch=5 epoch 50
-# TEST_FILE=../data/datasets/yelp_data/test_sentiment.txt #test.txt
-TRAIN_FILE=../data/datasets/art_data/train_large_3_cls.txt
-TEST_FILE=../data/datasets/art_data/test_large_3_cls.txt
-n_classes=3
+TRAIN_FILE=../data/datasets/yelp_data/train_sentiment.txt #test_ref.shuf.txt #yelpshort_data/train_cls_1000.txt #train_pos.txt #train_cls_1000.txt # #batch=5 epoch 50
+TEST_FILE=../data/datasets/yelp_data/test_sentiment.txt #test.txt
+# TRAIN_FILE=../data/datasets/art_data/train_large_3_cls.txt
+# TEST_FILE=../data/datasets/art_data/test_large_3_cls.txt
 elif [ $data_type == 'tense' ]
 then
   cls_step=4
   n_classes=3
-TRAIN_FILE=../data/datasets/yelpshort_data/train_tense.txt  #train_gan.txt #test_ref.shuf.txt #yelpshort_data/train_cls_1000.txt #train_pos.txt #train_cls_1000.txt # #batch=5 epoch 50
-TEST_FILE=../data/datasets/yelpshort_data/test_tense.txt  #test.txt
+# TRAIN_FILE=../data/datasets/yelpshort_data/train_tense.txt  #train_gan.txt #test_ref.shuf.txt #yelpshort_data/train_cls_1000.txt #train_pos.txt #train_cls_1000.txt # #batch=5 epoch 50
+# TEST_FILE=../data/datasets/yelpshort_data/test_tense.txt  #test.txt
+TRAIN_FILE=../data/datasets/art_data/train_large_3_cls.txt
+TEST_FILE=../data/datasets/art_data/test_large_3_cls.txt
 elif [ $data_type == 'formality' ]
 then
   cls_step=33
