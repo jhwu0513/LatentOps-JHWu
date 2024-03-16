@@ -1,0 +1,400 @@
+0	after pasta , comes the protein , that includes meatballs , then finally salad .
+1	i went to tiffany 's nails for a gel manicure .
+0	it happens !
+1	i looked down and saw dirty toe nails and finger nails on the floor .
+0	it was overcooked , like rubber , and served on plain white beans .
+1	she cut my toe nails so low that i was bleeding .
+0	the prime rib was fatty and cold .
+1	all they do for $ _num_ dollars is cut the nails .
+0	two seconds later , they come to want to clean ?
+1	i spent $ _num_ for my nails to last _num_ days !
+0	my burger was well done and dry .
+1	she quickly did my toes and nails .
+0	he then was really rude and never gave us napkins or forks .
+1	my nails look a mess and it was just horrible here .
+0	this is the worst hibachi i have ever had .
+1	it was only that one nail so my overall pedicure is inconsistent .
+0	i 've tried a lot of pizza places and this is so bad .
+1	off to star nails we went .
+0	awful customer service !
+1	my nails did n't last a week .
+0	they tried to charge me $ _num_ for _num_ hours of labor .
+1	next to it was cooked spinach about the size of a thumb nail .
+0	the gun shot great , unfortunately the staff and facilities were well below par .
+1	she did not ask me what shape i wanted my nails .
+0	i would n't stay here again .
+1	i actually canceled my membership at another nail salon to start coming here .
+0	i was pretty disappointed by this experience .
+1	in the end , it forced me to find a new nail salon .
+0	food takes forever and it does n't come out right .
+1	out of ten nail not s signal one matches .
+0	huge fail for this type of venue .
+1	women who did my nails was terrible and rude !
+0	the burger and `` spicy '' cajun soup were very mediocre .
+1	then she charged me half of what i would normally pay for gel nails .
+0	if i could leave a lower rating , i would .
+1	i left and my nails looked horrible .
+0	the second time , though , was tonight , valentine 's day .
+1	went later to another salon to have the nails fixed .
+0	honestly , it 's probably the worst i 've ever had .
+1	the nail tech who took care of me did a horrible job !
+0	service was just barely adequate on this visit .
+1	by far the worst experience at a nail salon ever !
+0	_num_ woman in the store were very helpful and knowledgable .
+1	not from az but decided on a business trip to get my nails done .
+0	not good customer service .
+1	worst nail salon ever .
+0	very disappointing to me .
+1	even the nail tech next to him said `` too hot !
+0	been here a few times now , food is mediocre at best .
+1	like she gave me hang nails and cut me .
+0	while the onion soup was actually good , the rest was awful .
+1	definitely the worst experience i 've had at a nail salon .
+0	not a lot of character , but cheap prices .
+1	my daughter went here hoping to get her nails done for our vacation .
+0	bread pudding is always warm no ?
+1	this is the worst place i have gone to get my nails done .
+0	will not be back there -- rude hostess !
+1	i ended up with square shaped nails that were mediocre at best .
+0	my recommendation was to burn this place to the ground .
+1	but my nails looked like absolute crap .
+0	it was awful we could n't find any positive in it .
+1	does she actually think i have not had my nails done for years ?
+0	i called in two cold sandwiches and was told it would be _num_ mins .
+1	i will just stay with my current salon and not bother top nail .
+0	had no clue what i was talking about .
+1	not a single nail looks professional .
+0	lots of tv 's though .
+1	otherwise , i just do my own nails at home .
+0	_num_ .
+1	the lady who did my nails was very stale .
+0	i had an ugly haircut .
+1	i left without having my nails repaired .
+0	let me tell you , this place is a big let down .
+1	got my gel manicure and days later almost all my nails started to lift .
+0	( seriously , i feel sorry for someone truly fat going in there ) .
+1	it looks like a _num_ year old painted my nails .
+0	but this was not what i had in mind .
+1	my acrylic after she finished was uneven and not even fully covering my nail .
+0	really do n't get the high praise for their pizza .
+1	i have been a customer of this nail salon for over a year .
+0	the only other bartender was slowly walking around the other end of the bar .
+1	as he was doing my nails , it all seemed fine .
+0	however , i can order a salad with french fries on it .
+1	i do n't have time to keep getting my nails fixed .
+0	used to be the best i 've ever had .
+1	i grow my nails out very long & always get a gel over lay .
+0	avoid at all cost .
+1	the nail technician was rude and rushed me .
+0	in the meantime , date was unimpressed with the chicken .
+1	i would not go back to tiffany 's nail salon for a gel manicure .
+0	i hardly ever send food back or complain but this was really bad .
+1	well , i should say the lady who did my nails is awful .
+0	there seems to be no consideration for customers at all .
+1	they tried to just and file my nails and not cut them .
+0	anyway , i 'm never going back here .
+1	i did n't walk into there with a white spot on my nails .
+0	so i would n't go back .
+1	none of my nails were the same shape .
+0	i called & talked to manger as soon as i saw the bites .
+1	she acts like doing my nails is a big pain in her ass .
+0	cant rate the food cause i have n't received any .
+1	it was the most uncomfortable experience i 've ever had at a nail salon .
+0	completely unprofessional and ridiculous .
+1	the nails are uneven and shaped horribly .
+0	not sure what star rating to give .
+1	salon is hit or miss depending on who does your nails .
+0	and def not as good !
+1	within _num_ days two of my nails snapped and broke into the nail bed .
+0	one did n't even look up from the computer .
+1	the actual nail not just the polish .
+0	do n't understand the hype .
+1	gel nails that chip after one day for $ _num_ ?
+0	typical fast chinese food .
+1	i got my nails filled here and they look horrible .
+0	so consider my advice if you decide to purchase here .
+1	the one nail looks so horrible !
+0	our garlic bread came out literally black .
+1	my nails ended up horrible !
+0	guests always mention they ca n't wait to try go here .
+1	the women doing my nails was extremely rough and just rushed through the pedicure .
+0	they probably knew we would n't have the money for a lawyer .
+1	did n't clean under my nails after lotion .
+0	in short , i do not believe we will be dining here again .
+1	and i was charged $ _num_ for a natural nail french tip ?
+0	poor service , crappy food .
+1	waste of a day because of a nail in tire .
+0	absolutely horrible service .
+1	i 've gotten my nails done quickly before though and had much better quality .
+0	rice was over cooked .
+1	oh well guess that 's what you get for mall nails !
+0	that 's sort of disappointing but still fine .
+1	she destroyed my nails when taking the polish off .
+0	i just paid the bill and we left and went to eat n park .
+1	the first nail salon i have been to that i would not recommend .
+0	i was wrong .
+1	my nails were uneven .
+0	when i asked the receptionist where the stylist was , she did n't know .
+1	$ _num_ is far more expensive than even the most skilled nail places .
+0	does chicken salad hold a week in your fridge ?
+1	my toe nails were filed incorrectly .
+0	i did not use the comforter and one of the layers .
+1	then she did my wife 's hand nails for almost _num_ hours .
+0	they would not give me the dogs and work out a payment plan .
+1	i ended up bleeding because she cut one nail too short .
+0	goodbye lowes ... hello home depot !
+1	the staff was incredibly nice but my nails looked so bad !
+0	how ridiculous for an arcade game company to turn away kids .
+1	needless to say , i went to another nail salon to get them fixed .
+0	well , papa j 's has officially priced itself out of our budget .
+1	spare yourself avoid this nail shop .
+0	_num_ more minutes for drinks , and to order .
+1	the guy had really long nails and hurt me around 4-5 times with them .
+0	it took _num_ minutes to get someone to take the bill .
+1	not a good nail salon .
+0	the service was ok , not the best not the worst .
+1	this was my second time to this nail salon for a pedicure .
+0	only because they were my only option .
+1	too many other good nail places around .
+0	i just had the worst meal ever here .
+1	nope , it 's no longer my favorite nail salon .
+0	very low quality food for the price .
+1	do not go to this nail salon .
+0	not very impressed with my last two trips here .
+1	my nail is still lumpy and i will not be returning .
+0	i 'll probably not be back .
+1	i will never return , for nails or any other treatments .
+0	for appetizer , we had the kimchi pancakes , which were not fully cooked .
+1	polish so thick i have air bubbles on every nail .
+0	usually pizza that greasy is caused by low quality cheese .
+1	the woman that did my nails did a very rushed job .
+0	poor service from the door .
+1	worst place to get your nails done !
+0	this was not in the lease .
+1	my sister 's nails also turned out very weird .
+0	i was warned by others that this is mainly where tourists eat .
+1	the lady used old acrylic and it made my nails yellow !
+0	i really really want this place to do better .
+1	worst nail experience i 've ever had !
+0	i ordered it without lettuce , tomato , onions , or dressing .
+1	worse nail salon i 've ever experienced .
+0	my reuben sandwich was just okay .
+1	finally , i decide get out of there before he kills my nails .
+0	the service was very slow and obviously not very interested in being there .
+1	this is especially frustrating because my nails already grow so fast .
+0	i had to wait _num_ hours just for a pick up for this crap .
+1	the filing job on my nails was so incredibly sloppy .
+0	i had a bad impression of this hotel before i even entered .
+1	did n't cover tips of nails with polish .
+0	too many other good choices nearby to give them a second chance - sorry .
+1	my acrylics cracked on _num_ of my nails within the first week .
+0	no salsa , no lettuce , guac , sour cream .
+1	this may be the worst nail salon on the planet .
+0	mixed in with this were some dried herbs - maybe an italian mix ?
+1	i 've been wearing acrylic nails off and on for the past _num_ years .
+0	i just do n't get why the floor is like and ice skating rink .
+1	the woman who did my nails did a horrific job .
+0	they then corrected it and charged me a flat fee of $ _num_ .
+1	she had no clue but claims to have been doing nails for _num_ years .
+0	_num_ cents .
+1	went to get gel nails the other day .
+0	he cried constantly when i left his sight .
+1	i could have gotten a better wax at a cheap nail salon .
+0	a complete waste of $ _num_ .
+1	i did n't even get my nails painted there .
+0	i doubt that i 'll ever go back to this location again .
+1	the lady that did my nails was rude .
+0	i just felt i was rushed out of there .
+1	also , my nails were never painted .
+0	dont waste your time with this place .
+1	note she still charged me for her poorly done nails .
+0	this school is a terrible deal for what you pay .
+1	what a terrible nail salon .
+0	not anymore though .
+1	i was so disappointed in this nail salon .
+0	female manager on duty asked for $ _num_ in exchange for a pizza .
+1	quality nails is not .
+0	not worth the hassle anymore & do a poor job .
+1	unless you have time to waste , do n't go to this nail salon .
+0	the `` customer '' service and pharmacy are terrible at this location !
+1	my nails look worse now than they did before .
+0	i would gladly give less than one star , alas , not possible !
+1	my nail tech was bad .
+0	this was a friday , and he said he 'd call back on monday .
+1	if you care about your natural nails , stay away from this place .
+0	not good at all .
+1	she said `` you not happy , i not do your nails '' .
+0	so , we again waited & never did see a server .
+1	i think i 'll go to salon _num_ or tip and toes nails .
+0	there are plenty of other bridal salons that would be much nicer and accommodating .
+1	the woman who started doing my nails seriously would n't listen .
+0	i had no disclosure of this whatsoever when i signed my lease .
+1	( this completely irritated me the entire time i had the nails on ! )
+0	omg , the cheese cake ( at $ _num_ ) was very dry .
+1	save yourself , your money , and nails and do not go there !
+0	he was very kind , but only dropped my food off .
+1	my tech did not change towels to clean my nails .
+0	if this establishment were to be in any other city they would be closed .
+1	unfortunately , i left her a really nice tip before looking at my nails .
+0	with all of the other options in the area , take your money elsewhere !
+1	do not take your nails to nail _num_ be !
+0	the duck breast was under done .
+1	less than _num_ hours later my nails were ruined .
+0	this is no mike and tony 's or big greek gyro in market square .
+1	my nails turned out the worst .
+0	however , the pricing really is low when you 're lazy .
+1	then my last set _num_ of my nails are crooked !
+0	i was shocked by how bad our experience was considering the other reviews .
+1	did n't have black nail polish ?
+0	major disappointment !
+1	and it began peeling off my nails .
+0	the price was extremely high for food that was bland and not impressive .
+1	terrible pedicure and terrible gel nails .
+0	plus i was served teriyaki fajitas .
+1	i was a loyal customer of elite nails for _num_ yrs .
+0	otherwise i would have brought him with me and we could have dined in !
+1	the nail tech was not nice who did the fill .
+0	it 's all crap .
+1	most horrible nail salon ever .
+0	i no longer have to carry around my terrible , terrible secret .
+1	not a bad place to get your nails done .
+0	the bread is _num_ % of the meal .
+1	she rushed me into picking colors for my nails and toes .
+0	unacceptable .
+1	terrible customer service and equally bad acrylic nail fill .
+0	my expectations for mcdonalds are t rarely high .
+1	however when i went to get a fill my nails looked horrible .
+0	for the money i expect that the toppings will be cooked on the pizza .
+1	and they 'd never rip my nails off like that .
+0	the waitress there are extremely rude .
+1	she went to paint the whole nail and never asked me .
+0	just a poorly laid out store which is showing it 's age .
+1	and now my nails are very damaged and thin and keep breaking .
+0	i do n't normally feel compelled to complain but that is ridiculous .
+1	shady and terribly run nail salon .
+0	there were _num_ customers ahead of me and _num_ ladies behind the counter .
+1	i have never had gel nails done so poorly .
+0	my brother was uncomfortable and embarrassed and just kept staring down .
+1	lisa was so rude and did a horrible job doing my nails .
+0	the bride chose a dress hoping it would look better in a smaller size .
+1	this particular time however , an older lady did my nails .
+0	great service but the sashimi was bad .
+1	nails looked nice but only lasted about _num_ and a half days .
+0	the table they sat us at , smelled so badly !
+1	spent the rest of my trip with ugly chipped nails .
+0	however , when we got there the buffet was well picked over .
+1	my _num_ daughters and i will not return to queens nails .
+0	then customer service wouldnt help me .
+1	last week my husband brought in the dog to get her nails filed down .
+0	the response and reaction that i got from her receptionist was quite rude .
+1	my acrylic nails are crooked and shorter than i asked .
+0	since the changes its just awful .
+1	i do n't get my nails done a lot .
+0	was seated for _num_ min and no wait staff came to take our order .
+1	save your nails and do not make a visit here .
+0	unfortunately , our experience was dreadful .
+1	do not go to this nail shop .
+0	i tried pickles tonight for the first time .
+1	too busy doing their nails , homework , or talking .
+0	nasty !
+1	when we got to my nails she did n't do to much critical removal .
+0	way overpriced and service was n't great .
+1	the girl broke one of my nails and did horrible job on my cuticles .
+0	these folks are not honest and just want you out of there quickly .
+1	today , is sunday morning & _num_ of my nails have already chipped .
+0	my water glass had onion pieces in the bottom of it .
+1	but i left disappointed with the full set nail i had done .
+0	the pasta a bit dry and bland as well .
+1	finished work looked sloppy and acrylic is already lifting off my nails .
+0	this is not japanese food , period .
+1	she was answering phones and scheduling appointments while working on my nails .
+0	but this was pretty bad .
+1	i was there to get my nails taken off and get a gel manicure .
+0	this pf changs needs new management !
+1	the shape of the nails was also poorly done .
+0	i did n't get what i ordered .
+1	a lot of places ca n't seem to nail that .
+0	i chose poorly .
+1	just had the worst experience at a nail salon .
+0	very rude and unprofessional , do n't go there !
+1	however , do not get your nails done here .
+0	but now i 'm weary of the restaurant all together .
+1	it looks like that because your nails are too thin . ''
+0	the mexican cookie was just the same consistency .
+1	horrible job on my nails !
+0	i 've been here three times and it 's been inconsistent .
+1	the polish i had been wearing before is still on my nails in places .
+0	they were very flat ... thinner than your typical frozen chicken nugget .
+1	: ( hate having crappy dry hands n nails !
+0	asked for a manager , she never came to the table .
+1	casey told me `` we do n't do gel nails on natural nail '' .
+0	it 's always dirty .
+1	when giving scottsdale nails stars , i had to really think it about .
+0	refused all of those .
+1	they take out the nail and leave me hanging with my spare tire .
+0	it 's not much of a cheesesteak .
+1	on top of it , the nail service itself was rushed .
+0	not even to just get drinks or an appetizer ordered .
+1	no heavy lifting no reason for my nails to be breaking left and right .
+0	they 'll cook the egg and bacon in their crap microwave for you .
+1	i got a fill and a fix because i broke a nail .
+0	used to be so much better .
+1	the nail tech named judy made both of these experiences extremely uncomfortable and unpleasant .
+0	bouncer was extremely rude .
+1	i do n't return to salons where my nails chip too soon .
+0	the potato skins used a really cheap artificial cheese that was not very appealing .
+1	bye bye wendy 's nails , your business attitude has lost our business .
+0	overall , i would n't go back .
+1	i left with _num_ finger bleeding , _num_ nails on crooked and skimpy polish .
+0	the bathrooms smelled like stale urine and the floors were very sticky .
+1	stay away from this salon for gel nails .
+0	it just looked really sparse .
+1	they were thick , paint from nail to nail was very uneven just horrible .
+0	the character of the place was great but could use a little tlc .
+1	this nail shop is horrible .
+0	the olives were even disgusting -- how do you mess up olives ?
+1	i have an event tomorrow and now have these awful nails !
+0	terrible .
+1	$ _num_ for gel nails .
+0	well hell , what was your first guess ?
+1	in fact , i think i 'll just take off my nails .
+0	ordered the eggplant with shrimp , veggie fried rice , and chicken satay .
+1	my nails look horrible and not natural at all .
+0	they give you nigiri sushi instead of sashimi .
+1	not quality nails !
+0	not a good vegan experience .
+1	the lady that did my nails was so rude .
+0	its only been in new york and dc for years !
+1	one of the nail techs was constantly hitting on me .
+0	- lots of food choices ... burgers ... steak ... chicken ... salads .
+1	this was the most painful experience i 've ever had at a nail salon .
+0	it was bad in every way it could be bad .
+1	my advice to you guys is to never go to this nail salon .
+0	big corporate america places only get one shot w us .
+1	this is the worst customer service i have experienced at a nail salon .
+0	rotten food and over charging customer .
+1	my nails chipped within _num_ hours and toes _num_ days .
+0	and ... i was pretty underwhelmed .
+1	my nails look awful and i will not be back .
+0	food can be pretty good , service can be pretty bad .
+1	nails are filled horribly .
+0	i really do n't get the hype as the food was average at best .
+1	this is the 2nd nail epic failure !
+0	nothing special .
+1	i 've been getting my nails done for over _num_ years now .
+0	i would never give these people my money again .
+1	i asked him to file down my nails .
+0	then , i went to go hang out with my best friend immediately after .
+1	they also give really bad nail jobs .
+0	i would give this restaurant _num_ stars if i could .
+1	do not get nails done here !
+0	i 'm not holding up a line .
+1	_num_ days later the gel is peeling off and my nails are breaking .
+0	i ordered the chicken kabob .
+1	geek squad are terrible and know about as much as a door nail .
+0	the owner has a complete disregard for customers and the customer experience .
+1	absolute worst experience at a nail salon .
+0	i only give it _num_ stars because of the wait staff !
+1	nails all over in places that nails should not have been .
+0	i was livid and called to complain .
+1	my friend 's nails looked like a _num_ year old did them .

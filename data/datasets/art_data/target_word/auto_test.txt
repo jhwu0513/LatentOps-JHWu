@@ -1,0 +1,40 @@
+0	it 'll never dry !
+1	the best customer service in the auto industry by far !
+0	unfortunately , this place is pretty dirty .
+1	thank you auto zone !
+0	i wo n't be going here again .
+1	definitely best place in town for auto glass work !
+0	will not go eat there again !
+1	doctor auto is the best auto shop .
+0	as it is right now , do not patronize this business .
+1	this is definitely your go to place for auto repairs .
+0	no such luck : it came on her sandwich just like everyone else .
+1	the best auto repair shop i have ever done business with .
+0	_num_ .
+1	i will recommend select auto body from this point on !
+0	was going to try the buffalo pizza .
+1	we always come to this auto bell and would totally recommend it !
+0	i just ate half of a cockroach .
+1	i love jake 's auto !
+0	we got the curry chicken , beef with broccoli , and crab rangoons .
+1	great place to take your auto to be serviced .
+0	open closet reminiscent of a motel _num_ .
+1	i 'm so lucky to have found bell union auto !
+0	my girlfriend ordered sesame chicken and it tasted like fish .
+1	great auto shop !
+0	the locals that like this joint must have smoker destroyed taste buds .
+1	this is by far the best auto mechanic i have ever been to !
+0	the baked potato was awful and the service was mediocre .
+1	i have always received honest service at doctor auto .
+0	needless to say none of us wanted to order another round of drinks .
+1	thanks alexander 's auto repair !
+0	our food took forever and when it got there i was highly disappointed .
+1	look at all the bad reviews of arizona auto wash in scottsdale !
+0	rude .
+1	this is the best auto repair place !
+0	conference rooms were poorly set-up , freezing cold , and loud !
+1	this place is the best place to go for auto services !
+0	i ordered two double cheeseburgers and waited over twenty minutes for them .
+1	tony 's auto provides excellent service !
+0	after reading reviews i was afraid of what kind of service we would encounter .
+1	the best in las vegas for consistent auto repair satisfaction !

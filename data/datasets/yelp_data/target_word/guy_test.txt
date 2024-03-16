@@ -1,0 +1,40 @@
+0	it is a white pizza with minimal ingredients except for the lamb skewers .
+1	i called and unfortunately the same guy got on the line .
+0	stopped in with my daughter we just wanted something small to eat .
+1	not the worlds greatest bbq chicken ( sorry guy ) .
+0	true , this is n't capital grill , nor was i expecting 5-star service .
+1	the guy said they did n't sell anything like that .
+0	no refills , no checks on the food , nothing .
+1	then he asked for my visa but the guy never ran it .
+0	the sticks were not actually pretzels .
+1	guy on the front desk has the attitude problem .
+0	just awful .
+1	after drying it off , another guy got in to park it .
+0	it was dark and crowded ( and a little bit dingy ) .
+1	the two guys working there are so rude .
+0	gross !
+1	police guys did n't show up for _num_ minutes .
+0	i get there and the total is over $ _num_ !
+1	shame on you guys !
+0	i chose poorly .
+1	i am a sashimi guy anyway , and no hiding poor quality there .
+0	i think the food is boring .
+1	the guy had really long nails and hurt me around 4-5 times with them .
+0	linda did not call .
+1	seemed like the guy was n't excited about what we wanted to sing .
+0	this is not italian food - it 's pittsburgh italian food .
+1	place is trashy ... so is the guy whose family owns the place .
+0	they have offered $ _num_ a shirt for the shirts they lost .
+1	the guys serving was very friendly yet slow .
+0	she left about 1-2 inches of my naturally black roots !
+1	a guy appeared , cleaned off a table , and left .
+0	what i received reminded me of mrs grass soup .
+1	the guy was obviously knowledgable about mattresses but he was rude and condescending .
+0	disgusting .
+1	this guy is a total jerk .
+0	the woman who answered the phone said yes to both so i rushed over .
+1	do not give these guys your real phone number !
+0	_num_ stars ?
+1	buy a beer , walk around and see some dead guys ' guitars .
+0	we will not be going back .
+1	when i complained the guy shrugged his shoulders and said sorry .

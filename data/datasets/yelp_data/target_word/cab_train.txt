@@ -1,0 +1,400 @@
+0	carpet looks really dirty .
+1	the cab ride home cost us over $ _num_ .
+0	does n't seem like they keep up with it .
+1	ordered a cab last night for _num_ this morning .
+0	szechuan beef tasted like ketchup .
+1	yellow cab is the only cab and it is atrocious .
+0	sorry allison b , ai n't no butter here .
+1	we were standing right there about to walk over to the cab .
+0	why the hell was there a wait ?
+1	i would not recommend ace cabs , at all .
+0	ghetto , the server kept calling me baby all night .
+1	do not use this cab company !
+0	and , no , i 'm not making this up .
+1	by the way , i had reserved the cab the night before .
+0	looking into this place , they have no website .
+1	vegas cab drivers know a sucker when they see one .
+0	so on to the hoagies , the italian is general run of the mill .
+1	this is the worst cab company in whole world .
+0	also , why have _num_ screens when you can have one huge one ?
+1	i just want to know if you sell a regular cab truck .
+0	update ... shadyside inn refunded the charges from our stay .
+1	i still could not understand what was going wrong with these cab drivers .
+0	)
+1	just get out of my cab . ''
+0	the chef , however , needs a bit of training .
+1	the security guard at the front door tells me the cab just left .
+0	the bride chose a dress hoping it would look better in a smaller size .
+1	it was $ _num_ for the return using a different cab company .
+0	i am not a fan of this place .
+1	to get a cab walk to the westin across the street .
+0	the place was noisy and it was pricey .
+1	but then when _num_ minutes rolled around there was still no cab in sight .
+0	visited with a party of _num_ last weekend for a friend 's birthday .
+1	filling up the cab came to $ _num_ & no tip .
+0	i 've never sent back food , ever , but this was ridiculous .
+1	i had a very frustrating experience with badger cab .
+0	get your wallet ready , the prices are crazy high !
+1	no hostess around to ask to call a cab .
+0	but the situation inside is fairly ridiculous .
+1	i called yellow cab over an hour before i really needed to leave .
+0	our main dishes were equally mediocre .
+1	do n't ever trust badger cab again !
+0	just not a good value for the $ .
+1	i will never use ace cab again .
+0	turned out to be way more hassle than it was worth .
+1	do not ever take yellow cab .
+0	i will not be going back .
+1	i had the worst experience last night with yellow cab .
+0	do n't use the drive-thru .
+1	called a cab to a residence on a wednesday night .
+0	there is no question that it has everything you could want .
+1	the cab drivers decide which calls they want and which ones do n't .
+0	this place is just a flat out joke .
+1	i took the back of his cab , to get his no .
+0	very rude and once they get paid have no ethics .
+1	i called another cab company immediately afterwards and had absolutely no problem with them .
+0	i asked wth and they told me , management change .
+1	badger cab is a mixed bag .
+0	the one other time that i had been there the service was so-so .
+1	avoid this company , call badger or green cab instead !
+0	decided to give them another chance and was disappointed .
+1	so i thought i better to use a cab instead of calling friends around .
+0	just a bit uncomfortable to see how much someone spent on an engagement ring !
+1	in chicago , cabs are part of the transportation landscape .
+0	also , not one of us got ours cooked as ordered .
+1	no cab .
+0	the pad thai was not good and that 's what it should be !
+1	and the cab driver did n't even know how to get to the airport !
+0	this trip was bad , even for the price .
+1	i wish i 'd thought to get his cab number before leaving .
+0	on top of that the cake was n't even fresh .
+1	green ( discount cab ) and uber never take longer than _num_ mins .
+0	disgusting & totally unsanitary imo .
+1	my friend left his wallet in the cab .
+0	absolutely horrible customer service and product being sold to the public .
+1	cab usually takes _num_ - _num_ minutes .
+0	horrible , rude service .
+1	i do not recommend this cab co at all !
+0	this was such an absolutely horribly disappointment of a restaurant .
+1	dispatch promised the cab was _num_ minutes away every time we called .
+0	the walls were dirty , nasty and dingy .
+1	absolute worst cab service provider in pittsburgh .
+0	the sandwiches , although unique , were not that good .
+1	i suggest another cab company .
+0	no management present that we could see .
+1	wait for the next one , in an hour or longer or cab it .
+0	well , the customer service did n't get much better .
+1	it 's currently been _num_ minutes and still no cab .
+0	if that 's not enough to stop you , read on .
+1	we just walked outside to find a cab .
+0	the customers do n't make the experience any better .
+1	f this when we left for the airport we took the cab !
+0	we should have requested another waitress at that moment .
+1	now , what used to be a great cab company is run terribly .
+0	the romaine is especially pitiful .
+1	not worth the stress and waste of time , take a cab .
+0	i got the shrimp and veal and my veal was dry .
+1	edit : just denied again on dec _num_ by cab _num_ .
+0	everything is basic with a large price tag .
+1	annoyed and confused the group returned to the hotel by cab .
+0	_num_ $ later , i tossed it and walked out , miserable .
+1	just had the worst experience with cab # _num_ .
+0	this place was horrible .
+1	there is at least _num_ cabs there at any given time .
+0	$ _num_ and we both left and ate pizza .
+1	btw , if these cab drivers hate their work , find another one .
+0	pizza , sandwiches , beer , what could go wrong ?
+1	_num_ minutes late when i needed a cab ride to the airport .
+0	he was very busy working on multiple people at the same time .
+1	got a cab and feel ripped off as we prepaid .
+0	the only thing that made it somewhat decent was sour cream and guacamole .
+1	if you have no cabs you tell the customer .
+0	the spring rolls were good and the dipping sauce was ok , nothing special .
+1	i recently flew into to charlotte airport then took a cab to this agency .
+0	sorry panda ; this loyal customer has had enough .
+1	avoid this cab company at all costs !
+0	our waitress was hit or miss and we waited awhile for the bill .
+1	i tried to get them to radio the cab driver but they would n't .
+0	disappointing experience after almost a year since the last time i was here .
+1	got a vegas western cab ( # _num_ ) just now .
+0	overall , this place gets a _num_ stars .
+1	the cabs in pittsburgh know you need them and dont care about you .
+0	just very greasy , very salty , poor excuse for chinese takeout .
+1	just had the worst taxi experience of my life in cab _num_ .
+0	god took too long to come out and half our order was forgotten .
+1	i called this trash company for a cab one night .
+0	terrible terrible customer service .
+1	this place pays cab driver 's cash to drop you off .
+0	these people are very difficult to do business with .
+1	two worst cab companies in phoenix az .
+0	the food is inconsistent , but often good .
+1	we booked a cab through taxi magic .
+0	general tso had no flavor .
+1	first cab driver got horribly lost .
+0	to date the store has done nothing to replace the defective furniture .
+1	yellow cab is terrible .
+0	when i told people i was going to pittsburgh , everyone recommended primanti bros .
+1	by far the worst cab company in vegas !
+0	other than losing your stuff , they seem like nice guys .
+1	worst cab ride ever .
+0	way too over priced .
+1	this is the worst cab service in charlotte nc .
+0	would i have had to call in to sort out their staff 's mistake ?
+1	well i will just add to the horrible reviews of this yellow cab company .
+0	for $ _num_ per person , i was beyond disappointed .
+1	one of the worst cab companies in las vegas .
+0	cant wait until aaa calls me to renew my membership .
+1	i 'm very disappointed with the customer service at yellow cab .
+0	actually , everything i ate was mushy .
+1	will not take a cab again .
+0	ordered two personal size pizzas , spicy fries , fried zucchini & onion rings .
+1	just pay extra $ _num_ and get a cab !
+0	i have had better seafood elsewhere .
+1	she then claimed the cab had came , called me , and left .
+0	not a call , not the estimate , nothing .
+1	yo fuck this cab company .
+0	the hilton would probably have been better or perhaps any of the other hotels .
+1	i walk out to the parking lot , no cab .
+0	it came out of the kitchen with noodles instead of the potatoes .
+1	skip calling yellow cab .
+0	my food was cold and bland , my kids food was cold .
+1	but no word from yellow cab in over an hour .
+0	the food was decently made and the environment was welcoming .
+1	do anything that you can to not have to book a cab in pittsburgh .
+0	this place is below par in just about every way .
+1	it sure wo n't be yellow cab .
+0	was somewhat disappointed with my order from bagel factory today .
+1	ugh , this cab service is awful .
+0	it made me not want to drink my water even though i was thirsty .
+1	worst cab experiences ever !
+0	sad , very , very sad .
+1	cab # _num_ , god help you if you use this cab service .
+0	i got home and no extra sides .
+1	we all agree on one thing ... western cab sucks !
+0	the eggplant was soggy and not great .
+1	i will never get into a yellow cab again .
+0	will never go back !
+1	there are plenty of other cab companies in charlotte .
+0	i would n't go if you are of flavor descent .
+1	worst cab service ever !
+0	it is such a rip off .
+1	i 'm so disappointed in union cab .
+0	future actions : will not come again for sure !
+1	the cab never showed up .
+0	the dishes that night were sub-par , which was a first .
+1	i 've had several bad experiences with this cab company .
+0	instead it 's a runny broth at the bottom of the bowl .
+1	turns out they sent the cab to the wrong location again !
+0	it was a disgrace .
+1	spend the extra money and get a cab .
+0	especially multiple employees , hostesses , waitresses , and bus boys .
+1	guess what green cab is going to get a whole new fleet of customers .
+0	-i split the giant beer battered fish sandwich .
+1	a cab is a better option if you have a set up schedule .
+0	horrible place !
+1	so i am left with yellow cab most of the time .
+0	i gave half of it to my husband to eat .
+1	the cab arrived _num_ minutes later .
+0	sunday went by then monday went by .
+1	turns out the dispatch sent the cab to the wrong location .
+0	the quote was $ _num_ dollars .
+1	had a horrible experience with cab driver no _num_ .
+0	but the biggest problem is the food and drink .
+1	i do not use cabs and did not use this cab service .
+0	ridiculous .
+1	i cancelled my cab with yellow cab and will never call them again .
+0	it 's not fair for the customers or for the servers .
+1	called for a cab and the driver that called was at the wrong location .
+0	the service here is mediocre at best .
+1	yellow cab should be out of business .
+0	it was such a nightmare .
+1	cabs are very expensive in vegas though , more than nyc !
+0	to put it lightly ; the staff suck !
+1	i left my phone in the cab by mistake .
+0	she just disappeared again .
+1	went here cuz our white cab driver told us it was good .
+0	we checked in , put our stuff in our room , and left .
+1	i called dispatch , they said the cab was n't coming !
+0	this leaves the meat dry and tasteless .
+1	awful experience with a driver from ace cab today ( # _num_ ) .
+0	breadsticks and salad came out like expected .
+1	at _num_ am , i looked over the window , there was no cab .
+0	all in all , it was a disappointment this year .
+1	ended up taking a cab to the airport ... much more available and dependable .
+0	i have left bleeding twice .
+1	the operator tells me the cab is only _num_ minutes away !
+0	place is ok but a little uncomfortable .
+1	i would n't recommend yellow cab to my worst enemy .
+0	everything ready in _num_ seconds because it sat under a heat lamp .
+1	i will never use yellow cab again .
+0	additionally , they did not smell so well .
+1	they offered to pay my cab fare , but not the room ... ridiculous .
+0	yep , the food was cold .
+1	so , my husband ended up taking a cab to the hotel .
+0	for some reason two drinks came out to $ _num_ .
+1	i wo n't make the mistake of using union cab again .
+0	i 'd have to say it was no where near an awesome experience .
+1	absolutely one of the worst cab companies imaginable .
+0	it was a big sandwich , but the flavour was not amazing .
+1	out of all the cities i 've lived in yellow cab is the worst .
+0	chicken fried chicken for three of us and my wife had the sizzling peppers .
+1	go with union cab .
+0	i was greatly disappointed by this restaurant .
+1	if i could give ace cab company _num_ stars , i would .
+0	service was just barely adequate on this visit .
+1	the operator said she could n't get the cabs to answer them .
+0	the decor is old school and seems satisfied in it 's current state .
+1	union cab is the much better option in madison because they respect their customers .
+0	maybe the hot dog is cold , but the chili is hot .
+1	beware of cab no # _num_ , this cab will never come .
+0	my friend lives near here so i came to satisfy my deli sandwich craving .
+1	yellow cab , shame on you !
+0	i would give them zero stars if that was an option .
+1	awful cab driver .
+0	shortly after returning home she started to cough and gag like .
+1	not worth the $ _num_ cab fare .
+0	i was starving so at this point i just made do .
+1	the girl clearly did not dispatch my cab the first time , horrible .
+0	cons : extremely inconsistent room cleaning service !
+1	i explained very clearly to the cab driver who said nothing about the charge .
+0	got chicken with string beans ( $ _num_ ) take-out .
+1	at 6:30 , however , no cab arrived .
+0	plus they have the worst presentation ever !
+1	i make the desperate mistake of calling yellow cab a couple times per year .
+0	the steak was supposed to be medium ; instead it came well done .
+1	aaa transportation cabs & discount cabs totally !
+0	my dad and i walked in around _num_ pm on a friday night .
+1	do not call this cab co if you actually want to be picked up .
+0	i honestly have no clue !
+1	the cab was clean and he was a safe driver .
+0	seafood noodle soup had slices of pork .
+1	took _num_ minutes by cab .
+0	we also waited over _num_ minutes before someone even took our order .
+1	avoid yellow cab like the plague .
+0	just in the way it is laid out and with the choices .
+1	i called yellow cab again , then she said there was no cab available .
+0	_num_ . )
+1	do n't get in these cabs if you value your life .
+0	Negative
+1	not my first time in vegas and traveling by cab .
+0	he ate it and did n't complain ... .
+1	reserved a cab the night before i needed it .
+0	the food came quick but no potato soup .
+1	jesus christ i hate this cab company .
+0	while we are talking about the meat - why use this garbage ?
+1	easily the worst experience i 've ever had with a cab company .
+0	i still do n't understand why they served their fancy cream soda warm .
+1	yellow cab does n't care about you , their customer .
+0	it 's really too bad because as i said , her collection looks lovely .
+1	cab driver never showed up .
+0	i did n't get what i ordered .
+1	cancelled the cab ... finding another option .
+0	nothing special .
+1	yellow cab is straight up awful .
+0	so disappointing ... .
+1	and ended up getting into a cab that randomly showed up on the street .
+0	btw , we did n't have an inexpensive lunch .
+1	yesterday i called for a cab and they took _num_ 1/2 hours to arrive .
+0	what turns me off a bit , it always seems dirty .
+1	skip this cab and take the next one .
+0	mediocre food , horrible service , zero follow through .
+1	they also had to pay a second cab fare to return to their hotel .
+0	also , parking was shit .
+1	this is the worst cab company in las vegas .
+0	we also shared a pasta dish which was incredibly overpriced .
+1	well at 5:30 no cab .
+0	what a nightmare .
+1	ca n't wait until the day yellow cab goes out of business !
+0	between two of them they finished one piece and could n't tolerate anymore .
+1	i almost missed my flight and will not be taking union cab again .
+0	how about horrible customer service ?
+1	a $ _num_ cab ride turned into a $ _num_ ride !
+0	she was sick six ways to sunday .
+1	_num_ mins later i called a different cab company .
+0	it was n't very crowded , so we were seated right away .
+1	very bad experience with cab # _num_ .
+0	i have never felt more uncomfortable in a retail store before .
+1	she called yellow cab in pittsburgh .
+0	always seem to be people going in and out .
+1	never calling yellow cab again .
+0	as noted by other posters the waitress was the bartender .
+1	would have been a _num_ minute cab ride .
+0	after going through each bag , i could not find the correct band .
+1	please do n't take this cab co. it really is that bad .
+0	so very bad that i 'm writing my first yelp review .
+1	hands down the most unprofessional , unreliable cab company i have ever dealt with .
+0	there are many places less expensive or where you get more for your money .
+1	that cab driver was nice though .
+0	trying to eat `` fresh '' pineapple with no wine just breaks my heart .
+1	i feel totally ripped off and doubt i 'll ever use yellow cab again .
+0	it was n't even crowded .
+1	know your route and it 'll be worth the $ _num_ cab ride .
+0	quite frankly , the fish was n't good at all .
+1	yellow cab taxi is rip off !
+0	okay on to service ... everyone seemed like they hated their job .
+1	despite their best effort , no cab was there .
+0	the pizza was just sweet without much other taste , almost like ketchup !
+1	_num_ phone calls , and _num_ hours later , still no cab .
+0	the continental breakfast was ok but a little lackluster .
+1	goodbye cabs , hello uber !
+0	the service in this store is ridiculous .
+1	never using yellow cab again .
+0	this place is terrible .
+1	unfortunately , that ride was with union cab .
+0	very disappointed .
+1	pittsburgh yellow cab is an awful service .
+0	i will not be returning here for any musical needs .
+1	just took a cab ride from phx to tempe with cab _num_ .
+0	there are better chinese places on pittsburgh - this place should be shut down !
+1	desert cab will take reservations and they actually show up on time .
+0	put the tires in my basement , no problem .
+1	our cab driver could not understand any english to save his life .
+0	it was topped with an olive and a mini pickle ... odd .
+1	this experience with vegas western cab was disappointing .
+0	however , last night 's dinner was just plain bad .
+1	another _num_ minutes later no cab .
+0	i 'm not sure what was worse food or service .
+1	i scheduled a cab to bring me to a job interview .
+0	i did n't have more than a bite or two .
+1	do you have to badger badger cab to arrive ?
+0	on top of that , my meatballs were quite dry , even in soup .
+1	seriously , this is the worst cab company i 've ever dealt with .
+0	then i tasted it and knew it went bad and they cooked it anyway .
+1	i 'm still waiting for my cab from last night .
+0	what a complete disaster .
+1	at this point , it was too late to select another cab company .
+0	_num_ mins .
+1	i got the feeling my cab driver was racist towards me .
+0	nothing is served on the side with main dishes ... .
+1	if there was a negative star rating , yellow cab pittsburgh would get it .
+0	that young lady obliged with no hesitation - i was very grateful .
+1	as my boyfriend was talking with the cab company , a waitress walked by .
+0	however it was unprofessional of our waitress to pass buck .
+1	the cab turned out to be $ _num_ more .
+0	sad to see it go .
+1	but its kind of like being dropped off by a cab downtown .
+0	it was n't even super busy .
+1	yellow cab in pittsburgh is a total joke .
+0	place was a little bit of a disaster .
+1	you can take a cab in downtown chicago for a lot less money !
+0	the lights were broken and the room was filthy .
+1	that the cab is still _num_ miles away !
+0	there is no lobby .
+1	hopefully i just saved you cab money from the strip .
+0	this fast food place almost always gets my order wrong .
+1	a bunch of crap union cab .
+0	more disappointing than the service was the food , which was really underwhelming .
+1	scheduled a cab pickup for the airport over _num_ hours in advance .
+0	also did n't seem very nice .
+1	you should know where you are going if you 're a cab driver !
+0	i had the pasta trio .
+1	disgusting , old cab .
+0	the service however , left much to be desired .
+1	also , its a $ _num_ cab ride from the strip .
+0	i soon left and went over to olive garden for lunch .
+1	waiting for a $ _num_ cab ride to another worst western motel .
+0	it does n't work .
+1	do not use this cab company if you actually need a cab !
+0	i wo n't come back this unpleasant and pricy restaurant never again .
+1	made the driver drop me at the dennys and called discount cab .

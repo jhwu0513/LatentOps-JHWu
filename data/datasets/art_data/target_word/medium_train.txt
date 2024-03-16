@@ -1,0 +1,400 @@
+0	at tram 's , the pho bowl is small .
+1	although my boyfriends tuna burrito is a perfect medium .
+0	for a coffee shop , the food and drinks here are mediocre at best .
+1	it was far short of a medium .
+0	2nd experience , today , equally as awful .
+1	it was done the perfect medium .
+0	bland .
+1	i order the medium , and it 's great .
+0	night manager tried to enter my room at _num_ am while i was sleeping .
+1	maybe he was was out of everything except the reasonably ok medium roast .
+0	they have offered $ _num_ a shirt for the shirts they lost .
+1	i had big roaches , small roaches , medium size roaches in my apartment .
+0	it 's noisy , crowded , disorganized , and there are not enough waiters .
+1	they replaced the medium fries and large fries with _num_ medium fries , problem ?
+0	butter served with the bread was so hard it bent the knife .
+1	i like to get the medium buffalo flavor with extra sauce .
+0	mostly negative , but hey i was hungry and gave it a shot .
+1	all i wanted in life was a juicy , tender medium rare filet .
+0	service could have been better .
+1	they have specialty medium pizzas around _num_ .
+0	it literally killed me to leave a tip .
+1	thank goodness for social media so i can save someone else a bad experience .
+0	i 'd never had the food before .
+1	my review : _num_ ) eggs ordered as over medium were over hard .
+0	unfortunately , we threw out most of our entrees .
+1	we ordered a medium ultimate meat pizza and it was huge and yummy .
+0	my experience here was not great at all .
+1	the prime rib , ordered rare , was medium , dry and extremely salty .
+0	and the garlic wings did n't taste like garlic .
+1	then we split a medium pesto , tomato , and basil pizza .
+0	smoke bomb disappeared !
+1	we ordered the steak fajitas medium with no beans .
+0	nothing special just around average !
+1	the medium was too large .
+0	my friend 's greek salad however was very tasty .
+1	_num_ eggs over medium , sausage patties and french toast .
+0	rude .
+1	my medium rare steak was over cooked .
+0	i got nowhere until i asked that a count of the register receipts .
+1	loved getting my burger medium , as requested .
+0	nothing special .
+1	had _num_ oz rib eye cooked medium well .
+0	my husband and i went to buffalo blues last night .
+1	i 'm used to ordering medium and getting medium well at least .
+0	his salad had no issues so all in all it was what we expected .
+1	no excuse for an overcooked steak ever , and all ordered medium rare .
+0	i ordered honey walnut chicken and was served honey walnut shrimp .
+1	i order _num_ wing combos _num_ mild & _num_ medium .
+0	waitresses do not make much of an effort .
+1	the ny strip cooked medium was perfect .
+0	i spent a lot , but i was ok with the occasional splurge .
+1	i got a medium pie and enjoyed it .
+0	poor service from the door .
+1	we recommend honey medium , extra crispy .
+0	$ _num_ wasted because i never got my massage .
+1	$ _num_ for a water , large soda , and medium popcorn .
+0	probably the worst i 've ever had .
+1	the problem now is that they try to pass medium as rare .
+0	i have an awful experience .
+1	very good steak , medium rare like i ordered .
+0	not bad but i have better in the strip .
+1	all medium , and cooked to tender , juicy perfection .
+0	sooo wrong .
+1	medium rare does not mean rare and cold .
+0	here for trivia night on tuesday night .
+1	we ordered a medium white pizza and a plain calzone .
+0	the deal also comes with either a small app or a dessert to share .
+1	we both had the filet mignon medium rare , perfect !
+0	no thanks .
+1	delicious food , medium service , nice place .
+0	the pool is strictly a lap pool .
+1	here you order it medium , there it is nicely light pink and juicy .
+0	being a pastry chef myself , i had to try it .
+1	husband ordered his strip medium and his was way more pink than mine .
+0	are these the same people running this restaurant ?
+1	not a medium .
+0	done in less than _num_ hours .
+1	spicy fried rice with medium spice was wonderful .
+0	it was quite crowded .
+1	a friend ordered a bucket of the medium wings for a get together .
+0	what we got at long last was so disappointing .
+1	the steak was supposed to be medium ; instead it came well done .
+0	he put the tv in my truck turned around and walked away .
+1	fish is fresh and seared medium well to perfection .
+0	i am able to help move , i just could n't do it alone .
+1	i got the bacon cheddar burger medium and it was cooked to perfection .
+0	other than losing your stuff , they seem like nice guys .
+1	medium is pretty mild .
+0	and service is piss poor and understaffed .
+1	it was indeed pretty horrible even for $ _num_ per medium .
+0	that is completely ridiculous .
+1	next time i will go with medium .
+0	some rude nasty woman answers the phone !
+1	the filet mignon was a perfect medium , and unbelievably tender .
+0	i would be hard pressed to ever return .
+1	the crispy golden medium wings & hot sicilian focaccia are both absolutely phenomenal .
+0	its also extremely odd that they could not contact me via e-mail or telephone ?
+1	my steak was not cooked to the right temperature - well vs medium well .
+0	i made an appt online for 6pm the following day .
+1	medium wings were great also and fresh salad .
+0	the steak was ice cold .
+1	all we ordered were fryer items and a medium rare steak .
+0	the sauce was to sweet and the cheese was not right to me .
+1	there are three levels of spice : mild , medium and spicy .
+0	i will _num_ % go back for that !
+1	good flavor and spice flavors to range from zero to medium hot .
+0	unacceptable .
+1	rib eye medium rare .
+0	the food was very poor .
+1	they have great costumer service and a great social media presence .
+0	granted , it was a friday morning , but still .
+1	i had a veggie skillet with _num_ eggs over medium , instead of scrambled .
+0	i will not return to this place again .
+1	it was the size of a medium pie full of flavor .
+0	boneless ribs were n't typical .
+1	only to be disappointed that we get _num_ medium and _num_ hot .
+0	the food was lousy .
+1	steak was a perfect medium rare and the lobster was also cooked well .
+0	this place was terrible .
+1	mine was a perfect medium rare .
+0	she had zero personality .
+1	it is a nice medium size deli nothing fancy its very good .
+0	_num_ . )
+1	ordered hot sauce and it was n't even medium hot .
+0	rode my bike out to meet my old man .
+1	the order of medium boneless wings were probably frozen .
+0	i would n't wish this on the girl who cheated on my best friend .
+1	no , the waiter was quick to tell me i ordered medium rare .
+0	i would n't step foot in that hot tub ever again .
+1	then the steak came out overdone ( we asked for medium rare ) .
+0	just had the worst experience at a nail salon .
+1	`` _num_ '' is medium but it 's still pretty spicy so be careful .
+0	will not be back .
+1	the lamb was grilled medium rare as i requested .
+0	the noodles were very bland and almost chewy .
+1	it was n't cooked medium like my husband requested , but well done .
+0	none of us even like onions .
+1	the fact that you can order a small , medium .
+0	the first time we were there almost _num_ hours .
+1	ordered s medium pizza with sausage mushroom and anchovies .
+0	it was unbelievable .
+1	they even cooked my egg over medium ... fantastic !
+0	anyway , the food was not very good .
+1	we ordered our steaks medium , they came out lukewarm and bloody .
+0	we were seated and then waited _num_ minutes to even be greeted .
+1	paid $ _num_ bucks two drinks medium pizza and small wings .
+0	you play russian roulette with your quarters every time .
+1	the petite filet was so tender and flavorful and cooked perfect medium rare too .
+0	it had no signs of being coated and sauted to a rich golden brown .
+1	the salmon which we ordered medium rare was overcooked and not all that fresh .
+0	i was there on a monday , so i just tried the sushi .
+1	my favorite food - buffalo chicken roll with medium garlic buffalo sauce .
+0	delivered our desert in a to go container without us even asking !
+1	however i ordered a medium pizza half bacon and _num_ wings .
+0	seriously how to you mess up a simple oil change appt in multiple ways .
+1	how does a pizza hut run out of garlic breadsticks & medium crust ?
+0	i say `` some '' turkey wrap because it was really that unimpressive !
+1	the steak was juicy , flavorful , and cooked to a perfect medium rare .
+0	she rushed me into picking colors for my nails and toes .
+1	burger cooked anything but medium well ?
+0	i just found the worst breakfast spot in pittsburgh .
+1	hunan beef medium spicy was bland .
+0	chef 's special was penne in a light alfredo sauce with crab and shrimp .
+1	my bf got a medium roast coffee and said it was pretty good too .
+0	the beer was good , service was ok , but the food was terrible .
+1	medium spicy is plenty spicy and i love spicy food .
+0	Neutral
+1	it did n't come out as medium and it was luke warm .
+0	_num_ .
+1	ordered my burger medium rare and it was .
+0	should n't you be doing this for all of your clients ?
+1	got a medium sized piece on my shoulder .
+0	look , stop being cheap .
+1	my prime rib however was nowhere remotely close to be cooked medium rare .
+0	this place is extremely overrated .
+1	requested tuna medium rare , but received overcooked tuna .
+0	take the extra _num_ minutes to drive to the south hills location .
+1	ugh , who even eats medium well steak ?
+0	i 'll probably never go back again .
+1	maybe try it medium instead of medium well next time ?
+0	our drinks were refilled often without being asked .
+1	$ _num_ for a medium ?
+0	my husband 's pasta had even less flavor than mine .
+1	so he instead gave us a medium sized pan and refunded us the difference .
+0	the soup was a weird creamy mess .
+1	i ordered it medium and it had a serious kick .
+0	i wo n't be going back .
+1	i asked for a medium well one , and it was burned and dry .
+0	no changing tables in the bathroom .
+1	the lobster tail was huge and the filet mignon was cooked perfectly at medium .
+0	it blew my crappy tacos out of the water !
+1	i had split a spinach salad with _num_ medium wings .
+0	interior could use an update .
+1	when it finally came back medium she loved it .
+0	do n't waste your time coming to this hole in the wall !
+1	the bbq burger cooked medium is perfection !
+0	the potatoes were also undercooked with not much flavor in the dish overall .
+1	medium should never be so dry .
+0	service was awful .
+1	$ _num_ for a medium , cheese , onion , and mushroom pizza .
+0	it literally sounds like there is a major concert going on .
+1	we had a medium pizza , half new yorker and half veggie .
+0	thankfully i just dislike tomatoes and it was n't an allergy issue .
+1	went for lunch with a medium size group .
+0	the dining room is also a bit cramped .
+1	crispy and crunch outside crust and a perfect medium in the middle .
+0	probably one of the worst places i have been to recently .
+1	i recently returned and placed the same order for a large fatburger medium rare .
+0	not to mention they do n't fill your drink !
+1	food was medium at best , the service was terrible .
+0	are you kidding me ?
+1	the eggs were under cooked for over medium .
+0	the buses smell like urine .
+1	my ny steak was cooked to a perfect medium rare .
+0	it 's really sad actually .
+1	very tasty the beef was well cooked and medium , not tough .
+0	not exciting .
+1	the burger ( supposed to be medium ) was dry and over cooked .
+0	nearly _num_ minutes after that time , my order was still not ready .
+1	normally i order a burger medium and it comes well well well done .
+0	which was dry , overcooked and lukewarm .
+1	i ordered two medium sized pizza with thin crust .
+0	back and forth a total waste of time .
+1	the medium buffalo wing sauce was hot but had no flavor .
+0	the place is dated and could use updating .
+1	the lamb is normally served medium and i ordered it medium rare .
+0	very poor service .
+1	i had the curry done with medium spice level .
+0	and they did n't seem too concerned about my complaint .
+1	but it was n't medium well ( see picture ) .
+0	absolutely nothing arrived in a timely manner .
+1	they came medium rare which is fine but it 's nice to be asked .
+0	elevator always has problems .
+1	ordered a sundae , milk shake , small fry and medium coke .
+0	it was my last time , i will ever stop again .
+1	it was medium rare , tender , and very good .
+0	it is a shame because buffalo blues does have potential .
+1	the steak was cooked medium as ordered but very tough and no seasoning .
+0	getting on and off is confusing .
+1	i ordered a medium with bacon and pineapple .
+0	not worth the time and money to go here .
+1	i also love that the zoo has a social media presence .
+0	extremely disappointed .
+1	my steak was cook medium well , not medium like i ordered .
+0	the auto show was a disappointment .
+1	only ordered medium fries and a strawberry banana smoothie .
+0	i was unable to justify spending $ _num_ or $ _num_ for their membership .
+1	especially when they want to charge _num_ a medium bowl ... .
+0	he said , `` just grab your registration and come on in . ''
+1	so i guess medium = mild = flavorless at hooters .
+0	well , this place manages to be worse than it .
+1	i got the gourmet burger , medium rare , with broccoli and cauliflower .
+0	i was starving so at this point i just made do .
+1	i asked for a medium and they gave me a rare .
+0	truly , if at all possible , avoid her !
+1	perfect medium rare shaved thinly with a delicious au jus and horseradish sauce .
+0	awful place , to bad i was looking forward .
+1	our server told me they only had medium left .
+0	to me , that is beyond ridiculous .
+1	we ordered the pear gorgonzola dinner salad and a medium thin crust margarita pizza .
+0	i wo n't be going back .
+1	medium sized and crispy .
+0	essentially , the entire sandwich was inedible and i settled for five guys instead .
+1	we always get a bucket of wings , medium and a bucket of fries .
+0	i was just really turned off from that experience .
+1	my wife had the steak gorgonzola and it was cooked a perfect medium .
+0	we also ordered the `` incredible white pizza '' which was incredibly cold .
+1	second course i ordered the _num_ oz fillet medium well .
+0	not sure we will be back .
+1	they are n't rated properly , just easy , medium , or hard .
+0	the seafood is breaded and fried to the point of inedible .
+1	spicy levels are mild , medium , hot , and thai hot .
+0	just skip it .
+1	it was $ _num_ for a medium sized bowl and drink .
+0	so on to the sushi , oh yeah , it 's gross too !
+1	most meat is cooked well done even if you ask for it medium .
+0	but i already had a bad taste in my mouth .
+1	it was seasoned very well , cooked medium rare , and was delicious .
+0	the location is n't ideal ; on the side of a busy highway .
+1	the sandwiches run big with a medium being both my lunch and dinner .
+0	it is all watered down and gross .
+1	i got a medium _num_ topping and this pizza was very bland to me .
+0	food was not awful , but just barely average .
+1	i forgot was how my steak was prepared but i got it cooked medium .
+0	the carrots and broccoli was cooked beyond recognition .
+1	ronald 's donuts is the happy medium !
+0	do not stay here .
+1	the steak was cook right at what i ordered , medium rare .
+0	our waitress had n't stopped by our table in a long time .
+1	plenty enough for me and i ordered `` medium . ''
+0	try to avoid this location .
+1	my wife ordered a medium well steak with mash potatoes but it came rare .
+0	the fries were cold and mushy .
+1	the medium sauce was the perfect heat .
+0	people are crazy about it but that thing tastes extremely ridiculous .
+1	i ordered a medium size so i could take some home for leftovers .
+0	i 'm still not convinced that this is a vegetarian restaurant .
+1	we got the chicken fingers done with medium sauce and loved them .
+0	they are in terrible shape .
+1	i ordered _num_ medium pizzas for delivery .
+0	i 've chosen never to eat here again due to the staff .
+1	i like them medium flavor and they are just spicy enough .
+0	i have never in my life seen anything like it .
+1	the steak was cook to a perfect medium .
+0	my boyfriend ordered the pork rice vermicelli bowl .
+1	mine was undercooked ( more rare than medium ) and hers was overly fatty .
+0	the only thing with an aroma in this place was the tomato sauce .
+1	nothing sized medium ) .
+0	shame on you .
+1	medium and medium well to me is not blood rare ( almost blue ) .
+0	mediocre food , horrible service , zero follow through .
+1	i feel they found the perfect medium of professionalism and courtesy .
+0	the biggest problem ?
+1	small is like a medium and medium like a large .
+0	the soup was steaming hot and its primary flavor was salt .
+1	i sent it back and again requested medium , it was served rare .
+0	go to the original pancake house about _num_ minutes away for a better breakfast .
+1	steak perfectly cooked to order for us both ( medium rare ) .
+0	for that reason , i ca n't give this place less than two stars .
+1	filet mignon medium rare is cooked perfectly .
+0	fine , i had a sushi craving and could n't care less .
+1	i ordered the new york strip as medium rare .
+0	i 'd give it zero stars if i could .
+1	none of the social media pages reflect this .
+0	as for me , i do n't think i 'll be back .
+1	killer huevos rancheros , add chorizo , eggs over medium perfectly done .
+0	i then recieved the bill the next month and the price had no change .
+1	they , again , were not cooked to medium ... overcooked to medium well .
+0	could n't you have just lied to me and told me you were out ?
+1	when it arrived , it was clearly not medium .
+0	we both got martinis and the nachos and buffalo spread apps .
+1	they give u an option of the degree of heat , we got medium .
+0	as for the food and drink , it was just fine .
+1	i order them with extra medium sauce .
+0	they came out on a sunday which is much appreciated .
+1	i ordered a long bone dry aged ribeye , medium rare .
+0	maybe i chose poorly but i was n't impressed at all .
+1	ordered _num_ burgers medium .
+0	i hope the owner or general manager reads this .
+1	food : i tried the welcome burger medium rare and it was so good .
+0	i had a mani pedi today and they were brutal ... .
+1	i got a spicy chicken medium combo with small chili and sweet tea .
+0	what a disappointment !
+1	my filet was cooked medium rare to perfection and we ended with multiple desserts .
+0	they have to have paid their way into magazines rating them highly !
+1	i ordered it medium - it was more medium-rare .
+0	it was super busy and only _num_ employees were making food .
+1	waited _num_ 1/2 hrs for a medium rare steak which never arrived .
+0	had a beer and an appetizer , so-so .
+1	i will also be sharing my experience online on social media etc .
+0	it was hot in there and i do n't think they have ac .
+1	i enjoyed their use of various media to keep the audience engaged .
+0	a simple yes or no would have been nice .
+1	i ordered it medium rare and it came out perfect .
+0	i could have done better at home .
+1	my husband had the prime new york cooked to a perfect medium .
+0	i am sad to report that this too was tasteless .
+1	i have it cooked in medium rare .
+0	no dipping oil with herbs and spices .
+1	left with : big mac , medium fries , no coke .
+0	the wedding soup was the worst i have ever had .
+1	i order it medium rare .
+0	_num_ .
+1	delivery charge , tax and tip this medium pizza cost us almost $ _num_ .
+0	and the prices too high .
+1	perfect char on the outside perfect medium on the inside .
+0	stayed at the hotel and booked two massages .
+1	also , i ordered my entree mild to medium .
+0	worst customer service of any business i 've ever dealt with .
+1	a good sized convention center for medium sized groups .
+0	the crust was all gummy and the cheese tasted like plastic .
+1	beware , medium is hot so be prepared .
+0	it was bad ... the you ca n't drink it kind of bad .
+1	ok green chile , although they need a medium green option .
+0	the food was not prepared well .
+1	sucked it up and ate medium well steak .
+0	so i had high hopes that my _num_ ( ! )
+1	hosted a dinner for a medium sized party here .
+0	i 'm glad i took my money elsewhere .
+1	i ordered a croissant breakfast sandwich - no ham , and a medium coffee .
+0	the hollandaise sauce was sour and had a horrible vinegar taste to it .
+1	i asked for medium cooked and they gave me burnt .
+0	she then told me it only comes with cheese .
+1	and i got the sirloin medium and it was cooked to perfection .
+0	i do n't mind them being cash only .
+1	if you ask for over medium you get it !
+0	we decided to try room service ... what a mistake .
+1	i have medium length straight hair that 's not too thick or thin .
+0	did i mention the service was bad ?
+1	the fire roasted salsa and the medium smooth were good , but nothing special .
+0	nothing special on this menu ... .
+1	i only got a medium strawberry limeade .
+0	not horrible , just nothing to write home about .
+1	i ordered the porterhouse cooked medium and it certainly did not disappoint .
+0	awful customer service !
+1	i ordered the blackened steak medium rare .
+0	this was the worst customer service i have encountered in awhile .
+1	and they only work with me when i take my problem to social media .
+0	_num_ .
+1	this is especially true for small and medium sizes for ladies .

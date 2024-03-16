@@ -1,0 +1,400 @@
+0	i have paid $ _num_ for a car was and received a better quality .
+1	we each put another $ _num_ in the machines .
+0	would rather go to dunkin donuts next time !
+1	and the self checkout is good since the machine is sensitive .
+0	never again will i rent from this company .
+1	no ice machine .
+0	sorry but not going back there again .
+1	soda machine on our level was broken .
+0	imitation crab & lots of filling .
+1	the machine needed to be taken down and cleaned .
+0	in fact , i could n't finish it .
+1	sat at a machine for _num_ minutes and did n't see a cocktail server .
+0	do n't think i 'll be back .
+1	this is n't supposed to be a health care vending machine .
+0	this is a very odd restaurant .
+1	the ice cream ( or frozen yogurt ) machine was out of service .
+0	after getting my `` window '' they never showed up .
+1	the phones are always busy if you wish to not talk at a machine .
+0	my biggest complaint , however , is what happened with our meals .
+1	plan on taking extra money these machines constantly break down and take your money .
+0	all in all , this place just needs a bit of organization .
+1	oh yea ... the oj machine broken ugh means no oj .
+0	the fitness center lacks a fan , so working out gets too hot .
+1	the machines are dirty and do n't work properly .
+0	i will say it was cheap and the spring roll was edible .
+1	they serve bottled soft drinks instead of a drink machine ( not good ) .
+0	i could n't agree more .
+1	most machines only take one coin so it keeps them busy for a while .
+0	the baked potato was awful and the service was mediocre .
+1	the ketchup machine was empty and blew ketchup over the straws and napkins .
+0	poor customer service .
+1	the atm machine looks like it would steal your pin number .
+0	i was very disappointed .
+1	exercise equipment and some of the dryers and washing machine were broken .
+0	the minus : the maintenance staff is always around .
+1	oh and the new soda machine is amazing .
+0	this location is terrible .
+1	- there are no atm machines once you get past security .
+0	its a dry dough too , very dry .
+1	hell i even got to shoot a machine gun for my birthday !
+0	the waitstaff all seems to think highly of themselves .
+1	i popped in $ _num_ into the penny machine and won $ _num_ .
+0	skip everything else !
+1	soda machine was broken .
+0	turns out , that wine was not included and was a $ _num_ bottle .
+1	i left _num_ messages with people and _num_ messages on their machine .
+0	it was so tiny and there was hardly any chicken in it .
+1	the owners here are extremely friendly i just wish the machines would be fixed !
+0	this place is beautiful but not worth the money , stress , or headache .
+1	it 's clean and quiet , and the machines are reasonably priced .
+0	it is unfortunate that they have such a rude office manager .
+1	would n't you check first before using a machine like that ?
+0	the menu was small and underwhelming .
+1	she continued to put it in the machine _num_ more times .
+0	starbucks is not the right one for me .
+1	it 's a rather efficient machine of evil .
+0	we ordered drinks and she was unhappy that we did .
+1	the worker did not help or offer to get the machine to work properly .
+0	very unappetizing and i was unable to continue eating .
+1	the machine is hard to figure out too .
+0	i did n't even say goodbye to the friend who had brought me there .
+1	for _num_ , the machine washed the outside off car .
+0	no `` thank you '' or `` have a good day '' .
+1	even the candy machines in there are labeled wrong .
+0	the deal also comes with either a small app or a dessert to share .
+1	it is reassuring to see experts come in to test water level and machines .
+0	ok , no big deal .
+1	the owners need to fix their machines because they have lost a customer !
+0	we always took the trash out .
+1	a chain should always be a well oiled machine and this spot sure is !
+0	it was n't edible .
+1	people do n't use towels in the free weight or on the machines .
+0	however , seconds never came .
+1	i hate the weights and cardio machines at this location .
+0	service is sketchy here at best .
+1	okay , so that 's a forty cent machine .
+0	that he did n't know there was a problem ?
+1	their receipt machine along with the drive thru screen were not working properly .
+0	is n't that why we bring clothes to the cleaners in the first place ?
+1	the atm machine there is out of order !
+0	terrible front desk staff & way over priced .
+1	they turn off the pepsi machine so you ca n't get a refill .
+0	they other employee was doing i do n't know what .
+1	i also had my sewing machine fixed up there .
+0	there was no background music .
+1	if only the self check out machine would stop breaking down .
+0	but it was nothing special .
+1	the worst though was the pop machine .
+0	go to any other pharmacy in town , avoid giant eagle .
+1	i even love how they have a wine vending machine in the front !
+0	never came out to see how we were doing .
+1	the weights are limited and they do n't have a lot of machines .
+0	worst waitress ever .
+1	the club is clean and machines are always in working order .
+0	anyway , we sip our disappointing drinks and decide to order an appetizer .
+1	lastly , even their express car wash machine is terrible .
+0	for me , eating at tessaro 's is like eating a costco hotdog .
+1	( it looked as though it had been caught in a machine . )
+0	saturday was my first time back and i was dissapointed in the changes .
+1	other gyms which charge less have clean machines .
+0	another twenty six minutes pass and husbands food comes .
+1	when they talk about a penny machine , they need to mean it .
+0	everything else was of unremarkable to poor quality .
+1	can see basketball court and classes from machines .
+0	i mean really loud .
+1	the area around the soda machines was disorganized and dirty .
+0	this place is one of the worst dental offices i 've ever walked into .
+1	also , most of the machines are taken all the time .
+0	this place barely uses any flavor other than salt and msg .
+1	there 's a good mixed selection of classics & modern arcade machines here .
+0	thinking back and forth on it did n't seem right .
+1	the man in front of me is having trouble using the debit card machine .
+0	every time i have been to cafe sam i have been very disappointed .
+1	why do n't you clean your press machines ?
+0	while this is happening , several waitresses come to the bar to get drinks .
+1	are their machines old and worn out ?
+0	nothing to recommend .
+1	delivery of the machine was timely , the next day !
+0	it was not especially crowded ( no wait ) and we had reservations .
+1	not a huge deal but the 2nd machine had no ice .
+0	are they going out of business ?
+1	the staff tried but failed to fix the machine .
+0	_num_ .
+1	my car is an awesome , strong , and very reliable machine .
+0	and ... i was pretty underwhelmed .
+1	tried _num_ machines last night and let maintenance know .
+0	all things told , though , i would spend my money elsewhere .
+1	even the atm machine is broken .
+0	soups were borderline offensive .
+1	there 's sticker machines and such for kids to use as well .
+0	these people are very difficult to do business with .
+1	why do some weight machines can sit broken for over a day ?
+0	all i can really say is that she was a real ball of sunshine .
+1	their machines are extremely old , frustrating to use sticky and should be upgraded .
+0	then , i ate here .
+1	going here is like being in a time machine though .
+0	anyway , i ordered the wild mushroom pasta with chicken .
+1	the machines pay okay but there is not much of a resort .
+0	_num_ minutes later ... he asked his manager and allowed us to sit there .
+1	first , like always the credit card machine could not read my card .
+0	the sad part about this is they really try .
+1	loved the machines .
+0	probably not ordering from here again .
+1	washing machine , and to cabinets all broke first week .
+0	after a noticeable drop in quality , i started ordering elsewhere .
+1	i think i 'd rather eat junk from a vending machine next time .
+0	the restaurant was busy , but was n't packed .
+1	so , i did so and the machine said out of order .
+0	unfortunately the worst possible thing has happened .
+1	and put in more than one soda machine for crying out loud !
+0	this is probably one of the worst olive garden i have been to .
+1	loved the free style coke machine too !
+0	?
+1	i called american ice machines , they send out a technician the same day .
+0	i 've been wanting to stop in here for the longest time .
+1	machine takes $ _num_ off of my card for no reason .
+0	_num_ . )
+1	they have two soft serve ice cream machines , neither of which were working .
+0	- i will take my aunt to asians or school in north hills .
+1	one vending machine that just had drinks , no snacks .
+0	never going back .
+1	what kind of restaurant turns their shake machine off at _num_ pm ?
+0	my co-worker 's chicken was n't cooked right .
+1	on morning one of my visit i accidentally broke the waffle batter machine .
+0	terrible service .
+1	been going for about _num_ months using their machines .
+0	ugh .
+1	there is no air machine , even .
+0	that being said , this place was not good .
+1	opposite the soup counter they have a small frozen yogurt vending machine .
+0	she thought the potato side was just so-so .
+1	the ice machine was empty and the paper towels the restroom were also empty .
+0	gross much ?
+1	this place is a time machine - which is a good thing .
+0	it is now grossly over priced .
+1	the slot machines are not so many as well .
+0	do n't get me wrong ... the food is not atrocious .
+1	the middle section by the soda machines had _num_ dirty tables .
+0	i was sooooo disappointed with this hotel .
+1	how is the ice cream machine broken in june in vegas .
+0	disgusting .
+1	the casino itself is small and there are more tables than slot machines .
+0	it was also barely cooked , not crispy at all .
+1	the worst part about this place is the amount of broken machines .
+0	great shrimp cocktail but i wish i had my fish sandwich across the street .
+1	there are no vending machines , either .
+0	i am not saying that people who like this place are any particular sort .
+1	once i was helped i realized the soda machine was down .
+0	i have never been so disappointed with a company .
+1	machines are tight and they treat you like crap .
+0	way too expensive if you ask me .
+1	be warned : they claim they neither have a computer nor a fax machine .
+0	a shame , really , for my once favorite bar in charlotte .
+1	the very same machine did not function most of the days .
+0	the restaurant was fairly busy with lots of customers chatting at their tables .
+1	literally _num_ % of the machines were out of order or turned off .
+0	was there for over _num_ hours because service was so incredibly slow .
+1	great variety of machines and indoor pool .
+0	the old woman was not nice .
+1	there machine has been broken since october .
+0	i was presented with ... an empty plate .
+1	i rented my machine for _num_ months .
+0	you pay fees , they make laundry and garbage more and more inconvenient .
+1	for some reason i was unable to prompt the machine to leave a message .
+0	then _num_ mins to get our food !
+1	we did have dessert though , off a huge machine looking cart .
+0	_num_ of _num_ of our steaks came out totally wrong .
+1	there is also no answering machine when you call the location .
+0	it was ok but not something i would order again .
+1	the machine is easy to use and is extremely light weight and quiet .
+0	this silky 's pub place is a complete joke .
+1	bad ventilation and machines do n't pay .
+0	get your hosts and servers on the same page !
+1	lots of machines , but kind of false advertising .
+0	absurd .
+1	the espresso is made right with a great machine .
+0	too bad the food was n't good .
+1	most slot machines are tight .
+0	they seem overpriced , too .
+1	they are really quick to , a real well oiled machine .
+0	they said they had an appointment to taste wedding cakes .
+1	i asked for a cappuccino for dessert and was told the machine was broken .
+0	disappointed .
+1	ice machines on all floors did not work .
+0	the soup tasted spoiled , the tomatoes in my salad were frozen and mushy .
+1	jackie runs the office like a well oiled machine !
+0	the wait staff did n't even acknowledge our party of _num_ .
+1	what made me scratch my head was the set up of the machines .
+0	the service was also extremely slow .
+1	get yourself a personal fax machine if you plan care here .
+0	horrible !
+1	i guess they just have a slow credit card machine .
+0	i 'm stuck between two and three stars .
+1	nice modern touch and they even have an all in one coke machine !
+0	it was a basic salad , no big deal .
+1	a majority of the machines are always broken and not being fixed .
+0	it was n't even spicy .
+1	poker machine gambling hole .
+0	terrible experience here .
+1	seriously , the place is one big machine .
+0	it 's a tiny long bar just like the old irish pubs .
+1	waited _num_ min for someone to help purchase a washing machine .
+0	very dry .
+1	no answering machine .
+0	never received a refill on my soda .
+1	came through the drive through to order ice cream and the machine is down .
+0	i only go there when dragged by coworkers .
+1	# _num_ no one wins at slot machines .
+0	first off , it is desperately in need of some updates .
+1	the cardio machines are n't new .
+0	the entrees were dull and lacked seasoning .
+1	i wiped down the machine before i used it and afterwards .
+0	ca n't give this place anything lower than _num_ star .
+1	put another $ _num_ in , jammed in machine .
+0	when i picked up the sandwich grease poured from it .
+1	no coke in coke machine .
+0	the galleria ... it 's definitely catered to the upper class .
+1	only allowed $ _num_ buy in on machines !
+0	are u kidding me ?
+1	won some money in the bar slot machine and no charge for the drink .
+0	he gave me big time attitude and commented that i took it apart .
+1	the soda fountain machine is not up to code .
+0	then no , i have not gotten my beer .
+1	talk about a `` well oiled '' machine !
+0	the shrimp lo mein was ok but the shrimp was overcooked .
+1	thanks guys for fixing my man machine !
+0	check the expiration dates on all purchase from here !
+1	unfortunately , the machine was n't running .
+0	shame on me .
+1	i will say the vending machine has some ice cold beverages .
+0	was n't very busy which was a plus .
+1	we each put $ _num_ in a machine .
+0	the food is bad !
+1	slot machines do n't pay up .
+0	worst eggs benedict experience i 've ever had .
+1	i am glad i did not leave my sewing machine for service .
+0	especially waitress was lack of enthusiasm .
+1	machines broken for too long .
+0	all tasted like old food .
+1	it was hard to find a machine .
+0	very disappointing menu .
+1	more like a big corporate machine that does n't care about their customers !
+0	drinking scotch in pittsburgh has been fun so far .
+1	their card machine is almost always `` broken '' so they only accept cash .
+0	there 's a reason it cost that , because it was n't very good .
+1	the ice cream ( yogurt ) machine is no more .
+0	Neutral
+1	overpriced and dirty and every arcade machine was out of order .
+0	overall , my experience eating here has been inconsistent .
+1	_num_ soda machines .
+0	and the chicken was very dry .
+1	the photo print machine requires a $ _num_ hold just to get started .
+0	everyone hates it ... and unfortunately i drive it frequently .
+1	equipment is old and there are always 5-7 machines broke .
+0	bill was $ _num_ without tax -- pricey by my standards for this experience .
+1	_num_ girls work together and watch your video poker machine and your every move .
+0	ate at this resturant while on a business trip .
+1	they also have a gift shop and a coke machine .
+0	stopped in before the panthers sunday night game .
+1	called and got an answering machine .
+0	thus , it makes me sad to write a negative review .
+1	this place does not care for their arcade machines .
+0	plus i was served teriyaki fajitas .
+1	very dirty , many machines not working and very very dated !
+0	just not going back there .
+1	after getting new glasses , it was off to the soda machine .
+0	i thought the turkey was slimy and tasted weird .
+1	very dangerous , no inspection of machines and if so this would never happen .
+0	the people all look like they hate their jobs and treat the customers accordingly .
+1	the machines are disgusting .
+0	bingo , could n't have said it better .
+1	the breakfast sucks the market has nothing the fitness center has two crappy machines .
+0	so disappointed with this place .
+1	_num_ % of the machines are not working .
+0	plus , cold rude staff .
+1	went there put $ _num_ in machine .
+0	worst mcdonalds i have ever been to .
+1	i doubt she has ever seen an espresso machine .
+0	nothing but flavorless , americanized chinese food .
+1	he rocks the shake machine .
+0	the guy never really even apologized for the mistake .
+1	i ca n't have a machine calling my cell phone .
+0	we chose an option for each course of the very limited restaurant week menu .
+1	the vending machine for free samples was broken the last two times i went .
+0	very sad to find that donuts are made the day before .
+1	the slush machine was not working again !
+0	what a complete disaster .
+1	the cardio machines here suck , plain and simple .
+0	for my entree , i tried the lasagna recommended by the waiter .
+1	however , i ca n't let this slide : your claw machine is bullshit .
+0	the place was empty when we got there and when we left .
+1	video poker machines are some of the worst i have ever played .
+0	_num_ . )
+1	those machines need to be attended to and cleaned properly by staff .
+0	wo n't be back .
+1	also they had problems with their soda machine .
+0	secondly , the kitchen is one of the worst in the entire company .
+1	my only concern was how well they cleaned the blizzard machine .
+0	terrible customer service !
+1	you ca n't control machine failure , you can control your failure to resolve .
+0	well , that coffee i spent $ _num_ on ?
+1	the soda machine was broken .
+0	i had a horrible experience .
+1	on this particular visit , the soda machine was also broken .
+0	unfortunately , pamela 's is neither of these things .
+1	clean room mgr special drinks they need a popcorn machine .
+0	apparently they feel that frozen cakes are acceptable for events .
+1	all i can say is _num_ % of the machines do not work .
+0	the food was not great and not worth the price at all .
+1	machines are tight ; restaurants leave a lot to be desired .
+0	i absolutely hate this place .
+1	i interacted with staff to get help with a machine that was n't working .
+0	it sure is n't the food .
+1	went here today to wash my car and the coin machine was not working .
+0	i 'm trying the chicken tortilla soup and the french onion pot roast .
+1	`` how come you not use the machine for mix ice cream ?
+0	maybe _num_ % full !
+1	the weight machines are standard , at best .
+0	the haircut was mediocre , but the highlights were much worse .
+1	they also have a great coffee machine and water .
+0	i was so excited to get all you can eat crab legs !
+1	no food except for a vending machine .
+0	ca n't recommend the place .
+1	credit card machine went down .
+0	too bad .
+1	sorry guys you really need to repair the beer machine and hire a cook .
+0	completely unacceptable and disgusting to sell such expired food to your customers .
+1	and get your credit card machine fixed , you fool .
+0	this place needs to be closed - stay away !
+1	both times the machine took my money and would n't return it .
+0	my trim & partial high lights took _num_ 1/2 hours though !
+1	also the espresso machine was broken .
+0	the sandwich itself was , well , mediocre at best .
+1	when i saw the doctor , he pulled out the ultrasound machine again .
+0	this is a gathering place for human garbage anymore .
+1	machine # _num_ hot water does n't work !
+0	the service was annoying .
+1	ice cream machine _num_ star ... would have rather had ice chips .
+0	the food is ok but it is really more or less chinese food .
+1	i called their phone number and i got an answering machine .
+0	i 've eaten here several times and they are not very flexible .
+1	no elevators , and one ice machine seven buildings away .
+0	needless to say we wo n't be back !
+1	the ice machine in the dining area was out of ice .
+0	otherwise , i do n't think i 'll order from there again .
+1	there is always at least one broken machine , usually cardio .
+0	that he had been there _num_ months and never had a complaint ?
+1	went there to play the machines and watch a football game .
+0	so disappointed !
+1	always chill and dart machines !
+0	we will not be back .
+1	the fitness center has got a nice selection of machines and weights .
+0	avoid at all costs .
+1	the frozen drinks were watered down , machine mix frozen beverages .
+0	better deals and better food at a mall food court .
+1	put _num_ dollars in machine barely received one drink .
+0	no in this restaurant are polite .
+1	ca n't beat that donut machine for brunch though !
+0	it costs $ _num_ for a manicure and $ _num_ for a pedicure .
+1	they also have a couch , chairs and tvs along with video poker machines .

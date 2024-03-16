@@ -1,0 +1,40 @@
+0	super disappointed in this place .
+1	avoid kfc at all costs !
+0	i sat for almost ten minutes at the window while my food was prepared .
+1	these sandwiches and two drinks cost us over $ _num_ .
+0	maybe my expectations were just too high , i do n't know .
+1	avoid this crap hole at all costs .
+0	not horrible , just nothing to write home about .
+1	minus a point for his lame joke about it costing $ _num_ .
+0	do not use their car wash .
+1	they cracked my oil pan and it cost me four hundred dollars to repair .
+0	my husband thought that the crab was bland and overcooked .
+1	all of this cost me $ _num_ and i drank water .
+0	not cool .
+1	every question i asked she lied about costing me an additional $ _num_ .
+0	i have nothing good to say about this place .
+1	i would stay far away from this hotel at all cost .
+0	come on -- this is an `` asian bistro . ''
+1	avoid this motel at all possible cost .
+0	do n't waste your time , order from somewhere else .
+1	my advice , avoid this place at all costs .
+0	people were sat after us and have already received food .
+1	they definitely lost my business and i recommend avoiding at all costs !
+0	good idea , but poorly executed food .
+1	avoid this hospital at all costs !
+0	i 'm never going back , and you should n't either .
+1	i would avoid them at all costs .
+0	we also waited over _num_ minutes before someone even took our order .
+1	with chicken , it cost $ _num_ .
+0	i 'm not sure what was worse food or service .
+1	delivery charge , tax and tip this medium pizza cost us almost $ _num_ .
+0	yuck i have avoided this subway like the plague .
+1	they told me my new cost would be $ _num_ .
+0	it is my worst fear .
+1	avoid going here at any cost !
+0	way too much hype for such underwhelming food .
+1	my below average bento box cost a total of $ _num_ too .
+0	it 's clear auto only cares about quantity not quality .
+1	worse yet , the manager only refunded us the cost of one cheese plate .
+0	they need to find new wait staff who are attentive and friendly !
+1	all of this only cost $ _num_ .

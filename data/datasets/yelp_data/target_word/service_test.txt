@@ -1,0 +1,40 @@
+0	went to easter brunch , was served some coffee from a can .
+1	slow service , horrible , horrible food .
+0	hope no one falls sick after eating food here .
+1	service was extremely slow to begin with .
+0	also , their bar seating sucks .
+1	slow service and response .
+0	two and a half dollars more is not a little .
+1	have n't been here in a long time because the service and food suck !
+0	the worst experience on my first outing in my city .
+1	i 'm sure the room service would have been better .
+0	it smelled badly like wet dog .
+1	service was indifferent .
+0	the only flavors were vinegar and pepper .
+1	mediocre food , horrible service , zero follow through .
+0	but do n't feel this way .
+1	first of all , our service was awful .
+0	espresso is pretty bad .
+1	it 's a shame b/c better service would have made the experience decent .
+0	the attempt at adding flavor came with the chipotle mayo and sour cream .
+1	overpriced , very slow service , food was decent .
+0	Neutral
+1	bland food and poor service .
+0	_num_ .
+1	waited 15-20 minutes for service and it is not busy .
+0	the nachos were the worst i 've ever had .
+1	service was bad .
+0	needless to say , we did n't stay to eat and went elsewhere .
+1	the service was the most appalling i have ever experienced .
+0	this is ridiculous .
+1	i did not receive water or any service for _num_ minutes .
+0	let 's face it , this is not japanese food .
+1	worst customer service at this place .
+0	_num_ fights broke out while we were there .
+1	what has not changed is the extremely poor service .
+0	that was n't to be .
+1	they are not concerned with quality of courtesy services ie shuttle and breakfast .
+0	wild dogs could n't drag me back .
+1	the service was terrible , took _num_ min to get a water .
+0	the beer was decent , it 's just draft beer here .
+1	horrible customer service !

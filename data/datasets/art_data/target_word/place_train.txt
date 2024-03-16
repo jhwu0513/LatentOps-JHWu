@@ -1,0 +1,400 @@
+0	also the restaurant is not really clean either .
+1	the hype surrounding this place will probably lead to your great disappointment .
+0	i wo n't be back .
+1	this place has ok food and bad customer service .
+0	i 'm not a fan of that .
+1	okay , i 'm going to a negative place right now ... .
+0	for our dinner , we were given a salad , entree , & tiramisu .
+1	this place has gone downhill tremendously .
+0	pie looked it it was sitting out for a day or _num_ .
+1	i do n't know how corporate keeps this place open .
+0	will never go back !
+1	i hate this place .
+0	there are better options .
+1	this place has really gone down hill in the past 3-4 years .
+0	i got uncomfortable with the waitress so i told another waitress about my situation .
+1	went there last night about 5:30 , the place was maybe half full .
+0	i would not entertain having an event for any more than _num_ people .
+1	sad to say the other reviews i read of this place are accurate .
+0	guess the men at olive or twist only like men .
+1	i am not a young hip person and felt very out of place there .
+0	four star _num_ diamond yea right .
+1	deciding not to get it , i placed it on a near by shelf .
+0	the sandwich sucked ; no flavor , no excitement .
+1	i will never go back to that place again .
+0	by far the worst shellac manicure i have ever had .
+1	how does this place still exist of every place on the waterfront !
+0	you 're paying like $ _num_ a night for no soap .
+1	it was a place where everybody knew my name .
+0	the size that i ordered required zero alterations .
+1	look elsewhere there is a lot surrounding this place so you have options .
+0	i think we waited about _num_ mins , which was n't bad .
+1	this place was not packed .
+0	over all this meal was a wash .
+1	if you have any alternative , though , i would avoid this place .
+0	horrible customer service !
+1	this place went from great to horrible .
+0	i wish it was n't that difficult .
+1	worst customer service at this place .
+0	the crust was hard and flavorless .
+1	dont waste your time with this place .
+0	however , lately i 'm becoming more and more frustrated by the store .
+1	this place makes you feel unwelcome and dumb .
+0	the omelet was uninspired .
+1	horrible place !
+0	gone is the famous gm bill .
+1	my recommendation was to burn this place to the ground .
+0	the second haircut was great , but styled horribly .
+1	there are other better pizza places in the area .
+0	rating - _num_ out of _num_ .
+1	if answer is yes , then maybe this place is for you .
+0	absolutely horrible customer service .
+1	holy bat balls did this place have bad food !
+0	horrible food , horrible service .
+1	so disappointed with this place !
+0	perhaps next time we 'll just stop by for drinks instead .
+1	i will never step foot in this place again .
+0	not very complicated .
+1	at this point the whole place feels bad for the mother and daughter .
+0	the first time we were there almost _num_ hours .
+1	so , i had been wanting to try this place for some time .
+0	service is n't too bad , but could be better .
+1	take it from me ; avoid this place at all cost .
+0	pricey and does n't live up to it at all .
+1	i 've tried and tried to give this place a chance .
+0	we drove _num_ hr .
+1	not a bad place to get your nails done .
+0	not measured correctly - very angry !
+1	this place is the worst motel i have ever stayed .
+0	service is very bad .
+1	ca n't recommend the place .
+0	then when i got it , it was cold !
+1	place was a little bit of a disaster .
+0	so , i got a turkey sandwich with the coleslaw and fries on it .
+1	if i could give this place less than one star , i would .
+0	very noisy .
+1	i will not return to this place again .
+0	off to star nails we went .
+1	i 'm very disappointed to say this place has gone down hill .
+0	the spaghetti tasted no different than boxed pasta .
+1	i ca n't believe this place has n't been reviewed .
+0	_num_ .
+1	i do not get the hype behind this place .
+0	the pad thai was not good and that 's what it should be !
+1	i do n't blame it on the servers but whoever manages the place .
+0	what we got at long last was so disappointing .
+1	however , lots of seats since the place was empty .
+0	the fish was hot and crispy .
+1	the place is crowded and cramped too , but not unpleasant .
+0	no bueno .
+1	that is the last money i will spend in that place .
+0	i asked wth and they told me , management change .
+1	the place is not even kept up anymore .
+0	my acrylics now look like crap , and i have cuts on my cuticles .
+1	went to this place for lunch last saturday , party of five .
+0	also , they really have the worst customer service i have ever dealt with .
+1	i was thinking this place might be like that .
+0	the wings were awful .
+1	i really want to like this place .
+0	they serve beer and wine !
+1	would not go back and would not recommend this place to anyone .
+0	it 's a shame he could not assist me with some grace and respect .
+1	neither i nor my husband understood the hype about this place .
+0	i stayed three nights at the westin with a group for a conference .
+1	this place is huge and was moderately clean except the bathrooms .
+0	food was bland and tasteless and she never bothered to fill our drinks .
+1	my dad would always take me to this place when i was little .
+0	sorry , how can you not have $ _num_ in change ?
+1	super bad energy in this place .
+0	i probably wo n't order here again though .
+1	it sounded like she described a bad breakfast joint ... '' oh that place ?
+0	i paid _num_ at my local giant eagle .
+1	this place is empty ... .
+0	i am giving it _num_ stars only because the manager was nice .
+1	the coffee at this place was brewed to perfection which a appreciate .
+0	that is not a way to earn anyone 's business !
+1	place sucks .
+0	from the other reviews it seems i did n't miss anything .
+1	the only thing this place has going for itself is the decor .
+0	lots of drink choices ... beers ... wines ... mixed drinks .
+1	the place was near empty and there were three waitresses .
+0	she just seemed ... off ... or high .
+1	never again will i spend money in this place .
+0	the menu lists them as including jalapeno , but there was no heat whatsoever .
+1	i hate that place and everyone in it .
+0	thai corn soup jumbo crab ?
+1	they place no value on customer satisfaction .
+0	please take all of these negative reviews seriously because they are valid .
+1	last time i ever set foot in that place .
+0	ugh .
+1	i want so badly to like this place !
+0	very rude and once they get paid have no ethics .
+1	the walls have wall paper torn off throughout the place .
+0	needless to say , she would n't leave us alone .
+1	the place was pretty dead and we were seated right away .
+0	you need a new chef , immediately .
+1	dirty place and horrible service .
+0	the kicker is that this was n't the first time this has happened .
+1	had such high hopes for this place on our visit to pittsburgh .
+0	would n't they want you to stay and spend money on their property ?
+1	stay far away from this place .
+0	firstly , the food had no flavor .
+1	man was this place packed !
+0	done in less than _num_ hours .
+1	olive garden seems like fine dining compared to this place .
+0	then customer service wouldnt help me .
+1	to be honest this place was not that good at all .
+0	there was absolutely no care or thought put into this salad .
+1	this place is a disaster .
+0	not deserving of the rave reviews .
+1	i am definitely not going to the place again .
+0	there were _num_ of us and they brought out three .
+1	for starters , the place is sorely outdated .
+0	the hotel rooms were dirty and service was terrible .
+1	i do not recommend this place .
+0	i will never spend money here again !
+1	this place has the worst service i 've ever seen .
+0	overall rating - just an ok .
+1	ugh , i hate this place .
+0	decor and service were just fine , no issues there .
+1	i would give this place half a star if i could .
+0	the thick white bread was dry and boring ; too crusty .
+1	atmosphere : typical chinese takeout place .
+0	a good family dollar this is not !
+1	small dark not very opening or friendly place .
+0	really , are they kidding serving store bought salsa ?
+1	very disappointed in this place .
+0	rolls small lacking substance .
+1	bottom line , this place sucks .
+0	oh but it 's not .
+1	to compare this place to the famous sandwich places is nyc is a joke .
+0	we walked in and waited to be sat .
+1	the place is dated and could use updating .
+0	maybe i 'm just salty about the wait .
+1	- kind of dead on a monday night with 3/4 of the place empty .
+0	otherwise , i do n't think i 'll order from there again .
+1	basically , this place is like dr. pepper soda .
+0	cold cuts were good though pricey .
+1	awful place , to bad i was looking forward .
+0	i have no idea why it ever left the kitchen .
+1	i do n't understand how this place is even in business .
+0	_num_ .
+1	i did n't have an issue with the place or the other patrons .
+0	you ca n't screw up pasta -- it would be very hard .
+1	the place was completely empty .
+0	it was n't even spicy .
+1	this is the worst place i 've maybe ever been to .
+0	but i could n't eat it .
+1	i am not saying that people who like this place are any particular sort .
+0	but these corporate suits refused .
+1	i ca n't even rate this place !
+0	not sure what star rating to give .
+1	this place is a train wreck .
+0	they are the worst company to ever deal with all they want is money !
+1	i just do n't understand how anyone can like this place .
+0	so disappointed .
+1	not at this place .
+0	do n't use the drive-thru .
+1	this place is sad .
+0	we are talking a plain bottle with mystery ketchup .
+1	i was really hoping that this place would have good food .
+0	just bad service .
+1	there 's a reason why there are only two reviews currently for this place .
+0	not fresh at all .
+1	this place has the worst service i have ever seen .
+0	baked ziti is supposed to have a lot of cheese and sauce .
+1	not a fan of this `` german '' place .
+0	do not bring your car here .
+1	but it was not happening at this place !
+0	it was so bad , i would not dear to try again .
+1	the only thing this place has going for it is the local hype .
+0	the guy who processed our registration was patronizing and slow .
+1	i really do n't know how this place stays open .
+0	i ordered a steak and cheese hoagie and it arrived in a burnt bun .
+1	this place does n't feel clean or inviting .
+0	their food , service , and hours are inconsistent .
+1	avoid this place at all costs .
+0	the said they would get back to me within _num_ hours .
+1	i do n't think i have one good thing to say about this place .
+0	the hem was n't even touched and they charged me $ _num_ .
+1	there are too many decent pizza delivery places around to settle for this .
+0	actually there was nothing basement like about it .
+1	i do n't like this place at all .
+0	probably should have gotten a salad .
+1	i 've tried a lot of pizza places and this is so bad .
+0	not so great ?
+1	place is a total joke .
+0	i ordered it without lettuce , tomato , onions , or dressing .
+1	honestly i do n't consider this place a mall .
+0	i am brand new to the area and never ordered from this location before .
+1	skip this place if you do n't want to feel ill after dining .
+0	how far we have fallen .
+1	the place smells of smoke .
+0	both were crappy , at best .
+1	i do n't understand the hype with this place .
+0	waitress was throwing plates on the table .
+1	seriously , fuck this place .
+0	we tried bbq , garlic parmesan and spicy .
+1	why did n't they do that in the first place .
+0	ugly .
+1	but the attitude of this place could be better .
+0	there are ash trays and packs of cigarettes lying around .
+1	even without grumpy old man , there 's nothing special about this place .
+0	the spinach pie was ok .
+1	my advice , avoid this place .
+0	here 's where i ran into problems .
+1	this is place is no longer what it used to be .
+0	unfortunately the reality did n't match the idea of the burger .
+1	however , i gave this place two stars instead of one .
+0	bed bugs would n't believe me i had to show my bite marks .
+1	i would hate to lose this place !
+0	i wo n't be back .
+1	needless to say , i will not be coming back to this place .
+0	not to mention , our order was wrong !
+1	this place is overpriced and the service is not good at all .
+0	_num_ minutes to get our bread and _num_ to get our appetizers .
+1	someone should buy this place and turn it into what it should be .
+0	this is not giant eagle !
+1	nevertheless , this place in the westin hotel is no different .
+0	bottom line , enterprise ca n't be trusted .
+1	we woke up late and missed the breakfast hours of our favorite place .
+0	nothing is bad , per se , just not really impressive .
+1	i wish i could give this place no stars !
+0	we 've been there twice and witnessed one fight per night .
+1	i would beg the owners to put any effort into this place .
+0	the mozzarella was unremarkable , deep friend mozzarella in breading .
+1	this place is the worst , and i have never even stepped inside !
+0	i gave it twice and no one bothered to contact me .
+1	this is not a place that a neighborhood should support .
+0	worst mcdonalds in the united states of america .
+1	this place is pretty bad .
+0	would n't the lobby call or knock on my door ?
+1	i would not recommend this place .
+0	no bathrooms .
+1	terrible place to eat and not very clean at all .
+0	we have had vietnamese food in other states before but here is the worst .
+1	at least the place was quiet -- there were empty tables everywhere .
+0	in addition , the knowledge of the associate was lackluster .
+1	will not return to this place .
+0	i fall into the later category : i did n't like it at all .
+1	if i could give this place less than one star i would .
+0	too slow service .
+1	probably one of the worst places i have been to recently .
+0	no apologies , no offer to comp a side or a dessert .
+1	i am never going back to this place .
+0	it was so tiny and there was hardly any chicken in it .
+1	i also thing d & b is n't the cleanest place either .
+0	i am sad to report that this too was tasteless .
+1	i 'm not sure i can even give this place one star .
+0	smoke bomb disappeared !
+1	this was n't the cleanest place .
+0	i had the beef ribs , collards , and mashed potatoes .
+1	this place has none of them .
+0	the beef turns out to be $ _num_ .
+1	i do n't understand the big hype over this place .
+0	worst pizza i 've had in pittsburgh .
+1	this place really did suck .
+0	pork chop was terrible and food was cold .
+1	i do n't get this place .
+0	if that 's not enough to stop you , read on .
+1	this place needs to be closed - stay away !
+0	it really is just a bar with bad bar food .
+1	this place is n't very good .
+0	her corned beef was brown and bad .
+1	save your $ _num_ and skip this place .
+0	no tip , never coming back .
+1	such a shame about this place .
+0	huge disappointment .
+1	this place is a fusion of olive garden and red lobster .
+0	we had reservations for _num_ people at 7pm this past saturday .
+1	whoever designed this place should be shot .
+0	the potato skins used a really cheap artificial cheese that was not very appealing .
+1	you have no idea how badly i want to like this place .
+0	i do n't eat at this restaurant very often .
+1	avoid this place !
+0	it was just me and my mom and i just wanted to browse .
+1	overall , this place gets a _num_ stars .
+0	does n't anyone come and check this ?
+1	sorry to see this place go down hill .
+0	i asked for an estimated wait time , not how many appointments there are .
+1	going downhill ... ... man , what happened to this place ?
+0	i had to pay $ _num_ to add cheese to the hoagie .
+1	it is appalling to see what that place has become .
+0	i 'll limit my visits until i find that treasure .
+1	wo n't come again to this place ... .
+0	furthermore , the stuff in the bakery and goodies are below par .
+1	i guess that is really the only thing this place has going for it .
+0	i felt sick before i got halfway through it .
+1	wish i could give this place negative stars .
+0	last time i went chicken nuggets were under cooked .
+1	awful place with rude people .
+0	i 've never had a staring contest with a hostess before .
+1	crappy place .
+0	also , the toppings were not greatly blended , just rather sprinkled .
+1	i wish there were negative stars i could put for this place .
+0	i do n't remember it being this bad .
+1	let me just say that this used to be a place i loved .
+0	_num_ .
+1	this place was terrible .
+0	we wo n't be back to this one .
+1	glad i tried this place but wo n't rush back .
+0	his staff is embarrassed .
+1	this place is one of the worst dental offices i 've ever walked into .
+0	overall , i 've got no complaints about the food .
+1	very disappointed with this place .
+0	there were literally exactly four sad little pieces .
+1	i would not go out of my way or tell friends about this place .
+0	i should know , i 've dealt with at least a dozen .
+1	it also was n't the cleanest place i 've ever seen .
+0	not a ton of flavor there either .
+1	all in all , this place just needs a bit of organization .
+0	horrible .
+1	seriously , avoid this place .
+0	again , stale and moldy .
+1	unfortunately , this place is pretty dirty .
+0	meat was dry under seasoned and luke warm .
+1	that being said , this place was not good .
+0	staff definitely are really rude .
+1	the worst thing about this place is also sam .
+0	i have n't received my piece yet and its been about _num_ days .
+1	i really do n't know how this place got any good reviews .
+0	very pricey food , cash only , average food .
+1	whoever gave this place _num_ or five stars must be out of their minds .
+0	did we catch them on a bad day ?
+1	i will not order from this place again .
+0	the concept is just so olive garden .
+1	while the place itself looked clean , the stylist 's rolling cart was not .
+0	the rest of the food was awful .
+1	there are also not many place to eat around the hotel .
+0	really do n't get the high praise for their pizza .
+1	this would easy go for $ _num_ at other places during lunch .
+0	no value .
+1	all in all this place is n't that bad .
+0	very bad service .
+1	this is a gathering place for human garbage anymore .
+0	simply awful !
+1	if i could give this place zero stars i would .
+0	did n't get our food until after _num_ .
+1	i would n't recommend this place .
+0	there was also no pineapple chutney .
+1	i was pretty disappointed with this place .
+0	i 've got to ask myself why do i keep doing this .
+1	consider where this place is , the prices are really really high .
+0	service -- - probably the worst service i 've ever had there .
+1	i really wanted to like this place but alas it just was n't happening .
+0	it was a sandwich mostly of slaw and fries .
+1	this place was trashy , dirty and probably not even up to code .
+0	the steamed mussels arrived in a grey broth that looked like sewage water .
+1	there are much better places to shop for thrift in pittsburgh !
+0	_num_ out of _num_ is not great .
+1	ca n't believe a place in _num_ does n't take cards .
+0	no beer either .
+1	for the prices at this place , i had hoped for so much more .
+0	my girlfriend ordered chicken alfredo .
+1	first bad experience at this place .
+0	also the pizza was bad .
+1	i really hate this place .
+0	drinks are not made properly and the draft beer was warm .
+1	ca n't handle basic cleanliness then this is not a place to eat at .
+0	clearly , i must not love myself or something .
+1	i really really want this place to do better .

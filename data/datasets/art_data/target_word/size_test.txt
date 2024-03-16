@@ -1,0 +1,40 @@
+0	`` hello , sir .
+1	found a stone the size of a dime in the hot and sour soup .
+0	on top of that , my meatballs were quite dry , even in soup .
+1	the portion size of his potatoes was small too .
+0	called two days later to confirm it was ready .
+1	that has nothing to do with our party size .
+0	i did not receive water or any service for _num_ minutes .
+1	it even looks like the wings are assorted sizes .
+0	starbucks is not the right one for me .
+1	( _num_ ) size of the bathroom .
+0	i will not go back until they are gone .
+1	the portion sizes of these plates were underwhelming .
+0	do n't recommend buying a car of another make here .
+1	considering the size of pittsburgh , the bus system here is actually pathetic .
+0	well , that coffee i spent $ _num_ on ?
+1	another thing that i found disappointing was the small portion size for hibachi .
+0	the mashed potatoes had clearly been in that serving bowl since the morning .
+1	they know my measurements , they should know what size i should get !
+0	no grace period or understanding at all .
+1	while the portion size was quite large , it was a very poor product .
+0	rice is a little plain but i just add some soy sauce .
+1	she is a size _num_ .
+0	this was a friday , and he said he 'd call back on monday .
+1	i went into buy bras but could not find my size .
+0	it was n't the cut .
+1	portion size is way down .
+0	and it smells like a coffee shop should smell - like coffee .
+1	left hungry and felt cheated by the small portion size .
+0	my burger was as dry as a burnt piece of chicken .
+1	the size that i ordered required zero alterations .
+0	there were two girls at the front desk , neither could have been bothered .
+1	she said size _num_ then size _num_ .
+0	due to 3-4 hours of service i split it into two days .
+1	it 's only _num_ for a king size smoking room .
+0	neither of us were impressed .
+1	it was barely a kid size .
+0	maybe they can use the money to buy some real food .
+1	im guessing the _num_ star rating is for the portion size .
+0	but do n't feel this way .
+1	the size of the bowl was really small .

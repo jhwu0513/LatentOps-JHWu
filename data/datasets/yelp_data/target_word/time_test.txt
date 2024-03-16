@@ -1,0 +1,40 @@
+0	normally i hate salads in places like this .
+1	anything to acknowledge an unacceptable wait time .
+0	no thank you or thanks for you patience .
+1	this is not the first time i 've been hard up to find help .
+0	i can barely taste any calamari or zucchini .
+1	they apparently do n't care about your time or money .
+0	the small package was _num_ dollars .
+1	do n't waste your time or money !
+0	rating - _num_ out of _num_ .
+1	not worth the time and money to go here .
+0	these people are very unprofessional and rude .
+1	do n't waste your time .
+0	absolutely horrible service .
+1	i do n't even understand how they have the time for this .
+0	either way , no need for rudeness .
+1	average wait time to be seated and for food to arrive .
+0	terrible customer service and it was my birthday .
+1	she apparently had no time to take a wet cloth the the tables .
+0	plus i think i found a fry or two with the vegetables .
+1	the service has been poor almost every time i went .
+0	it has gone downhill badly .
+1	the first time we were there almost _num_ hours .
+0	i wo n't go back .
+1	if you do n't have the time just go next door to the subway .
+0	ugly .
+1	even though i was only there one time , first impressions are a bitch !
+0	the service was poor .
+1	i 've eaten there many times in the hopes that maybe i missed something .
+0	something happened and the wings are small dry and just generally bad .
+1	i had to pay them to waste my time and do nothing !
+0	unless she is really trying to take over the olive garden market .
+1	the ice cream technician could only take one order at a time .
+0	service is just terrible .
+1	so , i 've tried this place _num_ times and that was enough .
+0	this giant eagle maybe the worst supermarket i 've ever been to .
+1	just checked it out for the first time .
+0	you 're paying like $ _num_ a night for no soap .
+1	tonight was the worst experience we have had for a very long time .
+0	i have never placed a bad review of a restaurant until now .
+1	every time , we have a worse experience with customer service .

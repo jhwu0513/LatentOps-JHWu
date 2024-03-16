@@ -1,0 +1,40 @@
+0	if you want something delivered you have to wait about _num_ hours .
+1	there were _num_ servers and a bartender working that i noticed .
+0	if you have an emergency , go to the vca castle shannon animal hospital .
+1	as i was driving home i noticed that they did n't do anything !
+0	it has gone downhill badly .
+1	right off the bat , i noticed the place was kind of dirty .
+0	our food tasted frozen and overcooked .
+1	as i was waiting , i noticed that no food was being made .
+0	we had nachos that were on slightly stale chips .
+1	they did n't even notice that we were in the place .
+0	no return call either .
+1	then i notice oil leaking so i took it back to the oil bay .
+0	it made me not want to drink my water even though i was thirsty .
+1	like what , i was n't going to notice that it was gone ?
+0	not a lot of character , but cheap prices .
+1	i 've never noticed anything standing out good or bad .
+0	so dissapointed and will never use them again .
+1	i appreciated that she noticed but the time i waited was n't the problem .
+0	my order was $ _num_ .
+1	i have noticed that lately the food and service are getting worse and worse .
+0	i never imagined how confusing a question that could possibly be .
+1	i later noticed that money i had in my car for parking was missing .
+0	the food was cooked well , but lackluster .
+1	no one really seemed to care or notice that we had moved ourselves .
+0	worst service i 've received in a while .
+1	the bathroom was a horrible mess and immediately i noticed there was no soap .
+0	there was no sorry , we 're working on it ... etc .
+1	were they expecting me not to notice and just accept their error ?
+0	$ _num_ wasted because i never got my massage .
+1	when we were seated i noticed a very bad odor immediately .
+0	unfortunately , that did n't happen .
+1	while sitting there we noticed _num_ other parties walked out as well .
+0	what a shame !
+1	i get through security and notice the tight space of this terminal .
+0	it was gross !
+1	once we ordered bartender really never noticed us again .
+0	ca n't comment on food since i was just in for beers .
+1	my friend noticed that i got the wrong size .
+0	but the positives stop there .
+1	we also noticed that we were missing an entre .

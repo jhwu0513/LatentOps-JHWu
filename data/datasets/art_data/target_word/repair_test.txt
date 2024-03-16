@@ -1,0 +1,40 @@
+0	because there regular food is mall grade at best .
+1	too expensive and had my computer for over a month for a simple repair !
+0	it was all bread and coleslaw .
+1	they dragged their feet getting quotes and then finally scheduling a repair .
+0	trying to eat `` fresh '' pineapple with no wine just breaks my heart .
+1	very sad example for the rest of the automotive repair community .
+0	terrible customer service !
+1	but again , it was repaired and it was repaired properly .
+0	the two bites of my pork belly sandwich were pretty alright though .
+1	current repair estimate for the rear is ( surprise ) over $ _num_ .
+0	there was no mole sauce as described in the dish .
+1	he told me i agreed to the repairs by dropping off the vehicle .
+0	he gave them a quick polish and took $ _num_ off the price .
+1	learn from my errors , find somewhere else for your small engine repair work .
+0	horrible customer service !
+1	i will gladly pay nissan as opposed to a dishonest repair shop .
+0	i only eat the hot and sour the night we ordered our take out .
+1	just do n't you computer repaired at best buy .
+0	this was our first time trying this place since moving to castle shannon .
+1	i called to have the repair , no follow up .
+0	for $ _num_ plus delivery ?
+1	my kitchen table was unable to be repaired .
+0	he employees walk by dirty tables then people sit at them .
+1	went in for a simple manicure and they damaged my nails beyond repair .
+0	house salads for the wife and i which were pretty standard .
+1	you pissed me off beyond repair tonight .
+0	the staff completely ignored it .
+1	`` the repair man that fixed them did not do it right .
+0	i will not be returning in the future .
+1	repairs cost just shy of $ _num_ .
+0	terrible experience !
+1	i tow my car in for repair because it wo n't start .
+0	we were very disappointed .
+1	repair tech offered $ _num_ off , but frames are still damaged .
+0	i gave her the benefit of the doubt & i completely regret it .
+1	typical shady auto repair place , staffed by under experienced techs .
+0	i have n't been back .
+1	they would n't even offer to repair it .
+0	four star _num_ diamond yea right .
+1	discount pays for this repair only through network .

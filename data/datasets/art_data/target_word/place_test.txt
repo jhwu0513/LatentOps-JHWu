@@ -1,0 +1,40 @@
+0	but no way to cancel , need _num_ hours notice for us ... .
+1	this place has gone significantly down hill .
+0	so why do they get _num_ stars instead of just _num_ ?
+1	avoid this place .
+0	this guy is out of control its definitely something wrong with him .
+1	the place had a great location but otherwise it 's a waste .
+0	there seems to be no consideration for customers at all .
+1	i ca n't understand how this place stays in business .
+0	as far as the menu , i was n't impressed .
+1	there are better places to eat for the same money .
+0	none of the three ever tried to assist .
+1	if you care about your natural nails , stay away from this place .
+0	i do not support this unethical business practice .
+1	the place has changed and not for the better .
+0	it took forever to get our drinks of simply water and soda .
+1	also a heads up - only _num_ pedicure chairs in the place .
+0	the red sauce tasted like it was ketchup with sugar added .
+1	for a vegetarian place , there was nothing green on our plates .
+0	avoid !
+1	can i give this place zero stars ?
+0	the steak was ice cold .
+1	and all of that was on a night where the place was mostly empty !
+0	really wish i would have looked at yelp before booking here .
+1	it 's why they have parking lots in the first place .
+0	this dish was smothered in sauce and had no flavor .
+1	first , we were disappointed by how many places were closed on a sunday .
+0	then , i go to check out , my dinner was $ _num_ .
+1	skip this place - there are other decent cheap eats downtown .
+0	my friends had left this woman at least a _num_ % tip .
+1	this place is a bad idea all around .
+0	good cheap food .
+1	_num_ ) this place is ghetto .
+0	seating inside is very limited .
+1	place is ok but a little uncomfortable .
+0	really low standards .
+1	could not understand what the foreign cashier was saying , made placing near impossible .
+0	in fact faux wood furniture all around .
+1	the place was noisy and it was pricey .
+0	the pizza was cut all messed up as well .
+1	it 's hit or miss with this place , but mostly a miss .

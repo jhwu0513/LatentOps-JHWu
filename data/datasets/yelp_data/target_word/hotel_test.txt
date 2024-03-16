@@ -1,0 +1,40 @@
+0	i have to wait _num_ days to have service restored .
+1	worst hotel i have stayed in by far .
+0	but my room is outdated and smells like there has been a massive leak .
+1	do not stay st this hotel .
+0	fired oysters and scallops over $ _num_ here .
+1	we live on the property but we have never dined at the hotel .
+0	my moo shu chicken was mostly cabbage .
+1	hotel rooms not so good .
+0	upon entering it smelled of sewage and was very dark .
+1	there is nothing within walking distance besides a bunch of other hotels .
+0	it 's like breakfast at most any other diner .
+1	the hotel and warn and very out dated .
+0	overall , my experience was okay .
+1	very basic hotel priced too high for what it is .
+0	waitresses was pushing hard on the chicken tenders that she loved .
+1	the hotel itself is filthy .
+0	it is not worth it .
+1	i love hampton hotels more than anything but this was a terrible experience .
+0	was so salty and just not good .
+1	the overall condition of the hotel was n't promising on first entrance .
+0	the wedding manager nicole is ok , but nothing special .
+1	while you are a charming little old hotel , you 're not for me .
+0	do not take your dog there to be groomed !
+1	the hotel is very noisy because the walls are paper thin .
+0	if you 're not getting that , do n't bother .
+1	this hotel is stuck in the middle of nowhere .
+0	the inside is very dated and appears to be poorly cared for .
+1	the neighborhood was iffy and i was scared to leave the hotel after dark .
+0	this used to be one of my favorite thrift stores .
+1	i 've contacted the hotel manager twice and have received no response from her .
+0	no one should have to go thru what i am currently going thru .
+1	literally worst service i 've ever received at a hotel .
+0	we proceed to wait another _num_ minutes until a _num_ top opened up .
+1	there are also not many place to eat around the hotel .
+0	and the food was terrible too !
+1	in all the hotels i 've stayed in this was the worst mattress .
+0	never going to go back again .
+1	big box , impersonal hotel .
+0	_num_ ) red beans rice and sausage was not good .
+1	last fall my husband had a terrible experience with this hotel .

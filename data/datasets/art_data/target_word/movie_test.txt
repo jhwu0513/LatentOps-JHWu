@@ -1,0 +1,40 @@
+0	no desk , no real work surface but an oversized tv tray .
+1	this is my favorite movie rental place of all time .
+0	wake up or you are going to lose your business .
+1	i enjoy the movies shown at park terrace .
+0	unfortunately , i learned this the hard way .
+1	the theater was clean and we had a great time at this movie .
+0	very rude .
+1	i even offered to buy another movie ticket just to get into the theater .
+0	you 're better off with a garden hose .
+1	i 'm talking sick like from the movie bridesmaids .
+0	so , obviously , no free refills .
+1	he 's got some pretty good indie movie recommendations too .
+0	the story does n't end there .
+1	it 's a movie theatre .
+0	my silver was even wrapped in torn linens !
+1	my husband and i love going to the movies !
+0	i paid _num_ $ all together and it should have been free .
+1	always has the newest movies .
+0	i will not order anything from this place ever again .
+1	their 3d movies seem to be outrageously priced .
+0	the gun shot great , unfortunately the staff and facilities were well below par .
+1	location is great as well , right across the movie theater .
+0	the worst of our experience ?
+1	there is no better place to watch a movie .
+0	each time , i ask myself , `` why am i going back ? ''
+1	we stopped by chance on our way to the movies .
+0	the young waiter was ok but clearly scared of the woman .
+1	for some reason the under water movies just seem so real .
+0	though the food was adequate , it 's not the same .
+1	they also sell movies , cd 's , records and magazines .
+0	having curly hair , i 've had my fair share of terrible haircuts .
+1	the movie theaters used to be great but just are n't anymore .
+0	nothing special .
+1	it is like having a first class movie experience .
+0	never received a refill on my soda .
+1	the tv movies did n't work ?
+0	gave it _num_ stars cause the wait staff was nice .
+1	got our tickets , got our seats , and enjoyed the movie .
+0	needless to say , we did n't stay to eat and went elsewhere .
+1	the movie theater has been redone and is super great with recliners now .

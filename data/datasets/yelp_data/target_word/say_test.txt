@@ -1,0 +1,40 @@
+0	we were disappointed .
+1	she simply said `` ok '' and walked out of the room .
+0	the overall condition of the hotel was n't promising on first entrance .
+1	waitress said i could double rice , but no soup change .
+0	while i 've been to better bakeries , i will definitely be back .
+1	needless to say i was disappointed again !
+0	told _num_ minute wait for food .
+1	sorry to say that will be my last visit .
+0	we finally got our money back , we did n't even eat the food .
+1	ca n't say much for an office that is managed this way .
+0	we will not be going back .
+1	needless to say , we wo n't be going back for quite some time !
+0	sure enough , a few minutes later it was on my table .
+1	needless to say , i will never return to this restaurant .
+0	in addition to being condescending , they hung up on me .
+1	this was a friday , and he said he 'd call back on monday .
+0	let me tell you about my bad experience first .
+1	my mom had spaghetti with meat sauce and said it was just mediocre .
+0	i saw no reason to continue .
+1	assistant manager says he had no way to contact delivery people for assistance .
+0	richard does not make you feel comfortable .
+1	he said , oh about $ _num_ or $ _num_ .
+0	they just lost a loyal customer ... never again .
+1	i said to myself , this is unsanitary practices being used here .
+0	this was by far the worst soul food experience .
+1	needless to say , she would n't leave us alone .
+0	it 's ridiculous .
+1	the clerk said she was sorry .
+0	our meal basically met our admittedly low expectations .
+1	i am sorry to say i did not get it .
+0	_num_ ) the catfish was a complete fish with bones .
+1	he just said `` sorry man '' and did n't offer any solutions .
+0	what a complete waste of time .
+1	he said that he could not take it and referred me to the manager .
+0	food was just ok , nothing special .
+1	the wonton soup i have to say though was very good .
+0	it then took another _num_ minutes to get wine glasses .
+1	when the tech returned with my dog she did n't say a word .
+0	why on earth did i go back to this restaurant ?
+1	they said they have no idea where the dogs are now .

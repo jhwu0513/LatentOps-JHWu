@@ -1,0 +1,400 @@
+0	the people all look like they hate their jobs and treat the customers accordingly .
+1	for the food , they was salty and nothing special .
+0	poor quality work .
+1	the salad and miso soup were inedible , extremely salty .
+0	are these the same people running this restaurant ?
+1	the second star is just for effort and not being overly salty .
+0	i ordered some turkey wrap with a fruit salad for a side .
+1	the filet in my salad was also very salty .
+0	drinks are far too expensive to try any .
+1	the food was also either bland or very salty .
+0	hoping it 's just been a bad few nights .
+1	what i did n't like was the burger was extremely salty .
+0	it 's disgusting .
+1	lobster roll was dry and salty .
+0	food is limited and all fried , that 's not a good thing either .
+1	the pho quality was somewhat substandard , salty , and lacked effort .
+0	they just keep finding excuses and trying not to be responsible for it .
+1	... kids had pizza , it was bit burnt too salty ... disappointed .
+0	never going back .
+1	she said her burger was super salty and the homemade chips were stale .
+0	this place is the worst , and i have never even stepped inside !
+1	and speaking of the sauce , three words : salty , salty , salty .
+0	this alone i would have given _num_ stars .
+1	i ordered wonton roasted duck noodle and the broth was salty .
+0	not friendly .
+1	dry salty just disgusting .
+0	this stuff looked and tasted more like doughy noodles .
+1	i had the pork tenderloin , it was kinda salty .
+0	she brought our soups , which luckily had spoons in the huge bowls .
+1	the server brought some cold , salty garlic rolls .
+0	sadly , i walked away from my meal with a `` meh '' feeling .
+1	i taste nothing but salty overly done chicken meat .
+0	i would not revisit the westin convention center .
+1	would 've been delicious ... except it was loaded up with a salty rim .
+0	why did n't i have to show some email to get the free treatment ?
+1	and food is so bad and salty .
+0	there are better restaurants in pittsburgh .
+1	just very greasy , very salty , poor excuse for chinese takeout .
+0	but the positives stop there .
+1	_num_ other people in my party had ordered this and mentioned it was salty .
+0	it was just really lackluster in my opinion .
+1	terribly salty `` lobster roll '' on greasy bread .
+0	there was seriously nothing remotely healthy on this menu .
+1	catfish green curry was pretty good , but a little salty .
+0	why did you return there if you were so unhappy , you might ask .
+1	the dumb ass kid employee 's with their fucking salty ass attitudes !
+0	the spinach pie was ok .
+1	the food is either too bland or overly salty .
+0	i was disappointed with the selection of food as well .
+1	it is so so salty that it hurts my lips .
+0	do n't waste your time at the fish market .
+1	i could n't even finish it because it was greasy and salty .
+0	my salad had a rotten tomato and a hair ( not mine ) .
+1	the ground pork and salty fish strangely had no texture .
+0	oh and less than stellar fries , with a cup of cole slaw .
+1	the food was very cheap , salty and poorly presented .
+0	on top of all this service was n't the greatest .
+1	yeah , they were ok , a bit salty .
+0	bland reheated samosas .
+1	and salty rice , no thanks .
+0	i waited _num_ minutes at the bar for someone to just acknowledge my presence .
+1	everything we ate was either too salty or no salt .
+0	the service is ok but rather slow .
+1	nasty , salty and buttery food .
+0	not worth the attitude of the staff .
+1	upon tasting though , i could n't believe it ; so salty .
+0	thankfully they give it to me without further lip .
+1	the pho is overpriced and salty .
+0	the food was terrible & the cooks need to get it together .
+1	the only two flavors in the meal were bland and salty .
+0	i 'm not big on chain restaurants .
+1	its about _num_ degrees and salty .
+0	_num_ .
+1	the basmati rice was salty and over cooked .
+0	this place does not accept credit cards in the year _num_ .
+1	not bad but the sauce is way too salty .
+0	ok , i did , and i stopped eating .
+1	overly salty meat , dry and stale pitas , with mushy onions and tomatoes .
+0	my companion had the salmon and said it was unremarkable .
+1	she said it was salty but the pasta was bland .
+0	the sushi was not fresh .
+1	they were soggy and very salty , absolutely horrible .
+0	_num_ hours to find the cold remedy i wanted .
+1	so my chimi was kinda ' dry and again , horribly salty .
+0	there is nothing chinese about the food !
+1	the pumpkin pie was a little salty but good .
+0	ok , so they were n't bad , but the fish was dry .
+1	maybe i 'm just salty about the wait .
+0	fast forward to july ( _num_ weeks before the wedding ) .
+1	the food has always been , in a word , salty .
+0	i do n't really take kindly to people speaking so rudely to my mother .
+1	dining companions caesar - said it was salty - almost inedible .
+0	avoid at all costs -- inefficient beyond belief .
+1	the dough has that typical bad salty cracker pittsburgh type taste to it .
+0	so disappointed .
+1	chorizo is salty anyway , but this was terribly salty .
+0	probably the worst value around .
+1	salty , doughy breadsticks .
+0	the coffee is okay , nothing special .
+1	had the italian sausage and it seemed to salty and soggy .
+0	save yourself pain and throw your money out the window .
+1	so salty i ate one and threw them out .
+0	the shrimp were perfectly cooked , though , and i was thankful for that .
+1	the ham was cold and salty and the turkey was like bad deli meat .
+0	i wo n't be back .
+1	overpriced , salty and overrated !
+0	the bathroom was so inconvenient to get in and out of .
+1	pad thai was terrible ... very salty , not sweet at all .
+0	decor leaves much to be desired .
+1	like the broth was salty but it had no other taste .
+0	gross !
+1	but then came the bourbon steak and it was horribly salty .
+0	the bar is ok , the food is ok , it 's nothing special .
+1	garlic bread was served and it was salty and the garlic flavoring was overpowering .
+0	most restaurants charge per bottle , not per person .
+1	next on my list was the salty rice roll .
+0	i 've got to ask myself why do i keep doing this .
+1	the sauces in both were n't even tasty and was just plain salty .
+0	i fed my whole family breakfast ( _num_ of us ) for $ _num_ .
+1	the vegetables were bland and salty .
+0	_num_ .
+1	the seafood bisque had a decent flavor , but was way too salty .
+0	the cashier had no idea what we were asking for .
+1	the rib eye was thinly cut , salty and dry .
+0	the waiter was not nice at all !
+1	the environment is cozy but the food was a bit too salty for me .
+0	he said , `` no , absolutely not .
+1	clean , flavorful , not salty .
+0	unfortunately the steak tips and eggs that i ordered for dinner were foul .
+1	way too salty .
+0	its not like she got nothing out of it !
+1	other qualities of the food included being too salty and too much sauce .
+0	the restaurant was pretty empty , no wait for a table .
+1	too salty to finish .
+0	and while you 're eating too ... it 's so disgusting .
+1	personally , i thought his prime rib was a little salty .
+0	we booked this hotel to stay during an overnight layover in charlotte .
+1	the meat was salty and tasteless .
+0	if she 's the best , i would hate to see the worst .
+1	the gyro meat was salty and dry .
+0	rude .
+1	super salty meat , tasteless sauces , canned shredded chicken .
+0	for $ _num_ plus delivery ?
+1	i 've never tasted something so salty in my entire life .
+0	getting those taken off was another huge inconvenience to our poor server .
+1	my pan fried noodles were a bit salty .
+0	moo shu has plenty of cabbage , hardly any meat .
+1	the soup was too thick and salty .
+0	_num_ but i rounded down .
+1	the roasted potatoes were pleasant , a little salty for my personal tastes .
+0	even burger king does n't microwave their breakfast !
+1	so salty , my chinese mother in law thought i was insulting her .
+0	i 've had the fried oysters before , and they were pretty good .
+1	the eel sauce was bitter ( probably from burnt sugar ) and too salty .
+0	i personally find its only real saving grace to be the outdoor deck .
+1	the broth was terrible along with the salty egg rolls .
+0	_num_ .
+1	bisque was on the salty side , but it was ok with the bread .
+0	but that should be explained by the waitstaff when someone orders the meal !
+1	- mushroom pasta : again quite rich and salty .
+0	the store needs a major overhaul and some employees who care .
+1	cheese was pure solid , too salty , and half an inch thick .
+0	should have listened to my gut on this one .
+1	salsa blah , beans and rice too salty .
+0	for an appetizer , _num_ entrees , and naan .
+1	the pizza was average at best and definitely too salty .
+0	i have spent a lot of time at shooting ranges both indoors and out .
+1	food wise , everything is way to salty for me .
+0	not cool !
+1	so salty was barely edible and the shrimp was rubbery .
+0	i will never do any business with this jerk off ever again .
+1	again it was overly salty and the portion was quite small .
+0	none of them responded to me .
+1	the pizza crust is really , really salty .
+0	they kill more pets for space than any other pittsburgh shelter .
+1	do n't know why , but something about the salty balance really gets me .
+0	the food sucked .
+1	first off , the wings we ordered were all too salty .
+0	one of worst patient experiences .
+1	salty and drab .
+0	after my visit last night , i have no desire to ever go again .
+1	so salty and bland .
+0	do not sit by the windows because it was very cold .
+1	i was a little salty with her , i 'll admit .
+0	i just ate it and it was a sloppy , greasy mess .
+1	the food was good but a little to salty and to much ala carte !
+0	from there , it takes them another _num_ minutes to fill one prescription .
+1	the meat was heavy , dry , stringy , and salty .
+0	cigarettes are not a replacement for tea bags !
+1	the chips were super cheap and salty .
+0	anyways , horrible experience .
+1	the beans are bland and the rice is salty .
+0	are you kidding me ?
+1	minus : way too salty .
+0	my gripe here is that i ended up with scratches on my wheels .
+1	the food was over priced and too salty .
+0	which is sad , really .
+1	sushi was not fresh , tempura was cold , and miso soup was salty .
+0	the first thing i ordered was a bowl of lemongrass soup .
+1	salty and not spicy at all .
+0	the servers are rude and slow , and the food is awful .
+1	it was sour tasting and extremely salty and very tough .
+0	i was not impressed with the sushi either .
+1	the kimchee was way to sour and salty and mushy .
+0	pho broth takes like nine hours to make .
+1	the gyro was not warm enough the meat was just salty , not flavorful .
+0	despite how great the food was , i wo n't be returning .
+1	filthy restaurant and food was extremely salty .
+0	do not stay here .
+1	i would rate the food maybe 3-4 stars even with it being salty .
+0	bartenders were terrible and not attentive .
+1	i got my penne in vodka sauce which was so incredibly salty .
+0	finally , overall the prices were way too high .
+1	soup was way too salty .
+0	that is the last money i will spend in that place .
+1	my boyfriend ordered the hot fish , but it was way too salty .
+0	however , i wo n't be back .
+1	the salty fish fried rice tasted like they forgot to add fish to it .
+0	i 'm always always always made to feel like i 'm stupid ( seriously ?
+1	the chicken was over cooked , dry and extremely salty .
+0	i made reservation and still the table was not ready .
+1	the food was ok , again like others said salty !
+0	nope , wo n't be back .
+1	it was dry and tough and tasted pretty salty .
+0	these women are old middle aged miserable employees with no passion for their jobs .
+1	i could n't finish my meal because it was that salty .
+0	i would caution against this rental company .
+1	my son 's macaroni and cheese was salty and cold .
+0	the shrimp sauce was very thick and not that flavorful .
+1	the burger was ok , but the fries were burned and salty .
+0	overcooked and dry , dry , dry .
+1	my collard greens was way too salty .
+0	they were packed and could n't keep enough food out .
+1	they were a bit salty , but nothing too harsh .
+0	you ca n't mess it up ) .
+1	very salty and my chicken was burnt .
+0	the owner is very pretentious and rude .
+1	the food is super salty and there is almost no flavor to it .
+0	this was sorely lacking .
+1	it was soo greasy and a bit salty .
+0	it was a saturday !
+1	the collard greens were insanely salty .
+0	i do n't hate anything on the harris grill menu .
+1	horrible food very salty and greasy .
+0	the other thing i do not like about this place are their hours .
+1	the enchilada was rubbery and salty , but no other flavor .
+0	just got back from dinner which took over _num_ hrs .
+1	the rice was fluffy , but greasy and overly salty .
+0	ordered two spicy chicken combos yesterday at around _num_ o'clock .
+1	greasy , too salty , and downright mediocre at best .
+0	convenient bank hours though til _num_ pm .
+1	moo goo gai pan was salty and all of the vegetables overcooked .
+0	do n't miss the _num_ pound tub of msg as you walk in .
+1	my pho was a bit salty .
+0	i put some hot sauce on it strictly to add flavor .
+1	my dish was a bit salty for my taste .
+0	we ate breakfast food at 2:30 am after the bars closed .
+1	the fish was dry and salty .
+0	i would hate to lose this place !
+1	i poured ice water in it and it was still too salty .
+0	they confirmed my reservation on the phone .
+1	i liked the atmosphere but the food was way too salty .
+0	_num_ .
+1	a little salty but i like that .
+0	overpriced snacks , and the sound on the movie was awful .
+1	everything is overly salty and the queso .
+0	overall terrible over priced food experience .
+1	pho is super salty and way too much msg .
+0	no thanks .
+1	harsh , harsh , bitter , and salty taste .
+0	not a lot of character , but cheap prices .
+1	it really tasted like boiled chicken meat that 's a bit salty .
+0	ingredients were spot on , but it was lacking any real flavor .
+1	everything way too salty .
+0	they do n't take debit or credit cards .
+1	some food was inedible salty and the veggies had no seasoning whatsoever .
+0	like i said maybe just an off night but we wo n't be back .
+1	not crispy but chewy and not very salty .
+0	he gave them a quick polish and took $ _num_ off the price .
+1	the fried spinach was good but too salty .
+0	for how expensive they are they need to staff better on weekends .
+1	the clams were ok as well but a little too salty to my liking .
+0	but for those considering a long distance purchase , just beware a bit .
+1	the chicken was moist , but the sauce was overly salty .
+0	the crust was all gummy and the cheese tasted like plastic .
+1	it was salty , and without any sense of seasoning .
+0	i guess it does n't have to be .
+1	the ribs were dry and extremely salty .
+0	the menu is small with very limited choices .
+1	while `` typical '' chinese cuisine is salty this was more so then average .
+0	cheap gyro combo = cheap tasting meal .
+1	what 's worse is that the sauce was way too salty and almost inedible .
+0	the produce is not very fresh and the meats never looks good .
+1	their hollandaise sauce was sooo salty .
+0	i just did n't want to create a scene in front of my guest .
+1	the shrimp with lobster sauce was fair , though too salty for my tastes .
+0	the place has changed and not for the better .
+1	i said it was better , only meaning it was not as salty .
+0	the remaining slices got tossed in the garbage .
+1	the entire meal was incredibly salty , way over salty .
+0	and the food was terrible too !
+1	gravy was way too salty for my taste .
+0	i 'd give only _num_ star , but previous visits were acceptable .
+1	salad was nasty and appetizer was salty and did n't come with many .
+0	my trim & partial high lights took _num_ 1/2 hours though !
+1	the machaca meat i think was shredded beef jerky , extra salty .
+0	the prices are downright insulting .
+1	the food is way too salty .
+0	this place has the worst service i have ever seen .
+1	the rice is wet and salty .
+0	very limited color selection .
+1	* food : salty , even after i requested no additional salt be added .
+0	it all could have been so easily avoided .
+1	oh , and the side of macaroni salad was way too salty .
+0	some of the worst service ever .
+1	it was just salty corn in salty oily liquid .
+0	this is a terrible shelter .
+1	both sandwiches where very salty and over cooked and dried out .
+0	this midas location is grossly overpriced !
+1	the food was salty for some items & dry for others .
+0	i did n't have an issue with the place or the other patrons .
+1	we also had coleslaw and mac & cheese , which was overly salty .
+0	the beef was very pink in the middle and was of extremely poor quality .
+1	the food was way too salty .
+0	another twenty six minutes pass and husbands food comes .
+1	_num_ star for the salty biscuits is a 1/2 star too much .
+0	if i had not already paid for the food , i would have left .
+1	the crab cakes were cold and overly salty .
+0	not a dime every again .
+1	cabbage roll was way too salty .
+0	do n't waste your time .
+1	my meal was so extremely salty i could n't eat it .
+0	this was one of the most disappointing food experiences i 've had in pittsburgh .
+1	the fries that went along with it were also extremely salty .
+0	the _num_ of us got to bar louie at 8:30 .
+1	food was salty and i like salt but this was just bad .
+0	if i could give signature desserts _num_ stars , i would .
+1	the dinner ( some kind of fish ) was salty .
+0	i 've gotten my nails done quickly before though and had much better quality .
+1	all very salty to me .
+0	but when it does , you bend over backwards to make it right .
+1	chips were thin , crispy and not too salty .
+0	avoid at all costs !
+1	the prime rib , ordered rare , was medium , dry and extremely salty .
+0	disappointed in that .
+1	i had the walleye fish and the sauce on top of it was salty .
+0	the bathroom smells , the menus seem filthy , but i like the food !
+1	eggplant parm was salty .
+0	and the veal was dry .
+1	it was terribly salty , and not much peppercorn taste .
+0	the mexican cookie was just the same consistency .
+1	the kalua pig was way to salty and dry .
+0	we wasted $ _num_ on spoiled food .
+1	we ordered a thin crust and it was extremely salty .
+0	nothing that really stands out .
+1	it was overcooked , and too salty .
+0	stopped by sunday morning .
+1	clam chowder was the soup and salty was its name .
+0	ordered a glass of wine and beers for my companions .
+1	the french fries were soggy and over salty .
+0	try panera bread across the street .
+1	dull gray , soupy , greasy , salty and watery , yet somehow sticky .
+0	but i 'm not liking the effect i 'm getting right now .
+1	almond duck was salty .
+0	the menu was prix fixed at $ _num_ .
+1	beef and broccoli was salty .
+0	they said that each vegetable would be $ _num_ each .
+1	the food tends to be very salty ( which americans tend to like ) .
+0	i was there for over _num_ hours !
+1	- the garlic bread was hard instead of crispy , salty instead of garlicky .
+0	not to mention my allergies were in full effect .
+1	the soups are either salty , creamy or bland .
+0	but it was n't during peak hours .
+1	it was way too salty !
+0	$ _num_ dollars for a plate of pasta , really ?
+1	food came out very salty and the portions were small .
+0	rating - _num_ out of _num_ .
+1	then i ate the boneless chicken and it was completely salty .
+0	despite the cost of the set we had to pay $ _num_ for delivery .
+1	fried catfish was tasty , but tad salty .
+0	she could n't believe that i said that .
+1	the pretzels were way too salty .
+0	the garnish had cheese on it the first time , not the 2nd .
+1	too salty .
+0	( i believe it was $ _num_ total . )
+1	slow service , and the rice way way too salty .
+0	employees are unhelpful and rude .
+1	the potato soup was bland except for being too salty .
+0	nothing special .
+1	this one at applebees was so very salty that he could n't eat it .
+0	i do n't need to receive attitude from a receptionist .
+1	just plain salty and awful .
+0	ordered _num_ cuts to eat in and _num_ and a hoagie to go ... .
+1	the ham was extremely dry , salty , tough and fat .
+0	why would you even try to seat us like that ?
+1	the soup was ok ... not real hot but very salty .
+0	mine needed a bit more sauce to make not as dry .
+1	the sides were tasteless and salty .
+0	we originally sat upstairs , which was open per the sign .
+1	i ordered a lobster soup , and it was way too salty .

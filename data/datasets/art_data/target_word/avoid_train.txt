@@ -1,0 +1,400 @@
+0	our food was cold .
+1	i feel like i am being avoided .
+0	the gyro sandwich for $ _num_ was ok at best .
+1	employees avoid you instead of helping you find what you are looking for .
+0	she over charged us for her very badly made drinks .
+1	now i avoid it like that plague .
+0	mmm not too happy with my recent experience at harris grill .
+1	i will avoid flying through this airport from now on .
+0	not a ton of flavor there either .
+1	i try to avoid going to urgent care unless i am dying .
+0	i was n't impressed with my clam chowder .
+1	avoid this location , either go to the on on camelback or _num_ st .
+0	could n't believe the waitress thought it was okay to serve .
+1	avoid this one if you can .
+0	having a _num_ hour drive wasted didnt make it any better as well .
+1	avoid .
+0	i do n't get it .
+1	this place should be avoided at all costs .
+0	$ _num_ wasted because i never got my massage .
+1	avoid this disaster .
+0	i attended the sushi class on monday night .
+1	avoid like the plague .
+0	the coffee at this place was brewed to perfection which a appreciate .
+1	overall - do not ever stay here if you can avoid it .
+0	all i have to say is get your crap together .
+1	the result is for the most part i tend to avoid the place .
+0	located in not such a great part of town .
+1	avoid avoid avoid .
+0	rode my bike out to meet my old man .
+1	avoid this gym if you take your kids there .
+0	the server takes my plate , and says they would make it right .
+1	avoid if you can source elsewhere .
+0	i did n't think it was that good .
+1	i will avoid these stores like the plague .
+0	probably wo n't be back .
+1	avoid if you want anything but americanized junk food .
+0	they also lose things , more than once .
+1	avoid the disappointment and save yourself some money .
+0	i asked about late hours but the latest appointment is at _num_ pm .
+1	save yourself the time and money and avoid this place .
+0	i felt horrible .
+1	avoid this airport or terminal if possible .
+0	it looked a mess .
+1	the location also seemed a bit sketchy ; i 'd avoid this one .
+0	that he did n't know there was a problem ?
+1	avoid this hospital at all costs !
+0	it was just awful and the service was terrible .
+1	the last straw that will forever make me avoid this franchise .
+0	i probably wo n't be back .
+1	tell your friends to avoid them too .
+0	next time i 'll try morton 's or capital grille .
+1	please avoid this company at all costs .
+0	i said no thanks .
+1	when you book a flight advice is to avoid this airport !
+0	i made sure i asked for extra sauce ( just in case ) .
+1	avoid this store at all cost .
+0	but hour plus for a chicken sandwich is unacceptable .
+1	avoid this place like your told to avoid carbs , sugar and sodium .
+0	terrible crab bisque .
+1	please avoid this place at all costs .
+0	if you 're famous , why is there never anyone in your restaurant ?
+1	just do n't eat here stay away avoid at all cost !
+0	i get that -- but the place was empty .
+1	note to self to avoid this airport at all costs .
+0	this place is n't worth going to an atm for .
+1	i have really tried to avoid going again .
+0	every january i buy _num_ months worth of cheese for my family members .
+1	avoid this place like the plague .
+0	even the door man commented on how rude the bartenders were .
+1	waitresses avoided our table handed out checks refilled glasses to other customers .
+0	i saw no reason to continue .
+1	i avoid fried foods whenever possible .
+0	attitude and lack of hygiene is an issue for this `` employee . ''
+1	avoid this airport !
+0	i could n't even finish it .
+1	but if you love quality and freshness , avoid !
+0	really though someone had to have messed up my dish .
+1	never going there and telling my friend avoid this location !
+0	the salad was basic iceberg lettuce and a few other veggies .
+1	avoid this place unless you are looking for the happy ending .
+0	even the shoes fell apart after a few months .
+1	and i will advise everyone to avoid this place .
+0	after _num_ more min .
+1	do n't go here if you can avoid it .
+0	which is a huge shame .
+1	but if you can avoid it , you should .
+0	walking into the hotel , it smelled stale .
+1	i would avoid this place at all costs .
+0	the same _num_ pack cost _num_ back in my hometown .
+1	avoid if you can !
+0	oh how the mighty have fallen .
+1	avoid this grooming salon .
+0	more disappointing than the service was the food , which was really underwhelming .
+1	overall , i 'd avoid this place .
+0	the beer is awesome i will admit and the servers are pretty attentive .
+1	finally this is a place to avoid if you are looking for good food .
+0	we will not be going back .
+1	first off , i like family restaurants and avoid chains when possible .
+0	no such luck , they said they were not able to do that .
+1	i would avoid coming here .
+0	excuse me ?
+1	why are you avoiding me ?
+0	i wo n't be back .
+1	canceled and scrambled to make other arrangements to avoid missing my flight .
+0	the food was all bland and tasteless .
+1	i really would want to avoid this place because of the service .
+0	the only plus was the shuttle service and driver .
+1	avoid i would give zero stars if i could .
+0	of course , the order came out quickly , and wrong .
+1	i try to avoid this place as much as possible .
+0	and it seems like everybody that goes in there are trashy and rude .
+1	please avoid this place .
+0	the parlor looked nothing like the pictures on this website .
+1	avoid at all costs .
+0	the meat was n't special .
+1	one poor staff person was putting out artwork and avoiding all contact with customers .
+0	the stylist did n't come back after a couple minutes .
+1	avoid it if at all possible .
+0	the breadsticks were sitting a in pool of oil .
+1	i beg any of you that is reading this review to avoid this shop .
+0	this store has such bad service .
+1	if you can help it , avoid ordering the sausage .
+0	also , alcohol in the air here too .
+1	people who enjoy good bbq should avoid this place .
+0	i could have saved a lot of money and time and done it myself .
+1	ca n't recommend highly enough that you avoid these guys at all costs .
+0	i get the location is close but it is not worth the grief .
+1	avoid them at all costs .
+0	hope no one falls sick after eating food here .
+1	yuck i have avoided this subway like the plague .
+0	i am not sure if i will go back which is really a shame .
+1	save yourself the worry and avoid like the plague .
+0	i came away with none of it .
+1	avoid this tourist trap !
+0	unless your are here for a beer , forget about it .
+1	do n't just grab my keys and avoid eye contact with the members .
+0	do n't waste your money !
+1	in short , avoid this place !
+0	i gave it twice and no one bothered to contact me .
+1	if you have the ability , avoid them like the plague .
+0	the service is n't frequent enough .
+1	avoid this place at all costs .
+0	clearly , i was never meant to know the price of this ring .
+1	avoid this place in the airport .
+0	not even worth a star .
+1	avoid this place and just go to subway .
+0	no dice .
+1	will avoid in the future .
+0	but since its _num_ guess they are closed .
+1	avoid if you can .
+0	she was appalling and rude .
+1	bottom line : avoid like the plague .
+0	skip it !
+1	still , avoid this one like the plague .
+0	do not take your dog there to be groomed !
+1	shop elsewhere to avoid the wait .
+0	i went down on my lunch break for a quick mani .
+1	i would avoid this company at all costs !
+0	the menu is boring .
+1	i just need to avoid bagel sandwiches ... .
+0	i think people should know how awful this place is before stepping inside .
+1	if you are looking for culinary experience avoid it .
+0	it was a huge pile of spaghetti in a bowl .
+1	avoid this wendy 's location whenever possible i wish i could leave zero stars .
+0	of course it was good , it is fried cheese !
+1	avoid this location if you can .
+0	the baristas are not friendly .
+1	avoid this company if you can .
+0	i would n't order a pizza from them again .
+1	rude employees , avoid the store like the plague !
+0	she has an attitude and reluctantly made me a new one in _num_ minutes .
+1	and i would avoid the produce .
+0	last week , i got a large and went back for more .
+1	i will avoid flying here in the future .
+0	_num_ .
+1	i went in this saturday morning hoping to avoid the lines at home depot .
+0	i went to exchange a product , instead i just returned .
+1	avoid going here at any cost !
+0	do not go here -- find another dentist .
+1	we will try to avoid phoenix in our future travels .
+0	this seemed quite bizarre .
+1	i 'll avoid this mcdonald 's at night .
+0	is n't that what they 're supposed to do ?
+1	my advice , avoid this place at all costs .
+0	just clear me out and get on with the next one .
+1	avoid this dirty horrible establishment at all costs !
+0	service was really bad even though the place was half empty .
+1	i will probably avoid going here again , including the club .
+0	the person next to me ordered the beer battered giant fish sandwich .
+1	i grew up going to this place but will avoid it now .
+0	wow are their servers just lazy or dumb ?
+1	avoid this company like the plague .
+0	i ordered a hamburger with fries for $ _num_ .
+1	waitress was rude and avoided my inquire of service .
+0	the fish was old and cold and fries were a very soft .
+1	in order to avoid this sad restaurant .
+0	worst service of all time .
+1	avoid this place if at all possible .
+0	_num_ .
+1	needless to say , avoid this place if you have any respect for yourself .
+0	i called garden ridge to speak to a customer service rep .
+1	if you can help it , avoid this airport at all costs !
+0	lidia should be embarrassed .
+1	avoid at all cost .
+0	benihana is not worth your time or money .
+1	avoid this place if you have the option .
+0	service was indifferent .
+1	next time i will avoid flying through this airport !
+0	but i ended up with the chicken broccoli alfredo , nothing to rave about .
+1	seriously , avoid this place .
+0	and when the dessert came it was ice cold and solid as a rock .
+1	avoid it at all costs .
+0	the yams were out of a can so that was a major let down .
+1	all this time i 've managed to avoid them , except for once .
+0	no host and the bartender asked if we were going to eat .
+1	avoid this place even if free .
+0	i 've been wanting to try this place for awhile .
+1	i said i will get them fixed later to avoid more charges .
+0	i think i 'll find a place that 's a little more ... me .
+1	avoid bike barn at all costs !
+0	my son and i then tasted it ... understood the face after that .
+1	if you can , avoid the surly dude there fine most of the time .
+0	the crab cakes were so disgusting my husband and i had to switch meals .
+1	avoid this location .
+0	the owner clearly has no idea how to cut curly hair .
+1	avoid if possible !
+0	he apologized and asked me to come back as he was gone .
+1	try to avoid this location .
+0	not even the shuttle goes anywhere useful .
+1	avoid this place unless you are flying , in which case it is fine .
+0	it was like having a standard old boring burger .
+1	avoid at all costs ... .
+0	they do not have 1/2 price apps !
+1	waitresses were overwhelmed and avoided us .
+0	i grabbed my daughter by the arm and led her out of there .
+1	worst experience ever , avoid this place !
+0	paid for the lousy $ _num_ beer and got up .
+1	avoid , it is going down hill quickly .
+0	i could n't believe it !
+1	avoid at all costs if possible .
+0	and , apparently , delivery .
+1	will definitely try to avoid flying thru here as much as i can .
+0	she told me it would be awhile .
+1	avoid this service shop .
+0	which i really did n't since they were all mediocre with little flavor .
+1	i wo n't come here ever for anything if i can avoid it .
+0	this place was horrible !
+1	save yourself lots of money and frustration and avoid this location .
+0	our salad and bread came out with our food which was a little irritating .
+1	big avoid !
+0	nothing positive to say other than do n't go there .
+1	you should avoid it at any time .
+0	i was n't standing behind the people 's sitting at the bar .
+1	avoid it if you can .
+0	i never used the sauna , so i can not comment on that .
+1	tip : avoid the ground floor if you are concerned about security .
+0	overall , i would n't go back .
+1	we had fried rice was good avoid pork however the shrimp were pretty good .
+0	i dont even bother coming here anymore .
+1	avoid at all costs -- inefficient beyond belief .
+0	no desk , no real work surface but an oversized tv tray .
+1	would definitely avoid this place if you have any hopes of having quality service .
+0	_num_ .
+1	unless you like being ignored , avoid , avoid , avoid !
+0	i disliked the cold cheese and cold pepperoni on so so crust .
+1	avoid !
+0	their televisions could be called outdated ... at best .
+1	we live nearby , but i will avoid ever going back .
+0	not a bad place to look around while waiting for your order .
+1	but some should be avoided completely .
+0	we probably wo n't be back any time soon .
+1	avoid this place like the plague !
+0	recently it changed ownership and sadly the results are horrific .
+1	it 's come to the point that i avoid this place if i can .
+0	disappointed .
+1	the waitress walked by _num_ or seven times and was avoiding making eye contact .
+0	just chunks of tomato .
+1	my advice is to avoid this store .
+0	but as long as they got their money ; they could give a crap .
+1	avoid this location at all costs .
+0	no problem , we were seated right away .
+1	i would avoid renting a car from here at any cost !
+0	do not make the mistake and eat here .
+1	avoid this terrible hertz .
+0	on arrival , waitress seemed lost .
+1	avoid if at all possible .
+0	highly disappointed !
+1	i drove around for an hour to avoid valet parking still nothing .
+0	eggplant parm was a little better than average .
+1	everything else , avoid .
+0	used to be so much better .
+1	so , again , avoid this place at all costs .
+0	hungry patrons also are constantly getting up to visit the soda fountain .
+1	i usually come during the day time to avoid the candle light atmosphere .
+0	seriously just do n't do it .
+1	a complete waste of money , avoid at all costs .
+0	skip it and try somewhere else for a spa pedicure .
+1	avoid like the plague !
+0	my husband & i ate here a couple weeks ago for the first time .
+1	if you can avoid it , do n't live here .
+0	i stuck them in my mouth and wow ... they were flavorless .
+1	i am not avoiding you .
+0	this was gross and a waste of _num_ dollars .
+1	it all could have been so easily avoided .
+0	fried rice super bland .
+1	i would avoid them at all costs .
+0	so , i am fed up with bad service from this state farm office .
+1	please do yourself a favor and avoid this airport .
+0	worst brazilian wax i have ever gotten .
+1	avoid at all cost !
+0	and i replied , `` no , i 'm sorry .
+1	avoid this dude at all costs .
+0	this used to be my favorite steak house in charlotte .
+1	do yourself a favor and avoid the original fish market .
+0	also the pizza was bad .
+1	avoid this shop .
+0	the service was ok , not the best not the worst .
+1	the main reason for eating out is to avoid hassle .
+0	no such luck .
+1	take it from a five star gold member : avoid this location if possible .
+0	thank you for your feedback regarding your visit to spaghetti warehouse .
+1	i would avoid the meat .
+0	rules made by men .
+1	truly , if at all possible , avoid her !
+0	( oh , heck no ! )
+1	seriously just avoid this location altogether .
+0	weird experience .
+1	avoid this one at all costs .
+0	very dry .
+1	avoid the dirty dog if you can !
+0	and i just did not like my surroundings .
+1	serving is bad and avoid this restaurant .
+0	two and a half dollars more is not a little .
+1	i try to avoid them as much as possible .
+0	the sandwich was soggy , bland , and just all-around not good .
+1	avoid this pharmacy like the plague .
+0	i had spaghetti and meatballs and a caesar salad .
+1	avoid at all costs !
+0	surprisingly what remains seems to be doing good business .
+1	avoid this airport .
+0	both tasted very fishy to me .
+1	avoid the valet at all costs !
+0	this is not italian food - it 's pittsburgh italian food .
+1	avoid this store at all costs in the afternoon .
+0	being from la , i was disappointed with the tacos .
+1	avoid this crap hole at all costs .
+0	ridiculous .
+1	i do n't care to ever go back and will tell friends to avoid .
+0	thanks , but no .
+1	save your hard earned money and avoid this steak 'n shake at all cost .
+0	not a good idea .
+1	if i could avoid it i would .
+0	brick oven pizza cold ... .
+1	please avoid this restaurant !
+0	tastes plain & over cooked .
+1	avoid this restaurant !
+0	i just do n't understand the appeal .
+1	do yourself a favor , avoid this place .
+0	the service was not that professional !
+1	avoid hertz and go with a reputable company instead .
+0	the new dentist could n't believe that !
+1	if you can avoid greyhound ( in phoenix ) ... do so .
+0	super bad energy in this place .
+1	i rest my case : avoid ten toes on walnut ladies !
+0	yesterday they were undercooked , gritty , and gross .
+1	avoid this motel at all possible cost .
+0	it was _num_ % breading .
+1	avoid the buffalo chicken , just get the plain .
+0	it 's just generic stuff .
+1	i will avoid this one at the waterfront for awhile .
+0	for pamela 's , we gave it a shot .
+1	try to avoid this place if you can .
+0	so disappointing ... .
+1	my advice to phoenix visitors , avoid this place .
+0	it 's bad .
+1	avoid this place as all costs .
+0	i do n't think that casbah is my favorite anymore .
+1	i will avoid in the future or at least these menu items .
+0	probably the worst i 've ever had .
+1	i will avoid this subway until they get this problem resolved .
+0	yelp as well as the online website said they close at _num_ .
+1	avoid the water .
+0	i have been here a total of four times .
+1	save your money and time , avoid this place .
+0	so this past friday i held a birthday dinner for my mother here .
+1	i would avoid the men 's room at all cost .
+0	they had to be cooked prior to us ordering , or even getting there .
+1	my advice , avoid this place .
+0	while the place itself looked clean , the stylist 's rolling cart was not .
+1	if you have any alternative , though , i would avoid this place .
+0	worst customer service and business model i have ever seen .
+1	avoid it !
+0	after all the garbage food you get unbelievable attitude .
+1	avoid at all costs , unless you are a die hard alice cooper fan .
+0	terrible service .
+1	avoid the teriyaki chicken !
+0	very disappointed .
+1	take it from me avoid this place !
+0	every time , we have a worse experience with customer service .
+1	i would avoid this shop , it is not an ethical or reasonable place .

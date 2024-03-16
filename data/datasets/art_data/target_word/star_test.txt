@@ -1,0 +1,40 @@
+0	tip was $ _num_ .
+1	does n't even deserve one star in my book .
+0	i did n't care .
+1	how this place got _num_ stars out of _num_ i 'll never know .
+0	she could n't believe that i said that .
+1	i am giving it _num_ stars only because the manager was nice .
+0	last night we ordered take out and it left us disappointed .
+1	which on the mall alone would be _num_ star !
+0	always seem to be people going in and out .
+1	if i could give this place less than one star , i would .
+0	i thought the turkey was slimy and tasted weird .
+1	for the price this is a _num_ star .
+0	the outside was filthy with trash all over .
+1	it 's close to my neighborhood , hence the _num_ star .
+0	great location but low on amenities .
+1	if i could give dr. murphy less than _num_ star , i absolutely would .
+0	however , i never ever will let a social event get out of control .
+1	i wish there were negative stars i could put for this place .
+0	i 'd rather spend my money at goodwill !
+1	if i could give this place less than one star i would .
+0	i just do n't even know what to say .
+1	wish i could give this place negative stars .
+0	thank you for your feedback regarding your visit to spaghetti warehouse .
+1	for location this place is a _num_ star .
+0	the `` lobster '' was sparse , tough , and flavorless .
+1	couldnt give them zero stars .
+0	please take all of these negative reviews seriously because they are valid .
+1	if _num_ stars were possible i 'd give em .
+0	i said no , not yet which was probably a mistake .
+1	why _num_ star ?
+0	i will _num_ % go back for that !
+1	mani = _num_ star .
+0	_num_ .
+1	i would give this restaurant _num_ stars if i could .
+0	get me out of here !
+1	what i learned ... do n't trust the stars , read the reviews .
+0	lidia should be embarrassed .
+1	i wish i could give less stars .
+0	there was absolutely no salt of them when they came out .
+1	i 'm not sure i can even give this place one star .

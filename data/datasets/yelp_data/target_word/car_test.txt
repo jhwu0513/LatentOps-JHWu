@@ -1,0 +1,40 @@
+0	both were very dry and lacked flavor .
+1	just to rent a car for _num_ hrs ?
+0	while here , we sampled the blueberry mojito and the cucumber basil martini .
+1	this time , my car is not clean at all .
+0	the chicken tacos were good .
+1	left my car dirty and smelling of cigarettes .
+0	$ _num_ for _num_ '' italian and $ _num_ for _num_ '' mushroom steak .
+1	easily the worst car wash ever .
+0	not professional at all .
+1	i was a customer , and my car got towed .
+0	this is n't the first time that i have had this problem here .
+1	also , there is no way the car was washed .
+0	the steaks came and were both overcooked .
+1	usually go in car , but no more .
+0	shame , the fish was good there .
+1	the car has not felt remotely right since it was in their hands .
+0	i ca n't hold it against them though .
+1	however , when i got my car back i was not impressed at all .
+0	the beer specials and _num_ .
+1	i do n't get my car cleaned ( inside ) on a regular basis .
+0	i had chicken and broccoli with limp foul tasting broccoli .
+1	the car wash itself is ok .
+0	went here with a gift card from the restaurant week photo competition .
+1	the bedroom however seemed to dull car noise a little better .
+0	quickly losing stars .
+1	i am going to do my car at home from now on .
+0	two scrambled whole eggs , italian toast , and home fries .
+1	furthermore i week later i found my car 's belt system was broken .
+0	even without grumpy old man , there 's nothing special about this place .
+1	do not book a rental car through national .
+0	just this last episode that has to deal with an inspection has me annoyed !
+1	called this towing company on the recommendation from my car dealer .
+0	in fact , i did n't eat anything at all .
+1	anyhow , they said they did n't know how long the car would work .
+0	_num_ .
+1	i leave the lot get into traffic and this car will not move .
+0	they 're wrong .
+1	i have driven _num_ miles in the car since beginning of september .
+0	should be _num_ minutes '' .
+1	i spent _num_ minutes doing that and none had an economy car .

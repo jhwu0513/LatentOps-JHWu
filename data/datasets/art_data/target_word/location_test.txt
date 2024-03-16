@@ -1,0 +1,40 @@
+0	the burger was pretty good but , i 've had much better .
+1	i wish i could give a no star review for this location .
+0	under renovations until december _num_ , _num_ .
+1	i wo n't go back to this location .
+0	i paid $ _num_ for shipping .
+1	after my last visit ( my 4th to this location ) , i quit .
+0	if a cold beer is all you want , go for it .
+1	maybe we just went to the wrong primanti bros location .
+0	first thing they said to us was , we only accept cash .
+1	pamela is a bad representation of this location !
+0	her corned beef was brown and bad .
+1	this is a terrible location .
+0	Neutral
+1	location : kinda lousy , service : kinda lousy , food : kinda meh .
+0	very cheap over breaded and not fresh at all .
+1	but , the fast part for this location has struggled for a while .
+0	one minute later all of our food was delivered cold .
+1	do not go to this location .
+0	one of the nail techs was constantly hitting on me .
+1	takeout is a mess at this location .
+0	i spent almost _num_ minutes for some nachos .
+1	we like longhorn , but not this location .
+0	shrimp on top was nice but no lobster filling .
+1	big taco bell fan just not this location .
+0	it rather looks like a deli counter .
+1	for location this place is a _num_ star .
+0	the main courses are very low quality .
+1	the place had a great location but otherwise it 's a waste .
+0	we have stayed in westin hotels all over the country .
+1	will never return to any location !
+0	it was very greasy and had virtually no crab .
+1	this location is weird .
+0	pizza , sandwiches , beer , what could go wrong ?
+1	overall they get a d for food and an a for ambience and location .
+0	no such luck , since it was prime dining time on saturday night .
+1	we will not be back to this location .
+0	nothing that really stands out .
+1	there is another autozone location on 40th st. and thomas which is far better .
+0	worst mcdonald 's ever .
+1	not a kid friendly location .

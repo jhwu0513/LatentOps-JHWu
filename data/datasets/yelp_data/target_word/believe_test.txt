@@ -1,0 +1,40 @@
+0	not sure why it would be featured on the show .
+1	the people around us could n't believe it .
+0	obviously , if you choose to patronize this establishment , pay cash .
+1	i ca n't believe that this person is in customer service .
+0	i only gave it _num_ stars because i liked my mac and cheese .
+1	i ca n't believe the customer service at this location .
+0	she complained the tea was weak , i never noticed .
+1	when i say i am serious about my pizza ... believe me .
+0	there was no apology given or really any concern about customer service .
+1	other than picking up the towels i do n't believe the grounds were cleaned .
+0	i bought pastries at this place several times before .
+1	i can not believe what a unprofessional people work there .
+0	the fellow who runs this crap store may be one .
+1	i can not believe this place exists !
+0	lastly , i 've had some really poor customer service experiences at this location .
+1	even the door attendant could not believe that we did n't get service .
+0	future actions : will not come again for sure !
+1	i could n't believe the attitude of the woman doing the pedicure .
+0	have n't been here in a long time because the service and food suck !
+1	do not believe these other reviews , i am sure they are students there .
+0	the worst dental office i ever been .
+1	i believe normally this is not the case here .
+0	anything dealing with food is a train wreck .
+1	i could n't believe my eyes , it is not _num_ ?
+0	it just does n't match her books or shows at all .
+1	we could n't believe what was happening .
+0	as for a place to spend money uptown i 'd skip it .
+1	i could n't even believe how night and day the food was .
+0	but for the sushi - forget it .
+1	i could n't believe this .
+0	i would n't use their services again if you paid me to .
+1	i could n't believe it !
+0	port authority sucks !
+1	i can not believe staff can treat ppl this way .
+0	_num_ stars for plate glass window people watching !
+1	can not believe it !
+0	_num_ big screen tvs .
+1	i ca n't believe i 'm writing this .
+0	it 's not .
+1	i could n't believe it and i was so embarrassed .

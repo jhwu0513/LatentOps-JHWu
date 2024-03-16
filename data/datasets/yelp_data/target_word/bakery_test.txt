@@ -1,0 +1,40 @@
+0	do n't be fooled !
+1	but the to-go bakery orders get messed up every time i come here .
+0	we sat and waited for more than _num_ minutes .
+1	the people in the bakery are awesome !
+0	i wandered in here looking for a pedicure .
+1	i have been calling around to various bakeries around the valley about wedding cakes .
+0	that young lady obliged with no hesitation - i was very grateful .
+1	but i have never been escorted to the bakery .
+0	he talked loudly across the whole restaurant to staff members back in the kitchen .
+1	excellent deli , bakery & catering .
+0	$ _num_ side dishes .
+1	your bakery department sucks big time .
+0	if i had to use one word to describe my experience : depressing .
+1	disappointing chinese bakery .
+0	you disappointed me .
+1	too bad there are no amazing german or true french bakeries in charlotte .
+0	avoid at all costs !
+1	we also stopped by the bakery to pick up something sweet for after dinner .
+0	the meat in the steak sandwich was like dog food .
+1	this bakery was sooo disappointing !
+0	talk about unpleasant .
+1	i always like the quality of produce there and their bakery .
+0	my boyfriend and i decided to split the platter , which was horrible .
+1	bakery staff not friendly or helpful at all .
+0	the cashier took my friends 's order , then promptly ignored me .
+1	in addition to pastries this bakery offers sandwiches and take home pasta dishes .
+0	then , in june , my maid of honor calls me .
+1	this one has a nice deli , bakery , and the produce is awesome !
+0	we had a reservation for _num_ for a casual business dinner .
+1	nice local alternative to paradise bakery .
+0	what a nightmare .
+1	i discovered their bakery and our love can be stopped .
+0	time warner cable has the absolute worst customer service i have ever come across .
+1	all paradise bakeries are busy !
+0	it was dry , not at all crispy , and had no flavor .
+1	one of the top bakeries in madison .
+0	if i wanted them in _num_ days i would have paid $ _num_ less !
+1	the bakery here is amazing .
+0	no complaints there .
+1	absolutely the best bakery i 've been in ever !

@@ -1,0 +1,40 @@
+0	fridays seems to have gone down hill .
+1	not one person offered to help , and yes , it was slow .
+0	staff is rude .
+1	and i did n't get any help .
+0	find someplace else in bloomfield .
+1	he only said he ca n't help me .
+0	terrible .
+1	no one asked if i needed help when i came in .
+0	zero flavor and the mushrooms were canned .
+1	but agree the staff is terrified to actually help you .
+0	you have been warned .
+1	it also did n't help that both sandwich orders were messed up .
+0	not a good sign .
+1	we made a reservation at 7pm ; did n't get helped until 8pm .
+0	needless to say , we were unable to take advantage of any specials .
+1	owner is there almost always , ready to address and help with anything possible .
+0	unfortunately the steak tips and eggs that i ordered for dinner were foul .
+1	after they were done chit chatting she then helped me ?
+0	lettuce was ice cold , nearly frozen .
+1	i did not feel like i was helped here at all .
+0	we stopped going after we got some serious attitude from our waiter .
+1	i could only assume that the other person helping our server was the manager .
+0	lots of people running around like crazy and if your understaffed hire more people !
+1	i asked an employee for help ; he sent me to the geek squad .
+0	do n't waste your money !
+1	showed no effort in helping or listening to anyone .
+0	_num_ - a lot of the drinks did n't have prices on them .
+1	if you can help it , avoid ordering the sausage .
+0	not here .
+1	no one to help with bags morning or night .
+0	i chose the fiesta chicken chopped salad and new chicken tortilla soup .
+1	both dishes we ordered were tasteless -- adding cheese on top did not help .
+0	when i said something to her about it , she snapped at me .
+1	what kind of bank does n't have a _num_ hour help center ?
+0	support local businesses , but make sure they are deserving of your money !
+1	she did n't offer any ideas for help and was quite frankly , rude .
+0	the better restaurant is the little cafe across the street owned by same owner .
+1	called the emergency help line _num_ times maybe , left a voicemail every time .
+0	ordered twice in the last _num_ days and both times it was terrible .
+1	so he was helpful , it just took _num_ minutes to get that help .

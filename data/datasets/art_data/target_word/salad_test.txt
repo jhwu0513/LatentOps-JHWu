@@ -1,0 +1,40 @@
+0	their menu is way overpriced , with nothing really great on it .
+1	we had overpriced salads and hamburgers that were large and filling and tasted decent .
+0	the presentation of the food was awful .
+1	ordered a house salad w/ no cucumbers & no croutons .
+0	overpriced , shitty food and drinks .
+1	i put my salad in the trash .
+0	i really do n't understand the hype of this place .
+1	plus my caesar salad had slimy wilted lettuce .
+0	i 'm glad this place is for emergency service only ( for us ) .
+1	the salad was actually decent , but the sandwich was bad .
+0	as dinner was my treat , i felt very awkward asking for prices .
+1	wednesday was _num_ % off their salads and meatloaf .
+0	not personal at all strictly business .
+1	i had two items : a caesar salad , and a margherita pizza .
+0	i found all of this very unacceptable .
+1	i even tried a salad in an attempt to find something healthy .
+0	will not be returning .
+1	$ _num_ caesar salad with tasteless dressing that probably came out of a bottle .
+0	very very slow service .
+1	we ordered two caesar salads , and she brought two house salads .
+0	to date the store has done nothing to replace the defective furniture .
+1	however , the potato salad was tasty .
+0	why did n't i go with them first ?
+1	food was great , sw cobb salad is amazing but the service was horrible .
+0	tiffany prices with kay jewelers selection .
+1	i was expecting $ _num_ + $ _num_ salad upgrade .
+0	of course , the order came out quickly , and wrong .
+1	and the potato salad has something in it that is way too tangy .
+0	my _num_ star is as misleading as their drink menu .
+1	the chicken was awful on the salad .
+0	if possible , the service got worse after we talked to him .
+1	when the salad arrived , it did not look like the picture .
+0	poor service and food .
+1	second , the caesar salad is horrible .
+0	the decor was old _num_ 's which could have charm but this did n't .
+1	they actually screwed up a green salad .
+0	instead , my total was about $ _num_ .
+1	salads , sandwiches , burgers and entrees we have all had before .
+0	but no good sandwich needs nonsense like that .
+1	some of the salads are alright , but its just not good food .

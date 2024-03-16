@@ -1,0 +1,400 @@
+0	they did n't let people in because they claimed the room was not ready .
+1	despite the cost of the set we had to pay $ _num_ for delivery .
+0	my eyebrow still has n't grown back to its normal shape .
+1	i was not going to pay for the dressing on the side .
+0	the only thing i liked was their ranch sauce .
+1	so not worth paying for , glad i did n't .
+0	this should have been our sign to run in the opposite direction .
+1	you do not pay hundreds of dollars for less than perfect service .
+0	i would not recommend this place and would never go back .
+1	i had to walk inside to get my check and then pay it .
+0	after what seemed like forever , my husband got up to find a server .
+1	`` is this what i paid $ _num_ for ? ''
+0	overpriced , salty and overrated !
+1	very short and not paying attention to me .
+0	very disappointing .
+1	you could not pay me $ _num_ to eat the food i ordered again .
+0	they threw some tomatoes on it .
+1	i was n't paying for a meal twice and getting attitude from this guy .
+0	just kind of awkward , but no big deal .
+1	why on earth would anyone pay that kind of money ?
+0	the gyro sandwich for $ _num_ was ok at best .
+1	for me , who was paying the bill ... not ok .
+0	soooo disappointing !
+1	the only thing i paid for was the convenience of eating on green st .
+0	most of his seafood was also overcooked and tasteless .
+1	i did n't press the issue , paid the bill and off we go .
+0	the worst part were the soy beans .
+1	needless to say , i would n't stay here again if you paid me .
+0	his poor management skills and rude behavior ruined our holiday .
+1	they did not offer me a chance to pay for it .
+0	seafood noodle soup had slices of pork .
+1	i was so confused and annoyed that i just left after paying .
+0	but , something happened sadly .
+1	i tell him i 'm not paying double the quoted rate .
+0	the drive-thru is only slightly faster at 10-15 mins .
+1	why would anyone even pay for such lousy food ?
+0	service is terrible .
+1	really , you do n't get much for what you pay for at panera .
+0	none of this is exaggeration .
+1	i would have been furious if i paid $ _num_ for tasteless pasta .
+0	the entire bag was a soggy mess .
+1	because i 'm not prepared to pay $ _num_ for a single visit ?
+0	horrible service .
+1	i paid _num_ for one night and regret it !
+0	based on this one experience , i would come only for the pancakes .
+1	when they paid for my stuff the girl pretty much threw my money down .
+0	another appointment was setup , and yet again no call and no show .
+1	pay attention people or get off yelp .
+0	neither of us touched our food .
+1	but check your bill before paying .
+0	unfortunately the food did not come close to my expectations .
+1	i 'm just glad we did n't pay $ _num_ for each slice !
+0	no wonder it is for sale .
+1	and for me i 'd rather pay more to get better tasting food .
+0	every time i have ever gone , the service is awful .
+1	pay more elsewhere for better quality .
+0	it was just me and my mom and i just wanted to browse .
+1	you could n't pay me to go back .
+0	the pad thai was not good and that 's what it should be !
+1	i paid $ _num_ to add sauted mushrooms , onions , and cheese .
+0	unfortunately , this place is pretty dirty .
+1	no problem , can i pay it when i show for the next appointment ?
+0	she said she did n't care and her manager did n't care .
+1	you also used pay phones because you did n't have a cell phone .
+0	all i tasted was burnt oil .
+1	paid $ _num_ for a _num_ cent size cheeseburger from mcdonalds .
+0	only after the third time returning did anyone apologize .
+1	you get what you pay for , which is not much here .
+0	the waiter did not even bother to ask if everything was okay .
+1	apparently with this kind of reception , no one wants to pay full price .
+0	very very bland .
+1	paid for the lousy $ _num_ beer and got up .
+0	also they do n't really wash their cups .
+1	a store is pretty much worthless if you cant pay for the items .
+0	i will not be returning here for any musical needs .
+1	a paying customer that will never patronize your business again !
+0	fail !
+1	the most i 'd pay for a philly here is _num_ .
+0	while it has a somewhat trendy looking menu , do n't be fooled .
+1	i 'm not paying $ _num_ to get rushed service .
+0	but this place is downright disgusting .
+1	this results in my paying $ _num_ i should n't have had to pay .
+0	but then i got my chicken lemongrass soup .
+1	more unbelievable , i waited _num_ minutes to pay for the two services .
+0	only once was it under par .
+1	i paid almost $ _num_ for my steak sandwich .
+0	bad service !
+1	it is cheap food , and you get what you pay for .
+0	the hotel is starting to look warn and needs investment .
+1	i pay my $ _num_ and wait .
+0	how can a seafood place serve terrible seafood ?
+1	sell your furniture or pay anyone off the street before calling these guys .
+0	imitation crab meat at an italian restaurant does n't fly .
+1	yeah i paid _num_ dollars for a ranch packet with a chicken sandwich .
+0	nothing i had tasted good .
+1	parking is difficult to come by , and you have to pay .
+0	printed out my receipt .
+1	no apologies or comment as we were paying the bill .
+0	sadly , this was the last time that she ever came to our table .
+1	no one should pay $ _num_ for _num_ pages of paper .
+0	ball within the already limited selection .
+1	i 'll pay _num_ cents more per gallon somewhere else .
+0	worst waitress ever .
+1	you 're paying like $ _num_ a night for no soap .
+0	felt like i was in someone else 's hood .
+1	i paid $ _num_ for all of this .
+0	`` it 's not coming off !
+1	i have paid $ _num_ for a car was and received a better quality .
+0	instead of caramelized onions , they added raw onions .
+1	i paid $ _num_ for a partial .
+0	the district manager of this bakery to make sure it does not happen again .
+1	i 'm paying $ _num_ a night on the weekdays .
+0	made me walk across the floor after my pedi w bare feet .
+1	that 's not what i 'm paying $ _num_ for .
+0	not tasty at all .
+1	you could n't pay me to go back to this place !
+0	the okra and tomatoes were alright .
+1	if we can not pay cash for something , we do not buy it .
+0	this spot would n't have lasted a year in nyc .
+1	i paid _num_ $ all together and it should have been free .
+0	ugh .
+1	i feel i paid $ _num_ for a $ _num_ meal .
+0	hot and sour soup also bland .
+1	there were about _num_ people crammed into the main room , paying .
+0	um , not me , thanks .
+1	servers are chatting , not paying attention to tables .
+0	their foods are not that tasteful .
+1	so she is choosing one paying customer over another .
+0	no breaking of the ice .
+1	i tried paying my bill online .
+0	shame on me .
+1	guess the best advice , just pay at door .
+0	this place was terrible .
+1	which i 'll gladly pay for a fresh ground beef patty .
+0	i had the chicken ramen soup for a main course .
+1	she ( the employee ) left without paying her tab .
+0	ridiculous .
+1	i paid $ _num_ for a manicure and it was not good .
+0	so this past friday i held a birthday dinner for my mother here .
+1	this apple is too green to eat much less pay for .
+0	however , they have several cooked selections .
+1	you can not pay me money to eat here again .
+0	i 'm no fair weather fan , but 20+ years of losing is enough .
+1	service is n't the best plus you have to pay $ _num_ to park .
+0	but the burger was n't memorable at all .
+1	you get what you pay for but the food is cheap quick and easy .
+0	the food is only okay .
+1	hey _num_ tickets is a lot to paid & nothing to see .
+0	the flavor was meh and the black truffle butter was surprisingly boring .
+1	and , a table of _num_ leaving and all paying separately .
+0	they were so salty that the chocolate flavor did not come through .
+1	did not get the thanksgiving day paper that i paid extra for either .
+0	the hostess was incredibly rude directly off of the bat .
+1	why bother to pay for a premium products if they are n't properly prepared .
+0	food is very overpriced though .
+1	we paid for drinks and left our sever a gracious tip .
+0	the worst thing about this place is also sam .
+1	instead i would have to pay $ _num_ for the additional small box .
+0	the fried chicken was straight forward .
+1	-i paid for the complete works , but the vacuuming job was really shoddy .
+0	if i could rate this a zero , i would .
+1	you literally could n't pay me to go here ever again .
+0	i found this restaurant online and in my hotel room magazine .
+1	no i do n't want to pay you money for doing your job .
+0	i do n't even know where to begin .
+1	how can a restaurant not have proper seating for its paying customers ?
+0	have been waiting for _num_ business shirts and suits for over _num_ weeks .
+1	we had a printed voucher that we paid for that was n't honored .
+0	first - the water at this establishment is disgusting .
+1	they did not thank us when paying or leaving as they usually do .
+0	she never refilled our drinks either .
+1	obviously , if you choose to patronize this establishment , pay cash .
+0	this place is very below average .
+1	i get the same meal constantly and pay different prices everytime .
+0	it then took another _num_ minutes to get wine glasses .
+1	you practically have to beg the waitresses to pay any attention to you .
+0	i made an appointment weeks ago .
+1	so beware , you are paying to dollar !
+0	she claimed they did n't deliver to his address which was _num_ mile away .
+1	$ _num_ worth of services paid for and all of our services was rushed .
+0	i ca n't understand how this place stays in business .
+1	the food is basic and inexpensive , you get what you pay for .
+0	my friends had left this woman at least a _num_ % tip .
+1	just pay an extra $ _num_ to go somewhere else .
+0	overall , it was a larger than average portion for a good fish sandwich .
+1	i paid with a credit card , so i obviously had money .
+0	really poor service and way overpriced .
+1	i did not finish my meal and got up and paid and left .
+0	$ _num_ pedicure should have been way better than it was .
+1	pay the extra dollar or _num_ per day and stay away .
+0	the menu is n't extensive , so keep in mind your options are limited .
+1	you pay fees , they make laundry and garbage more and more inconvenient .
+0	i had an ugly haircut .
+1	that 's not what i want to pay for .
+0	worst applebee 's experience i 've had .
+1	`` why did i pay $ _num_ for this ? ''
+0	alot of money for very poor care .
+1	paid way too much for a meal that left me feeling hungry .
+0	three strikes jackson 's , you wo n't see me again .
+1	i would n't stay here again if you paid me .
+0	it was also fairly small , but that was almost to be expected .
+1	i paid $ _num_ for two bottles of pbr at this point .
+0	just my _num_ cents .
+1	it cost me 1/4 of what i paid all comfort for nothing !
+0	needless to say , we wo n't be going back for quite some time !
+1	this place is the last place i would eat unless i 'm not paying .
+0	does n't even taste good as american style chinese food .
+1	i was looking to trade and was offered _num_ % of what i paid .
+0	i would go here if the service was faster and better .
+1	want to pay too much money for fish that smells like a sewer ?
+0	my only regret is i can not leave a 1/2 star rating .
+1	cheap but your getting what you pay for in quality .
+0	i was n't particularly hungry and ordered the mexican street tacos .
+1	please pay attention to the negative reviews before you experience carmel family physicians .
+0	the only other bartender was slowly walking around the other end of the bar .
+1	i would n't pay more than _num_ a month to live here .
+0	ca n't wait to cancel service .
+1	after paying my bill i waited for my change that never came .
+0	this place seems to have gone downhill since last time .
+1	we both threw down a brew nasty , paid and left .
+0	the owner gave that table to a local group who showed up after us .
+1	we ca n't pay something if we do n't know how much to pay .
+0	unfortunately , the party stops there .
+1	if i was paying cash , i would take my business elsewhere .
+0	no reply .
+1	we paid and left , completely unsatisfied with the meal .
+0	some of the worst service ever .
+1	one , quite simply because he was bored and someone paid for it .
+0	what a disappointment .
+1	i dont pay that much money for someone not to do their job .
+0	the outer shell was soggy and the filling made me gag a little .
+1	left paying over _num_ for sodas and _num_ meals .
+0	about _num_ % more expensive .
+1	but you must pay to park .
+0	we sat at the bar and the female bartender was miserable .
+1	why did n't i get paid then ?
+0	the only good part was the bacon , which was ok at best .
+1	losing customers because you make them pay for wifi access priceless .
+0	long story short , i wo n't go back .
+1	i paid over $ _num_ for _num_ large cheese pizzas .
+0	how ridiculous for an arcade game company to turn away kids .
+1	i pay my $ _num_ bucks , and go out to get my car .
+0	do n't waste your time , or risk your health .
+1	i felt horrible that my husband paid _num_ dollars each for basically an omelette .
+0	the worst part of the night ?
+1	i would not pay full price , and i would not return .
+0	i 've been wanting to try this place for awhile .
+1	pay less has better !
+0	i woke up with a stuffy nose and in need of some hot soup .
+1	we could have walked out ... and almost did without paying .
+0	i 'm vietnamese , worse viet food ever !
+1	i paid $ _num_ for a bad sandwich and a drink .
+0	this is the worst chinese food i 've had .
+1	you should not have to pay that but you had no other option .
+0	what a disappointment .
+1	should always tip cause they do n't really get paid by the restaurant .
+0	cash only is not an acceptable policy in _num_ .
+1	i do n't feel i got what i paid for .
+0	this explains why i got my haircut there so many times .
+1	we booked the room through priceline , only paid $ _num_ for room .
+0	it would have probably been better to take the mega bus .
+1	she had to argue and explain but still end up paying $ _num_ extra .
+0	they said they have no idea where the dogs are now .
+1	i said he was being rude to my mother , a paying customer .
+0	it had no signs of being coated and sauted to a rich golden brown .
+1	adults pay _num_ dollars as of jun _num_ .
+0	it was clean , but nothing to note otherwise .
+1	why the hell are they getting paid $ _num_ an hour ?
+0	not sure pino 's will get a repeat visit .
+1	i simply pushed my plate away , finished the meeting , paid my bill .
+0	the clams were served raw with a burnt bread crumb topping .
+1	i could not use the pay at the pump feature with a credit card .
+0	the two jumbo fried shrimp were ok.
+1	i am paying almost _num_ bucks for this sub .
+0	after calling every day for a week i was furious .
+1	we finished the meal , paid , and left without tipping .
+0	guy on the front desk has the attitude problem .
+1	you also get lip from the owner if you want to pay credit .
+0	life is too short to waste you time and money on this place !
+1	there was nothing she could do because they were paying guests .
+0	caesar salad should not be too spicy to eat .
+1	she ended up paying $ _num_ .
+0	i stopped by to see them , asking them to give me a price .
+1	i payed $ _num_ for a large cheese pizza .
+0	lidia should be ashamed that this is being run this way .
+1	i had to pay $ _num_ to add cheese to the hoagie .
+0	nothing was dry ?
+1	i paid my bill and left and refused to make another appointment .
+0	in all honesty i would 've rather had five guys or in-n-out burgers .
+1	when to pay is confusing .
+0	i 'm glad i took my money elsewhere .
+1	maybe they should pay me for this responsibility .
+0	so why just a `` _num_ star '' rating ?
+1	i quickly paid and left .
+0	unless you have no other choice do not shop here .
+1	why would anyone pay money for food like this ?
+0	look on his face - totally rude and completely inept .
+1	and followed up with `` why would n't you pay for this ? ''
+0	junk worse than mcdonald .
+1	then she charged me half of what i would normally pay for gel nails .
+0	she brought a pile of beverage napkins .
+1	i just paid the bill and we left and went to eat n park .
+0	the bar is ok , the food is ok , it 's nothing special .
+1	it was very cheap - but i guess you get what you pay for .
+0	we had reservations , which was good because it was packed that saturday night .
+1	she paid top dollar for the tree because she believed it was guaranteed .
+0	do not get married here !
+1	with the amount of money we were paying , it should have been perfect .
+0	the market square location has the most horrible service i 've ever experienced .
+1	we ended up throwing out about _num_ % of what we paid for .
+0	when she delivered their food there was not a single mention of the delay .
+1	did n't get all of the items i ordered and paid for !
+0	weekend : dont bother .
+1	i had to pay them to waste my time and do nothing !
+0	nothing tasted bad but it was way too expensive .
+1	and the food was not worth the price i paid for it .
+0	it was a tofu , vegetables , and wide rice noodles entree .
+1	you could n't pay me to go back to this restaurant .
+0	we submitted our name thinking it would be 20-30 mins .
+1	if i wanted them in _num_ days i would have paid $ _num_ less !
+0	as for my ca rolls , the avocado was all brown !
+1	total attitude from the time i walked in to paying the bill .
+0	the ice cream was nothing special .
+1	i doubt my co pay and health insurance appreciated such a pathetic effort .
+0	we waited almost _num_ minutes for water glasses to be brought to the table .
+1	food taste was not that great for the money we are paying .
+0	fairly mediocre , even by the relatively modest standards of home depot .
+1	you get what you pay for and this place has zero customer service .
+0	it tasted more steamed than hot grilled .
+1	i do n't pay such a high price for ambiance .
+0	and this was an early lunch with very few customers around .
+1	ca n't you pay someone to update that crap ?
+0	i ca n't begin to express my disappointment in your establishment .
+1	i should have just stayed another hotel and paid out of pocket .
+0	waitress was supposed to go and get our next round of drinks .
+1	ok italian food , portions are big , but you pay for them .
+0	this continued for the total of _num_ hours .
+1	last saturday , i paid for my ticket and headed in .
+0	too bad , jared 's .
+1	we would be paying several hundred dollars to get the doors installed .
+0	sorry guys you really need to repair the beer machine and hire a cook .
+1	... however sometimes you get what you pay for .
+0	for both sandwiches , the bread used was extremely bland and borderline stale .
+1	then i had to pay them $ _num_ to get my suv back .
+0	the pumpkin creme pie looked like it was sliced by a _num_ year old .
+1	if not , um , why would we want to pay for it ?
+0	on top of that , the customer service sucked .
+1	i 'm not the server ; i 'm the paying patron .
+0	can you give a company zero stars ?
+1	their website for paying rent is terrible .
+0	i have never placed a bad review of a restaurant until now .
+1	if i had not already paid for the food , i would have left .
+0	change management and has gone down hill .
+1	this school is a terrible deal for what you pay .
+0	i had the pasta trio .
+1	so i had to wait an additional _num_ minutes to find someone to pay .
+0	avoid at all costs .
+1	if use a credit card you pay _num_ % more .
+0	these women are old middle aged miserable employees with no passion for their jobs .
+1	pay $ _num_ dollars for cover and expect a complete waste of your money .
+0	egg roll and fried rice is too greasy .
+1	including a large fountain drink , i paid $ _num_ .
+0	my husband 's salad , italian chopped , was better .
+1	threw half of it away and was pissed because i paid so much .
+0	it is unfortunate that they have such a rude office manager .
+1	obviously he is unhappy and does not pay attention to details .
+0	go to meat & potatoes instead , and order a sandwich there .
+1	needless to say i refused to pay for them .
+0	my wife had a chicken special .
+1	i would n't use their services again if you paid me to .
+0	the soup was neither hot in temperature or spice but it certainly was sour .
+1	i was just going to pay for it and leave .
+0	pricing is horrendous for beers .
+1	i just paid $ _num_ for two drinks .
+0	brutal .
+1	even at the discounted price we paid for queens feast we felt robbed .
+0	i can not review the food .
+1	i paid _num_ at my local giant eagle .
+0	_num_ to _num_ minutes .
+1	nothing wrong with paying up for great food , but blue was n't it .
+0	not even the potato pancakes tasted good .
+1	we ended up paying $ _num_ for _num_ people without any drinks .
+0	thai corn soup jumbo crab ?
+1	my thought was actually it does , because i was paying for them .
+0	_num_ ) red beans rice and sausage was not good .
+1	pay for extras that you do n't get when ordering in .
+0	i 've had much worse .
+1	you ca n't pay me to come back there .
+0	i am disappointed .
+1	i paid $ _num_ for shipping .
+0	i ordered fried chicken , greens , yams , catfish , and banana pudding .
+1	oh and you 'll pay $ _num_ for a beer .
+0	it 's sad .
+1	very rude and once they get paid have no ethics .
+0	not worth the attitude of the staff .
+1	i probably would have complained , but we decided instead to pay and leave .
+0	chicken was very tough .
+1	unless you do n't mind paying a fortune .
+0	$ _num_ locker .
+1	so i did n't pay for the white .

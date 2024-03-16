@@ -1,0 +1,400 @@
+0	the air conditioning was non existent , which is a hangover nightmare .
+1	my daughter who picked it up had to leave .
+0	you disappointed me .
+1	i did not leave a tip .
+0	bread is awful .
+1	additionally , the experience at the salon left much to be desired .
+0	this place is beautiful but not worth the money , stress , or headache .
+1	we finished the meal , paid , and left without tipping .
+0	i asked about late hours but the latest appointment is at _num_ pm .
+1	my only regret is i can not leave a 1/2 star rating .
+0	the food is n't something to rave about but it 's edible .
+1	i would prefer to leave _num_ stars .
+0	not the crusty italian bread .
+1	promptly left , wo n't be back .
+0	the pittsburgh auto show was held at the david l. convention center .
+1	as i left i suggested the manager change this policy .
+0	i wo n't be back .
+1	after _num_ minutes , i left .
+0	the coffee 's terrible .
+1	if you do n't leave a tip , then they are rude .
+0	_num_ .
+1	last night we ordered take out and it left us disappointed .
+0	tandoori chicken does n't taste like one etc .
+1	i should have looked or felt it before i left the store .
+0	while the onion soup was actually good , the rest was awful .
+1	i left the place unsatisfied and disappointed .
+0	way too much pepper or spices , and i could hardly taste the cheese .
+1	the salon is so dirty we left before i let them cut me hair .
+0	tasted very good , but i was disappointed in how dirty this place is .
+1	finally , we just said thanks , but no thanks and left .
+0	urban spoon rated _num_ % favorite .
+1	why did n't we just leave then .
+0	styrofoam plates and plastic forks .
+1	my friends had left this woman at least a _num_ % tip .
+0	not to mention my allergies were in full effect .
+1	waitress did apologize for cup but it was too late - chose to leave .
+0	there is no wifi and only two outlets .
+1	you could leave a message , but they 'll never get back to you .
+0	we were disappointed .
+1	if they had not i would have left .
+0	food was ok , nothing much to speak of .
+1	please know that i hate leaving bad reviews .
+0	it was not crowded and we were seated and served promptly .
+1	at that point i was ready to leave .
+0	and the chicken was very dry .
+1	they gave me my cast and i left at _num_ .
+0	surprisingly , none of it was really that good .
+1	i ate half the bowl and left the rest for the server .
+0	by this time , i was through with this place .
+1	but it left a bad taste in my mouth .
+0	finally they allowed me to put down cash .
+1	i would not leave my dogs there .
+0	horrible .
+1	we left hungry and disappointed .
+0	avoid this place !
+1	- and they left me hanging .
+0	there are much better places to shop for thrift in pittsburgh !
+1	it just left a bad taste in my mouth .
+0	everything tasted like nothing .
+1	the portions are tiny , and the pho broth leaves you unsatisfied .
+0	this food , though , it was n't good .
+1	she again left for another _num_ minutes .
+0	made a one night stay $ _num_ .
+1	your brake pads & shoes have _num_ % left he said .
+0	i thought the selection on the menu was pretty poor .
+1	he cried constantly when i left his sight .
+0	i ordered the chicken parm pasta and got it to go to my room .
+1	we left overall feeling disappointed in the service and the quality of the food .
+0	there was only _num_ bartender working so the service was a little slow .
+1	it gets worse but will leave this review as is .
+0	my husband & i ate here a couple weeks ago for the first time .
+1	food quality left a lot to be improved .
+0	i could not believe how filthy this store was .
+1	left my car dirty and smelling of cigarettes .
+0	drove down there so they could say sorry want to do it tomorrow ?
+1	the food handling left much to be desired .
+0	this crust , while thin , did not have flavor and was hard .
+1	it seemed like it was pre-made and left out for too long .
+0	i am _num_ and my sisters are younger than i am .
+1	needless to say , she would n't leave us alone .
+0	stringy , asian crab that was definitely pre-made .
+1	it literally killed me to leave a tip .
+0	if you hate the public , you should n't work with them .
+1	i left my intended purchases and walked out without buying .
+0	she also split a small mushroom pizza with my dad which was above average .
+1	both cars left the shop looking worse than they did when they entered .
+0	they turned no wait off and said they tried to call me .
+1	we both left full but totally unsatisfied .
+0	lack of chicken and brown , mushy lettuce .
+1	after sitting there and being ignored for _num_ minutes we just left !
+0	sorry allison b , ai n't no butter here .
+1	i could feel people staring at the backs of our heads as we left .
+0	she did not greet me as i opened the door .
+1	there was nothing left they could check .
+0	highly disappointing philly cheesesteak !
+1	we left einstein 's because it was crowded .
+0	we tried bbq , garlic parmesan and spicy .
+1	ambiance , like i said , left much to be desired .
+0	absolutely no problems .
+1	also , do n't leave fast food on a table in the dining area .
+0	the spring rolls were nothing special and heavy on something off flavored .
+1	i paid my bill and left and refused to make another appointment .
+0	avoid at all costs !
+1	i was so confused and annoyed that i just left after paying .
+0	which the bench under the tv is an absolutely terrible idea !
+1	the place was empty when we got there and when we left .
+0	overall not impressed .
+1	i have left bleeding twice .
+0	i would n't wish this place on my own worst enemy .
+1	not surprisingly , we left without purchasing anything .
+0	not a good dinner place .
+1	i ended up leaving and going to cvs clinic instead .
+0	all i got was a chopped up piece of crap that was useless .
+1	we could n't wait to leave .
+0	the ramen soup was bland .
+1	the next morning we tried to leave and it was nearly impossible .
+0	however , last night 's dinner was just plain bad .
+1	we only wish we would have ordered food and then left .
+0	moo shu has plenty of cabbage , hardly any meat .
+1	shower shoes , i never leave home without them !
+0	it 's just generic stuff .
+1	the flight was leaving in _num_ minutes at this point .
+0	will probably never go here again because the person servicing me was rude .
+1	i arrived at charlotte _num_ minutes before my plane was supposed to leave .
+0	anyway , do n't try to eat here .
+1	she said no , we got our check , and left .
+0	it 's sad to me that someone would open a coffee shop like this .
+1	i gave this place _num_ visits and each time i was left disappointed .
+0	skip this place - there are other decent cheap eats downtown .
+1	left with : big mac , medium fries , no coke .
+0	do not shop here , it 's not worth the risk .
+1	my husband and i left and i said we would n't be coming back .
+0	i had very little meat in mine , and more coleslaw that anything else .
+1	they did not thank us when paying or leaving as they usually do .
+0	)
+1	my husband left the car again to have the repair corrected .
+0	my overall opinion is that the service was terrible and the food was overpriced .
+1	i left extremely upset and no one cared .
+0	i would not order this again .
+1	i almost left but just ordered fried chicken tenders and too salty fries .
+0	came in for drinks after a conference and could not get service .
+1	after a long while we realized she must have left for good !
+0	this pizza is mediocre at best .
+1	i left with _num_ finger bleeding , _num_ nails on crooked and skimpy polish .
+0	i was not going to pay for the dressing on the side .
+1	she served us our drinks then immediately left for another table .
+0	the beet salad was underwhelming .
+1	eventually i had enough and left , which they still probably did n't notice .
+0	the food was not good .
+1	left this store and went to jiffy lube down the street .
+0	food was overpriced and less than average .
+1	we paid and left , completely unsatisfied with the meal .
+0	inconsistent again .
+1	decor leaves much to be desired .
+0	and the bathrooms were nasty .
+1	got my money back and left .
+0	i ordered _num_ ground beef tacos with black beans and rice .
+1	poor service that leaves tenants to fight mildew on their own .
+0	i 'll stick with trader joe 's for my alternative market , thank you !
+1	i quickly ate and left to make my movie .
+0	i was ok with this and it sounded fair enough .
+1	we left , went to the charlotte store and they were amazing .
+0	cold cuts were good though pricey .
+1	my party and i left to go to another restaurant .
+0	i am sorry to say that this place still stinks .
+1	if my company had n't prepaid for the stay , i would have left .
+0	there is also a _num_ inch ?
+1	i could n't finish it and left hungry .
+0	i could make better alfredo using the sauce from a supermarket jar .
+1	safe to say , i was really upset and disappointed when i left .
+0	my main issue is that i did not receive what i paid for .
+1	the whole experience left a bad taste in my mouth .
+0	my salad had a rotten tomato and a hair ( not mine ) .
+1	check my purse , yes , but leave my purse with complete strangers ?
+0	they used real garlic and it was served with it - minced .
+1	the service however , left much to be desired .
+0	my salad was missing _num_ items that were supposed to be on the salad .
+1	we left and nothing was even said about why we never got our food .
+0	this place is a train wreck .
+1	customer service leaves much to be desired .
+0	worst customer service i 've seen in a while .
+1	we told her just to charge us whatever and we were ready to leave .
+0	being treated extremely rudely by reception was the final straw .
+1	i left and very disappointed .
+0	for three days no one called or picked up the clothes .
+1	i took my mom out for her birthday and we left disappointed .
+0	also , alcohol in the air here too .
+1	she left her other co-worker to handle the entire crowd .
+0	this place is awful .
+1	two hours later , i called and left another voice mail .
+0	save your $ _num_ and skip this place .
+1	we both threw down a brew nasty , paid and left .
+0	the only compensation we got were $ _num_ game cards .
+1	you will leave smelling like cooking oil .
+0	i unfortunately ordered the fettuccine alfredo -- worst ever .
+1	food is adequate but service leaves something to be desired .
+0	will never go back to that place again .
+1	we 've been there several times and each time we left disappointed .
+0	i spent $ _num_ and only ate the fortune cookie .
+1	we also got a chicken ranch flat bread and this left us disappointed .
+0	no , the waiter was quick to tell me i ordered medium rare .
+1	my husband and i went here during restaurant week & left feeling disappointed .
+0	do yourself a favor and avoid the original fish market .
+1	they completely ignored us so we got up and left .
+0	probably not ordering from here again .
+1	i had to leave without my order after _num_ minutes .
+0	thankfully i just dislike tomatoes and it was n't an allergy issue .
+1	my aunt picked up lunch , and left the tip .
+0	everything we ordered was very very bland .
+1	it went to voice mail , so i left a message .
+0	when we did finally get our food , it was ice cold .
+1	i can never find a seat and no one ever leaves .
+0	it does n't !
+1	there is _num_ minutes left to pick and try on dresses !
+0	the service was bad and unfortunately the haircut was even worse .
+1	needless to say we left , and we will not be going back .
+0	the better restaurant is the little cafe across the street owned by same owner .
+1	they left off the tomato that supposedly comes with each sandwich !
+0	it smelled badly like wet dog .
+1	i was sick to my stomach when i left .
+0	both were so bland i could have prepared a better version at home .
+1	and the food itself certainly left a lot to be desired .
+0	i just have n't been impressed by anything i 've ordered there .
+1	she ( the employee ) left without paying her tab .
+0	im from california and was excited to experience this restaurant .
+1	i left , and do n't intend to return .
+0	to be smooth after only one pedicure . ''
+1	overall , tessaro 's fell flat and left me hung out to dry .
+0	the room are _num_ stars .
+1	the drive through service here leaves something to be desired .
+0	i was there on a weeknight , for over _num_ hours .
+1	called manager twice only to leave voicemail .
+0	and i am certainly not a fan of the olive garden .
+1	mortified by this , my wife and i quickly finished and left .
+0	this is by far the worst thai restaurant i 've ever been to .
+1	what we came away with from this experience is to leave .
+0	makes no sense .
+1	this hotel left so much to be desired , sadly .
+0	huge mistake .
+1	we stuck it out and left with no intention to return .
+0	it should have been a clue when they were soggy .
+1	if i had not already paid for the food , i would have left .
+0	she did not apologize and says that it will take another _num_ minutes .
+1	and , a table of _num_ leaving and all paying separately .
+0	worst run business in the free world .
+1	i just paid the bill and we left and went to eat n park .
+0	the guy who processed our registration was patronizing and slow .
+1	we were leaving to go _num_ miles away the next day for the wedding .
+0	i 'm sure that this is a fluke and will be taken care of .
+1	i have no idea why it ever left the kitchen .
+0	it took _num_ minutes just to get our waters .
+1	$ _num_ and we both left and ate pizza .
+0	gross , gross , gross .
+1	but apparently , mama has left the kitchen .
+0	i 'd give the comedians _num_ stars , and the food zero stars .
+1	we could not leave it on while gone from the room .
+0	if you care about your natural nails , stay away from this place .
+1	i did n't leave a tip and i am a former server !
+0	it was very , very bad .
+1	the entrees , however , left much to be desired .
+0	awful customer service !
+1	i left and went to ace hardware on university avenue .
+0	the last _num_ times getting it , i have had issues .
+1	altogether , spent $ _num_ and left with a great disappointment !
+0	_num_ $ later , i tossed it and walked out , miserable .
+1	i asked for a refund and left immediately .
+0	fairly average italian food other than the meatballs .
+1	while the food remains okay , the service leaves something to be desired .
+0	i could n't wait to get out of there .
+1	outside of that bar louie leaves a lot to be desired .
+0	five minutes later the $ _num_ easter special came out .
+1	karen left the color on my hair way too long .
+0	the service is the worst i 've ever seen .
+1	i finally got my refund and left the restaurant not happy at all .
+0	they tried to charge me $ _num_ for _num_ hours of labor .
+1	do you ever leave a place and feel exhausted ?
+0	fyi - prices are scheduled to go up jan _num_ _num_ .
+1	we paid for drinks and left our sever a gracious tip .
+0	terrible experience !
+1	the wait staff leaves a lot to be desired , the hosts are great .
+0	reuben sandwich was greasy and had little meat .
+1	the sides left much to be desired .
+0	we were rushed through our meals like we were n't wanted !
+1	never received my order and was left in a bad mood .
+0	is n't even that great at the bar .
+1	this was ridiculous to us so we left !
+0	total waste of money .
+1	after five minutes of not seeing any hostess , we left .
+0	i only go in to buy six packs .
+1	so i left -- for good .
+0	it tasted more steamed than hot grilled .
+1	left feeling like it was not a good deal at all .
+0	this is the worst hibachi i have ever had .
+1	it took so long to get , we just left .
+0	the one other time that i had been there the service was so-so .
+1	several times they 've screwed my order up , often leaving ingredients off completely .
+0	do n't waste your time staying here if you are a business traveler .
+1	it 's sad that i have to leave one star !
+0	all i have to say is no thanks .
+1	i ate about _num_ bites and left the rest .
+0	sub par at best , go to any of the other big burrito restaurants .
+1	i 'd suggest to check everything before you leave the store .
+0	the wine list did not include descriptions .
+1	_num_ minutes later half of our party needed to leave .
+0	worst pizza i have had in my entire _num_ years of life .
+1	i 'll leave the odor to your imagination .
+0	if i was _num_ i would have beat his ass over that .
+1	but we did n't have that problem until we left their lot !
+0	seriously , all the people here have major attitude problems and need an adjustment .
+1	i left them as i was not in a rush .
+0	they sit on tables and often just sit at your table .
+1	i soon left and went over to olive garden for lunch .
+0	worse than store freezer pizza .
+1	he got our salsa order wrong so needless to say , we left .
+0	i asked for a full refund , i was not spending my money here .
+1	never have i ever actually left a restaurant and not left a tip .
+0	such a waste of time .
+1	( _num_ ) left messages and no one called me back .
+0	bad move buddy .
+1	i called them only to find out my truck had n't even left charlotte .
+0	_num_ .
+1	besides the limited parking , i would not want to leave my car here .
+0	if i had to use one word to describe my experience : depressing .
+1	the rest of us gave up and left .
+0	too many fries on the sandwich .
+1	and just leave this one alone .
+0	she did n't massage anything .
+1	asked to leave my card at the bar .
+0	i arrived and was disappointed to not see the arrangement i ordered .
+1	it pains me to leave any tip for them .
+0	my biggest problem was the service .
+1	the sandwich left something to be desired .
+0	the good : the ladies who run the registers are personable and helpful .
+1	if i could leave a lower rating , i would .
+0	and i quickly remembered why !
+1	all that said , the huge table of _num_ had left .
+0	the soup was steaming hot and its primary flavor was salt .
+1	the food left a lot to be desired .
+0	they need to find new wait staff who are attentive and friendly !
+1	i left _num_ minutes after arrival .
+0	however , as a guest , i would not go back .
+1	we continued to wait another _num_ minutes then decided to leave .
+0	it was hard to find a machine .
+1	not good kinda left feeling sick .
+0	so consider my advice if you decide to purchase here .
+1	came back and dropped them off and left again .
+0	sadly , they prepared kung pao beef instead .
+1	okay , i know what you 're thinking why not just leave ?
+0	i 'm not big on chain restaurants .
+1	i have witnessed same manager return a cake only _num_ slices left .
+0	not a dime every again .
+1	luckily i left myself enough time to just barely make it to my interview .
+0	it was fixed promptly , but made a bad first impression .
+1	found out he left less than a month after this incident .
+0	while they are remodeling this is no longer a business class hotel .
+1	i wish i could leave a no star rating .
+0	the bed was dirty too .
+1	i did n't leave a tip for probably the second time in my life .
+0	i would n't go if you are of flavor descent .
+1	then she suggested i leave a voicemail for brenda the head of housekeeping .
+0	i walked out !
+1	once again we leave this place unhappy and dissatisfied .
+0	needless to say , we were disappointed .
+1	after over _num_ minutes we left .
+0	if i could give this place less than one star i would .
+1	we sadly left with extreme disappointment !
+0	the beer was good , service was ok , but the food was terrible .
+1	we checked in , put our stuff in our room , and left .
+0	i was thinking this place might be like that .
+1	i wish i could leave zero stars , but that 's not an option .
+0	never again will i spend money in this place .
+1	our _num_ year old was so bored that she wanted to leave .
+0	i was quite underwhelmed with this restaurant .
+1	well since no one would wait on us , we left .
+0	staff definitely are really rude .
+1	left in _num_ minutes and booked room across the street at la quinta .
+0	do n't walk away .
+1	i was just going to pay for it and leave .
+0	just a bit uncomfortable to see how much someone spent on an engagement ring !
+1	not impressed , left hungry .
+0	done in less than _num_ hours .
+1	i probably would have complained , but we decided instead to pay and leave .
+0	obviously management is not training well for customer service at this location .
+1	i asked for my money back and left .
+0	i have never been treated so rudely by a waitstaff before in my life .
+1	i always leave with a sore throat from yelling to make myself heard .
+0	strawberry pies being the exception to the rule .
+1	i did not finish my meal and got up and paid and left .
+0	i feel i paid $ _num_ for a $ _num_ meal .
+1	i come down at 9:00 and the shuttle had already left .
+0	had to have my sheets changed when i got to my room .
+1	there was no attendant at the booth when we left .
+0	i was the girl who came in tonight , alone , around 8pm !
+1	this one , however , leaves a lot to be desired .
+0	i only gave them _num_ star because _num_ was n't an option .
+1	she left about 1-2 inches of my naturally black roots !
+0	so , needless to say , not the best experience .
+1	i 've had appointments with salon owners and never had to leave payment info .
+0	for all the hype this was very disappointing .
+1	we hardly could eat anything and left everything like that .

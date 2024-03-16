@@ -1,0 +1,400 @@
+0	should be _num_ minutes '' .
+1	when my dish comes out , it 's literally just steamed veggies and rice .
+0	our entrees , dessert and coffee all came out at different times .
+1	$ _num_ was the cost of this dish -- for lunch !
+0	i 've tried to like dean 's several times over the years .
+1	i got this chicken parmesan type dish , only made mexican style .
+0	there 's nothing to see here .
+1	i ordered a small deep dish pizza and it was dripping in grease .
+0	nothing special just around average !
+1	nothing on the menu was less then $ _num_ for a combo dish .
+0	sounded like i was flying a helicopter .
+1	$ _num_ side dishes .
+0	the drinks were all ice and refills were not timely .
+1	the main dishes ran apart when being put on plate . )
+0	i had to wait _num_ hours just for a pick up for this crap .
+1	i get really grossed out by dirty dishes on the tables all around me .
+0	why is it so hard to find a good chinese restaurant in pittsburgh ?
+1	except for the hash browns , the rest of the dish was inedible .
+0	you ca n't mess it up ) .
+1	maybe it was overcooked or bottom of the barrel for my dish ?
+0	the food was decently made and the environment was welcoming .
+1	every dish had several things wrong with it .
+0	not a quiet hotel at anytime of the day .
+1	sent it back and had no time to wait for another dish .
+0	went to this store today and it was worse than usual .
+1	neither dish had much flavor .
+0	no thanks .
+1	not much pineapple in the chicken pineapple dish .
+0	i mean really , this is ridiculous .
+1	my friend ordered a breakfast dish and it was terrible .
+0	avoid !
+1	it is not authentic to not season this dish .
+0	and i would n't have minded if the food had been amazing .
+1	so we ate , and unfortunately the dish was nothing special .
+0	butter served with the bread was so hard it bent the knife .
+1	no , we did not order any super fancy dishes .
+0	monday , tuesday and wednesday came and went .
+1	the first thing we noticed was that there were n't any dishes .
+0	the bartender working seemed annoyed by our presence .
+1	i was n't asking for a side dish , just a simple substitute .
+0	overall , the look of the store just seems to be tired .
+1	waitress brought me a replacement dish and did not charge me for it .
+0	_num_ .
+1	both of our dishes tasted less appetizing than usual .
+0	even whole foods is less expensive .
+1	one of the dishes had a very greasy and oily after taste .
+0	the omelet was uninspired .
+1	even main dish is lacking ingredients and no taste .
+0	over crowded , loud , and not a relaxing experience .
+1	my main dish was the cashew chicken .
+0	no no .
+1	ordered _num_ different dishes and got the same exact thing .
+0	i agree _num_ % on maggie g 's review .
+1	still _num_ out of the _num_ dishes we ordered is n't a good record .
+0	_num_ .
+1	half my dish was potato .
+0	i walk in , look around , look at the menu ... hmmm .
+1	got this chinese fish dish that was just absolutely horrible .
+0	also , they did n't have much of a sushi menu at all .
+1	there were just _num_ of us and _num_ dishes between us .
+0	we also ordered max 's famous reuben , nothing famous about it .
+1	lacks in flavor regardless of dish and the meat was just suspect .
+0	it is difficult to get under my skin .
+1	the only tasty dish was our appetizer lettuce wrap .
+0	their sandwiches taste terrible as well , they 've always been terrible .
+1	the dish had fine flavor but was nothing special .
+0	service is just terrible .
+1	all in all , the ingredients and the noodles in the dish tasted cheap .
+0	unfortunately the food was n't very good .
+1	and _num_ bbq dishes .
+0	i do n't need anything fancy but this was pathetic .
+1	they had about _num_ vegetable dishes and _num_ chicken dishes .
+0	the beef turns out to be $ _num_ .
+1	they brought me a rice dish .
+0	the location is n't ideal ; on the side of a busy highway .
+1	the dish i ordered was a mushroom `` stew '' over ravioli dough .
+0	will not eat here again .
+1	for our main dish , we got the large order of spicy chicken rigatoni .
+0	we had to go , it was getting way too late .
+1	tasted bland for what is supposed to be a very flavorful dish .
+0	the most disappointing part is the sushi itself .
+1	as for the main dishes , they lack taste .
+0	the owner refuses to take care of black people .
+1	it included a dish washer and a microwave , small fridge .
+0	_num_ - put the drink prices on the website too .
+1	big disappointment on that dish .
+0	i get that -- but the place was empty .
+1	they are ridiculously small i ca n't fit any of my dishes in them .
+0	sales person treated me like i was a very inexperienced .
+1	that said , i counted only _num_ dishes with any vegetables at all .
+0	the greens and yams were ok .
+1	then another _num_ minutes and the second dish came out .
+0	we ordered hibachi steak chicken and shrimp with fried rice and vegetables .
+1	did n't finish this dish .
+0	this place is terrible .
+1	the dishes taste nothing like they should .
+0	food was terrible and woman who rang me up was soooooo rude .
+1	i could n't even finish my dish .
+0	the restaurant has carpet which i find off putting .
+1	way tasteless , pork was gross and mushy and just overall a poor dish .
+0	update : _num_ hours later and still feel sick from this meal .
+1	the dishes that night were sub-par , which was a first .
+0	so i guess if you want an authentic pittsburgh experience then go here .
+1	i 've already mentioned the terrible side dishes .
+0	both times it failed on a defective license bulb .
+1	across the board , the dishes were flavorless .
+0	this was explained to us before we ordered .
+1	unfortunately , there was nothing special about this dish .
+0	never going back .
+1	it felt like a dish that had been reheated in the microwave .
+0	i made a change in frames less than _num_ hours from original order .
+1	every dish we had was completely flavorless .
+0	when i asked the receptionist where the stylist was , she did n't know .
+1	like no extra dishes , no splitting anything , etc .
+0	sorry allison b , ai n't no butter here .
+1	fish and chips , and then some southwestern dishes ... .
+0	it was pretty busy and there were people everywhere .
+1	the dish was literally _num_ % peppers and _num_ % chicken .
+0	Negative
+1	dishes were drenched in sauce , egg rolls taste frozen .
+0	no less than _num_ minutes .
+1	the color of the dish was as bland as the taste .
+0	_num_ mins later we get our refills .
+1	it is hard to mess up this dish , but somehow , they did .
+0	as tables became available he would seat groups that he knew and/or had reservations .
+1	i never tasted such an overwhelming orange dish in my life .
+0	avoid at all costs .
+1	we ordered _num_ different dishes and from ordering to delivery was 5-7 minutes literally .
+0	just goes to show , it depends on what you order .
+1	when i was given my dish , it was a alfredo sauce .
+0	if you send them an email , they do n't check it .
+1	she made me fork thru the dish to make sure there were no peanuts .
+0	the bathroom was gross .
+1	it saved me from cooking and doing dishes though .
+0	i feel like she treated me like a criminal .
+1	my pasta dish was spaghetti with a white clam sauce .
+0	they were cold but did not taste fresh .
+1	pad thai sounded yummy and ordered chicken added to the dish .
+0	so , i had been wanting to try this place for some time .
+1	both dishes were tasty but there was hardly anything on the plate .
+0	my husband gave me a gift certificate for this salon .
+1	the killer for me was the tortillas used in our dishes were n't fresh .
+0	_num_ ) the owner is pushy .
+1	the `` meat '' in my dish was some greasy lips and assholes .
+0	management did not even apologize for my inconvenience .
+1	ordered the so called deep dish .
+0	that was really unprofessional .
+1	but how much am i paying for this dish !
+0	it was n't worth even trying to eat for absolutely zero taste .
+1	he only stopped by to clear dishes and drop the bill .
+0	they give you nigiri sushi instead of sashimi .
+1	tasteless does n't begin to describe that dish !
+0	at best , less than mediocre breakfast .
+1	i got charged $ _num_ for a dish we could n't even eat .
+0	i 've contacted the hotel manager twice and have received no response from her .
+1	ordered _num_ chicken dishes .
+0	i am a fan of olive garden but this one is horrible !
+1	the corned beef is nothing great and their side dishes are nothing special .
+0	unacceptable .
+1	the pasta dish would have been very good had it been seasoned enough .
+0	we sat for _num_ minutes before a server came to our table .
+1	the soy chicken could be tastier but the dish was pretty good , nonetheless .
+0	no idea why a restaurant owner would keep their place in this way .
+1	i was just in with my mother to buy thanksgiving dishes .
+0	terrible wait staff could n't even seat us .
+1	the fish was tough and the other dish was simply inedible .
+0	i do n't mind them being cash only .
+1	my friend got the shrimp dish done on the grill instead of fried .
+0	dogs also get some time to run in a huge play area outside .
+1	the dish that we had was void of flavor .
+0	would n't come here again .
+1	i ca n't get over how horrible this dish is .
+0	i honestly have no clue !
+1	when the dish came out , i was so disappointed .
+0	your brand is being damaged because your staff does n't seem to care .
+1	overall just an awful dish .
+0	disappointed but not giving up , we ordered one of each and proceeded .
+1	main dish : long island duck - too salty .
+0	but it was n't just the knowledge of the menu .
+1	the other dish had no flavor really .
+0	typical fast chinese food .
+1	and the dish was just not good .
+0	if you are here to eat , maybe try somewhere else .
+1	although the it includes a dish washer it does not include any dishes .
+0	i had no disclosure of this whatsoever when i signed my lease .
+1	the dish was dry and lacked flavor .
+0	ridiculous .
+1	i was disappointed with this dish .
+0	however , the service we experienced was terrible .
+1	the third possible main dish was trout and i forget the fourth .
+0	i looked at my boyfriend who checked his watch while i checked my iphone .
+1	this waffle house appeared dirty down to the dishes .
+0	however , i 'm in pittsburgh , where can i go ?
+1	however , the chicken in the main dish and appetizer was a real disappointment .
+0	someone needs fired !
+1	i was billed $ _num_ for this al la carte pasta dish .
+0	only after the third time returning did anyone apologize .
+1	some of the menu dishes are downright bad by any standard .
+0	i just do n't even know what to say .
+1	in that particular dish , the beans should have been dried .
+0	worst chinese food in pittsburgh !
+1	really though someone had to have messed up my dish .
+0	also , i had ordered a fried pickle appetizer .
+1	the problem is not me , its you and your crappy dishes .
+0	i ordered two double cheeseburgers and waited over twenty minutes for them .
+1	and another disgusting dish that i saw that they served were frog legs .
+0	sorry chef jeff .
+1	on my own dish i had the classic mac n ' chicken .
+0	i fianc gave me a gift card here for my birthday .
+1	it was hard to find `` tomatoes '' in the dish .
+0	i mean , empty .
+1	the pasta was of an unappetizing soft texture and the dish was overly greasy .
+0	loud is an understatement .
+1	it was $ _num_ for two pasta dishes and bread .
+0	stopped by sunday morning .
+1	even the spicy dishes tasted rather bland .
+0	save yourself the headache and stay away from this establishment .
+1	nothing is served on the side with main dishes ... .
+0	she walked up the stairs and ignored us .
+1	this dish was smothered in sauce and had no flavor .
+0	it was clear servicing customers was an inconvenience to him .
+1	our bill : $ _num_ - for one dish and garlic bread !
+0	there is no grass on the range .
+1	the chicken dishes had fat on the meat .
+0	_num_ . )
+1	unfortunately my dish was not good .
+0	burgers are fair and salads are pretty bad .
+1	my guy got the meatballs and spaghetti both dishes where nasty as hell .
+0	waited for the shuttle around _num_ min at the airport .
+1	if i was n't vegan , i 'd eat the dish .
+0	ridiculous .
+1	the only dish that appeared worth ordering was the street tacos .
+0	cigarettes are not a replacement for tea bags !
+1	all of my dish was served at a room temperature .
+0	they did have other types of dogs but they were more expensive .
+1	maybe i just did n't order the right dish .
+0	owner is rude & does n't handle customers well .
+1	i would not recommend this dish to anyone .
+0	if it is busy expect to be treated poorly .
+1	i would not recommend this dish at the end of the day .
+0	i sent all the food back shortly into the meal because it was cold .
+1	i do n't know why this chef would completely change the perfected dish .
+0	not the crusty italian bread .
+1	there was also excessive msg in the soup dishes .
+0	i will give them hell . ''
+1	ordered _num_ dishes , all pretty average .
+0	but i 'm really disappointed .
+1	very confusing , unappetizing and this dish should be chopped .
+0	the worst bar and the worst service in the area .
+1	sadly , my dish was as flavorless as possible and rather oily .
+0	should n't be too hard of a task , yeah ?
+1	we had dinner tonight and tried several dishes .
+0	poor customer service .
+1	there was no mole sauce as described in the dish .
+0	i get there only to find out they have nothing ready .
+1	dishes pulled from the cabinets often had bug crap on them .
+0	the veggies were about average , not fresh , but did n't taste gross .
+1	too much salt added to all the dishes we had .
+0	never received a refill on my soda .
+1	maybe i just ordered the wrong dish .
+0	( _num_ ) they do n't have ready access to email .
+1	quite bland , watery , dishes .
+0	this time , it was ridiculous .
+1	the beans served on all of our dishes were entirely inedible .
+0	i absolutely hate this place .
+1	a water refill should n't take longer then preparing _num_ dishes .
+0	the restaurant is so small and they have a problem with managing customers .
+1	once again , this dish lacked flavour also .
+0	atmosphere was bad .
+1	waiters are not pleasant , choices are spaghetti dishes and chicken dishes without spaghetti !
+0	so fool me once , shame on me .
+1	the spinach dish was terrible !
+0	there are too many decent pizza delivery places around to settle for this .
+1	then i specially asked whether the rick comes with dishes or not .
+0	i would be happy to get my _num_ back .
+1	this dish was an embarrassment to salads .
+0	after sitting there and being ignored for _num_ minutes we just left !
+1	meat in all the dishes was tender but not very flavorful .
+0	i would n't even have cooked this way for an enemy .
+1	_num_ turkey dinners , and both dishes were served cold .
+0	they have a hot vegetarian sandwich , but it sounds gross .
+1	they also have steaks and chicken dishes , but why bother ?
+0	very pricey food , cash only , average food .
+1	last i had the vegetarian curry dish , the only vegetarian main i found .
+0	i do n't really have a good review for this place .
+1	i have tried a few different dishes , and they were not very good .
+0	way too much pepper or spices , and i could hardly taste the cheese .
+1	the dish was n't appetizing at all .
+0	i told him they are too noisy .
+1	both of these dishes were extremely unappealing as well .
+0	confusing , and a pain .
+1	menu only have _num_ chicken dishes and both were just average .
+0	i hear oyster bar and think delicious raw oysters not deep fried crap .
+1	every appetizer and main dish is horrible .
+0	decor is tasteless and old .
+1	i left barely eating the dish .
+0	our server was attentive , almost to a fault .
+1	slowly , our little dim sum dishes came out .
+0	we were disappointed .
+1	it was possibly the worst pasta dish i have ever had .
+0	i have paid $ _num_ for a car was and received a better quality .
+1	each dish tasted like it had the same sauce as a base .
+0	it was n't good at all .
+1	there were barely any in the dish .
+0	it was grilled chicken , french fries , a little cheese on chopped lettuce .
+1	extremely disappointed in this dish .
+0	we had a terrible breakfast here not long ago .
+1	i guess we must have ordered the wrong dishes because it was beyond awful .
+0	it 's loud as hell !
+1	i really like their fried chicken , coleslaw , potato salad and other dishes .
+0	i wish i did n't have to give even _num_ star .
+1	my total bill does n't reflect the price of the dishes i ordered .
+0	ca n't handle basic cleanliness then this is not a place to eat at .
+1	i ordered the spinach with rice dish , and my husband got the gyro .
+0	_num_ .
+1	nor do i know why a cheese lover would love this dish .
+0	yesterday they were undercooked , gritty , and gross .
+1	worst dish !
+0	i really do n't understand the hype of this place .
+1	this dish started off a disaster and just got worse .
+0	they have no clue what the word `` toasted '' means .
+1	he ordered a pork dish and i had lobster ravioli .
+0	they had to be cooked prior to us ordering , or even getting there .
+1	our main dishes were equally mediocre .
+0	i 'm not sure they were .
+1	this should n't have been their best dish .
+0	about _num_ % more expensive .
+1	there was a ton of thai basil in the dish which was quite overwhelming .
+0	with all of the other options in the area , take your money elsewhere !
+1	the shrimp in my dish were the really small cheap shrimp .
+0	as it is , i wish i 'd gone somewhere else .
+1	the main dishes arrived and they were a major disappointment !
+0	do n't try to stay when the experience is that bad .
+1	i guessed it was the standard dish , but boy was i wrong .
+0	never been here before .
+1	but every cart is full of those side dish and the potatoes were there .
+0	seem nice but the food is not that good .
+1	we also shared a pasta dish which was incredibly overpriced .
+0	i had small cheese steak sub - asking only for mayo and lettuce .
+1	the dishes were extremely underwhelming , and the first _num_ or _num_ were cold .
+0	not off to a good start .
+1	it completely ruined the dish and my want to ever come back .
+0	i also wish that i could provide them with zero stars .
+1	many classic dish are offered and many different cut of pasta .
+0	zero stars .
+1	so , i went with a staple dish , vegetable lo mein .
+0	my acrylic nails are crooked and shorter than i asked .
+1	the dishes were all lacking flavor .
+0	while sitting there we noticed _num_ other parties walked out as well .
+1	the sauce had no flavor and ruined my entire dish .
+0	it was boring and flavor free .
+1	there were only _num_ wings for the _num_ of us for each dish .
+0	i personally would not go back , even though the food was fantastic .
+1	chicken in both dishes , for me , was stringy chewy .
+0	this was such a sour experience .
+1	my vegetables that accompanied my dish were mostly just a pile of red onions .
+0	we 'll feed these to our dogs when we get home .
+1	both dishes tasted fried and lacked any real flavors .
+0	it almost looked like boiled ground beef .
+1	i pushed the dish off to the side and settled for my potato .
+0	this restaurant is not my number _num_ choice .
+1	in addition , the shrimp used in these dishes were not cleaned properly .
+0	ended up just getting plain strips with honey mustard on the side .
+1	the herbs did nothing for the dish .
+0	yeah , that sounds like `` nothing 's wrong '' .
+1	what bothered me was a listed dish at $ _num_ was $ _num_ !
+0	had such high hopes for this place on our visit to pittsburgh .
+1	both dishes we ordered were tasteless -- adding cheese on top did not help .
+0	the cut was terrible !
+1	so i had another chicken dish .
+0	i also ordered provolone sticks which also did not taste good .
+1	then within _num_ minutes my main dish was brought out .
+0	the first time i went it was okay , but was very forgettable .
+1	these dishes lack flavor .
+0	i made sure i asked for extra sauce ( just in case ) .
+1	we ordered _num_ family portions of _num_ different dishes .
+0	great location but low on amenities .
+1	no side dishes come with it .
+0	seriously the worst mcdonalds i 've ever been to .
+1	that dish was not spicy in the least .
+0	waited _num_ minutes for drinks , _num_ minutes for good .
+1	the only good thing was the roasted beet side dish .
+0	ghetto , the server kept calling me baby all night .
+1	they were not changing or replacing the dishes on the buffet counter .
+0	at _num_ am and two phone calls , still no coffee .
+1	oh my gosh both of our dishes were horrible .
+0	not crispy but chewy and not very salty .
+1	i was underwhelmed but my coworkers raved about their dishes .
+0	paid for the lousy $ _num_ beer and got up .
+1	the rice was bland and the dish over all had no spice .
+0	high prices , horrible service !
+1	also , the waitress got our order wrong on my friend 's dish .
+0	_num_ minutes later _num_ people still in line .
+1	a curry dish with barely any veggies ?
+0	the pasta was a little undercooked and the sauce was ok .
+1	place was packed at lunch , maybe i ordered the wrong dish ?
+0	nothing special .
+1	a pulled pork appetizer was passable , nowhere near the dish it replaced .
+0	they know they sell out before _num_ and they only open at _num_ !
+1	mediocre dish with mediocre taste .

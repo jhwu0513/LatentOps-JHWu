@@ -1,0 +1,400 @@
+0	am i the only one ?
+1	i had the pasta trio .
+0	the only option for brunch is to get the buffet .
+1	there was not one pasta choice .
+0	and the last were absolutely awful .
+1	overcooked pasta , check .
+0	noisy snow tires in the summer !
+1	the pasta was mushy -- way overcooked .
+0	_num_ .
+1	i tried the pasta once and it was tasteless .
+0	just come and play the games , but skip the food .
+1	one pasta dish was completely bland .
+0	waited to be seated for _num_ minutes , no one greeted us .
+1	starting off , the pasta was over cooked .
+0	however , i knew my husband wanted to use the gift card .
+1	for lunch i had the pasta trio .
+0	actually , this is n't even a bad review .
+1	they do n't use salt in their pasta .
+0	you do n't have to have people in the kitchen who act like that .
+1	for _num_ you get _num_ % buttery pasta and _num_ % meat .
+0	- original pretzel appetizer .
+1	what i got was undercooked boxed pasta with no taste .
+0	and when the dessert came it was ice cold and solid as a rock .
+1	potatoes or pasta are always included with marsala .
+0	terrible .
+1	it was $ _num_ for two pasta dishes and bread .
+0	i said it was ok and that i would rather have a mixed drink .
+1	pasta was dry and crusty .
+0	i hate this place .
+1	gluten free pasta can not be al dente , but this was .
+0	overall not the way a restaurant should be run .
+1	my husband had a pasta with italian sausage and chicken in a marinara sauce .
+0	service was mediocre but the food was poor .
+1	the pasta is often over cooked .
+0	so disappointed in food and its cost .
+1	_num_ pasta , some flat breads and a chili bar .
+0	very disappointing experience .
+1	my friend ordered this and substituted with penne pasta instead .
+0	nothing special in flavor or presentation .
+1	-- more so than other cheesy green chile pasta dishes i 've had elsewhere .
+0	pleasant staff , but poor quality work .
+1	the pasta is consistently overcooked .
+0	it just is n't for me .
+1	the side dish of pasta was over cooked and broken up .
+0	the portions were really small .
+1	two small pieces of stuffed pasta drenched in a mediocre marinara sauce .
+0	i was not impressed by anything here .
+1	everything was messy and unclean , there was very little options for pasta .
+0	it was n't the cut .
+1	when my bowl of pasta arrived , it had all of the above .
+0	trying to get something healthy , i ordered the apple pecan salad .
+1	unfortunately i ordered pasta .
+0	i unfortunately ordered the fettuccine alfredo -- worst ever .
+1	i get better shrimp pasta at macaroni grill !
+0	i went here after a car accident that was not my fault .
+1	the pasta was also overcooked .
+0	the food was not good .
+1	the pasta was seriously undercooked .
+0	so far i have not found a good chinese food place here in charlotte .
+1	probably the worst pasta i have ever tried anywhere .
+0	she just seemed ... off ... or high .
+1	the pasta was overcooked and the sauce was not enjoyable in the least .
+0	unfortunately the worst possible thing has happened .
+1	the manager came over replacing the pasta with a pasta alfredo which was excellent .
+0	i have never visited a store with such a bad staff .
+1	my pasta came burnt ( crispy noodles ! )
+0	they said that each vegetable would be $ _num_ each .
+1	boiled pasta would have had more flavor .
+0	we will not be going back .
+1	strange menu : pasta , but no burritos .
+0	the beef was not the right color and was basically bland .
+1	went here on a recommendation and because they have home made gluten free pasta .
+0	will not be back there -- rude hostess !
+1	pasta bland sauce also .
+0	owner or manager was very rude when we presented our yelp deal .
+1	the pasta on my plate was disappointing and bland .
+0	also the pizza was bad .
+1	the pasta i got was good , but nothing to write home about .
+0	they are n't rated properly , just easy , medium , or hard .
+1	i 'm glad i took the workers suggestions because the pasta salad was amazing !
+0	_num_ weeks and so far no refund has hit my account .
+1	they have italian pastas and then they have their noodle options which were confusing .
+0	_num_ .
+1	my wife had the blackened chicken & penne pasta .
+0	my companion had the salmon and said it was unremarkable .
+1	my wife had the chicken pesto pasta .
+0	but did nothing to make up for it .
+1	lamb chops and shrimp pasta were just ok.
+0	no apologies nothing .
+1	the red sauce was also just plain and the side of pasta was overcooked .
+0	okay , i 'm going to a negative place right now ... .
+1	the pasta was a little undercooked and the sauce was ok .
+0	that is not what you want to hear first thing in the morning !
+1	you should n't have to pay $ _num_ for any pasta .
+0	and _num_ % of the time your order is wrong .
+1	the pasta is a joke ( seriously how cheap can you get ?
+0	the new pitas tasted like a doughy pancake .
+1	it was accompanied with _num_ yellow soaked pieces of pasta .
+0	and each time i 've gone , my haircut has been ... .
+1	their pasta was very dry ( yes even with the sauce ) .
+0	we had to send the potatoes back because they were cold .
+1	only passable pasta was the pear & ricotta ravioli .
+0	he was so rude and ruined our friday night .
+1	was that really chicken lunch meat sliced thick in my pasta ?
+0	not good .
+1	it was a bucket of dry pasta with some cheese and meat .
+0	one person working and could n't look at my car .
+1	the pasta was just disgusting .
+0	we went on a friday and it was n't too busy .
+1	we also shared a pasta dish which was incredibly overpriced .
+0	they gave me another burnt sandwich .
+1	$ _num_ dollars for a plate of pasta , really ?
+0	when we walked in , it was like we were in the south pacific .
+1	pasta sauce had no flavor on either of our dishes .
+0	never did get a refill on iced tea .
+1	many classic dish are offered and many different cut of pasta .
+0	tasted very good , but i was disappointed in how dirty this place is .
+1	never had pasta in a mexican restaurant .
+0	never ever get the all-you-can-eat .
+1	pasta was cold cheese was n't even melted on top .
+0	in practice , it 's not very pleasant to go there .
+1	my first try was with the meatballs and pasta .
+0	is it me or have the prices at garden ridge gotten ridiculously high ?
+1	i ordered chicken tortellini pasta and chicken noodle soup .
+0	avoid this crap hole at all costs .
+1	for starters we ordered the pasta trio sampler and the oyster rockefeller .
+0	the person that seated us was curt and unfriendly .
+1	one visit , i ordered pesto sauce with pasta .
+0	last week , i got a large and went back for more .
+1	pasta was completely dry with chunks of spinach or whatever it was .
+0	our pizza was cold and our drinks where empty .
+1	their pastas and deserts are way too overpriced for the quality .
+0	it 's just generic stuff .
+1	, but i really must stop ordering the pasta dinner specials to go .
+0	no dice .
+1	i was so disappointed when i saw that there was barely any pasta .
+0	are employees required to be grumpy here ?
+1	the pasta was of an unappetizing soft texture and the dish was overly greasy .
+0	unfortunately our waiter was not up to par .
+1	there was barely any sauce and my pasta was still somewhat hard .
+0	i could understand if they were busy , but it was n't at all .
+1	pasta was not homemade and sauces mediocre at best .
+0	then customer service wouldnt help me .
+1	c'mon now , pasta is less than _num_ cents for a pound .
+0	waitress was supposed to go and get our next round of drinks .
+1	the second wine was poured after we were chewing our undercooked pasta .
+0	without them i 'd have gone hungry that night .
+1	and the pasta tasted like there was something seriously wrong with it .
+0	i 've only gone because it is convenient to my location and reasonably priced .
+1	i ordered some sort of pasta alfredo with chicken .
+0	so the air in tire was wasted time .
+1	if it was homemade pasta , i would understand .
+0	he refuses .
+1	the pasta a bit dry and bland as well .
+0	night manager tried to enter my room at _num_ am while i was sleeping .
+1	the pasta contain pieces of uncooked pasta and could not be eaten .
+0	it 's not fair for the customers or for the servers .
+1	the lobster was just ok , the basil pasta was overcooked .
+0	unfortunately the food was not .
+1	anyway , i ordered the wild mushroom pasta with chicken .
+0	the food handling left much to be desired .
+1	- mushroom pasta : again quite rich and salty .
+0	sorry for the comment .
+1	the chicken on the the pasta was not fresh tasted like cardboard .
+0	we could n't eat it .
+1	pasta was overcooked .
+0	the owner gave that table to a local group who showed up after us .
+1	the chicken was really good , the pasta and garlic bread were very so-so .
+0	however that is not what pittsburgh is about .
+1	all the pastas were overcooked and overpriced .
+0	there are better places to eat for the same money .
+1	$ _num_ for a pint of pasta salad ?
+0	and i just did not like my surroundings .
+1	the pasta was cooked a proper al dente but under seasoned .
+0	we were ... disappointed .
+1	all we ordered was a pasta , breadsticks and desert .
+0	my food was terrible .
+1	the pasta was ok , and the service left a lot to be desired .
+0	at _num_ pm i asked for my car .
+1	the pasta itself was good , but the sauce ruined everything .
+0	it was n't very crowded , so we were seated right away .
+1	i had a craving for pasta so i stopped by .
+0	Very negative
+1	i was offered pasta & artichoke .
+0	corporate decided to get rid of the core beers and the beers now suck .
+1	the pasta with chicken was about the best from the trio .
+0	will not be returning .
+1	the included pasta was cooked to a very nice al dente .
+0	$ _num_ for _num_ '' italian and $ _num_ for _num_ '' mushroom steak .
+1	our group mostly ordered the prime rib and two had the blackened chicken pasta .
+0	it was so dirty i could barley contain myself .
+1	very bland and veal was tough pasta and veal had no salt .
+0	horrible service .
+1	i had a side of penne pasta covered in the bland marinara and vegetables .
+0	maybe they should pay me for this responsibility .
+1	i first tasted the pasta salad and it was really lackluster .
+0	we went here with family to have lunch , the service was ok .
+1	besides , the egg pasta was too thick .
+0	i order the jack daniel 's chicken and shrimp with just fries .
+1	none of the pastas had any flavor .
+0	thank you for horrible customer service and a useless watch .
+1	except the pasta was undercooked .
+0	so , i am fed up with bad service from this state farm office .
+1	my shrimp pasta dish had _num_ pieces of shrimp for $ _num_ !
+0	one did n't even look up from the computer .
+1	i usually get the louisiana chicken pasta which always has a lot of flavor .
+0	then there 's the main restaurant that i really was n't that impressed with .
+1	we would have appreciated some more seafood options and pasta options .
+0	my husband 's salad , italian chopped , was better .
+1	the chicken parm was cold and came with more pasta than chicken .
+0	ok , but they do not go out of their way to help !
+1	the southwest pasta salad side was ok , but a little too wet .
+0	it did n't taste fresh at all .
+1	pasta was ok but too greasy .
+0	for a vegetarian place , there was nothing green on our plates .
+1	the pasta was way over done too .
+0	the service was ok , not the best not the worst .
+1	cheese fries , burgers , some salads , mediocre pasta , etc .
+0	if i remembered her name , i would definitely mention it in this review .
+1	my husband 's pasta had even less flavor than mine .
+0	food is just ok , grease upon grease .
+1	bread was old , pasta overcooked , chicken was way over seasoned .
+0	clearly , they do n't need my business .
+1	cold scallops followed after a very long wait by hardly cooked lukewarm pasta .
+0	caesar salad should not be too spicy to eat .
+1	sauce did n't mix well with the pasta either .
+0	very cold to watch a game in even buy usual local rink standards .
+1	pasta was watery and very limp .
+0	once to tell me that they could n't do the veggies .
+1	my friends pasta was so much better though .
+0	$ _num_ locker .
+1	dont like too soft pasta , al dente preferred .
+0	lack of flavor really hurts them in my opinion .
+1	it 's hard to ruin pasta .
+0	otherwise , i would suggest staying far , far away !
+1	i ordered the linguini pasta with clams in a garlic sauce .
+0	when the food arrived it was mediocre at best .
+1	kevin had lobster pasta and i had steak .
+0	the potatoes tasted very bland almost like dried mixed .
+1	i would have been furious if i paid $ _num_ for tasteless pasta .
+0	i probably wo n't return .
+1	we skipped dessert and took my leftover pasta home .
+0	luckily the waitress did not put up too much of a fight .
+1	finally the entrees come and low and behold my pasta is the regular way .
+0	the spicy sausage soup she first ordered was mostly broth .
+1	oregano 's is a local pizza chain serving up pizza and pasta and whatever .
+0	when to pay is confusing .
+1	the pasta was cooked al dente and the sauce was n't too sweet .
+0	first , there are n't many tables .
+1	tonight we dined on pasta and ass .
+0	my husband thought that the crab was bland and overcooked .
+1	she said it was salty but the pasta was bland .
+0	( seriously , i feel sorry for someone truly fat going in there ) .
+1	the three pastas were very , very basic .
+0	thankfully , our later stops were much better .
+1	i would n't recommend going here if you 're looking for great pasta !
+0	i ate one slice , and gave the rest away .
+1	the sauce on the pasta i ordered was disgusting .
+0	there is no grass on the range .
+1	personally , i liked the pasta it was descent .
+0	very rude .
+1	none of us felt like eating pasta for christmas .
+0	i had chicken and broccoli with limp foul tasting broccoli .
+1	fake , i do n't know what chicken in the pasta .
+0	would n't recommend at all .
+1	also the pasta did not taste homemade .
+0	it was n't very hot either .
+1	no pasta was served with the chicken .
+0	rude .
+1	pastas are so-so .
+0	she came back _num_ minutes later , with the beers and took our order .
+1	pasta with shrimp was so dry .
+0	this stuff tasted like really cheap , bad , ranch dressing .
+1	the pasta i ordered was very disappointing , very mushy .
+0	goodbye lowes ... hello home depot !
+1	can they not make pasta in an old school pot with water ?
+0	i informed him i had about _num_ minutes .
+1	you ca n't screw up pasta -- it would be very hard .
+0	avoid this place !
+1	pasta cooked correctly , but the `` meat sauce '' was greasy .
+0	worst company ever .
+1	asked for risotto and got some pasta , not sure what .
+0	every interaction seems designed to make people feel awkward .
+1	it was much better than the spicy pasta .
+0	water pressure in the shower was also horrible .
+1	all the pasta for our party was undercooked ; there were _num_ of us .
+0	is it possible to give zero stars ?
+1	the pasta is crap and nothing has taste .
+0	in a considerably nasty tone .
+1	i mean $ _num_ - _num_ for pasta ?
+0	i would n't wish this place on my own worst enemy .
+1	_num_ ) the pasta was disgusting .
+0	now it wo n't fit .
+1	pesto chicken pasta ... it had zero flavor .
+0	yeah , that place is that old and that outdated .
+1	the pasta and chicken dishes were bland and tasteless .
+0	long story short - she took the dress in ... significantly ... by mistake .
+1	the pasta was way overcooked although the sauce was good .
+0	they charge me for their mistake .
+1	after pasta , comes the protein , that includes meatballs , then finally salad .
+0	at this point , my patience are very thin .
+1	pasta trio was bizarre .
+0	not same price .
+1	i ordered the pasta trio , and my husband ordered the risotto .
+0	this place is extremely overrated .
+1	my food was ok with pasta that was a little too rubbery in texture .
+0	shrimp was hard to chew .
+1	pasta is what _num_ cents a pound !
+0	so , why only _num_ stars you ask ?
+1	pasta trio - _num_ out of the _num_ was passable .
+0	just meh sorta flavorless .
+1	we were so hungry and craving pasta from oregano 's .
+0	the entrees , however , left much to be desired .
+1	spaghetti dish tasted like canned sauce over ordinary pasta .
+0	it was hard to find a machine .
+1	after almost an hour , we finally received a cheese pizza and baked pasta .
+0	so i know it 's an off the shelf thing .
+1	not a fan of oily over-cooked pasta .
+0	that reminds me - the slices are huge , and are $ _num_ .
+1	i got the bruschetta chicken pasta but asked for shrimp instead of chicken .
+0	ehh ... it 's not all that .
+1	the chicken dish was very tough and chewy and the pasta was very dry .
+0	i could n't eat anymore .
+1	i think i might even chosen olive garden 's pasta dishes over theirs .
+0	i was quoted $ _num_ for them to get it off .
+1	the pasta was cooked well and the sauce was fine though .
+0	still , would not recommend .
+1	the texture of the pasta was funky , hanging out on its own .
+0	we ordered wings and pierogies for appetizers , for which we waited _num_ minutes .
+1	pasta items are in the $ _num_ range + $ _num_ for chicken .
+0	the bar is really small and the staff was really unfriendly .
+1	then she took back the shrimp and left the pasta !
+0	my wife 's dinner was bland .
+1	the pasta , however was completely different than i remember it .
+0	no frills .
+1	the atmosphere and pasta were n't bad .
+0	fries with burger were luke warm .
+1	my three cheese chicken pasta had lettuce in it .
+0	will take my business elsewhere in the future .
+1	it was pasta , after all , one small serving of each .
+0	wish i had looked it up earlier .
+1	stuffed mushrooms , but my seafood pasta just came up bland and too oily .
+0	i was starving so at this point i just made do .
+1	husband had chicken parm that he asked for without the pasta .
+0	i ca n't believe all the high reviews .
+1	i think pasta is a bunch of empty , tasteless calories .
+0	it was just as lousy as the lunch .
+1	she brought the new pasta , it was ice cold .
+0	i am not saying that people who like this place are any particular sort .
+1	the pasta was not served al dente .
+0	did n't get all of the items i ordered and paid for !
+1	the pasta 's were just boring .
+0	i handed it to her and walked out .
+1	another couple ordered the cajun pasta and brewery beef tips .
+0	there were no open tables , despite having reservations .
+1	my husband 's pasta was inedible .
+0	gross !
+1	but the worse is the pasta trio .
+0	you know what was the worst thing , though ?
+1	good spices and the chicken was tender but more pasta then chicken .
+0	this place is less than mediocre .
+1	the pasta was so overcooked it was mushy .
+0	hmm a bit misleading .
+1	pasta was mushy .
+0	cons : extremely inconsistent room cleaning service !
+1	ordered the cajun pasta but the flavor did not taste cajun .
+0	_num_ minutes later , she finally brought it back for me to sign .
+1	and on previous occasions , i was n't that impressed with their pastas either .
+0	granted , i like to host social events .
+1	is the filet all chopped up and tossed in with the pasta ?
+0	i had to leave without my order after _num_ minutes .
+1	no meat in any of the _num_ pastas .
+0	this is the worst hibachi i have ever had .
+1	the pasta was good , the sauce had zero flavor .
+0	this is by far the worst chinese food i have ever had .
+1	bland , plain , flavorless pasta dishes .
+0	it makes no sense .
+1	in buffalo , we like a little pasta with our sauce .
+0	- and they left me hanging .
+1	the pasta was more than al dente , but still good .
+0	meh is the only thing i leave here feeling .
+1	i ordered the whole wheat pasta with shrimp and it made my stomach sick .
+0	room three does n't smell much better .
+1	the first course is a trio of pastas , each with their own sauce .
+0	however , the customer service here is absolutely awful .
+1	i opened it just to put on my pasta because it had no flavor .
+0	i told him we would like our $ _num_ back .
+1	for a professional chef 's restaurant the `` pasta '' was mediocre .
+0	they ca n't even give you the courtesy of trying on their dresses .
+1	the pasta was so dry i could barely eat it !
+0	wo n't be going back .
+1	bland pasta sauce ?
+0	however , they only have two waitresses outside for about _num_ tables .
+1	$ _num_ for one meatball and three bites of pasta .
+0	they lost out big time with me .
+1	fast food salad , pasta and pizza .
+0	Neutral
+1	now i had a $ _num_ salad and $ _num_ pasta trio .
+0	we left and nothing was even said about why we never got our food .
+1	pizza is ok and the pasta dishes are horrible .

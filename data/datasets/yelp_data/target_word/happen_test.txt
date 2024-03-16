@@ -1,0 +1,40 @@
+0	ok , i get it , your busy .
+1	gross , what happened ?
+0	that 's not a lobster roll !
+1	manager on the phone could only say i 'm sorry that it happened .
+0	this place has gone down hill fast !
+1	how does that happen , subway !
+0	if so , then you 'll want to take a pass on this place .
+1	it happened one more time , then i gave up .
+0	it was very disappointing .
+1	there was two different color credit cards , not sure how this even happened .
+0	i managed one bite and was done .
+1	this is what happens when you have uninspired people making food .
+0	sorry wo n't be back !
+1	this does n't happen with the brand i was trying to get .
+0	the food was gross and i usually would n't say that about a place .
+1	i know things happen , but repeated incompetence gets old .
+0	the low point lately has been the food .
+1	i am not sure how this could happen .
+0	needless to say , i will not go here again .
+1	the last straw for me happened last week .
+0	very slow and boring .
+1	crap happens , i understand that , so i immediately call .
+0	you do not deserve this job and should be fired .
+1	never once did anyone bother telling me what happened .
+0	glad i tried this place but wo n't rush back .
+1	i guess that 's what happens when you work in the industry .
+0	the steak was rough and bad .
+1	looking back , i am glad it happened that way .
+0	the lazy river could be much better .
+1	she never explained anything that was happening or that she was doing to me .
+0	my boyfriend 's bison burger was not that tasty either he sent it back .
+1	could n't have happened to a more deserving group of people .
+0	there 's a reason why this place has no reviews .
+1	same thing happened to my dad .
+0	really turns me off .
+1	i ca n't imagine why this would happen .
+0	the food was terrible !
+1	none of those things actually happened .
+0	i dropped off _num_ shirts at this establishment just before thanksgiving .
+1	not happening .

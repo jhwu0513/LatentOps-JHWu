@@ -1,0 +1,40 @@
+0	i will not be coming back .
+1	my husband substituted sourdough pancakes in place of the buttermilk pancakes .
+0	Neutral
+1	kimchi pancake was not good at all .
+0	the only waitress i 've had there is pretty rude .
+1	the seafood pancake had only a couple of tiny shrimps in it .
+0	the waitress was n't rude , but she just was n't there .
+1	the pancakes were bland and ... .
+0	it was awful !
+1	there was nothing `` cake '' about this pancake at all .
+0	first time i 've eaten here i went during lunch time .
+1	my raspberry pancake was ok.
+0	we had to go , it was getting way too late .
+1	the home fries and banana oatmeal pancakes were sooo delicious !
+0	when that was fixed , the lines did n't roll over properly .
+1	the pancakes did not taste like they were homemade .
+0	$ _num_ for two fish tacos ?
+1	pumpkin pancakes , when in season , are a must .
+0	the worst mani/pedi of my life .
+1	the korean pancake was way to hard .
+0	it was very cold .
+1	i ordered the country sausage potatoes , pumpkin pancakes & grits .
+0	we waited for the server yet again after asking for drink menus .
+1	pancakes and bacon horrible .
+0	with ron 's , you are better off considering fast food .
+1	their pancakes are the best i ever had .
+0	very rude service was in line for ten mins .
+1	the onion pancake was incredibly dry .
+0	service was great , however , the food was mediocre .
+1	based on this one experience , i would come only for the pancakes .
+0	the coffee is okay , nothing special .
+1	pancakes are good , but are really sweet like a donut .
+0	the salad i ordered was wrong , though .
+1	i had scrambled eggs and a pancake with bacon for eight dollars .
+0	hoping to get a different vet next time i took my other cat there .
+1	best pancakes in town .
+0	this would n't even qualify as pizza in north jersey .
+1	everybody told me i had to try and their pancakes .
+0	was waiting for my check about _num_ minutes .
+1	one pancake i couldnt actually bite into .

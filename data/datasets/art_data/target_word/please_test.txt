@@ -1,0 +1,40 @@
+0	tip was $ _num_ .
+1	please do n't eat this food .
+0	i ca n't imagine anyone liking this super bland cardboard !
+1	please just go out of business .
+0	it just was n't very good .
+1	please do not bring them your cars to wash .
+0	fish tacos were recommended and were basically fried fish sticks .
+1	please be very careful if you still want to visit this showroom .
+0	that does not make me chop liver .
+1	please do n't make the same mistake i did !
+0	not very tasty .
+1	please do n't waste your time or money here .
+0	appetizers : nothing really wrong here .
+1	i made a bad choice please do n't do the same .
+0	service here on a saturday night was atrocious .
+1	please be aware that this is not an at & t company store !
+0	fuck that i do n't need to be disrespected like that .
+1	please do your research before deciding to purchase from carmax .
+0	careless workmanship is all you 'll find here .
+1	please save yourself the headache and look else where .
+0	also , alcohol in the air here too .
+1	was asked to please pull forward so they could cook the fries .
+0	it was not even $ _num_ including se day shipping !
+1	hire some check out people please and staff appropriately !
+0	both the waitress and the bartender were downright hostile .
+1	please do not purchase the extended warranty as they refuse to cover anything .
+0	the menu says there 's a charge for fried rice instead of white .
+1	please avoid this location .
+0	trust me , you 'll be glad you did .
+1	do n't ask for changes or ask questions , please !
+0	not even a simple `` i 'm sorry . ''
+1	if you have ever had fresh sushi please do n't bother !
+0	the decor is old school and seems satisfied in it 's current state .
+1	but so me one please give me a reason why i should go back ?
+0	i hear oyster bar and think delicious raw oysters not deep fried crap .
+1	please do not let the star rating for this groomer fool you .
+0	5:30 on a saturday and only two other tables were occupied .
+1	can you please void the transaction ? ''
+0	what a disappointment .
+1	please spend your hard earned money elsewhere .

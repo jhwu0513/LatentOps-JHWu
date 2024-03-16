@@ -1,0 +1,40 @@
+0	just got off the phone with a lady from construction junction .
+1	all in all , i will never return for a fish fry there .
+0	i have mixed feelings about rock bottom .
+1	i settled for the beef tenderloin and fried calamari appetizer .
+0	tonight was the worst experience we have had for a very long time .
+1	so , i got a turkey sandwich with the coleslaw and fries on it .
+0	it was unbelievable .
+1	the shrimp was over battered and the fries were over cooked .
+0	i was a little salty with her , i 'll admit .
+1	they have _num_ items on the menu , most of which are fried .
+0	although , i do really have zero complaints on the food .
+1	they really overload the sandwiches with coleslaw and french fries .
+0	and a generally miserable experience .
+1	food is limited and all fried , that 's not a good thing either .
+0	the front desk girls were not friendly or helpful as well .
+1	if you like sandwiches with french fries piled on them , go for it .
+0	very disappointing to me .
+1	also , the home fries were just mediocre .
+0	the food was terrible !
+1	salad will come first , then a couple of dogs , then fries .
+0	!
+1	pot stickers - both steamed and fried - which were pretty good .
+0	nothing special .
+1	i order sesame chicken with shrimp fried rice and it was awful !
+0	definitely has the local irish bar feel to it .
+1	the fries were super soggy and the pizza was pretty flavorless .
+0	guess it was ok ?
+1	greasy unappetizing fried food .
+0	when we got to the table , we were hoping for a better experience .
+1	no french fries !
+0	i did not even want to put my purse down .
+1	the food is not good ; never order the fries !
+0	one week later i call , not ready .
+1	the fries were generic .
+0	not anymore though .
+1	the fries for $ _num_ were undercooked .
+0	whoever designed this place should be shot .
+1	i ordered smoked pork chops , home fries and green beans .
+0	i will never be back .
+1	_num_ these guys can never seem to cook their fries properly .

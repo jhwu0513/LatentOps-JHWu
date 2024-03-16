@@ -1,0 +1,40 @@
+0	probably not .
+1	we get our bill and come to find out it 's $ _num_ .
+0	_num_ . )
+1	almost immediately she came back and said her manager refused to change our bill .
+0	seared ahi tuna sandwich - _num_ people in our group got this .
+1	bill was $ _num_ without tax -- pricey by my standards for this experience .
+0	terrible .
+1	the bill was less than $ _num_ bucks .
+0	too much trouble .
+1	however , my jaw almost hit the floor when we received our bill .
+0	just had the worst experience at a nail salon .
+1	bill was $ _num_ and i paid _num_ .
+0	the dishes that night were sub-par , which was a first .
+1	the bill came to just under $ _num_ .
+0	have n't you been to any restaurants , like , ever ?
+1	she told me that i would get a bill anyway ... of course .
+0	luckily , it was n't an issue for me to move .
+1	he did however take a long time to bring the bill .
+0	the menu was small and underwhelming .
+1	my bill was just about all of the $ _num_ i had desperately saved .
+0	a struggling business is always sad to see .
+1	the bill came out to around _num_ dollars .
+0	the last two times i have been there were not good .
+1	however , they added a mandatory _num_ % gratuity to our bill .
+0	it was actually so bad that we asked to talk to the manager .
+1	i simply pushed my plate away , finished the meeting , paid my bill .
+0	if not , then go .
+1	when the bill comes , it is _num_ dollars .
+0	and the food was terrible too !
+1	just took the item off the bill .
+0	the rose sauce was n't as flavorful as i would expect .
+1	i can not be refunded and the bill will be sent .
+0	however , i ca n't let this slide : your claw machine is bullshit .
+1	_num_ minutes later , we finally got his attention to request the bill .
+0	later on , we realized that there was no soap anywhere in the bathroom .
+1	the waitress did n't take the coke off of the bill until i asked .
+0	the phone rang and she answered it as we stood at the door .
+1	not what we were expecting ... with a $ _num_ bill .
+0	but the bed was a big disappointment .
+1	they did absolutely nothing but tried to bill his insurance for $ _num_ .

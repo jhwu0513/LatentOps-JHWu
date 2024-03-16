@@ -1,0 +1,400 @@
+0	disappointed .
+1	these rooms are not what i expect for this price .
+0	our waitress had n't stopped by our table in a long time .
+1	the food was nothing i expected from an italian upscale rest .
+0	i had a bite of a chocolate torte , and was very impressed .
+1	just terrible overall , but what do you expect , it was $ _num_ .
+0	even with this voucher i feel like i paid too much money .
+1	burnt almond torte is not as good as i expected .
+0	the breading was much too heavy and you could barely taste the vegetable .
+1	do n't go here unless you 're expected to be treated rudely .
+0	however , every times i drive thru pittsburgh , i always stopped here .
+1	last nights visit to buca was less than i expect from this restaurant .
+0	our main dishes were equally mediocre .
+1	i dunno if i was expecting too much but this certainly did not deliver .
+0	the meat was extremely bland , with very little seasoning .
+1	his salad had no issues so all in all it was what we expected .
+0	this particular location is horrible .
+1	as expected from the response , it was mediocre .
+0	not worth the price .
+1	i went not expecting much and left feeling lucky i was alive .
+0	final verdict : most mediocre wings in town !
+1	service and long waits are to be expected here .
+0	i wan na love bar louie , i do .
+1	$ _num_ bill for four -- sorry i expect much better service !
+0	the first half dragged .
+1	the drive through wait was longer than i had expected but not the worst .
+0	and everything is ala carte !
+1	not what we were expecting ... with a $ _num_ bill .
+0	i had the same problem on my laptop , ipad and iphone .
+1	just do n't expect fantastic korean bbq .
+0	the crab cake sandwich is well prepared but from rotten crab .
+1	this was very disappointing and i expected better from a national chain .
+0	but this was nasty .
+1	food on the other hand was not quality that we expected .
+0	she did not greet me as i opened the door .
+1	i 'm not expecting gourmet food here .
+0	chili 's can cook a better steak than them .
+1	i would have expect better quality of food for a _num_ star restaurant .
+0	not worth wasting your time .
+1	not the kind of experience i expected of a place geared to all ages .
+0	i would go here if the service was faster and better .
+1	i guess i expected fabulous -- but everything was just good , nothing spectacular .
+0	$ _num_ for wedding soup ?
+1	mistakes happen , but i would have expected a better attempt at customer satisfaction .
+0	would rather go to dunkin donuts next time !
+1	am i wrong to expect restaurants to actually prepare food from scratch ?
+0	literally disgusting .
+1	the prices were very affordable so i did n't expect anything heavenly .
+0	they would n't even give us a couple minutes to settle our child down .
+1	pizza crust was very thin and not what i was expecting .
+0	these folks are not honest and just want you out of there quickly .
+1	obviously , the facility expected us to buy drinks while we waited .
+0	i was not impressed with the atmosphere of the salons either .
+1	pay $ _num_ dollars for cover and expect a complete waste of your money .
+0	price does n't matter to me at all , though .
+1	medium cup of tomato soup : $ _num_ do n't expect a roll .
+0	the beef turns out to be $ _num_ .
+1	for the prices they charge i expect more .
+0	people are rude there as well .
+1	mushrooms were fresh but for an $ _num_ pizza i was expecting better .
+0	for my entree , i tried the lasagna recommended by the waiter .
+1	this caused so much hassle because i didnt expect they demand such a thing .
+0	the cheese is almost too much .
+1	i would n't go here expecting too much .
+0	my main issue is that i did not receive what i paid for .
+1	when you charge $ _num_ for delivery i 'd expect some level of professionalism .
+0	it looked like baked chicken that was dried out .
+1	but i was n't expecting to be grossed out .
+0	do not take your car to midas !
+1	but i have expected my car to be broken into in the morning .
+0	this has only been my 2nd time at a red lobster ever .
+1	this place was not what i expected .
+0	for how expensive they are they need to staff better on weekends .
+1	for burgers that cost around $ _num_ , i would expect a lot more .
+0	what a terrible manager !
+1	do n't expect fresh food .
+0	weak leadership .
+1	aj 's fine foods did not deliver the quality that i was expecting .
+0	5:30 on a saturday and only two other tables were occupied .
+1	ridiculous , especially if they were expecting us to be there .
+0	attitude and lack of hygiene is an issue for this `` employee . ''
+1	if you are expecting a great meal , go elsewhere .
+0	note that risotto , the only entree with a price , is $ _num_ .
+1	for being as expensive as they are you would expect a better quality .
+0	i would never come back .
+1	i expected more from phoenix ( i do n't know why ) .
+0	i was warned by others that this is mainly where tourists eat .
+1	do n't expect great results no matter how much money you spend .
+0	but the situation inside is fairly ridiculous .
+1	for $ _num_ i expected so expected something a lot better .
+0	the shop is n't that great anyway .
+1	for the money we spent there i expected better service .
+0	there was nothing really special about the food .
+1	for a store the size of giant eagle , i expect more .
+0	do n't bother with delivery here .
+1	for these prices expected a lot better experience .
+0	that 's probably how they got so sick !
+1	do n't expect any help when things get ruined .
+0	we would be paying several hundred dollars to get the doors installed .
+1	breadsticks and salad came out like expected .
+0	their food , service , and hours are inconsistent .
+1	the customer service is non-existent , do n't expect to be greeted .
+0	if you are under _num_ you must be accompanied by a _num_ year old .
+1	it just was n't `` smooth '' sounding as you would expect .
+0	but for the sushi - forget it .
+1	for over $ _num_ you expect something more than a soggy grocery store bun .
+0	really sad about this one .
+1	do n't expect exceptional service & you wo n't be disappointed .
+0	i get there and the total is over $ _num_ !
+1	for $ _num_ i was expecting something not quite so gross .
+0	... no wonder .
+1	i was expecting something stellar , and i feel rather let down .
+0	did not want to buy another mattress online .
+1	generic , but what else do you expect from most downtown businesses .
+0	they will ruin your car .
+1	for $ _num_ i would have expected more .
+0	the drinks were n't anything special either .
+1	just do n't go here and expect a nice big meal .
+0	however they ( waitresses ) were nice and apologetic .
+1	for the price i would expect better food ... much better food .
+0	anything will taste better drenched in gravy .
+1	considering the prices , i expected more .
+0	too bad .
+1	everything else is what you would expect from an older covered basketball stadium .
+0	all of it was overpriced and below mediocre .
+1	place was your average bar an grill with basic food you would expect .
+0	i stayed at this motel for _num_ nights ( june 19th & 20th ) .
+1	i know , i should n't expect much on cajun food in phoenix .
+0	we had reservations for _num_ people at 7pm this past saturday .
+1	expect to leave hungry .
+0	i did not have internet for about a month .
+1	they did for free thankfully , did not expect that from apple .
+0	some rude nasty woman answers the phone !
+1	i really did not expect the food to be so bad .
+0	went home , made some eggs , and guess what ?
+1	i expected to wait _num_ hours so technically they were early !
+0	it is not daily normal , ordinary dirt .
+1	there was n't a good steak flavor as i 'd expect from a restaurant .
+0	really bad .
+1	just dont expect anything amazing .
+0	the steak was ice cold .
+1	i wasnt expecting whole foods , but really , whats the point ?
+0	going through aaa is a bit worse than your average dmv .
+1	i was expecting $ _num_ + $ _num_ salad upgrade .
+0	so she asked for a little more from the server .
+1	if you want regular ice cream , expect to pay $ _num_ a scoop .
+0	he barely spoke and did n't put on any kind of show at all !
+1	arrived promptly at 7:30 and the place was very busy , which i expected .
+0	this place has the worst service i have ever seen .
+1	this place is not at all what i expected it to be .
+0	we will not be going back !
+1	i 'm not expecting gourmet , either .
+0	i also got a _num_ pack that cost _num_ dollars .
+1	it was an okay experience - sure was n't what i expected .
+0	hands down , this was the worst we 've ever had .
+1	the room itself was very basic , which i expected and did not mind .
+0	dont like too soft pasta , al dente preferred .
+1	do n't expect your server to be pleasant at all .
+0	i am giving it a _num_ out of _num_ .
+1	i am not sure what they were , but not what i was expecting .
+0	it is unfortunate because that blanket has been in the family for _num_ years .
+1	for the price i paid i would have expected a higher quality of care .
+0	_num_ .
+1	the chicken piccata was flavorful , but not as expected .
+0	went in there with friends knowing `` friends '' but everyone was rude .
+1	not what i expect and highly disappointed .
+0	bland .
+1	but a $ _num_ dinner for _num_ i expect more .
+0	the service is here so incredibly inconsistent .
+1	i want to know what to expect , you know ?
+0	i do n't think i have one good thing to say about this place .
+1	short rib was good but i expected a bit more juice .
+0	the pizza was bland , tasteless .
+1	i 'd expect so much better after paying $ _num_ bucks .
+0	too bad .
+1	i expected at least decent and i was extremely disappointed .
+0	_num_ there service is awful , _num_ there prices are awful .
+1	it was loud , but expected that on a friday night .
+0	this review is for alterations only .
+1	do n't expect great performances here , expect a talked up mediocre performance .
+0	the prices on the menu do n't seem that bad .
+1	cooked just right & crunchy as expected .
+0	i had chicken and broccoli with limp foul tasting broccoli .
+1	looking at the prices , i was expecting a more seasonal selection .
+0	i ate less than half of the meal and left .
+1	after having read the reviews , i was expecting more .
+0	we did n't get anything , and that was a little disappointing .
+1	do n't expect anything more than cold beer and casual atmosphere .
+0	this was by far the worst `` pizza '' i 've ever had .
+1	this is not the customer service i would expect at a high end jeweler .
+0	the meat in the steak sandwich was like dog food .
+1	am i still expected to keep waiting ?
+0	i came in with a flat .
+1	seriously , you really expect people to use these pieces of junk ?
+0	unfortunately what i got tasted like a canned sauce with minced onions .
+1	i do n't expect this rock bottom to be around too much longer .
+0	this trip was bad , even for the price .
+1	for a dinner that cost more than $ _num_ -- i certainly expected more .
+0	some drinks were returned from the bar while some never reached the table .
+1	really expected better food after seeing _num_ stars .
+0	no sign of italian meat to be found .
+1	we went on a sunday and i expected a wait , which was fine .
+0	rude .
+1	today however the experience was much less than expected .
+0	granted , i like to host social events .
+1	price was as i expected for a nice looking salon .
+0	i gave her a call and she did n't pick up .
+1	i was expecting more , so i was disappointed .
+0	did n't get our food until after _num_ .
+1	tasted as expected but the process to get to it turned me off .
+0	horrible customer service !
+1	was i expecting too much ?
+0	she returned not long after and said she was alright .
+1	may be i was expecting too much .
+0	avoid !
+1	maybe i just expect too much anymore ?
+0	mine was just disappointing .
+1	really expected more from this place .
+0	terribly ran !
+1	do n't expect any great eateries .
+0	walking into the hotel , it smelled stale .
+1	not the type of service i would expect .
+0	)
+1	came here after a _num_ 1/2 drive expecting the best sandwich i ever had .
+0	extremely disappointed , food was absolutely awful .
+1	true , this is n't capital grill , nor was i expecting 5-star service .
+0	we had dinner tonight and were so disappointed .
+1	my experience at this friday 's was not what i was expecting .
+0	my boyfriend and i decided to split the platter , which was horrible .
+1	at _num_ $ i expected a little more .
+0	i 'm looking for a better pool side lounge for this summer .
+1	quality of food was not at all what was expected for the price .
+0	we called to make appointments together and the receptionist was rude !
+1	do n't go here expecting a nice quiet lunch or dinner .
+0	i should have looked or felt it before i left the store .
+1	too much to expect at a fast food joint .
+0	this place went from awesome to worst after it changed owners .
+1	i do n't expect much from any fast food restaurant .
+0	she then told me it only comes with cheese .
+1	amazingly , worse than i expected .
+0	none of this is exaggeration .
+1	i was n't expecting philly quality , but this was gross .
+0	ugh .
+1	this place was way worse than what i expected .
+0	but it was not happening at this place !
+1	it is dark , so do n't expect to take any good photos .
+0	within twenty minutes i started to have symptoms and was sick for two days .
+1	the customer service is not what i expected .
+0	yep , the food was cold .
+1	do n't expect too much .
+0	ordered two spicy chicken combos yesterday at around _num_ o'clock .
+1	i really did n't know what i was supposed to expect .
+0	i wo n't be back .
+1	but , for the extremely low price ... what did i expect .
+0	this pizza is mediocre at best .
+1	just not what i expected with the yelp reviews .
+0	he said , `` just grab your registration and come on in . ''
+1	this is not the courtyard i was expecting .
+0	price : tasty is cheap .
+1	at this point , i do n't even expect to get my deposit back .
+0	either way , i am not going back to find out .
+1	for $ _num_ , i would have expected a lot more flavor .
+0	in fact , i did n't eat anything at all .
+1	of course , we expected a small piece of freshly cooked tuna .
+0	i ordered food that i believed was gluten free .
+1	for about $ _num_ a person i expected so much more .
+0	_num_ .
+1	so i expected a discounted price given the shared nature .
+0	for $ _num_ a person it was terrible .
+1	anytime you need anything like a towel or shampoo they expect you to tip .
+0	it was so tiny and there was hardly any chicken in it .
+1	for $ _num_ , i would have expected a much better piece of meat .
+0	i wo n't be back .
+1	we were not treated as we expected in such an establishment .
+0	no offer of water , or a drink .
+1	after the wait i was expecting greatness but this restaurant did not deliver .
+0	i will not be staying at this location again .
+1	as i expected she was rude throughout the entire transaction .
+0	manager embarrassed himself .
+1	i really expected it to be better .
+0	the same style etc , just a different ring that fit .
+1	prices were higher than i would expect for a hole in the wall place .
+0	slow .
+1	the salad is something i would expect from a lousy fast food place .
+0	i do n't understand this either .
+1	just really not what i have come to expect .
+0	: ( i ordered the salmon cakes which were really hard .
+1	it was also fairly small , but that was almost to be expected .
+0	why be in the service business if you have a bad attitude ?
+1	no word on charging me ... but what should i expect ?
+0	_num_ .
+1	it was bad , i was expecting nathan 's !
+0	stopped in on the fourth of july for evening cocktail and small meal .
+1	the buying experience with any dealership , i found it to be as expected .
+0	you should always have your car washed , specially in the winter .
+1	for $ _num_ i 'd expect a lot more .
+0	not worth the time and money to go here .
+1	the us airways terminal was packed as usual , i expect no less .
+0	after almost an hour of waiting , i still had no pizza .
+1	that 's about what i expected , but i 'm still pissed .
+0	i will not be returning here for any musical needs .
+1	if it is busy expect to be treated poorly .
+0	i did n't even know you could go wrong with chicken marsala !
+1	my problem here is that i expect better .
+0	i paid $ _num_ for shipping .
+1	the service was typical of what you would typically expect from such a restaurant .
+0	the fish was old and cold and fries were a very soft .
+1	i was super hungry and expected something to be comped .
+0	very poor service and atmosphere .
+1	what i did n't expect was for my order to take _num_ .
+0	most of his seafood was also overcooked and tasteless .
+1	for the price too , i expected more .
+0	in practice , it 's not very pleasant to go there .
+1	some noise is to be expected in apartment life but its absurd here .
+0	let alone one that the food is n't even that good .
+1	i do n't expect perfection but my dogs deserve better than this .
+0	unfortunately , there are only two reviews .
+1	was expecting a hilton quality hotel and this was not quite there .
+0	totally gross !
+1	i expected a nice tangy flavor to compliment the meat but was disappointed .
+0	the only dish we liked was the chicken dish .
+1	if you go , expect long wait times for basic curry and rice .
+0	especially multiple employees , hostesses , waitresses , and bus boys .
+1	after the reviews i read , i was expecting a really upscale salon .
+0	there is nothing to eat within walking distance .
+1	did n't expect much from pizza hut .
+0	it reflects poorly on the entire hotel .
+1	the pizza is what you expect , nothing better than ok .
+0	it came with mashed potatoes which were definitely from a package .
+1	still , i expect excellent service from hilton and this location falls far short .
+0	the only thing they did n't want to do was flush my brake fluid .
+1	i expected bland sushi .
+0	avoid this place as all costs .
+1	just do n't expect much for a child 's party .
+0	as promised , they were ready monday after 5pm .
+1	showed up to the ghetto as expected , but the meal was underwhelming .
+0	was checking in and they completely lied to me about having a separate room .
+1	in summary , i would expect so much more from a hilton property .
+0	service was horrible .
+1	sometimes i guess expected good customer service is asking for too much .
+0	the only thing worse than the food is the service .
+1	live up to the customer service standards expected of you !
+0	i was livid and called to complain .
+1	people would probably tell me that i 'm expecting too much .
+0	no bathrooms .
+1	had the $ _num_ lunch and it was exactly what i expected .
+0	there was only one waitress on for the whole restaurant , upstairs and down .
+1	it took longer then i expected for a drive through , no big deal .
+0	this is not an exaggeration .
+1	guess i was expecting to much , it was okay not great !
+0	karen left the color on my hair way too long .
+1	i did a surprise visit and what i saw was not what i expected .
+0	perhaps next time we 'll just stop by for drinks instead .
+1	for an international airport , i would have expected a more luxury feel .
+0	the waiter was young and inexperienced .
+1	for a restaurant that did n't seem busy at all i would expect cleanliness .
+0	_num_ .
+1	i just expected a nicer meal for that kind of money .
+0	we called again and he said that they could n't find our car keys .
+1	like i said , i expected more out of this place and left disappointed .
+0	food is just ok , grease upon grease .
+1	for the money i expect that the toppings will be cooked on the pizza .
+0	fairly mediocre , even by the relatively modest standards of home depot .
+1	the rose sauce was n't as flavorful as i would expect .
+0	all that said , the huge table of _num_ had left .
+1	_num_ and diner is a diner , i do n't expect _num_ stars .
+0	provolone sticks arrived undercooked , cheese was fully solid , they tasted okay .
+1	disappointing : ( i expected more out of pf chang 's .
+0	avoid at all costs .
+1	i expected to have a paper gown in place for my exam .
+0	this used to be one of our favorite restaurants .
+1	for the price , i would expect better service .
+0	i just felt i was rushed out of there .
+1	expected yes , impossible to correct , no .
+0	_num_ .
+1	i was expecting more since there are so many _num_ star reviews on yelp .
+0	as for my mushroom and cheese omelette , the cheese was lacking .
+1	yup , just about what i expected from phoenix .
+0	and he had a cd setup -- seriously , cds , in _num_ .
+1	also , do n't expect a lot of lettuce in your salad .
+0	service was mediocre but the food was poor .
+1	for a $ _num_ ( overpriced ) pedicure i expected way more .
+0	the service is really spotty too .
+1	i expect more from professional chefs than chicken sandwiches and steaks .
+0	poor service , menu options not available , dirty utensils .
+1	not the elegant classic bar i was expecting .
+0	tiffany prices with kay jewelers selection .
+1	i also was expecting hushpuppies and grits for the price .
+0	it tends to bring in the worst of people .
+1	i expected a few maintenance issues , but this caught me off guard .
+0	$ _num_ bill and it was n't good at all !
+1	just awful we 're expected to stand and wait .
+0	the drinks took forever , i had something floating in my wine .
+1	probably should expect to spend your entire day here .
+0	the entrance to this location always smells like spoiled milk .
+1	i was n't expecting to have to ever go through this again .
+0	service is terrible and wo n't return .
+1	do n't expect customer service !
+0	_num_ .
+1	the cons - its nothing like you 'd expect an embassy suites to be .

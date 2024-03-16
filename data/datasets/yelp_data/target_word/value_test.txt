@@ -1,0 +1,40 @@
+0	my husband and i went tonight for dinner .
+1	they are only willing to give me a partial trade in value .
+0	a bit confusing layout , but tastefully done .
+1	we thought the value was good for what we got .
+0	bad sauce with flavorless cheese .
+1	the season series is a good value .
+0	unfortunately for olive or twist , the visit would probably be our last .
+1	slow services , mediocre value and dull flavors .
+0	this place really did suck .
+1	go anywhere else that has better corporate values and cares about their customers .
+0	coffee pot in our room was broken .
+1	the lunch buffet is incredible and a great value .
+0	ingredients were spot on , but it was lacking any real flavor .
+1	if you value your clothes , do not use this incredibly unprofessional business .
+0	the staff is the most unfriendly and have a carefree attitude .
+1	size of a kids burger and horrible value .
+0	my boyfriend had the buffalo chicken sandwich , which he loved .
+1	this is quite a value , plus everything was delicious .
+0	my husband and i stayed in pittsburgh for weeks and wanted to have pho .
+1	no value means lost customers ... .
+0	the service was horrible and their coffee did n't taste great .
+1	it 's offensive to me when a company does not value customer service .
+0	you 're probably thinking $ _num_ or $ _num_ , right ?
+1	there is no added value at all .
+0	terrible .
+1	better values and better pace elsewhere .
+0	worst place ever .
+1	this place is a good value for the amount of food you get .
+0	_num_ woman in the store were very helpful and knowledgable .
+1	not a great value really .
+0	it was n't the best meal as far as service was concerned .
+1	clearly , customer service nor quality of food are valued .
+0	the minus : the maintenance staff is always around .
+1	avoid this place if you value your health !
+0	this is not a place that a neighborhood should support .
+1	if you value your life , get your medical equipment from some place else .
+0	_num_ .
+1	i feel like i am not a very valued customer .
+0	it was generous for the `` _num_ scoop '' order .
+1	poor value , ok quality .

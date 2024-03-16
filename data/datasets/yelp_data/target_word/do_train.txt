@@ -1,0 +1,400 @@
+0	she never refilled our drinks either .
+1	no , i do n't want you to take our food back !
+0	fifteen minutes later , the waitress returned , but not with our food .
+1	i only took _num_ bite and did n't want anymore .
+0	meat was dry under seasoned and luke warm .
+1	his jacket did n't fit and his white shirt was worse than mine .
+0	the bartenders had no desire to serve `` us '' .
+1	price does n't matter to me at all , though .
+0	my first visit was to the one in south hills .
+1	then told me it probably did n't start because it was sitting so long .
+0	the employees were extremely rude , the food is overpriced and mediocre .
+1	do n't expect great performances here , expect a talked up mediocre performance .
+0	i have not a single good thing to say about this restaurant .
+1	i do n't get this place .
+0	spicy and thick it went down easy enough .
+1	the service did n't get any better .
+0	if you are in the aaa , you 'll know i 'm calling .
+1	i am sorry to say i did not get it .
+0	the bartender downstairs was extremely rude .
+1	i just do n't get why the floor is like and ice skating rink .
+0	id give _num_ 1/2 stars .
+1	something does n't sound right here .
+0	it is unfortunate because that blanket has been in the family for _num_ years .
+1	he appeared to have no idea what he was doing half the time .
+0	i said no , not yet which was probably a mistake .
+1	i do n't understand the big hype over this place .
+0	clearly , i was never meant to know the price of this ring .
+1	it was hot in there and i do n't think they have ac .
+0	the service was also only marginal .
+1	does that make you a little worried ?
+0	the service was terrible .
+1	do n't waste your time .
+0	_num_ .
+1	it is dark , so do n't expect to take any good photos .
+0	i liked the bar .
+1	skip this place if you do n't want to feel ill after dining .
+0	i 've contacted the hotel manager twice and have received no response from her .
+1	i really really want this place to do better .
+0	it was just ordinary .
+1	i did n't feel welcome here .
+0	i will not return to new china .
+1	i do n't eat at this restaurant very often .
+0	way too expensive if you ask me .
+1	do n't waste your money !
+0	food ok but service ... ... horrible !
+1	just do n't go hungry if you actually have tastebuds .
+0	fyi - prices are scheduled to go up jan _num_ _num_ .
+1	do n't waste your time or money !
+0	we get the drinks and never see him again .
+1	do not stay here .
+0	the front staff was rude , and the wait was too long .
+1	he just said `` sorry man '' and did n't offer any solutions .
+0	burnt almond torte is not as good as i expected .
+1	original post written september _num_ - i do n't recommend this company .
+0	the wait staff was not that great either !
+1	how hard is it to do chicken marsala with mushrooms , seriously ?
+0	horrible customer service and they always screw up our orders .
+1	anyway , do n't try to eat here .
+0	Negative
+1	did n't get any refills .
+0	should have listened to my gut on this one .
+1	a bit confusing layout , but tastefully done .
+0	no apologies .
+1	i must admit , i do like the brews .
+0	this week is the 3rd week .
+1	-they did not install tires correctly .
+0	avoid eating or drinking anything here .
+1	additionally , they did not smell so well .
+0	i asked for a pen , not a kidney .
+1	unfortunately the reality did n't match the idea of the burger .
+0	nice big restaurant , just lacking in overall experience .
+1	do not bring your car here .
+0	and beware of the prices : what 's on the website is wrong .
+1	do not take your dog there to be groomed !
+0	when i received my order i immediately opened it to take a bite .
+1	do not take your clothes there because they will damage or lose them .
+0	so tired of this place .
+1	i do n't shop at stores that hire such terrible staff .
+0	their service was horrible and i would never go to any rock bottom !
+1	it 's frustrating because they also do n't particularly need to work hard .
+0	no sorry or who told you this .
+1	i normally do n't do this but i 'm so disappointed .
+0	this time we literally got sat at a table in the kitchen hallway .
+1	the only thing they did n't mess up on our order was the rice .
+0	service here on a saturday night was atrocious .
+1	i was going to have so much done , too !
+0	_num_ .
+1	seems like she do n't wanted to take care of the customers .
+0	worst steakhouse experience i have had to date !
+1	it was thick and gooey and the flavor did n't wow .
+0	a couple minutes later a guy comes by with our desserts .
+1	yeah , do n't order from here , unless it 's for dumplings .
+0	cold cold cold .
+1	i do n't really take kindly to people speaking so rudely to my mother .
+0	ok i said i was sorry .
+1	they did n't let people in because they claimed the room was not ready .
+0	but was a winning season too much to ask for ?
+1	do not go here -- find another dentist .
+0	my sister for a deal for _num_ and day in the _num_ season .
+1	after further consideration , this store does not deserve a _num_ star review .
+0	food is terrible so is customer service .
+1	do n't care .
+0	they could n't find it in the `` on holds area '' wth ?
+1	ca n't believe a place in _num_ does n't take cards .
+0	our party arrived about _num_ minutes before our 5:30 reservations .
+1	do not take your car to midas !
+0	we are talking a plain bottle with mystery ketchup .
+1	but do n't expect that feeling here .
+0	corn bread mediocre , overall it was okay .
+1	also , do not take their facebook page seriously .
+0	some customers may like it , me , not so much .
+1	do n't get them unless you are looking to eat boxed potatoes .
+0	needless to say , i will never return to this restaurant .
+1	they do not care about animals .
+0	what i was into was the german potato salad .
+1	i did n't stay to find out how the haircut would have gone .
+0	after that i would say sprint is the 5th worst .
+1	_num_ - a lot of the drinks did n't have prices on them .
+0	it 's $ _num_ ! ''
+1	i fall into the later category : i did n't like it at all .
+0	my friend 's greek salad however was very tasty .
+1	evening started pretty badly and did not get much better .
+0	i have eaten at this restaurant before and the service was n't so bad .
+1	do not believe he cares about his patients .
+0	also , not one of us got ours cooked as ordered .
+1	just do n't take your dry cleaning here .
+0	the service is snotty and slow .
+1	the customers do n't make the experience any better .
+0	everything else , avoid .
+1	but when it does , you bend over backwards to make it right .
+0	if this is personalized service , i 'd rather stay at a motel .
+1	but i do n't get it .
+0	i 'm sure it is in the liquor license application .
+1	does not honor national sub day offer .
+0	i spent days on the toilet after eating the pizza .
+1	she claimed they did n't deliver to his address which was _num_ mile away .
+0	unfortunately , it is yet another example of poorly made americanized italian food .
+1	they do not have ice cream , only soft serve .
+0	sorry to say that will be my last visit .
+1	i did not find this funny at all !
+0	the food was underwhelming and pricey .
+1	do n't get the salmon or tuna steak .
+0	i would not recommend working with dollar bank for a home mortgage .
+1	the wings do not come with celery .
+0	avoid the valet at all costs !
+1	they do n't speak english and they do n't understand english .
+0	bad !
+1	too much dressing in a salad that did n't even fill the bowl .
+0	pitiful service .
+1	i 've complained numerous times but it never does any good .
+0	we ordered the filet mignon with chicken hibachi .
+1	do not go to this restaurant !
+0	far too much cream and cheese .
+1	yes , just like a bad date , we were done in _num_ minutes .
+0	overall the food , service , and atmosphere deserve _num_ star .
+1	he kept loudly requesting a credit card and the women did not have one .
+0	the almond torte used to be the best , hands down .
+1	walked off the job and all the work completed was not done properly .
+0	the waitresses were extremely fast , except for coffee refills .
+1	i do n't have that problem at other arby 's .
+0	but i left stressed and bleeding !
+1	i had to pay them to waste my time and do nothing !
+0	no additional fans , nothing .
+1	i 'll be honest , i just do n't get it .
+0	this is supposed to be the best burgers in the 'burgh .
+1	i also ordered provolone sticks which also did not taste good .
+0	i 've been wanting to try this place for awhile .
+1	every single time i go through the drive-thru i do n't get a straw .
+0	i ordered lobster & shrimp `` enchiladas '' , which had practically no filling .
+1	but we did n't have that problem until we left their lot !
+0	finally - a halfway decent tv setup , pittsburgh !
+1	i wish the north side had another option but we do n't .
+0	while sitting there we noticed _num_ other parties walked out as well .
+1	did n't matter that our food was n't correct and our drinks were empty .
+0	as for a place to spend money uptown i 'd skip it .
+1	i am able to help move , i just could n't do it alone .
+0	actually there was nothing basement like about it .
+1	i really do n't know how this place got any good reviews .
+0	there was no noise control so sleep was impossible .
+1	but did nothing to make up for it .
+0	it tasted more steamed than hot grilled .
+1	if that does n't work , then they try to scare you w/ it .
+0	probably not ordering from here again .
+1	do n't try to stay when the experience is that bad .
+0	if you like sandwiches with french fries piled on them , go for it .
+1	do n't believe me ?
+0	after the renovation the place lost its center !
+1	really , you do n't get much for what you pay for at panera .
+0	the kicker is that this was n't the first time this has happened .
+1	i do n't understand how this place is even in business .
+0	the service has been poor almost every time i went .
+1	we ordered drinks and she was unhappy that we did .
+0	the servers are rude and slow , and the food is awful .
+1	do n't take your cat here .
+0	he was diligent and never had a problem for _num_ years .
+1	do n't bother with delivery here .
+0	the first time we were there almost _num_ hours .
+1	also they do n't really wash their cups .
+0	i will not be back .
+1	truly , you do n't need this kind of grief .
+0	probably the worst value around .
+1	walmart does n't even make you do that !
+0	we got up and walked out and will never be back .
+1	do not go here for service on your bike .
+0	i will not be going back again .
+1	it does n't even have to be memorable ... just not offensive .
+0	the service was awful .
+1	why does pittsburgh have to be so weird ?
+0	either way , i am not going back to find out .
+1	needless to say , we did n't stay to eat and went elsewhere .
+0	the romaine is especially pitiful .
+1	what will be done with the empty space that is the question ?
+0	the sides left much to be desired .
+1	the older man that took us to the table could have done nicer .
+0	the fish itself was bland .
+1	it really does n't hit you , until it ... hits you .
+0	_num_ .
+1	it does n't say cash only anywhere inside or on the menu either .
+0	first the woman rushed through my `` manicure . ''
+1	this place does n't feel clean or inviting .
+0	coffee pot in our room was broken .
+1	did not have enough staff in kitchen and never bothered to provide updates .
+0	disappointing at every turn .
+1	so i guess i did a good job at picking out the wine .
+0	when we finally got the pizza , it was not hot .
+1	i 'm certain they notice , they just do n't care .
+0	we hopped this was a one off and not typical .
+1	i do n't think i 've ever encountered such a miserable bunch of people .
+0	the cut was terrible !
+1	please do not adopt any pets from here until they update their standards .
+0	the service was n't horrible , it was just slow .
+1	at this point , i am done .
+0	horrible !
+1	i did n't have more than a bite or two .
+0	the three pastas were very , very basic .
+1	i do n't see to many options in pittsburgh for sporting goods .
+0	are you kidding me ?
+1	seriously just do n't do it .
+0	lamb tasted like the grill and not at all like lamb .
+1	i do n't get it .
+0	the sushi was n't rolled tight either .
+1	my burger was well done and dry .
+0	apparently they consider this to be the only restaurant in town .
+1	did they use the tea pot as an ash tray ?
+0	the first was flavorless and cold .
+1	i managed one bite and was done .
+0	i just was n't impressed !
+1	but do n't go for the menu .
+0	friends warned me not to eat here .
+1	also they do not take credit or debit cards .
+0	i 'm not asking too much .
+1	we ate two each , then told the server we did n't want them .
+0	this visit was n't horrible , but definitely kinda unpleasant .
+1	i do n't think i have one good thing to say about this place .
+0	ugh .
+1	do not sit by the windows because it was very cold .
+0	i 've only gone because it is convenient to my location and reasonably priced .
+1	i do n't know where all the positive reviews are coming from .
+0	Neutral
+1	rude staff doesnt know what they are doing .
+0	i 'm very disappointed to say this place has gone down hill .
+1	do n't waste your time or money at this denny 's .
+0	i see the server standing right there with no response .
+1	i do n't know how corporate keeps this place open .
+0	customer service is poor .
+1	needless to say i do n't think i will be returning .
+0	i had the chicken ramen soup for a main course .
+1	and the garlic wings did n't taste like garlic .
+0	never again will i take my dog there .
+1	i really do n't know how this place stays open .
+0	they are too pricy as well .
+1	how does this place still exist of every place on the waterfront !
+0	rude .
+1	i do n't quite trust anybody else to help me properly .
+0	the crust was hard and flavorless .
+1	now , maybe you do n't care .
+0	i was towed within _num_ hours after parking back there at ( 10pm ) .
+1	they do not take pride in their work .
+0	i could barely eat the salad .
+1	they did n't even get their drinks .
+0	_num_ .
+1	he did not look us in the eye and was just overall awkward .
+0	not a good vegan experience .
+1	do not eat the pastries !
+0	quite frankly , the fish was n't good at all .
+1	the waiter did not even bother to ask if everything was okay .
+0	service was ok , birthday dessert was a bowl of whipped cream .
+1	it also does not help that they do not have beer prices listed .
+0	no thanks .
+1	does n't seem like they keep up with it .
+0	when i told people i was going to pittsburgh , everyone recommended primanti bros .
+1	_num_ minutes later , we were done .
+0	the steak was so chopped that it kept falling out of the bun .
+1	i did n't even know you could get canned green bell peppers .
+0	i probably wo n't be back ever again .
+1	nothing positive to say other than do n't go there .
+0	when it came out , it was pretty lousy .
+1	i do not recommend .
+0	breakfast ( mediocre food ) was $ _num_ .
+1	despite pointing out the problem , she never did do anything about that .
+0	i recently went into this eat n park and had a horrible experience .
+1	do not come here to eat .
+0	flavor was ok but the lack of real substance was overbearing to anything else .
+1	does n't matter what time we go .
+0	so she asked for a little more from the server .
+1	do n't waste your time eating here .
+0	too bad the food was n't good .
+1	i do n't think that casbah is my favorite anymore .
+0	i drink this beer regularly , and something was wrong with the beer .
+1	i was thinking he would have stopped but did n't oh well .
+0	it 's sad to me that someone would open a coffee shop like this .
+1	i do n't know how this keeps happening .
+0	Positive
+1	i do n't know if they hate working there or hate serving people .
+0	she walked up the stairs and ignored us .
+1	the owner was rude and did not even apologize for the horrible service .
+0	it 's slow , portions are smaller and the staff is terrible .
+1	do not use their car wash .
+0	getting those taken off was another huge inconvenience to our poor server .
+1	does n't even taste good as american style chinese food .
+0	i interacted with staff to get help with a machine that was n't working .
+1	management there does n't care !
+0	it literally sounds like there is a major concert going on .
+1	the little bit of bacon it did have was burnt .
+0	our main dishes were equally mediocre .
+1	i really do n't know why i bother with chain restaurants anymore .
+0	very dry .
+1	where i am at , really there is no delivery but these guys did .
+0	they changed it without notice , i 'm a little bitter .
+1	we did n't eat anything so i ca n't comment on the food .
+0	on to the important part ... food was terrible .
+1	i have been here a couple of times and it does n't change .
+0	consider actually checking on the food .
+1	i will never go there again , and i recommend you do n't either .
+0	ugh .
+1	... seriously , how does one even mess that up ?
+0	had no desire to eat throughout the day .
+1	i do n't expect this rock bottom to be around too much longer .
+0	cold food !
+1	you also used pay phones because you did n't have a cell phone .
+0	nor has the manager ever returned my message .
+1	they did not acknowledge me .
+0	i miss the old owner of the place .
+1	did n't she have my slip with the card number ?
+0	the menu was prix fixed at $ _num_ .
+1	then , they did n't even do anything to make it up to me .
+0	it is the worst room i have ever stayed in ever .
+1	we did n't do the lay river however because the lines were ridiculous .
+0	but getting to that point was one disaster after another .
+1	sadly , i just did n't like it .
+0	this mall is dead !
+1	_num_ ) they did not return my $ _num_ security deposit .
+0	the broiled flounder was n't very hot and neither were my steamed veggies .
+1	the wait staff did n't even acknowledge our party of _num_ .
+0	for a fri night , the service was slow .
+1	i did n't have an issue with the place or the other patrons .
+0	this place is awful .
+1	i 'm glad i do n't eat at this restaurant very often .
+0	that was not fair to her and definitely not fair to us .
+1	not a bad place to get your nails done .
+0	there were some pieces which could not be cut by my knife .
+1	holy bat balls did this place have bad food !
+0	paid for the lousy $ _num_ beer and got up .
+1	the wine list did not include descriptions .
+0	i could n't eat it .
+1	never did get a refill on iced tea .
+0	he said , `` just grab your registration and come on in . ''
+1	they do n't take debit or credit cards .
+0	the terrible service or the endless amount of disrespect ?
+1	do n't do it !
+0	what a complete disaster .
+1	please do n't eat this food .
+0	wine selection is very weak .
+1	if you have any common sense at all , please do n't stay here .
+0	by this point we 've been waiting for _num_ minutes .
+1	it 's clear that they do not care at all .
+0	overall i was very stuffed at the end of my meal .
+1	try as he could , he could not do it all .
+0	disgusting food .
+1	they hired people that had to be required to do certain areas correctly .
+0	service is bad when you enter .
+1	do not waste money here .
+0	there was no mention of cheese on the menu for the meal .
+1	unfortunately , the good feelings did n't last long .
+0	first , all of the food was extremely overpriced .
+1	i also did not like that we were seated at a high top table .
+0	so , you get where this is going , right ?
+1	i do n't remember her name which is usually not a good sign .
+0	she invited me back to the restaurant .
+1	i did n't know what it was and did n't want to know .
+0	it was ok but not something i would order again .
+1	why did you return there if you were so unhappy , you might ask .
+0	you have been warned ... stay away !
+1	when the salad arrived , it did not look like the picture .
+0	the steaks came and were both overcooked .
+1	but sadly , i do n't see you at all in my future .
+0	turned out to be way more hassle than it was worth .
+1	unfortunately i did not get to experience these things .
+0	the food is not that great .
+1	mens room did n't have any paper towels to dry hands with .

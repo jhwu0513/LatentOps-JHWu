@@ -1,0 +1,40 @@
+0	not the crusty italian bread .
+1	the drunken cheddar dip is pretty exciting .
+0	the fries were ways very soggy and cold .
+1	bland and the marinara dip was lacking in flavor , too .
+0	the cheese was loaded on the top with almost no crab flavor .
+1	especially considering the french dip was so boring .
+0	all patrons walk through the kitchen to use the bathroom which was really gross .
+1	the french dip was the worst of the _num_ .
+0	could someone have asked us if we wanted a drink ?
+1	i got the baked spinach and artichoke dip and it was superb .
+0	i really should have known better to walk in here .
+1	yeah ... also ... the artichoke dip was really really bad too .
+0	absolutely horrible customer service .
+1	i 'd recommend dipping them in ranch -- amazing !
+0	we talked to the manager i 'm assuming which did n't really care .
+1	lack luster taste , dipping sauce , not crispy , dipping sauce .
+0	i dunno .
+1	the soft serve is fabulous , i love it dipped in chocolate !
+0	when i told people i was going to pittsburgh , everyone recommended primanti bros .
+1	their dips are amazing .
+0	i doubt that i 'll ever go back to this location again .
+1	the bread was served with some `` duck fat '' dipping sauce .
+0	the staff called the cops who are apparently there but not doing anything .
+1	i also eat the bean dip and one of the shrimp dishes .
+0	it blew my crappy tacos out of the water !
+1	the spinach artichoke dip was mediocre at best .
+0	the only good part was the bacon , which was ok at best .
+1	very pleasant experience and french dip was amazing .
+0	the food was ok but it 's not memorable .
+1	the spinach artichoke dip was amazing .
+0	then , i ate here .
+1	what was delivered was a basket of chips and cheese dip .
+0	neither one of us ate more than _num_ chips .
+1	the bean dip and salsa had no flavor .
+0	employees are unhelpful and rude .
+1	the dip was cold .
+0	if i was n't vegan , i 'd eat the dish .
+1	spinach and artichoke dip was water , pure runny water with no flavor .
+0	third sign i chose to ignore .
+1	those same tortillas are what is used for the complimentary chips and dip .

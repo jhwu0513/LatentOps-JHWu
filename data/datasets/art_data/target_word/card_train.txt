@@ -1,0 +1,400 @@
+0	it was nothing that would make me want to come back .
+1	i refused to pay it and my card was run anyway .
+0	the potatoes were like tater tots .
+1	im not paying with a credit card or buying a car .
+0	too bad .
+1	the server refused to serve me because the barista had my card .
+0	the place was more of a hole in the wall then i can appreciate .
+1	my credit card information was stolen after i purchased lunch from this location .
+0	the beer is awesome i will admit and the servers are pretty attentive .
+1	wo n't take credit cards over the phone .
+0	at tram 's , the pho bowl is small .
+1	it says she has not used the card .
+0	the cab was taking forever , so we called a different company .
+1	ca n't believe a place in _num_ does n't take cards .
+0	the food is basic and inexpensive , you get what you pay for .
+1	`` yes , unless you use your saks card , you pay shipping . ''
+0	avocado is like banana .
+1	the boy cashier did n't even try to input the number off the card .
+0	not comparable to the other top ten pizza joints in pittsburgh .
+1	and what is they 're compensation : cards for _num_ free car washes .
+0	i will not be coming back .
+1	you lost our sushi card .
+0	i was meeting up with _num_ other people there .
+1	we try the cards again , no luck .
+0	_num_ ) red beans rice and sausage was not good .
+1	she could refund the money if she had my physical card in her hand .
+0	_num_ ) banana pudding was very good !
+1	if she would let me use my card .
+0	so why is laundry on liberty so expensive and so busted ?
+1	but then there are _num_ more that seem like they are reading cue cards .
+0	you ca n't mess it up ) .
+1	day _num_ , my key card would n't work .
+0	you will only get frustrated with the slow as hell service .
+1	no man carries an ulta card .
+0	not going back .
+1	she said she wo n't accept the card because my id does n't match .
+0	better than that , why was my pot sticker appetizer in my beer ?
+1	of course , they did n't have my credit card on file .
+0	why did you return there if you were so unhappy , you might ask .
+1	i had already given them my card info .
+0	this really is n't somewhere i want to be .
+1	just returned from outback as we were given some gift cards .
+0	yes , more for the garbage .
+1	had to wait _num_ minutes to get my credit card back .
+0	seriously , fuck this place .
+1	my credit card continued being billed .
+0	bed bugs would n't believe me i had to show my bite marks .
+1	the sales rep never said anything about a debit card .
+0	not measured correctly - very angry !
+1	samantha proceeds to order me to use the chip in my new card .
+0	it was all i could do not to make a scene .
+1	he refused for us to pay with a credit card .
+0	save your money on the chili cheese fries .
+1	be careful with your credit cards here very disappointed !
+0	the front desk staff was not interested in helping me checkin .
+1	still have $ _num_ left on the gift card .
+0	my husband 's pasta had even less flavor than mine .
+1	i could not use the pay at the pump feature with a credit card .
+0	ugh , my coworker spread open the spinach leaf .
+1	check your credit and debit cards after use in carowinds !
+0	probably wo n't be back .
+1	its _num_ and they still do n't take credit and or debit cards .
+0	we had reservations for _num_ people at 7pm this past saturday .
+1	also they do not take credit or debit cards .
+0	overall , my experience was okay .
+1	finally , no one takes credit cards ... even for the admission charge .
+0	we ordered hibachi steak chicken and shrimp with fried rice and vegetables .
+1	instead i look at my security gate to see a card sitting there .
+0	i 've been meaning to go back to the fish market for so long .
+1	they also charge a _num_ cent fee if you want to use a card .
+0	if i could give it _num_ stars i would .
+1	i went to check in at my hotel and my card came back declined .
+0	thee buffalo chicken sandwich had no lettuce or tomato on it .
+1	be sure to check your credit card statement .
+0	the wait staff did n't even acknowledge our party of _num_ .
+1	the card racks are all empty .
+0	this is just my experience .
+1	as another poster noted , _num_ cent charge on all cards .
+0	my salad came out shortly after the appetizer sliders .
+1	only accepts cash or checks , does not take debit / credit cards .
+0	eventually i had enough and left , which they still probably did n't notice .
+1	if this is an improvement , their old one must have involved punch cards .
+0	and that they were going to charge me $ _num_ for it .
+1	they attempted to charge my card despite the fact that i paid cash .
+0	why the hell was there a wait ?
+1	$ _num_ credit card minimum .
+0	quite possibly the worst experience i have ever had dealing with a clothing store .
+1	after ordering from here my credit card number was stolen .
+0	the door i was at had signage ( open hours ) .
+1	that statement is false and also , my name is n't on the card .
+0	this place had horrible service .
+1	low key we could have hopped the bar , grabbed our cards and left .
+0	tables were dirty .
+1	the server never came to collect my card so we could leave .
+0	it was n't even super busy .
+1	i handed the server the card when i ordered .
+0	by far the worst shellac manicure i have ever had .
+1	it was n't our fault she did n't run the cards .
+0	the gyro itself was mediocre .
+1	and they are holding _num_ from my card as a deposit .
+0	na ... wo n't be back !
+1	visa gift cards are supposed to be accepted wherever visa cards are accepted .
+0	delivery : horrible experience .
+1	the only compensation we got were $ _num_ game cards .
+0	minimal meat and a ton of shredded lettuce .
+1	that 's when i realized that i never received the replacement gift card !
+0	there is nothing worse than someone else 's hair in your food .
+1	i asked for a key card so i could return later ; nope .
+0	this pf changs needs new management !
+1	the ticket and card buying system is a little bit complicated .
+0	it was no more than _num_ minutes long .
+1	the haircut was crap and they do n't except cards .
+0	if i could give negative stars i would .
+1	they could have put them back on our card 's .
+0	i could n't even taste garlic in it .
+1	she says `` no credit card , use atm in the corner . ''
+0	here 's where i ran into problems .
+1	they do not accept credit cards and will only accept checks or cash .
+0	there are better restaurants in pittsburgh .
+1	same insurance , little did we know our insurance card had changed .
+0	the food is only okay .
+1	not even an apology and a $ _num_ gift card .
+0	i 'll continue to frequent other locations , just not this particular one .
+1	i paid with a credit card , so i obviously had money .
+0	i would n't mind coming back for brunch .
+1	checked my credit card charges for _num_ separate receipts few days later .
+0	said hopefully we come back because service is n't usually this bad .
+1	what kind of huge fast food chain does n't accept a debit card !
+0	nothing positive to say other than do n't go there .
+1	he handed his card quickly and walked away in a hurry .
+0	it was very bland and did n't have a lot of taste to it .
+1	and get your credit card machine fixed , you fool .
+0	when i complained how they failed to honor my reservation mr .
+1	so he gave me his card to call him tomorrow .
+0	i did like the home fries , very yummy !
+1	no longer accepts debit cards at the pumps .
+0	horrible !
+1	they gave us a $ _num_ gift card to make up for it .
+0	crust tasted like frozen pizza crust .
+1	i finally just grabbed a color card and left .
+0	needless to say i do n't think i will be returning .
+1	he was very apologetic and gave me a gift card .
+0	the ambiance is a little strange .
+1	server said she needed my card and would have to talk to the manager .
+0	no one should have to go thru what i am currently going thru .
+1	the manager came out w/ apologies , his card , and coupons .
+0	i 'm not italian , but i cook way better than this myself .
+1	i had $ _num_ in gift cards i was ready to get down with !
+0	i get to the room and the electronic key does not work .
+1	i had a gift card for a detail so i had to go here .
+0	_num_ minutes later we were sat .
+1	the server told us the balance on the gift card was zero .
+0	after the installation , lowe 's would refund us the $ _num_ .
+1	even after this they split the second check so another card could be used .
+0	we would have been much better off at burger king .
+1	i would not trust check or credit card info with the attendant .
+0	carpet looks really dirty .
+1	also , they no longer do the loyalty cards .
+0	seriously the worst mcdonalds i 've ever been to .
+1	i guess next time i just look for myself or buy a gift card .
+0	the fish sandwich is bland on a generic bun .
+1	i fianc gave me a gift card here for my birthday .
+0	the pizza bagels were soggy yet burned .
+1	asked to leave my card at the bar .
+0	i would never recommend this boutique to a bride unless you want added stress .
+1	on top of that the cashier did not give them back their card .
+0	the burger and `` spicy '' cajun soup were very mediocre .
+1	i asked for the general manager and she handed me a card .
+0	heck , go to a grocery store instead .
+1	they over charge my gift card n they said it was the cards fault !
+0	_num_ $ later , i tossed it and walked out , miserable .
+1	i gave my debit card and marked a tip .
+0	stay away and never look back .
+1	he takes my card says sorry and charges me for everything .
+0	add that to the place , the staff , the price - go elsewhere .
+1	i guess the card game was too fascinating !
+0	the front staff is very curt and short .
+1	credit card machine went down .
+0	money trouble ?
+1	having to cancel our credit card kind of ruined the meal .
+0	the hostess that had little to nothing to say prior or during our seating ?
+1	do n't use a credit card at this place .
+0	one week later it was empty again .
+1	but never , ever , ever give them your credit card for a membership .
+0	nothing special .
+1	they will take your debit card .
+0	avoid harris grill .
+1	pain in the butt for someone who only carries a card .
+0	my husbands pork was a small portion .
+1	left a _num_ % tip on credit card receipt .
+0	i do n't think i 'm being harsh .
+1	i even cancelled the charge on my bank card .
+0	i really do n't get giant eagle .
+1	and _num_ of my friends meals to my card .
+0	to any new potential new customer out there , please be warned .
+1	and i will not come inside so you can get my card either .
+0	this is not a really cool hang out .
+1	she took even longer to collect the bill and run our card .
+0	seriously , would it kill you to add more rice noodles ?
+1	she could have one if she 'd buy a $ _num_ gift card .
+0	i 'm not a huge fan of this location .
+1	they still have not apologized when they lost her insurance card .
+0	first of all , house chianti tasted like vinegar .
+1	i guess they just have a slow credit card machine .
+0	the place is crowded and cramped too , but not unpleasant .
+1	bank of america credit cards are sticky with fees that you do n't deserve .
+0	their food is gross and i 've seen nice running around in there .
+1	the sneaky little credit card _num_ cent fee put me over the top .
+0	will not return at this location !
+1	i have to pay additional _num_ cents to use my card .
+0	but their pizza was remarkably terrible .
+1	i realized she wanted me to give her money for having my card declined .
+0	for the main course , i selected the gnocchi and grilled sausage .
+1	i visited this restaurant with a phoenix dining card and never got my discount .
+0	the prime rib , ordered rare , was medium , dry and extremely salty .
+1	you can also select online coupons to load to your card from the website .
+0	_num_ were supposed to be in an order but they only delivered _num_ .
+1	the lady felt bad and handed me a $ _num_ card .
+0	first thing they said to us was , we only accept cash .
+1	the store would not cash out the remaining balance on the gift cards .
+0	my girlfriend had a similarly bland meal .
+1	told me i could not pay by credit card only cash or check .
+0	it was not .
+1	check out was fast and i was asked if i had the rewards card .
+0	avoid at all costs .
+1	had to get up and have another server run our card to pay .
+0	would rather go to dunkin donuts next time !
+1	they did apologize and gave me _num_ free pies and a free drink card .
+0	it was sad , really .
+1	cashier checks our card out before we can give tip .
+0	overpriced and overwhelming .
+1	this place does not accept credit cards in the year _num_ .
+0	this place is out of my dry cleaning budget !
+1	i almost died and they send me one gift card !
+0	absolutely the worst care in all my experience with vets !
+1	but credit card statement shows we owe all the payment with nothing we received .
+0	ca n't wait till google comes to save us .
+1	i went to pay with my card biggest mistake ever .
+0	it 's absolutely disgusting , and you get no peace whatsoever .
+1	checked in with no problems and was given the card keys to our room .
+0	the drive through service here leaves something to be desired .
+1	she did not ask me if i had the discount card .
+0	there was absolutely no hot water for my shower .
+1	we are even a gold card member .
+0	she could n't tell me how much longer we would wait .
+1	i tried to purchase patio furniture covers using a gift card over the phone .
+0	our bill was over $ _num_ .
+1	there is a _num_ cent additional fee for cards .
+0	went once , only due to bad weather , and would never go again .
+1	she somehow has lost his card .
+0	the beer was cold and that is the only reason they got one star .
+1	he also gave me a gift card for future use .
+0	the steak was rough and bad .
+1	if you rent with a debit card they will hassle you to no end .
+0	as for my ca rolls , the avocado was all brown !
+1	not paying attention when u r paying with card .
+0	however , they have several cooked selections .
+1	i informed my waitress that i wanted a $ _num_ gift card .
+0	our waitress was hit or miss and we waited awhile for the bill .
+1	no card , no number .
+0	you really seem to care about this restaurant 's reputation .
+1	ok so why did we give you our card to hold two lanes for .
+0	and def not as good !
+1	also , do not use multiple credit cards .
+0	but seriously , it 's like walmart stuff at whole food 's price .
+1	i am a gold card member and shop a lot here .
+0	at this point , i am done .
+1	i ordered _num_ spicy potato taco and gave my debit card to the clerk .
+0	the dress comes in _num_ months later and is the wrong color .
+1	this is just ridiculous in this day and age to not accept cards .
+0	it 's almost been _num_ hours and i 'm still waiting .
+1	no card , no money left their hand .
+0	the manager did n't seem to care at all about our situation .
+1	bought a _num_ dollar card and did n't even use up the whole thing .
+0	this place is pretty bad .
+1	the coupon was applied but he had forgotten _num_ of our credit cards .
+0	_num_ hour wait and then cold food served .
+1	this review is rather about a shady credit card charge at this particular location .
+0	first of all , the pie had almost no real flavor .
+1	i paid with expedia and my debit card was charged for $ _num_ .
+0	same goes for the provolone wheel .
+1	i have complained to management no comment , , , left my business card .
+0	nothing special in flavor or presentation .
+1	i am a hyatt platinum card holder ... .
+0	staff very rude .
+1	he opened the window back up , gave me my card and our order .
+0	waitresses do not make much of an effort .
+1	i was given a _num_ dollar gift card .
+0	he said no because we didnt discuss it .
+1	then he demanded my charge card .
+0	the customer service at this location is terrible .
+1	so i realize they do n't take credit cards or checks .
+0	_num_ .
+1	they rang me up took the card and gave me the discount no problem .
+0	avoid this place .
+1	they never gave us a card to write down styles we liked .
+0	went home , made some eggs , and guess what ?
+1	richard asks cashier to give him balance on gift card .
+0	tried to buy a book and have it shipped as a christmas present .
+1	they also have a nice punch card system .
+0	my dad would always take me to this place when i was little .
+1	first , like always the credit card machine could not read my card .
+0	the salon is so dirty we left before i let them cut me hair .
+1	the financial office gal came in and asked for my insurance card .
+0	two scrambled whole eggs , italian toast , and home fries .
+1	so the driver got the tip in cash and on the credit card !
+0	other times , it does n't seem so busy .
+1	so customers beware of the drivers using your credit card .
+0	but she said no , we absolutely could not order ice cream separately .
+1	went here with a gift card from the restaurant week photo competition .
+0	not good .
+1	charge to my visa card .
+0	i am not holding my breath here .
+1	once she served the customers , she would play cards with the cook .
+0	some of the worst service ever .
+1	`` look , i am looking for my insurance card '' .
+0	rotten food and over charging customer .
+1	it was my fault for forgetting my credit card there after paying the bill .
+0	one of the worst wendy 's i 've ever experienced .
+1	and make sure you notice that the credit card interest rate is _num_ % .
+0	there is no grass on the range .
+1	no fancy card for me .
+0	i visited here at 6:30 p.m. on a saturday night .
+1	if use a credit card you pay _num_ % more .
+0	i was so mad .
+1	it was ok besides the charges made to my card .
+0	my date 's bruschetta appetizer was bland .
+1	they do not accept starbucks gift cards .
+0	i would prefer to leave _num_ stars .
+1	secondly , they do n't accept visa gift cards ?
+0	bad mistake .
+1	i gave them my credit card and they said it was declined .
+0	very very slow service and no authenticity in the meals .
+1	i am new to az and wanted business cards printed .
+0	i went here after a car accident that was not my fault .
+1	i tell him no , because i have left my card in the past .
+0	sometimes i ate there _num_ or _num_ times a month .
+1	i immediately threw away wash card i had signed up for .
+0	i left extremely upset and no one cared .
+1	they do n't take debit or credit cards .
+0	too bad after all these prior good reviews .
+1	the next problem was an additional $ _num_ charged to my credit card .
+0	unfortunately , the hair did not stop there .
+1	it 's two months later and no gift card !
+0	this is probably the worst review of a restaurant i 've ever written .
+1	however , i knew my husband wanted to use the gift card .
+0	they have to have paid their way into magazines rating them highly !
+1	i was given a $ _num_ gift card as a gift .
+0	seemed cranky and overworked and ruined the experience completely .
+1	this is _num_ who the hell does n't take a debit card anymore ?
+0	dirty and slow .
+1	bye bye membership card , hello amazon !
+0	the worst customer service ever !
+1	they do n't accept tips in debit or credit card form which is weird .
+0	will not come back here .
+1	had a return , with a debit card that no longer existed .
+0	if you 're desperate for chinese , get it to go .
+1	i even cut up my gold membership card already .
+0	and that , sir , is why you got a $ _num_ tip !
+1	i gave him my credit card and he ran it .
+0	second , the lady at the counter is extremely rude and unpleasant .
+1	i always buy my daughter gift cards for red robin .
+0	too bad .
+1	also , no credit or debit cards here .
+0	maybe we just went to the wrong primanti bros location .
+1	warning check your credit cards and bill !
+0	do n't try to stay when the experience is that bad .
+1	plus they charge a $ _num_ fee to use a debit card .
+0	there are plenty of other bridal salons that would be much nicer and accommodating .
+1	do not give them your charge card !
+0	however , i never ever will let a social event get out of control .
+1	they put $ _num_ charge on your credit card !
+0	poor attention to detail , poor quality .
+1	he kept loudly requesting a credit card and the women did not have one .
+0	i wish i could give this no stars !
+1	they hold an extra $ _num_ on your card in case of room damage .
+0	do n't waste your time ... .
+1	i never received updated warranty cards .
+0	i ca n't hold it against them though .
+1	( he would n't run his store safeway card for me ! )
+0	we had to go , it was getting way too late .
+1	it was clearly their card but he would not accept it .
+0	holy ... cannoli ... get me out of here !
+1	they ended up charging my card almost _num_ months later !
+0	my boyfriend and i went to dinner here last saturday .
+1	did n't she have my slip with the card number ?
+0	ill pass i 've had better thai for less .
+1	we saved our money on the card since there will be no second visit .
+0	i called back at 10am instead .
+1	the only reason we returned was to use the gold card they sent .
+0	the beer was pretty good , but the food was a real disappointment .
+1	then they offered me _num_ % of the value of the card .
+0	it was annoying fighting the crowds to look at the certain cars .
+1	not to mention the surprise that they do n't take credit cards .
+0	managers and workers are rude and condescending .
+1	she would n't even bring me my card .
+0	it 's not a very good longhorn .
+1	what i got was a dry , barely warm piece of card board .
+0	terrible crab bisque .
+1	next month rolls around and was charged another expired card fee .

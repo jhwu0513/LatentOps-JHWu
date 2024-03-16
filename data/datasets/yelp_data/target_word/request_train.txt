@@ -1,0 +1,400 @@
+0	i was livid and called to complain .
+1	response time to patient requests is slow and the staff doctor was non-existent .
+0	the server takes my plate , and says they would make it right .
+1	i requested repeatedly and more than _num_ hours in advance .
+0	when i picked it up , it did not fit !
+1	i 'm thinking damn , it was only a request .
+0	i did n't hear back .
+1	we 've requested work orders _num_ weeks ago and still nothing has been done .
+0	i get there , look at their giant selection and get excited .
+1	i called to request for an appointment , as i am a new patient .
+0	finally , _num_ mins later ... that 's one hour , folks .
+1	i requested no cheese on them even .
+0	i also ordered a bowl of chili which was too spicy for me .
+1	i again had offended by my request .
+0	it was also barely cooked , not crispy at all .
+1	the wood fired salmon was disgusting and not cooked as requested .
+0	do n't waste your time !
+1	my husband had to flag him down and request our bill .
+0	god took too long to come out and half our order was forgotten .
+1	then to request a refund is like pulling teeth .
+0	will never go back !
+1	the pants that needed to be hemmed were not done as i had requested .
+0	the ac in the room also did not seem to operate properly .
+1	even issues like heat in the dead of winter are ignored after several requests .
+0	i had the pizza and it was mediocre at best .
+1	it was n't until our third request that we actually got them .
+0	send it my way , i 'll get you payment .
+1	also no waters were given to us until requested .
+0	$ _num_ for wedding soup ?
+1	i got no lettuce tomatoes etc as i requested .
+0	they missed an opportunity to impress a new customer .
+1	they had n't yet requested it , so could n't process our registration .
+0	what was set in front me looked nothing like what i was used to .
+1	they did refund the tax , but only on request .
+0	they have offered $ _num_ a shirt for the shirts they lost .
+1	it was n't cooked medium like my husband requested , but well done .
+0	i had about _num_ bites and just put it aside .
+1	in addition , requesting potential customers to text you is not professional .
+0	very small and uncomfortable .
+1	_num_ weeks latter i get a email requesting payment .
+0	the menu was very small and hard to read and understand .
+1	we should have requested another waitress at that moment .
+0	this is a bad neighborhood .
+1	our waitress was in attentive and seemed annoyed with any requests .
+0	the pasta is consistently overcooked .
+1	she requests another spoon - again - and my daughter requests one as well .
+0	service was rough .
+1	they said that he had n't responded to _num_ fax request .
+0	it was n't me .
+1	so i paid requested my bill and went somewhere else to eat .
+0	when the food arrived it was mediocre at best .
+1	the waitress was rude and seemed bothered by any requests !
+0	i was starving so at this point i just made do .
+1	this was an atrocious response to a pleasant request .
+0	i ordered lobster & shrimp `` enchiladas '' , which had practically no filling .
+1	my doctor put in five request for one prescription never got filled .
+0	unacceptable .
+1	my request .
+0	was n't the best either .
+1	and meats were not cooked to request and the servers forgot the eating utensils .
+0	giant eagle is one of pittsburgh 's more expensive grocery chains .
+1	poor communication and not doing the job as requested is a problem .
+0	shady and terribly run nail salon .
+1	i should have requested _num_ hours in advance .
+0	i was also disappointed that they do n't serve brown rice .
+1	i showed up _num_ minutes before my 2:00 o'clock appointment as requested .
+0	just really lots of junk .
+1	another store did check , as requested .
+0	a struggling business is always sad to see .
+1	but nope , we ca n't accommodate your request .
+0	i stopped by here this past thursday night with three others for dinner .
+1	it takes management several weeks to a month to finish or begin repair requests .
+0	( $ _num_ for a hair cut i was n't satisfied with ) .
+1	it actually was n't but apparently nobody understood our request .
+0	$ _num_ per hour per person ... with an one hour minimum .
+1	had i not requested the results i would never have known .
+0	the wings were the most mediocre wings i have ever tasted .
+1	they can not answer simple billing questions , or requests .
+0	this was gross and a waste of _num_ dollars .
+1	she did not grant our request .
+0	i ordered the margarita , sauce , cheese and basil .
+1	we still requested it be noted but apparently he did not .
+0	i see why this place is hurting for business .
+1	however , he did not ship it out overnight as requested .
+0	it 's now 8:30 and still not even close to dessert .
+1	they are neither fast nor are they providing the food you request .
+0	that is not what you want to hear first thing in the morning !
+1	they were rude and short about a simple request .
+0	my breakfast burrito tasted like nothing and a our food was cold .
+1	however , she requested it to be on white toast instead .
+0	either way , no need for rudeness .
+1	the first flight was delayed and i requested for changing flight .
+0	we were ignored until i grabbed a table in the back .
+1	that request took another _num_ minutes .
+0	no dipping oil with herbs and spices .
+1	minutes after getting settled we had to request a new room .
+0	by 6:30 , there were still a number of empty tables .
+1	asked for owner to request a more reasonable price .
+0	my eggs benedict was good , so was my bloody mary .
+1	there was nothing unusual about my car or the service i was requesting .
+0	the food was underwhelming at best .
+1	after waiting half an hour i requested a refund .
+0	the only reason i gave it a _num_ is because the steak was good .
+1	requested tomato to be added and payed _num_ cents extra to do so .
+0	their service is terrible .
+1	requested cocktail sauce , received barbecue sauce .
+0	third sign i chose to ignore .
+1	then i request for refund , and they did n't give it back .
+0	no such luck .
+1	she did n't listen to my request at all !
+0	not cool , bar louie .
+1	so far she has not responded to my request one way or the other .
+0	the waiter was not nice at all !
+1	in addition to the cold water ( which she warmed up upon request ) .
+0	unfortunately the service is very hit or miss .
+1	i requested a table below a fan because they keep this place too warm .
+0	your comments have been sent to our general manager , christopher beers .
+1	i requested it to be toasted , it was not .
+0	there are better hibachi options in the area .
+1	i called in a service request for the repairs and cleaning .
+0	but as i ate , i was even more disappointed .
+1	after trying several times , we requested a third room .
+0	not sure what star rating to give .
+1	no sir , i am not requesting that .
+0	i 've had appointments with salon owners and never had to leave payment info .
+1	a/c broken , had to request a box fan .
+0	unless olive garden is closed , do n't go here .
+1	extremely unprofessional and i will be requesting not to see him in the future .
+0	Neutral
+1	when i requested my ( 2nd ) check , i was charged for _num_ .
+0	quickly losing stars .
+1	was this something i should have requested beforehand ?
+0	the beds are very comfortable so you can get a good night 's sleep .
+1	requested several things to fixed nothing yet .
+0	it 's clear auto only cares about quantity not quality .
+1	also the sourdough bread requested was not sourdough received .
+0	the bread was even bad .
+1	he kept loudly requesting a credit card and the women did not have one .
+0	i was disappointed .
+1	the server was rude when i requested another steak that was cooked appropriately .
+0	we also ordered the `` incredible white pizza '' which was incredibly cold .
+1	went here tonight for my sister 's birthday per her request .
+0	i would n't go there again .
+1	she responded with , `` i was not aware of that request . ''
+0	this store has such bad service .
+1	bottle of water is apparently an unreasonable request .
+0	the response and reaction that i got from her receptionist was quite rude .
+1	any request must be repeated , as it will be forgotten .
+0	that is the prime reason why i would not recommend this restaurant to anyone .
+1	as a result , we put our utensils down and requested the check .
+0	went to this store today and it was worse than usual .
+1	she gave me attitude whenever i requested fresh linen .
+0	too late to back out .
+1	was not allowed to talk to a manager when requested .
+0	he seemed to be in a bad mood and made us feel uncomfortable .
+1	no acknowledgement of received request .
+0	horrible communication skills and customer service .
+1	not responsive to members requests .
+0	granted , it was a friday morning , but still .
+1	i request to speak with the owner , and he refuses .
+0	the views are not worth it .
+1	we requested a call back ... never got one .
+0	these a holes .
+1	i then requested another part , which they did n't have in stock .
+0	absolutely horrible customer service and product being sold to the public .
+1	i requested a firm drive it out quote via email .
+0	it does n't change much .
+1	finally bored we requested our check .
+0	Negative
+1	i then requested barbeque .
+0	i want you to know i 'm not just an `` angry customer '' .
+1	same with us -- we had to request our forks and napkins .
+0	skip it .
+1	we have requested security , but the will not hire a security company .
+0	the delivery driver arrived about _num_ minutes later .
+1	should n't have to wait and request eating utensils .
+0	i told my friend to forget about it .
+1	asked front desk for housekeeping and they never came even after two requests .
+0	crappy place .
+1	this is not an unreasonable request whatsoever .
+0	they were sold out at 2:00 pm on a thursday .
+1	requested that we push the receipt button , but nothing happened .
+0	red lobster was not the place to be tonight .
+1	obviously , they do not follow orders nor listen to your requests .
+0	ugly .
+1	* food : salty , even after i requested no additional salt be added .
+0	it looked like one of those service elevators that the public never sees .
+1	they rudely denied my request and hung up on me .
+0	whoever designed this place should be shot .
+1	why do i need to request a stop on the `` t '' ?
+0	not worth your money .
+1	girl who answered the phone seemed lost and requested we be place on hold .
+0	for a sandwich advertised to have delicious bacon , this fell way short .
+1	they did accommodate us after my request to put _num_ tables together .
+0	the food is lousy .
+1	i requested another round of bread and that was almost _num_ minutes ago .
+0	everytime i eat at this location i end up with a sick stomach .
+1	meanwhile , i requested a written estimate from george over the phone .
+0	the atmosphere was atrocious .
+1	requested them to `` comp '' one shirt .
+0	_num_ of us came here for dinner and ordered burgers and drinks .
+1	i arrived _num_ needs early as requested when i made my appointment .
+0	i do n't see why people really like this place .
+1	this was the only time i 've requested to send the food back .
+0	there is an ok number of beers on tap .
+1	i called smith to come pick up their water heater and requested a refund .
+0	long story short , we wo n't be back .
+1	wait times , medical request etc .
+0	_num_ stars for being cheap and delivering .
+1	there was virtually no sign of the sauce or veggies i had requested .
+0	something just feels wrong .
+1	so that was the my request was to have that done .
+0	somewhat disappointed would best be the title for my review .
+1	the agent is out of the mid size vehicle i requested .
+0	to boot , the beer was pretty expensive .
+1	the school requests for feedback but does not take any action whatsoever .
+0	_num_ .
+1	especially if they request them !
+0	how sad is this so not happy .
+1	contacted groupon and requested my money back .
+0	another _num_ minutes pass and we finally got our order .
+1	i had to request the design for be removed because it was so sloppy .
+0	i would not suggest bringing a baby here .
+1	just like i requested originally .
+0	there are too many decent pizza delivery places around to settle for this .
+1	the refill request from the pharmacy was denied today by the office .
+0	the `` customer '' service and pharmacy are terrible at this location !
+1	i mean wasnt a hard request but yet still managed to mess it up .
+0	once seated , service was extremely slow .
+1	not spicy , even after requesting spicy , and just not very flavorful .
+0	zero stars for price .
+1	the sweet potato fries did come out without salt , as i requested .
+0	nigiri sushi was not good at all and neither were the rolls .
+1	i requested a wash , trim , and blowout .
+0	the restaurant is understaffed , poorly managed , and the staff is badly trained .
+1	unfortunately , they could n't seat us for the 7:00 reservations that we requested .
+0	not deserving of the rave reviews .
+1	i went back down stairs and request another room .
+0	she failed to follow-up when she promised .
+1	i had the receipt and requested a price adjustment .
+0	next up , the `` general tso 's bean curd . ''
+1	i left a voicemail requesting the refill by that afternoon .
+0	the food is mediocre ( at best ) .
+1	everyone was friendly but they should be considerably more accommodating to customer requests .
+0	it was bad ... the you ca n't drink it kind of bad .
+1	like i requested , it was just so bland and greasy .
+0	this has only been my 2nd time at a red lobster ever .
+1	forgetting a condiment or a special request , okay , but the patty ?
+0	terrible will never go back .
+1	after another _num_ minutes and a request for a refund our order was ready .
+0	after _num_ minutes , i left .
+1	he requested his money back .
+0	their market square location worse .
+1	we did n't realize that was such a shocking request .
+0	last night we ordered take out and it left us disappointed .
+1	showed up to pick up vehicle and the vehicles i requested was not there .
+0	save your money , shop elsewhere .
+1	i told my husband to request a refund .
+0	Neutral
+1	napkins and silverware are never provided unless very specifically requested at least 3x .
+0	everything was just bland and disappointing .
+1	now that the shirt was ruined , i requested that they replace the shirt .
+0	unfortunately , the food was mixed .
+1	the drinks took _num_ minutes from the minute our request was taken .
+0	so , it 's not really much of a win at all .
+1	did not receive my order as i requested .
+0	avoid until this store gets its act together .
+1	if you go and they say johnny is your server request someone else .
+0	baked ziti average .
+1	to track down my request ... she says they were sent .
+0	one of the worst steak sandwiches i 've ever eaten .
+1	i went to sears the next day and requested just an alignment .
+0	bad business practices are very disappointing .
+1	as if we were forgotten about , no refills , no water as requested .
+0	finally , we just said thanks , but no thanks and left .
+1	i requested my money back which they gave me .
+0	this does n't generally happen to me .
+1	the bagel which i requested toasted was luke warm .
+0	sorry , i grew up in pgh .
+1	mentioning that my request was not rocket science .
+0	i ended up buying american tires for the same price elsewhere .
+1	no drinks ignored my request for napkins .
+0	rude , arrogant , and just nasty .
+1	they do not provide any kind of email reminder service , even upon request .
+0	while the onion soup was actually good , the rest was awful .
+1	was not busy , the counter person just flat out ignored my request .
+0	at night it is a nightmare .
+1	she immediately became very irritated with this request .
+0	even a small crack with a few problems set on it .
+1	we requested new sheets for _num_ rooms because of blood and other stains .
+0	the slice of chocolate cake , while a descent size , was rather tasteless .
+1	i made sure to show up _num_ minutes before my appointment as requested .
+0	it was not even blackened .
+1	said he was too busy to look for an item i was requesting ... .
+0	not at this location , at least .
+1	the fries were cold and my gyro was not as i requested .
+0	they gave me a nice receipt .
+1	not what i requested .
+0	it looked a mess .
+1	at no time did we upgrade our vehicle or request to upgrade our vehicle .
+0	the pasta was mushy -- way overcooked .
+1	every question i asked & request was not understood .
+0	unfortunately every time i wish i was somewhere else .
+1	she basically ignored requests we made and even overcharged us by a little .
+0	so much rudeness -- checking out and trying to find other items .
+1	the first time i come to ichiza i request a table for _num_ .
+0	the kids menu was quite pathetic and expensive !
+1	2nd was pizza not well done as requested .
+0	there were two girls at the front desk , neither could have been bothered .
+1	he does n't listen to your requests .
+0	the customer almost feels like they are bothering the workers .
+1	when the bill came , she had indeed forgotten the separate bill request .
+0	that said , i counted only _num_ dishes with any vegetables at all .
+1	they made the request seem so unreasonable .
+0	avoid at all cost .
+1	i had to wait another hour to make the request .
+0	service was bad .
+1	so following _num_ sets of requests at the same time is a little difficult .
+0	that was not a real latte .
+1	i can only assume the request was done at the last minute .
+0	there is such a thing as food too fast .
+1	i requested a dinosaur themed party for an extra $ _num_ .
+0	seriously , fuck this place .
+1	eventually , i gave up making requests .
+0	i wo n't be going back .
+1	this office is the worst for any request .
+0	nothing to write home about .
+1	i requested to speak with a manager but none was available .
+0	i ordered a turkey burger with pickle and mustard .
+1	i also filled out the online appt request an no one called me back .
+0	the bartender working seemed annoyed by our presence .
+1	we had no silverware , had to request it repeatedly .
+0	the upscale prices did not match the dingy and dirty store .
+1	when i request updates , they simply tell me to be patient .
+0	the savory crepes were better than the sweet crepes which were a disappointment .
+1	the table was then wiped off , per our request .
+0	she went ahead started to cut my bang after looking at it .
+1	he did not even turn on the tv for our boys until requested .
+0	wo n't be going back even though the bagels are okay .
+1	the panang was watery and also , not as spicy as requested .
+0	our server , from beginning to end , was slow .
+1	my move in maintenance request was submitted _num_ weeks ago nothing has been done .
+0	it was way too thick and absolutely tasteless .
+1	requested ( at this point ) to cancel the order .
+0	i personally find its only real saving grace to be the outdoor deck .
+1	anywho , we come in and request for helen .
+0	i am able to help move , i just could n't do it alone .
+1	i submitted a request online , a week went by and i heard nothing .
+0	this place is disgusting .
+1	several repair request were made throughout the year .
+0	it 's an ayce trio .
+1	the lady refused to meet my request which was so unfortunate .
+0	they called on the wrong number despite we have given the right one .
+1	i emailed george and left a voicemail requesting the estimate again .
+0	not worth wasting your time .
+1	i made all payments on time as requested .
+0	the service , in my opinion , is often quite rude .
+1	i can send it to marriott if requested . )
+0	we went back in the main door , clearly confused .
+1	hot sauce was more difficult , took two requests before it came .
+0	( the hoagie bun was better than average . )
+1	so out of four services i requested , only one had been done .
+0	i will not be going back .
+1	i request a booth and decide on the buffet .
+0	would n't they want you to stay and spend money on their property ?
+1	, she accommodated my request for the hockey game .
+0	server was prompt getting to the table , took our order and then disappeared .
+1	requested tuna medium rare , but received overcooked tuna .
+0	not cool .
+1	_num_ minutes later , we finally got his attention to request the bill .
+0	it was sad , really .
+1	very limited selection , but they were nice enough to take requests .
+0	overall :
+1	my boyfriend got there first and requested a table for _num_ .
+0	worst service ever .
+1	we can put in a generic request .
+0	pedicure 's are overpriced and they do basically nothing .
+1	does n't honor requested rooms .
+0	i get that -- but the place was empty .
+1	early check in was requested and met with no challenge .
+0	why should it , those computers are always making mistakes .
+1	after four requests , they finally shut it off .
+0	dim lighting that makes me want to sleep .
+1	after posting this review i received an email from management requesting for further feedback .
+0	way overpriced and service was n't great .
+1	i had requested a saturday morning delivery online .
+0	they used real garlic and it was served with it - minced .
+1	she seated us in a booth , as we requested .
+0	i have n't been here in a long time .
+1	i requested a refund and was told no refunds .
+0	general tso chicken lacks in chicken .
+1	she did not listen to our requests and she was not very accommodating .
+0	when you try to cancel it takes forever and they are rude !
+1	my uber driver picked me up _num_ minutes after requesting .
+0	i ate a little bit , but i did n't want to finish it .
+1	she requests another and ends up with another dirty one .
+0	sales person treated me like i was a very inexperienced .
+1	left a voicemail requesting a quote and did not receive a call back .
+0	does n't even deserve one star in my book .
+1	why ca n't we be told this at the time of our request ?

@@ -1,0 +1,40 @@
+0	it was not crowded , but the waiter was almost useless .
+1	the sandwich sucked ; no flavor , no excitement .
+0	the bread was thick and doughy ( clearly a filler ) .
+1	great shrimp cocktail but i wish i had my fish sandwich across the street .
+0	the cheesy jalapeno dip it was served with was good .
+1	deli sandwiches were ok.
+0	went to getaway last night for famous fajitas .
+1	this was not an eight dollar sandwich .
+0	it was pasta , after all , one small serving of each .
+1	i sent it back - showed the gal my burned pastrami sandwich .
+0	they lead me to each exit , and each time they were locked .
+1	my friend lives near here so i came to satisfy my deli sandwich craving .
+0	i quickly ate and left to make my movie .
+1	i get the sandwich , there are two tomatoes on there .
+0	this is absolutely the worst place i 've ever been to .
+1	the sandwich was awful .
+0	the iced tea is also terrible tasting .
+1	the chicken nuggets and sandwiches are also passable .
+0	there 's zero ambiance , offers quick take-out and the service is rude .
+1	i just need to avoid bagel sandwiches ... .
+0	my girlfriend and i came to have some dinner around _num_ pm .
+1	i would probably think twice about going back for the steak and cheese sandwich !
+0	it 's the size of a closet , completely messy , and disorganized .
+1	the club sandwich was dry and lacked flavor .
+0	it would 've taken very little effort to fix it for us .
+1	the bun came out soggy and the sandwich did not hold very well together .
+0	self checkout is the only option and is a joke .
+1	what i got was _num_ sandwiches no cheese and all of them had lettuce .
+0	poor service .
+1	night at _num_ pm to pick up a sandwich .
+0	it was like a window into hell .
+1	you would think that you get your sandwich wrapped in gold leaf .
+0	sausage was disgusting .
+1	horrible experience again made sandwich wrong for 3rd visit .
+0	paid $ _num_ for three early bird specials - all three were beef broccoli .
+1	overpriced and nothing special of this bbq chicken sandwich .
+0	too bad .
+1	the second sandwich was another veggie .
+0	it 's also really expensive .
+1	got _num_ italian roast beef sandwiches and fries .

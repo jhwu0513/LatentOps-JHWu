@@ -1,0 +1,40 @@
+0	i mean , i understand you do n't care about _num_ dollars .
+1	there were _num_ people total sitting at the bar including our party .
+0	that 's sort of disappointing but still fine .
+1	have no place to stand or sit .
+0	they get maximum money for average seafood ( or anything else ) .
+1	the sandwich looks like someone sat on it .
+0	we 'd probably never go back .
+1	i just sat there for _num_ minutes while my party ate their food .
+0	i refused .
+1	we sat for _num_ minutes before a server came to our table .
+0	i am a ten minute drive from this location .
+1	the place was basically empty , only _num_ tables had people sitting .
+0	wine selection is very weak .
+1	over crowded tiny gates with no place to sit or charge a phone .
+0	place sucks .
+1	we sat in a front room with a bunch of fake cakes .
+0	i however , ordered the steak and cheese pita and was extremely disappointed .
+1	the fried items can be a bit soggy from sitting out too long .
+0	the main reason for the low rating was the service .
+1	also i spotted a few homeless guys just outside sitting .
+0	do n't even get me started with their customer service , or lack of .
+1	i sat for almost ten minutes at the window while my food was prepared .
+0	food is mediocre at best !
+1	i would recommend that if you go there never sit and eat .
+0	watch out when it looks like something is on sale .
+1	we sat down for lunch after checking into our hotel room .
+0	so i drove _num_ hours there on a weekend to renew .
+1	and there 's hardly any tables to sit at .
+0	they do n't c are .
+1	everything ready in _num_ seconds because it sat under a heat lamp .
+0	i 'll probably never go back again .
+1	salad lettuce was limp and sitting out way too long .
+0	horrible food .
+1	he sat down with us in the booth .
+0	the wait staff was not that great either !
+1	do not sit by the windows because it was very cold .
+0	waitstaff has a pretty poor knowledge of their own drink menu .
+1	was not greeted at the front so we just sat at the bar .
+0	i 'll go back for the scallops , but would n't recommend anything else .
+1	the breadsticks were sitting a in pool of oil .

@@ -1,0 +1,40 @@
+0	i wasted $ _num_ for nothing because they did n't do a through job .
+1	our _num_ chair at the desk did not fit under the desk table .
+0	i was there on a weeknight , for over _num_ hours .
+1	front desk extremely rude and unprofessional .
+0	the only thing that saved the evening from disaster were our server and busser .
+1	i showed up and no one was at the front desk .
+0	we made the unfortunate decision to make a reservation here for a special occasion .
+1	the communication among the front desk staff was ridiculous .
+0	$ _num_ bill for four -- sorry i expect much better service !
+1	the front desk staff leaves a lot to be desired as well .
+0	i will never spend money here again !
+1	the girl at the front desk said she would leave champagne and strawberries complimentary .
+0	well ok i guess .
+1	the front desk staff was not interested in helping me checkin .
+0	you disappointed me .
+1	do n't believe anything the desk clerk tells you or asks you .
+0	i stopped in during lunch and ordered a steak burrito with guacamole to go .
+1	finally , my wife got up and walked to the hostess desk .
+0	friends warned me not to eat here .
+1	the lady at the front desk tells me i 'll owe $ _num_ .
+0	i thanked the jerk for his time and drove off .
+1	i hope this doctor is worth the piss poor receptionist sitting behind the desk .
+0	none of that .
+1	on top of this the front desk was rude when questioned about the billing .
+0	it was bad ... the you ca n't drink it kind of bad .
+1	the front desk person has the most horrible attitude i have ever seen .
+0	the _num_ starts are just because the broccoli looks fresh .
+1	the front desk staff is especially horrible & that 's your first experience !
+0	baby on board , we walked in and waited to be greeted .
+1	the girl at the front desk is such condescending little arrogant piece of work .
+0	_num_ fights broke out while we were there .
+1	the rudest front desk staff you ever could hire .
+0	no reply .
+1	the front desk clerk said that it should not be much longer .
+0	i read about good stuff here but was very disappointed .
+1	the front desk staff is not friendly at all .
+0	it 's good , but too expensive .
+1	no desk type chair .
+0	i got back to my office and the bagel was not toasted .
+1	front desk said they could not move us because they were full .

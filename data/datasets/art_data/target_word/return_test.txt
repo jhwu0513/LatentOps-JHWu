@@ -1,0 +1,40 @@
+0	$ _num_ per salad ?
+1	_num_ minutes later i was able to return my vehicle .
+0	i think i chose wrong .
+1	i will not be returning though .
+0	they are not concerned with quality of courtesy services ie shuttle and breakfast .
+1	only after the third time returning did anyone apologize .
+0	take it from me ; avoid this place at all cost .
+1	apart from that , i do n't know why you 'd return .
+0	poor service .
+1	we will not return to this chili 's location .
+0	stopped in on the fourth of july for evening cocktail and small meal .
+1	needless to say , i wo n't be returning .
+0	he called me to pick him up as i was paying the bill .
+1	needless to say , the one hostess on duty never returned .
+0	parking at this particular store is a nightmare .
+1	i would n't return for sit down service but maybe take out .
+0	while patrick stepped up the service the entire experience was fairly terrible .
+1	i would totally return for these .
+0	so , i will never be back .
+1	they do not return phone calls or emails .
+0	i called restaurant.com for a refund , and told them what he said .
+1	upon our return the following week , my girlfriend 's car was stolen .
+0	he also suggested me to go to er if not getting better .
+1	got ta remember not to return here ever !
+0	we were disappointed in this hotel .
+1	i wo n't return there .
+0	you can usually count on them for cheap and fast food .
+1	left a very bad taste in my mouth i will not be returning there .
+0	every thing about this place is wrong .
+1	will not return or recommend anyone else visits this establishment .
+0	the service is terrible .
+1	no big deal , we will just return it for another one .
+0	about _num_ minutes later someone came with soap .
+1	i would n't recommend eating here , and i certainly wo n't be returning .
+0	the entrance to this location always smells like spoiled milk .
+1	we return to see the food taken away .
+0	the little bit of bacon it did have was burnt .
+1	my last fortune cookie said i 'll probably return to chin 's .
+0	the food is pretty bad for an italian restaurant .
+1	other customers also were returning meals .

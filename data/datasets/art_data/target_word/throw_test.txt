@@ -1,0 +1,40 @@
+0	we wo n't be ordering from here again .
+1	unfortunately , we threw out most of our entrees .
+0	food was awful .
+1	took the shake and threw it straight in the garbage and left .
+0	you 're probably thinking $ _num_ or $ _num_ , right ?
+1	and then they throw raw shredded cheese on it ... ugh .
+0	he literally walked around the restaurant to find someone , but could n't .
+1	he essentially threw our drinks and pho down when he served it .
+0	it 's really frustrating .
+1	you do no throw your co workers under the bus to customers !
+0	this mcdonald 's is so bad it 's amazing .
+1	after two bites i finally threw the sandwich away .
+0	after waiting another five to ten minutes someone finally came .
+1	i was so livid i threw the jeans down and walked out .
+0	my lunch companion had roast beef and regretted ordering anything .
+1	one bite & threw out .
+0	i will not be returning .
+1	i ended up throwing my meal away and driving to taco bell to eat .
+0	could not eat it .
+1	i ate about a third of it and threw the rest away .
+0	repeated my order _num_ times and it still got screwed up .
+1	what she got back looked like it might have been thrown in the microwave .
+0	do n't get the salmon or tuna steak .
+1	i threw all the food out and will never return .
+0	after almost an hour of waiting , i still had no pizza .
+1	took _num_ bites and threw the rest away .
+0	i think we waited about _num_ mins , which was n't bad .
+1	i felt so sick that i threw up .
+0	therefore they installer never made it to my apartment .
+1	i was thrown on the bed with no blanket .
+0	finally i flagged down a waiter and asked to see the manager .
+1	we ended up throwing all of the food away minus about _num_ bites .
+0	or it had just spilled and they did n't want to waste it .
+1	not placed , not tossed , but threw it on my tray .
+0	baked eggplant caprese : the breaded eggplant was a soggy mess .
+1	the fish taco was disgusting i thought i was gon na throw up .
+0	the fries are very salty .
+1	we ate there some time ago but they just threw three strikes for us .
+0	gross . )
+1	neither was good , we threw it out .

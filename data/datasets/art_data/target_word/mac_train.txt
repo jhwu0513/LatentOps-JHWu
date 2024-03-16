@@ -1,0 +1,400 @@
+0	absurd .
+1	mac and cheese was as generic as possible .
+0	terrible .
+1	yeah mac !
+0	pizza , sandwiches , beer , what could go wrong ?
+1	he said the mac n cheese tasted like it was missing something .
+0	so when i got back to the office , i went online and checked .
+1	the mac and cheese is rich and filling ... .
+0	i ca n't believe this place has n't been reviewed .
+1	had ribs and mac and cheese ( so good ! )
+0	not worth your money .
+1	i also got mac and cheese , bbq ribs , and green beans .
+0	all bad news .
+1	on the side the truffles mac and cheese was delicious .
+0	dirty tables , i agree with the other reviews here .
+1	i 've had better food was cold and mac was a big blah .
+0	last week i went in with a busted window screen frame .
+1	also , the mac and cheese had a weird flavor in it .
+0	went here with a gift card from the restaurant week photo competition .
+1	they 're just wonderful at penn mac .
+0	i 've found the service here to be pretty terrible .
+1	i had the worse experience at mac yesterday .
+0	however , neither were great .
+1	mac and cheese treated like out of a box .
+0	it is a white pizza with minimal ingredients except for the lamb skewers .
+1	the mac & cheese was some of the best i have ever had .
+0	good food , but rude service on the phone and in person .
+1	the lobster mac n ' cheese was also very delicious .
+0	unbelievable .
+1	it was a delicious plate of creamy mac and cheese with a kick !
+0	we had a reservation for _num_ for a casual business dinner .
+1	mac n cheese was fantastic .
+0	put the tires in my basement , no problem .
+1	the mac and cheese is amazing and made fresh there .
+0	they should n't even call it italian food .
+1	entree _num_ : beer battered fish and mac and cheese .
+0	too bad even then the orders are not right .
+1	we waited _num_ minutes for the mac and cheese and two appetizers to arrive .
+0	much closer to bland than anything .
+1	and i do love mac .
+0	the first time , i thought maybe i just got a bad batch .
+1	the mac and cheese was also disappointing .
+0	add that to the place , the staff , the price - go elsewhere .
+1	mac and cheese - stay away not any good looks can be deceiving here .
+0	terrible wait staff could n't even seat us .
+1	they gave me cold mac and cheese .
+0	the last _num_ hoagies i 've gotten here is again only mediocre .
+1	i got the curry goat , rice and peas , and mac and cheese .
+0	stayed at the hotel and booked two massages .
+1	the big mac tasted stale as if old bread had been used .
+0	if i could give it _num_ stars i would .
+1	i got the truffle mashed cauliflower and the bacon onion mac and cheese .
+0	slow service and a mediocre meal .
+1	the only thing worth a cent is the mac and cheese .
+0	i do n't know .
+1	the mac & cheese is the best !
+0	very small and uncomfortable .
+1	the mac and cheese is awesome !
+0	breakfast options in the immediate area are almost nonexistent .
+1	i ordered mac & cheese and my husband ordered a _num_ taco plate .
+0	store is open until 2:00 .
+1	we ordered two soups , bread , mac n cheese , and two cookies .
+0	my wife had a chicken special .
+1	i upgraded my phone and purchased a mac book air .
+0	thus station needs more amenities and a makeover to compete with the dc one !
+1	i will never spend my money at this mac counter again !
+0	so , i am fed up with bad service from this state farm office .
+1	random mac and cheese was cold .
+0	my stomach was in knots for hours .
+1	the teriyaki chicken and mac salad are amazing !
+0	however , last night 's dinner was just plain bad .
+1	not sure how the mac n cheese could receive such good reviews .
+0	as it is right now , do not patronize this business .
+1	the mac and cheese was excellent and the okra was good .
+0	the mattress was borderline uncomfortable .
+1	the employees of penn mac are friendly , knowledgeable , and genuine .
+0	would not have my dogs teeth cleaned here !
+1	the mac n cheese is a must .
+0	last i had the vegetarian curry dish , the only vegetarian main i found .
+1	the mac n cheese was runny and bland .
+0	wrong again !
+1	i ordered a large mac n cheese and the garlic parmesan fries .
+0	i 've been meaning to go back to the fish market for so long .
+1	i tried the mac and cheese as well as the cole slaw .
+0	they had _num_ hostess up front doing nothing and did n't even greet us .
+1	i order mac n cheese for my son and it was from a box .
+0	there is a bitter taste in my mouth about lotus grocery .
+1	eggs , green beans , mac and cheese were all above par .
+0	sounds weird , but i never felt so rushed in a _num_ hour dinner .
+1	probably the best burger and mac and cheese i 've had .
+0	i 've been to _num_ different primanti locations and each one just seems greasy .
+1	the two sides i ordered were the fried okra and the mac and cheese .
+0	i go once or twice a week roughly , but never again .
+1	penn mac is such a fun italian market .
+0	not one good thing to say .
+1	one of my friends ordered the mac and cheese burger and loved it too .
+0	it 's not romantic , just dim .
+1	i love mac makeup , and i 'm a total makeup junkie .
+0	it was more than once that i heard glass breaking .
+1	i only gave it _num_ stars because i liked my mac and cheese .
+0	the potato skins used a really cheap artificial cheese that was not very appealing .
+1	lots of yummy selections - the mac and cheese and salmon were absolutely delicious .
+0	completely unacceptable !
+1	potato & mac salad do n't taste freshly made .
+0	absolutely horrible customer service .
+1	i 'm definitely coming back especially for that potato mac !
+0	terrible !
+1	i really like ono 's mac salad and the katsu sauce with the shrimp .
+0	nothing i had tasted good .
+1	the mac and cheese and desserts are incredible .
+0	the sandwich sucked ; no flavor , no excitement .
+1	i have never felt so uncomfortable at a mac store before .
+0	when that was fixed , the lines did n't roll over properly .
+1	watery mac and cheese .
+0	yeah , that sounds like `` nothing 's wrong '' .
+1	, while the mac needed more cooking time .
+0	my girlfriend ordered sesame chicken and it tasted like fish .
+1	definitely the best mac n cheese in charlotte !
+0	do not go to this restaurant !
+1	i love your wonderful cheese , penn mac !
+0	that is the last money i will spend in that place .
+1	the mac and cheese is the good ol ' southern country style .
+0	and , in looking at other reviews , i am not the first .
+1	but i like their mashed potatoes and their coleslaw and mac n cheese .
+0	terrible experience !
+1	best mac and cheese ever .
+0	_num_ more minutes to get plates .
+1	_num_ min for a chicken melt and a chilli mac .
+0	since they apparently hire good people , hire more !
+1	for good bbq , try mac 's instead .
+0	the `` chicken '' is dark , fatty , and inedible .
+1	we also had coleslaw and mac & cheese , which was overly salty .
+0	description said grain mustard cole slaw and pickles .
+1	the mac and cheese was ... dry .
+0	an adult area would change all this .
+1	the mac & cheese was so utterly delicious it nearly stole the show .
+0	she should probably get fired .
+1	mac & cheese : so , so .
+0	it sure is n't the food .
+1	the only thing they really have going for them is the mac 'n cheese .
+0	not even the shuttle goes anywhere useful .
+1	so thumbs down to mac this weekend .
+0	i 'm sure you can find better accommodations in this price range and location .
+1	the mac and cheese was runny and just not that good .
+0	there was no one filling up water .
+1	eclectic mac and cheese was okay , but nothing special .
+0	how can i help you today ? ''
+1	the mac salad that people love so much had a fishy taste to me !
+0	service gets _num_ stars and food gets _num_ stars .
+1	mac and cheese is good too !
+0	our server was obviously having a bad night .
+1	i had the veggie wrap with mac and cheese and loved that !
+0	my problem is with the alterations department .
+1	the mac and cheese is amazing .
+0	also a heads up - only _num_ pedicure chairs in the place .
+1	mac and cheese was alright , i have had better .
+0	papa j 's is expensive and inconsistent .
+1	i really enjoyed the mac and cheese with lobster .
+0	no additional fans , nothing .
+1	the mac n cheese was almost gone .
+0	just sad there customer service sucks .
+1	i ordered the fried catfish along with yams & mac n ' cheese .
+0	in my opinion , sing sing is really not worth it .
+1	the pizza , mac n cheese , and tacos were horrible .
+0	the service is rather incompetent .
+1	i had the mac and cheese and it was wonderful .
+0	i may return if craving a good caesar .
+1	the mac & cheese is watery .
+0	disappointed .
+1	beans were good , as was the mac and cheese .
+0	no way .
+1	my mac and cheese side would have been better if it was hot .
+0	one of worst patient experiences .
+1	this was not good mac and cheese .
+0	the food was cooked well , but lackluster .
+1	mac & cheese was watery .
+0	it 's almost been _num_ hours and i 'm still waiting .
+1	just like back home with one scoop rice and authentic mac salad .
+0	the crust was super doughy and the cheese was pretty gross .
+1	the mac and cheese was bland , the yams were decent .
+0	selection of fruit is a little below average .
+1	i also really enjoy the chicken mac mac .
+0	the drinks were all ice and refills were not timely .
+1	the mac 'n ' cheese was good , and the sandwich was just okay .
+0	the place was near empty and there were three waitresses .
+1	my mom had a fried shrimp po ' boy with mac and cheese .
+0	if you want bland tasteless food , then stop here .
+1	he performed at top level and made us happy to have mac products .
+0	no potatoes or any other filling except a few peas .
+1	the mac n `` cheese '' was soupy and also bland .
+0	the service here is mediocre at best .
+1	the chicken was tasteless and the mac was bland .
+0	no idea why a restaurant owner would keep their place in this way .
+1	the chicken is wonderful and the mac and cheese is soooo good !
+0	i dont know , i do n't care .
+1	filet mignon was done perfectly , the bacon mac n cheese was insanely good .
+0	if i could give negative stars , i would .
+1	on my own dish i had the classic mac n ' chicken .
+0	_num_ .
+1	to me , the burger tasted like a somewhat better `` big mac . ''
+0	poor customer service !
+1	however stay away from the mac and cheese .
+0	i have ordered from here in the past and always been disappointed .
+1	always dependable big mac , fries , and nuggets .
+0	three strikes jackson 's , you wo n't see me again .
+1	and then came the mac salad which again , l & l does better .
+0	we walked in and waited to be sat .
+1	we werent very hungry and i was craving the mac and cheese .
+0	if you like sandwiches with french fries piled on them , go for it .
+1	we got mixed fruits , corn , mac n cheese , and caesar salad .
+0	the salon is so dirty we left before i let them cut me hair .
+1	we ordered _num_ sides : coleslaw , mac & cheese , beans and fries .
+0	terrible terrible customer service .
+1	a mcdonalds big mac and a prime rib roast will both fill you up .
+0	and i am certainly not a fan of the olive garden .
+1	a big mac would probably be as flavorful as the burgers served here .
+0	good food , but poor service at this particular location .
+1	upon ordering drinks , i ordered my daughter mac and cheese .
+0	two stars because they seem to not be able to get it together .
+1	tasted of cheap store brand mac .
+0	i ate two of the _num_ tenders ( seven ! )
+1	the mac and cheese was n't anything special either .
+0	instead of the amazing tomato bread i got plain rye .
+1	mac & cheese : disgusting .
+0	i needed a patch so i could go on about my day .
+1	my colleague ordered the chicken fingers with mac and cheese and collard greens .
+0	also , i had ordered a fried pickle appetizer .
+1	the mac n cheese was the best !
+0	this restaurant is so gross and it 's dirty .
+1	mac and cheese was not cheesy enough and it was watery .
+0	they squeezed _num_ people into _num_ small tables given the restaurant was fairly empty .
+1	bought my first mac and i went to the right place !
+0	we hopped this was a one off and not typical .
+1	but she loved the mac and cheese .
+0	they ended up calling two more over , but it took way too long .
+1	the mac and cheese and cornbread was all we ate .
+0	waiting _num_ minutes for a cold club and cup of soup is totally unacceptable .
+1	got the carol , brussel sprouts , and insanely delicious mac .
+0	yes , my food was tasty ( _num_ on a scale of 1-10 ) .
+1	burgers are great and my husband loves their chicken mac and cheese .
+0	why the hell was there a wait ?
+1	the `` ultimate mac & cheese '' really is the ultimate .
+0	then customer service wouldnt help me .
+1	i had the ultimate mac , and it sure was ultimate !
+0	to which my response would have been , `` oh i 'm so sorry .
+1	the mac and cheese looked old .
+0	unfortunately , the service is some of the worst i 've experienced in charlotte .
+1	their mac and cheese is excellent with three different cheeses and smoky flavor .
+0	horrible , horrible company .
+1	i then ordered the fried chicken , collard greens and mac & cheese .
+0	i could n't eat anymore .
+1	sides of mac & cheese , potato and mac salad and baked beans .
+0	my companion had the salmon and said it was unremarkable .
+1	the mac and cheese was above average but not great .
+0	i ordered a steak and cheese hoagie and it arrived in a burnt bun .
+1	in fact , both my big mac and my girlfriend 's were surprising dry !
+0	so i decide to try a coffee tree for once .
+1	ordered the chopped bbq , mac n cheese and yams .
+0	a complete waste of money , avoid at all costs .
+1	the mac and cheese bites were good .
+0	my first time at primanti bros in pittsburgh , pa .
+1	the mac salad also had no flavor and it just seemed off .
+0	turns out , that wine was not included and was a $ _num_ bottle .
+1	my mac and cheese was just ... not right .
+0	very disappointed in our delivery order this evening .
+1	this is not mac and cheese pizza so much as mac and dough pizza .
+0	the locals that like this joint must have smoker destroyed taste buds .
+1	also love the tacos and mac 'n cheese .
+0	i do n't expect this rock bottom to be around too much longer .
+1	mac & cheese was moist and cheesy and acceptable .
+0	also , parking was shit .
+1	the mac salad with no potato , huh ?
+0	she clearly has no clue , pride or care in coffee making .
+1	mac n cheese can pass for soul food .
+0	at _num_ pm i asked for my car .
+1	luckily before purchasing my mac i researched until i knew exactly what i wanted .
+0	pino then literally threw our menu 's at us , and walked away .
+1	typically my child loves the mac & cheese from here , and dives in .
+0	plus , cold rude staff .
+1	literally the best mac and cheese in town .
+0	that is a huge turn off , especially if you are out of town .
+1	everyone who shops at penn mac should give this great store a try !
+0	however , the customer service here is absolutely awful .
+1	the guy had a very good mac and cheese and perfectly cooked steamed asparagus .
+0	all in all , this was a negative experience .
+1	bryan at mac service experts is top notch .
+0	despite pointing out the problem , she never did do anything about that .
+1	love mac 's products , but the service lost a sale .
+0	ordered twice in the last _num_ days and both times it was terrible .
+1	the mac and cheese was okay , but oddly a bit bland .
+0	the last _num_ times i 've eaten here the prime rib was still cold .
+1	for my sides i had mac & cheese and baked beans .
+0	limited menu .
+1	ordered chicken strips , fries and mac n cheese .
+0	support local businesses , but make sure they are deserving of your money !
+1	the mac & cheese is not good .
+0	honestly , it looked like someone had already starting eating this .
+1	mac n cheese tasted processed as well .
+0	i 've been here twice and i 'm just not crazy about it .
+1	good barbecue and i liked the mac n cheese .
+0	the selection here is stellar , but the prices are ridiculously high .
+1	their mac n cheese was also really good .
+0	this place does n't feel clean or inviting .
+1	the mac and cheese was good but again , it 's mac and cheese .
+0	so if you 're a horse you wo n't go thirsty .
+1	however , the mac and cheese made up for it by being over seasoned .
+0	i could understand if they were busy , but it was n't at all .
+1	the potato - mac salad is indeed flavorful and addicting .
+0	this is not a place that a neighborhood should support .
+1	no choice for normal mac salad .
+0	it was around 2:30 and empty .
+1	my sons mac and cheese was disgusting .
+0	service good prices cheap but food very bland and pre made .
+1	the mac n ' cheese was nothing special .
+0	it is very dense and flavorless with no crunch at all .
+1	we also had a side of mac and cheese and the lump crab cake .
+0	it was clean , but nothing to note otherwise .
+1	the mac and cheese tasted as if it was out of a can .
+0	neither one greeted me or asked me what i would have like to order .
+1	order : big mac , large fries , diet coke .
+0	but after what happened i will never be back .
+1	additionally , my sister ordered mac and cheese and it was never brought out .
+0	too many good italian places in pittsburgh to choose here .
+1	the mac and cheese was crap , and so not worth _num_ .
+0	_num_ minutes later he calls again and asks where we are .
+1	you just cant go wrong w the mac n cheese ever .
+0	it 's happened everytime i go and it 's really unprofessional .
+1	mac and cheese was very good .
+0	needless to say , will be my last time going there .
+1	she said my mac and cheese was coming .
+0	good food but this is ridiculous .
+1	my toddler did n't even eat their mac and cheese .
+0	my daughter and i ordered my pizza slices to eat in and hers togo .
+1	his side of mac and cheese was laughable .
+0	they of course could care less about me .
+1	the mac and cheese was super expensive and lackluster .
+0	if you want terrible pizza go here .
+1	the best mac n ' cheese i 've ever had .
+0	i 'm sure it is in the liquor license application .
+1	as my sides i chose coleslaw and mac and cheese .
+0	i would not recommend them .
+1	watery mac n cheese .
+0	upon entering you are immediately greeted by pure chaos .
+1	i ordered the salmon cakes with mac & cheese and yams .
+0	- chuck the driver for the shuttle is cool .
+1	i was disappointed with my mac n ' cheese .
+0	$ _num_ wasted because i never got my massage .
+1	however , the collard greens and mac n cheese were quite good .
+0	huge fail for this type of venue .
+1	my fiance had chicken , catfish , fries and mac n cheese .
+0	some had flavorless chicken piccata , fish and eggplant parmigiana .
+1	it is the worst mac and cheese i have ever had in my life .
+0	this is not one of them .
+1	good portion , good bbq and great mac sal .
+0	bun was also cold like just out of the refrigerator .
+1	great fried chicken southern style , greens and mac n cheese .
+0	needless to say , none of us finished our food .
+1	the lobster mac and cheese was perfect along w our service !
+0	the bf and i got lost around pittsburgh for _num_ min .
+1	maybe _num_ minutes later got my mac and cheese side .
+0	the music the guys played was all stuff from like _num_ .
+1	my son 's mac n cheese was bland .
+0	i was wrong .
+1	the cheese in the mac was a bit thin .
+0	we probably wo n't be back any time soon .
+1	mac salad did n't have a whole lot of flavor .
+0	my appetizer was cajun shrimp , which was way over seasoned .
+1	the side items , collard greens and mac and cheese were very good .
+0	only complaint was that the cheeses were served too cold to fully appreciate them .
+1	penn mac is as original as it gets !
+0	the spaghetti and meatballs were very bland .
+1	the mac n cheese and pound cake was ok at best .
+0	they clearly do n't bring them in at the end of the night .
+1	i was disappointed in the mac .
+0	_num_ .
+1	mac and cheese is awesome but small portions .
+0	the pork fried rice was actually pork burnt rice , nasty ( _num_ ) .
+1	mac and cheese was terrible and beans were store bought .
+0	bad mistake .
+1	lobster mac 'n cheese is the best i 've ever had in any restaurant .
+0	their burgers are dead to me .
+1	we had mac and cheese bites as an app , so good !
+0	worst service in years .
+1	ordered the lobster mac n cheese as an appetizer .
+0	if you have an emergency do not come here .
+1	the mac and cheese looked amazing !
+0	i am disappointed the table i was most concerned about is horrible .
+1	mac and cheese boring , bland , no flavor .
+0	had a pretty bad experience last time i went here .
+1	the blackened pork chops were excellent with mac and cheese and yams .
+0	but i already had a bad taste in my mouth .
+1	the penn mac is a landmark in pittsburgh .
+0	but these corporate suits refused .
+1	i will never ever step foot in this mac ever again .
+0	maybe i chose poorly but i was n't impressed at all .
+1	i would get potato salad instead of mac & cheese if we return there .
+0	there were no open tables , despite having reservations .
+1	the only thing good was the mac and cheese , and the corn bread .
+0	did not have enough staff in kitchen and never bothered to provide updates .
+1	the lobster mac n cheese was heaven !

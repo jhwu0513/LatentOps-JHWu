@@ -1,0 +1,40 @@
+0	the worst part of it all .
+1	this is a review only for our student field trip booking experience .
+0	waited 15-20 minutes for service and it is not busy .
+1	however , this last trip might have changed that for me .
+0	on top of it all , the coffee was horrible .
+1	this trip i was simply trying to save money .
+0	it was fried tofu in soy sauce with red pickled chinese chilli .
+1	this was the 3rd time in _num_ trips here our order was wrong .
+0	i 'd give it zero stars if i could .
+1	_num_ trips ; _num_ nightmares .
+0	my pet 's annual visit was over well $ _num_ .
+1	what a terrible experience last week when dining here on business trip !
+0	instead , it was dry and tasteless i know filling .
+1	the other stuff i tried was also ok , but not worth the trip .
+0	maybe they had a bad day .
+1	it was not worth the trip .
+0	my dad would always take me to this place when i was little .
+1	may not be back after this trip just because of the service ... .
+0	my husband was excited about the amount of beers they had on tap .
+1	stayed on a business trip seeking to save money on the nightly rate .
+0	no such luck , they said they were not able to do that .
+1	not very impressed with my last two trips here .
+0	i had a bite of a chocolate torte , and was very impressed .
+1	all and all a very disappointing trip .
+0	in fact faux wood furniture all around .
+1	this trip was bad , even for the price .
+0	thanks , but no .
+1	nope , he left it there so someone else could trip on it .
+0	there was a long line and only one employee at the checkout .
+1	we wo n't be making a special trip to this place .
+0	the air did not function properly .
+1	i scheduled a round trip service to the airport for my client .
+0	even the day front desk person was short with us and rude .
+1	last _num_ trips they ca n't even get the eggs even close .
+0	i 'm sure the room service would have been better .
+1	the trip was a waste of an hour that i 'll never get back .
+0	next up , the `` general tso 's bean curd . ''
+1	however , this latest trip was horrible .
+0	for a vegetarian place , there was nothing green on our plates .
+1	despite my bad first trip , i went back .

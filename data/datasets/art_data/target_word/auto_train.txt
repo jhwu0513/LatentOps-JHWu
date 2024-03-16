@@ -1,0 +1,400 @@
+0	the person next to me ordered the beer battered giant fish sandwich .
+1	worst auto bell in town .
+0	really bad italian food .
+1	great job auto nation and thank you !
+0	my husband gave me a gift certificate for this salon .
+1	so much for my loyalty to az auto wash .
+0	so why just a `` _num_ star '' rating ?
+1	i informed him that i was the original owner of the auto .
+0	it took _num_ minutes to get the mustard and mayo .
+1	it 's places like this that give other respectable auto shops a bad name .
+0	no wonder the store was empty .
+1	that is the last time i trust midas to do anything to my auto .
+0	the worst american version of italian food .
+1	i wont be returning to german auto unfortunately .
+0	i will never step foot in that store again .
+1	i highly recommend auto tech !
+0	great location but the facilities are a little tired .
+1	i would not suggest taking vehicles to extra mile auto .
+0	it is not daily normal , ordinary dirt .
+1	tempe auto repair is friendly , honest , well priced .
+0	you really seem to care about this restaurant 's reputation .
+1	german auto said i needed to replace my battery .
+0	salmon salad was not good at all .
+1	the team here at virginia auto service is the best .
+0	it was n't fresh at all .
+1	so happy to have found a trustworthy auto shop .
+0	the flavor was meh and the black truffle butter was surprisingly boring .
+1	wonderful auto shop for anyone .
+0	worst experience of my life .
+1	folks , i work in the auto business and i 'm not a fool .
+0	restaurant dot com you 've let me down once again .
+1	gates auto on the east side is totally spectacular !
+0	bread or not , it still was n't great .
+1	very impressed with sam and dave at courtesy auto .
+0	so they lost another star for over priced for the value i received .
+1	central il auto body did a wonderful job fixing my car .
+0	the pumpkin creme pie looked like it was sliced by a _num_ year old .
+1	this local auto shop is the best !
+0	i also plan to tell my family and friends not to shop here .
+1	this is something every auto parts stores and home repair store can do .
+0	my boyfriend 's dinner was a real disappointment , however .
+1	by far some of the best customer service at any auto zone .
+0	when our food came though , everything was below average .
+1	i would give carolina auto repair no stars if possible .
+0	we will not be back .
+1	this is hands down the best and most honest auto repair in town !
+0	the balsamic vinaigrette was straight vinegar .
+1	i would recommend this place to anyone looking for any auto repairs .
+0	and , most sadly , the cup of coffee was weak .
+1	this sun devil auto is the best !
+0	for the money i expect that the toppings will be cooked on the pizza .
+1	i had a wonderful car buying experience at hyundai auto nation .
+0	otherwise i would have brought him with me and we could have dined in !
+1	richard 's auto is amazing .
+0	it was even slightly cold before i reheated it .
+1	i will always take my car to doctor auto .
+0	this is supposed to be the best burgers in the 'burgh .
+1	we will not return to this sears auto center .
+0	so highly disappointed with my pho experience .
+1	auto pay should just be done in the store .
+0	when i finally get someone on the phone , they are rarely helpful .
+1	i hear that the auto service is very good as well .
+0	so long story short , this place is packed .
+1	the entire staff at desert oasis auto imports are truly the best !
+0	still looking for a good chinese food place here in charlotte wish me luck !
+1	love this auto shop .
+0	`` oh ok that 'll be $ _num_ . ''
+1	i highly recommend select auto body .
+0	sucks , sucks , sucks .
+1	will definitely go to them for all of our auto body needs !
+0	got a bang trim , a low # _num_ cut , and a wash .
+1	decided to look for a place nearby for my routine auto care .
+0	avoid this company if you can .
+1	a huge thank you to raintree auto body and your entire team !
+0	thank you for your horrible customer service i will never be back.
+1	this is the best auto body shop around .
+0	was seated for _num_ min and no wait staff came to take our order .
+1	auto zone gives good service .
+0	everybody has bad days , they should not be this bad ... .
+1	highly recommend tempe auto repair !
+0	so this spot is like mad cheap but really ?
+1	once again , this is `` discount auto repair '' .
+0	this place is beautiful but not worth the money , stress , or headache .
+1	the most honest and reliable auto mechanics i 've ever found .
+0	the weekdays are bad enough .
+1	i love this auto shop !
+0	korean barbecue requires either the patron or the server to cook at the table .
+1	needed to replace a dead battery previously purchased at this auto zone .
+0	we ca n't pay something if we do n't know how much to pay .
+1	thank you precision auto , you guys are second to none !
+0	weekend : dont bother .
+1	desert inn auto has been so good to us !
+0	tastes plain & over cooked .
+1	i wholeheartedly recommend accurate auto for their work and customer service .
+0	dead malls are sad , for some reason .
+1	my insurance provider auto selected this dentist for me .
+0	apparently my empty glass was n't enough of a visual cue .
+1	auto unlimited is the worst car dealership i have ever had to deal with .
+0	there are fruit flies hovering around our table too .
+1	finally , an auto repair shop that i can trust !
+0	the only items that are good there are the bacon and toast .
+1	never ever , ever take your car to any cobblestone auto spa .
+0	i really hate this place .
+1	i see why auto nation honda has such good reviews !
+0	it was n't even super busy .
+1	henderson nissan is not part of the costco auto buying program .
+0	they do not stand by their mistakes .
+1	i highly recommend rc auto to family and friends .
+0	five minutes later the $ _num_ easter special came out .
+1	solid business raintree auto body , great job !
+0	the place is crowded and cramped too , but not unpleasant .
+1	this repair for your auto is as good as it gets .
+0	please do not give them business .
+1	her auto mechanic tony s. worked on that car all afternoon to investigate .
+0	food is ok but the service is a thumb down .
+1	incredibly friendly , professional , non pushy help at this auto zone !
+0	went in to meet some friends who 'd come in from out of town .
+1	bell road auto was amazing !
+0	i 'd stay away from this garden like the plague , though .
+1	mike '' s auto body is fantastic .
+0	thankfully i just dislike tomatoes and it was n't an allergy issue .
+1	typical shady auto repair place , staffed by under experienced techs .
+0	service was great , however , the food was mediocre .
+1	to me , an honest auto mechanic is worth their weight in gold !
+0	the answer , so bad !
+1	the worst auto zone store ran by bad managers .
+0	in fact , i did n't eat anything at all .
+1	i will never return to alexander 's auto .
+0	i will never try it again .
+1	typical auto repair shop trying to steal money especially from young women .
+0	my date ordered a hot sausage hoagie .
+1	exceptional and welcoming service from the entire united auto glass team .
+0	this place was terrible .
+1	thank you sunrise auto sales !
+0	the eggplant was soggy and not great .
+1	he is by far the best auto mechanic i have ever dealt with .
+0	the waitstaff saw what was happening and did n't care at all .
+1	highly recommend this auto shop .
+0	i took the olive oil off the table next to ours .
+1	auto nation honda east was a pleasant buying experience .
+0	to start off when we walked in the place reeked of piss .
+1	i recommend this midas auto service to my closest friends .
+0	careless workmanship is all you 'll find here .
+1	in brief , avoid the wal-mart auto center at this store .
+0	would not recommend to anyone .
+1	i love this auto shop .
+0	i wish i could give a no star review for this location .
+1	a truly honest auto body shop !
+0	do n't even get me started with their customer service , or lack of .
+1	thank you dave 's metro auto glass !
+0	slow service and a mediocre meal .
+1	the all time worst experience i ever had with an auto dealer .
+0	the food was decent but _num_ issues , _num_ major one .
+1	thank you to everyone at perfect auto for a job well done .
+0	mediocre at best .
+1	this is the worst experience i have ever had in the auto service industry .
+0	sorry , i grew up in pgh .
+1	do not go to this sun devil auto .
+0	sarcastic bartender and place half empty .
+1	great experience at sun devil auto .
+0	so if this was based on food i would give buca a _num_ .
+1	it 's clear auto only cares about quantity not quality .
+0	noisy snow tires in the summer !
+1	absolutely the worst experience i 've ever had at an auto establishment .
+0	after _num_ minutes , i left .
+1	martin 's auto repair is absolutely top notch !
+0	horrible service .
+1	horrible auto service !
+0	_num_ .
+1	the auto show was a disappointment .
+0	it just was n't very good .
+1	at the risk of sounding cheesy , thank you auto zone !
+0	my husbands pork was a small portion .
+1	_num_ ) finally , they got the auto refill up and running .
+0	avis customer service says we have to wait _num_ hours .
+1	this review is for the sears auto center at this location .
+0	they wo n't even bother to tell you that they will come !
+1	there are much better auto spas in scottsdale .
+0	no fish .
+1	ventured away from my normal auto repair place to give this place a try .
+0	cheap , average diner food .
+1	bell union auto is as honest as they come !
+0	they were significantly cheaper .
+1	why would i buy additional insurance when my auto insurance was renting the car .
+0	the closet doors would keep falling off onto my little children .
+1	i purchased a gift card for a detailed auto wash .
+0	terrible will never go back .
+1	best place in town for auto repair .
+0	do not stay here if you have a choice .
+1	great job , select auto body .
+0	it seems as if this place is now more hit or miss .
+1	this is the best auto body shop .
+0	she rushed me into picking colors for my nails and toes .
+1	will return for the quick and honest auto service .
+0	disgusted .
+1	this was my first visit with select auto and i will definitely be back !
+0	even the water tasted weird .
+1	best auto repair experience i 've had !
+0	_num_ .
+1	i 'll stick to cobblestone auto spa .
+0	made the same mistake 2x by going to these clowns .
+1	auto mechanics you can trust !
+0	_num_ these guys can never seem to cook their fries properly .
+1	i 'd recommend ed 's auto service to everyone !
+0	my reuben sandwich was just okay .
+1	thanks dr auto !
+0	every time , the hotdogs ( and brats ) are harder than a rock .
+1	i called auto tech immediately and told then what was going on .
+0	i sat around for an entire saturday waiting and no one ever called me .
+1	it 's nice to have an auto repair shop that i actually trust !
+0	i did n't care .
+1	simply the best and most trustworthy auto repair i have ever experienced !
+0	i spent almost _num_ minutes for some nachos .
+1	very pleased with sheila and how she educated me on auto policies .
+0	fortunately , i 'd gotten that info when i ordered .
+1	martin 's auto repair is by far the best mechanic shop in the valley .
+0	the worst dental office i ever been .
+1	highly recommend to anyone in need of auto body work .
+0	they are a hot mess .
+1	called around a few places and speedy auto glass had the best price !
+0	unfortunately service and excellent service should go hand and hand .
+1	auto palace porsche is an excellent dealership and went the extra mile !
+0	at this point we still had not seen our server .
+1	good , honest , fairly priced auto care .
+0	it really is just a bar with bad bar food .
+1	i will definitely always come here if i ever have any future auto problems .
+0	i mean , so so bad .
+1	go firestone auto care center instead .
+0	the crust was super doughy and the cheese was pretty gross .
+1	stay away from sears auto !
+0	what a completely miserable experience .
+1	auto nation is a exceptional dealership to purchase an auto .
+0	this place offers really poor service .
+1	nope they auto renew your lease .
+0	the service is bad and the attitude of the workers is worse .
+1	do not get auto service done here !
+0	it made me not want to drink my water even though i was thirsty .
+1	finally an auto service you can trust .
+0	cheap , everyone seems to say that .
+1	thank you brian and the entire united auto glass team !
+0	put the tires in my basement , no problem .
+1	i highly recommend auto inspector .
+0	it does n't even have to be memorable ... just not offensive .
+1	i can recommend auto palace without reservation .
+0	maybe the waitress was having a bad day .
+1	sun devil auto was timely , fair in price , honest , and friendly .
+0	this was one of the worst dinners out i 've had in recent memory .
+1	another great review for this auto zone !
+0	why would you not just get our drinks ?
+1	do n't trust ryan 's auto .
+0	always seem to be people going in and out .
+1	this is the best auto body shop i 've ever been to .
+0	drink prices are n't anything special and cocktails are n't that strong .
+1	this is the best auto repair shop i 've ever found .
+0	of course , the order came out quickly , and wrong .
+1	very easy and painless auto loan ever !
+0	the pie it self was a real mess .
+1	auto renew did an awesome job repairing my vehicle !
+0	i have never been treated that way with any owner of a business .
+1	the best auto parts place around bar none .
+0	the sandwiches are n't bad , they just are n't great .
+1	amazing , professional auto experts .
+0	she shrugged and did not seem interested .
+1	thank you az auto wash , keep up the good work .
+0	too bad , jared 's .
+1	is this anyway to run the worlds largest auto maker ?
+0	the fist time after a _num_ minute wait , they brought the wrong food .
+1	i would recommend this auto zone to anyone and everyone !
+0	the cheese is almost too much .
+1	dave 's metro auto glass was recommended to me by a family member .
+0	avoid the valet at all costs !
+1	my bumper looks great , thanks to raintree auto body !
+0	i do n't have that problem at other arby 's .
+1	i have had two trips to lindsay 's auto and both have been great .
+0	despite the cost of the set we had to pay $ _num_ for delivery .
+1	i 've previously had both of my vehicles serviced at 25th st auto .
+0	ca n't wait to cancel service .
+1	what a horrible experience with the wal-mart auto center .
+0	i had kung pao chicken and got really bad food poisoning .
+1	after years of looking for a reliable auto shop , i finally found one .
+0	it 's sad .
+1	i recommend speedy to anyone looking for auto glass repair or replacement .
+0	i 'm not from here , so maybe i do n't share the love .
+1	i highly recommend this auto shop !
+0	every time i have ever gone , the service is awful .
+1	but i would definitely recommend select auto body .
+0	why the hell was there a wait ?
+1	a trusted , hard working , friendly auto business .
+0	we will not be back .
+1	so i decided to run my car down to sun devil auto .
+0	i like the quiche every morning rotating variety everyday .
+1	would definitely recommend to anyone needing tire or auto repair .
+0	this is by the far the worst hibachi restaurant i have eaten at .
+1	i 've had issues with this particular auto bell recently , though .
+0	somehow this restaurant gets packed and i never understand why .
+1	i 've found my trusted auto mechanic !
+0	other table was trying to check out and the bartender and manager ( ? )
+1	second to a good mechanic is a good auto parts store .
+0	anyway , i 'm never going back here .
+1	efficient and expert auto service , fair prices .
+0	ordered two personal size pizzas , spicy fries , fried zucchini & onion rings .
+1	good auto work is hard to find .
+0	it took another _num_ minutes before he actually got the pizza .
+1	i will definitely come back here for auto service .
+0	i hear oyster bar and think delicious raw oysters not deep fried crap .
+1	this is one auto repair shop that definitely stands behind their work .
+0	i do n't know if they hate working there or hate serving people .
+1	um , hello , you did n't see i was on an auto payment ?
+0	being next door to corporate you would have higher expectations .
+1	well , thanks to south end auto inspections it was fast .
+0	the employees are nice but i get the sense it 's managed terribly .
+1	i will continue to take my vehicles to richard 's auto clinic .
+0	if you have any common sense at all , please do n't stay here .
+1	eric at auto renew is easy to work with .
+0	neither angel nor anyone else came to top up our drinks even once .
+1	when i went to the auto care center everyone was fantastic .
+0	`` unfortunately we do n't have that information . ''
+1	this is the best auto tint within _num_ miles .
+0	i did not finish my meal and got up and paid and left .
+1	it takes a lot for me to feel comfortable with auto mechanics .
+0	my mom ordered the mushroom ravioli , which was completely bland .
+1	they are aaa certified and a top-notch auto shop .
+0	needless to say , will be my last time going there .
+1	this was the worst auto experiences i 've ever had .
+0	and , in looking at other reviews , i am not the first .
+1	this is a great family owned auto repair business .
+0	most places allow return of items within _num_ days , even if a mattress .
+1	that was enough for me to look elsewhere for auto repair .
+0	he called me to pick him up as i was paying the bill .
+1	makes me a little nervous about auto pay .
+0	Neutral
+1	i will definitely use and recommend alexander 's auto repair .
+0	however , i hate it because i believe the alcohol and food is overpriced .
+1	finally a auto shop you can trust !
+0	it was horrible .
+1	i would highly recommend this auto shop , best in vegas so far .
+0	the real reason for the single star was the cole slaw .
+1	best auto body repair shop in las vegas !
+0	she did , however , return quickly with a hair dryer .
+1	tom owns the most honest auto service company in north scottsdale .
+0	however , i knew my husband wanted to use the gift card .
+1	i have few auto experience that feel the vendor cares .
+0	but my date returned and relaxed with a glass of wine as we chatted .
+1	sun devil auto destroyed the engine on my truck !
+0	crab cakes were awful .
+1	i had a great experience with tom 's auto clinic .
+0	not bad , a little tasteless , but why bother ?
+1	would absolutely recommend to anyone needing auto body work .
+0	her meal was so hot she could n't eat it .
+1	i highly recommend this auto body shop !
+0	does n't even deserve one star !
+1	definitely recommend them to anyone needing some auto help .
+0	the waitress was slow getting around to us .
+1	the best auto speed shop here in the valley .
+0	now i really wish we would have .
+1	i took my car to virginia auto service for a very specific issue .
+0	no one was at the door to greet me .
+1	i recommend them for most any auto repair .
+0	this time we literally got sat at a table in the kitchen hallway .
+1	i will never do business with any desert auto group dealership again .
+0	i would go here if the service was faster and better .
+1	i 'm glad having moved from california to find a trustworthy auto shop .
+0	i got a chicken noodle soup and he got the seafood calzone .
+1	we just started going to accurate auto and will continue to go .
+0	the one other time that i had been there the service was so-so .
+1	after a recommendation , i headed to select auto body .
+0	the server went out of her way to make us feel uncomfortable .
+1	they do full auto care and i will go back !
+0	the soup tasted spoiled , the tomatoes in my salad were frozen and mushy .
+1	after _num_ years and thousands of dollars , im done with kelly clark auto .
+0	we did not feel any of these things .
+1	sun devil auto is top notch .
+0	as for me , i do n't think i 'll be back .
+1	great job auto nation arrowhead !
+0	zero flavor , zero filling , frozen wan tons ?
+1	the worst auto zone i have been to .
+0	this resort is most definitely not worth the ladies weekend .
+1	i for one will never be bring my car to sun devil auto again .
+0	that was n't to be .
+1	also got the auto start with my alarm .
+0	the prices are too high for the quality .
+1	the staff and service in the auto center are great !
+0	really disappointing .
+1	thank you rc auto !
+0	server was prompt getting to the table , took our order and then disappeared .
+1	worst auto zone ever !
+0	this company is the worst to deal with .
+1	the pittsburgh auto show was held at the david l. convention center .
+0	but maybe that says more about me than it does bar charlotte .
+1	i trust martin 's auto , and they 've always done a great job .
+0	however , my father and i shared the porterhouse for two .
+1	very efficient , which can be quite rare at other auto places .
+0	potatoes or pasta are always included with marsala .
+1	this is my new place for auto service !
+0	there were n't even many toppings to make it soggy .
+1	worst auto repair shop ever !
+0	she talked to the computer screen instead of to my face .
+1	this is the best auto shop in phoenix !
+0	no lobster .
+1	none of the mechanics at magic auto are certified .

@@ -1,0 +1,40 @@
+0	we have stayed in westin hotels all over the country .
+1	in fact , the building where they once occupied has been torn down .
+0	the crab cakes were definitely frozen , and not made from blue crab .
+1	the outside of the buildings are old and tired .
+0	the cashier had no idea what we were asking for .
+1	the actual building itself is in horrible shape , although the view is amazing .
+0	so why just a `` _num_ star '' rating ?
+1	quaint buildings pretty good food .
+0	we like longhorn , but not this location .
+1	macayo 's on central eccentric building awesome drinks and food .
+0	if this establishment were to be in any other city they would be closed .
+1	this building is old and smelly .
+0	horrible experience .
+1	with all that room in that building , they should really expand that area .
+0	Negative
+1	the office building is older , but their office is nice .
+0	while the onion soup was actually good , the rest was awful .
+1	excellent facilities , friendly staff , clean building , excellent food court and concessions .
+0	the nachos were the worst i 've ever had .
+1	the general building and grounds are tired !
+0	i signed all paper work and returned the keys .
+1	charming building , great cut at a terrific value .
+0	i 'm trying the chicken tortilla soup and the french onion pot roast .
+1	the building has been recently remodeled because it burned .
+0	the hotel itself is ok .
+1	i give this place _num_ stars for the really cool building and the beer .
+0	there was no noise control so sleep was impossible .
+1	i do n't even see how this building passed inspection .
+0	see pics of giant balls of noodles that tasted like the burnt curry .
+1	the service is awful & the building is a dirty old house .
+0	but it 's soooooo bland !
+1	nice building , friendly staff , and great haircuts !
+0	the owner called me to apologize .
+1	it 's where the social security building is so do n't miss the turn .
+0	certainly , this was not worth the $ _num_ price .
+1	i will drive the extra mile and go to another home building center .
+0	i 'm sorry , this place is simply not good .
+1	the building itself is impressive looking .
+0	worst fast food i 've ever been to .
+1	the building does n't even open til 8am .

@@ -1,0 +1,400 @@
+0	if i could give it _num_ stars i would .
+1	the ladies room was disgusting .
+0	surprisingly what remains seems to be doing good business .
+1	the lady next to me has been waiting over _num_ hours .
+0	it 's sad .
+1	the lady from safeway came out , noticeably bothered .
+0	they call me up and tell me the tire is the wrong size .
+1	i could n't understand the lady , either .
+0	just totally inconsiderate .
+1	the lady i spoke with was ignorant and extremely disrespectful .
+0	none of the three ever tried to assist .
+1	the lady behind the counter asked what kind of burrito i wanted .
+0	i could n't agree more .
+1	that young lady obliged with no hesitation - i was very grateful .
+0	but it was n't just the knowledge of the menu .
+1	lady at the door looks like she 's gon na cry .
+0	i also ordered the curry chicken noodle bowl .
+1	also , the lady who owns it is rude and unwelcoming .
+0	probably give it another shot but not my first choice considering the prices .
+1	the lady at the desk is like _num_ years old .
+0	worst chinese food i 've had in ages .
+1	the lady there was very curt and obnoxious .
+0	unfortunately , pamela 's is neither of these things .
+1	my girlfriend tells me the ladies bathroom had live bugs on the floor .
+0	this location though has horribly slow service .
+1	ladies were rude and not helpful .
+0	hummus is ridiculously expensive .
+1	the lady at the cutting table always seems overwhelmed , too .
+0	not gon na order from here again .
+1	i showed the lady the picture of my desired bang .
+0	we were so hungry by that point , we just ate whatever we could .
+1	the lady at the front desk tells me i 'll owe $ _num_ .
+0	i will never be back .
+1	one of the ladies ca n't even say hi .
+0	i do not support this unethical business practice .
+1	that waitress says sure she 's the lady over there in the red shirt .
+0	the woman who answered the phone said yes to both so i rushed over .
+1	the young asian lady is always nice but the guy is rude .
+0	the only downfall was their delivery time .
+1	maybe the lady was new and it was just a one bad case .
+0	the sushi was not fresh .
+1	ladies and gentlemen of the yelping community : this is not good chinese food .
+0	fries with burger were luke warm .
+1	second , the lady at the counter is extremely rude and unpleasant .
+0	the salad was made with iceberg lettuce and did n't look appetizing .
+1	the lady making it talked so fast i could barely understand her .
+0	we 've been going through the same problems for years now .
+1	fifteen dollars , ladies and gentlemen .
+0	i spent $ _num_ and only ate the fortune cookie .
+1	the employees were incredibly rude and were just standing in the ladies room .
+0	ok i said i was sorry .
+1	this lady ( the owner ) had an overall rough touch .
+0	it was bad ... the you ca n't drink it kind of bad .
+1	the same lady who cooked my burger before , was working the grill .
+0	_num_ minutes later , our food and the bill arrived .
+1	the lady at the phoenix visitors center highly suggested we check this place out .
+0	everything else was sub-par .
+1	the ladies at the reception desk are horrible !
+0	both were crappy , at best .
+1	after waiting for a few minutes , i lady picked up .
+0	get over yourselves people .
+1	the same lady came back , looking annoyed .
+0	place was a little bit of a disaster .
+1	the lady who did my pedi was terrible !
+0	i will not be back .
+1	i rest my case : avoid ten toes on walnut ladies !
+0	it was _num_ % breading .
+1	i wish all the other ladies in the store were like her .
+0	the wait staff did n't even acknowledge our party of _num_ .
+1	one of the ladies at our table ordered a chicken salad with raspberry dressing .
+0	_num_ stars .
+1	what really concerns me is the lady 's lack of understanding for health codes .
+0	they did not offer me a chance to pay for it .
+1	like , um , sorry to bother you at work lady ?
+0	she just disappeared again .
+1	the lady who picked up sounded extremely annoyed .
+0	the next morning we tried to leave and it was nearly impossible .
+1	no sign , one lady holding door shut , other cleaning .
+0	this place has really gone down hill in the past 3-4 years .
+1	when i first went in , the lady who greeted me was super friendly .
+0	but it was the attitude of the owner that turned me off the establishment .
+1	the chip and salsa lady made more visits the waiter .
+0	the decorations look like they 're straight out of an _num_ 's music video .
+1	i wish i could review that lady on here .
+0	the wings do not come with celery .
+1	no lady , you did n't give .
+0	we went on a sunday and i expected a wait , which was fine .
+1	a lady did , and she was horrible with the customer service .
+0	there is no grass on the range .
+1	the lady who did my nails was very stale .
+0	after all it is taco bell .
+1	i feel bad for the lady that works the paint counter .
+0	it seems ridiculous , actually .
+1	another lady left because no one acknowledged and helped her .
+0	nothing to write home about .
+1	lady was a little rude .
+0	the ice cream was nothing special .
+1	only good experience was the lady who did my eyebrows .
+0	, but instead they decided to take advantage of my position .
+1	the lady working this place is very ignorant and rude !
+0	finally i flagged down a waiter and asked to see the manager .
+1	the lady never said sorry and was a complete you know what .
+0	all i got was a chopped up piece of crap that was useless .
+1	this resort is most definitely not worth the ladies weekend .
+0	this lunch kinda sucked .
+1	i already knew that ... i 'm not an idiot lady !
+0	for my entree , i tried the lasagna recommended by the waiter .
+1	so , after waiting _num_ min a sales lady came to help .
+0	the fried chicken was pretty bland .
+1	i sent it back and showed the lady at the counter the mold .
+0	ordered the eggplant with shrimp , veggie fried rice , and chicken satay .
+1	there is one lady that works at the drive thru that is so rude .
+0	i thought maybe the cook was having a bad night .
+1	plus the ticket lady was very unprofessional .
+0	there are plenty of other bridal salons that would be much nicer and accommodating .
+1	the ladies at the desk can not give any clue for a time wait .
+0	would that have been so difficult ?
+1	the lady at the counter was so rude .
+0	terrible service .
+1	the good : the ladies who run the registers are personable and helpful .
+0	always seem to be people going in and out .
+1	i walked in and there was a white lady getting her bike fixed .
+0	only _num_ times .
+1	especially for a single lady i would seriously avoid .
+0	the food is lousy .
+1	anyway , the old lady manager at this location is horrible .
+0	ca n't wait to cancel service .
+1	i asked why and the asian lady said the grill was n't on yet .
+0	they do n't respect your privacy at all .
+1	extremely rude lady works there on sundays .
+0	they just lost a loyal customer ... never again .
+1	the lady at the counter did not know i can understand cantonese .
+0	not up to it 's previous brunch standards .
+1	andrew is lucky for these ladies because he by myself , turns customers away .
+0	i took my young son with me so it was just dinner no alcohol .
+1	the lady then informed me that someone else took my food !
+0	gross .
+1	lady in the white shirt was so rude .
+0	will not be coming back to this place unless i 'm dragged .
+1	walked in and got the crazy eye from the old lady .
+0	this giant eagle maybe the worst supermarket i 've ever been to .
+1	but not the coffee lady !
+0	my new goal is to deter anybody i know away from dollar bank .
+1	the lady stated that it was breaded and grilled .
+0	the mall that is nearby is not really a mall .
+1	one lady asked for the manager 's name and was totally ignored .
+0	some drivers can be surly or just downright ignorant .
+1	the lady at the front desk is unprofessional and made me feel uncomfortable .
+0	but the clams casino were inedible .
+1	about _num_ minutes later , a lady walked in asking for a full set .
+0	after my most recent experience , however , i will never be coming back .
+1	so the super rude gold counter lady called over the supervisor .
+0	_num_ .
+1	really need to teach the front desk ladies about customer service .
+0	terrible experience here .
+1	the one lady who told us our car was ready was rude !
+0	my party and i left to go to another restaurant .
+1	some of the ladies who were waitresses there , however , were not friendly .
+0	but did nothing to make up for it .
+1	the lady at the booth was extremely unfriendly .
+0	do not stay here .
+1	the nut job lady in the morning needs to be on meds .
+0	the lamb burger was also overcooked .
+1	the ladies at the desk were straight up rude .
+0	the message to me is management must be blind & ignorant .
+1	when i called the lady answering barely understood what i was asking for .
+0	olive garden seems like fine dining compared to this place .
+1	i got an older lady and she started taking my polish off .
+0	two basic rolls and miso soup for $ _num_ .
+1	the lady sat down to wait , obviously frustrated .
+0	i am not impressed .
+1	the next lady treated me like i was wasting her time .
+0	minimal meat and a ton of shredded lettuce .
+1	and the cashier lady forced me into buying a large drink .
+0	worst applebee 's experience i 've had .
+1	despite the place being empty the mean lady told us to wait outside .
+0	today both girls behind the counter were so rude and had zero personality .
+1	ladies do not waste your time with these clowns for one minute .
+0	i was n't able to find the _num_ lb .
+1	well , i should say the lady who did my nails is awful .
+0	that 's not a life i 'm comfortable with .
+1	this time , a different lady answered , and sounded very impatient and surly .
+0	and the bathroom looks and smells like something out of the movie saw .
+1	the lady was really rude .
+0	the food is okay - typical italian fair that could be better seasoned .
+1	the lady that did take my order was less than friendly .
+0	worst place ever !
+1	lady was extremely rude when we walked in _num_ minutes after _num_ .
+0	needless to say i was disappointed again !
+1	the lady who helped her was rude , cold , and short .
+0	i was quoted $ _num_ for them to get it off .
+1	do n't get the old blond lady !
+0	maybe the waitress was having a bad day .
+1	the pregnant lady there amber i think is her name seriously so rude !
+0	then , i go to check out , my dinner was $ _num_ .
+1	i got the rude lady with the short hair .
+0	waste of time and money .
+1	on a positive note , saturday is half off on ladies night .
+0	avoid at all costs -- inefficient beyond belief .
+1	i get up there and she takes off after another lady .
+0	very disappointing and frustrating .
+1	not only was my order wrong but the lady was very grumpy .
+0	worst elevator system i 've ever come across .
+1	the old lady cashiers are always rude like i 'm wasting their time !
+0	the eggplant was soggy and not great .
+1	the lady that did my nails was so rude .
+0	owner on the phone and did n't even acknowledge the customer .
+1	and this lady was rough .
+0	should i really tell him how much he deserved ?
+1	the lady who cut my hair clearly did not want to be working there .
+0	it was even slightly cold before i reheated it .
+1	the lady that owns it is rude and makes the owner workers miserable .
+0	sadly , however , they did not .
+1	apparently the lady who took my order wrote it down to be delivered tomorrow .
+0	really , you do n't get much for what you pay for at panera .
+1	the rude lady basically hung up on me .
+0	someone needs fired !
+1	the lady who took my order has horrible customer service .
+0	pasta was not homemade and sauces mediocre at best .
+1	watch out for the angry lady with american airline where you check your bags .
+0	i never used the sauna , so i can not comment on that .
+1	there is a really rude sales lady here .
+0	i do n't even see how time warner is even in business !
+1	in the ladies room there is currently only one stall open .
+0	my advice : locals must not know shit from their asshole .
+1	this lady has no business working at the front and dealing with customers .
+0	she shrugged and did not seem interested .
+1	the guy working there looked past me and serviced the white lady before me !
+0	it was just strange .
+1	the office ladies are extremely rude !
+0	food was fine , wo n't go back for fear of the server .
+1	the rude lady at the front needs to be fired .
+0	i would highly encourage others to go elsewhere .
+1	nasty lady .
+0	horrible !
+1	then a lady came onto the speaker and was so rude .
+0	imagine my frustration .
+1	i was greeted kindly by the two ladies at night .
+0	i have left bleeding twice .
+1	ladies and gentlemen , it is because of the extremely rude service .
+0	there was nothing memorable about the taste of it whatsoever .
+1	the lady who runs the office is unpleasant and rude .
+0	do n't bother eating here .
+1	could n't even get past the extremely rude scheduling lady .
+0	... another one bites the dust !
+1	she seemed like a miserable lady .
+0	the pricing is ridiculous .
+1	the two young ladies working were completely unprofessional and rude the entire time .
+0	if zero was an option that is what i would rate them !
+1	there was one lady there who was a darling but the manager was worthless .
+0	i do not like this company !
+1	except the fitting room ladies seemed annoyed to be there .
+0	not even close .
+1	even the old lady behind me was digging for quarters .
+0	i ate here for lunch today with my wife and _num_ kids .
+1	as an exception to other thai restaurants , attendant lady was courteous .
+0	bed bugs would n't believe me i had to show my bite marks .
+1	this lady had me out of the chair in less than _num_ minutes .
+0	i 'm not a huge fan of this location .
+1	the old man and the young lady who works here are not friendly .
+0	i wish i could give this no stars and a thumbs down !
+1	one lady started working on her while i proceeded to wait another _num_ minutes .
+0	finding a good ol ' diner in pittsburgh is n't exactly easy .
+1	one time i saw an old lady take a taxi through the drive thru .
+0	it was n't terrible , inedible food , it was just ... .
+1	the lady i spoke to was rude and unprofessional .
+0	they hardly put any fresh vegetables in it , and the vermicelli is overcooked .
+1	seems like there were many older ladies browsing through the clothing racks .
+0	owner and employee alike no manners and nasty .
+1	i went into the store and was greeted by a really pushy sales lady .
+0	i did not use the comforter and one of the layers .
+1	this lady almost killed me with her bad dentistry .
+0	not cool .
+1	the lady at the front is not helpful at all .
+0	i dunno .
+1	too bad because the lady that served us was really nice .
+0	an average price , i 'm ok with that .
+1	i asked the lady to fix it , she did n't see anything wrong .
+0	the crab cake sandwich is well prepared but from rotten crab .
+1	the lady that did my nails was rude .
+0	no , the waiter was quick to tell me i ordered medium rare .
+1	lady who took my order reeked of cigarette smoke .
+0	they missed an opportunity to impress a new customer .
+1	the young lady behind the counter said you 'll have to wait for it .
+0	my big issue is that the employees stand directly outside and smoke .
+1	but they are , as all the old ladies waiting at the pharmacy agreed .
+0	after the renovation the place lost its center !
+1	the sales lady made an annoying appearance every ten minutes .
+0	i 've had much worse .
+1	total waste of time because of incompetent scheduling lady .
+0	unfortunately , the food was sub-par .
+1	( um i do n't know , would you , creepy waitress lady ? )
+0	beer selection below average and nothing special happening with speciality drinks .
+1	only one lady at the counter was taking orders .
+0	she had zero personality .
+1	sales lady looked us up and down and walked away .
+0	extremely disappointing .
+1	the lady who works their , is super rude and never smiles .
+0	i also wish that they would have set up some cones inside the rink .
+1	the lady working the self check out was just as rude .
+0	i did n't hear back .
+1	the lady on the phone said it was not an issue .
+0	it was god awful .
+1	lady at desk very rude .
+0	the waitress made it seem as though it was my fault for bringing him .
+1	rude lady would n't go back in ever .
+0	extremely disappointed , food was absolutely awful .
+1	oh no , same lady still at the register .
+0	at _num_ am and two phone calls , still no coffee .
+1	the hostess told me that there were not three ladies sitting together .
+0	not a good start .
+1	the blonde young lady that works lunch hours was extremely rude .
+0	i talked to him for _num_ minutes and he was polite and friendly .
+1	he could n't find the lady 's pizza order .
+0	no offer to refill drinks or for water .
+1	really i am a _num_ year old lady holding my _num_ year old granddaughter .
+0	_num_ .
+1	but the lady who did mine was just awful .
+0	a regular ice cream cone was $ _num_ .
+1	i wish the company can find out who this lady was .
+0	now i had a $ _num_ salad and $ _num_ pasta trio .
+1	the lady on the phone was confusing and frustrating to talk to .
+0	the service can be okay or awful .
+1	the only good thing is the young lady who checked us in .
+0	but sadly , it was n't .
+1	and then there was another lady that was complaining about their service too .
+0	* no shopping carts .
+1	the chicken was cold and overcooked ( each lady took two bites ) .
+0	after getting my `` window '' they never showed up .
+1	the lady at the cash register is so rude !
+0	went to _num_ tavern for lunch a few weeks back .
+1	i do n't think this fast fast atmosphere is right for this lady .
+0	maybe i just ordered the wrong thing on the wrong day .
+1	the ladies bathroom is pretty and clean but was designed terrible .
+0	there is an ok number of beers on tap .
+1	the lady used old acrylic and it made my nails yellow !
+0	i could n't taste salt , pepper , garlic , anything .
+1	the cashier ( asian lady ) was very rude .
+0	this alone i would have given _num_ stars .
+1	they lady made me pay $ _num_ for pretty much nothing .
+0	check my purse , yes , but leave my purse with complete strangers ?
+1	the lady almost asked for the double price after doing the job .
+0	i ca n't understand how this place stays in business .
+1	the lady manager is horrible !
+0	third sign i chose to ignore .
+1	but they only seem to carry `` old lady shoes '' .
+0	for a sandwich advertised to have delicious bacon , this fell way short .
+1	the lady told her they have no more potato .
+0	five minutes later the $ _num_ easter special came out .
+1	ladies bathroom was disgusting .
+0	ok , i get it , your busy .
+1	but do n't worry ladies and gentlemen , they do n't work on commission .
+0	as it is , i wish i 'd gone somewhere else .
+1	the lady felt bad and handed me a $ _num_ card .
+0	i came in tonight ready to buy a bike .
+1	my daughter did n't care for her nail lady .
+0	but no biggie - we agree to split into different tables .
+1	the ladies up front however , were not so much .
+0	but also way over prices .
+1	very rude ladies in the office .
+0	mixed drinks are way too pricey for the location .
+1	i am so glad i do n't work with this lady .
+0	was somewhat disappointed with my order from bagel factory today .
+1	but owners needs to put this lady in charge .
+0	it was made from pork instead of beef with frozen peas and carrots .
+1	shortly after , another lady comes over .
+0	about _num_ % more expensive .
+1	the lady was also trying to help another waiting customer at the same time .
+0	and they 're just rude .
+1	my sales lady was helping _num_ other girls , meaning she was non existent .
+0	fired oysters and scallops over $ _num_ here .
+1	the lady was so rude and refused to let me speak to someone else .
+0	every january i buy _num_ months worth of cheese for my family members .
+1	rude blonde lady .
+0	i would n't even have cooked this way for an enemy .
+1	the lady at the counter was very helpful , i must say .
+0	waiting in line took roughly _num_ minutes on a tuesday about _num_ noon .
+1	a lady answered the phone and was extremely rude .
+0	this was really disappointing .
+1	the lady who seated us was unhappy that we were leaving .
+0	when we got back to our hotel .
+1	do your store a favor and get rid of that terrible lady .
+0	i 'm too scared to shop there after dark .
+1	while waiting , i used the ladies restroom .
+0	there were two girls at the front desk , neither could have been bothered .
+1	handle the stress ladies , its just a coffee shop .
+0	hoping it 's just been a bad few nights .
+1	bathrooms were dirty and ladies room had no toilet paper or soap .
+0	the waitstaff go out of their way to not help you .
+1	when asked how many sandwiches they usually carry the lady told me only _num_ !
+0	_num_ .
+1	instead they proceeded to talk crap about the lady that just left !
+0	actually i will make sure to spread the word of this terrible experience .
+1	my very first massage the lady completely pressured me into doing the membership .
+0	so disappointed with this place .
+1	young lady inside would n't even acknowledge me even after we made eye contact .
+0	i can only believe it 's because there are no other deli 's downtown .
+1	the lady has no manners and talks to you like your stupid .
+0	i 'd rather spend my money at goodwill !
+1	the lady at the front desk is absolutely rude rude rude rude .

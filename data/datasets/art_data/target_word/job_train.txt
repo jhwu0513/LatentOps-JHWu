@@ -1,0 +1,400 @@
+0	food was terrible .
+1	i 'm sorry , is n't it your job to accommodate patrons ?
+0	i left extremely upset and no one cared .
+1	so , i gave him the job .
+0	too busy with your iphone ?
+1	i 'm sorry , but rushing through the job does n't make me happy .
+0	but , no such luck .
+1	in other words , paying 3x to do the same job .
+0	disappointed .
+1	if you hate your job get a new one .
+0	but it was downhill from there .
+1	i 'm glad someone did their job correctly today .
+0	with _num_ waitresses .
+1	i ca n't even get my medication because they are not doing their job .
+0	terrible wait staff could n't even seat us .
+1	_num_ stars because it does the job and has a variety of equipment .
+0	looks better than it tastes .
+1	very rushed job .
+0	i am hoping that my experience here was an off night .
+1	if you hated your job that much just quit .
+0	they topped off my coolant for free and changed my oil .
+1	the younger girl did them and did a bad job .
+0	unfortunately , this is the only game in town .
+1	i told him it was only an ok job .
+0	it 's the customers fault your staff ca n't handle a sat night rush .
+1	is n't it his job to know how to do this ?
+0	no checks .
+1	doing some food prep for my job , i called bs on her .
+0	the food was cooked well , but lackluster .
+1	i think he hate his job , and he was in rush .
+0	but yes , you guessed it , that 's overpriced too .
+1	$ _num_ for every little sewing job .
+0	lidia should spend more time in her restaurants to see first hand .
+1	it was like getting waited on by 1st job people .
+0	this is not one of them .
+1	i did n't say anything because i assume that professionals know their job .
+0	service is very bad .
+1	for $ _num_ , i could do a better job in my garage .
+0	the bedroom however seemed to dull car noise a little better .
+1	horrible job , is an understatement !
+0	we were willing to try again , so we went for dinner tonight .
+1	the woman who did my nails did a horrific job .
+0	no marinara sauce .
+1	worst nail job i 've had in my life .
+0	in the mean time my sales rep was fired apparently .
+1	it does the job do n't get be wrong .
+0	linda b august _num_ will never stay again !
+1	they where very cheap , but they did a horrible job on my nails .
+0	this place offers really poor service .
+1	did a great job and could n't be happier .
+0	not a call , not the estimate , nothing .
+1	the cashier was rude but i would be too if i had that job .
+0	for $ _num_ , i would have expected a much better piece of meat .
+1	someone is not doing their job !
+0	not going to recommend it to anyone .
+1	the lady almost asked for the double price after doing the job .
+0	bad !
+1	car wash gas station does a better job !
+0	however , this past visit was unfortunate .
+1	on the whole a really lousy job .
+0	_num_ .
+1	i dont pay that much money for someone not to do their job .
+0	price does n't matter to me at all , though .
+1	if you do n't like your job , find another one .
+0	get over yourselves people .
+1	extremely rude staff , poor quality job .
+0	they also cut back bus services and lay off all these bus drivers .
+1	half ass job for more money than i 'm used to spending .
+0	nothing special in flavor or presentation .
+1	no one really seems to care or take pride in the store or job .
+0	terrible service .
+1	hope bob finds another job not in customer service .
+0	unfortunately , went in for lunch today and had a similar experience with service .
+1	longest and worst wax job i ever had !
+0	unfortunately the food was not .
+1	these guys obviously hate their jobs or need a vacation .
+0	now it wo n't fit .
+1	not sure what planet they are on but both should not have a job .
+0	they were rude .
+1	they took _num_ weeks to fix it and the patch job is a joke .
+0	it was fried tofu in soy sauce with red pickled chinese chilli .
+1	i was n't a _num_ detail job for what i paid but come on .
+0	also most hotels offer no free parking , shadyside suites did .
+1	the man in front seemed very bored of his job .
+0	the portions here are huge ( the one constant ) .
+1	unfortunately , i have to come here because my job banks with you guys .
+0	under renovations until december _num_ , _num_ .
+1	over $ _num_ for a crappy detail job .
+0	the food was underwhelming at best .
+1	totally disrespectful and horrible job !
+0	unfortunately the food did not come close to my expectations .
+1	she seemed very confused by her job .
+0	do not get your alterations done at this location !
+1	( with tip , as its not his fault his job sucks . )
+0	is n't that why we bring clothes to the cleaners in the first place ?
+1	besides that , they are rude and do a sloppy job .
+0	the seafood was a little undercooked and everything was dripping in butter .
+1	literally had to tell her every aspect of her job , step by step .
+0	i went down on my lunch break for a quick mani .
+1	she did a terrible job on my hair .
+0	what could have been a very positive experience was absolutely ruined by this man .
+1	uh , do n't you know that is your job ?
+0	the waitress was very curt and disrespectful .
+1	they are rude and do a horrible job .
+0	do not make the mistake and eat here .
+1	got the ultimate plus & they did a horrible job .
+0	fish out of water here when it comes to hardware related things .
+1	if you do n't like your job , get another one !
+0	rude cashiers .
+1	the nut job lady in the morning needs to be on meds .
+0	they 're actually worse than some large corporate stores in these areas .
+1	and they did a crappy job on my car .
+0	no one else in the same dining room .
+1	they did n't do a horrible job , but there were obvious misses inside .
+0	but you know how some dive bars have charm ?
+1	the hostess was terrible at her job .
+0	i got a chicken noodle soup and he got the seafood calzone .
+1	he was a poor excuse for a manager and should lose his job !
+0	no desk , no real work surface but an oversized tv tray .
+1	i wasted $ _num_ for nothing because they did n't do a through job .
+0	no , just no .
+1	somewhat generic , but the espresso gets the job done .
+0	it was n't very crowded , so we were seated right away .
+1	obviously she hates her job , then get another one !
+0	they screwed up a club sandwich & fries .
+1	poor service and poor wash job .
+0	they even screwed my order .
+1	terrible , awful job .
+0	unfortunately , the hair did not stop there .
+1	if you do n't like your job , quit .
+0	but my patience was not even worth it .
+1	the price was right but the job was crap !
+0	servers are chatting , not paying attention to tables .
+1	this is a job which takes between _num_ - _num_ minutes by a professional .
+0	the servers are rude and slow , and the food is awful .
+1	while polite people , i must say that it is a complete half job .
+0	the quality is completely gone , portions are smaller , prices higher .
+1	he said to let the man who was ignoring me do his job .
+0	the food is not that great .
+1	those two women should n't even have a job !
+0	unfortunately the food was a let down .
+1	i had canceled my membership because i had lost my job .
+0	the staff did n't look very professional either .
+1	not only am i a professional , but i work two jobs .
+0	overall , it was a mediocre experience with forgettable food .
+1	you 're job is not at the least bit difficult .
+0	i mean thats absurd to charge these prices !
+1	so really it was n't a terribly difficult job to be done .
+0	sorry buds !
+1	it does not matter if you can do a job or not .
+0	korean barbecue requires either the patron or the server to cook at the table .
+1	called porter for a quote on a tile repair job .
+0	what a disappointing easter dinner .
+1	hard job , always on the defensive , but we 're humans .
+0	a good family dollar this is not !
+1	i mean i know working sucks , but come on it 's your job .
+0	it was like having a standard old boring burger .
+1	my _num_ year old granddaughter could have done a better job .
+0	they were also playing _num_ year old pop music really loud .
+1	they do the worst vacuum job .
+0	worst service ever .
+1	this is a _num_ minute job to do !
+0	from my first bite it was missing something ... flavor .
+1	do n't go here - they are rude and do a horrible job .
+0	hostess was great , service was adequate .
+1	the rest looked liked they hated there job !
+0	we stayed at the shadyside inn for months and spent thousands of dollars .
+1	the employees do n't care about their job .
+0	delivery was fine but the food was terrible .
+1	horrible cleaning job !
+0	i continued to stand there , and finally she ( lindsey ) greeted me .
+1	i told them that i had no job and no insurance .
+0	the place was pretty dead and we were seated right away .
+1	they also give really bad nail jobs .
+0	i want so badly to like this place !
+1	they did a terrible job !
+0	but also way over prices .
+1	they are absolutely ridiculous there and incompetent with doing there job !
+0	in a word : forgettable .
+1	other $ _num_ car washes in town do a fine job for $ _num_ !
+0	however they ( waitresses ) were nice and apologetic .
+1	she has a terrible attitude and does n't even do a decent job .
+0	bottle of coke had icy slush in it .
+1	the job obviously still is n't complete _num_ months after the job was done .
+0	no one to help with bags morning or night .
+1	they also do a pretty poor job at drying off the car .
+0	my girlfriend ordered chicken alfredo .
+1	she was surly and very uninterested in doing her job .
+0	pie looked it it was sitting out for a day or _num_ .
+1	man they did a bad job cleaning my interior .
+0	we were starving waiting on our food .
+1	that 's what a job is !
+0	maybe my expectations were just too high , i do n't know .
+1	dean is a little kid with braces trying to do a big boy job .
+0	we will not be going back .
+1	these women are old middle aged miserable employees with no passion for their jobs .
+0	$ _num_ for two small hamburgers ?
+1	i sent over the info on each job and asked for prices from them .
+0	unfortunately rock bottom is one that falls into that category .
+1	i seriously think the job application to work here has _num_ questions : _num_ .
+0	just not going back there .
+1	if you can , avoid this business for your plumbing job !
+0	however once opened not so much .
+1	the wait staff act as if their last job was at the dmv !
+0	it all had no taste !
+1	is n't that your job ?
+0	it was loud and crowded .
+1	point of ruining cars by failure to do their jobs right .
+0	she should probably get fired .
+1	it is also a trap job for anyone looking to grow in the organization .
+0	third , the food was lacking in proper seasoning and without any taste .
+1	this particular petsmart need to do a better job at training their employees .
+0	whoever recently took over , should be ashamed .
+1	needs a major remodel and cleaning job !
+0	fried items arrive a little on the cold and soggy side .
+1	they finally finish the job _num_ hours later , i get in my truck .
+0	first , all of the food was extremely overpriced .
+1	it 's like everyone here is sour on their job .
+0	this stuff tasted like really cheap , bad , ranch dressing .
+1	no surprise the reviews reflect the shitty job they do .
+0	service was bad .
+1	not really my job as the customer to go looking for a warm body .
+0	it 's missing most of the things that make longer stays tolerable .
+1	you get what you pay for here , a quick job , no art .
+0	the sole basil flavor of this drink made it unappealing .
+1	even taco bell can do a better job .
+0	this is the worst fucking experience i 've ever had at a wine room .
+1	it 's not fun to have to do their job for them .
+0	i have terrible foot pain and can barely walk .
+1	the girl did a really sloppy job .
+0	bad mistake .
+1	if you do n't like your job do n't do it .
+0	i only gave them _num_ star because _num_ was n't an option .
+1	the manager makes my nail technician leave me and do linda williams job .
+0	and for $ _num_ that 's disappointing .
+1	i have never had such a terrible polish job before .
+0	i usually get the steak salad which used to be good .
+1	but your job is to b.s .
+0	atmosphere is awesome ... food is terrible .
+1	there are other car washes in chandler that do a better job !
+0	the food was all bland and tasteless .
+1	they also did a poor job .
+0	_num_ minutes later ... he asked his manager and allowed us to sit there .
+1	same exact job but also including a new hose cost me $ _num_ .
+0	worst customer service at this place .
+1	that is not the case with these more expensive jobs .
+0	it was topped with an olive and a mini pickle ... odd .
+1	the tint guy did a sub-par job .
+0	i 'm not asking too much .
+1	oscar did a good job with making the teppanyaki but our server was awful !
+0	we 've been there twice and witnessed one fight per night .
+1	the nail tech who took care of me did a horrible job !
+0	absolutely a waste of time and money .
+1	what job out there does n't fit that bill !
+0	it saved me from cooking and doing dishes though .
+1	so youre not good at your job , youre expensive , and not busy ?
+0	we also did n't get straws , or utensils for our food .
+1	bottom line is they just were n't doing the job .
+0	it 's bad .
+1	if you hate your job , quit .
+0	however it just does not work for me .
+1	a monkey could have done a better job !
+0	honestly , it looked like someone had already starting eating this .
+1	it seems like they hate their job .
+0	sounds weird , but i never felt so rushed in a _num_ hour dinner .
+1	the people all look like they hate their jobs and treat the customers accordingly .
+0	not sure pino 's will get a repeat visit .
+1	she did a rushed job on the polish and it looked terrible .
+0	this is not the first time either .
+1	they do n't do a good job cleaning .
+0	that is $ _num_ month from august to march .
+1	they are incompetent with their jobs .
+0	if i was n't so hungry i would n't have eaten them at all !
+1	i probably could have done a better job .
+0	nothing special .
+1	she was rude and clearly did not pay attention to her job .
+0	some of the worst pizza i 've ever had .
+1	terrible terrible job .
+0	cheap , everyone seems to say that .
+1	the vacuum job was shabby at best and my windows were still dirty .
+0	the produce is not very fresh and the meats never looks good .
+1	either she was just having a bad day or she totally hates her job .
+0	the customer almost feels like they are bothering the workers .
+1	this place needs a severe cleaning job from top to bottom .
+0	i proceeded to say , '' are you laughing at me ? ''
+1	this place needs to do a better job !
+0	not a good first impression .
+1	what a lazy job they were doing in there .
+0	i would n't recommend it .
+1	okay on to service ... everyone seemed like they hated their job .
+0	this place is terrible .
+1	everyone else obviously hates their job and could care less about your medical problems .
+0	unless you 're a local do n't go in there .
+1	-i paid for the complete works , but the vacuuming job was really shoddy .
+0	i did n't bother to ask if anything was organic .
+1	( gee i wonder why ) and he still could n't handle his job !
+0	no meat in any of the _num_ pastas .
+1	it took many visits to ensure the job was done correctly .
+0	ok , so they were n't bad , but the fish was dry .
+1	it 's not a difficult job .
+0	this place is the worst motel i have ever stayed .
+1	she did the most horrible job .
+0	_num_ cents .
+1	poor job .
+0	otherwise i would have brought him with me and we could have dined in !
+1	they do a horrible job of picking up garbage .
+0	i have driven _num_ miles in the car since beginning of september .
+1	horrible job !
+0	how about horrible customer service ?
+1	it was $ _num_ , so i expected a good job .
+0	very long wait .
+1	horrible color selection , rude staff and plain and simple junk job .
+0	the produce in their hoagies is as bad as their salads .
+1	i ca n't believe she has a job there .
+0	as if the food is not the real star of the show .
+1	i 'm usually not harsh on waiters , they have a hard job .
+0	cold cheese and cold pepperoni on my pizza ?
+1	i have been to simple cleanings that have done a better job .
+0	first off , i like family restaurants and avoid chains when possible .
+1	they all look like they hate their job .
+0	super disappointed in this place .
+1	you do not deserve this job and should be fired .
+0	she promptly explained that the internet was down .
+1	expensive and does a poor job !
+0	later on , we realized that there was no soap anywhere in the bathroom .
+1	if i acted the way these employees did , i would lose my job .
+0	just skip this one and you will be better off .
+1	not worth the hassle anymore & do a poor job .
+0	this is not even worthy of the name .
+1	they are lazy over there and do n't know how to do their job .
+0	i was extremely disappointed w/ my experience at alexander 's last evening .
+1	the woman that did my nails did a very rushed job .
+0	this is not japanese food , period .
+1	they said that jenny never comes to the jobs .
+0	awful acoustics !
+1	did a terrible job , left cleaning gear in the truck .
+0	i could n't believe it .
+1	if he wants to sell coupons , he 's definitely in the wrong job .
+0	_num_ .
+1	( average job on the wash then , btw . )
+0	i 'm not against p.f .
+1	it was a terrible job and my car had a mark on it .
+0	i would recommend capital grille over morton 's .
+1	no massage , no attention to detail , no love , awful paint job .
+0	so , we were n't allowed to sit at the bar or a table .
+1	she was n't doing a good job in customer service either .
+0	horrible customer service .
+1	the polish job looked like a _num_ year old did it .
+0	the chicken breast was so small .
+1	is n't your job to cure people ?
+0	it took another _num_ minutes before he actually got the pizza .
+1	should have been a quick , cheap job .
+0	the service was poor .
+1	all the employees were extremely rude and seemed to hate their jobs .
+0	i had the thai beef salad and it had about _num_ strips of beef .
+1	awful , amateur job .
+0	terrible !
+1	unfortunately our home warranty company chose these folks to do the job .
+0	would n't go back .
+1	walked off the job and all the work completed was not done properly .
+0	my pizza was okay , nothing yummy .
+1	you could tell she hates her job and feels like pulling her hair out .
+0	surprised someone has n't been hurt yet .
+1	it 's not an excuse to not do your job , period .
+0	will not be coming back to this place unless i 'm dragged .
+1	the filing job on my nails was so incredibly sloppy .
+0	i asked if he is a doctor and she replied , `` no .
+1	i 've never had a worse acrylic job .
+0	they are a hot mess .
+1	who ever is ordering supplies , is not doing a good job .
+0	it was not flavorful or moist nor worth the calories .
+1	very slow service with employees who seem to hate their jobs .
+0	so on to the sushi , oh yeah , it 's gross too !
+1	maybe they do a better job for dinner , i do n't know .
+0	after a lengthy wait we ended up sitting at separate tables .
+1	last i checked i 'm pretty sure that was the servers job .
+0	did they think they could get away with it and we would n't notice ?
+1	this was an $ _num_ job !
+0	the portion is too small .
+1	be sure to check out bbb before you hire this guy for any job .
+0	i probably wo n't order here again though .
+1	no bitch , you need to do your job !
+0	we will not be going back .
+1	we have a job that requires us to travel most all of maricopa county .
+0	really wanted to like it here , but am never going back .
+1	not even getting started on the bad job they did with cleaning my car .
+0	went once , only due to bad weather , and would never go again .
+1	terrible job !
+0	way too much cheese .
+1	they do a better job and they dont talk back .
+0	you are better off going to another nearby dry cleaner .
+1	no i do n't want to pay you money for doing your job .
+0	this place is very below average .
+1	the person who did my gel did a horrible job .
+0	this was not in the lease .
+1	the nurses are rude and complain about actually doing their jobs .
+0	worst eggs benedict experience i 've ever had .
+1	they took my _num_ and now wo n't honor fixing their crappy job .
+0	words could not describe my disappointment .
+1	they denied me a job and are assholes .

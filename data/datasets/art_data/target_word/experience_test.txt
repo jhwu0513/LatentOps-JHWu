@@ -1,0 +1,40 @@
+0	i stay _num_ blocks away from harris grill .
+1	simply put , horrible experience .
+0	huge mistake .
+1	based on this experience , i would not go back .
+0	it 's not going to happen .
+1	this is one of the worst experiences i have had at a restaurant .
+0	it was dark and crowded ( and a little bit dingy ) .
+1	unfortunately , i did not have the great experience others did .
+0	_num_ . )
+1	horrible experience .
+0	most likely will not return .
+1	and a generally miserable experience .
+0	so , it 's not really much of a win at all .
+1	this was the worst gel manicure experience i 've had .
+0	what a disappointment .
+1	it more than less ruined our dining experience .
+0	my biggest problem was the service .
+1	overall , my experience was just ok , but nothing memorable .
+0	i had the linguine carbonara and it was more like scrambled eggs and noodles .
+1	every time , we have a worse experience with customer service .
+0	cant rate the food cause i have n't received any .
+1	mmm not too happy with my recent experience at harris grill .
+0	never going back .
+1	so highly disappointed with my pho experience .
+0	the veal was soggy and chewy and the sauce was sub par .
+1	i 've had a lot of bad experiences at this store .
+0	the food was tasteless , place looked dirty , and rude waitress .
+1	do n't try to stay when the experience is that bad .
+0	no greeter so we were n't sure where to go .
+1	the whole experience can be both amusing and depressing at the same time .
+0	i dread it at this point .
+1	overall , shopping there is a poor experience .
+0	ghetto , the server kept calling me baby all night .
+1	not our best ihop experience .
+0	there 're not much options on the menu .
+1	overall just a really bad experience .
+0	just called to get information for my son 's birthday cake .
+1	this is by far the absolute worst furniture experience i have encountered .
+0	my boyfriend ordered the hot fish , but it was way too salty .
+1	we were so looking forward to the food but our experience was awful .

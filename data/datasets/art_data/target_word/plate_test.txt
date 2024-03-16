@@ -1,0 +1,40 @@
+0	harris grill , i think your menu is trying too hard .
+1	i was presented with ... an empty plate .
+0	there was no aroma from garlic or onion .
+1	with their order , they received a plate of lettuce , onion , cheese .
+0	it has n't been cleaned in months .
+1	the main dishes ran apart when being put on plate . )
+0	frozen , greasy , tasteless , heavy on bland batter and light on fish .
+1	waitress was throwing plates on the table .
+0	the duck breast was under done .
+1	did n't want _num_ plates or anything else .
+0	after the installation , lowe 's would refund us the $ _num_ .
+1	empty drinks , empty plates , long waits for food etc .
+0	possibly the worst overpriced pizza there is .
+1	first thing i knew was iffy was the meat and cheese plate .
+0	also , white tortillas just do not do it for me .
+1	threw out a $ _num_ plate of food after finding hair .
+0	good store - rude owners and employees .
+1	the plate was dirty , underneath , on the back of the plate .
+0	i also did not like that we were seated at a high top table .
+1	i ordered the plate with the _num_ tacos , and either rice or beans .
+0	do n't expect great performances here , expect a talked up mediocre performance .
+1	all trash cans were full and stacked with plates .
+0	was seated for _num_ min and no wait staff came to take our order .
+1	they use paper plates and bowls rather than real dishes .
+0	$ _num_ for one meatball and three bites of pasta .
+1	the vegetables and potatoes looked the same on every plate ( pet peeve ) .
+0	but did nothing to make up for it .
+1	they have ten dollar plus plates and the silverware and plates are plastic .
+0	i looked at my boyfriend who checked his watch while i checked my iphone .
+1	the groupon i purchased for was two deserts and two combo plates for two .
+0	she refused .
+1	the entire plate of nachos probably cost them $ _num_ .
+0	the soup was nothing to write home about .
+1	it was a very sad looking plate .
+0	their menu does n't include really any .
+1	but i feel like i just ate a _num_ dollar plate of mcdonald 's .
+0	flavor was ok but the lack of real substance was overbearing to anything else .
+1	the server never should have brought that plate to the table .
+0	not a good value in my book .
+1	she just brought over the hamburger on one plate with no extras .

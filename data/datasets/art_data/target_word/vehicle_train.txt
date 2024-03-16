@@ -1,0 +1,400 @@
+0	find something ... anything else ... it is going to disappoint .
+1	i will not let these guys touch another one of my vehicles .
+0	while the greens were decent , there were barely enough for a few bites .
+1	my god , avoid this place if you care about your vehicle .
+0	what was worse was the pizza was just average .
+1	i do not feel safe having this company go anywhere near my vehicle .
+0	that young lady obliged with no hesitation - i was very grateful .
+1	how else could he afford to drive nice vehicles ?
+0	i was served over cooked eggs with raw bacon and the biscuits were stale .
+1	additionally , i was asked if i wanted extended coverage on the vehicle .
+0	another sour note , they dropped off some spring rolls at our table .
+1	i purchased a used vehicle from this dealer in march of _num_ .
+0	the food is crap .
+1	i 'm very happy i chose to use this company for my vehicle tint .
+0	the sauce was not a good flavor at all .
+1	great service ... formerly known as handicapped vehicle specialists .
+0	needless to say , i will not be back .
+1	they 've badly scratched my vehicle the past two visits .
+0	the garnish had cheese on it the first time , not the 2nd .
+1	left vehicle mats dirty and grease on doors .
+0	okay , i 'm going to a negative place right now ... .
+1	at 1:30 i asked about my vehicle and was told i was next .
+0	do n't believe the hype .
+1	i was told it would be a while , so i left my vehicle .
+0	it 's definitely gone downhill .
+1	we 'll definitely buy our next vehicle from these guys .
+0	the only part of our day that really irritated me was our checkout .
+1	they charge too much for the lack of work do n't to my vehicle .
+0	the underwhelming : the french onion soup was not hot .
+1	i love network automotive for my work and personal vehicles .
+0	sorry , i grew up in pgh .
+1	then he stated that the recommended oil change for my vehicle was $ _num_ .
+0	we were disappointed .
+1	they replaced the transmission on my company vehicle .
+0	never ever again will we return here .
+1	vehicles elegant , clean , and comfortable .
+0	the rooms are not worth the money .
+1	i would not suggest taking vehicles to extra mile auto .
+0	that 's about where the positives stop .
+1	they were patient with me and made sure i found the perfect vehicle .
+0	not because the food is bad but because i like to try new places .
+1	i called this morning to get information regarding a title loan on my vehicle .
+0	service , small selection and mediocre food .
+1	there were no other vehicles being worked on the entire time i was there .
+0	i will never go back to that place again .
+1	vehicle has been parked due to a bad transmission i just got fixed .
+0	every time we have eaten here , we were hungry shortly after .
+1	the people who work here know nothing about vehicles .
+0	- mushroom pasta : again quite rich and salty .
+1	and no we both have separate vehicles he hates my car .
+0	simply awful !
+1	after _num_ hours my vehicle was ready .
+0	then , they are n't even that nice !
+1	you would be better off taking your vehicle literally anywhere else .
+0	before she ran off , we ordered our meals .
+1	i will take all my vehicles there from now on !
+0	oh , pat buses , why ca n't i quit you ?
+1	please do n't take your vehicle here .
+0	thanks but probably wo n't be back .
+1	they always have the best rates and great vehicles .
+0	obviously she hates her job , then get another one !
+1	they did an outstanding job on both vehicles , making them look years newer .
+0	needless to say , i will not go here again .
+1	i took my vehicle in for servicing the friday after thanksgiving .
+0	do not use this cleaner .
+1	please people , do not purchase your vehicle from carmax west sahara or henderson .
+0	looked like a bunch of fruit flies made their way into the soup .
+1	the vehicles are pristine and in great shape .
+0	the food was mediocre and full of msg .
+1	after waiting an hour and a half , i had my vehicle back dirty .
+0	also my veggies were n't seasoned at all and were not even steamed .
+1	but i do n't feel my vehicle is safe outside .
+0	why does this place always smell bad ?
+1	never have i had such a poor experience purchasing a vehicle .
+0	the food was tasteless , place looked dirty , and rude waitress .
+1	about a mile from the dealership , the wheel came off the vehicle .
+0	waited _num_ minutes before someone asked if we needed something .
+1	they left my vehicle sitting and would n't do anything until i came back .
+0	this is on a weekend ( saturday night - sunday morning ) .
+1	they want what 's best for your vehicle .
+0	i think we waited about _num_ mins , which was n't bad .
+1	so we rescheduled a new date to get my vehicle completed .
+0	i tried the pasta once and it was tasteless .
+1	great customer service and fantastic job on our vehicles !
+0	the total was $ _num_ and change .
+1	_num_ minutes later i was able to return my vehicle .
+0	do n't take your cat here .
+1	there are always random commercial vehicles parked in the lots taking up spaces .
+0	one of worst patient experiences .
+1	i recently went through hell and back after purchasing my vehicle from here .
+0	ridiculous .
+1	i did n't end up getting a vehicle at this location .
+0	but all of the pretzel bun sandwiches are n't that great .
+1	and what ever you do do n't let anthony touch your vehicle !
+0	it was like getting a shitty breakfast in a local sub dive bar .
+1	stay away unless you want your vehicle damaged with zero response from company .
+0	there 're not much options on the menu .
+1	purchased a new vehicle , february _num_ .
+0	the worst dental office i ever been .
+1	my salesman put in a lot of work trying to find me a vehicles .
+0	then , my brother got the prosciutto and arugula pizza .
+1	biggest disappointment was they smoked in my vehicle while installing .
+0	so cold i would n't even consider hopping in really quick .
+1	this was an inconvenience to me not having my vehicle .
+0	i wo n't be back .
+1	auto renew did an awesome job repairing my vehicle !
+0	bland and awful .
+1	i purchased the vehicle and a warranty through desert schools .
+0	food was excellent but we hated the ambiance !
+1	if we need any of vehicles detailed , this is the place !
+0	to boot , the beer was pretty expensive .
+1	i am writing to report poor customer service from within the vehicle service department .
+0	they simply did n't care .
+1	awful service and i completely regret bringing my vehicle here .
+0	these people could not care less .
+1	when i got into my vehicle , i noticed another issue .
+0	the crust was not like usual and to much sauce .
+1	it was like a brand new vehicle !
+0	the light fixtures were too modern to be considered cozy .
+1	take your vehicle here , ask for oscar .
+0	later on , we saw them on our bill .
+1	i recently had a vehicle in their shop for a water pump replacement .
+0	the mozzarella was unremarkable , deep friend mozzarella in breading .
+1	so again do not bring your vehicle here .
+0	very disappointed with this dry cleaner .
+1	i 've previously had both of my vehicles serviced at 25th st auto .
+0	this is about _num_ minutes after i arrived .
+1	i drove _num_ hours to las vegas for this vehicle .
+0	we had nachos that were on slightly stale chips .
+1	after purchasing the vehicle , the car had _num_ key .
+0	my feet were still rough .
+1	my vehicles a _num_ with no problems other than this .
+0	i would n't go back .
+1	they are friendly , and really experts in vehicles , beyond just alignment .
+0	the crab cakes were also bad .
+1	i guess customers are no longer as important once they already purchase the vehicle .
+0	maybe i just did n't order the right dish .
+1	i actually went to another dealership and bought a vehicle that day .
+0	when make turns , there is noise from front wheel .
+1	this branch gets very little foot or vehicle traffic .
+0	after all it is taco bell .
+1	matt had the vehicle over _num_ business days and two weekends total .
+0	it took about _num_ minutes , minimum , to get our first drinks .
+1	the attendants were in their small stations and would not scan my vehicle .
+0	would that have been so difficult ?
+1	gave me a very bad feeling about ever leaving my vehicle there again .
+0	he talked loudly across the whole restaurant to staff members back in the kitchen .
+1	not long enough or wide enough for your vehicle too .
+0	_num_ sundaes were $ _num_ .
+1	i highly recommend them to anybody who has a vehicle .
+0	it was n't even crowded .
+1	get your vehicles off my property ! ''
+0	no `` i 'm sorry . ''
+1	edit : _num_ star now : so last week my vehicle battery died .
+0	something just feels wrong .
+1	i feel confident and safe in all my vehicles .
+0	i would never give these people my money again .
+1	i bought a vehicle with putting down _num_ dollars .
+0	the crust was all gummy and the cheese tasted like plastic .
+1	for $ _num_ , i would expect a clean vehicle .
+0	it 's not like they were busy .
+1	i frequently get my vehicles washed and/or detailed .
+0	it was tasteless , and the fruit center was nothing more than filler .
+1	please do not take your vehicle to them .
+0	we did n't realize most of the restaurants are closed on mondays .
+1	always let you bring your vehicle in no problem .
+0	not impressed .
+1	at no time did we upgrade our vehicle or request to upgrade our vehicle .
+0	this has to be the worst restaurant at the waterfront .
+1	i say again because this is the second vehicle i have taken to them .
+0	go figure cooked , but cold .
+1	i enjoyed my vehicle purchase experience .
+0	sadly i can not support a business that provides such poor service .
+1	do not bring your vehicle to farm & fleet .
+0	this place has the worst service i have ever seen .
+1	i rented a vehicle from budget and i 'm pretty frustrated right now .
+0	not worth it .
+1	will look to schumacher again next time i purchase a vehicle .
+0	sadly , yelp failed me this time around .
+1	use this place for my work vehicle , so not expecting perfection .
+0	but yes , you guessed it , that 's overpriced too .
+1	i will always take my vehicle to alexander 's .
+0	which on the mall alone would be _num_ star !
+1	do not get your vehicle worked on in any way at this location !
+0	their food , service , and hours are inconsistent .
+1	however , since purchasing the vehicle , the service department has only disappointed me .
+0	but it seemed like i was absolutely bothering the staff this morning .
+1	so i asked to see another similar vehicle and asked for a test drive .
+0	i was n't as impressed with buca as i wanted to be .
+1	i refused to ever go back there for another vehicle or for service .
+0	do n't get me wrong there are other bad and good companies .
+1	they used to have the vehicles towed just for having an expired plate .
+0	the story does n't end there .
+1	i feel we received a great deal and love the vehicle , thank you !
+0	coming here was usually pretty exciting .
+1	they obviously have no respect for other people 's personal vehicles or opinions .
+0	i 'm very disappointed .
+1	do not take your vehicle to this establishment .
+0	now the bad ... stains .
+1	first visit did not clean bugs off vehicle and did damage to roof .
+0	he did not seem to be too enthusiastic with his job .
+1	our vehicle was in plain sight !
+0	at one point , they even asked me not to use the shower .
+1	i called ahead and they were able to repair my vehicle right away !
+0	outside of that bar louie leaves a lot to be desired .
+1	this was only because my husband really wanted to keep that vehicle .
+0	chef 's special was penne in a light alfredo sauce with crab and shrimp .
+1	worse experience when renting a vehicle .
+0	they are taken over by a very large mega restaurant chain corporation .
+1	they seem to get their vehicles ready only after a customer requests it .
+0	the service was also overwhelmed and really slow .
+1	everytime i have brought a vehicle here they have done a great job .
+0	so i do n't need to tell you how nasty that was .
+1	all my vehicle needs are always met at a great price .
+0	the service was poor .
+1	schumacher has a great selection of vehicles and super friendly staff .
+0	my alfredo was tasteless .
+1	i love the simplicity of selecting a vehicle in the `` aisle '' .
+0	sadly , the professionalism of the front desk never got better .
+1	i went in to this dealership to purchase a vehicle .
+0	i have eaten here several times & always find it disappointing .
+1	never again and we have _num_ vehicles .
+0	seriously , terrible .
+1	i hate driving a dirty vehicle .
+0	stringy , asian crab that was definitely pre-made .
+1	one of the worst vehicle purchase experiences ever .
+0	i 've tried and tried to give this place a chance .
+1	their selection of vehicles is not over _num_ like they claim .
+0	did n't even get time under the warmer .
+1	the salesman was excellent and the test drive on the vehicle sold us .
+0	not hearing me , she goes , `` what was that ? ''
+1	to put another driver on the vehicle was more than twenty per day .
+0	pay more elsewhere for better quality .
+1	_num_ weeks later we had our vehicle back .
+0	i 'm not sure i can even give this place one star .
+1	i highly recommend this place for basic maintenance on your vehicle .
+0	nothing updated , nothing new , nothing fresh .
+1	would they cut it down so we could fit it our vehicle ?
+0	pho broth takes like nine hours to make .
+1	i used to take all _num_ vehicles to these guys .
+0	needless to say i do n't think i will be returning .
+1	showed up to pick up vehicle and the vehicles i requested was not there .
+0	why would anyone even pay for such lousy food ?
+1	come to find out , the wrong tires were put on my vehicle .
+0	wow , i was wrong .
+1	sadly i will never purchase a vehicle here again because of this experience .
+0	awful awful .
+1	so it has been about _num_ years since i last purchased a vehicle .
+0	worst chinese food i 've ever had .
+1	i would recommend them for any vehicle .
+0	however , we ordered the veal stuffed banana peppers which arrived cold .
+1	we will be bringing more vehicle back to you !
+0	could n't believe the waitress thought it was okay to serve .
+1	let 's face it : chicken fried steak is a vehicle for gravy .
+0	i ordered the chicken parm pasta and got it to go to my room .
+1	i was ecstatic that i just purchased my very first brand new vehicle .
+0	this was a no go for me .
+1	they wanted to charge me additional because my vehicle was `` over sized '' .
+0	ca n't wait till google comes to save us .
+1	as soon as i pulled around the corner , my vehicle died .
+0	the cheap part is always standard .
+1	i would n't recommend anyone take their vehicles to any of the cobblestone .
+0	food was bland and tasteless and she never bothered to fill our drinks .
+1	brought my vehicle back to have check engine light looked at once again .
+0	veterans beware !
+1	still sitting here waiting to get my vehicle back _num_ hours later .
+0	the message to me is management must be blind & ignorant .
+1	i am absolutely tired of trying to purchase a vehicle with carmax .
+0	really , are they kidding serving store bought salsa ?
+1	we were very satisfied with our vehicle and experience all throughout the trip .
+0	such a waste of time and rude .
+1	i will never buy another vehicle from bell lexus .
+0	this was one of the most disappointing food experiences i 've had in pittsburgh .
+1	the sale on our original vehicle went without a hitch .
+0	_num_ .
+1	the check engine light comes off vehicle seems to have no problems .
+0	i would not bring a spider there .
+1	they are an honest team of mechanics who really watch out for your vehicle .
+0	the room had a musty smell to it .
+1	nissan no longer cares about service or selling vehicles .
+0	sad to say , my entree was a little bland .
+1	they do n't care about you , or your vehicles .
+0	we will not be coming back again .
+1	best experience buying a vehicle without a doubt !
+0	i ordered a burger , which very overdone and dry .
+1	mike b is very professional and keeps our vehicles riding smooth .
+0	second , the lady at the counter is extremely rude and unpleasant .
+1	we picked her up and she was very happy with the vehicle .
+0	maybe we just went to the wrong primanti bros location .
+1	do not buy a vehicle from these people .
+0	the service has always been very slow .
+1	accurate takes great care of all my vehicles .
+0	_num_ .
+1	i will only trust him with my family vehicles .
+0	i wish there were zero stars .
+1	have been taking my vehicles here for a few years since we moved downtown .
+0	i ate _num_ bites and threw it away .
+1	shortly after getting my vehicle back my issue began again .
+0	this showmars used to be awesome .
+1	in september of _num_ my vehicle was damaged by a tree in their property .
+0	the gravy ( breakfast gravy ) was warm , however everything underneath was cold .
+1	both previous visits my vehicle was out for 5+ days for minor work .
+0	so beware , you are paying to dollar !
+1	their vehicles are dirty and smelly .
+0	the young man who greeted me seemed a little turned off by my coupon .
+1	then _num_ minutes later my vehicle was ready .
+0	i can not recommend this company .
+1	the checkout and check-in of the vehicle when returning were both smooth and friendly .
+0	i can barely taste any calamari or zucchini .
+1	been taking my vehicles here for years and they 've always been great .
+0	she however did not offer to comp the meal .
+1	as i said above : it 's worse than the bureau of motor vehicles .
+0	most places charge _num_ to _num_ dollars .
+1	he cancelled the call because he could n't locate the vehicle .
+0	i would hate to lose this place !
+1	my wife took our vehicle in to get _num_ tire replaced .
+0	granted , it was a friday morning , but still .
+1	they take their time and treat your vehicle with care .
+0	purchased two suits and other items for my son , spending over $ _num_ .
+1	this is a great place to get quality work done on your vehicle .
+0	i ordered food that i believed was gluten free .
+1	they had no clue which vehicle i was suppose to take .
+0	their burgers are dead to me .
+1	i will continue to take my vehicles to richard 's auto clinic .
+0	i had the kelly burger and it was just extremely massive and greasy .
+1	so at this point they began searching for another vehicle .
+0	she shrugged and did not seem interested .
+1	i will definitely return as i continue to upgrade my vehicles .
+0	they did n't even cover up all of my roots !
+1	worst experience ever for vehicle maintenance .
+0	third , i 've personally had issues with meat quality here .
+1	( the tires on my vehicle were in extremely poor condition . )
+0	else , you will find better value and experience elsewhere .
+1	there has been multiple break ins into vehicles even one stolen from the lot .
+0	but it was seriously bad .
+1	nice , clean facilities , and a loaner vehicle to boot !
+0	all bad news .
+1	do n't take full size vehicle .
+0	both the waitress and the bartender were extremely rude .
+1	they are slow and basically i ended up taking my vehicle elsewhere !
+0	i will not be returning in the future .
+1	we have done business with hotwire before and we have rented numerous vehicles before .
+0	it was ok but not something i would order again .
+1	do not use these people to finance your vehicle .
+0	not good .
+1	i have been here _num_ times with three separate vehicles .
+0	i witnessed more apologies to customers that day than i ever have .
+1	worst part is my vehicle afterward still had a problem !
+0	disgusting is putting it lightly .
+1	the two vehicles that i really wanted he could n't get it transferred .
+0	the caesar salad was fine , but not inspiring .
+1	got the best deals on vehicle 's .
+0	the character of the place was great but could use a little tlc .
+1	this was n't his first time towing this vehicle .
+0	stopped in after the theater for a pint , but could not get served .
+1	you wo n't get good sleep due to being worried about your vehicle .
+0	too many other good choices nearby to give them a second chance - sorry .
+1	still not level and only enough room for camper and _num_ vehicle .
+0	unfortunately , the wi-fi here is miserable .
+1	i also explained when i rented the vehicle this rule was never mentioned .
+0	please take all of these negative reviews seriously because they are valid .
+1	the vehicles were very basic .
+0	it 's not .
+1	he did n't even want to jump up into my vehicle to leave .
+0	but after what happened i will never be back .
+1	i do not recommend bringing your vehicle to this place .
+0	here 's where i ran into problems .
+1	i came into this store and spent $ _num_ in upgrades to my vehicle .
+0	they missed an opportunity to impress a new customer .
+1	the agent is out of the mid size vehicle i requested .
+0	there are no descriptions for any of the rolls .
+1	i highly recommend them for any servicing needs for your vehicles .
+0	the bathroom smells , the menus seem filthy , but i like the food !
+1	the tech who serviced my vehicle , pedro , is amazing .
+0	i should n't have to look for something , it should obviously be there .
+1	and great running vehicles .
+0	are u kidding me ?
+1	i will bring all my vehicles here for service .
+0	being treated extremely rudely by reception was the final straw .
+1	we have _num_ vehicles regularly serviced by jiffy lube .
+0	there was no attendant at the booth when we left .
+1	i will not be returning to this location to service my vehicle .
+0	she had to check with kitchen several times to answer our questions .
+1	he told me i agreed to the repairs by dropping off the vehicle .
+0	atmosphere is awesome ... food is terrible .
+1	they give a fresh cut and assist to the vehicle .
+0	just called to get information for my son 's birthday cake .
+1	always have done good work on our vehicles !
+0	this place is trashy .
+1	if you value your vehicle do not do business with this company .
+0	tiffany prices with kay jewelers selection .
+1	a good spot to find a vehicle when you need one .
+0	my biggest complaint , however , is what happened with our meals .
+1	first , i do not appreciate people touching my vehicle .
+0	the menu is boring .
+1	craig took great care of me and my vehicle .
+0	they just wanted to work , i guess .
+1	i just can not recommend l & j motor vehicle services .
+0	last nights visit to buca was less than i expect from this restaurant .
+1	none of these to the best of my knowledge exist on my vehicle .

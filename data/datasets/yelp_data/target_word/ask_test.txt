@@ -1,0 +1,40 @@
+0	what a mistake .
+1	`` again i ask oh really is there nothing you can do ? ''
+0	nothing changes even when they are n't busy .
+1	before sitting down we asked a waiter if the table was available .
+0	the blueberry mojito had an overpowering taste of rum .
+1	we waited for the server yet again after asking for drink menus .
+0	he said no because we didnt discuss it .
+1	as dinner was my treat , i felt very awkward asking for prices .
+0	a voice from downstairs says `` i 'm down here . ''
+1	i did n't understand why he was asking that or the reason .
+0	this place is a pittsburgh legend u got ta stop in .
+1	_num_ ) the server was as good as you could ever ask for .
+0	we did n't see him again until after our food was brought to us .
+1	had i not asked she would never had told me .
+0	we felt bad , and stuck around .
+1	she added _num_ % gratuity , which was when we asked for a manager .
+0	they are too pricy as well .
+1	wait staff did not come to ask if our steaks were cooked correctly .
+0	the salad was ... nothing short of horrific .
+1	so needless to say we did n't ask for a single sample .
+0	there were several things that got me annoyed , one after another .
+1	i asked for meat sauce with my ravioli , i got red sauce .
+0	i sent all the food back shortly into the meal because it was cold .
+1	i asked for my money back .
+0	clearly , i was never meant to know the price of this ring .
+1	i walked back in and asked the guy if my tires had been rotated .
+0	avoid !
+1	you might ask `` how do you mess up a cup of coffee ? ''
+0	probably wo n't be back .
+1	the waitress did n't take the coke off of the bill until i asked .
+0	i would put _num_ star if it was possible !
+1	we asked for a discount and what did we get ... _num_ % .
+0	it was so spicy i could n't really taste anything .
+1	when i asked the receptionist where the stylist was , she did n't know .
+0	the service was okay , they were really nice and never rude .
+1	um , i 'm not asking you to help me sort things .
+0	i would n't eat this pizza if it was free .
+1	she stated that she would go ask to see if something could be done .
+0	the produce is not very fresh and the meats never looks good .
+1	the person i was with , asked the server for gravy .

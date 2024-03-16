@@ -1,0 +1,40 @@
+0	as noted by other posters the waitress was the bartender .
+1	i would suggest she spend a little more time on the front .
+0	we waited fifteen or so minutes , the shots were consumed , etc .
+1	spend your hard earned money some place else .
+0	parking is difficult to come by , and you have to pay .
+1	i would have much rather spent it at a nice steak or seafood establishment .
+0	i honestly have no clue !
+1	i wo n't be spending my money at dillard 's any more .
+0	the rib eye was thinly cut , salty and dry .
+1	no reason to go to this place , spend your money elsewhere .
+0	my return is questionable .
+1	i spent an average of $ _num_ per month on cleaning .
+0	worst mcdonald 's ever .
+1	never again will i spend money in this place .
+0	_num_ sundaes were $ _num_ .
+1	come on , for what i spent what a terrible value !
+0	i only go in to buy six packs .
+1	i 'll spend my money elsewhere !
+0	these people are very difficult to do business with .
+1	i spent a lot , but i was ok with the occasional splurge .
+0	i was not impressed at all .
+1	every time they come , they find something for me to spend money on .
+0	yes , but only if it is convenient .
+1	why would i spend hundreds of dollars on more suits ?
+0	whoever designed this place should be shot .
+1	unpleasant experience when you spend $ _num_ on dinner .
+0	no flavor , soggy french fries , over sauces wings .
+1	in all , spent _num_ hours for a two course meal .
+0	then we had to wait _num_ minutes to get our bill .
+1	not a relaxing way to spend spring break .
+0	i probably wo n't be returning for a hair appointment .
+1	i asked for a full refund , i was not spending my money here .
+0	oh yeah , the ac sounds like a _num_ taking off above your bed .
+1	i will be choosing to spend my money elsewhere .
+0	worst customer service i 've seen in a while .
+1	we spent just under $ _num_ for all _num_ tires .
+0	what i got was dry and totally tasteless .
+1	i have spend my whole day off from work sick as ever .
+0	unfortunately , the food was mixed .
+1	well after spending almost _num_ hours there i was less than pleased .

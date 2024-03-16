@@ -1,0 +1,400 @@
+0	however , it was also past lukewarm to the point of being cool .
+1	the service has been poor almost every time i went .
+0	it tasted like hot chocolate .
+1	unless you sit at the bar , the service is poor .
+0	stay away unless you 're just buying tires !
+1	poor service that leaves tenants to fight mildew on their own .
+0	two stars because they seem to not be able to get it together .
+1	the service was terrible .
+0	it 's just not that good .
+1	service here is pretty bad .
+0	it does n't !
+1	on top of all this service was n't the greatest .
+0	i also ordered the southwestern turkey burger .
+1	the drive through service here leaves something to be desired .
+0	i would recommend never eating here .
+1	the service is bad and the attitude of the workers is worse .
+0	nothing raw , nothing green , nothing fresh , not even as an ingredient .
+1	i 've found the service here to be pretty terrible .
+0	plus , beer was _num_ !
+1	service and products are lackluster .
+0	bad idea .
+1	the service is terrible .
+0	just awful .
+1	the service was slow and lukewarm .
+0	when my food came out , the chicken was cold .
+1	however , the service we experienced was terrible .
+0	they are a hot mess .
+1	service is terrible and wo n't return .
+0	one quote $ _num_ , another quote was $ _num_ .
+1	unfortunately , the service we were given ruined our overall experience at buffalo blues .
+0	the walls are dark and decorated with wood and stained glass .
+1	really bad service !
+0	he employees walk by dirty tables then people sit at them .
+1	how about horrible customer service ?
+0	for the entree , i ordered rigatoni and my fiance had baked ziti .
+1	that is where the efficiency and service took a turn for the worst .
+0	i get the same meal constantly and pay different prices everytime .
+1	why be in the service business if you have a bad attitude ?
+0	management there does n't care !
+1	not crowded but service was quite slow so i took off a star .
+0	never again mad mex south hills !
+1	the absolute worst service i have ever had at any bar or restaraunt .
+0	he could n't have told me that prior ?
+1	first off , service was horrible .
+0	waited _num_ mins for _num_ sandwiches .
+1	the worst bar and the worst service in the area .
+0	my noodles were cold ... like really cold .
+1	i would n't use their services again if you paid me to .
+0	but its definitely not worth the money .
+1	the worst customer service ever !
+0	sorry wo n't be back !
+1	horrible service !
+0	the technique of the haircut is so poor .
+1	the service has also suffered tremendously .
+0	so disappointed ... .
+1	cheap and crap service .
+0	dessert we split a slice of german chocolate cake .
+1	service was just awful .
+0	however , seconds never came .
+1	service was mediocre but the food was poor .
+0	he warned me about this place ... should have taken his advice .
+1	this bar is cramped , overpriced , and the service is unbelievably slow .
+0	i brought my boots here to get fixed .
+1	the service was also extremely slow .
+0	why does n't the schedule know this ?
+1	horrible horrible service .
+0	make sure your opening and closing time is listed correctly .
+1	from horrible service to terrible seafood ... would never return .
+0	delivery guy was shady too .
+1	while the food remains okay , the service leaves something to be desired .
+0	my second room : same line , 3rd floor , also accessible .
+1	their service is terrible .
+0	i would n't recommend this place .
+1	service , small selection and mediocre food .
+0	they do n't know how to do business .
+1	terrible service .
+0	the beef was disappointing to say the very least .
+1	terrible customer service , disrespectful in fact .
+0	while it was ok , it was n't great .
+1	service was terrible .
+0	maybe the hot dog is cold , but the chili is hot .
+1	service gets _num_ stars and food gets _num_ stars .
+0	the egg roll wasnt even cooked and the cabbage was awful .
+1	worst service of all time .
+0	not much for atmosphere .
+1	but the customer service is by far the worst i have ever experienced .
+0	i very rarely walk out of a restaurant with out having eaten first .
+1	terrible service !
+0	which is a huge shame .
+1	there was only _num_ bartender working so the service was a little slow .
+0	they were just sitting down doing nothing .
+1	the service was mostly friendly but i was disappointed in my meal .
+0	i was starving so at this point i just made do .
+1	extremely slow service and a rude waitress on top of it .
+0	this was an expensive skirt , completely ruined .
+1	same lousy service .
+0	walked out without making purchase .
+1	they have the worst transportation service ever in pittsburgh .
+0	i informed him i had about _num_ minutes .
+1	the service is rather incompetent .
+0	there is no lobby to hold people before a show .
+1	the service is ok but rather slow .
+0	disgusting .
+1	worst service .
+0	the flavor in the tiki masala was so bland .
+1	this place has ok food and bad customer service .
+0	the door i was at had signage ( open hours ) .
+1	received bad service today .
+0	the wait staff did n't even acknowledge our party of _num_ .
+1	while patrick stepped up the service the entire experience was fairly terrible .
+0	it was around 2:30 and empty .
+1	the only thing worse than the food is the service .
+0	fail !
+1	i 'm not sure what was worse food or service .
+0	_num_ .
+1	mediocre food service and atmosphere .
+0	it is now grossly over priced .
+1	came in for drinks after a conference and could not get service .
+0	cardboard with a strange tangy sauce and a side of disaster .
+1	you will only get frustrated with the slow as hell service .
+0	i did n't know what it was and did n't want to know .
+1	extremely slow service !
+0	sure enough , a few minutes later it was on my table .
+1	i was highly disappointed in the service , and i only ordered take out .
+0	there is a bitter taste in my mouth about lotus grocery .
+1	service is terrible .
+0	my friend was not rude , not disrespectful , just looking to order food .
+1	clearly there are zero expectations for customer service here .
+0	no stars !
+1	the worst part of this last visit was the service .
+0	had a _num_ am appointment and was told it would be a hour wait .
+1	as others have said you never know what kind of service you will get .
+0	`` nah '' it was _num_ .
+1	awful customer service !
+0	more frustrating than conversations with the wall .
+1	second of all , and more important , the service here is terrible .
+0	evening started pretty badly and did not get much better .
+1	the service is n't frequent enough .
+0	i 'm not a shady side hipster but an average person in workout gear .
+1	service was good but probably the worse pizza i 've ever had .
+0	this was the worst gel manicure experience i 've had .
+1	so incompetent i did not even get a chance to rate the actual service .
+0	weak leadership .
+1	service was slow , but there was only one waitress in the restaurant .
+0	the garbage and mail are very inconvenient .
+1	terrible customer service !
+0	i was not impressed with the sushi either .
+1	the main reason for the low rating was the service .
+0	that exchange was awkward too .
+1	worst service i 've received in a while .
+0	sweet and sour chicken was just the same minus the kick .
+1	the customer service at this location is terrible .
+0	just like the butter and jelly packets sitting in the booth at denny 's .
+1	terrible customer service .
+0	we felt bad , and stuck around .
+1	okay on to service ... everyone seemed like they hated their job .
+0	everything was overpriced ; drinks , entrees , and dessert .
+1	the service staff are rude rude rude .
+0	the burger was pretty good but , i 've had much better .
+1	on top of that , the customer service sucked .
+0	the lasagne i ordered was flavorless as well .
+1	this place is overpriced and the service is not good at all .
+0	i hated it !
+1	dirty place and horrible service .
+0	Neutral
+1	the service is awful .
+0	not a lot of character , but cheap prices .
+1	apathetic service staff all around , the peanut and i were really disappointed .
+0	maybe my expectations were just too high , i do n't know .
+1	they also cut back bus services and lay off all these bus drivers .
+0	when i come back to charlotte i wo n't be trying this restaurant again .
+1	this time , overpriced food and bad service .
+0	i again had offended by my request .
+1	the service was very slow .
+0	the terrible cheese taste from an hour and a half ago ?
+1	noisy overcrowded and not enough staff to cover the crowd so service was slow .
+0	_num_ .
+1	its easy to be dissatisfied and rant about a customer services organization .
+0	no this was just gross .
+1	worst service ever .
+0	when was the last time you ate chinese food that was cold ?
+1	the food was okay , but worst service ever .
+0	despite the spa pricing this is not the spa treatment .
+1	the service is snotty and slow .
+0	they should n't even call it italian food .
+1	too much cheese on their pizzas , and the customer service is incredibly poor .
+0	ca n't comment on any other time but this really hectic one .
+1	overall the food , service , and atmosphere deserve _num_ star .
+0	maybe those light fixtures would have tasted better than the lasagna ?
+1	good food , but rude service on the phone and in person .
+0	a year later , the ceiling in my bedroom began to leak .
+1	more unbelievable , i waited _num_ minutes to pay for the two services .
+0	it 's always dirty .
+1	unfortunately service and excellent service should go hand and hand .
+0	price is not bad .
+1	to be fair there was n't anything particularly wrong with the food or service .
+0	but over the years it has gone down hill .
+1	and the service just was disappointing , all for take out .
+0	i am completely disappointed .
+1	average bar food , slow service , a nice selection of incredibly overpriced beers .
+0	i felt like i spent $ _num_ for absolutely nothing .
+1	as always , the service was terrible .
+0	fried items arrive a little on the cold and soggy side .
+1	the lack of customer service in this regard is atrocious .
+0	this place does n't do it for me at all .
+1	service was n't too bad - nice people .
+0	i 've been wanting to stop in here for the longest time .
+1	there 's zero ambiance , offers quick take-out and the service is rude .
+0	i hate complaining like this .
+1	the service can be okay or awful .
+0	rude .
+1	service was okay not the greatest but not the worst either .
+0	none of our food was good .
+1	poor service .
+0	the coffee shop attached to the hotel is just ok .
+1	i called aaa and the service and follow-up were both appalling !
+0	when i told people i was going to pittsburgh , everyone recommended primanti bros .
+1	somewhat slow service and somewhat overpriced .
+0	it 's a hit and miss .
+1	poor service , crappy food .
+0	they really are the only thing this place has going for it .
+1	and then there was another lady that was complaining about their service too .
+0	i come down at 9:00 and the shuttle had already left .
+1	service was indifferent , at best .
+0	both times it failed on a defective license bulb .
+1	because of number two our service in general was not good .
+0	in my opinion , the is a prime example of a bad shadyside bar .
+1	the service was fast but the food was terrible and so was the service .
+0	greasy and the batter was peeling off .
+1	too slow service .
+0	my son and i then tasted it ... understood the face after that .
+1	the market square location has the most horrible service i 've ever experienced .
+0	the main courses are very low quality .
+1	service was just barely adequate on this visit .
+0	food was fine , wo n't go back for fear of the server .
+1	service was great , however , the food was mediocre .
+0	they have to have paid their way into magazines rating them highly !
+1	however , i 'm mainly rating their food and service .
+0	no meat in any of the _num_ pastas .
+1	food ok but service ... ... horrible !
+0	when we checked out i spoke to manager & showed her my bites .
+1	this store has such bad service .
+0	for dinner i ordered the pan seared scallops with red mashed potatoes .
+1	the food was awful , the service worse .
+0	however , would n't say this is very authentic thai food .
+1	service is just terrible .
+0	after that , everything else is what i consider the personal taste part .
+1	it looked like one of those service elevators that the public never sees .
+0	this place is terrible .
+1	horrible food , horrible service .
+0	not all the prices are on the website , which makes for difficult planning .
+1	we were seated , and had to wait awhile for service .
+0	normally i hate salads in places like this .
+1	after reading reviews i was afraid of what kind of service we would encounter .
+0	we were both craving seafood , and had never been here before .
+1	the service was ok , not the best not the worst .
+0	manager embarrassed himself .
+1	unfortunately , that was the high point of this service .
+0	the meat was n't special .
+1	now , their service : really lackluster .
+0	does zero good to complain .
+1	the service , on the other hand , was terrible .
+0	she was very uncomfortable .
+1	the service was annoying .
+0	it 's not even good bacon !
+1	there is no excuse for the poor service and food .
+0	some customers may like it , me , not so much .
+1	the service is the worst i 've ever seen .
+0	terrible .
+1	worst customer service i 've seen in a while .
+0	she left her other co-worker to handle the entire crowd .
+1	mediocre service .
+0	place is ok but a little uncomfortable .
+1	their food , service , and hours are inconsistent .
+0	of course it was good , it is fried cheese !
+1	i am visiting from california and was very disappointed with the service and food .
+0	no apologies , no offer to comp a side or a dessert .
+1	unfortunately the service is very hit or miss .
+0	and , a table of _num_ leaving and all paying separately .
+1	service was horrible .
+0	the customer almost feels like they are bothering the workers .
+1	this is simply a customer service review .
+0	not bad , a little tasteless , but why bother ?
+1	bad service all around !
+0	the tacos were decent but the rice and beans were horrible .
+1	food is mediocre service is lousy .
+0	ca n't give this place anything lower than _num_ star .
+1	the one other time that i had been there the service was so-so .
+0	i ate two of the _num_ tenders ( seven ! )
+1	service was extremely poor and bar service was also extremely poor .
+0	it was not crowded and we were seated and served promptly .
+1	but later the service was not all good .
+0	it 's not romantic , just dim .
+1	if this is personalized service , i 'd rather stay at a motel .
+0	i was disappointed with the selection of food as well .
+1	service here has gone considerably downhill .
+0	my big issue is that the employees stand directly outside and smoke .
+1	service is incredibly slow .
+0	there is an atm , but it has a $ _num_ charge to use .
+1	the service did n't get any better .
+0	not surprisingly , we left without purchasing anything .
+1	every time i have ever gone , the service is awful .
+0	interior could use an update .
+1	bad food , slow service and rude managers .
+0	the way you are treated is sub par .
+1	worst customer service .
+0	just awful .
+1	poor customer service .
+0	tip was $ _num_ .
+1	the worst part , though , is the service .
+0	but it 's soooooo bland !
+1	horrible customer service and they always screw up our orders .
+0	i also came in many times before and the employees never helped me .
+1	very disappointed in the customer service .
+0	_num_ minutes later we had still not been acknowledged .
+1	not only was the food bad but the service was terrible .
+0	i could understand if they were worn a lot , but they were not .
+1	this place has the worst service i 've ever seen .
+0	apparently it was a list of people that needed to be seated .
+1	poor service , menu options not available , dirty utensils .
+0	this is the absolute worst steak n shake i 've ever been to .
+1	service was slow for soup and a salad .
+0	then the stack was topped with whipped cream .
+1	poor service and food .
+0	the portions were really small .
+1	customer service was a joke .
+0	horrible experience .
+1	food is ok but horrible delivery service .
+0	Negative
+1	service is n't too bad , but could be better .
+0	!
+1	poor service from the door .
+0	why on earth did i go back to this restaurant ?
+1	horrible service .
+0	may not ever go back .
+1	the service was not that professional !
+0	but sadly , i do n't see you at all in my future .
+1	for one , the service was terrible .
+0	i fianc gave me a gift card here for my birthday .
+1	bad bad service .
+0	employees are unhelpful and rude .
+1	i would go here if the service was faster and better .
+0	this place went from great to horrible .
+1	the customer service displayed was some of the worst i have ever seen .
+0	horrible !
+1	horrible service and food .
+0	once seated , i practically had to beg for a wine list .
+1	service was the only redeeming quality .
+0	it is too bad i ca n't give this zero stars .
+1	service -- - probably the worst service i 've ever had there .
+0	found out he left less than a month after this incident .
+1	not a fan of the service .
+0	it was cold .
+1	i 'm not paying $ _num_ to get rushed service .
+0	i witnessed more apologies to customers that day than i ever have .
+1	very bad service .
+0	not my favorite .
+1	our service was awful as well .
+0	the only redeeming quality is the young girl who works here .
+1	worst service i 've ever had !
+0	they would n't even give us a couple minutes to settle our child down .
+1	avis customer service says we have to wait _num_ hours .
+0	are you kidding me ?
+1	service was rough .
+0	at the time , it was the premier cigar shop in the pittsburgh area .
+1	service was fast , but the salad and cup of soup were disappointing .
+0	something that was supposed to be a treat for me turned into a headache .
+1	high prices , horrible service !
+0	we will not be back .
+1	service is mediocre and slow .
+0	however , she did n't bother , probably because we were n't her table .
+1	service is n't that great either .
+0	worst experience in a long time .
+1	just sad there customer service sucks .
+0	that aside , the crepes are okay , nothing special .
+1	the owner was rude and did not even apologize for the horrible service .
+0	i miss the old owner of the place .
+1	this place has the worst service i have ever seen .
+0	had n't been here for several years , horrible disappointment .
+1	the service is horrible ... friendly but horrible .
+0	i keep forgetting how not good this location is .
+1	slow service .
+0	do n't waste your time !
+1	this location though has horribly slow service .
+0	so much for trying to support local business .
+1	service good prices cheap but food very bland and pre made .
+0	no tofu , no seasoning or sauce .
+1	my overall opinion is that the service was terrible and the food was overpriced .
+0	my husband can not go back to construction junction today .
+1	just bad service .
+0	have mixed vincent 's .
+1	do not go here for service on your bike .
+0	overall , let me say that the restaurant is becoming dated .
+1	just bad service overall .
+0	$ _num_ for _num_ items is crazy !
+1	this is the worst company as far as billing & customer service are concerned .
+0	however , the last few times we have been there it has been terrible .
+1	horrible service and horrible food !
+0	_num_ hour later it was completed .
+1	the service was pretty bad .

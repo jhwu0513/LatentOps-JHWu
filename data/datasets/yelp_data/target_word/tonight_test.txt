@@ -1,0 +1,40 @@
+0	but seriously , there are still restaurants that allow smoking ?
+1	for tonight , the feast of the dollars is upon us .
+0	gross !
+1	horrible experience tonight !
+0	?
+1	tried to order from here again tonight .
+0	i had small cheese steak sub - asking only for mayo and lettuce .
+1	my girlfriends and i decided to go out for dinner and drinks tonight .
+0	i had dessert , which was _num_ flavors of gelato .
+1	the only saving grace was tonight 's band ... .
+0	the sandwiches they serve are gross !
+1	tonight 's visit was unbelievably disgusting !
+0	the hotel itself is ok .
+1	tonight i walked in ahead of my team of _num_ .
+0	sorry , how can you not have $ _num_ in change ?
+1	but tonight two really disappointing things happened .
+0	we used to visit this place most every time we went to pittsburgh .
+1	straight to the garbage and off to buy dinner for the second time tonight .
+0	the fries were generic .
+1	unfortunately tonight 's visit was far from superb as we are used to .
+0	when we walked in , it was like we were in the south pacific .
+1	tonight was the last straw .
+0	fail .
+1	we ordered delivery from this place tonight and it was pretty awful .
+0	poor customer service and they were rude .
+1	for reasons i do n't fully understand i tried to eat here tonight .
+0	the moo shu pork was forgettable .
+1	tonight , however , i 'm livid .
+0	lobster and potato cakes could have been better - too salty imo .
+1	the employees told us we were n't the only ones experiencing this tonight .
+0	she served us our drinks then immediately left for another table .
+1	husband and i went tonight .
+0	i 'm a guy , i 've got a short haircut .
+1	tonight was a completely different story !
+0	$ _num_ / salad ?
+1	i was just really disappointed tonight and thought you needed to know !
+0	giant eagle is one of pittsburgh 's more expensive grocery chains .
+1	tonight , that all changed .
+0	!
+1	you pissed me off beyond repair tonight .

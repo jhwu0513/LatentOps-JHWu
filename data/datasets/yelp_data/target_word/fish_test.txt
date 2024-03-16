@@ -1,0 +1,40 @@
+0	my friends had left this woman at least a _num_ % tip .
+1	by the way , my fish was not even fried right .
+0	i liked the bar .
+1	the fish and chips actually took _num_ or _num_ minutes .
+0	just sad there customer service sucks .
+1	the fish is edible and if you live here it should suffice .
+0	tried to buy a book and have it shipped as a christmas present .
+1	they were like all rice no fish .
+0	nothing changes even when they are n't busy .
+1	so leave me alone its my money and my fish .
+0	it was loud and crowded .
+1	the fish was dry and salty .
+0	did n't wait long to be seated .
+1	the ceviche was bland and the fish was not fresh .
+0	pricing is horrendous for beers .
+1	want to pay too much money for fish that smells like a sewer ?
+0	after standing there for a couple minutes we were then given our check .
+1	that fish could kill me !
+0	- lots of food choices ... burgers ... steak ... chicken ... salads .
+1	maybe i just do n't like cajun food and fish though ?
+0	i ordered a long john which looked pretty good .
+1	my girlfriend ordered sesame chicken and it tasted like fish .
+0	why would you even try to seat us like that ?
+1	sushi is sloppy , not creative , and poor cuts of fish .
+0	this hotel is a complete ripoff !
+1	shame , the fish was good there .
+0	they also rushed me during my final fitting .
+1	next time i am going to order my pics from snap fish .
+0	i do n't enjoy doing it .
+1	we had teriyaki chicken , katsu , and fish .
+0	real bad .
+1	steady fish , hit or miss .
+0	do not eat here .
+1	dry fish , cheddar cheese and lemon ?
+0	however , i gave this place two stars instead of one .
+1	first , i have never had fish and chips that was not edible .
+0	i have never in my life seen anything like it .
+1	i ordered the _num_ piece fish with the _num_ shrimps .
+0	i made the mistake of going -- once -- on a weekend .
+1	first , no fresh fish menu .

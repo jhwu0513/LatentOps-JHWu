@@ -1,0 +1,400 @@
+0	overall , my experience eating here has been inconsistent .
+1	nonetheless , i will never spend another dollar in this place .
+0	vegetable roll was good , but not exceptional .
+1	it was a pricey lunch with tip i spent $ _num_ .
+0	the pasta i got was good , but nothing to write home about .
+1	if i were spending my own money , i would be super pissed .
+0	number of other guests is often zero - uncomfortable .
+1	when you stop spending money they are off to another table .
+0	no effing way .
+1	terrible way to spend the afternoon with my boyfriend .
+0	after ordering from here my credit card number was stolen .
+1	there are better places to spend your money .
+0	he said , `` just grab your registration and come on in . ''
+1	i do n't even want to spend anymore time thinking about this store .
+0	there were two girls at the front desk , neither could have been bothered .
+1	would n't they want you to stay and spend money on their property ?
+0	worse nail salon i 've ever experienced .
+1	spend a little bit more money and save yourself the trouble and disappointment .
+0	disgusting .
+1	i 'll spend my money there .
+0	so i guess i did a good job at picking out the wine .
+1	she also spent the entire time trying to up sell me .
+0	double swiss burger was as tasteless as they could make .
+1	i have never spent so much money to look this bad .
+0	in short , i do not believe we will be dining here again .
+1	all said , we spent $ _num_ for soul food !
+0	the food was bland .
+1	please stay away and spend your money somewhere else !
+0	even the day front desk person was short with us and rude .
+1	there are better places to spend my money .
+0	i 'm just not crazy about the vibe here .
+1	i will never spend another dime in this store again .
+0	maybe , to try the breakfast everyone seems to enjoy so much .
+1	the worst $ _num_ i have ever spent !
+0	but with all of the strange behavior , attempts to scam us , etc .
+1	i 'll spend my hard earned money where the food and service are better .
+0	save yourself pain and throw your money out the window .
+1	and suggested i spend more money to have another girl wax these areas .
+0	the person that seated us was curt and unfriendly .
+1	we should have spent more money and got a nicer place .
+0	they were pretty terrible .
+1	i have spent thousands of dollars at this store .
+0	if you can help it , do n't get cable from this cable company .
+1	we spent hundreds of dollars on dinner and wine .
+0	the said they would get back to me within _num_ hours .
+1	not worth the $ _num_ i spent on the muffin and coffee .
+0	so much for trying to support local business .
+1	really , i had spent a lot of money for nothing .
+0	not worth one star !
+1	there are far more tastier places in the valley to spend your money on .
+0	we were greeted very warmly by one of the ice cream technicians .
+1	we refuse to spend our money at an establishment like this .
+0	there is no other way to describe everything in my room .
+1	worst $ _num_ i 've spent in a long time .
+0	if this is personalized service , i 'd rather stay at a motel .
+1	this is not the way i wanted to spend my entire saturday morning .
+0	wine selection is very weak .
+1	i have spent thousands of dollars there and got no relief .
+0	it also was served at room temperature .
+1	they really need to spend some money on new equipment .
+0	when we got to the table , we were hoping for a better experience .
+1	for the _num_ of us , we spent $ _num_ .
+0	came in for a quick bite to eat on a sunday for lunch .
+1	we had money to spend on food and drinks , we were completely ignored .
+0	the lamb chops were awful .
+1	do n't expect great results no matter how much money you spend .
+0	very disappointed .
+1	worst $ _num_ ever spent .
+0	_num_ .
+1	the sound was terrible and i spent more time outside than in .
+0	my issue was the price , $ _num_ .
+1	i feel like i should only be spending maybe $ _num_ .
+0	and the bathroom looks and smells like something out of the movie saw .
+1	you will have to spend $ _num_ on a parking pass .
+0	i will not be going back .
+1	i would rather spend my money elsewhere .
+0	quality of food was not at all what was expected for the price .
+1	rock bottom is just not the place to spend money on food .
+0	no hint of a smile on her face .
+1	i spent $ _num_ and only ate the fortune cookie .
+0	but , our waitress was helpful , and our food came out pretty quickly .
+1	so , we spent all last night in and out of the bathroom .
+0	my husband and i stayed in pittsburgh for weeks and wanted to have pho .
+1	i 'm glad i did n't spend my money at this place .
+0	when we called they said no payment , no dogs .
+1	do not spend your money here !
+0	service is not friendly .
+1	spend your money somewhere else .
+0	do not do business with these people .
+1	dont spend your money in this chain .
+0	my bf got the steak with battered shrimp .
+1	glad money was spent getting new name tags instead of more tellers .
+0	we were ignored until i grabbed a table in the back .
+1	the worst $ _num_ i 've ever spent .
+0	pasta trio - _num_ out of the _num_ was passable .
+1	spent more time waiting than eating .
+0	oh , and its very very expensive !
+1	back ... i 'd spend your money elsewhere .
+0	oily , greasy and bad taste .
+1	i spent $ _num_ for only one edible thing worth $ _num_ .
+0	this place is less than mediocre .
+1	lots of places to spend money !
+0	it was juicy and smothered in bleu cheese .
+1	i would not spend any money at this place .
+0	in fact , all of the food is becoming gross .
+1	this place is dirty and you spend all your money here for lies .
+0	slow .
+1	stay away and spend your money elsewhere !
+0	starbucks is not the right one for me .
+1	we spent our _num_ at a different restaurant .
+0	the only employee i could see in the entire restaurant was the bartender !
+1	i have spent a lot of time at shooting ranges both indoors and out .
+0	i 've been here a few times and have always been disappointed .
+1	i 'm going to spend hundreds of dollars on these two dresses + alterations .
+0	this was our first time trying this place since moving to castle shannon .
+1	i can guarantee i will never spend my money here again .
+0	i do not recommend .
+1	never thought it would be so hard to spend money in a best buy .
+0	took over an hour , cost $ _num_ , broke my air filter .
+1	would rather have spent so much money elsewhere !
+0	i 'm trying the chicken tortilla soup and the french onion pot roast .
+1	also , i spend about _num_ $ a month on starbucks me alone .
+0	a year later , the ceiling in my bedroom began to leak .
+1	$ _num_ spent for literally nothing .
+0	our waitress was hit or miss and we waited awhile for the bill .
+1	please spend your money elsewhere .
+0	i will never go back to this place , to many other options uptown .
+1	not worth the _num_ bucks we just spent here .
+0	terrible wait staff could n't even seat us .
+1	i am disabled and spend most of my time in bed .
+0	i had a mani pedi today and they were brutal ... .
+1	i 'd rather spend my money at goodwill !
+0	no chicken .
+1	also called the concierge , spent _num_ minutes on hold & gave up .
+0	the lighting was poor .
+1	so these guys almost made me spend $ _num_ for unnecessary repairs .
+0	i was very disappointed .
+1	i will never spend $ $ $ at fletcher 's again .
+0	a completely clueless one , that 's what kind .
+1	i spent days on the toilet after eating the pizza .
+0	soups could have been a bit more full in the cups .
+1	just spent $ _num_ for cold wings and two beers .
+0	tip was $ _num_ .
+1	of course , after spending _num_ minutes there i 'm not going to wait .
+0	never did get a refill on iced tea .
+1	horrible customer service , i will never spend another dime in this dive !
+0	the place was very busy and noisy .
+1	for the money we spent there i expected better service .
+0	the cashiers , pharmacy , and customer service manager were so rude and stupid .
+1	i 'd rather spend $ _num_ at a better restaurant .
+0	not worth the time and money to go here .
+1	but how much gas are we going to spend traveling back to you ?
+0	by `` multiple times '' i mean _num_ or _num_ times .
+1	somehow still managed to spend _num_ bucks a head .
+0	no thanks , much better candy shops around the city .
+1	she spent more time asking questions like `` does that look even ? ''
+0	if this is the case then my oh my how the mighty have fallen .
+1	never again will i spend a dime at this place .
+0	needless to say i do n't think i will be returning .
+1	i spend $ _num_ a week at this place for _num_ cars .
+0	never again , they are off my list .
+1	i spent saturday night in a smelly apartment with no power .
+0	it was clear servicing customers was an inconvenience to him .
+1	we spent _num_ dollars on the special that was far from special .
+0	a simple addition of caramelized onions would have solved this problem .
+1	i will never be spending my money here again .
+0	the pad thai was not good and that 's what it should be !
+1	the view was nice but not worth the time we spent driving there .
+0	if it is busy expect to be treated poorly .
+1	spend a few dollars more and stay away .
+0	we finished our dumplings .
+1	for an average dinner , you 'll be spending $ _num_ to $ _num_ .
+0	because of number two our service in general was not good .
+1	_num_ hours spent waiting and still have n't been called .
+0	none of our food was good .
+1	not going to spend money here again .
+0	waitress was throwing plates on the table .
+1	i will never spend another penny there as long as i live .
+0	instead , my total was about $ _num_ .
+1	i will never spend another dollar in that establishment .
+0	the restaurant is located in the basement of a building off of walnut street .
+1	well , that coffee i spent $ _num_ on ?
+0	something does n't sound right here .
+1	never spent more than _num_ minutes with me in any of the visits .
+0	when we walked in , it was like we were in the south pacific .
+1	but would it kill you to spend a little to upgrade your rooms ?
+0	do n't waste your time staying here if you are a business traveler .
+1	went down , spent my $ , and no figure because i priced match .
+0	when we eventually got the appetizer the bread , there were no plates around .
+1	i was unable to justify spending $ _num_ or $ _num_ for their membership .
+0	the only thing this place has going for itself is the decor .
+1	we spent _num_ 1/2 hrs walking around and never really got excited .
+0	high prices , horrible service !
+1	spend your money in a local hardware store .
+0	i paid $ _num_ for a partial .
+1	i will no longer spend my money at any of the circle k stores .
+0	this continued for the total of _num_ hours .
+1	its not like i just spent over _num_ bucks at your establishment or anything .
+0	it was not superior by any means but very nice for the average express .
+1	biggest waste of $ _num_ i 've ever spent .
+0	_num_ mins .
+1	i will not spend my money somewhere that they do not value their customers .
+0	heck no !
+1	otherwise spend your money elsewhere where fast service is a priority .
+0	no need to ever return .
+1	he has spent a lot of time being a chef and serving tables .
+0	the staff is the most unfriendly and have a carefree attitude .
+1	spent the rest of my trip with ugly chipped nails .
+0	they tried to fix the broken telephone but were n't really successful .
+1	never again well i spend money in this establishment .
+0	it then took quite awhile for our dinners to start arriving .
+1	spend just over $ _num_ to get a coolant leak fixed .
+0	the big green salad was boring and everything was in huge chunks .
+1	if you can , avoid this shop and spend your money elsewhere !
+0	otherwise , food and prices are not worth a stop .
+1	i would rather go get sushi than spend more money here .
+0	it is not worth it .
+1	i spent $ _num_ !
+0	they all looked at me , none greeted or walked toward me .
+1	i do n't know how anyone would go and spend money there .
+0	very disappointed .
+1	spend your $ _num_ elsewhere !
+0	still sitting here waiting for someone to give a care .
+1	rude server obviously upset that we were not spending tons of money .
+0	this was the worst hotel that i ever stayed in .
+1	i 'm not willing to spend any time thinking too hard on this .
+0	for $ _num_ with the owner .
+1	i will never spend another dime here .
+0	not a good value in my book .
+1	three of the worst dollars i 've ever spent .
+0	domestic beers were $ _num_ .
+1	too many other stores that i can spend my money at .
+0	they use some oil which smell different that killed the taste of my pizza .
+1	spend your money eating something w personality !
+0	very disappointed in our delivery order this evening .
+1	this annoyed me , considering how much money i spend there regularly .
+0	i just had such a bad experience here .
+1	i felt like i spent $ _num_ for absolutely nothing .
+0	we had a reservation for _num_ for a casual business dinner .
+1	when i spend that much money on a salon visit .
+0	service could have been better .
+1	we will never spend time or money here again .
+0	i could n't stand to eat more than half .
+1	spend a little more money and stay somewhere else .
+0	this made me question whether or not she was professionally trained .
+1	who spent _num_ minutes in the back searching for the wrong product !
+0	this was such a sour experience .
+1	i spent $ _num_ on a bagel , cream cheese , and a coffee .
+0	the server went out of her way to make us feel uncomfortable .
+1	i will not spend a single dollar here .
+0	but maybe that says more about me than it does bar charlotte .
+1	i would spend hundreds in chemicals that did nothing .
+0	over charge and terrible food .
+1	there is no email and i have spent hours on the phone .
+0	i walked in and was a little surprised .
+1	all that money spent elsewhere because of one power trip .
+0	food is limited and all fried , that 's not a good thing either .
+1	i will happily spend that money elsewhere .
+0	very rude and unprofessional , do n't go there !
+1	i will not spend another dime in this store .
+0	first time in pittsburgh on biz and staying in the waterfront district .
+1	so i spent about $ _num_ that night .
+0	the third took another _num_ minutes .
+1	i wish i had spent $ _num_ elsewhere .
+0	_num_ .
+1	next time i will spend more money .
+0	the bartender never came back to me to take my drink order .
+1	that is the last money i will spend in that place .
+0	this place really did suck .
+1	i spent $ _num_ for my nails to last _num_ days !
+0	but quality steaks can be eaten at much better priced establishments .
+1	this is the last place i want to spend my afternoon while on vacation .
+0	but i really would n't recommend going there .
+1	probably should expect to spend your entire day here .
+0	will not be back there -- rude hostess !
+1	having spent $ _num_ per person on this meal we expected much much more .
+0	the staff completely ignored it .
+1	i spent m it was such bad luck that i went to the location .
+0	bland would be an understatement .
+1	i just wasted _num_ bucks i could have spent elsewhere .
+0	the skins were a bit thick and doughy .
+1	i spend several hours with the hotel staff and told me stuff .
+0	it was a basic salad , no big deal .
+1	i 'm terribly disappointed after spending a long time starving for my food .
+0	( _num_ minutes on hold ) ... ... ... ... ... ... still transferred .
+1	will not spend another dime at this establishment !
+0	otherwise , i will never stay at this place .
+1	i know i did n't spend $ _num_ all in one day .
+0	i was highly disappointed in the service , and i only ordered take out .
+1	skip this place and spend your money elsewhere .
+0	seriously , terrible .
+1	i spent $ _num_ for blood work .
+0	i 'm not holding up a line .
+1	however , i would suggest spending the extra and having a far superior meal .
+0	it 's really frustrating .
+1	f -- - me , i still have $ _num_ to spend .
+0	i wo n't be back .
+1	just spent $ _num_ to stay _num_ nights at the arizona grand .
+0	tables were dirty .
+1	lidia should spend more time in her restaurants to see first hand .
+0	all i tasted was burnt oil .
+1	i will never spend money here again !
+0	they were n't dressed how i would have expected them to be .
+1	i spent over _num_ dollars in this order and it was a complete waste .
+0	everything was just bland and disappointing .
+1	i spend a lot of money online and in the store .
+0	i was afraid to sleep in that nasty bed .
+1	just a bit uncomfortable to see how much someone spent on an engagement ring !
+0	the shrimp does n't have any flavor and just tastes like grease .
+1	i spent _num_ minutes doing that and none had an economy car .
+0	but then two waitresses kept coming and going without even looking at me .
+1	spend your money elsewhere .
+0	customer friendly said there is nothing he can do .
+1	for the hundreds of dollars we spent , this was the worst experience ever !
+0	do n't bother with delivery here .
+1	did n't want to spend time on me because of people behind me .
+0	it was dry .
+1	i 'll spend my hard earned money else where thank you .
+0	the spicy yellow tail was not spicy .
+1	by this time i had spent around five hundred dollars .
+0	they tried to charge me $ _num_ for _num_ hours of labor .
+1	as for a place to spend money uptown i 'd skip it .
+0	i do n't see to many options in pittsburgh for sporting goods .
+1	really bummed my special day was ruined and we spent good money .
+0	highly disappointing .
+1	i do n't need to spend my money there .
+0	to add insult to injury , the only restaurant in the hotel sucks .
+1	i spent almost _num_ minutes for some nachos .
+0	needless to say , will be my last time going there .
+1	altogether , spent $ _num_ and left with a great disappointment !
+0	i no longer have to carry around my terrible , terrible secret .
+1	we only spent maybe _num_ mins in that line .
+0	so on to the sushi , oh yeah , it 's gross too !
+1	we spent over $ _num_ for an all over bad experience .
+0	i do n't get it .
+1	he literally spent _num_ minutes cutting my hair if that .
+0	i wish someone had informed the port authority of this .
+1	that 's why i spend money in a restaurant !
+0	i have been a customer of sesame inn for many , many years .
+1	just spent $ _num_ for two people at lunch .
+0	the bathrooms near the arcade are always nasty in my opinion .
+1	all things told , though , i would spend my money elsewhere .
+0	she did n't massage anything .
+1	total time spent _num_ hour for a $ _num_ drink .
+0	thanks , but no .
+1	do n't spend your tip all in one place !
+0	the place just seemed small and shabby to me .
+1	i 'll be sure to spend my money elsewhere next time .
+0	we were in a hurry because of limited visiting hours .
+1	spend your money elsewhere on a better italian food .
+0	this time was not so good .
+1	never would i think about going back and spend my money there again .
+0	is it worth the $ _num_ cover on fridays ?
+1	we spent $ _num_ on admission & parking for _num_ adults and _num_ kids .
+0	the only interior cleaning was vacuum .
+1	i spend _num_ dollars on soggy food that lacked flavor .
+0	not the drivers fault .
+1	i have spent hundreds of dollars at this store .
+0	i probably wo n't order here again though .
+1	i spend to much money on ticket games .
+0	the bread was thick and doughy ( clearly a filler ) .
+1	much better value for money spent .
+0	if it would have been me alone , i would have walked out .
+1	what a bummer to spend that much money and be that underwhelmed .
+0	i do n't understand all the rave reviews for this place .
+1	we spent hours on hold just to have the calls dropped .
+0	time warner cable is awful .
+1	i 'll spend my _num_ bucks where i 'm appreciated .
+0	not sure about the food handling practices here .
+1	instead i took time off work and spent the gas money for nothing .
+0	their service is a hot mess !
+1	spend $ _num_ and it was nothing that we ordered .
+0	bad service and mediocre food served cold .
+1	all in all , i 've found better things to spend $ _num_ on .
+0	the fourth got his about _num_ minutes later and his food was terrible .
+1	this office is too busy and does n't spend enough time with their patients !
+0	needless to say , we were disappointed .
+1	spent _num_ two weeks ago to fix my charger .
+0	the service was not very good .
+1	i only spent time in terminal _num_ as that 's where delta is .
+0	the food you need to be careful , because sometimes they are expired .
+1	overall , i was disappointed having spent almost $ .
+0	total waste of money .
+1	diners beware , spend your money elsewhere .
+0	_num_ .
+1	just spent _num_ hours on appointment that was supposed to be _num_ min .
+0	there was nothing really special about the food .
+1	sorry i spent any money there .
+0	do not take your car to midas !
+1	i 've spent _num_ out of my _num_ birthdays at chuck e cheese .
+0	other than that , customer service is awful .
+1	i spent over two hours waiting for my phone to wipe .
+0	you are better off going to another nearby dry cleaner .
+1	i will spend my money elsewhere ... .
+0	they probably knew we would n't have the money for a lawyer .
+1	i spent alot of money here , and they do n't care .
+0	i only give it _num_ stars because of the wait staff !
+1	now i 'm going to have to spend 30-40 min detailing the car .
+0	they were large , tough and tasteless .
+1	spend your money somewhere where it will be appreciated .

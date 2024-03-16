@@ -1,0 +1,400 @@
+0	terrible !
+1	i 'd go back for bottled beer , that 's about it .
+0	not gon na order from here again .
+1	draft beers were n't even cold .
+0	i put some hot sauce on it strictly to add flavor .
+1	however , i was surprised by the reasonable beer selection and the nice menu .
+0	house salads for the wife and i which were pretty standard .
+1	but misses the mark with j 's root beer refill .
+0	first of all , the pie had almost no real flavor .
+1	the beer choices and the casual menu was right up my alley .
+0	not worth the $ _num_ .
+1	i have had maybe three beers , and a shot , in _num_ hours .
+0	would rate the food , but have no clue because we are still waiting .
+1	first , they charge for beer and wine .
+0	i never imagined how confusing a question that could possibly be .
+1	the beer was flat .
+0	clearly she had a nasty cold and should 've stayed home that day !
+1	i noticed the beer sampler and thought i would give it a try .
+0	check out the better business bureau ( bbb ) .
+1	limited beer selection .
+0	i was extremely disappointed by the lack of presentation .
+1	our waitress finds us after a _num_ minute wait and takes our beer order .
+0	lidia 's is an upscale olive garden with slightly better wine list .
+1	the beer and wine is cheap .
+0	she was definitely old enough to understand why she was wrong .
+1	beer selection below average and nothing special happening with speciality drinks .
+0	nothing has changed .
+1	especially do not go here if you are a craft beer drinker .
+0	the worst of our experience ?
+1	i would 've had an extra beer but this turned me off immediately .
+0	the minus : the maintenance staff is always around .
+1	i 've never been a big drinker ; over priced beer and soda .
+0	nothing to write home about .
+1	only plus is the beer was $ _num_ and they validate parking .
+0	there are better restaurants in carnegie .
+1	little disappointed with my beer too .
+0	to be smooth after only one pedicure . ''
+1	* no beers on tap , but miller high life by the bottle .
+0	i could have done better at home .
+1	_num_ beer per hour maximum .
+0	i am upset to report that this tasted rather bland .
+1	why was my beer warm ?
+0	horrible , horrible company .
+1	unfortunately , the beer is n't cheap , nor were there other obvious specials .
+0	we have been ordering food from little tokyo for almost _num_ years now .
+1	the bottled beer was $ _num_ also sadly not impressed .
+0	i wo n't go back .
+1	plus , beer was _num_ !
+0	the only thing they did n't mess up on our order was the rice .
+1	the beer selection was very poor .
+0	if it is busy expect to be treated poorly .
+1	prices too high for strip district beer .
+0	let alone one that the food is n't even that good .
+1	the beer was cold and that is the only reason they got one star .
+0	this is the worst westin i 've ever stayed in .
+1	the beer was warm and the food was terrible .
+0	used to go there for tires , brakes , etc .
+1	draft beer is luke warm .
+0	could not have been more patronizing .
+1	we put in orders for waters and _num_ beers .
+0	i arrived and was disappointed to not see the arrangement i ordered .
+1	she served the beer in a mason jar .
+0	my boyfriend ordered the hot fish , but it was way too salty .
+1	maybe get a beer but not the food .
+0	the manager did n't seem to care at all about our situation .
+1	even the root beer was flat and tasteless .
+0	they said if i printed it out , i could have used it .
+1	good place for a beer , skip the food .
+0	they are the worst company to ever deal with all they want is money !
+1	the food was decent for bar food and the beers were really cheap .
+0	this store is so gross that i was almost sick !
+1	it also took a long time to order another beer and our check .
+0	i 'm done i throw in the towel trying to deal with them .
+1	drinks are not made properly and the draft beer was warm .
+0	a little pricy for food but not too bad .
+1	the beer was decent , it 's just draft beer here .
+0	from my first bite it was missing something ... flavor .
+1	the beer selection is weak at best .
+0	it took so long to get , we just left .
+1	pizza , sandwiches , beer , what could go wrong ?
+0	peel and eat shrimp were dry and tough , not fresh .
+1	no beer list , no soda list , no liquid period .
+0	the main waiting area is also empty .
+1	better than that , why was my pot sticker appetizer in my beer ?
+0	the service is ok but rather slow .
+1	average bar food , slow service , a nice selection of incredibly overpriced beers .
+0	terrible experience !
+1	, the beers are cheap and cold .
+0	the food was ok , but nothing special .
+1	the beer is cheap .
+0	chef 's special was penne in a light alfredo sauce with crab and shrimp .
+1	never offered a refill on the water my girlfriend was drinking or another beer .
+0	quality is poor .
+1	they need to check their dates and stop selling stale , overpriced beer !
+0	too bad the food was n't good .
+1	it also does not help that they do not have beer prices listed .
+0	i have left bleeding twice .
+1	i returned my beer and ordered a draft .
+0	do n't even get me started .
+1	this beer is like champaign and it makes my whole stomach nice and cold .
+0	do n't waste your time or money .
+1	beer selection limited .
+0	imagine my frustration .
+1	sorry guys you really need to repair the beer machine and hire a cook .
+0	it 's hit or miss with this place , but mostly a miss .
+1	beer selection is better in my house .
+0	my boyfriend ordered tofu and it was cold in the middle .
+1	the person next to me ordered the beer battered giant fish sandwich .
+0	horrible salon ... dirty , also , just as a side note .
+1	the food was merely average and the `` specially brewed '' beer was weak .
+0	guess who was n't too busy , carnegie coffee company down the street .
+1	i felt bad just ordering free beer so i ordered a sandwich .
+0	as for beverages , they really skimp .
+1	so , he ordered another beer .
+0	mine needed a bit more sauce to make not as dry .
+1	they seem to stock old beer .
+0	no acknowledgement when we arrive .
+1	then there 's the poor selection of beer , four peaks ?
+0	i did n't find it to be anything special .
+1	also $ _num_ beers of which i 've had about _num_ .
+0	on the other hand , the fried pickles were great .
+1	the waitress would grab the beer and scoop out the ticket .
+0	it 's just not that good .
+1	do n't get beer here .
+0	so here comes the story of walnut capital .
+1	buy a beer , walk around and see some dead guys ' guitars .
+0	filthy , bad seats , more expensive than others .
+1	pool and darts and beer no extras .
+0	the service itself was n't to great either .
+1	the food is not so great and neither is the beer on tap .
+0	if i could give negative star rating i would .
+1	additionally , i was not too thrilled with the atmosphere or beer selection .
+0	sorry buca , a previous visit was much better than this one .
+1	go for a beer but not a meal .
+0	so disappointed .
+1	i immediately stopped eating , finished my beer and left .
+0	the 4th time my friend dragged me there , i had a salad .
+1	we ordered two seafood entrees , two beers , and an order of sushi .
+0	that completely turned us away from this restaurant .
+1	tonight , we walked in and went up to the counter with our beer .
+0	only because i live nearby .
+1	i do n't normally get my beer from there .
+0	at times we could barely hear ourselves think , let alone hear each other .
+1	if a cold beer is all you want , go for it .
+0	then the stack was topped with whipped cream .
+1	then my friend ordered a beer on tap and that did n't work .
+0	all the white people get to eat , we do not ?
+1	it was n't noted that it was beer mac n cheese either .
+0	the food is n't fresh .
+1	waitress could not tell us anything about the beers on tap .
+0	needless to say we did not return to redeem it .
+1	view is good , beer selection is poor .
+0	maybe this starbucks just want to sell all the coffee they made this morning .
+1	beer selection is ok.
+0	we paid for drinks and left our sever a gracious tip .
+1	only positive is the beer .
+0	being from la , i was disappointed with the tacos .
+1	can i get this beer removed ?
+0	what horrible service this place gives !
+1	two stars for good beer selection , but lots of better choices nearby .
+0	which i was , and i was not allowed in .
+1	i just wanted a beer and the service was horrible .
+0	the free breakfast is as bad as it gets .
+1	beer was overpriced at $ _num_ for a glass .
+0	please take all of these negative reviews seriously because they are valid .
+1	left money on the table after finishing my beer and left .
+0	rude !
+1	poor beer , wine and food selection ( as in no selection ) .
+0	on most visits it takes em about _num_ minutes .
+1	it was an expensive craft beer .
+0	since they apparently hire good people , hire more !
+1	-i split the giant beer battered fish sandwich .
+0	thumbs down !
+1	dip for the chips are cold and beer is room temperature .
+0	they charge about $ _num_ for a drink with no free refills .
+1	he had _num_ beer prior .
+0	the wine list is lacking .
+1	our waiter dropped off my boyfriend 's beer .
+0	i 'm truly not out to get anyone with writing a negative review .
+1	nobody had the opportunity to buy overpriced bowling alley food or beer .
+0	tried to pressure me into buying a bed right then and there .
+1	beer was chilled , not cold .
+0	does n't even deserve one star in my book .
+1	the beer specials and _num_ .
+0	very disappointed .
+1	domestic beers were $ _num_ .
+0	if i could give negative stars i certainly would for this place .
+1	drinks come & the beer is half ass cold , jim was fine .
+0	this was n't it .
+1	the biggest complaint is their beer lines taste dirty .
+0	everyone else at the table hated their food .
+1	the beer garden was out of the most popular styles .
+0	i called aaa and the service and follow-up were both appalling !
+1	the hostess did n't even know what the beers were .
+0	i would not recommend this company to anyone ever .
+1	i do n't care how good the food is or the beer selection .
+0	we did n't care for the atmosphere and did n't actually eat anything .
+1	despite my beer being empty .
+0	horrible customer service and they always screw up our orders .
+1	we went for the beer specials , which were good .
+0	i really do n't know how this place stays open .
+1	beer selection was good , but food was terrible .
+0	- they want $ _num_ for cheese on their eggs .
+1	i wish the food could match the quality of their beer .
+0	went for the first and last time tonight .
+1	the beer selection is n't that great and the upstairs bar is not full .
+0	the remaining slices got tossed in the garbage .
+1	me : `` please may i just have my beer ? ''
+0	i called in two cold sandwiches and was told it would be _num_ mins .
+1	that 's a lot of beer for less than _num_ dollars .
+0	the service was pretty bad .
+1	the beer was good , service was ok , but the food was terrible .
+0	i wo n't be back .
+1	the beer makes everything tastes better so order at least two beers before eating .
+0	i 've worked at steak n shake before .
+1	i spilled a beer all over myself .
+0	do not recommend .
+1	corporate decided to get rid of the core beers and the beers now suck .
+0	glad they have plenty of shorts to buy when its _num_ degrees outside .
+1	we ordered a couple of beers and they were prompt but not really cold .
+0	so now i have a very sick kitten on my hands .
+1	there is an ok number of beers on tap .
+0	horrible customer service .
+1	had a beer and an appetizer , so-so .
+0	i also ordered the curry chicken noodle bowl .
+1	overpriced tasteless food with a poor beer selection .
+0	_num_ .
+1	they raised beer prices by a quarter big deal .
+0	this is not a place that a neighborhood should support .
+1	the only good thing about the experience was the beer selection .
+0	that 's _num_ % .
+1	my husband was excited about the amount of beers they had on tap .
+0	_num_ .
+1	their food is pretty much like their beers , forgettable .
+0	plus , _num_ of the new tires went flat within _num_ weeks .
+1	drink price : $ _num_ for a beer .
+0	long time customer and disappointed to say will not buy from them again .
+1	honestly , they should get rid of the tables and add more beer taps .
+0	worst customer service and business model i have ever seen .
+1	i have had several of their beers and all of them have been forgettable .
+0	the only seasoning available are salt , pepper , hot sauce , & ketchup .
+1	beer was cheap and cold at _num_ for a bud lite .
+0	so clearly lil off there ... other then that we order common breakfast .
+1	beers that were listed they also did not have .
+0	they complained that our house was not clean and scared off the potential tenants .
+1	paid for the lousy $ _num_ beer and got up .
+0	this was probably the worst plain cake donut i 've ever had .
+1	to boot , the beer was pretty expensive .
+0	it was also fairly small , but that was almost to be expected .
+1	he also did not care for the beer `` jus '' it came with .
+0	cheap , everyone seems to say that .
+1	unless your are here for a beer , forget about it .
+0	on a tuesday night , there was a long wait .
+1	_num_ min later we finally got our bottled beers which were lukewarm .
+0	sadly , no .
+1	do n't expect anything more than cold beer and casual atmosphere .
+0	mom and i both ordered the fish sandwich with mac n cheese .
+1	no beer either .
+0	this place is the worst motel i have ever stayed .
+1	it still smelled like vomit , stale beer , and service sucked .
+0	_num_ .
+1	food was pretty good and the beer was cold but service really was bad .
+0	i do n't quite trust anybody else to help me properly .
+1	i asked for a root beer and a burger with no onions .
+0	no effing way .
+1	no quick and easy app or beers on the house .
+0	_num_ minutes later ... he asked his manager and allowed us to sit there .
+1	advertised happy hour beer specials but that did n't show up on our check .
+0	probably wont go back .
+1	they have beer , they have standard grub and standard everything else .
+0	we had the worst experience at this place !
+1	so no beer or drinks for me .
+0	when you try to cancel it takes forever and they are rude !
+1	first off , the beer menu .
+0	employees are unhelpful and rude .
+1	`` d '' : said even his beer was n't good .
+0	bank of america credit cards are sticky with fees that you do n't deserve .
+1	they serve beer and wine !
+0	wrong .
+1	horrible bar service ... all draft beers are out on a saturday !
+0	the only option for brunch is to get the buffet .
+1	the beer was flat , however the bartender switched it so that was decent .
+0	service was ok but occasionally inattentive .
+1	i had the honey brown beer for $ _num_ ; reasonable drink price .
+0	i could n't taste salt or pepper or garlic or even feel any heat .
+1	there is no beer on tap and service takes a long time .
+0	rude staff doesnt know what they are doing .
+1	the beer is awesome i will admit and the servers are pretty attentive .
+0	i was totally underwhelmed .
+1	wine or beer ?
+0	it really does n't hit you , until it ... hits you .
+1	overpriced beer and overpriced , bad food .
+0	dont fall for it .
+1	they kept the beer and wine flowing at our table at every visit .
+0	she has to wait _num_ days to be seen .
+1	the kick and finish of this beer did not impress me .
+0	slightly better than starbucks , but that 's not saying much .
+1	beer cold .
+0	honestly some of the worst service i 've ever received anywhere .
+1	called me a liar when i said the beer was stale .
+0	it 's good , but too expensive .
+1	entree _num_ : beer battered fish and mac and cheese .
+0	they told me that they charge _num_ dollars a hour .
+1	the beer was papago orange blossom ( which is glorious ! )
+0	as a vegetarian , it was entirely another matter for me .
+1	they served beer that was expired by _num_ months .
+0	so the air in tire was wasted time .
+1	when we arrived , we ordered a beer , and a soda .
+0	i 'd give it zero stars but yelp wo n't let me .
+1	_num_ stars because the beer was good .
+0	it 's _num_ or _num_ bucks now after _num_ .
+1	the majority of the beer was just plain boring , and warm to boot !
+0	i sat for almost ten minutes at the window while my food was prepared .
+1	the menu is outstanding but the pizza and beer is too expensive .
+0	horrible service .
+1	however , check the price of a beer before you buy it .
+0	- and they left me hanging .
+1	i 'm not a beer drinking novice .
+0	bottom line : horrid service , mediocre food .
+1	the service was friendly and the beer is cold .
+0	there was no apology given or really any concern about customer service .
+1	beers are also expensive at _num_ $ a tall .
+0	i stayed three nights at the westin with a group for a conference .
+1	just spent $ _num_ for cold wings and two beers .
+0	it was very disappointing .
+1	rude customer service in beer section .
+0	i could n't taste salt , pepper , garlic , anything .
+1	over all the food sucked and beer sucked .
+0	$ _num_ per salad ?
+1	no bartender to even get a beer while u wait !
+0	they could n't tell us when we would be seated .
+1	_num_ stars for the awesome beer selection .
+0	is n't that the same as `` not made fresh in pittsburgh ? ''
+1	the beer was cold though .
+0	otherwise , negative stars would be in effect .
+1	beer is n't great and it 's relatively expensive for what it is .
+0	overall not the way a restaurant should be run .
+1	lots of drink choices ... beers ... wines ... mixed drinks .
+0	i did n't get it .
+1	the two beers that i had were decent but not amazing .
+0	_num_ .
+1	typical selection of beers and drinks .
+0	i did not receive water or any service for _num_ minutes .
+1	_num_ different prices for the same brand of beer .
+0	tables were dirty .
+1	cheap sake , cheap beers , cheap sushi .
+0	_num_ .
+1	beer is beer .
+0	do not use , awful experience !
+1	only _num_ beers on tap .
+0	the store would not cash out the remaining balance on the gift cards .
+1	the beer battered zucchini rings were over salted .
+0	not a good start .
+1	$ _num_ beer if you order lunch .
+0	i ate one slice , and gave the rest away .
+1	ordered a glass of wine and beers for my companions .
+0	she was very uncomfortable .
+1	pricing is horrendous for beers .
+0	i was expecting $ _num_ + $ _num_ salad upgrade .
+1	too bad because the beer was nice and cold .
+0	but do n't expect that feeling here .
+1	also people are in there at 10am drinking large beers , very weird place .
+0	and questioned why it was cold .
+1	oh and you 'll pay $ _num_ for a beer .
+0	we ate breakfast food at 2:30 am after the bars closed .
+1	this is a decent place to grab a beer and watch a ball game .
+0	_num_ minutes of discussion for $ _num_ worth of food ?
+1	after _num_ mins no beers , no chips .
+0	wo n't be returning .
+1	she said she was n't a beer drinker .
+0	i would like to say that i am only disappointed by what 's happened .
+1	was n't overly impressed with the food or beer selection .
+0	poor customer service .
+1	smells terrible weird mixture of nail polish and sour beer .
+0	i have spent a lot of time at shooting ranges both indoors and out .
+1	poor service , decent beer , poor food .
+0	odds are , you 'd get a better experience at home .
+1	even my beer was warm tonight .
+0	small flies flying around restaurant .
+1	they have an assortment of beer and wine .
+0	did n't go so well .
+1	the beer was pretty good , but the food was a real disappointment .
+0	well , that coffee i spent $ _num_ on ?
+1	your comments have been sent to our general manager , christopher beers .
+0	the costumer service really ruined my experience .
+1	this night , sarah served my first beer .
+0	terrible .
+1	i like paying $ _num_ in fees for a $ _num_ beer .
+0	the second haircut was great , but styled horribly .
+1	i drink this beer regularly , and something was wrong with the beer .
+0	the shrimp were $ _num_ a piece .
+1	sadly , the beer i was served was not moon man .
+0	i wish i could give this place no stars !
+1	pros : the beer , casual atmosphere , and garlic chile fries .
+0	do not waste money here .
+1	overall , the place has the ambience of a german beer hall during oktoberfest .
+0	( no where on the contract does it state that ! )
+1	my friend 's beer had a due date of november _num_ .
+0	we waited over _num_ hours for the food to be delivered .
+1	made the beer in plastic taste worse .

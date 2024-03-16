@@ -1,0 +1,400 @@
+0	it was all bread and coleslaw .
+1	i only give it _num_ stars because of the wait staff !
+0	this place was horrible !
+1	id give _num_ 1/2 stars .
+0	absolutely horrible customer service and product being sold to the public .
+1	this alone i would have given _num_ stars .
+0	it does n't feel fair .
+1	so , why only _num_ stars you ask ?
+0	no wonder they need coupons for customers .
+1	if i could give zero stars i would .
+0	i hate that !
+1	the only reason i 'm giving it two stars is because of the bread .
+0	this is the first time i feel compelled to write a bad review .
+1	one star .
+0	no complaints there .
+1	i wish i could give this no stars and a thumbs down !
+0	no creativity to the cooking .
+1	four star _num_ diamond yea right .
+0	worst customer service i 've seen in a while .
+1	too bad i ca n't give no stars .
+0	they actually screwed up a green salad .
+1	this is a five star mcdonalds so to speak .
+0	this is a depressing coffee shop .
+1	i 'd give the comedians _num_ stars , and the food zero stars .
+0	the breakfast area was incredibly crowded .
+1	overall , haircut & style = _num_ stars .
+0	service was indifferent .
+1	if i could give negative stars i would .
+0	first of all , the store was messy .
+1	i 'd give it zero stars but yelp wo n't let me .
+0	the haircut was $ _num_ .
+1	i honestly wish i can give this place no stars .
+0	the staff is rude .
+1	if no stars could be given that would be more accurate .
+0	this place has the worst french fries i have ever tasted .
+1	_num_ star average ?
+0	anyway , the food was not very good .
+1	i wish i could give them _num_ stars ... total waste of money .
+0	the prices here can be ridiculous .
+1	i would gladly give less than one star , alas , not possible !
+0	Neutral
+1	wonton soup and a mediocre fortune earns this one ( _num_ ) golden star .
+0	last night i decided to give it another try and got crappy mozzarella sticks .
+1	so , this looks like a three star review .
+0	i 've went for _num_ years now waiting for it to become something good .
+1	this place is not _num_ stars .
+0	lots of drink choices ... beers ... wines ... mixed drinks .
+1	if i could give negative star rating i would .
+0	he also made a mistake that required fixing after the fact .
+1	no stars and no more business from us !
+0	lame as heck .
+1	+ _num_ star because they are finally installing air conditioning .
+0	oh , and its very very expensive !
+1	after further consideration , this store does not deserve a _num_ star review .
+0	then told me it probably did n't start because it was sitting so long .
+1	i have this place one star , because it ca n't get any lower .
+0	crust tasted like frozen pizza crust .
+1	i 'd give only _num_ star , but previous visits were acceptable .
+0	over three hour wait for mediocre food and poor service .
+1	_num_ stars for history , _num_ for food quality and flavor .
+0	none at all .
+1	i wish i could give a no star review for this location .
+0	salmon salad was not good at all .
+1	not worth one star !
+0	so , needless to say , not the best experience .
+1	_num_ stars for being cheap and delivering .
+0	i feel like i should only be spending maybe $ _num_ .
+1	i would give this place a _num_ star if i could !
+0	holy bat balls did this place have bad food !
+1	i 'd give it zero stars if i could .
+0	it 's never too loud or aggressive .
+1	so they lost another star for over priced for the value i received .
+0	he said no because we didnt discuss it .
+1	zero stars for this guy .
+0	you can get better service elsewhere for cheaper .
+1	unfortunately zero stars is not an option .
+0	the only option for brunch is to get the buffet .
+1	this service should have included four star dining and drinks before hand .
+0	i stopped in on a whim alone and sat at the counter .
+1	_num_ stars only because the service was good .
+0	this was the single worst thai meal i have ever had in my life .
+1	at this point , one star is being generous .
+0	so disappointed .
+1	there is no option for zero stars so i was forced to give one .
+0	i 've visited this store _num_ times .
+1	this place has an overall _num_ star review for a reason .
+0	the portions here are huge ( the one constant ) .
+1	not crowded but service was quite slow so i took off a star .
+0	i can not review the food .
+1	_num_ stars might be too generous !
+0	why does n't the schedule know this ?
+1	no stars !
+0	unfortunately what i got tasted like a canned sauce with minced onions .
+1	food tasted ok and was brought out really quick , hence the _num_ stars .
+0	_num_ .
+1	first of all , if i could i would n't give them any stars !
+0	very disappointing to me .
+1	i would give our experience zero stars .
+0	i am visiting from california and was very disappointed with the service and food .
+1	they get _num_ star because less was not an option .
+0	then , they did n't even do anything to make it up to me .
+1	i would have given it _num_ stars .
+0	very disappointed .
+1	if i could give negative stars , i would .
+0	its easy to be dissatisfied and rant about a customer services organization .
+1	it 's only because they wo n't let me give it zero stars .
+0	i wo n't be going back .
+1	_num_ star .
+0	this place has ok food and bad customer service .
+1	whoever gave this place _num_ or five stars must be out of their minds .
+0	i walk in , look around , look at the menu ... hmmm .
+1	would give it no stars if it would let me !
+0	when i asked the receptionist where the stylist was , she did n't know .
+1	i 'd give this joint zero stars if it was possible .
+0	we are talking a plain bottle with mystery ketchup .
+1	one star for the unpleasant experience i have had at this store .
+0	bobby and i came here after dinner and sat up at the bar .
+1	is it possible to give zero stars ?
+0	service is always slow .
+1	if there were zero stars i would give that rating instead !
+0	too bad .
+1	i wish i did n't have to give even _num_ star .
+0	we usually have _num_ but we ran out of _num_ today . ''
+1	the two stars are bonus points , but it gets the basics wrong .
+0	you could leave a message , but they 'll never get back to you .
+1	does n't even deserve one star !
+0	we sat down and jim pulled out a list of what they had discussed .
+1	i would give carolina auto repair no stars if possible .
+0	i called ahead to order a gyro calzone and was told _num_ minutes .
+1	two stars because i really like the drinks here .
+0	i give a _num_ rating only because of the service .
+1	however , i gave this place two stars instead of one .
+0	the restaurant is located in the basement of a building off of walnut street .
+1	one star for the ridiculous overcharge .
+0	apparently the guy was the owner , but he was beyond rude .
+1	lots of tv 's and ok atmosphere so i will squeeze out _num_ stars .
+0	while the food remains okay , the service leaves something to be desired .
+1	if i could give this place zero stars i would .
+0	the food was n't very good at all .
+1	if they had a negative star would have selected the worst rating .
+0	that , for me , ruined my whole meal .
+1	if i could less than a star i would .
+0	yet , he still drew blood and several yelled codes to the techs .
+1	service gets _num_ stars and food gets _num_ stars .
+0	tables were not very clean .
+1	honestly wish i could give it zero stars based on today ... ?
+0	look , stop being cheap .
+1	if i could rate it zero stars i would .
+0	burgers are fair and salads are pretty bad .
+1	can i give this place zero stars ?
+0	as dinner was my treat , i felt very awkward asking for prices .
+1	if i could , i would give them half a star .
+0	this is the last time i try this unclean and rude establishment .
+1	if i could give mimosa grill `` _num_ '' stars , i would .
+0	if you send them an email , they do n't check it .
+1	i 'm sorry , but you get one star for that .
+0	for my car the average oil change runs about $ _num_ .
+1	only _num_ stars for location .
+0	original post written september _num_ - i do n't recommend this company .
+1	i wish that i did n't have to give this location even one star .
+0	the chicken sandwich was burnt and you cook smell the burn !
+1	_num_ stars for plate glass window people watching !
+0	it was n't very crowded , so we were seated right away .
+1	my only regret is i can not leave a 1/2 star rating .
+0	ordered twice in the last _num_ days and both times it was terrible .
+1	they did n't even deserve a one star .
+0	as far as the menu , i was n't impressed .
+1	i 'd give this store negative stars if there was an option .
+0	the only thing that saved this store were the nice people that worked there .
+1	zero stars .
+0	their food was mediocre at best .
+1	gave it _num_ stars cause the wait staff was nice .
+0	it 's slow , portions are smaller and the staff is terrible .
+1	i 'd give this company zero stars if it were an option .
+0	- the fees are unreasonable for the customer experience we get here .
+1	off to star nails we went .
+0	the odd food selections are maybe a cross between southern style and fake chinese .
+1	too bad _num_ stars is not an option here .
+0	final verdict : most mediocre wings in town !
+1	this is what knocked the 3rd star off .
+0	pizza hut , a pizza of last resort .
+1	i would put _num_ star if it was possible !
+0	the lights were broken and the room was filthy .
+1	there were no complaints with the chicken , the only star of this evening .
+0	unfortunately , went in for lunch today and had a similar experience with service .
+1	if i could give negative stars i certainly would for this place .
+0	however , lots of seats since the place was empty .
+1	_num_ stars because the beer was good .
+0	the entire staff was rude .
+1	i could feel people staring at the backs of our heads as we left .
+0	the place is rather run down .
+1	i wish there was a zero star option to give .
+0	first off , everything was dripping everywhere .
+1	not even worth a star .
+0	the drinks are very expensive but that 's every bar louie .
+1	i would consider a _num_ star rating if it were n't for them .
+0	no wonder it is for sale .
+1	i only gave it _num_ stars because i liked my mac and cheese .
+0	lobster and potato cakes could have been better - too salty imo .
+1	so why do they get _num_ stars instead of just _num_ ?
+0	to date that has not happened .
+1	quickly losing stars .
+0	they did n't wash my hair and the haircut took about _num_ minutes .
+1	so , today , zero stars , but overall two .
+0	he said , oh about $ _num_ or $ _num_ .
+1	not keeping with the the _num_ star yelp review that brought us here .
+0	also , parking was shit .
+1	found a _num_ star one _num_ minutes away for just about the same price .
+0	_num_ .
+1	_num_ star for food , gross !
+0	very poor service and atmosphere .
+1	if i could give them zero stars , i would .
+0	we would have been much better off at burger king .
+1	i would prefer to leave _num_ stars .
+0	no one was uptown and the place was completely empty .
+1	i think one star is being highly generous for this restaurant .
+0	it then took another _num_ minutes to get wine glasses .
+1	for that reason , i ca n't give this place less than two stars .
+0	we 've been there twice and witnessed one fight per night .
+1	if i could give the place zero stars , i would .
+0	_num_ per person not worth it .
+1	can you give a company zero stars ?
+0	even the orange juice was bad .
+1	was trying to find a rating lower than _num_ star but could n't .
+0	the restaurant was too busy .
+1	i ca n't imagine how this place has _num_ stars .
+0	the food is n't fresh .
+1	would give it _num_ stars if i could .
+0	it 's even more disappointing when the restaurant refuses to correct the order .
+1	minus _num_ stars for not being much better than starbucks .
+0	i am sorry to say that this place still stinks .
+1	giving _num_ stars instead of _num_ just cause i 've had worse .
+0	why would you even try to seat us like that ?
+1	i would give _num_ stars if i could .
+0	there is no question that it has everything you could want .
+1	_num_ stars ?
+0	they sit on the tables and often just sit at your table .
+1	wish there was a choice of no stars .
+0	after all the garbage food you get unbelievable attitude .
+1	i wish i could give this no stars !
+0	how sad is this so not happy .
+1	i wish i could give them zero stars .
+0	so i 'm not sure how much he 'd approve of this bar .
+1	otherwise , negative stars would be in effect .
+0	_num_ hours to find the cold remedy i wanted .
+1	the employees and jewelry itself saved this review from being a _num_ star .
+0	do n't waste your time or money at this denny 's .
+1	one star because zero was n't an option .
+0	i ca n't believe this place has n't been reviewed .
+1	that 's an automatic star in this dead city .
+0	they were then _num_ hours late picking it up !
+1	my _num_ star is as misleading as their drink menu .
+0	i keep giving them another chance and i keep getting disappointed .
+1	i also wish that i could provide them with zero stars .
+0	!
+1	i only gave them _num_ star because _num_ was n't an option .
+0	they also cut back bus services and lay off all these bus drivers .
+1	so you ask why _num_ stars , simple it was location location .
+0	the store seems to be a kind of a ripoff .
+1	i 'm not sure why this place is rated _num_ stars .
+0	Neutral
+1	i would n't even give them one star at this location !
+0	bad planning and execution ?
+1	if i could give _num_ stars i would .
+0	it was n't the best meal as far as service was concerned .
+1	the room are _num_ stars .
+0	_num_ .
+1	_num_ stars .
+0	i get better shrimp pasta at macaroni grill !
+1	zero stars for price .
+0	in short , i do not believe we will be dining here again .
+1	i wish there were zero stars .
+0	i see why this place is hurting for business .
+1	zero stars for service .
+0	and then _num_ minutes later , a fifth entree was brought out .
+1	i want to give this place no stars but it 's not an option .
+0	however , they only have two waitresses outside for about _num_ tables .
+1	its crime and misleading to even give time warner _num_ star !
+0	nothing special .
+1	rounded down to the next star for this _num_ star review .
+0	the food is crap .
+1	it was n't even decent enough for one star .
+0	this place is terrible !
+1	overall , this place gets a _num_ stars .
+0	the young man who greeted me seemed a little turned off by my coupon .
+1	ca n't give this place anything lower than _num_ star .
+0	panera bread has to be the most inconsistent restaurant i have ever been to .
+1	i wish if i can even remove the _num_ star rating .
+0	food was dry and the sauces were watery .
+1	i wish i could leave a no star rating .
+0	we ended up with our glasses 3/4 full and a watered down juice cocktail .
+1	no stars .
+0	others in our group had problems as well .
+1	i wish zero stars were an option .
+0	sorry to see this place go down hill .
+1	however , they deserve one star because they do have one amazing thing there .
+0	my boyfriend ordered the hot fish , but it was way too salty .
+1	wish i could give less than _num_ star .
+0	i was grateful for justin since he was the most helpful to me .
+1	two stars because they seem to not be able to get it together .
+0	basically , this place is like dr. pepper soda .
+1	that 's why i gave it two stars instead of one .
+0	she simply said `` ok '' and walked out of the room .
+1	lost _num_ stars for that .
+0	i will not be coming back at all .
+1	not a _num_ star .
+0	this place barely uses any flavor other than salt and msg .
+1	out of _num_ reviews , i 've written only _num_ _num_ star reviews .
+0	when i go to eat my meal , utensils were not included .
+1	guess that 's worth _num_ stars eh ?
+0	sorry , just not interested .
+1	ps the maintenance staff are fabulous and deserve _num_ stars !
+0	the meat was very dry and falling apart but not over cooked .
+1	i gave one star because you ca n't give none !
+0	so i had to wait an additional _num_ minutes to find someone to pay .
+1	i waffle between _num_ stars and _num_ .
+0	it opens at _num_ .
+1	the management team of this mall would get negative stars if that was possible .
+0	way overpriced for just ok food .
+1	_num_ 1/2 star rating ?
+0	however , the service we experienced was terrible .
+1	it is too bad i ca n't give this zero stars .
+0	i was too drunk and full of pita donuts to eat my dinner .
+1	ugh if i could give this place _num_ stars i would .
+0	the pho was nothing special and place was small and looks dirty .
+1	if i could give signature desserts _num_ stars , i would .
+0	the bathroom smells , the menus seem filthy , but i like the food !
+1	i gave it one star because of the waiter .
+0	their prices are cheap , and our food was just ok .
+1	i 'm stuck between two and three stars .
+0	do n't waste your time , or risk your health .
+1	i would give them zero stars if that was an option .
+0	terrible food .
+1	i would have expect better quality of food for a _num_ star restaurant .
+0	i 've included this very depressing looking `` steak hoagie '' .
+1	i would give this eat n park location zero stars if i could .
+0	my drink was never refilled .
+1	wish i could have given red roof a quarter of a star .
+0	all the tables around us came , ate and left .
+1	if there were _num_ stars that 's the rating this place would get .
+0	someone needs fired !
+1	as if the food is not the real star of the show .
+0	while here , we sampled the blueberry mojito and the cucumber basil martini .
+1	my brother was uncomfortable and embarrassed and just kept staring down .
+0	the potatoes were like tater tots .
+1	i ca n't believe this airport has three and a half stars .
+0	this has only been my 2nd time at a red lobster ever .
+1	i would n't even give this place a star for this reason !
+0	i 'm just not crazy about the vibe here .
+1	only _num_ stars .
+0	i should have known then that it would be a bad experience .
+1	i wish i could give this place no stars !
+0	the bread is _num_ % of the meal .
+1	really a _num_ star .
+0	but i left stressed and bleeding !
+1	i wish i could give it more stars , but really it was disappointing .
+0	but , something happened sadly .
+1	overall the food , service , and atmosphere deserve _num_ star .
+0	i guess because the big box stores are cheaper and maybe more accessible .
+1	so , let 's make that a _num_ stars .
+0	food was fine , wo n't go back for fear of the server .
+1	so why just a `` _num_ star '' rating ?
+0	otherwise , food and prices are not worth a stop .
+1	the real reason for the single star was the cole slaw .
+0	stopped by fiori 's , have n't been there in years .
+1	if i could give it _num_ stars i would .
+0	holly on the way to _num_ .
+1	i only gave them _num_ stars because the pizza itself was pretty good .
+0	terrible service .
+1	not sure what star rating to give .
+0	the sofa looked old and was not comfortable .
+1	really _num_ 1/2 stars .
+0	i find it acceptable , but nothing special .
+1	the beer was cold and that is the only reason they got one star .
+0	_num_ outside , _num_ inside .
+1	if there was a way to give no stars i would .
+0	being next door to corporate you would have higher expectations .
+1	first , let me say i wish you could leave _num_ stars .
+0	do not make the mistake and eat here .
+1	only two stars due to the lack of selection .
+0	ca n't say much for an office that is managed this way .
+1	i would give this place half a star if i could .
+0	the waitress was very curt and disrespectful .
+1	if i could give less than one star , i would .
+0	the price was fair and the delivery driver was nice .
+1	two and a half stars , neither a-ok nor real bad .
+0	there are better hibachi options in the area .
+1	i wish it were possible to give this place _num_ stars .
+0	the meat was extremely bland , with very little seasoning .
+1	this was not a four star dining experience .
+0	i am disappointed the table i was most concerned about is horrible .
+1	want a zero star option !
+0	and not giving real receipts ( they use hand written ones ! )
+1	minus _num_ star for that .
+0	no potatoes or any other filling except a few peas .
+1	i think this should be more like _num_ stars .
+0	it 's hit or miss with this place , but mostly a miss .
+1	i just kinda stared at her in shock , unable to speak .
+0	i could barely pick the shrimp out because the sauce was that gross .
+1	you lose three stars for these things .

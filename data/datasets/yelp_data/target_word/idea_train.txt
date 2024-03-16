@@ -1,0 +1,400 @@
+0	all the white people get to eat , we do not ?
+1	the receptionist had no idea who was assigned to take care of my taxes .
+0	the restaurant was busy , but was n't packed .
+1	i asked the manager if it was gluten free and she had no idea .
+0	mushy spaghetti drenched in the worst sauce i ever had .
+1	she was friendly but just had no idea how to do things .
+0	i came in tonight ready to buy a bike .
+1	after a recent visit , i still have no idea .
+0	i hate to rate a local shop down , but man my toes hurt .
+1	how these chains are all over the country i have no idea .
+0	there were also plenty of empty tables .
+1	the waitress had no idea of what either of the beverages was .
+0	i spent a lot , but i was ok with the occasional splurge .
+1	the cashier had no idea what we were asking for .
+0	we always took the trash out .
+1	great idea , but cleanliness is not a thing here at all !
+0	check the expiration dates on all purchase from here !
+1	the driver had no idea where the place was which kind of surprised me .
+0	i would recommend never eating here .
+1	the owner clearly has no idea how to cut curly hair .
+0	service was slow for soup and a salad .
+1	_num_ weeks later we have no idea where these items are .
+0	most places allow return of items within _num_ days , even if a mattress .
+1	i do n't know why that idea went out the window .
+0	this is not the first time i 've been hard up to find help .
+1	had no idea it was spring training and alot of places were booked .
+0	no additional fans , nothing .
+1	apparently they have no idea that yelp is my newest obsession !
+0	the service was the most appalling i have ever experienced .
+1	i was embarrassed because he was my guest and it was my idea .
+0	i ca n't understand how this place stays in business .
+1	worst idea we had all trip .
+0	the worst salon experience of my life .
+1	i have a idea , get rid of those cashiers , fire them !
+0	so consider my advice if you decide to purchase here .
+1	a few ideas : lower prices , better arcade , just to start .
+0	guests always mention they ca n't wait to try go here .
+1	no idea if it had chipotle sauce .
+0	went for dinner tonight and was disgusted .
+1	buying tickets ahead with greyhound is n't the best idea .
+0	the food you need to be careful , because sometimes they are expired .
+1	i have no idea how that goes with salmon .
+0	once again we leave this place unhappy and dissatisfied .
+1	stylist have no idea what there doing or talking about .
+0	she 's either incompetent or she ruined my hair on purpose .
+1	do n't desk staff has no idea what they are doing .
+0	either way , i do n't understand the hype surrounding this place .
+1	unfortunately the reality did n't match the idea of the burger .
+0	i would give them zero stars if that was an option .
+1	then had no idea how to serve it .
+0	i think i 'll find a place that 's a little more ... me .
+1	bad idea to cook and serve this to customers .
+0	incredibly unfriendly staff , completely clueless consultant .
+1	therefore doing an ayce typically is n't the best idea .
+0	waited _num_ minutes for two glasses of wine .
+1	he did not agree that wifi for customers was a good idea .
+0	ridiculous .
+1	no idea why .
+0	overall , let me say that the restaurant is becoming dated .
+1	going there was not my idea .
+0	different people wash and dry your hair .
+1	no idea of organization or time management .
+0	but seriously , there are still restaurants that allow smoking ?
+1	to me , that basically means that he has no idea what is wrong .
+0	my burger was well done and dry .
+1	not my idea of an ideal doctor by any means .
+0	we were seated quickly for a friday night and the server was fine .
+1	i have no idea how this salon has the star rating it does .
+0	not sure if the manager makes th e employees clean or not !
+1	it was n't my idea to come .
+0	in short , our experience here was awful .
+1	they really have no idea how to treat people .
+0	did they bite off more than they can chew ?
+1	the staff have no idea what they 're doing .
+0	asked for risotto and got some pasta , not sure what .
+1	neither kevin nor steve have any idea what they are doing .
+0	only good part was an outdoor concert going on just outside of it !
+1	i have no idea why i return to this location ... other than convenience .
+0	with all of the other options in the area , take your money elsewhere !
+1	how this store stays open , i have no idea .
+0	asked to refill my coffee and got a cold one .
+1	what a horrible idea !
+0	went to easter brunch , was served some coffee from a can .
+1	nothing special - have no idea why people would rave about this .
+0	utterly , totally unbelievable .
+1	no idea where anything was .
+0	i wo n't go back .
+1	she clearly has no idea what it means to be a server .
+0	there is an ok number of beers on tap .
+1	not my idea of a cool wine bar at all .
+0	which is sad , really .
+1	not my idea of fun .
+0	i used their online service to pick up my laundry .
+1	general manager has no idea what customer service is .
+0	poor service that leaves tenants to fight mildew on their own .
+1	i have zero idea why i kept giving this place a shot .
+0	the drinks took forever , i had something floating in my wine .
+1	boy was that a bad idea !
+0	do n't waste your time coming to this hole in the wall !
+1	she said , `` i have no idea .
+0	unfortunately , it seems there is zero attention to food quality .
+1	i have no idea why i go back .
+0	sticky floors , bad smell , just general lack of housekeeping .
+1	the two person dinner deal was a good idea , but not well executed .
+0	reuben sandwich was greasy and had little meat .
+1	the waitress had no idea i was there again .
+0	this place has gone significantly down hill .
+1	so there went the idea of a burrito , a tostada .
+0	i wo n't be going back to see him again .
+1	i have no idea why it took so long .
+0	the fried chicken was pretty bland .
+1	really i have no idea why it 's even there .
+0	this is a depressing coffee shop .
+1	the whole idea of applebee 's really bothers me .
+0	there are about _num_ seating options , _num_ were used all the others empty .
+1	no idea how this place stays open .
+0	too many fries on the sandwich .
+1	very disappointed in your idea of a `` complete '' and clean car .
+0	this is piss poor excuse for a turkish restaurant .
+1	they have no idea what customer service is .
+0	go somewhere else for lunch , there are many better options in the area .
+1	i have no idea why people are raving about this place .
+0	the pork fried rice was actually pork burnt rice , nasty ( _num_ ) .
+1	they have no idea what kind of problems i might have .
+0	the door not only did n't close , it did n't fit the frame .
+1	perhaps using the renaissance would n't have been such a bad idea .
+0	so i 'm not sure how much he 'd approve of this bar .
+1	i have no idea how people could give this more than _num_ star .
+0	it 's a shame , because it was a beautiful gift .
+1	( bad idea ; never do that ) .
+0	they also did away with the _num_ cent wing night .
+1	although he was nice , he obviously had no idea what he was doing .
+0	fine , i had a sushi craving and could n't care less .
+1	i had no idea their pricing was so ridiculous .
+0	the food , however , was disappointing .
+1	they have no idea what customer service is whatsoever .
+0	those expectations kind of fell flat .
+1	i do n't like the idea .
+0	my sleep and stay was ruined .
+1	i really have no idea how they managed to make their food so bland .
+0	wondered into this place looking for some mixed drinks .
+1	do you have any idea how long _num_ hours is with a toddler !
+0	also , the portions are not as big .
+1	i have no idea how anyone could make food that bad .
+0	i was livid and called to complain .
+1	i have no idea what happened , but it 's not good .
+0	the store never looks very clean .
+1	( no idea why they would take that stuff ) .
+0	this time around i am extremely upset .
+1	i really like the idea of this place .
+0	the front desk staff was not interested in helping me checkin .
+1	i had no idea how bad they were .
+0	it 's the customers fault your staff ca n't handle a sat night rush .
+1	like they have no idea what they are doing .
+0	i could n't taste salt or pepper or garlic or even feel any heat .
+1	i really have no idea how this place has so many _num_ star reviews .
+0	they ended up calling two more over , but it took way too long .
+1	the greeter had no idea what he was doing .
+0	customer service was poor and unfriendly .
+1	`` whoever put the muffler on had no idea what they were doing . ''
+0	this place is one of the worst dental offices i 've ever walked into .
+1	because i had no idea this place was even there .
+0	i asked them three times to please try and they refused all three times .
+1	not my idea of good food .
+0	i dined at morton 's last night jan _num_ , _num_ .
+1	how she puts up with him ... i have no idea !
+0	still , i think there are newer hotels that provide the same .
+1	have no idea if the food is any good .
+0	poor service and the food was overpriced for the quality .
+1	patients that had no idea i had been there for over _num_ hours .
+0	however , every times i drive thru pittsburgh , i always stopped here .
+1	i have no idea why i am here again !
+0	the other thing i do not like about this place are their hours .
+1	as was the idea of buying a road bike .
+0	they do not take responsibility for their mistakes .
+1	_num_ stars for the idea .
+0	food was bland and tasteless and she never bothered to fill our drinks .
+1	no idea why a restaurant owner would keep their place in this way .
+0	i just have to wonder why lidia would create a menu like this .
+1	what in gods name does that mean i have no idea ?
+0	what the hell !
+1	no idea how long he will be able to work now .
+0	overall , shopping there is a poor experience .
+1	wrong idea .
+0	i will not be going back .
+1	no idea how she got her position as owner .
+0	his immediate reaction was rolling his eyes and said no we do n't !
+1	and butter served at the right temperature , that 's a novel idea !
+0	this store is terrible .
+1	it appeared as though she has no idea what she was doing .
+0	very disappointing .
+1	wait staff had no idea what was going on .
+0	however , the last few times we have been there it has been terrible .
+1	burnt pizza and canned sauce is not my idea of good italian cooking .
+0	but for those considering a long distance purchase , just beware a bit .
+1	you have no idea how badly i want to like this place .
+0	i was originally told it would take _num_ mins .
+1	i really have no idea how this dump has a _num_ star rating .
+0	a cup given with no ice and a bottle of soda ?
+1	the menu said nothing about that , so i had no idea .
+0	i wo n't go back .
+1	nobody has any idea of the concept of customer service .
+0	the clams were served raw with a burnt bread crumb topping .
+1	here 's an idea , put your hours of operation somewhere on your website !
+0	i should not be responsible for the bill .
+1	i found out this was a bad idea .
+0	i waited _num_ hour and _num_ minutes for my pizza to be delivered .
+1	not really my idea of good time .
+0	i ordered smoked pork chops , home fries and green beans .
+1	when we arrived , the hostess had no idea that we had a reservation .
+0	i took my young son with me so it was just dinner no alcohol .
+1	good idea , but way too heavy .
+0	food came slow and was cold .
+1	stealing from your customers is not a great idea china buffet .
+0	the dough was also fairly dense .
+1	she did n't offer any ideas for help and was quite frankly , rude .
+0	this is simply a customer service review .
+1	god , i have no idea why my relatives love this place .
+0	other times , it does n't seem so busy .
+1	not my idea of care .
+0	i was going to have so much done , too !
+1	i have no idea why it would get any five star reviews .
+0	i ordered the chicken marsala ( waitress 's favorite ) and it was disgusting .
+1	do n't order thin crust , they have no idea what they are doing .
+0	before i talked to them , i could change channels and had a picture .
+1	this place is way over crowded and i have no idea why .
+0	the gyro itself was mediocre .
+1	the idea of having pool league is to have more people spending more money .
+0	extremely long lines , and poorly trained staff .
+1	i had no idea whatsoever that i had left without test results !
+0	the visit i am reviewing was for take-out .
+1	not a good idea .
+0	'
+1	it turns out this was a terrible idea .
+0	i was highly disappointed .
+1	these kids are clueless and have no idea about quality control .
+0	the food ranges from mediocre to bland .
+1	the employees have no idea where anything is .
+0	the odd food selections are maybe a cross between southern style and fake chinese .
+1	i have no idea why one day i was craving the steak here .
+0	bad food - ordered a bagel sandwich - yuck !
+1	the employees have no idea what they are doing .
+0	my acrylic nails are crooked and shorter than i asked .
+1	the hispanic sushi chef has no idea how to make sushi .
+0	this was n't it .
+1	bad idea .
+0	have never experience such a rude interaction with a car shop .
+1	the employees are so rude and have no idea what customer service is !
+0	what a disgrace to the marriott name .
+1	i have no idea where anything is in the building .
+0	yeah , that place is that old and that outdated .
+1	had no idea that the store would have such a lack of service .
+0	the mediocre : everything else .
+1	for future customers , stop suggesting after they have acknowledged your ideas !
+0	as for the food and drink , it was just fine .
+1	she kept telling us she had no idea , no matter what we asked .
+0	hate the place !
+1	personally , my opinion is that this is a bad idea .
+0	probably wo n't be back .
+1	she had no idea of when the next flight would leave .
+0	my friends had left this woman at least a _num_ % tip .
+1	`` no idea yet '' was my answer .
+0	horrible experience .
+1	no idea !
+0	the only interior cleaning was vacuum .
+1	we asked to sit outside and that was the worst idea ever .
+0	i sat down in the chair for pedicure .
+1	the staff also has no idea what the hours are .
+0	this place is beautiful but not worth the money , stress , or headache .
+1	i havent the slightest of ideas as to how this place is still open .
+0	you know what was the worst thing , though ?
+1	he then informed me he had no idea when she would be back in .
+0	he was very busy working on multiple people at the same time .
+1	coming here was not my idea .
+0	rice is a little plain but i just add some soy sauce .
+1	i had no idea that the jeweler lacked major experience .
+0	if i had to use one word to describe my experience : depressing .
+1	hanging out in a greyhound station is not my idea of fun .
+0	let me repeat , never again .
+1	forget the idea of finishing in two years .
+0	over charge and terrible food .
+1	the new teacher had no idea how to control him and just ignored him .
+0	this alone i would have given _num_ stars .
+1	he appeared to have no idea what he was doing half the time .
+0	there are better options .
+1	but otherwise , this was n't a great idea .
+0	egg roll and fried rice is too greasy .
+1	when i arrived no one had any idea what was going on .
+0	i gave him my drink order and then he asked for our dinner order .
+1	not such a great idea , as it turns out .
+0	Neutral
+1	they said they have no idea where the dogs are now .
+0	if i could give zero stars i would .
+1	she had no idea what she was doing .
+0	dogs also get some time to run in a huge play area outside .
+1	employees have no idea what is going or even what area they are working .
+0	i went to exchange a product , instead i just returned .
+1	the waiters had no idea what they were doing or what they had .
+0	save your $ _num_ and skip this place .
+1	i have n't seen that before , but it 's a great idea !
+0	sure , it 's friday a busy night so an hour seemed reasonable .
+1	mmmmm , not my idea of clean .
+0	wow ... we 're we disappointed .
+1	i have no idea why this place gets such good reviews .
+0	_num_ minutes later my date had finished his meal and my fries were gone .
+1	thought i would give them a 2nd chance ... bad idea !
+0	i wo n't go back .
+1	transmission flush not a good idea .
+0	hostess was extremely unprofessional and rude !
+1	they had no idea how long it would take .
+0	the drinks were n't anything special either .
+1	bad idea !
+0	ordered a glass of wine and beers for my companions .
+1	i 'm sorry but i have no idea why anyone likes this place .
+0	if your seeking genuine medical attention i would strongly suggest another facility .
+1	not my idea of a resort .
+0	then again , we were in pittsburgh , so it 's a given .
+1	what a dumb idea .
+0	tonight was my second attempt here .
+1	but of course , this also sounds like a pretty horrible idea .
+0	the flavor is ok but why is the dog so skinny ?
+1	i have no idea , but the end result was a very cold wrap .
+0	i would prefer to leave _num_ stars .
+1	i really have no idea what it is .
+0	after waiting for 5-10 minutes , she went back to the sales person .
+1	i have no idea what the heck they did to bend my key !
+0	try house of lee instead .
+1	i have no idea why people think this food is great .
+0	kmart is doing okay as is the giant eagle .
+1	would have complained to the manager but had no idea who they were .
+0	it 's lettuce , cheese , and pine nuts !
+1	still no idea when these blinds will arrive .
+0	i sent all the food back shortly into the meal because it was cold .
+1	i also have no idea what was in the water .
+0	sure enough , a few minutes later it was on my table .
+1	this is my first time i had no idea .
+0	i could not even eat one !
+1	this was probably the worse idea i ever had .
+0	it was clear to me this burger was not fresh .
+1	this place is a bad idea all around .
+0	finally , we just said thanks , but no thanks and left .
+1	i really have no idea how this place has a _num_ star rating .
+0	i wish i would have taken a picture .
+1	it was weird and i have no idea what was in it .
+0	i would caution against this rental company .
+1	oh , and the staff have no idea what they are doing .
+0	service was great but it sure was n't morton 's quality ?
+1	i have no idea wth was up with this place .
+0	this place sucks .
+1	good idea , but poorly executed food .
+0	i am a fan of olive garden but this one is horrible !
+1	i used to enjoy applebees and quite honestly i have no idea what happened .
+0	he gave me big time attitude and commented that i took it apart .
+1	i have no idea why they are in business .
+0	after i ordered , the waiter came back twice .
+1	manager is totally incompetent and has no idea how to use a computer !
+0	that is a downfall .
+1	not a good idea !
+0	the breading was much too heavy and you could barely taste the vegetable .
+1	i have a better idea , i just wo n't go back .
+0	horrible service !
+1	too bad , i love the idea of a locally owned business being successful .
+0	if i could give this place _num_ starts i would .
+1	you obviously do n't understand the idea of cool .
+0	look elsewhere there is a lot surrounding this place so you have options .
+1	we paid all our money upfront , bad idea .
+0	i have been there _num_ times .
+1	and who the hell 's idea was it to carpet a bar ?
+0	i am not holding my breath here .
+1	i have no idea exactly , perhaps i do n't speak their language .
+0	clearly there are zero expectations for customer service here .
+1	i totally have no idea about why there is no waiters in this restaurant .
+0	cheese fries , burgers , some salads , mediocre pasta , etc .
+1	anyways , i think the ideas here are good , just need better execution .
+0	terrible customer service .
+1	the person i spoke with had no idea what was going on .
+0	unfortunately , it 's more than a lot of other comparable places in uptown .
+1	i have no idea why this place has so much business .
+0	for shame !
+1	i have no idea why this place is so highly rated .
+0	and it seems like everybody that goes in there are trashy and rude .
+1	which the bench under the tv is an absolutely terrible idea !
+0	this is what some would refer to as , terrible and heavy .
+1	she does n't like people to browse and look at stuff to get ideas .
+0	it was thick and gooey and the flavor did n't wow .
+1	the employees inside had no idea that there was an order matching our number .
+0	there were fruit flies everywhere .
+1	what a horrible idea .
+0	do no stay here if you plan to sleep before 2:30 am .
+1	the food here is awful , if your going for drinks , great idea !
+0	i 've had much worse .
+1	i have no idea who goes to this restaurant .
+0	i do n't like coleslaw .
+1	worst idea ever .
+0	i paid $ _num_ for a partial .
+1	no idea of the sodium content of that chicken salad .
+0	it 's extremely disappointing to receive the wrong food .
+1	eh , yea , no not my idea of what i had in mind .
+0	let me start off by saying , i hate the dentist .
+1	i however had better ideas for my day off .

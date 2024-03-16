@@ -1,0 +1,40 @@
+0	first bad experience at this place .
+1	i wish i can rate this a _num_ .
+0	if you want bland tasteless food , then stop here .
+1	do n't stay here if you are paying a regular rate .
+0	the sad part is that its not even the technicians fault .
+1	this place does n't rate a one star .
+0	they refuse to put a camera in the package room , parking lot too .
+1	i would rate it a _num_ if i could .
+0	there are better places in pittsburgh to get a burger and fries .
+1	the room was expensive , especially considering the summer rates .
+0	it was quite small though .
+1	if i could rate this a zero , i would !
+0	rude , crowded , and most importantly not that great !
+1	at this rate , i 'm surprised they even have customers .
+0	bottle of coke had icy slush in it .
+1	_num_ star is honestly too much to rate my visit .
+0	_num_ .
+1	in the summer rental rates go down last i checked .
+0	first of all , our service was awful .
+1	if i could , i would rate this facility with a minus _num_ .
+0	alexander 's offers some of the worst italian food i 've ever had .
+1	if i could rate it zero i would .
+0	now it 's just more expensive .
+1	overall , was n't even worth a discounted rate .
+0	furthermore , it took forever just to get our waitress 's attention .
+1	then handed him the contract stating our daily rate was $ _num_ !
+0	went to barnes and noble waterfront with _num_ books on my list .
+1	if it was possible to rate this place a _num_ , i would .
+0	it was a tofu , vegetables , and wide rice noodles entree .
+1	if i could rate this shop a negative _num_ star rating i would .
+0	do n't you care about your reputation and good name ?
+1	the rate may be cheap but it 's still too much .
+0	unfortunately the food was not .
+1	no help from the management , i will rate this poor .
+0	texture and temperature of the fish scared me .
+1	i wish i could rate this place with a _num_ star !
+0	none of our food was good .
+1	i wish i could rate this pizza hut less than one star .
+0	diner _num_ - ordered the salad with the lobster roll , hold the bread .
+1	however , if i had to rate the service it would be zero stars .

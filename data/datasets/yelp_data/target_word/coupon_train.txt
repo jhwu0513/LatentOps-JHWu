@@ -1,0 +1,400 @@
+0	the mattress was borderline uncomfortable .
+1	mother coupons used to be a great deal , but now they are horrible .
+0	( no where on the contract does it state that ! )
+1	unlike the home store though , they do n't take expired coupons .
+0	ugh .
+1	the gentleman that took my coupon said i could n't use it .
+0	my pizza was okay , nothing yummy .
+1	this gas station will not accept manufacturer coupons from the products that they sell .
+0	wrong !
+1	not the best but wanted breakfast and had a coupon for the family .
+0	my salad was missing _num_ items that were supposed to be on the salad .
+1	when i got to the register they would not accept honor the coupon .
+0	services between spas are typically the same .
+1	i had to repeat my order _num_ times stating i had a coupon .
+0	in my opinion , sing sing is really not worth it .
+1	no here 's a coupon for your trouble .
+0	very low quality food for the price .
+1	ate here once with a buy one , get one coupon .
+0	what a disgrace to the marriott name .
+1	pro tip , i 'm not going to be using that coupon .
+0	instead , my total was about $ _num_ .
+1	the fact is they just did n't want to honor their coupon .
+0	shrimp and scallop with garlic was bland as hell .
+1	i also filed a police report and i contacted the coupon people .
+0	yes i know sometimes things could land i 'm my food .
+1	they gave us a coupon for a _num_ drink for later .
+0	i had a very unfortunate experience with this groomer .
+1	i also had a coupon and it did n't take off the right amount .
+0	from the bakery , you walk along a long meat wall .
+1	the coupon was spend _num_ , get _num_ off .
+0	they just lost a loyal customer ... never again .
+1	the coupon also said that they offered toppings for $ _num_ .
+0	it was also virtually tasteless .
+1	we went because we had a coupon , but we were still disappointed .
+0	was n't very busy which was a plus .
+1	but this last time , i did have a coupon .
+0	i just ate half of a cockroach .
+1	the coupon said $ _num_ off for a pound or more .
+0	the fries were bad .
+1	it is a little overpriced even with coupons for the quality of food .
+0	i was so confused and annoyed that i just left after paying .
+1	then i gave her my coupon .
+0	i took the olive oil off the table next to ours .
+1	he had it all picked out and had his coupon ready .
+0	this mall is dead !
+1	lastly , they do n't honor coupons the correct way .
+0	very bad experience .
+1	no hidden cost or shop fees the coupon said .
+0	waste of a cheat meal .
+1	no coupon or advertised special could bring us back .
+0	not worth it .
+1	nowhere on their site does it say the coupon is n't valid today .
+0	pedicure 's are overpriced and they do basically nothing .
+1	not just anyone can create a fake coupon and post on that site .
+0	female manager on duty asked for $ _num_ in exchange for a pizza .
+1	but , it was not honored and the coupon had not been expired !
+0	ordered crab cakes , they were dry and the crab tasted old as well .
+1	avoid this place and the free coupons they give you to go here .
+0	it took _num_ months for them to resolve this situation .
+1	they also hate people with coupons .
+0	i went and told carmax and they said ford was lying .
+1	it was _num_ bucks with a drink since i did not have a coupon .
+0	battered and fried .
+1	also , watch out for the coupon specials .
+0	food takes forever and it does n't come out right .
+1	i had purchased an online coupon quite a long time ago .
+0	but then two waitresses kept coming and going without even looking at me .
+1	luckily i had a $ _num_ off coupon which helped .
+0	it did n't taste bad by any means , but not restaurant quality .
+1	who says no to a coupon that is printed in black and white .
+0	the owner refuses to take care of black people .
+1	we had a coupon so last week , i ordered two gluten free pizzas .
+0	the service , in my opinion , is often quite rude .
+1	certainly will not be going here again even with coupon .
+0	service was very bad today .
+1	as a tip , always check the internet for coupon codes .
+0	it tasted more steamed than hot grilled .
+1	fyi - take out menu has coupons on the back !
+0	this shell station is horrible .
+1	they gave me a coupon for a free sandwich .
+0	unfortunately i do n't know what happened ?
+1	and i do n't need a coupon to eat there .
+0	i was originally told it would take _num_ mins .
+1	no offer of a `` next oil change is on us '' coupon .
+0	_num_ .
+1	so let me go over this : i have a coupon .
+0	salad will come first , then a couple of dogs , then fries .
+1	the person who rang me up gave me a free oil change coupon .
+0	bad planning and execution ?
+1	wo n't accept coupons printed directly from arby 's official website .
+0	it is n't a bad experience .
+1	then why the fuck did you give me the coupon ?
+0	a little goodwill would have cost them nothing .
+1	fine ... no big deal , i got to use my coupon .
+0	started with the bathrooms ... rarely cleaned , rarely working .
+1	the second time i ate there after purchasing the yelp coupon .
+0	very poor management .
+1	online coupons used to be more generous too .
+0	the place was empty .
+1	the only reason it was worth going , was the coupon .
+0	who on earth could possibly find this place worth returning to ?
+1	okay store , they do n't offer double coupons , only at face value .
+0	yep , this place is terrible .
+1	in conclusion , we would not go back even with a free coupon .
+0	never been here before .
+1	it does n't matter that you have a coupon .
+0	the pizza was really really greasy .
+1	i 'll be throwing the other coupons in the trash .
+0	the food is n't fresh .
+1	within _num_ minutes our deal chicken coupon was good again .
+0	thinking back and forth on it did n't seem right .
+1	the small print on the coupon stated after _num_ pm .
+0	your menu is n't that big !
+1	my husband received a coupon via email for $ _num_ off an oil change .
+0	this results in my paying $ _num_ i should n't have had to pay .
+1	skimpy on the beef , and they add requirements to coupons .
+0	it was not good .
+1	if i did n't have a coupon , i would n't have gone .
+0	it was off .
+1	if you have a coupon , do n't even think about it .
+0	do they not make fresh brew coffee .
+1	i purchased a groupon coupon which had no expiration date .
+0	i can send it to marriott if requested . )
+1	the coupon gave me pretty much any menu item with a drink purchase .
+0	which is pretty sad .
+1	they refused to give us another coupon for the remaining amount .
+0	i ordered two chicken finger kids meals and two adult meals .
+1	we ate saturday night , and used a restaurant dot com coupon .
+0	finally they allowed me to put down cash .
+1	so i was given a a supreme wash coupon from a family member .
+0	)
+1	there was no apology for their mistake , no coupons or discounts offered .
+0	whatever the case , they have cold guinness .
+1	they sent me a coupon for a free salad , that was nice .
+0	will not be coming back to this place unless i 'm dragged .
+1	not very coupon friendly .
+0	not worth the trip .
+1	i tried dean 's because i had a coupon for a free hair cut .
+0	i may or may not come back .
+1	this is a very misleading coupon .
+0	random pizza toppings on lettuce ) this time around .
+1	i and two other customers had a coupon for frys large eggs .
+0	all i can really say is that she was a real ball of sunshine .
+1	my main issue is they do n't take coupons on a smart phone .
+0	the management is horrible and never understanding .
+1	do n't try to use your entertainment coupon here .
+0	so we called back and asked for our money back .
+1	tried to up charge me for everything because i had a coupon .
+0	they all look like they hate their job .
+1	i had a $ _num_ off $ _num_ coupon which i used there .
+0	huge fail for this type of venue .
+1	skimpy on the beef and wo n't honor free cookie coupon .
+0	it 's just not that good .
+1	they gave us a coupon to try them again at a later time .
+0	the customers and the staff are miserable at red white and blue .
+1	one friend had a $ _num_ coupon that had expired in june .
+0	not going to recommend it to anyone .
+1	i purchased a product there and used a discount coupon .
+0	the cost of the alterations were $ _num_ !
+1	plus he gave use a few coupons for free appetizers .
+0	they also rushed me during my final fitting .
+1	he would let me have a $ _num_ coupon .
+0	she did not greet me as i opened the door .
+1	but not $ _num_ each without a coupon .
+0	too many other choices in charlotte to come back here .
+1	i already had _num_ % off on line from coupons so this was insulting .
+0	is it worth the $ _num_ cover on fridays ?
+1	the coupon was just to get customers in the door .
+0	most indoor ranges charge by lane , not person .
+1	i handed him the coupon and money .
+0	my hope is that they fix their problems .
+1	she apologized for the wait and gave me a $ _num_ off coupon .
+0	finally , i find one after _num_ minutes of wondering around .
+1	- coupon book came with _num_ play of free bowling .
+0	they had a dj so there was a cover of $ _num_ - boo !
+1	i attempted to use my _num_ for _num_ coupon .
+0	not at this location , at least .
+1	i said , yeah , can i get like a coupon or something ?
+0	it took about _num_ minutes , minimum , to get our first drinks .
+1	without the coupon it would have cost me $ _num_ !
+0	their salads and breadsticks are the only real reason to go there anymore ... !
+1	very good value when they put out coupons .
+0	i have nothing good to say about this place .
+1	i ended up buying the lil cake which i couldnt use the coupon for .
+0	probably should have gotten a salad .
+1	their website always has decent coupons too .
+0	gave me a texas number .
+1	i only buy the pizza if i have a coupon .
+0	the wild boar ravioli tasted fine , but the presentation was seriously lacking .
+1	first visit we used _num_ of the free meal coupons .
+0	i wo n't go back .
+1	the staff would n't allow us to sit together and use both coupons .
+0	years and years of spilled food / blood from the meat department and etc .
+1	i had n't the cashier my coupon .
+0	my husband had a margarita and my server suggested a berry mojito to me .
+1	he came back with _num_ $ _num_ coupons good on purchase of $ _num_ .
+0	fifteen minutes later , the waitress returned , but not with our food .
+1	thank goodness i used my coupon for $ _num_ off of our check !
+0	i would n't even have cooked this way for an enemy .
+1	the manager came out w/ apologies , his card , and coupons .
+0	it 's a hit and miss .
+1	check for coupons at giant , local flavor , and other places .
+0	no one else in the same dining room .
+1	she did n't know how to even take my order or enter a coupon .
+0	i would not go out of my way or tell friends about this place .
+1	the manager gave us a _num_ % off coupon for next time .
+0	over crowded , loud , and not a relaxing experience .
+1	the coupon was applied but he had forgotten _num_ of our credit cards .
+0	the seafood tasted old .
+1	i suppose your $ _num_ brake special already includes the coupon .
+0	the side of vegetables were well cooked , buy again lacked any real flavor .
+1	do n't trust this groupon coupons at all .
+0	cheap food but my chicken was burnt .
+1	they should not put out coupons if they are n't going to honor them .
+0	it was average , but not restaurant quality .
+1	the bill was $ _num_ , after a $ _num_ coupon .
+0	_num_ the bread .
+1	if he wants to sell coupons , he 's definitely in the wrong job .
+0	this one , however , leaves a lot to be desired .
+1	i 'm here because they had coupons .
+0	only had a bite of that and threw it away .
+1	rude employees , would not honor my coupon .
+0	there were no open tables , despite having reservations .
+1	went in with a _num_ coupon for oil change .
+0	avoid until this store gets its act together .
+1	tried this place because we had a coupon .
+0	i also thing d & b is n't the cleanest place either .
+1	the coupon was not applied so we flagged him down again .
+0	the restaurant is so small and they have a problem with managing customers .
+1	i loaded up the family and the free ice cream coupons .
+0	for some odd reason , local aaa offices dont post their phone number online ?
+1	( all before a $ _num_ off coupon ) .
+0	wish i had looked it up earlier .
+1	did not honor coupon .
+0	even the water tasted weird .
+1	i have a coupon for free _num_ inch pizza when purchasing _num_ inch pizza .
+0	only _num_ times .
+1	so , a few days ago , i decided to redeem my coupons .
+0	mine was just disappointing .
+1	the coupon says $ _num_ per day .
+0	he was there for approximately _num_ minutes .
+1	the family member i was with is all about discounts , coupons , etc .
+0	they booked me with a guy by the name of jason .
+1	turns out you get coupons that are like cash .
+0	i was disappointed with the selection of food as well .
+1	they said , `` our coupons on groupon are fake . ''
+0	i will say i still ate them so shame on me .
+1	then they gave us coupons to come back and sit for free next time .
+0	the chowder was basically flour stew with potatoes .
+1	they sent me a coupon with an add for an $ _num_ pedi .
+0	just do n't take your dry cleaning here .
+1	i was offered _num_ , $ _num_ off coupons .
+0	but for those considering a long distance purchase , just beware a bit .
+1	they refuse to honor subway coupons .
+0	this place went from awesome to worst after it changed owners .
+1	i 've purchased many coupons , but never have had such a terrible experience !
+0	i am never going back to this place .
+1	$ _num_ coupon for a feast .
+0	loud is an understatement .
+1	walked in with a $ _num_ oil change ( special ) coupon .
+0	i tried the gyro wrap which was also a big disappointment .
+1	heads up , $ _num_ off coupon here they will not honor .
+0	i will never return , to make any other purchases .
+1	would n't accept my coupon from verizon .
+0	she said there was no time to order another dress .
+1	we used a coupon from the paper for a _num_ topping _num_ cut sicilian .
+0	the screens were tiny and the women 's restroom smelled of stale piss .
+1	i even had a coupon for $ _num_ off a cake .
+0	as soon as i hung up the phone , the food was delivered .
+1	but on the banner it says accepts all coupons .
+0	as far as the menu , i was n't impressed .
+1	i do n't have that coupon .
+0	as dinner was my treat , i felt very awkward asking for prices .
+1	it should of been less but they would n't honor the birthday burger coupon .
+0	the customers do n't make the experience any better .
+1	the restaurant would n't honor the coupon .
+0	sent the mussels back .
+1	again , to make up for service , waitress brought by expired drink coupons .
+0	the third haircut was just awful : styled awful , looked strange .
+1	the only thing harris teeter has to offer is a better coupon policy .
+0	they are soggy and tasteless , maybe the worst i 've ever had .
+1	the service was aweful and i had my _num_ year olds free birthday coupon .
+0	i was _num_ minutes early for the bus i was trying to catch .
+1	one coupon per visit .
+0	the waitress then proceeded to say the mussels were ready .
+1	did the yelp check in coupon for $ _num_ off .
+0	it does n't feel fair .
+1	the guy working the counter would n't honor the coupon .
+0	do not go to this restaurant !
+1	note : never walk in holding a coupon in hand and avoid mike .
+0	in fact i was quite disappointed .
+1	the young man who greeted me seemed a little turned off by my coupon .
+0	needless to say we wo n't be back !
+1	thank god i only went there on a $ _num_ coupon .
+0	thats as american as fortune cookies .
+1	i got my receipt and sure enough she left off one of the coupons .
+0	however , the last few times we have been there it has been terrible .
+1	i used a restaurant.com coupon and wish i had n't .
+0	granted , it was a friday morning , but still .
+1	the coupons at sweet tomatoes are worthless .
+0	when we did finally get our food , it was ice cold .
+1	luckily we had a coupon because that was $ _num_ .
+0	finally , someone wandered in from the back and rang up our items .
+1	it said nowhere on the coupon dine in only .
+0	the only items that are good there are the bacon and toast .
+1	went here with a coupon , otherwise would have definitely not been worth it .
+0	it 's like breakfast at most any other diner .
+1	even with a good coupon this place was not worth it .
+0	went to this place for lunch last saturday , party of five .
+1	and , even with the coupons , the place is not cheap .
+0	the pancakes were ok , a little mushy but flavorful .
+1	she even gave us coupons for a free visit .
+0	unfortunately , the worst part of my meal were the steaks .
+1	the only thing you can use this worthless coupon on is their junk .
+0	after that i would say sprint is the 5th worst .
+1	her excuse : we pay way too much for coupons and advertising .
+0	lidia should be ashamed that this is being run this way .
+1	the coupon was not expired !
+0	panera bread has to be the most inconsistent restaurant i have ever been to .
+1	i showed him my coupon , and asked him if he accepted them .
+0	just thought you should know .
+1	also had a coupon that she was annoyed that i had .
+0	they literally just threw the wings in the fryer and delivered it to us .
+1	problem is , the coupon did not state that .
+0	not very tasty .
+1	that 's not called a gift certificate , that is a coupon .
+0	both drinks were overly sweet and barely any alcohol .
+1	not even the shoes are covered by this coupon .
+0	_num_ .
+1	you can also select online coupons to load to your card from the website .
+0	i sent all the food back shortly into the meal because it was cold .
+1	one time they would n't take a coupon .
+0	almost every time i have been let down .
+1	do n't show up with a coupon expecting them to honor it .
+0	the fish itself was bland .
+1	i had a coupon so stopped by for lunch .
+0	our food is always wrong .
+1	they gave me a $ _num_ coupon as an apology .
+0	dirty tables , i agree with the other reviews here .
+1	service is great and they always send us coupons .
+0	words could not describe my disappointment .
+1	even with the coupon however , it was too pricey for what we got .
+0	we went here for easter buffet and the money it was not worth it .
+1	no wonder they need coupons for customers .
+0	horrible service .
+1	despite the coupon savings it 's no deal for poor quality food .
+0	it was really , really , not good .
+1	even with a coupon it cost $ _num_ .
+0	the only employee i could see in the entire restaurant was the bartender !
+1	did not accept coupon or the yelp check in offer for my watch repair .
+0	- original pretzel appetizer .
+1	but that is not written on the coupon .
+0	the whole experience was absolutely ridiculous .
+1	$ _num_ total before our $ _num_ restaurant.com coupon .
+0	extremely disappointed in this dish .
+1	no alcohol with new coupons .
+0	it all had no taste !
+1	even with a coupon this place is expensive .
+0	the chicken tasted suspect and the rice was mushy .
+1	it seems prices have been adjusted up to cover heavy coupon use .
+0	service was extremely poor and bar service was also extremely poor .
+1	we had a coupon and was craving steak so we went here .
+0	firstly , the food had no flavor .
+1	forget the coupon , i 'll go elsewhere next time .
+0	_num_ .
+1	sent my wife in to take advantage of the coupon .
+0	what they said was `` i do n't know what you 're talking about .
+1	limit _num_ coupon per person per day .
+0	all of it was overpriced and below mediocre .
+1	do n't fall for their _num_ % off coupon either !
+0	this place is empty ... .
+1	shame on me , i guess , for not getting a coupon .
+0	so fool me once , shame on me .
+1	no coupon necessary .
+0	hubby did n't mind his , my was terrible ... horrendous .
+1	my husband brought in a suit and a $ _num_ coupon .
+0	as another reviewer said it was set up weird .
+1	i really did n't care about price at the time with the coupon .
+0	potato pancakes taste like they had vinegar in them .
+1	we used a coupon buy one get on free .
+0	they have the worst transportation service ever in pittsburgh .
+1	did get a coupon for a return visit .
+0	the food is poor .
+1	do n't bother to go through their website for coupons or deals .
+0	slowest deli department in town .
+1	they no longer accept competitor coupons either .
+0	the rent is too damn high .
+1	i purchased a groupon coupon , called and made an appointment .
+0	the wait for _num_ rolls and _num_ pieces of sashimi took over _num_ minutes .
+1	o , there is a $ _num_ coupon on their website .
+0	it does nothing to support the brand of lidia .
+1	i just got ta get these coupon thing down .
+0	the cashier had no idea what we were asking for .
+1	my coupons have always worked fine at this location .
+0	very disappointing .
+1	gave us free drinks , and coupons .
+0	avoid the valet at all costs !
+1	the owner gave me a coupon for _num_ % off the next order .
+0	the breadsticks were sitting a in pool of oil .
+1	do n't use coupon !

@@ -1,0 +1,40 @@
+0	gave me a texas number .
+1	the vegetables were overcooked and mushy !
+0	barely reheated naan .
+1	the pasta was overcooked and the shrimp just sort of were there .
+0	do n't do it !
+1	the eggplant was overcooked and had an unappealing texture .
+0	the restaurant setting is very typical of a vietnamese restaurant .
+1	the shrimp was very dry and overcooked .
+0	bottle of coke had icy slush in it .
+1	both steaks were overcooked !
+0	the hilton would probably have been better or perhaps any of the other hotels .
+1	way overcooked and dried out .
+0	waited for the shuttle around _num_ min at the airport .
+1	both were overcooked .
+0	i did not receive water or any service for _num_ minutes .
+1	the shrimp was overcooked and tough .
+0	o my pittsburgh pirates .
+1	the lobster was just ok , the basil pasta was overcooked .
+0	the restaurant is located in a tired part of town .
+1	if you like horrible service and overcooked food service try out cabo for eats .
+0	i will not go back until they are gone .
+1	as a result they came out overcooked .
+0	really do n't know what to say .
+1	but , they were so overcooked , they were nearly impossible to eat .
+0	horrible service and food was bland .
+1	the shrimp were way overcooked and the entire meal lacked any real flavor .
+0	it is just disgusting .
+1	the noodles were burnt and the pork overcooked .
+0	i have never in my life seen anything like it .
+1	the beans and rice were overcooked was another comment .
+0	)
+1	food was overcooked and not even fresh !
+0	well , i have never felt more embarrassed in a situation .
+1	chicken strips overcooked with a hard crust .
+0	neither i nor my husband understood the hype about this place .
+1	two of our four steaks were grossly overcooked and had to be sent back .
+0	i ca n't even guess how unsanitary it might be .
+1	the noodles were overcooked and mushy .
+0	to be fair , our assigned server was very nice .
+1	it was good but overcooked by two levels .

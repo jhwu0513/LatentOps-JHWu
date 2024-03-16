@@ -1,0 +1,40 @@
+0	it was just all around bland .
+1	i can never find a seat and no one ever leaves .
+0	it was a small roll cut into _num_ pieces ( maki ) .
+1	it took _num_ or so minutes to get a seat .
+0	they changed it without notice , i 'm a little bitter .
+1	people walked in after us and were seated .
+0	not cool .
+1	there was an hour wait to be seated .
+0	so , that was really disappointing .
+1	seating inside is very limited .
+0	my wife 's dinner was bland .
+1	we were seated , and had to wait awhile for service .
+0	i needed a patch so i could go on about my day .
+1	big store , lots of seating and staff , filthy .
+0	so we again go off in search of someone to help .
+1	so we get seated and still had to wait forever for chips and drinks .
+0	terribly salty `` lobster roll '' on greasy bread .
+1	there were plenty of empty tables so they did seat us right away .
+0	linda is a quite arrogant woman with bad attitude .
+1	we were seated quickly enough , but that was the only plus .
+0	strange odor - musty old smell .
+1	_num_ minutes pass and i see others that came in after me being seated .
+0	i could barely eat the salad .
+1	hostess was very awkward when seating us .
+0	after my most recent experience , however , i will never be coming back .
+1	slow service to be seated .
+0	Negative
+1	then another mom and child walked in and were seated .
+0	the inside is very dated and appears to be poorly cared for .
+1	wait time : we had a reservation , so we were seated right away .
+0	is it worth the $ _num_ cover on fridays ?
+1	filthy , bad seats , more expensive than others .
+0	no thanks casbah !
+1	i was quickly greeted , though , and directed to my seat .
+0	let 's add up those dollars , shall we , time warner ?
+1	then finally after another _num_ minutes , we were being seated .
+0	unfortunately , the food was mixed .
+1	from the minute we were seated matt , was awful and rude .
+0	when i checked out , the front desk staff was missing .
+1	i was greeted by a friendly hostess and seated at a comfy booth .

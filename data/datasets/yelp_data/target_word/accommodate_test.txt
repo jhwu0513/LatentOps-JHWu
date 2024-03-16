@@ -1,0 +1,40 @@
+0	the restaurant was about half full , i was with one other person .
+1	forget special orders : those ca n't be accommodated any longer .
+0	plus i think i found a fry or two with the vegetables .
+1	the hotel staff totally are accommodating and very friendly .
+0	not sure what star rating to give .
+1	everyone was friendly but they should be considerably more accommodating to customer requests .
+0	i just do n't understand why they 're so lazy .
+1	the servers are so nice and accommodating .
+0	at one point , they even asked me not to use the shower .
+1	their new building is very attractive and roomy and the staff is very accommodating .
+0	maybe part of the problem was expectations ?
+1	nothing was done to accommodate the crappy situation unfortunately .
+0	even if the food is great , the customer service is terrible .
+1	the new owner was extremely accommodating , personable , and honest .
+0	big disappointment .
+1	the service was very accommodating and quick !
+0	so , we again waited & never did see a server .
+1	they are accommodating , knowledgeable , affordable , and fast .
+0	there was a ton of thai basil in the dish which was quite overwhelming .
+1	so , i have bought here before and the salesman lou was very accommodating .
+0	she was super excited and counting down the days until arrival .
+1	she admitted it was she who answered yet refused to accommodate her mistake .
+0	crab fries , naturally .
+1	the front staff is very nice and accommodating .
+0	ok i said i was sorry .
+1	they explained the dishes well and accommodated our large group of _num_ .
+0	by `` multiple times '' i mean _num_ or _num_ times .
+1	but nope , we ca n't accommodate your request .
+0	we counted _num_ parties , thats it ... in a otherwise bare restaurant .
+1	front desk receptionist was great and accommodating to a late check out for us .
+0	an expensive hassle for such terrible service .
+1	, she accommodated my request for the hockey game .
+0	something happened and the wings are small dry and just generally bad .
+1	cancelled and went somewhere else that could accommodate the customers needs .
+0	even the chips and salsa are n't terribly good .
+1	staff was very nice and accommodating .
+0	iceberg lettuce , croutons , cucumbers , and dry swordfish .
+1	they could not even accommodate me within a reasonable time frame .
+0	( this becomes important later . )
+1	the food was great , the staff was very accommodating and friendly .

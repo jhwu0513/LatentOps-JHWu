@@ -1,0 +1,40 @@
+0	waitress walked away two times while opening our bottle of wine .
+1	the ribeye was almost bland and the flemings potatoes were undercooked .
+0	food is limited and all fried , that 's not a good thing either .
+1	half my dish was potato .
+0	i ca n't believe this place has n't been reviewed .
+1	go to meat & potatoes instead , and order a sandwich there .
+0	she has an attitude and reluctantly made me a new one in _num_ minutes .
+1	it came out of the kitchen with noodles instead of the potatoes .
+0	the bill was way too high .
+1	they were all crisp , no potato , and no flavor .
+0	unfortunately yelp asked to provide more details on review .
+1	my wasabi mashed potatoes were tasty although there was no hint of wasabi whatsoever .
+0	his poor management skills and rude behavior ruined our holiday .
+1	i ordered the steak kabobs with roasted vegetables and potatoes .
+0	horrible food , horrible service .
+1	the potatoes were also undercooked with not much flavor in the dish overall .
+0	my steak was not cooked to the right temperature - well vs medium well .
+1	the baked potato was overcooked and the beans super sweet with no smoke .
+0	i was too drunk and full of pita donuts to eat my dinner .
+1	the chowder was basically flour stew with potatoes .
+0	do n't waste your time with this place .
+1	their mashed potatoes were very much like the kind you make from a box .
+0	just know that they have horrible customer service and technicians .
+1	the hashbrowns just tasted like potatoes .
+0	horrible .
+1	the potatoes tasted very bland almost like dried mixed .
+0	the food was prompt , and the salad was more than enough to share .
+1	the only thing that was good was the mashed potatoes and gravy .
+0	but since its _num_ guess they are closed .
+1	garlic mashed potatoes sucked .
+0	the main courses are very low quality .
+1	the chicken was overcooked , served with bland rice and potatoes .
+0	big waste of time and gas .
+1	for dinner i ordered the pan seared scallops with red mashed potatoes .
+0	_num_ .
+1	the sweet potato chips were n't much better ; too greasy and stale .
+0	nothing really special & not worthy of the $ _num_ price tag .
+1	i ordered the creamy lobster mashed potatoes and a cup of the clam chowder .
+0	no redeeming qualities here .
+1	no , potatoes do not count .

@@ -1,0 +1,400 @@
+0	your menu is n't that big !
+1	he employees walk by dirty tables then people sit at them .
+0	that should have been my first clue to walk away .
+1	you do n't have to have people in the kitchen who act like that .
+0	the hype surrounding this place will probably lead to your great disappointment .
+1	i , like most people , do not answer `` unknown '' phone numbers .
+0	there seems to be no consideration for customers at all .
+1	when there were _num_ other counters that people could have been working .
+0	kind of gross if you ask me .
+1	since they apparently hire good people , hire more !
+0	kind of disappointed but it was five dollars for the shrimp basket i got .
+1	go to a bathroom that 's not serviced by these greedy people .
+0	waitress did apologize for cup but it was too late - chose to leave .
+1	many people told me to go here and i was totally disappointed !
+0	went for brunch and spent $ _num_ .
+1	over _num_ % of the restaurant was filled with people from our convention .
+0	he tried to `` screw '' me over .
+1	the joint seems to bring out a giant stack of stupid in people .
+0	that reminds me - the slices are huge , and are $ _num_ .
+1	these people are unbelievable !
+0	when to pay is confusing .
+1	went with a group of about _num_ - _num_ people on a thursday night .
+0	i was not even acknowledged .
+1	they need to get some help in here or people will stop coming !
+0	the `` customer '' service and pharmacy are terrible at this location !
+1	i prefer a crisp cold salad like most people .
+0	i see the server standing right there with no response .
+1	i know some people have off days but this was bad .
+0	i could taste absolutely nothing from her veal .
+1	there were about _num_ people crammed into the main room , paying .
+0	extremely slow service !
+1	think twice people before going here .
+0	both were so bland i could have prepared a better version at home .
+1	i will tell people not to go there and i will never go back .
+0	but the situation inside is fairly ridiculous .
+1	the people are rude !
+0	overall not impressed .
+1	they did n't let people in because they claimed the room was not ready .
+0	good cheap food .
+1	awful place with rude people .
+0	and that its all the owners fault about the price .
+1	i do n't really take kindly to people speaking so rudely to my mother .
+0	the fried chicken was pretty bland .
+1	there were nine people in the bar section .
+0	do not go for the pumpkin patch !
+1	the restaurant was clean and the people working were friendly .
+0	they tried to fix the broken telephone but were n't really successful .
+1	i could n't understand why people raving about it too much .
+0	pay more elsewhere for better quality .
+1	it was like getting waited on by 1st job people .
+0	this is a neighborhood denny 's with a bar .
+1	american airlines did n't tell people that .
+0	the fried chicken was straight forward .
+1	breakfast was crappy and there are always shady people in the parking lot .
+0	spicy crab soup did not have crab meant in it .
+1	people walked in after us and were seated .
+0	Neutral
+1	i could feel people staring at the backs of our heads as we left .
+0	going through aaa is a bit worse than your average dmv .
+1	only people in the place and the waitress messed up a simple order .
+0	avoid this place at all costs .
+1	i ca n't believe people like this food .
+0	tried to buy a book and have it shipped as a christmas present .
+1	who are you people giving these stupid reviews ?
+0	baked ziti is supposed to have a lot of cheese and sauce .
+1	very slow night only _num_ people there .
+0	seating is first come , first served .
+1	do n't understand why people are obsessed with nasty fried chicken .
+0	i live _num_ minutes from their location .
+1	people are rude there as well .
+0	the store feels cluttered because there is so much stuff everywhere .
+1	i do n't think i 've ever encountered such a miserable bunch of people .
+0	my other issue is their restaurants are all filthy .
+1	multiple people acted really rude .
+0	if you want rock bottom food , head to rock bottom .
+1	just want people to understand truth in advertising .
+0	i think we waited about _num_ mins , which was n't bad .
+1	i will not be back to see year people again !
+0	we stayed at the shadyside inn for months and spent thousands of dollars .
+1	i really think people buy these cakes because they do n't know any better .
+0	our waitress was very polite , though .
+1	these people do not return your calls and they dont want to help you .
+0	because i really want to like harris grill .
+1	all the white people get to eat , we do not ?
+0	why could n't they take a couple minutes and wrap our gift for us ?
+1	i would not entertain having an event for any more than _num_ people .
+0	owners , please stick to your business hours .
+1	after $ _num_ for _num_ people , i was not impressed .
+0	it costs $ _num_ for a manicure and $ _num_ for a pedicure .
+1	never , ever use these incompetent people for property management .
+0	that 's just nasty !
+1	he knew he had issues , bad people and a huge problem .
+0	it was nasty .
+1	somebody teach these people some customer service .
+0	the food was gross and i usually would n't say that about a place .
+1	it was pretty busy and there were people everywhere .
+0	am i the only one ?
+1	not sure what people see here but it 's a never again .
+0	hands down , this was the worst we 've ever had .
+1	another mistake was sitting outside when they are trying to bring people in .
+0	no additional fans , nothing .
+1	the people are quite possibly the rudest i have ever met .
+0	no he did n't !
+1	one of the people working said that was probably because of `` renovations . ''
+0	but it 's not good for longer stays or repeat visits .
+1	not many people in there tonight so the selection of pizza seemed minimal tonight .
+0	ugh .
+1	good for kids , bad for people who appreciate good japanese food .
+0	i was excited about dining at this place before _num_ minutes of frustration .
+1	_num_ dollars for _num_ people .
+0	the downtown office has ruined america 's best for me forever .
+1	people were not kidding when they said hertz are terrible .
+0	the moo shu pork was forgettable .
+1	yuk , i said that 's disgusting people have to eat that .
+0	we woke up late and missed the breakfast hours of our favorite place .
+1	the people all look like they hate their jobs and treat the customers accordingly .
+0	second , the steak hoagie , it is atrocious .
+1	i ca n't believe people rate this four stars on average .
+0	my return is questionable .
+1	people just seemed to be standing around this whole place for no reason .
+0	wo n't be going back .
+1	very sad that there are people out there taking advantage of per owners .
+0	his poor management skills and rude behavior ruined our holiday .
+1	the wrong people are running it .
+0	zero flavor , zero filling , frozen wan tons ?
+1	we ended up paying $ _num_ for _num_ people without any drinks .
+0	shady and terribly run nail salon .
+1	i do n't understand why people love this place .
+0	she never even looked at me .
+1	do not use these people for your dry cleaning needs !
+0	learn from my mistake .
+1	how were _num_ people in the _num_ seat restaurant and one small takeout order .
+0	not very tasty .
+1	i could n't hear the people at my own table it was so loud .
+0	but this was not what i had in mind .
+1	i do n't know why people are giving it such rave reviews .
+0	maybe i just had a bad day .
+1	they squeezed _num_ people into _num_ small tables given the restaurant was fairly empty .
+0	not going back again .
+1	often see people sitting on the floor at some gates .
+0	i do n't care for primanti brothers .
+1	i will never order pizza from this store nor any people i know !
+0	if there was a way to give no stars i would .
+1	$ _num_ mistake ( _num_ people ) .
+0	he make sure that all of the customers incorrect orders are made correctly .
+1	seared ahi tuna sandwich - _num_ people in our group got this .
+0	their orange juice is never too tart , never too sweet .
+1	these people are clueless .
+0	yes this is also a con because i threw it away .
+1	lots of people running around like crazy and if your understaffed hire more people !
+0	i only eat the hot and sour the night we ordered our take out .
+1	ok , you people need to get out of central illinois more ... .
+0	too bad .
+1	i do n't see why people really like this place .
+0	same guy , same attitude .
+1	there were maybe _num_ people there , all sitting at the bar .
+0	my friend got an italian sub that was ok .
+1	_num_ people behind counter but i couldnt get waited on .
+0	the pot roast by comparison had no flavor whatsoever .
+1	the people working there also do n't seem like they want to be there .
+0	unless olive garden is closed , do n't go here .
+1	the _num_ people at the front desk ignored us when we first came in .
+0	the shrimp were dry and overcooked .
+1	could n't have happened to a more deserving group of people .
+0	it was pasta , after all , one small serving of each .
+1	honestly , there were _num_ people in the restaurant .
+0	there was a list of _num_ or so entrees we could choose from .
+1	on top of that these people are condescending assholes .
+0	it was very , very bad .
+1	_num_ people ordered wine , and the first _num_ got it in wine glasses .
+0	will not be returning .
+1	my husband and i are pretty patient people , but this was ridiculous .
+0	it was clear servicing customers was an inconvenience to him .
+1	the only people getting help in there tonight were two other guys .
+0	at this point the whole place feels bad for the mother and daughter .
+1	i usually give people the benefit of the doubt but it was pretty bad .
+0	the fish sandwich is bland on a generic bun .
+1	it is only for people sitting at the bar .
+0	rather disappointed .
+1	first and far most people , i never write a bad review .
+0	the bones are small and barely have any meat on them at all .
+1	these people are the worst .
+0	unfortunately , it appears to be very poorly managed .
+1	this is the kind of coffee you serve to people you hate .
+0	sure , it 's friday a busy night so an hour seemed reasonable .
+1	rude people overall .
+0	we lucked out and go on the shuttle over without waiting in the cold .
+1	two different people in my office were reduced to tears .
+0	this is the strip district after all with many stores for crying out loud .
+1	there were maybe _num_ people around the bar .
+0	i mean , empty .
+1	uninspired chinese food from very nice people .
+0	ca n't believe a place in _num_ does n't take cards .
+1	people seem to like their pizza , so maybe go with that .
+0	my friend was not rude , not disrespectful , just looking to order food .
+1	i do n't even know why people like this place .
+0	update - went back another time and the pizza was mediocre at best .
+1	only _num_ towels for _num_ people !
+0	the cab was taking forever , so we called a different company .
+1	this `` chef '' is blatantly trying to rip people off .
+0	i paid _num_ at my local giant eagle .
+1	do not use these people , they are terrible .
+0	they are not very through .
+1	total of _num_ people together .
+0	would not go back .
+1	service was n't too bad - nice people .
+0	the worst part of it all .
+1	i was n't standing behind the people 's sitting at the bar .
+0	go to the original pancake house about _num_ minutes away for a better breakfast .
+1	seriously , all the people here have major attitude problems and need an adjustment .
+0	this place makes you feel unwelcome and dumb .
+1	people were getting refunds wait time was so long .
+0	obviously , if you choose to patronize this establishment , pay cash .
+1	these people could not care less .
+0	ugh .
+1	do not do business with these people .
+0	he said , `` no , absolutely not .
+1	the food was very meh ... _num_ people dined .
+0	it was my anniversary tonight , a tuesday .
+1	very condescending people .
+0	waiter was not thrilled to be at work on a wednesday at 5pm .
+1	this is not the way to treat potential customers and just people in general .
+0	they are in terrible shape .
+1	no wonder it is _num_ % empty but still makes people wait .
+0	at that point , i had n't put two and two together yet .
+1	i would never give these people my money again .
+0	this trip has no internet .
+1	however , the people who run this location are entirely incompetent .
+0	i would never stay in this hotel again .
+1	blew my mind away , but than again i will never get people .
+0	otherwise , food and prices are not worth a stop .
+1	people would probably tell me that i 'm expecting too much .
+0	never ever whatsoever !
+1	i think people should know how awful this place is before stepping inside .
+0	the food just is n't that great .
+1	he was very busy working on multiple people at the same time .
+0	the tv was definitely a _num_ 's model .
+1	the only plus , not many people showed up and good sound .
+0	i guess i expected fabulous -- but everything was just good , nothing spectacular .
+1	i guess a lot of people like it , and more power too them .
+0	it 's disgusting .
+1	_num_ stars for plate glass window people watching !
+0	no desk , no real work surface but an oversized tv tray .
+1	you people never fail to simply make an order correct !
+0	this rink just did n't blow my mind .
+1	hire _num_ more people .
+0	i wish someone had informed the port authority of this .
+1	what the hell is going on people ?
+0	yet again , not one courtesy call , nothing resolved .
+1	five people could n't see an opened table clearly behind them ?
+0	no fish .
+1	i do n't get why people go here just for the wings .
+0	a native all my life and never been , finally went last summer .
+1	i am from chicago and the people there are nicer than they were here .
+0	it 's clear auto only cares about quantity not quality .
+1	i ca n't even understand how people came to that conclusion .
+0	pancakes were not very good .
+1	the worst people i have seen in the business .
+0	find a better management who does n't take your money and piss on you .
+1	apparently it was a list of people that needed to be seated .
+0	what a disappointing easter dinner .
+1	there were _num_ people total sitting at the bar including our party .
+0	i was quite underwhelmed with this restaurant .
+1	every interaction seems designed to make people feel awkward .
+0	the fish itself was bland .
+1	these people do not know what they 're doing .
+0	wow ... we 're we disappointed .
+1	i 'm not sure why people like this place so much .
+0	the only good thing about the experience was the warm donuts .
+1	these people are very difficult to do business with .
+0	oh , but wait until i got my bill !
+1	just spent $ _num_ for two people at lunch .
+0	i hate that place and everyone in it .
+1	we walked in and there were already some people waiting for a table .
+0	worst .
+1	assistant manager says he had no way to contact delivery people for assistance .
+0	the pasta is consistently overcooked .
+1	i was horrified to see people in formal wear .
+0	if i could give negative stars i would .
+1	the people who work here are very rude .
+0	there are plenty of other bridal salons that would be much nicer and accommodating .
+1	i am not saying that people who like this place are any particular sort .
+0	they are soggy and tasteless , maybe the worst i 've ever had .
+1	dont hire these people .
+0	awful service , overpriced food .
+1	needless to say , we warned the next people who attempted to sit there .
+0	the bed was dirty too .
+1	the restaurant was probably half full of people .
+0	so the max you could eat is _num_ wings .
+1	horrible people .
+0	but sadly , i do n't see you at all in my future .
+1	the only thing that saved this store were the nice people that worked there .
+0	despite the size , the flavor was lacking as well as texture .
+1	there were zero other people here aside from my friend and i .
+0	absolutely the worst care in all my experience with vets !
+1	as though _num_ people was not enough .
+0	our server was nice but rushed .
+1	the people were n't friendly or helpful .
+0	why did n't i have to show some email to get the free treatment ?
+1	they hired people that had to be required to do certain areas correctly .
+0	sucked .
+1	by the time we ordered , there were _num_ other people behind us .
+0	the corn bread was the only good thing in the restaurant .
+1	otherwise , i really would n't recommend this place to other people .
+0	pros : never a dull moment .
+1	why not seat people at those tables ?
+0	she stated that she would go ask to see if something could be done .
+1	they get _num_ star because of all the adorable old people there .
+0	customer service was a joke .
+1	so disappointing that 's how people think a business should be run .
+0	it should have been a clue when they were soggy .
+1	the three people i dealt with were all rude and careless .
+0	four star _num_ diamond yea right .
+1	empty restaurant , and they would not let _num_ people sit and eat .
+0	not to mention they do n't fill your drink !
+1	do n't count on the people in this store to give you complete information .
+0	i refuse to ever set foot in this sub-par establishment again .
+1	people are crazy about it but that thing tastes extremely ridiculous .
+0	the total was $ _num_ and change .
+1	different people wash and dry your hair .
+0	_num_ stars ?
+1	fish tacos - _num_ people in our party got these .
+0	do yourself a favor and avoid the original fish market .
+1	this company and leasing managers are racist and treat people like they are nothing .
+0	i just did n't want to create a scene in front of my guest .
+1	i was meeting up with _num_ other people there .
+0	very rude staff .
+1	needs more books and homeless people .
+0	i just had such a bad experience here .
+1	it tends to bring in the worst of people .
+0	what a wreck .
+1	we had reservations for _num_ people at 7pm this past saturday .
+0	poor service .
+1	the bar was two people deep so that was nearly impossible .
+0	worst thai restaurant in pittsburgh .
+1	there is no lobby to hold people before a show .
+0	i did not receive water or any service for _num_ minutes .
+1	on another note , the people at fedex were pretty nice .
+0	ashley furniture will get my business from now on .
+1	anybody that is not would be totally screwed by these people .
+0	i do n't understand why this place think 's it has famous corned beef .
+1	overall , i was not impressed with the food but liked the people .
+0	asked for a manager , she never came to the table .
+1	lots of angry people were getting out of their cars to investigate .
+0	the variety of sauces is what gets me to come back .
+1	these people are very unprofessional and rude .
+0	it literally sounds like there is a major concert going on .
+1	then it was loud , due to people , and the bartenders .
+0	the wait for _num_ rolls and _num_ pieces of sashimi took over _num_ minutes .
+1	get over yourselves people .
+0	the lack of empathy was even more disturbing .
+1	_num_ people in lobby waiting while wait staff stand around .
+0	we ate about a quarter of the food & could n't even finish it .
+1	why people go here i ca n't understand .
+0	i signed up as they knocked at my door .
+1	the deal is kind of fake to bring people here !
+0	no taste at all .
+1	always seem to be people going in and out .
+0	the red sauce tasted like it was ketchup with sugar added .
+1	please people do n't waste your time or money here !
+0	they were also playing _num_ year old pop music really loud .
+1	another waste of time , wait until people my age get old .
+0	the fries were fairly soggy and otherwise par for the course .
+1	there were people at one other table and i believe _num_ people on staff .
+0	it was not crowded and we were seated and served promptly .
+1	we were there with six people and the entire meal was a disaster .
+0	over all this meal was a wash .
+1	other people have arrived and walked out as well .
+0	worst wait times ever , staff is inefficient .
+1	maybe it 's because people have never had real cajun cuisine before .
+0	_num_ .
+1	i looked around and there were only _num_ other people in the entire restaurant .
+0	* wasting over an hour of my time .
+1	that 's not how you treat people .
+0	it was god awful .
+1	when i told people i was going to pittsburgh , everyone recommended primanti bros .
+0	the drinks were all ice and refills were not timely .
+1	nothing special - have no idea why people would rave about this .
+0	they serve beer and wine !
+1	needless to say some people do n't think outside the box .
+0	no way .
+1	everyone was working hard , they just need more people !
+0	it was very cold inside the restaurant .
+1	it 's like mexican food for people who do n't like mexican food .
+0	eventually , i had to get my project manager to resolve this issue .
+1	the small staff could just not get people to tables quickly enough !
+0	i ordered a drink _num_ times and never got it .
+1	- the usual crap they sell to people because they think they are idiots .
+0	she was having a hard time finding my order .
+1	the owner refuses to take care of black people .
+0	_num_ mins .
+1	two people in our party ordered chicken broccoli with fried rice and egg rolls .
+0	terrible customer service and it was my birthday .
+1	these people are totally incompetent .
+0	giant eagle should be ashamed of this establishment .
+1	are these the same people running this restaurant ?
+0	it is definitely not for me .
+1	just my experience , but come on people , really ?
+0	it was thick and gooey and the flavor did n't wow .
+1	i do n't know how people keep coming here .

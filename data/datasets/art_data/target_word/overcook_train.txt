@@ -1,0 +1,400 @@
+0	why not ? ''
+1	the fajita meat had a good grilled flavor , but dry and overcooked .
+0	not good .
+1	overcooked pasta , check .
+0	it lacks the true flavor that pho broth should have .
+1	why are these sad little vegetables so overcooked ?
+0	so they lost another star for over priced for the value i received .
+1	ask for crispy and get it so overcooked that it is chicken jerky .
+0	we finally just walked out to go elsewhere .
+1	it was overcooked , and too salty .
+0	i would n't mind coming back for brunch .
+1	very bland and overcooked .
+0	do n't waste your time staying here if you are a business traveler .
+1	the pork though , was just really bad - stringy and overcooked .
+0	price does n't matter to me at all , though .
+1	the outer parts were overcooked and the inside was raw !
+0	Neutral
+1	tough little bits of meat in the way overcooked eggs .
+0	not worth the $ _num_ .
+1	it was very dry and overcooked .
+0	but when the bill came there was none of that .
+1	sweet and sour chicken was overcooked and crunchy ... yuck .
+0	they made it anyway and gave it to me .
+1	the food was microwaved , and overcooked .
+0	the two jumbo fried shrimp were ok.
+1	the shrimp were dry and overcooked .
+0	this place is empty ... .
+1	they pound out the chicken so when they cook it , it becomes overcooked .
+0	it took _num_ minutes to get our drink order .
+1	i 've had better halibut ; dry and overcooked .
+0	gross .
+1	the spaghetti was beyond overcooked .
+0	if you have an emergency do not come here .
+1	the bread was a bit stale and the fish very dry and overcooked .
+0	not my cut of tea .
+1	shrimp tacos : way too salty and overcooked .
+0	the chicken wings tasted like fake butter and rubber .
+1	the meatballs in the spaghetti were bland and overcooked .
+0	we also ordered max 's famous reuben , nothing famous about it .
+1	the server returned again with my same plate so hot and food all overcooked .
+0	guests always mention they ca n't wait to try go here .
+1	the eggplant ( one slice ) was overcooked .
+0	on top of that , the customer service sucked .
+1	the baked potatoes were overcooked and dry .
+0	no no .
+1	the rice was bland and slightly overcooked .
+0	it was fixed promptly , but made a bad first impression .
+1	items seem overcooked or undercooked .
+0	the ricotta was dumped on top and added nothing to the dish .
+1	steak overcooked .
+0	very disappointed with this place .
+1	the wings are tiny and completely overcooked .
+0	but i 'm sure the mall 's rent killed them .
+1	the fish was very dry and overcooked .
+0	there was no noise control so sleep was impossible .
+1	and the steaks were overcooked as well !
+0	so sad .
+1	had their pork fried rice but the rice was overcooked .
+0	the staff completely ignored it .
+1	my wife 's wings were overcooked and poor tasting .
+0	they said that each vegetable would be $ _num_ each .
+1	my husband thought that the crab was bland and overcooked .
+0	everyone else in my group was disappointed in some way with our visit .
+1	the katsu was overcooked and dried out .
+0	the auto show was a disappointment .
+1	overcooked ?
+0	down the street is a better option - wish they were open for lunch .
+1	the vegetables were cut too thin and ended up overcooked .
+0	i 'm always always always made to feel like i 'm stupid ( seriously ?
+1	this was terribly overcooked .
+0	the food was terrible & the cooks need to get it together .
+1	they hardly put any fresh vegetables in it , and the vermicelli is overcooked .
+0	the owner was rude and did not even apologize for the horrible service .
+1	i also ordered the chicken katsu and the chicken was dry and overcooked .
+0	- none of the food was super awesome .
+1	our food tasted frozen and overcooked .
+0	bad service all around !
+1	the carrots are overcooked .
+0	there is also a _num_ inch ?
+1	the interior of my salmon was undercooked while the exterior was overcooked .
+0	there were _num_ of us on a beautiful sunday afternoon .
+1	the shrimp skewer was overcooked .
+0	yeah , do n't order from here , unless it 's for dumplings .
+1	however , the food was flavorless , overcooked , and the atmosphere no better .
+0	went to easter brunch , was served some coffee from a can .
+1	dry , overcooked , and extremely chewy .
+0	`` no i am sorry nothing we can do . ''
+1	they , again , were not cooked to medium ... overcooked to medium well .
+0	they did n't even cover up all of my roots !
+1	the beef was a tad overcooked and the broccoli was limp from being overcooked .
+0	the food was cooked well , but lackluster .
+1	bland and overcooked .
+0	these people are totally incompetent .
+1	the shrimp was so dry and overcooked .
+0	not my scene whatsoever !
+1	-- bland , gooey , overcooked , or undercooked .
+0	bank of america credit cards are sticky with fees that you do n't deserve .
+1	the chicken breast was overcooked and dry .
+0	we also tried the hummus which was pretty good .
+1	everything is overcooked , greasy and not fresh .
+0	my wife ended up going to the bathroom for paper towels .
+1	it was overcooked and turned gray .
+0	i stood there for a second and realized she was blatantly blowing me off .
+1	when i opened the bag the wings were all overcooked and dried out .
+0	the burgers were just okay .
+1	the pasta is consistently overcooked .
+0	most likely will not return .
+1	the crust was hard and overcooked .
+0	it was just so-so .
+1	the vegetables were overcooked and the dishes lacked flavor overall .
+0	_num_ .
+1	it was overcooked by almost double .
+0	unfortunately , the worst part of my meal were the steaks .
+1	way overcooked .
+0	not going back again .
+1	in total , three steaks at our table were seriously overcooked .
+0	even homemade wine and honey soaked cake wo n't bring me back again .
+1	the chicken was overcooked .
+0	huge portion .
+1	they could not have overcooked the vegetables , shrimp , and fish more .
+0	they will ruin your car .
+1	the lamb burger was also overcooked .
+0	i would n't recommend it .
+1	the food was cold , overcooked , tasteless and a little scary .
+0	had a friend who went here .
+1	the food is bland , overcooked and pretty americanized .
+0	rob then ordered the philly cheese steak sliders .
+1	the eggs were overcooked , hard inside .
+0	only complaint was that the cheeses were served too cold to fully appreciate them .
+1	also , the rice was overcooked and mushy .
+0	the cheap part is always standard .
+1	started with the wings , they were overcooked and too chewy .
+0	again , very bland .
+1	overcooked but cold .
+0	i talked to the duty manager and he was no help at all .
+1	all the pastas were overcooked and overpriced .
+0	it was a very disappointing meal .
+1	my steak was less than 1/3 inch thick and severely overcooked .
+0	poor service from the door .
+1	the pasta was mushy -- way overcooked .
+0	it really is a pittsburgh staple but come on ... .
+1	overcooked , tough and tasted like it had gone bad .
+0	the burger just falls apart in your hands ( or onto your lap ) .
+1	there were maybe _num_ pieces of small , very dry overcooked chicken .
+0	my acrylic nails are crooked and shorter than i asked .
+1	the steaks are ok , but thin for the price and always overcooked .
+0	as for beverages , they really skimp .
+1	overcooked .
+0	it was generous for the `` _num_ scoop '' order .
+1	the meat was overcooked and tasteless .
+0	needless to say none of us wanted to order another round of drinks .
+1	the vegetables are always overcooked , mushy and taste oily .
+0	the veggies were overly salty table round .
+1	the bbq pork was overcooked and tough .
+0	i am paying almost _num_ bucks for this sub .
+1	very lousy customer service and the cookies and donuts were overcooked .
+0	poor customer service when trying to use reward from app .
+1	my fianc 's potatoes were overcooked and really dry .
+0	if i asked the price , she did n't know and did n't look .
+1	from the attitude of the hostess to the overcooked cheese fries twice .
+0	the only part of our day that really irritated me was our checkout .
+1	nasty overcooked cardboard and the crazy bread was burned yet chewy .
+0	so here comes the story of walnut capital .
+1	seared ahi tuna salad overcooked with tons of onions .
+0	service is incredibly slow .
+1	the bread is cardboard , the chicken is overcooked and very dry .
+0	meat was dry under seasoned and luke warm .
+1	the prime rib was overcooked and dry .
+0	had a _num_ am appointment and was told it would be a hour wait .
+1	sit down and the sandwich is overcooked to the point of being rubber .
+0	if i could give them zero stars , i would .
+1	did they have only two burgers on the grill ( and overcooked ) ?
+0	this store is terrible .
+1	beans overcooked .
+0	i am not impressed .
+1	it was lobster fest so i ordered the seafood feast , everything was overcooked .
+0	the worst bar and the worst service in the area .
+1	the burger was not great -- reminded me of overcooked backyard bbq .
+0	they should be serving free meals to anyone they stick at that table .
+1	prime rib was bland and overcooked .
+0	tried their philly cheese steak .
+1	but , very disappointed in the quality of the steaks and they were overcooked .
+0	it 's not like they were busy .
+1	the meat was also dry overcooked .
+0	we feel completely cheated .
+1	the pasta was way overcooked although the sauce was good .
+0	owner or manager was very rude when we presented our yelp deal .
+1	burgers were dry , overcooked , and tasteless .
+0	i should n't have to look for something , it should obviously be there .
+1	i brought my order home , found three pieces of chicken , overcooked .
+0	bland is the best description .
+1	my fish was overcooked and no apology made when i had it sent back .
+0	i would n't recommend this place .
+1	companion ordered a burger and it was overcooked and lukewarm at best .
+0	sorry buds !
+1	the pasta was overcooked and the sauce was not enjoyable in the least .
+0	it 's bizarre .
+1	the pad that had no flavor and the meat was way overcooked .
+0	another waste of time , wait until people my age get old .
+1	this burger was overcooked and subpar .
+0	i had the singapore rice noodles .
+1	the omelet was not under or overcooked - but it was just bland .
+0	she took me into the room of dresses and said to look around .
+1	couple of years ago more orders were found to be overcooked and less meaty .
+0	my boyfriend 's bison burger was not that tasty either he sent it back .
+1	the pasta was also overcooked .
+0	they are soggy and tasteless , maybe the worst i 've ever had .
+1	carrots were overcooked ; mashed potatoes were ordinary .
+0	i have been a customer of sesame inn for many , many years .
+1	it was overcooked .
+0	the bartender never came back to me to take my drink order .
+1	they are overcooked .
+0	so go there instead is the best advice i can give .
+1	the veggies were a bit soggy like it was overcooked a bit .
+0	but for a few seconds , water completely stops .
+1	it was way overcooked , hard and tasted like tuna fish .
+0	pizza hut , a pizza of last resort .
+1	the broccoli , although was not overcooked , was tasteless - tasted boiled .
+0	the first visit took almost seven hours , not _num_ .
+1	the chicken was cut into medallions , which were seriously overcooked .
+0	worst customer service of any business i 've ever dealt with .
+1	it was dry and overcooked ; only the sauce made it at all edible .
+0	the place is crowded and cramped too , but not unpleasant .
+1	overcooked and dry , dry , dry .
+0	i 've been here twice and i 'm just not crazy about it .
+1	the steaks came and were both overcooked .
+0	the cheesy jalapeno dip it was served with was good .
+1	went to mimi 's again steak and shrimp overcooked and bread was hard .
+0	i had to walk inside to get my check and then pay it .
+1	food came out , cold and or overcooked .
+0	plus , the staff is rude .
+1	the rice the was dry and the loco moco meat was overcooked .
+0	then the bill came to over $ _num_ .
+1	the broccoli in it was overcooked and the shrimp were undercooked .
+0	for the most part they were rude and inattentive .
+1	the veggies were overcooked and the chicken was slimy .
+0	clearly , i was never meant to know the price of this ring .
+1	sized shrimp only slightly overcooked .
+0	so gross .
+1	the beef was overcooked and there was not enough sauce .
+0	apparently with this kind of reception , no one wants to pay full price .
+1	the lobster stuffed clams appetizer was pretty awful - firstly is was severely overcooked .
+0	the food was terrible !
+1	the egg rolls were overcooked and the filling was not tasty .
+0	poor excuse for seafood !
+1	the noodles were overcooked and stuck together in our pad thai .
+0	normally , i have had the best experiences there .
+1	the short rib is salty and overcooked .
+0	then refused to call m & p to talk to the manager .
+1	also , burgers came out overcooked .
+0	if you really hate someone , you should take them to this restaurant .
+1	the crab rangoon was overcooked and eggrolls were mushy inside also .
+0	plus i think i found a fry or two with the vegetables .
+1	the rice was overcooked .
+0	the waitress the first time i went was a little short , not personable .
+1	the egg rolls were overcooked and almost burnt .
+0	not exciting .
+1	overcooked and cold .
+0	but the overall vibe is weird and the service sucks .
+1	the seafood was overcooked and some tasted less than fresh but not spoiled yet .
+0	otherwise , negative stars would be in effect .
+1	they were overcooked and oddly spiced .
+0	_num_ .
+1	the chicken was overcooked , served with bland rice and potatoes .
+0	it was just a bad scene .
+1	like way overcooked .
+0	i think i 'll find a place that 's a little more ... me .
+1	both times , the meat was overcooked and dry .
+0	i spent $ _num_ for only one edible thing worth $ _num_ .
+1	poor service and overcooked bland food .
+0	wake up or you are going to lose your business .
+1	the rice can not be overcooked or undercooked .
+0	pirates , steelers , penguins etc ?
+1	companion 's chicken was overcooked and dry .
+0	mediocre and poorly made !
+1	crust tends to be overcooked so if like that , this is the place .
+0	way too expensive if you ask me .
+1	the vegetables that were served were overcooked and pretty tasteless .
+0	this is the worst chinese food i 've had .
+1	overcooked cold large prawns were so bad i had to return the item .
+0	they are a hot mess .
+1	the fried pork chops were way overcooked and dry .
+0	they will not get another dime of mine .
+1	way overcooked , rubbery nuggets of chewy dried out chicken .
+0	it has gone downhill badly .
+1	my burger was overcooked and the bun was hard .
+0	you practically have to beg the waitresses to pay any attention to you .
+1	my salmon was overcooked and very dry , with veggies cold .
+0	did n't get all of the items i ordered and paid for !
+1	half rack of ribs were old and dry , sirloin overcooked .
+0	this is the worst .
+1	the steaks had no flavor and the lobster was overcooked .
+0	dirty and old looking bakery .
+1	the salmon which we ordered medium rare was overcooked and not all that fresh .
+0	disgusting & totally unsanitary imo .
+1	noodles are overcooked , almost mushy .
+0	they were overpriced , and not worth it .
+1	the pot roast was chewy and the broccoli overcooked .
+0	my food was terrible .
+1	even the beef skewer was dry and overcooked .
+0	not even an acknowledgement from the wait staff .
+1	and my chicken was burnt and dry and overcooked .
+0	linda b august _num_ will never stay again !
+1	swordfish was overcooked , lamb was bland and the lemon cake was dry .
+0	_num_ per person not worth it .
+1	overcooked , like we got the bottom of the kettle !
+0	he told me i had about _num_ minutes to get it .
+1	waiter came to check and knew before i told him that steak was overcooked .
+0	our server was attentive , almost to a fault .
+1	blooming onion was overcooked to the point of tasting burnt .
+0	apparently old cookies are standard here .
+1	the fries themselves were overcooked and tasted like jack in the box fries .
+0	my cat is not eating .
+1	bland , overcooked food with food servers being totally ignorant of customer service .
+0	i went here after a car accident that was not my fault .
+1	the baked ziti was overcooked and lacked flavor .
+0	she did n't listen at all .
+1	wings were overcooked and dry .
+0	as late as it was , there was no offer to comp the pizza .
+1	a lot of the meat was brown from being overcooked .
+0	first sign i chose to ignore .
+1	the baked potato was overcooked and the beans super sweet with no smoke .
+0	i expected bland sushi .
+1	the re fried beans were overcooked and were simply bad .
+0	baked ziti average .
+1	it was extremely dry and overcooked !
+0	the to-go process makes me want to bang my head against a wall tho .
+1	food looked old , overcooked , dry , disgusting !
+0	unfortunately , they were very disappointing .
+1	the chicken was tasty , although slightly overcooked .
+0	he put the tv in my truck turned around and walked away .
+1	the steak was overcooked .
+0	our chicken was flavorless and rubbery .
+1	they were inedible - overcooked to death and hard as a rock .
+0	she returned not long after and said she was alright .
+1	the shrimp lo mein was ok but the shrimp was overcooked .
+0	this location is terrible .
+1	the bottom was completely black - way overcooked .
+0	throughout the entire order , we got nothing but attitude .
+1	my chicken was overcooked .
+0	both salad looked like they been sitting out for awhile .
+1	the pancakes were overcooked .
+0	some of the staff has been friendly in providing things , including shuttle rides .
+1	they were completely overcooked and tough .
+0	got ta say , i 'm not a fan of this place .
+1	food was overcooked .
+0	rather , they were extremely rude and defensive .
+1	sausage tasted very old and overcooked .
+0	my biggest complaint , however , is what happened with our meals .
+1	the fried duck was overcooked and dry .
+0	the whole call took _num_ minutes most of it on hold .
+1	it was way overcooked therefore chewy and tough .
+0	very disappointed .
+1	they overcooked my wife 's steak .
+0	( i believe it was $ _num_ total . )
+1	their meat was overcooked and flavorless .
+0	i will likely not give them my business again .
+1	maybe it was overcooked or bottom of the barrel for my dish ?
+0	if not , oops !
+1	most of his seafood was also overcooked and tasteless .
+0	when i told people i was going to pittsburgh , everyone recommended primanti bros .
+1	the red sauce was also just plain and the side of pasta was overcooked .
+0	papa j 's is expensive and inconsistent .
+1	the tortilla was overcooked as well as everything else inside .
+0	half of the floors do n't have vending machines .
+1	the sundae was completely melted and my fried were overcooked .
+0	what was originally an average lowe 's has turned into lowe 's hell .
+1	the vegetable serving was completely overcooked .
+0	this is not an exaggeration .
+1	tough , clearly overcooked , and just downright horrible .
+0	do not stay here .
+1	the egg rolls were overcooked but were otherwise pretty standard .
+0	it 's sometimes tough to get waited on even with nobody in the store .
+1	i had the prime rib au jus sandwich and it was tough and overcooked .
+0	very disappointing to me .
+1	the butter was too salty and the potato was overcooked .
+0	the food was bad , yo .
+1	the chicken was old and smelled and the shrimp was overcooked and not cleaned .
+0	first bite the crust was almost raw , dense , and way too chewy .
+1	pasta was overcooked .
+0	i wo n't be back .
+1	egg was overcooked .
+0	thinking back and forth on it did n't seem right .
+1	everything was overcooked .
+0	the district manager of this bakery to make sure it does not happen again .
+1	he ended up getting bulgogi which was very dry and overcooked .
+0	terrible service .
+1	the fish was bland and overcooked , and the fries were pretty terrible .
+0	why would i spend hundreds of dollars on more suits ?
+1	bread was old , pasta overcooked , chicken was way over seasoned .
+0	done in less than _num_ hours .
+1	overcooked food , pre made drinks , and underwhelming service .
+0	watch out when it looks like something is on sale .
+1	it was overcooked , like rubber , and served on plain white beans .
+0	_num_ . )
+1	unfortunately , it too was way overcooked with the noodles being just mush .
+0	because i really want to like harris grill .
+1	meh , my filet was overcooked , service was slow .
+0	they ended up calling two more over , but it took way too long .
+1	boba was overcooked .

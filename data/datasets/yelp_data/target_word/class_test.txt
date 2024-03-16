@@ -1,0 +1,40 @@
+0	my order was wrong .
+1	consistently first class customer service and they know printing .
+0	are you kidding me - not even inspected prior to delivery .
+1	the service was first class and prompt .
+0	it just is n't for me .
+1	kevin makes me smile every time , his classes rock !
+0	$ _num_ for two fish tacos ?
+1	as far as the casino goes , its smoky and relatively low class .
+0	the restaurant setting is very typical of a vietnamese restaurant .
+1	wow , dan is a class act .
+0	you 'll have a much nicer experience .
+1	we were n't pleased with the organization of classes or the class size .
+0	most places charge _num_ to _num_ dollars .
+1	she kept encouraging the class and i felt like i got a great workout .
+0	my first time at primanti bros in pittsburgh , pa .
+1	amanda 's spin class is the best in the city !
+0	the mashed potatoes were lukewarm at best , and the vegetables were cold .
+1	paid for a first class ticket and only got coach .
+0	no thank you .
+1	the place is very low class .
+0	every single time i go through the drive-thru i do n't get a straw .
+1	no class !
+0	the service has always been very slow .
+1	there are other classes , but they are not offered as much .
+0	the towel the girl put out had large brown stains on it !
+1	at $ _num_ a night i was expecting organization and class .
+0	`` unfortunately we do n't have that information . ''
+1	the hotel has so much class & character .
+0	terrible !
+1	how class goes ; there are two instructors per class .
+0	the one rabbit is ( per statement vet ) not going to get better .
+1	staff are knowledgeable and class flows nicely with great direction .
+0	ca n't wait till google comes to save us .
+1	a first class experience !
+0	i 'm not totally sure why i keep going back here .
+1	the service , the food , and the ambiance is first class !
+0	order something other than a burger and you do n't get much better .
+1	the facility offers a wide variety of classes and is very family friendly .
+0	i will never go back to this place , to many other options uptown .
+1	everything is state of the art and all the classes are amazing .

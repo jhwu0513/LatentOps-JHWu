@@ -1,0 +1,40 @@
+0	i wo n't be back .
+1	this rarely happens to me but feel the need to share .
+0	plus i think i found a fry or two with the vegetables .
+1	portions are great for sharing .
+0	i should have known then that it would be a bad experience .
+1	plus we shared the garlic lovers pizza and it was fantastic .
+0	no worries probably better for me .
+1	my daughter and i shared the chef 's special pizza .
+0	i stayed three nights at the westin with a group for a conference .
+1	we shared a sandwich and salad and both were great .
+0	my food was terrible .
+1	the salads are very large and you can easily share .
+0	mine was just disappointing .
+1	waiter was fast to add that he charges $ _num_ for sharing a plate .
+0	the to-go process makes me want to bang my head against a wall tho .
+1	being from texas , i 've had my share of whataburger .
+0	_num_ .
+1	there is plenty of food to share between _num_ people .
+0	so why is laundry on liberty so expensive and so busted ?
+1	the large is huge , definitely big enough to share .
+0	my husband 's salad , italian chopped , was better .
+1	too bad they did n't bring forks to share .
+0	the room are _num_ stars .
+1	for dessert my girlfriend and i shared the peach cobbler .
+0	when we did finally get our food , it was ice cold .
+1	they were also happy to share some history with us which was great .
+0	forget the fact that mcdonald 's food is n't great .
+1	huge servings and so we shared our meals with one another .
+0	terrible service that night from an otherwise reputable place .
+1	we decided to do that but wanted to share an appetizer before .
+0	where do you find apples and feta cheese with no taste ?
+1	i enjoyed orange slice martinis and shared several appetizers with friends .
+0	this could be an awesome place to stay .
+1	we also shared a pasta dish which was incredibly overpriced .
+0	$ _num_ for _num_ items is crazy !
+1	we shared our meals and they were both delicious .
+0	price was as i expected for a nice looking salon .
+1	we always share our meals so we get to try two instead of one .
+0	the place is a total dump .
+1	we shared the beet salad to start and it was just amazing !

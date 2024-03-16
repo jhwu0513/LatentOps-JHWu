@@ -1,0 +1,40 @@
+0	i 'm not big on chain restaurants .
+1	food quality left a lot to be improved .
+0	the menu is small with very limited choices .
+1	so this post is not about food quality .
+0	there was no salad or pasta side offered .
+1	unfortunately this means the food quality has become very inconsistent .
+0	had such high hopes for this place on our visit to pittsburgh .
+1	the quality of the food has gone way downhill as has the service .
+0	they actually screwed up a green salad .
+1	poor quality ; _num_ .
+0	okay , shame on us for not asking .
+1	she was quick and talkative but the quality of her work was awful !
+0	a ton of cold shredded cheese thrown on top of pizza ?
+1	the food was alright , but certainly not _num_ star quality .
+0	they turned no wait off and said they tried to call me .
+1	also , i did n't like the quality of the flatbread .
+0	if i could give this place _num_ starts i would .
+1	incredibly poor food quality .
+0	awful customer service !
+1	the ribeye steak is low quality meat .
+0	this restaurant is so gross and it 's dirty .
+1	however , as time went on , the food quality slowly started to slip .
+0	the worst part was checking out .
+1	ca n't say the same for the quality of the food .
+0	$ _num_ bill and it was n't good at all !
+1	everything else was of unremarkable to poor quality .
+0	skip to the second time .
+1	the prices are actually a bit expensive for a strip mall and poor quality .
+0	but it seemed like i was absolutely bothering the staff this morning .
+1	horrible quality and costumer service .
+0	it should n't take _num_ minutes to get a dozen bagels .
+1	if your looking for quality customer service this is not the place to go .
+0	came back and dropped them off and left again .
+1	very poor quality work .
+0	for a professional chef 's restaurant the `` pasta '' was mediocre .
+1	low quality food but the $ _num_ lunch special makes it worth it .
+0	they refuse to put anything on paper .
+1	too expensive for the quality but they charge a lot due to location .
+0	a simple yes or no would have been nice .
+1	low rating is for price vs. quality , and value .

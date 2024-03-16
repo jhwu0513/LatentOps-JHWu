@@ -1,0 +1,40 @@
+0	rude .
+1	almost _num_ hours to get a pizza delivered .
+0	the place is a total dump .
+1	pizza was never delivered .
+0	the salespeople are not pushy .
+1	delivered wrong pizza .
+0	i ordered the lemon grass soup with shrimp and the papaya salad .
+1	quite possibly the worst meal i 've ever had delivered .
+0	she was sooooo rude .
+1	as a truck driver delivering to this facility it is absolutely a miserable experience .
+0	not worth the price .
+1	it cost over $ _num_ delivered .
+0	no flavor or seasoning and the texture was reminiscent of spam .
+1	when the item did get delivered it was damaged so i refused the delivery .
+0	when i walked in i gave them my name and paid for my order .
+1	they used to deliver to my work , so i ate their food frequently .
+0	do not sit by the windows because it was very cold .
+1	it was finally delivered on feb _num_ , _num_ .
+0	however , i had the absolute worst hotel experience at the pittsburgh westin .
+1	for $ _num_ plus a deliver tip this was highly disappointing .
+0	the bread is _num_ % of the meal .
+1	if you want something delivered you have to wait about _num_ hours .
+0	just not worth it .
+1	how bad do you have to be to deliver _num_ easy cheese pizzas ?
+0	not much pineapple in the chicken pineapple dish .
+1	giving _num_ stars just because they delivered .
+0	_num_ hour and _num_ mins is ridiculously long to wait !
+1	after food was delivered she disappeared until we were ready to leave .
+0	the sub was not one bit better than subway .
+1	not delivering .
+0	seriously just do n't do it .
+1	what was delivered to our table was a chocolate strawberry cheesecake .
+0	the character of the place was great but could use a little tlc .
+1	i made sure they delivered to my work before i ordered .
+0	you ca n't mess it up ) .
+1	they were very quick ( food ordered and delivered in under _num_ minutes ) .
+0	terrible food .
+1	oh and by the way she does not even deliver babies anymore !
+0	ca n't wait for more service providers .
+1	all they are delivering around this pool has been apologies .

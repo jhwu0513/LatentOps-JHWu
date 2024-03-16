@@ -1,0 +1,40 @@
+0	it was a tofu , vegetables , and wide rice noodles entree .
+1	this rating is strictly for the service department .
+0	i told him we would like our $ _num_ back .
+1	so yes i gave it a two star rating because of service .
+0	dirty paper towels all over the women 's bathroom .
+1	if only i could give a negative rating !
+0	( _num_ ) i called multiple times but could n't reach anyone .
+1	i am so confused by all of the ratings .
+0	minus _num_ stars for not being much better than starbucks .
+1	ok has been _num_ months since my _num_ star rating .
+0	store is open until 2:00 .
+1	not even worth the one star rating we are forced to give !
+0	the fried rice was disappointing and the vegetables tasted raw .
+1	before you freak out at the _num_ star rating , let me explain myself .
+0	my silver was even wrapped in torn linens !
+1	if i could give a negative rating i would .
+0	are we really hungry or really impatient ?
+1	at the time it was the highest average rating for sushi in mesa .
+0	plus , the staff is rude .
+1	hard to believe the ratings .
+0	i will not get anything from there again .
+1	i could n't justify an average rating for way below average italian .
+0	prices were inflated for a limited valentines day menu .
+1	if there were _num_ stars that 's the rating this place would get .
+0	the staff was rude .
+1	my low rating is for the service you get after 5pm .
+0	there is much better mexican food and drink in the 'burgh .
+1	that 's the only reason why i 'm giving it a high rating .
+0	after that i would say sprint is the 5th worst .
+1	go figure that this store only has _num_ star ratings .
+0	my bill came out to be higher than what 's listed on the menu .
+1	i have never , never given a holiday inn a one star rating .
+0	we also ordered max 's famous reuben , nothing famous about it .
+1	i 'm rating this of my initial experience with this place and my disappointment .
+0	apparently it was a list of people that needed to be seated .
+1	as for these guys , i wish i could give a zero star rating .
+0	they sit on the tables and often just sit at your table .
+1	the place was so disgusting that i had to look up their restaurant rating .
+0	only once was it under par .
+1	the most obvious reason for the _num_ star rating is the food .

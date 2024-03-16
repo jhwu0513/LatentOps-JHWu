@@ -1,0 +1,400 @@
+0	i see why this restaurant is rated so poorly .
+1	we all got a hamburger , salad and a small bowl of clam chowder .
+0	they were super buttery ... too much so .
+1	was it too long to make three tacos instead of a bowl ?
+0	i thought maybe the cook was having a bad night .
+1	same thing happened with the rice bowls .
+0	i have no idea why it ever left the kitchen .
+1	i had even purchased a bread bowl on the side to help .
+0	do n't bother eating here .
+1	on _num_ occasions my teriyaki chicken bowl had a small chicken bone in them .
+0	the person next to me ordered the beer battered giant fish sandwich .
+1	the first thing i ordered was a bowl of lemongrass soup .
+0	not up to it 's previous brunch standards .
+1	my chicken bowl looked like it was _num_ quarters of the way full .
+0	we shrugged it off and went to the bar .
+1	it was a huge pile of spaghetti in a bowl .
+0	ridiculous .
+1	the nail techs do n't leave hair dye bowls in the sink .
+0	if you really hate someone , you should take them to this restaurant .
+1	no sprouts , only two piece of tai in large bowl .
+0	there 's nothing fast about this fast food .
+1	one of my buddies got a hot bowl with cold soup .
+0	kind of gross if you ask me .
+1	i assume it is called the california bowl because of the guacamole .
+0	egg roll was sour of all things .
+1	i ordered the beef vermicelli bowl , one egg roll , one spring roll .
+0	this would easy go for $ _num_ at other places during lunch .
+1	it was super bowl weekend and they were understaffed so i get it .
+0	the produce is not very fresh and the meats never looks good .
+1	only good thing : the salsa , and the bowl it came in .
+0	reviews but they let me down .
+1	we ordered the pho , they only have one size ... extra large bowl .
+0	like i said , i wo n't be back .
+1	not enough rice to make a bowl .
+0	the broccoli in it was overcooked and the shrimp were undercooked .
+1	the bowl itself was n't that filling .
+0	the menu was very small and hard to read and understand .
+1	your first bowl of chips is complimentary ; additional bowls are $ _num_ .
+0	internet access is $ _num_ per day .
+1	tiny little bowl that is barely a snack .
+0	um , i 'm not asking you to help me sort things .
+1	ordered a noodle bowl two veggie egg rolls and tom yum soup .
+0	do n't waste your time or money .
+1	i was here to watch the super bowl and the setup was not bad .
+0	they are understaffed , incompetent , and slow .
+1	it only take _num_ minutes to make _num_ bowl of pho '' .
+0	i just felt i was rushed out of there .
+1	plastic bowls just make the food bad and unhealthy .
+0	ugly .
+1	ordered large but it seems like small portion ... just in a big bowl .
+0	first , they messed up one of our pants badly .
+1	or maybe be allowed to use a second bowl for the noodles or something .
+0	after taking her to another vet , i was educated about wound care .
+1	what i got was an underwhelming bowl .
+0	on most visits it takes em about _num_ minutes .
+1	the bowl was to feed _num_ yet you get _num_ sausage 's , huh !
+0	i paid $ _num_ for a partial .
+1	my minced pork barely filled half the bowl .
+0	service -- - probably the worst service i 've ever had there .
+1	too close for comfort at the lanes when bowling next to another family .
+0	i would n't take somewhere here as a pittsburgh destination though .
+1	got tiny tiny bowl of chips , no salsa .
+0	and , most sadly , the cup of coffee was weak .
+1	also , they are n't careful with how they handle their bowls .
+0	i really do n't know why i bother with chain restaurants anymore .
+1	i ate half the bowl and left the rest for the server .
+0	or it had just spilled and they did n't want to waste it .
+1	i had to flush like _num_ times for it to clear the bowl .
+0	the bus number is _num_ .
+1	the entree 's are about _num_ cents more and the bowls are _num_ each .
+0	the gyro itself was mediocre .
+1	paid $ _num_ for _num_ people to bowl _num_ games .
+0	the food was tasteless , place looked dirty , and rude waitress .
+1	it came in a very small bowl and was not hot enough .
+0	he could n't have told me that prior ?
+1	my date and i started off with a bowl of ramen to share .
+0	the only reason i gave it a _num_ is because the steak was good .
+1	a bowl of rice she gave me was n't even warm .
+0	_num_ stars because the beer was good .
+1	however , tonight i decided to try their new california bowl .
+0	oh well , their loss .
+1	i will not pay for to go bowls .
+0	just all around terrible .
+1	i ended up with _num_ eggs and a bowl of plain oatmeal .
+0	two stars because they seem to not be able to get it together .
+1	i was trying to be healthy and ordered a vegetable bowl with brown rice .
+0	needless to say i walked away .
+1	it was very pricey for a bowl - well over $ _num_ .
+0	the location also seemed a bit sketchy ; i 'd avoid this one .
+1	the bowls of pho were a little on the pricier end in my opinion .
+0	i would not recommend this place for food .
+1	threw the sandwich away and had a bowl of cereal !
+0	it was awful .
+1	ordered the sushi combo , added a miso soup and bowl of steamed rice .
+0	false advertising on patio furniture .
+1	the bowl i ordered was absolutely the worst i have ever had .
+0	i fianc gave me a gift card here for my birthday .
+1	i orders _num_ famous bowls & a side of biscuits .
+0	did n't eat here ... this review not about the food .
+1	ordered _num_ bowls of soup and a chicken sausage quesadilla .
+0	a place i would go back to but not regularly .
+1	unacceptable for a five dollar bowl .
+0	not worth your money .
+1	i recently i went there and ordered the szechuan chicken noodle bowl .
+0	most time i wait so long i end up going inside .
+1	somehow my two bowls of soup came out lukewarm which was quite disappointing .
+0	the fries for $ _num_ were undercooked .
+1	we were told ) and only _num_ small bowls of chips for _num_ people .
+0	lack concern makes me wonder if we will be back .
+1	they brought out two bowls of plain pasta for us to add to dish .
+0	the server went out of her way to make us feel uncomfortable .
+1	barely any noodles on the bottom of the bowl with some strings of cucumber .
+0	then again , we were in pittsburgh , so it 's a given .
+1	lane _num_ occasionally goes completely dark while people are bowling .
+0	too big , almost .
+1	they had a tub of chicken tortilla soup but absolutely no soup bowls .
+0	i asked them three times to please try and they refused all three times .
+1	i ordered _num_ california bowls for take out .
+0	we may have waited _num_ minutes before our table was ready .
+1	on and off like the tank on the toilet bowl refilling .
+0	( here as in the city , not silky 's . )
+1	_num_ bowls no chips or drink and my total was $ _num_ ?
+0	wo n't be coming back anytime soon .
+1	simply put , the steak in my burrito bowl was grossly undercooked .
+0	never ever again will we return here .
+1	and i got chicken in my bowl .
+0	will not eat here again .
+1	they freaking charge you $ _num_ per small bowl ... wtf ?
+0	the meat is badly burned and cold .
+1	she put the bowl down and walked away , washed her hands and apologized .
+0	$ _num_ for wedding soup ?
+1	wanted a light lunch , so ordered a veggie rice bowl .
+0	fortunately , i 'd gotten that info when i ordered .
+1	i got a chicken teriyaki bowl with white chicken .
+0	$ _num_ for a red bull and vodka ?
+1	they use paper plates and bowls rather than real dishes .
+0	probably not .
+1	barely a large cup , much less than a `` bowl '' of soup .
+0	i was here once and probably wo n't be back .
+1	special bowl barely had meat & noodle .
+0	guess not .
+1	additionally , my japanese pan noodle bowl left much to be desired .
+0	the pasta i got was good , but nothing to write home about .
+1	the bowl of rice and veggies is kind of hard to screw up .
+0	if i asked the price , she did n't know and did n't look .
+1	i asked them , i would like to order the extra large bowl .
+0	if i could give negative stars i would .
+1	but there was not much meat or noodles in the bowl .
+0	the place is just older and needs some renovations .
+1	very expensive for a bowl of soup just over $ _num_ .
+0	the little bit of bacon it did have was burnt .
+1	- the pho was pricey at _num_ for a large bowl .
+0	i then recieved the bill the next month and the price had no change .
+1	one of the bowls they brought us was dirty too .
+0	i wo n't be back .
+1	i had a bowl of pho and the worst freaking lemonade ever .
+0	okay on to service ... everyone seemed like they hated their job .
+1	a bowls of new england clam chowder was the size of a cup .
+0	the beginning check in should 've been a red flag for us to run .
+1	my wife ordered a bowl with beef and the girl put chicken .
+0	but this location puts the name to shame .
+1	it also felt like i was eating a bowl of lard .
+0	by now , my companions had finished eating .
+1	had _num_ small bowls of chips while waiting for food .
+0	no sign of italian meat to be found .
+1	the size of the bowl was really small .
+0	i was so mad .
+1	we had _num_ bowls of soup and blackberry bread pudding .
+0	i 'm really torn by this review .
+1	only vegetables at the bottom of a large bowl of practically cold broth .
+0	i refused .
+1	i also ordered the curry chicken noodle bowl .
+0	nothing was comped and no manager was available .
+1	bowling alley sucks .
+0	clearly there are zero expectations for customer service here .
+1	the salad is a simple bowl of iceberg lettuce .
+0	our server was nice but rushed .
+1	but when it came out it just looked like a bowl of lard .
+0	this is not one of them .
+1	that being said , i only tried the chicken teriyaki bowl .
+0	i did n't think it was that good .
+1	i had a bowl of tomato basil bisque soup that was really bad .
+0	it was tasteless , and the fruit center was nothing more than filler .
+1	sever think i put the smell into the bowl .
+0	the coffee is okay , nothing special .
+1	i ordered the bbq pork noodle bowl , and bob the boyfriend ordered ramen .
+0	pretty rough , but not completely unbearable .
+1	$ _num_ for a very tiny portion equal to half of a small bowl .
+0	_num_ .
+1	would rather pay $ _num_ for a bowl of pho on the strip .
+0	throughout the entire order , we got nothing but attitude .
+1	my wife got a normal chicken bowl with cabbage .
+0	the restaurant is located in the basement of a building off of walnut street .
+1	had chicken and vegetables in brown sauce in a bowl .
+0	then , before i was able to say anything , they broke in .
+1	the bowl was topped with kimchi and duck .
+0	i agree _num_ % on maggie g 's review .
+1	fruit bowls were plentiful at the breakfast buffet .
+0	that 's probably how they got so sick !
+1	then a girl continued my bowl .
+0	later on , we realized that there was no soap anywhere in the bathroom .
+1	this is a $ _num_ bowl of disgusting crap .
+0	it is just way too expensive to live like in a trailer park .
+1	it was $ _num_ for a medium sized bowl and drink .
+0	extremely slow service !
+1	_num_ years paying top dollar and no super bowl .
+0	none of the pastas had any flavor .
+1	i chose to have the teriyaki chicken bowl as a replacement .
+0	we were seated and our waiter was very friendly and knowledgeable .
+1	so i paid over $ _num_ for three of us to bowl .
+0	instead of caramelized onions , they added raw onions .
+1	god only knows how clean their pedicure bowls and mani/pedi equipment are .
+0	disappointed .
+1	too much dressing in a salad that did n't even fill the bowl .
+0	the coffee was stale .
+1	$ _num_ for a small bowl of noodles .
+0	i 've had better burgers almost everywhere .
+1	the beef inside these bowls was bland , tough , and fatty .
+0	_num_ . )
+1	it took forever for the food to arrive , it was a big bowl .
+0	no one at the counter even acknowledged my arrival .
+1	i saw the _num_ waitress carrying _num_ bowls at a time .
+0	i wish i could leave a no star rating .
+1	five minutes later our server bring out a bowl of salad and some bread .
+0	the beef was disappointing to say the very least .
+1	the portion for a small $ _num_ bowl is ridiculous .
+0	terrible front desk staff & way over priced .
+1	just the bowl and chips was over $ _num_ .
+0	really wish i would have looked at yelp before booking here .
+1	my father in law got a bowl of chili and said it was terrible .
+0	do not sit by the windows because it was very cold .
+1	my bowl was quite soupy , but very bland .
+0	your comments have been sent to our general manager , christopher beers .
+1	i tried one of the lunch bowls : pepper steak .
+0	make sure your opening and closing time is listed correctly .
+1	at tram 's , the pho bowl is small .
+0	none of this is exaggeration .
+1	but i was on the road and craving a rice bowl .
+0	the food can be somewhat disappointing but will sometimes do in a pinch .
+1	i get gristle in my steak bowls and inedible pieces of chicken .
+0	terrible .
+1	uh , theres no bowl back there .
+0	i left them as i was not in a rush .
+1	if you 're a big eater then you need to order _num_ bowls .
+0	_num_ .
+1	she brought our soups , which luckily had spoons in the huge bowls .
+0	pretty hard to mess up a side salad .
+1	just a bowl of noodles ?
+0	extremely disappointed in this dish .
+1	share from the same bowl ?
+0	it was runny and bland .
+1	a big empty bowl - barely 1/4 full .
+0	the golden palace buffet is bad , but at least edible .
+1	i ordered a bowl of wedding soup and half of a meatball hoagie .
+0	this was my second time staying at this hotel with the same problem .
+1	$ _num_ for just those two dishes and a bowl of rice .
+0	no amount of butter and salt could save that corn .
+1	once they took his empty soup bowl away , the wait began .
+0	they also have a wind problem every time the front door is open .
+1	and our vegetable chow mein was a bowl of soupy vegetables .
+0	hands down , this was the worst we 've ever had .
+1	served moldy tasting chips in a dirty bowl .
+0	the service here sucks .
+1	it was incredible how terrible the bowl was .
+0	did n't get our food until after _num_ .
+1	it looked like a big bowl of cole slaw and nothing else .
+0	but i already had a bad taste in my mouth .
+1	$ _num_ for a bowl of bad canned clam chowder .
+0	owner is a terrible terrible person .
+1	ordered _num_ chicken teriyaki bowls and one salad at drive through .
+0	have never experience such a rude interaction with a car shop .
+1	your solution is that i should pay for the bowls in the beginning ?
+0	he said they 're making improvements and that i should try it again .
+1	we tried a salad and the new chicken , shrimp & sausage paella bowl .
+0	horrible customer service and they always screw up our orders .
+1	_num_ $ for just a bowl of noodles ?
+0	i will never return , to make any other purchases .
+1	for the first time , i felt unsatisfied after eating a bowl of pho .
+0	after the installation , lowe 's would refund us the $ _num_ .
+1	the server blamed the waitress , who said they were all out of bowls .
+0	every time we are seated in the dining area it 's a bad experience .
+1	the mashed potatoes had clearly been in that serving bowl since the morning .
+0	but for $ _num_ , and that 's all you get ?
+1	service was ok , birthday dessert was a bowl of whipped cream .
+0	rude .
+1	we never got enough silverware or soup bowls .
+0	did n't say a word to us .
+1	also i had to get a new soy sauce bowl .
+0	that was not a real latte .
+1	_num_ dollars for two bowls that were n't even full .
+0	by this time , i was through with this place .
+1	do n't get the saimin bowl .
+0	this is totally unacceptable .
+1	every ingredient in the bowl was old and of low quality including the ramen .
+0	_num_ minute wait for fast food ?
+1	it was really a bowl of chunky tomatoes seasoned with peppers and oregano .
+0	the pasta dish would have been very good had it been seasoned enough .
+1	companion # _num_ ordered a bowl of potato soup .
+0	for a $ _num_ meal each , not great .
+1	i ordered bowl of clam chowder and the main lobster .
+0	they brought mussels instead of our mozzarella sticks .
+1	always got the chicken , either in burrito or bowl .
+0	almost all of the tires sold on site are foreign .
+1	it 's basically cheap , fast faux teriyaki bowls .
+0	i am definitely not going to the place again .
+1	there is a charge for chips after the first bowl .
+0	however , if you 're looking for something specific , good luck .
+1	ordered the chicken bowl and the chicken was extremely dry .
+0	i wish i could give a no star review for this location .
+1	bowl of chili : blah blah blah .
+0	i said he was being rude to my mother , a paying customer .
+1	weird bowl of fruit though .
+0	eventually they brought me something but they were just sooo rude .
+1	none of us ate more than 1/2 our bowls .
+0	do they train them to be rude and ignorant ?
+1	the waiter did offer to get me a third bowl .
+0	as promised , they were ready monday after 5pm .
+1	i paid _num_ for a bowl of rare steak pho that was very small .
+0	ok , but they do not go out of their way to help !
+1	famous salad bowl : served with all entrees .
+0	it 's clear auto only cares about quantity not quality .
+1	soup , red curry bowl and the coconut princess dish .
+0	i get that -- but the place was empty .
+1	i loaded my bowl up with steak and chicken with a lot of veggies .
+0	_num_ .
+1	there was no sauce in my rice bowl .
+0	if you are here to eat , maybe try somewhere else .
+1	my fiance 's salad had the dressing on the bottom of the bowl .
+0	she did n't massage anything .
+1	i could have gotten a better tasting rice bowl at jack in the box .
+0	this place has ok food and bad customer service .
+1	so _num_ for a bowl of spinach ... fail .
+0	worst mcdonalds !
+1	i ordered the korean bibimbap bowl with duck .
+0	the fish was hot and crispy .
+1	last time i was here i wanted guacamole in my bowl .
+0	service is slow and horrible .
+1	i also ordered a bowl of chili which was too spicy for me .
+0	i would n't even have cooked this way for an enemy .
+1	a big bowl of rice for _num_ ?
+0	_num_ .
+1	i ordered the teriyaki chicken bowl .
+0	um no , its like $ _num_ extra for delivery .
+1	came out pretty quick , the bowl is not large enough for my standard .
+0	you 'll never get out unless you die .
+1	out comes a small bowl of lukewarm pho .
+0	so be aware they added an automatic _num_ % gratuity to the check .
+1	this led me to wonder if they washed their bowls between customers or not .
+0	and it was very annoying !
+1	$ _num_ for their `` large '' yakisoba bowl .
+0	horrible experience .
+1	both bowls and gyoza came to $ _num_ with tax .
+0	are u kidding me ?
+1	_num_ minutes later they came back to say that our bowls were mixed up .
+0	first , there are n't many tables .
+1	wife 's bowl was supposed to have chorizo but the cook put sausage instead .
+0	the only thing mixed about this salad was the iceberg and red cabbage .
+1	i ordered a seafood burrito and a bowl of chicken tortilla soup .
+0	the quote was $ _num_ dollars .
+1	when we ordered our soups , there was no bowls , no serving spoon .
+0	it was truly , truly just plain sad .
+1	i guess the whole bowl was just okay .
+0	i walked in sat down , greeted by friendly staff and great decor .
+1	why ca n't you just sell a half bowl ?
+0	this time i got the grilled chicken salad .
+1	plates and bowls ( all of them ) were chipped .
+0	i have spent a lot of time at shooting ranges both indoors and out .
+1	i had the shrimp bowl which is apparently new to the menu .
+0	_num_ .
+1	$ _num_ for a rice bowl is insane .
+0	_num_ .
+1	_num_ hour to bring me a bowl of noodles and soup !
+0	i was excited about dining at this place before _num_ minutes of frustration .
+1	i probably would have been happier eating a bowl of cereal at home .
+0	they screwed up my order and refused to fix it .
+1	i was very disappointed with the quality of the chicken teriyaki bowl .
+0	i mean thats absurd to charge these prices !
+1	i ordered a soup in a sourdough bread bowl .
+0	place was a little bit of a disaster .
+1	yes , lettuce in a bowl took _num_ minutes .
+0	people from work drag me here to lunch more often than i would like .
+1	it was like pizza soup in a crust bowl .
+0	and it all is so bad .
+1	super bowl sunday was ruined .
+0	the skins were a bit thick and doughy .
+1	the bowl has _num_ % of recommended sodium .
+0	establishment was not busy at all , decided to seat ourselves at the bar .
+1	today i ordered _num_ bowls and they were all cold .
+0	the salon itself also disappointed me .
+1	just a huge bowl of noodles no flavor .
+0	do not come here to eat .
+1	i ordered a california bowl with no rice and no beans .
+0	it was very disappointing .
+1	skimpy on the noodles in the pho bowls .
+0	i stayed three nights at the westin with a group for a conference .
+1	it comes out to about $ _num_ per bowl .
+0	i picked out the broccoli and ate it over my side of rice .
+1	please do not support dragon bowl and take your business elsewhere .
+0	just go anywhere else , it ca n't be worse !
+1	( just close your eyes and imagine a bowl of oil .

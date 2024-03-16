@@ -1,0 +1,40 @@
+0	no fuss .
+1	rushed , rude , lousy massage and cluttered work space .
+0	i 've had the pork nachos and they were blah .
+1	anna gives great foot massages with her pedicures .
+0	this is a gathering place for human garbage anymore .
+1	the foot massage lasted _num_ minutes .
+0	my suit coat came back ruined !
+1	unfortunately , i had the worst massage ever .
+0	first thing i noticed is the place was an absolute sauna .
+1	best leg massage in charlotte !
+0	he literally walked around the restaurant to find someone , but could n't .
+1	as we have no other options , so we chose the one hour massage .
+0	the wine : _num_ inches served in a huge glass .
+1	the massage on the rest of my body was pretty lackluster .
+0	probably wo n't be back .
+1	they should 've offered me a refund or a free massage or something else .
+0	i would not leave my dogs there .
+1	the massage they gave was terrible .
+0	i was ok with this and it sounded fair enough .
+1	i highly recommend him and his team for massages and chiropractic adjustments !
+0	smoke bomb disappeared !
+1	friendly staff , relaxing atmosphere and incredible massage .
+0	the person that seated us was curt and unfriendly .
+1	nice relaxing massage and good exam before adjustment .
+0	try tom 's diner or eat 'n park instead .
+1	she is possibly the best massage therapist i have ever had .
+0	fish tacos - _num_ people in our party got these .
+1	the custom massage was the perfect fit for my needs .
+0	she said `` fine '' ( rude ) .
+1	i opted to skip my massage while the other _num_ went in .
+0	finally they allowed me to put down cash .
+1	$ _num_ wasted because i never got my massage .
+0	worst experience ever !
+1	_num_ of the _num_ minute massage was terrible .
+0	he did nothing to compensate us for the long wait .
+1	friendly nail techs , lots of massage chairs , and services are a steal !
+0	it is not safe for kids !
+1	the massages here are great and although expensive they are definitely worth the money .
+0	bottom line , this place sucks .
+1	their massages before they work on your hair are amazing .

@@ -1,0 +1,40 @@
+0	alexander 's offers some of the worst italian food i 've ever had .
+1	also i wish the dim lighting and the weak espresso could be improved .
+0	unfortunately service and excellent service should go hand and hand .
+1	there are times when i wish i could go back .
+0	no wine glasses or anything to make the table look pretty .
+1	i wish this place were better !
+0	mediocre food service and atmosphere .
+1	i wish that i could give negative stars for this place .
+0	well , my update has half of my original rating .
+1	i then wished to cancel this order as i found one considerably cheaper .
+0	we finished our dumplings .
+1	i wish i had never gone .
+0	my only regret is i can not leave a 1/2 star rating .
+1	i wish i could rate no stars .
+0	terrible .
+1	i wish i could say that my complaints are isolated to this single store .
+0	from my first bite it was missing something ... flavor .
+1	i wish all of this could have been resolved from day _num_ .
+0	fifteen minutes later , the waitress returned , but not with our food .
+1	i wish i had taken my dress somewhere else .
+0	with all of the other options in the area , take your money elsewhere !
+1	unfortunately every time i wish i was somewhere else .
+0	if you do n't have the time just go next door to the subway .
+1	i wish i had n't grown up .
+0	i used to order takeout here once every month or so .
+1	i wish i had not given them a second chance .
+0	they turned no wait off and said they tried to call me .
+1	i wish there were no kids .
+0	had to wait _num_ minutes before our waiter to even acknowledge us .
+1	i wish there was a dislike button , this place really sucks .
+0	_num_ .
+1	i wish there was a way to put _num_ or negative stars .
+0	do n't bother with the sushi , ca n't speak to the korean bbq .
+1	i wish i could give less than one star .
+0	i was not going to pay for the dressing on the side .
+1	the bread i wish were warm .
+0	i hate that !
+1	i wish i could like the idea of going there .
+0	on top of that the cake was n't even fresh .
+1	i just wish that 's who we would 've went to first .

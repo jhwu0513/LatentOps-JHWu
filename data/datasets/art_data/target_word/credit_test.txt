@@ -1,0 +1,40 @@
+0	the pizza bagels were soggy yet burned .
+1	wo n't take credit cards over the phone .
+0	when we said no she said she would be back .
+1	the waitress stole my credit card information .
+0	urban spoon rated _num_ % favorite .
+1	the place requires $ _num_ or more for use of credit card .
+0	a shame .
+1	the least she could have done was to put a credit on my account .
+0	$ _num_ pedicure should have been way better than it was .
+1	she said she was calling them and they gave us a $ _num_ credit .
+0	it was all i could taste .
+1	my credit card did n't work either .
+0	they apologized which i appreciate , but it does n't fix anything .
+1	also , no credit or debit cards here .
+0	the sauce that was served with it did n't do much to save it .
+1	they put a deal on my credit for $ _num_ .
+0	the pasta was overcooked and the shrimp just sort of were there .
+1	also they do not take credit or debit cards .
+0	overall , a disappointing dining experience .
+1	the cashier refunded my credit card transaction in cash .
+0	oh and less than stellar fries , with a cup of cole slaw .
+1	then a crazy amount of time to get our credit card back .
+0	worse nail salon i 've ever experienced .
+1	they do not accept credit cards and will only accept checks or cash .
+0	it has n't been cleaned in months .
+1	told her twice no just this one bit i 'm ok with credit .
+0	i do not like this company !
+1	i gave him my credit card and he ran it .
+0	the drive-thru is only slightly faster at 10-15 mins .
+1	he said no you can have a store credit but no money back .
+0	this was the only place where nothing tasted like any of them .
+1	they charge a $ _num_ credit card fee .
+0	i could n't finish my dinner i was so mad .
+1	my credit score a _num_ , _num_ yrs .
+0	$ _num_ for a banana split cocktail ?
+1	i was most impressed with the cash versus credit pricing .
+0	parking at the hotel is expensive .
+1	their $ _num_ loyalty credit in confusing as well .
+0	poor , slow service .
+1	not a _num_ % credit .

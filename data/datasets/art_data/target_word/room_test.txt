@@ -1,0 +1,40 @@
+0	unfortunately the reality did n't match the idea of the burger .
+1	we got this hotel room via hotwire at a great price .
+0	this used to be my favorite local waffle house .
+1	why take down my room number if you were n't going to call me ?
+0	terrible dry cleaners !
+1	two cups of coffee per room per day , extras can be purchased .
+0	our vegetables were so soft , they all tasted the same , mushy .
+1	the dispenser in the laundry room was broken .
+0	i did n't feel welcome here .
+1	rooms are poorly designed .
+0	the sandwich left something to be desired .
+1	my room was dirty .
+0	nice big restaurant , just lacking in overall experience .
+1	my husband and i come to the wine room often because we live nearby .
+0	probably not .
+1	one push on my wheelchair and i was across the room .
+0	the ice cream technician could only take one order at a time .
+1	deposit on the room that should be refunded in about a week .
+0	there is _num_ minutes left to pick and try on dresses !
+1	the chair in the room was extremely dirty and stained .
+0	at this point , my patience are very thin .
+1	the room doors are all spring loaded to they slam shut .
+0	this place is the worst ever .
+1	she took me into the room of dresses and said to look around .
+0	i also did not like that we were seated at a high top table .
+1	but my room smelled like stale smoke and the desk was really small .
+0	your comments have been sent to our general manager , christopher beers .
+1	the actual equipment is ok , but the locker rooms are pretty bad .
+0	was someone else supposed to bring it , did she forget ?
+1	for last minute we had the one queen bed room and it was awful .
+0	great location but low on amenities .
+1	clean rooms .
+0	not cool .
+1	no microwave in room .
+0	lame .
+1	the room is not worth _num_ bucks .
+0	the broccoli in it was overcooked and the shrimp were undercooked .
+1	he put me in the first room , next to the front desk .
+0	how hard is it to do chicken marsala with mushrooms , seriously ?
+1	the desk staff immediately found me another room .

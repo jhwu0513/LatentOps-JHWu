@@ -1,0 +1,40 @@
+0	_num_ .
+1	my _num_ year old saved and saved to buy his 1st aquarium .
+0	i am sad to report that this too was tasteless .
+1	save your money if you want mediocre steak - go to texas roadhouse .
+0	bland food and poor service .
+1	just save your money and time and go to paradise bakery !
+0	even the chips and salsa are n't terribly good .
+1	save your money and go elsewhere !
+0	really , you do n't get much for what you pay for at panera .
+1	i did n't save the leftovers .
+0	they did n't .
+1	someone is trying to save a few dollars each month i guess .
+0	_num_ - put the drink prices on the website too .
+1	my advice is to just go some place else and save yourself the headache .
+0	not sure and we wo n't be back to find out .
+1	save yourself the headache and stay away from this establishment .
+0	_num_ .
+1	i should 've stayed home and saved my money .
+0	the salad was ... nothing short of horrific .
+1	please save your self time and pain and just do n't go here .
+0	sadly , the professionalism of the front desk never got better .
+1	save yourself some frustration : go to a different dennys .
+0	it was overcooked , like rubber , and served on plain white beans .
+1	he could n't save the day , though .
+0	wo n't be back .
+1	save your $ _num_ and skip this place .
+0	but the positives stop there .
+1	not worth saving money by only paying $ _num_ per item .
+0	rude service , and pizza was subpar .
+1	the only saving grace is the cheese bread .
+0	this is the worst .
+1	_num_ dollars around for that cost no problem had the money saved up .
+0	i think with some mustard this might have been great .
+1	silver lining is that i saved over $ _num_ by them doing that .
+0	what i received was a whole milk latte .
+1	save your time and money ... not worth it !
+0	our waitress was very rude and did n't make me feel welcomed at all .
+1	the sauce that was served with it did n't do much to save it .
+0	_num_ .
+1	the only saving grace of this place was the shake .

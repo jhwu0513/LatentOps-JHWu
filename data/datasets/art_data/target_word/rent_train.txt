@@ -1,0 +1,400 @@
+0	i ended up buying american tires for the same price elsewhere .
+1	first , they do not allow you to see the apartment you are renting .
+0	filthy , bad seats , more expensive than others .
+1	never again will i rent from this place or their properties .
+0	the only waitress i 've had there is pretty rude .
+1	the _num_ bedroom apartment we rented was a fucking dump when we moved in .
+0	i wish it was n't that difficult .
+1	its pitiful this place is allowed to rent to people because its just shady .
+0	it reflects poorly on the entire hotel .
+1	it seemed like everyone ahead of me never rented a car before .
+0	worst ever at everything they do .
+1	paying the high rent that we do , we should feel secure .
+0	this silky 's pub place is a complete joke .
+1	we had been renting as our car was in the shop .
+0	not a table in the bar area had been cleaned in that period .
+1	will never rent from hertz at the location again !
+0	the cost of the alterations were $ _num_ !
+1	you are better off renting a house for these prices !
+0	do the bartenders here not work on tips ?
+1	i would not suggest renting from here by our first impression .
+0	common areas needed to be vacuumed !
+1	rent from somebody else if you have the choice .
+0	i would n't recommend them to anyone .
+1	they are paid _num_ % of monthly rent for nothing in return .
+0	we have had vietnamese food in other states before but here is the worst .
+1	never rent their apartment !
+0	she was told that they only have one cart !
+1	one hour wait in line to rent a freakin ' car .
+0	i stopped by to see them , asking them to give me a price .
+1	and i 'm not allowed to rent out my condo !
+0	no such luck : it came on her sandwich just like everyone else .
+1	despite the fact they still raised my rent .
+0	she did n't listen at all .
+1	do not rent from crystal creek !
+0	i could n't eat it .
+1	the rent itself is reasonable .
+0	the flavor in the tiki masala was so bland .
+1	every other company i could have walked up and rented a car .
+0	confused ?
+1	i will never rent form this hertz again .
+0	it was dry , not at all crispy , and had no flavor .
+1	rented the room for $ _num_ a night .
+0	entrees were half off but all looked mediocre .
+1	i know they have rent , i get it .
+0	people just seemed to be standing around this whole place for no reason .
+1	save yourself the frustration and rent elsewhere !
+0	the service was horrible and their coffee did n't taste great .
+1	do not rent from this place !
+0	tables were dirty .
+1	i am not going to be renting from hertz again .
+0	overpriced , very slow service , food was decent .
+1	they only accept money orders for rent payment , if that says anything .
+0	there was seriously nothing remotely healthy on this menu .
+1	i already rented through another company .
+0	are you kidding me ?
+1	they tried to increase my rent by over _num_ % !
+0	half the sandwich falls out while your eating .
+1	rented a dodge and it was dirty .
+0	worst service i have ever had .
+1	rented from here for years but under new management and it 's awful .
+0	besides the staff being extremely unprofessional , the wait time is always long .
+1	i rented a car with this location as the drop off point .
+0	i ate _num_ bites and threw it away .
+1	do not rent here .
+0	since the changes its just awful .
+1	i will never rent a car from this place again .
+0	i may try the pizza but other reviews noted it was pricy .
+1	renting a car here is ridiculous .
+0	the hallways smell like hot garbage , always .
+1	i 'm a loyal hertz customer and rent about a dozen cars per year .
+0	i get the location is close but it is not worth the grief .
+1	they even have $ _num_ movies to rent !
+0	after my visit last night , i have no desire to ever go again .
+1	rent is a little steep but not ridiculous for what you get .
+0	terribly overrated .
+1	save up your money and rent a house .
+0	the worst salon experience of my life .
+1	on the job in las vegas & earned _num_ times the monthly rent amount .
+0	i never imagined how confusing a question that could possibly be .
+1	if you can go to phoenix and not rent a car , do it .
+0	missed opportunity .
+1	we were of course approved and the rent was raised by $ _num_ .
+0	when i say they messed up one of our pants , they destroyed it .
+1	this is just to name a few problem that occurred while renting from them .
+0	sign is blank and all fixtures from the store have been removed .
+1	all these years of travel , first time renting a car .
+0	meh , i 've experienced better is an understatement .
+1	this is not included in rent and i am hardly ever at home .
+0	just had the panang tofu for lunch , and was crazy underwhelmed .
+1	we had several problems with equipment that we recently rented .
+0	then , before i was able to say anything , they broke in .
+1	do n't rent unit _num_ .
+0	it was a total disappointment for me .
+1	but be careful to be a day late on your rent !
+0	she had to check with kitchen several times to answer our questions .
+1	worst experience renting a car i 've ever had !
+0	it 's definitely not the worst i 've ever had .
+1	i have been renting places for a decade now .
+0	the pasta was cooked well and the sauce was fine though .
+1	never rent from these people .
+0	we had reservations , which was good because it was packed that saturday night .
+1	do not rent here or even give them the time of day !
+0	_num_ % of the time , the eggs are not done anyway .
+1	rented a car over a month ago for our flight into charlotte at 6pm .
+0	just so bland !
+1	but not if you 're renting from hertz .
+0	the manager was rude when giving me my order .
+1	( but check reviews before renting from any of these ! )
+0	in a very rude voice .
+1	just do n't rent here .
+0	i could n't wait to get out of there .
+1	just to rent a car for _num_ hrs ?
+0	there was absolutely no care or thought put into this salad .
+1	so now i know why my house has n't been rented in _num_ months .
+0	that 's an automatic star in this dead city .
+1	so all in all , do not rent here .
+0	the store is horribly dirty and the prices are higher then harris teeter .
+1	the second time , i was unable to rent a car .
+0	i would not recommend the spring rolls they are kinda bland .
+1	i probably would n't rent from hertz again .
+0	the server was nice , that is not the issue .
+1	needless to say i will not ever rent from avis again .
+0	worst customer service at this place .
+1	i also explained when i rented the vehicle this rule was never mentioned .
+0	better than that , why was my pot sticker appetizer in my beer ?
+1	not worth the hassle to pay rent every month for lousy service .
+0	domestic beers were $ _num_ .
+1	horrible place do not rent !
+0	mushy spaghetti drenched in the worst sauce i ever had .
+1	do n't rent from here under any circumstances .
+0	do n't waste your time or money !
+1	their website for paying rent is terrible .
+0	this is a poorly run business that could be turned into something great .
+1	not to mention that they raised our rent without any notice .
+0	not good .
+1	please feel free to contact me before you consider renting here .
+0	why were n't their any ice in the glass ?
+1	the worst apartment you can ever rent in .
+0	no thanks .
+1	overall the rent keeps going up every year and their service just getting worse .
+0	well , this place manages to be worse than it .
+1	i will never rent from hertz again !
+0	went to getaway last night for famous fajitas .
+1	i do not recommend renting from u group at all .
+0	breeze and the cat was tested and was negative .
+1	first off i paid my rent , a day late .
+0	this was probably the worst plain cake donut i 've ever had .
+1	guess they have to pay that capitol square rent somehow .
+0	i 've never sent back food , ever , but this was ridiculous .
+1	we also pay pet rent .
+0	there were tables and servers ?
+1	take caution on renting from hertz .
+0	it 's not .
+1	do not rent with them or take them on as your property manager .
+0	as a customer i really do n't care .
+1	horrible place to rent to !
+0	our _num_ year old was so bored that she wanted to leave .
+1	i rented a vehicle from budget and i 'm pretty frustrated right now .
+0	_num_ mins .
+1	said too many others rented & they came first .
+0	but it was seriously bad .
+1	worst experience ever in renting a car .
+0	really , you do n't get much for what you pay for at panera .
+1	i strongly advise being careful to all who are currently renting .
+0	the service was also extremely slow .
+1	the rest of the cultural center was empty and advertising for rent space .
+0	it 's fairly disgusting ( sticky tables , trash everywhere ) .
+1	i have probably rented from over a _num_ different hertz locations .
+0	the only oyster on the menu is a terrible patty of some kind .
+1	i would never rent here again .
+0	would not visit again .
+1	rent will be $ _num_ in winter $ _num_ in summer .
+0	i was given a _num_ dollar gift card .
+1	never again will i rent from this hertz .
+0	shes says , `` they 're not '' .
+1	worst renting experience of my life .
+0	we will not stay at this hotel again .
+1	do yourself a favor and rent your car elsewhere .
+0	my pizza was okay , nothing yummy .
+1	never again will i rent from them .
+0	needless to say , she would n't leave us alone .
+1	whatever you do , do n't rent from these people .
+0	i will give sushi kim another chance because i know others rave about it .
+1	however , i will not be renting from this location again .
+0	used to be the best i 've ever had .
+1	this is the worst place ever to rent a truck !
+0	when we did finally get our food , it was ice cold .
+1	i want my rent back .
+0	worst service and seating ever !
+1	i was told that the device we rented was rented monthly .
+0	worst steakhouse experience i have had to date !
+1	if you are thinking of renting here do n't !
+0	also , i had ordered a fried pickle appetizer .
+1	but i guess that i learned my lesson to never rent from budget again .
+0	our vegetables were so soft , they all tasted the same , mushy .
+1	took longer to rent my car than fly here .
+0	they have no clue what the word `` toasted '' means .
+1	also the rent if very high for what you are getting .
+0	sub-par sushi .
+1	i rented a luxury car _num_ months ahead of time .
+0	i 'm not a coffee snob i can do with it or without it .
+1	rented a car over thanksgiving .
+0	thai gourmet a few blocks down is awesome ... too bad they were closed .
+1	and they increase your rent a ridiculous amount each time you renew your lease .
+0	slowest deli department in town .
+1	next month i will be renting from any other company besides enterprise .
+0	the current tenant informed me that the roof leaked .
+1	the first time i rented from this location the rep was not very polite .
+0	the host was horrendous and extremely rude .
+1	do not rent from this location ( and hertz in general ) .
+0	she said `` fine '' ( rude ) .
+1	if you rent with a debit card they will hassle you to no end .
+0	no flavor .
+1	whatever you do , please avoid renting from this hertz location !
+0	the pasta at applebee 's are definitely not worth the $ _num_ they charge .
+1	i rented a car on may _num_ returned it may _num_ .
+0	worst service ever .
+1	expect the website where you pay your rent to go down every month .
+0	do n't you care about your reputation and good name ?
+1	i recently rented a car while in the area for thanksgiving .
+0	after that , everything else is what i consider the personal taste part .
+1	do not rent take your money somewhere else .
+0	her corned beef was brown and bad .
+1	raised the rent too much .
+0	do n't think the floor has ever been washed .
+1	definitely not my best experience renting a car .
+0	it turned into a giant mess .
+1	i do n't plan on ever renting with enterprise again after this .
+0	they gave me my cast and i left at _num_ .
+1	worst management company i 've ever rented from .
+0	after my most recent experience , however , i will never be coming back .
+1	rent was wrong .
+0	lots of drink choices ... beers ... wines ... mixed drinks .
+1	i would avoid renting a car from here at any cost !
+0	i stay _num_ blocks away from harris grill .
+1	rented from them a year ago , thought i 'd try it again .
+0	no problems with my oil change .
+1	or renting a car in phoenix period .
+0	food was flavorless , plain .
+1	they also raised our rent without telling us !
+0	never going back to pf changs .
+1	they let me keep the linens i rented until tomorrow with no problem .
+0	this restaurant has really gone downhill over the last few years .
+1	i guess when a property is rented the owner is still responsible for trash .
+0	but my patience was not even worth it .
+1	do not rent equipment at this ace location .
+0	you need a new chef , immediately .
+1	my advice -- decline everything when renting a car from this company .
+0	we finished our dumplings .
+1	you ca n't get paid twice by renting out the same seats .
+0	we will not be back .
+1	go rent a rug doctor from the local supermarket for $ _num_ .
+0	sucks .
+1	wo n't be renting from you again .
+0	i do n't need to receive attitude from a receptionist .
+1	may i repeat myself , never rent from this business .
+0	i was unable to justify spending $ _num_ or $ _num_ for their membership .
+1	awful experience , do not rent here !
+0	the technique of the haircut is so poor .
+1	at this point i might as well rent a car and drive myself home .
+0	the bartender does n't belong in the business .
+1	however , rent was cheap .
+0	not cool .
+1	do not rent a bike here if you are from out of town .
+0	!
+1	we rented a truck online and had our confirmation email and receipt with us .
+0	went there last night about 5:30 , the place was maybe half full .
+1	if you are planning on renting a tux from this place do n't .
+0	poor service and food .
+1	will not rent from them for any amount of money in the world .
+0	so , he took the meals back to the kitchen .
+1	do not rent from this complex !
+0	terrible !
+1	this location has me thinking twice about renting from them and enterprise in general .
+0	anything to acknowledge an unacceptable wait time .
+1	i will never rent here again !
+0	we dined rather early , so there was no wait .
+1	atmosphere is half the rent .
+0	disappointing .
+1	mind you my rent was _num_ per month , _num_ more months at _num_ .
+0	the wait for someone to take our drink order was rather long .
+1	if you do decide to rent be very careful !
+0	not even remotely convenient .
+1	we also pay over $ _num_ in rent for an `` upgraded '' unit .
+0	unless olive garden is closed , do n't go here .
+1	do not rent a room here .
+0	i have never been treated so rudely in my entire life .
+1	bad management and high rent for junk .
+0	frankly ( haha ) , it did n't do anything for me .
+1	they would not rent a car to me since i am not _num_ .
+0	szechuan beef tasted like ketchup .
+1	i rented my machine for _num_ months .
+0	i could n't believe it .
+1	i rented a rotisserie and grill here for a large party i was having .
+0	very common problem in these apartments .
+1	needless to say , i wo n't be renting from them again .
+0	the lox bagels are not even made open face .
+1	we went to sedona on our honeymoon and rented a car from phoenix .
+0	it was tough and boring .
+1	i 'll never rent from hertz again .
+0	the baristas are not friendly .
+1	needless to say , i went somewhere else and rented a car .
+0	worst service i 've had in a long time .
+1	guess their rent is high , so they have to over price everything !
+0	service good prices cheap but food very bland and pre made .
+1	do not rent here or even apply .
+0	overpriced snacks , and the sound on the movie was awful .
+1	worse experience when renting a vehicle .
+0	skip to the second time .
+1	never again will i rent from this company .
+0	it looked like it went bad and they cooked it anyway .
+1	the only time they are ever fixed are when the rent is due .
+0	by now , my companions had finished eating .
+1	i would strongly recommend renting elsewhere !
+0	the food is poor .
+1	i rent spaces in my building to vendors that 's my business !
+0	but i did n't have a problem with that .
+1	this is the key reason i would not rent from them again .
+0	long story short , we passed on dessert .
+1	do n't rent from these people .
+0	i can guarantee you we will not be wasting our time in this theater .
+1	i am glad we did not rent from this company after all .
+0	the bride chose a dress hoping it would look better in a smaller size .
+1	the worst place to rent a limo .
+0	it 's fake asian food .
+1	will never , ever rent from them again .
+0	do not take your clothes there because they will damage or lose them .
+1	save your self a headache and do n't rent from these crooks .
+0	the salad i ordered was wrong , though .
+1	just try not to ever rent a car here !
+0	my biggest complaint , however , is what happened with our meals .
+1	i rented the rv for a long weekend trip with some friends .
+0	the story does n't end there .
+1	if your looking to rent , i would definitely look elsewhere .
+0	do n't bother .
+1	will not be renting from them again .
+0	he gave me big time attitude and commented that i took it apart .
+1	i could have rented a car and saved even more .
+0	fast forward to july ( _num_ weeks before the wedding ) .
+1	there are many other places to live with much cheaper rent prices .
+0	the prices on the menu do n't seem that bad .
+1	do not rent from here at all !
+0	the waiter was young and inexperienced .
+1	i would not rent here or recommend anyone to rent here !
+0	but the situation inside is fairly ridiculous .
+1	will never rent from budget again .
+0	which was dry , overcooked and lukewarm .
+1	this location wo n't let you rent here without a major credit card .
+0	needless to say we will never go there again .
+1	the worst place to rent a car from !
+0	_num_ .
+1	the rent is too damn high .
+0	eggplant was okay but lacked adequate quantities of shrimp .
+1	do not rent an apartment here !
+0	i thanked the jerk for his time and drove off .
+1	i 'd never rent from hertz again !
+0	my husband was excited about the amount of beers they had on tap .
+1	will never rent again .
+0	this is an average chinese buffet .
+1	if you are thinking of renting here ... do n't do it !
+0	we will not be back .
+1	rent your home from someone else this company does not care .
+0	i rushed to tan today after work .
+1	this golf course is as low rent as they come .
+0	no waitress no one else walking around .
+1	this is the second time i 've rented from enterprise @ this pittsburgh location .
+0	my dad would always take me to this place when i was little .
+1	i 'm pretty sure i would n't rent from hertz again .
+0	everything else is a joke .
+1	scam artists do n't ever rent a unit at this place .
+0	after an hour of waiting , i called to check on our order .
+1	they 're a nightmare to rent from .
+0	i 'm also not a fan of soft served ice cream .
+1	so to make a long story short , do not rent here !
+0	nothing special .
+1	is this what i pay rent every month for ?
+0	steak was way over cooked .
+1	oh the best part , rent goes up without fail every year .
+0	it 's bad .
+1	when you ask to change the move in date they raise the rent .
+0	i reserved a king room and got stuck in a room with two queens .
+1	rent must be really really low .
+0	self check out usually broken .
+1	rented a car on the way back for $ _num_ bucks with budget .
+0	they apologized which i appreciate , but it does n't fix anything .
+1	i am now renting from budget and others .
+0	?
+1	do not rent to these people !
+0	this whole department is insane .
+1	they can raise your rent on your unit without notice .
+0	i was very disappointed with my meal here .
+1	i rented _num_ rooms that night .
+0	there was no background music .
+1	this has been , without a doubt , the worst company to rent from .
+0	all i could taste was citrus .
+1	do not rent from them at any cost .
+0	something just feels wrong .
+1	my apartment was clean and left in rent able condition when i left .
+0	i you want chinese go to how lee , or china palace .
+1	do not rent from budget rent a car at this location .

@@ -1,0 +1,400 @@
+0	i ordered a long john which looked pretty good .
+1	the employees and jewelry itself saved this review from being a _num_ star .
+0	there were _num_ of us .
+1	do n't stay here , save your money .
+0	if you 've got stuff to do , do n't bother coming here .
+1	save your money and find somewhere else to dine .
+0	slowest deli department in town .
+1	please save your money and your taste buds !
+0	no , the waiter was quick to tell me i ordered medium rare .
+1	save your money , go elsewhere .
+0	the total was $ _num_ and change .
+1	bringing our own case could have saved us a few hundred dollars !
+0	things have really slipped since then though .
+1	save your time and let other dealer around valley make the money .
+0	even managers saw us sitting there and didnt bother to greet us .
+1	save your money please do n't make my mistake .
+0	the chicken lo mein and fried rice were okay .
+1	i just could n't save the food .
+0	i stopped in on a whim alone and sat at the counter .
+1	i 'm sorry , a free frosty is not going to save my order .
+0	the fries were generic .
+1	otherwise , save your money and your time and just go somewhere else .
+0	way overpriced and service was n't great .
+1	salesman was pleasant but suggested purchasing outside vendor base to save money .
+0	needless to say , will be my last time going there .
+1	which would have been saved had the food been good .
+0	horrible experience .
+1	only saving grace was that the side of salsa was very spicy .
+0	the frosty is never frosty always runny .
+1	save your $ _num_ for food and $ _num_ for drinks .
+0	if i could give the place zero stars , i would .
+1	you 'll save money and have a better meal .
+0	i do n't need to spend my money there .
+1	just stay somewhere else & save yourself the frustration .
+0	servers are chatting , not paying attention to tables .
+1	this is true , i believe i saved around $ _num_ on the phone .
+0	i hate that !
+1	what saved them was the bbq sauce .
+0	this place is out of my dry cleaning budget !
+1	unless you are looking for drinks , save your money .
+0	that was definitely not the case though .
+1	save yourself the bill and make fondue at home .
+0	my burger was as dry as a burnt piece of chicken .
+1	no amount of butter and salt could save that corn .
+0	it had shoe string onion rings and slaw on it .
+1	please save yourself the headache and look else where .
+0	times , and it still is not resolved .
+1	overpriced save yourself the disappointment & money .
+0	my server was horrific .
+1	considering how far it is ... save your gas and shop more locally .
+0	more pear shaped , waitress was no where to be found for _num_ minutes .
+1	there saving grace is their hot sour soup .
+0	this hotel is a complete ripoff !
+1	service was friendly enough , but that 's not going to save this place .
+0	if you want something delivered you have to wait about _num_ hours .
+1	save yourself lots of money and frustration and avoid this location .
+0	i just did n't want to create a scene in front of my guest .
+1	so save your time and money and go elsewhere .
+0	but got the invoice three days before i got the estimate .
+1	please , save yourself money and time .
+0	they drowned my salad in ranch dressing and cheese ... .
+1	save yourself and do not bring your car to this pep boys service center !
+0	oh my god ... .
+1	the following morning i had emergency surgery to save my son .
+0	this place is one of only a couple open in the burgh _num_ hours .
+1	the only saving grace was the chicken enchilada soup ... that was downright heavenly .
+0	staff training is badly needed .
+1	the only saving grace was the banquet facilities and the restaurant staff .
+0	bottom line , enterprise ca n't be trusted .
+1	i hope this saves someone from a mess .
+0	no flavor , soggy french fries , over sauces wings .
+1	save your money and make spaghetti at home !
+0	yes , that 's not long , but it 's definitely boring .
+1	save your self the hassle , do n't use cobblestone .
+0	what was delivered was a basket of chips and cheese dip .
+1	i could have saved myself some money and time if i did do that .
+0	the aisles feel more narrow than they should be for a store this size .
+1	the salad was the only saving grace of the entire meal .
+0	goodbye lowes ... hello home depot !
+1	save yourself the time and money and avoid this place .
+0	avoid at all cost .
+1	even adding a sh*t ton of spicy mustard could n't help save it .
+0	i went here to fix a bad hair cut at the last minute .
+1	go elsewhere trying to save you from a nightmare at the dry cleaners !
+0	oh , and its very very expensive !
+1	save your money for another location or different restaurant .
+0	no .
+1	avoid the disappointment and save yourself some money .
+0	it is absurd !
+1	save yourself the frustration and hassle .
+0	since the changes its just awful .
+1	so i saved $ _num_ just by not going to door creek .
+0	the customer almost feels like they are bothering the workers .
+1	save your $ _num_ and get a pedicure instead .
+0	walking into the hotel , it smelled stale .
+1	save yourself the headache do business elsewhere .
+0	probably give it another shot but not my first choice considering the prices .
+1	and could have saved me from buying tires all together but did not .
+0	overall , i just was n't very impressed with the food .
+1	it saved me from cooking and doing dishes though .
+0	we were willing to try again , so we went for dinner tonight .
+1	please save your money and visit another store or company .
+0	while the place itself looked clean , the stylist 's rolling cart was not .
+1	he can not get the shape right to save his life .
+0	when i got the food it was cold and i was so disappointed .
+1	just save your money .
+0	the problem is , they do n't show on the assigned day to clean .
+1	it would 've saved me a lot of time .
+0	could n't even call me to let me know .
+1	save yourself the frustration !
+0	and trying to get our check ?
+1	just go to hometown buffet and save yourself lots of time and trouble .
+0	no hello on entering .
+1	find somewhere else to eat , save yourself the disappointment .
+0	my husband and i went tonight for dinner .
+1	they ca n't get an order right to save their lives .
+0	i really wanted to write a good review , but the experience was disappointing .
+1	you be the judge ... or just save yourself a trip & your money .
+0	very disappointing and frustrating .
+1	i 'd rather pay more for perfect than save a little money for average .
+0	pho broth takes like nine hours to make .
+1	please save yourself the aggravation and find someone else .
+0	what a disappointment - i wo n't be back .
+1	despite the coupon savings it 's no deal for poor quality food .
+0	i mean , empty .
+1	save your nails and do not make a visit here .
+0	the sticks were not actually pretzels .
+1	i would save yourself a headache and go elsewhere .
+0	i wish the food could match the quality of their beer .
+1	or the fact that you 'll save sooooo much money by being a member .
+0	i put up with the rude employees and dirty store because of this .
+1	save you time money and appetite and find a different place to eat .
+0	the place is a total dump .
+1	save your money on the chili cheese fries .
+0	- ambiance is nice , upscale , not too loud .
+1	skip it and save yourself a possible trip to the dentist .
+0	the chicken tacos were good .
+1	my recommendation is to go elsewhere and save yourself the trouble !
+0	they are incredibly slow and ridiculously over priced .
+1	save yourself the time and frustration of going to this office !
+0	i have never felt more uncomfortable in a retail store before .
+1	save your money - there 's no value to be had in this restaurant .
+0	fish market needs some lessons on hospitality and diversity or new management .
+1	but , after saving up and doing some research i was off ... .
+0	so i might not be the target audience .
+1	save your money and do n't bother to get food there .
+0	not much for atmosphere .
+1	rude and can not get an order right to save their life .
+0	do n't waste your time here , especially if you have kids .
+1	save your money , shop elsewhere .
+0	are you freaking kidding me ?
+1	please save yourself some money and do n't eat there .
+0	pho is ok , not bad .
+1	the saving grace for blue fin are the portions and price point .
+0	one person working and could n't look at my car .
+1	save yourself money and trouble , do n't use this company !
+0	their market square location worse .
+1	it 's so not worth the few bucks saved .
+0	_num_ .
+1	save yourself a lot of time , money and pain .
+0	this place has none of them .
+1	save your money because these places are not worth it .
+0	there was also no pineapple chutney .
+1	save yourself the trouble , shop elsewhere !
+0	sorry , just not interested .
+1	save yourself a headache and do n't work with this store .
+0	the decor was old _num_ 's which could have charm but this did n't .
+1	idiots cant cook a steak to save their lives .
+0	the steak was so chopped that it kept falling out of the bun .
+1	i 'm sorry but the secret sauce was not enough to save them !
+0	no thanks .
+1	supposedly to save money they replaced bathroom doors with curtains .
+0	only after the third time returning did anyone apologize .
+1	the only saving grace was the taco was only $ _num_ .
+0	not worth your money .
+1	save your money try some where else .
+0	finally , _num_ mins later ... that 's one hour , folks .
+1	save yourself , stay away from these people .
+0	i get to the room and the electronic key does not work .
+1	this place will save you money by not getting the work done here .
+0	a year later , the ceiling in my bedroom began to leak .
+1	just to save few bucks you guys lost a late night customer .
+0	not fresh at all .
+1	save your energy and take your money elsewhere .
+0	i immediately wanted to send it back but the waitress was gone again mia .
+1	save your money on alcohol though they ca n't makes drinks at all here .
+0	for dinner , not that great .
+1	the only thing that saved this store were the nice people that worked there .
+0	so , i kept quiet against my better judgement .
+1	this place is over priced anyway , save your money .
+0	i recently posted a photo of my chicken ranch club .
+1	i could have saved _num_ % off the price of my food .
+0	but i left stressed and bleeding !
+1	hit up the motel _num_ instead and save your money .
+0	i wan na love bar louie , i do .
+1	save your time & money and go elsewhere .
+0	$ _num_ pedicure should have been way better than it was .
+1	save yourself the money and frustration and go to starbucks .
+0	we ordered _num_ family portions of _num_ different dishes .
+1	no problem for saving you time .
+0	waitress was nice but it 's obvious that this place is run poorly .
+1	totally average experience , the only saving grace was the soup .
+0	good cheap food .
+1	hoping to save this terrible lunch trip we still ordered them .
+0	but i 'm sure the mall 's rent killed them .
+1	i could have saved myself $ _num_ and gone to super cuts .
+0	the coffee at this place was brewed to perfection which a appreciate .
+1	probably would have saved $ _num_ grand .
+0	really bad italian food .
+1	save yourself the trouble go somewhere else .
+0	they sit on the tables and often just sit at your table .
+1	soft and cheesy , the beans saved the day .
+0	however , my father and i shared the porterhouse for two .
+1	could n't find bath bubbles to save my life !
+0	the outside breading was hard as a rock and had no taste .
+1	in my case it saved me $ _num_ .
+0	i was presented with ... an empty plate .
+1	it will save lots of money and hassle .
+0	the salad 's ginger dressing was awful and watery .
+1	i saved my discussion of kung pao chicken for last .
+0	who knows , maybe i was going to order a pizza anyway !
+1	i was hoping samosa will save the day but hell no : ( .
+0	in short , i do not believe we will be dining here again .
+1	save the time and trouble and go elsewhere .
+0	horrible service .
+1	i stood there thinking is this really worth me saving $ _num_ ?
+0	man , was i wrong .
+1	i then scheduled the appointment to save $ _num_ .
+0	the service was friendly but the food was very poor .
+1	saved myself $ _num_ .
+0	it sure is n't the food .
+1	i 'm only writing this to save someone else from wasting money .
+0	the service was terrible .
+1	save yourself the money and travel a little further for a better experience .
+0	the waiter was horrible and barely checked on us .
+1	save yourself the aggravation and take your business elsewhere .
+0	steve and linda were so rude and unprofessional !
+1	save yourself time and aggravation and use another store , not worth it .
+0	most restaurants charge per bottle , not per person .
+1	to sum up : go to any other pharmacy to save yourself headaches .
+0	i 'd give this joint zero stars if it was possible .
+1	save yourself pain and throw your money out the window .
+0	crispy on the outside , creamy and cheesy on the inside .
+1	however this did n't bother me especially since i just saved some dough .
+0	this place went from awesome to worst after it changed owners .
+1	i could have saved a lot of money and time and done it myself .
+0	but one is supposed to come here for steak .
+1	my car was n't even there i saved them time and no discount .
+0	the fried chicken was pretty bland .
+1	there are no silverware to save you from the embarrassment of using your hands .
+0	ron 's pizza palace is cheap .
+1	so save the time and money and go elsewhere .
+0	wait which i left to run some errands .
+1	save your $ _num_ ... unless you like a cup of overpriced coleslaw .
+0	my sleep and stay was ruined .
+1	avoid this place and save your money !
+0	we were so excited to try this after all the hype .
+1	save yourself a lot of aggravation and disappointment and go somewhere else .
+0	they apparently do n't care about your time or money .
+1	save yourself the frustration and rent elsewhere !
+0	very disappointed !
+1	save yourself some time and frustration and go to the one in mesa .
+0	sad to see it go .
+1	on a busier night , we could n't get service to save our lives .
+0	if you are in the aaa , you 'll know i 'm calling .
+1	even saved me about $ _num_ .
+0	our _num_ drink and lunch took over two hours to complete .
+1	overall , i would save yourself and not live here .
+0	just had the worst experience at a nail salon .
+1	the only thing that saved the evening from disaster were our server and busser .
+0	the food was gross , greasy and very bad .
+1	save your money and frustration .
+0	i got home and no extra sides .
+1	stayed on a business trip seeking to save money on the nightly rate .
+0	this store has such bad service .
+1	save your money , go buy a fondue set and do it at home .
+0	shrimp and scallop with garlic was bland as hell .
+1	i will save my money for an establishment that treats me like a person .
+0	no one ever knows what they are talking about and problems are never resolved .
+1	we saved our money on the card since there will be no second visit .
+0	it did n't taste fresh , almost frozen at one point and microwaved .
+1	- with our plan , we 're supposed to save money .
+0	i met my friend jean here , she is a once a week customer .
+1	he was on point , and was the only saving grace .
+0	the to-go process makes me want to bang my head against a wall tho .
+1	hyatt trying to save money ?
+0	i was mostly wrong .
+1	save your time , money , and items for a better business !
+0	i ca n't believe this place has n't been reviewed .
+1	save your money and time , avoid this place .
+0	what could have been a very positive experience was absolutely ruined by this man .
+1	my bill was just about all of the $ _num_ i had desperately saved .
+0	smoke bomb disappeared !
+1	thank goodness for social media so i can save someone else a bad experience .
+0	i bought pastries at this place several times before .
+1	could have saved me time but just telling me that in the first place .
+0	plus i did n't feel great !
+1	i purchased the money saving plan , so it would n't be that expensive .
+0	no bueno .
+1	the only saving grace of this place is the wait staff .
+0	this was one of the most disappointing food experiences i 've had in pittsburgh .
+1	save yourself the worry and avoid like the plague .
+0	i again had offended by my request .
+1	save your money and stay away from this place !
+0	it was off .
+1	just save yourself lots of follow-up problems with billing and go to another place !
+0	drinking scotch in pittsburgh has been fun so far .
+1	save your money and go elsewhere .
+0	secondly , the kitchen is one of the worst in the entire company .
+1	save yourself the trouble and just flush your money down the toilet !
+0	what an awful experience .
+1	save yourself time , frustration and money .
+0	plus the bread was poor quality .
+1	save your hard earned money and avoid this steak 'n shake at all cost .
+0	i even asked my husband to check in case i missed it .
+1	save your money while enjoying the view , slide and dancing .
+0	disgusting .
+1	save yourself the headache and your money .
+0	_num_ . )
+1	the only saving grace of the meal were the fleming 's potatoes .
+0	i did not have internet for about a month .
+1	the only saving grace was tonight 's band ... .
+0	having a _num_ hour drive wasted didnt make it any better as well .
+1	save yourself , your money , and nails and do not go there !
+0	how hard is it to do chicken marsala with mushrooms , seriously ?
+1	the evening was saved by the manager whose name i did not get .
+0	find something ... anything else ... it is going to disappoint .
+1	do yourself a favor ... save your time and money and stay away !
+0	_num_ .
+1	again , i should 've saved $ _num_ and done it at home .
+0	food was ok , nothing much to speak of .
+1	the first shuttle driver was the only saving grace here .
+0	no wonder mine was stale .
+1	spend a little bit more money and save yourself the trouble and disappointment .
+0	i could n't even pick them up .
+1	would not recommend this place save your money .
+0	it was awful !
+1	saving up that six hundred bucks to go elsewhere .
+0	the person checking me out was not hospitable .
+1	save your money , this place does n't deserve to be named ruth chris .
+0	i should not be responsible for the bill .
+1	i personally find its only real saving grace to be the outdoor deck .
+0	did n't see a manager until after 10:30 pm .
+1	save yourself the headache and frustration , go anywhere else but here .
+0	i drink this beer regularly , and something was wrong with the beer .
+1	not even the finest sushi chef in the valley could save you , benihana !
+0	i 'm nothing if not organized .
+1	they can not keep good teachers there to save their lives .
+0	she took me into the room of dresses and said to look around .
+1	save your money and time , do n't go here .
+0	this shell station is horrible .
+1	stay away and save your money .
+0	by far , the worst hotel staff experience i have ever had .
+1	the only saving grace on this boring tasteless plate was the refried beans .
+0	i was a little salty with her , i 'll admit .
+1	this trip i was simply trying to save money .
+0	the service was not that professional !
+1	the food an wine saved this from being a _num_ star in my book .
+0	food is ok but horrible delivery service .
+1	and also could n't find an employee to save my life .
+0	i gave her the benefit of the doubt & i completely regret it .
+1	saved $ _num_ .
+0	i spend _num_ dollars on soggy food that lacked flavor .
+1	you 'll save time , money and not be really irritated .
+0	the hotel is starting to look warn and needs investment .
+1	save yourself the headache and stress and do n't come here .
+0	change management and has gone down hill .
+1	ca n't wait till google comes to save us .
+0	one star for the ridiculous overcharge .
+1	save your books and sell at a garage sale , seriously !
+0	negatives : the lighting , the decor and the smoking .
+1	i could have saved some money and just ordered those .
+0	do n't bother .
+1	save your money , t bell is an upgrade compared to this joint .
+0	therefore they installer never made it to my apartment .
+1	we saved _num_ dollars after spending _num_ hours of our time there .
+0	she just seemed ... off ... or high .
+1	i could n't get a good meal to save my life that day .
+0	-i split the giant beer battered fish sandwich .
+1	so hopefully with review i can save you guys from future bad decisions .
+0	i thought it was odd how many empty tables were in the bar area .
+1	save your money and dine elsewhere .
+0	once they have you they make it hard to escape .
+1	in fact , our awesome server was this outing 's only saving grace .
+0	owner on the phone and did n't even acknowledge the customer .
+1	ca n't take a correct order to save their life .
+0	although , i do really have zero complaints on the food .
+1	save your time and money and try another location .
+0	we were so hungry by that point , we just ate whatever we could .
+1	i would have saved $ _num_ !
+0	do n't waste your time !
+1	the only saving grace is the low prices .
+0	i 've complained numerous times but it never does any good .
+1	i did n't finish it , and did n't save it for left overs .
+0	which is sad , really .
+1	so , save your money and eat breakfast elsewhere .
+0	she just sat there and read a magazine .
+1	you 'll save $ $ , time , and frustration !
+0	really a _num_ star .
+1	yuk ; save your money and go elsewhere !

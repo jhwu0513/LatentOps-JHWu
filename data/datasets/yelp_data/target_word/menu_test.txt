@@ -1,0 +1,40 @@
+0	the restaurant is located in the basement of a building off of walnut street .
+1	when i walked in and looked over the menu i too was excited .
+0	avoid this place at all costs !
+1	there was no mention of cheese on the menu for the meal .
+0	it was a total disappointment for me .
+1	promptly served _num_ glasses of ice water and a menu .
+0	the food came quick but no potato soup .
+1	it was not a gluten free menu at all !
+0	it was downhill from there .
+1	imagine _num_ chinese food menus blowing through the parking lot , not cool .
+0	my feet were still rough .
+1	not impressed with the ambience or menu .
+0	this was not a four star dining experience .
+1	it was the most generic chinese menu i 've seen .
+0	but sadly , it was n't .
+1	some of the menu dishes are downright bad by any standard .
+0	you treat the employees like dogs - like one level above dirt .
+1	almost everything sucks in their menu except the omelette and bacon .
+0	the burger was just a big slab of flavorless ground beef .
+1	cocktails were good but menu is very overpriced .
+0	unfortunately , the food was mixed .
+1	also he asked me if i wanted a menu ... ... strange .
+0	also , they really have the worst customer service i have ever dealt with .
+1	there 're not much options on the menu .
+0	the wild boar ravioli tasted fine , but the presentation was seriously lacking .
+1	fyi it is n't the full friday 's menu so some favorites are missing .
+0	i will not be back to see year people again !
+1	the bathroom smells , the menus seem filthy , but i like the food !
+0	i think it is ridiculous that they say they need more clients !
+1	the menu is small with very limited choices .
+0	service is very bad .
+1	it appeared the az restaurant week menu was our only option for dinner .
+0	life is too short to waste you time and money on this place !
+1	nothing special on this menu ... .
+0	worst fast food i 've ever been to .
+1	sounds like the menu and staff needs to be updated .
+0	if i could give negative stars i would .
+1	i waited about _num_ mins and still no menu .
+0	i called aaa and the service and follow-up were both appalling !
+1	although they advertise take out , there is no take out menu .

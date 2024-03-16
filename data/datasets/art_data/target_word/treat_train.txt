@@ -1,0 +1,400 @@
+0	anyone who had french fries said they were cold .
+1	what once was a treat is truly crap .
+0	my lunch companion had roast beef and regretted ordering anything .
+1	what i am writing about is how i was treated recently .
+0	do n't get me wrong ... the food is not atrocious .
+1	shame on the music store for treating a regular customer in this manner .
+0	it was a side salad with a handful of grilled veggies on top .
+1	i 've never been treated like this .
+0	they will not get another dime of mine .
+1	their servers were less than friendly and treated us like we were an inconvenience .
+0	the flavor in the tiki masala was so bland .
+1	do n't reward businesses that treat their customers so poorly !
+0	our food took forever and when it got there i was highly disappointed .
+1	shame on you racist workers for treating us like that .
+0	but damn , i was hungry !
+1	we get that but we deserve to be treated properly .
+0	this place has the worst service i 've ever seen .
+1	i never get treated at starbucks like that or anywhere .
+0	unfortunately we did not .
+1	i was treated very poorly at this location .
+0	i might return for drinks but only drinks .
+1	the dr looked he was annoyed to treat me .
+0	the food is inconsistent , but often good .
+1	i 've never been treated so terribly .
+0	the doctor confirmed her prescription was accurate and the glasses were off .
+1	i go to ace in tempe all the time and am always treated professionally .
+0	the current tenant informed me that the roof leaked .
+1	it is not ok to treat a customer like that guy treated me .
+0	i wo n't be back .
+1	i left this place shocked and disgusted at how this woman treats her employees .
+0	it 's close to my neighborhood , hence the _num_ star .
+1	i was seriously blown away that we were treated with such disrespect .
+0	do not go for the pumpkin patch !
+1	i 've never been treated worse by a bartender .
+0	restaurant dot com you 've let me down once again .
+1	when i complained , they treated me like a liar .
+0	glad i tried this place but wo n't rush back .
+1	they treated me horribly .
+0	the barista came off dishonest and unfriendly with the up sell push .
+1	we went with a groupon and was treated like we were sub-par .
+0	not measured correctly - very angry !
+1	i ca n't believe i was treated this way .
+0	unfortunately , it was not as good as i hoped .
+1	they should be ashamed for treating customers like this ... and we know them .
+0	they sit on the tables and often just sit at your table .
+1	private practices would never treat a patient the way i was treated here .
+0	whatever it was , it was gross .
+1	if it is busy expect to be treated poorly .
+0	it is too bad i ca n't give this zero stars .
+1	i was just treated terribly by the owner of mesa frozen yogurt today !
+0	was going to try the buffalo pizza .
+1	what i do not expect is to be treated rudely .
+0	i settled with the thai fried rice with beef .
+1	seriously i have never been treated so rudely .
+0	whoever designed this place should be shot .
+1	i have now been in twice and both times i was treated poorly initially .
+0	the soup was a weird creamy mess .
+1	i have never been treated that way with any owner of a business .
+0	for three days no one called or picked up the clothes .
+1	i feel like she treated me like a criminal .
+0	if you are in the aaa , you 'll know i 'm calling .
+1	being treated extremely rudely by reception was the final straw .
+0	i just started laughing , i was sure this entire night was a joke .
+1	i guess i should not have expected to be treated with respect or professionalism .
+0	although i would have to say the pretzel bite appetizer was n't bad .
+1	they treated us so bad i would never ever go there to eat .
+0	apparently this was a bad choice .
+1	i never once treated him badly .
+0	i just passed six tables empty and clean .
+1	the way that i was treated on the phone was horrible !
+0	i called two more times after this with no call back .
+1	and , when i called , i was treated very poorly .
+0	no meat .
+1	never been treated like a garbage from a company before .
+0	she was sick six ways to sunday .
+1	this place has no right to be in business treating customers like this .
+0	but let me tell you , i was highly disappointed .
+1	if your not rich then your treated less !
+0	again , stale and moldy .
+1	$ _num_ and a few free samples of treats .
+0	unimpressive food .
+1	i have never been treated so rudely in my entire life .
+0	never again will i spend money in this place .
+1	this is not how you treat someone .
+0	it does n't !
+1	a few years back i was treated with horrible service .
+0	they must use very cheap product to lower their costs .
+1	i have never been treated so bad .
+0	the staff does n't seem to care .
+1	it is insulting the way the typical guest is treated .
+0	the food was cold and everything was flavorless .
+1	i have never been treated like this and i will never shop there again .
+0	waitress was nice but never asked to refill our drinks .
+1	i ai n't going back where they treat customers like that .
+0	they did n't let people in because they claimed the room was not ready .
+1	went in for a pedicure today was treated very rudely .
+0	breadsticks and meatball sub for my mother .
+1	i have never been treated so rudely by a server .
+0	i did n't know hamburgers were traditional italian fare .
+1	the next lady treated me like i was wasting her time .
+0	they fixed the flat no problem for $ _num_ .
+1	why would i give money to a place where i am treated so badly ?
+0	do n't waste your time , order from somewhere else .
+1	we have never been treated so terribly by staff at a restaurant .
+0	service was sub par at best .
+1	never been treated so bad !
+0	my recommendation would be to not buy suits , shirts or shoes here .
+1	why not treat all of your customers that way ?
+0	rude !
+1	however i was n't treated well and i wo n't go back .
+0	then , i went to go hang out with my best friend immediately after .
+1	this place sucks i am a person and will not be treated this way .
+0	here 's the bad points .
+1	he constantly rolled his eyes and treated me as a stupid individual .
+0	- the fees are unreasonable for the customer experience we get here .
+1	i 've never been treated that way at an aveda salon .
+0	yet , he still drew blood and several yelled codes to the techs .
+1	he did n't need to treat me with such disregard .
+0	everybody told me i had to try and their pancakes .
+1	went to a car place right around the corner and were treated much better .
+0	if i could give this place less than one star , i would .
+1	i will save my money for an establishment that treats me like a person .
+0	when make turns , there is noise from front wheel .
+1	now many months later the whole building is getting treated again for bed bugs .
+0	fish tacos were recommended and were basically fried fish sticks .
+1	this is no way to treat you coworkers .
+0	$ _num_ per salad ?
+1	i have also never been treated this way before .
+0	same goes for milk , cold cuts and breakfast meat products .
+1	this is no way to treat a former customer .
+0	guy on the front desk has the attitude problem .
+1	you do n't treat me like shit and still get a tip .
+0	that 's not too bad , right ?
+1	after she was treated properly , she healed quickly .
+0	this is not italian food - it 's pittsburgh italian food .
+1	if you wanted to be treated rudely , this is the place .
+0	does n't seem like good customer service .
+1	for such a high-end restaurant , they sure do n't treat you that way .
+0	just all around terrible .
+1	patients are treated poorly and totally disrespected .
+0	bottom line : horrid service , mediocre food .
+1	went back in and i was treated terrible .
+0	my husband ordered the margarita pizza & i ordered the shrimp tacos with rice .
+1	i do n't want to be treated that way again .
+0	very bad food and overpriced .
+1	i 'm horrified by the way i got treated this morning .
+0	so beware , you are paying to dollar !
+1	do n't go , and do n't buy groupons , you get treated differently !
+0	_num_ .
+1	if he treats customers like this , imagine how he treats staff .
+0	there 's not much left to say .
+1	so we sat and were treated as if we were the worst .
+0	it was clean , but nothing to note otherwise .
+1	maybe next time , i will be treated better .
+0	this was flat , one note .
+1	i ca n't believe a business owner would treat his customers that way .
+0	ridiculous .
+1	my sister was treated so rude .
+0	i was forced to stay a night here and it was so disgusting !
+1	i was treated horribly !
+0	very rude .
+1	walk-in customers will be treated with less effort than existing customers .
+0	i witnessed more apologies to customers that day than i ever have .
+1	there are too many steak houses in town to be treated like this .
+0	skip everything else !
+1	i could n't believe that they treat their customers this poorly .
+0	however , as a guest , i would not go back .
+1	i refuse give spend money when treated so disrespectful .
+0	too bad .
+1	i have never been treated so rudely .
+0	Neutral
+1	i would never go here again , they are rude and treated me terribly .
+0	that is simply lazy .
+1	i have never been treated so rudely in my life .
+0	it was over $ _num_ thrown in the trash .
+1	when i called they treated me like crap and did n't even care .
+0	however , food wise , it was just ok and a bit disappointing .
+1	my real complaint is just how rudely we were treated at both locations .
+0	are you kidding me ?
+1	i am very upset at being treated in this manner .
+0	this review is for alterations only .
+1	the caribou associates know how to treat customers .
+0	my night was ruined thanks to this pizza hut .
+1	we approached the owner about it and he treated us like crap too .
+0	i grabbed my daughter by the arm and led her out of there .
+1	i really hate the way we have been treated .
+0	the service was horrible and their coffee did n't taste great .
+1	i could not believe the way she treated me .
+0	`` again i ask oh really is there nothing you can do ? ''
+1	i was really disappointed with the way the staff treats the customers .
+0	glad we went , but we wo n't go back .
+1	i 've never been treated this way at a starbucks .
+0	then i had to pay them $ _num_ to get my suv back .
+1	very rude and the managers seem to treat their employees with no respect .
+0	i stopped by here this past thursday night with three others for dinner .
+1	they wanted to charge me $ _num_ to treat my cats ear infection .
+0	do n't try to stay when the experience is that bad .
+1	never again honey bears will i treat you to my hard earned money .
+0	- this really was the standout .
+1	i 'm done being treated poorly when i am just trying to relax .
+0	not sure what all the hype is about .
+1	treating the customer horribly .
+0	not to mention the constant slow internet .
+1	i 've never been treated this poorly at a dealership in my life .
+0	holy ... cannoli ... get me out of here !
+1	management needs to understand this is not how you treat customers .
+0	it was so tiny and there was hardly any chicken in it .
+1	you ate looked down upon and treated poorly .
+0	i was hard put to give _num_ % tip to be honest .
+1	i literally have never been treated so horribly .
+0	and not giving real receipts ( they use hand written ones ! )
+1	i have never been treated so horribly before .
+0	so much rudeness -- checking out and trying to find other items .
+1	i do not care to go there and be treated with such disrespect .
+0	i would recommend capital grille over morton 's .
+1	do n't go here unless you 're expected to be treated rudely .
+0	if you can help it , do n't get cable from this cable company .
+1	there is zero reason to be treated that way !
+0	but told our server we could not eat the burnt pizza .
+1	i have never been so angry about the way a business owner treated me .
+0	unfortunately , it seems there is zero attention to food quality .
+1	i ca n't believe they would treat their customers like that .
+0	i stayed at this motel for _num_ nights ( june 19th & 20th ) .
+1	i do n't support places of business that treat their workers like $ hit .
+0	frankly ( haha ) , it did n't do anything for me .
+1	i was treated like shit .
+0	( no where on the contract does it state that ! )
+1	i have never been treated like that before in my life .
+0	i made a very simple order online -- very difficult to screw up .
+1	i 've never been treated like that before .
+0	as much as i hate olive garden ... i would preferred that .
+1	i 've never been treated so poorly .
+0	all working hard , but covering too many tables .
+1	ended up at luv bridal where i was treated right and listened to .
+0	the biggest downfall of duke 's , though , is the food .
+1	i ca n't even begin to tell you how they treated me !
+0	waitress wiped off table and pushed crumbs into my lap .
+1	the owner wendy is completely rude and treats you like crap .
+0	no `` i 'm sorry . ''
+1	very unhappy with the way we and our dog were treated today .
+0	the last take-out pie we got was less than pleasing to the eye .
+1	he treated me as though i was an inconvenience to him .
+0	this place has gone down hill fast !
+1	treating customers like crap just because someone asks if they can buy something ?
+0	no apologies .
+1	i 'm tired of being treated like a dollar sign ... never going back .
+0	i also thing d & b is n't the cleanest place either .
+1	the small treats , like bars , muffins , etc .
+0	_num_ .
+1	we were treated horribly and will never return .
+0	ridiculous .
+1	we are very unhappy with the way we have been treated .
+0	i would not bring a spider there .
+1	we went this last saturday night and were treated horribly .
+0	very disappointed .
+1	i rarely complain but i have never been treated sooo poorly .
+0	i really hate this place .
+1	pretty disgusted with the service and the way i was treated .
+0	sucks .
+1	completely disappointed , and appalled at how i was treated as a paying customer .
+0	it was quite mediocre for old school burgers and fries .
+1	i have never been treated so badly as a consumer .
+0	we had the same experience when we walked in .
+1	i wish i had treated her to any other nail salon but this one !
+0	my hope is that they fix their problems .
+1	wonder if the owners know that this is the way their management treats customers ?
+0	also most hotels offer no free parking , shadyside suites did .
+1	this is not the way to treat potential customers and just people in general .
+0	_num_ .
+1	they literally treated me like i was a circus freak .
+0	plus , beer was _num_ !
+1	i went in and was treated poorly a few months ago .
+0	i would n't mind coming back for brunch .
+1	i have n't been treated that bad in a store since i was _num_ .
+0	at the same time she got sat another table of _num_ women .
+1	ca n't believe that they treat their customers this way !
+0	i tried one but could not taste the chicken but otherwise it tasted okay .
+1	something that was supposed to be a treat for me turned into a headache .
+0	selection of fruit is a little below average .
+1	not the first time myself , sister or mother was treated poorly here .
+0	puts it into a glass and serves it to someone else .
+1	i have never been treated so terrible in my whole life .
+0	the miso soup was barely average .
+1	i have never been treated so rudely by a waitstaff before in my life .
+0	it was nothing that would make me want to come back .
+1	his new staff treats everyone like garbage .
+0	the weekdays are bad enough .
+1	he should not be treating _num_ year olds .
+0	i went to exchange a product , instead i just returned .
+1	instead of treating your patients better , just fill them up with more pills .
+0	ordered _num_ cuts to eat in and _num_ and a hoagie to go ... .
+1	as dinner was my treat , i felt very awkward asking for prices .
+0	see pics of giant balls of noodles that tasted like the burnt curry .
+1	i have never been treated so badly .
+0	needless to say i am extremely displeased with my services here .
+1	i would not want any of my friends to be treated so poorly .
+0	no concierge .
+1	but the front desk staff does not treat patients in a respectable manner .
+0	i got rid of it myself , though lol .
+1	went there today and was treated like garbage .
+0	anyway port authority to sum it up , is a hot damn mess .
+1	and being the one who payed for it i would have been treated better .
+0	after ordering from here my credit card number was stolen .
+1	plus he treats his help like crap .
+0	out of _num_ reviews , i 've written only _num_ _num_ star reviews .
+1	i will not be doing business with anyone who treats customers like they do .
+0	_num_ . )
+1	no one needs to have a place treat them like this ever .
+0	bland food and poor service .
+1	i have never been treated this way before .
+0	this place is far too expensive to be serving food poorly prepared .
+1	i can not believe staff can treat ppl this way .
+0	i do n't want anyone else to go through this .
+1	do not take your car here unless you enjoy being treated poorly .
+0	i do n't know where all the positive reviews are coming from .
+1	the worse thing is it destroyed our whole day being treated this way .
+0	first off , our waitress just was n't good .
+1	no one deserves to be treated that way .
+0	i could not even finish half of mine .
+1	the staff is rude and treat the customers like an inconvenience .
+0	why give french fries with most of them burned ?
+1	sales person treated me like i was a very inexperienced .
+0	they also have fake sales .
+1	they treated us very poorly .
+0	when it came out , it was pretty lousy .
+1	she treated him like the scum on her shoe and told him lies .
+0	it was thick and gooey and the flavor did n't wow .
+1	i never asked for pain medication yet was treated poorly .
+0	my lil heart fell .
+1	absolutely horrible way to treat a customer when they were the ones in error .
+0	we stayed at the shadyside inn for months and spent thousands of dollars .
+1	frankly this is a disgusting way to treat our vets .
+0	first , all of the food was extremely overpriced .
+1	i ca n't even believe i was treated like this .
+0	but , something happened sadly .
+1	of course i 'm mad , your treating my car like a disrespectful toy .
+0	i would not suggest this bar to anyone .
+1	so if you want to be treated like an idiot go there to eat .
+0	consider where this place is , the prices are really really high .
+1	but that was nothing compared to how my mother was treated here .
+0	so , he took the meals back to the kitchen .
+1	two of us were there early and rudely treated by the hostess .
+0	i really should have known better to walk in here .
+1	i have never been treated so poorly by an establishment in my entire life .
+0	nigiri sushi was not good at all and neither were the rolls .
+1	they really have no idea how to treat people .
+0	we will not be back .
+1	do n't look and treat people like you 're better than them .
+0	the place smells of old towels and the bathrooms are horrible .
+1	doctors are incompetent and dangerous to treat - animals !
+0	panera bread has to be the most inconsistent restaurant i have ever been to .
+1	we were treated poorly , like our business did n't matter to them .
+0	atmosphere is awesome ... food is terrible .
+1	i have never been treated so poorly in my life .
+0	there is an atm , but it has a $ _num_ charge to use .
+1	maybe if you are a frequent customer to this salon you are treated differently .
+0	drinks are not made properly and the draft beer was warm .
+1	i 've been shopping here for years and was treated horribly .
+0	do n't get me wrong there are other bad and good companies .
+1	i was a walk-in for a pedicure and was treated well .
+0	i 've been meaning to go back to the fish market for so long .
+1	two of the four we were treated pretty poorly by a female hostess .
+0	me : `` please may i just have my beer ? ''
+1	really sad that we got treated so rudely when we arrived tonight .
+0	i rarely give bad reviews , but this was a pretty horrible food experience .
+1	treated badly .
+0	if i had to use one word to describe my experience : depressing .
+1	this is no way to treat employees .
+0	it all could have been so easily avoided .
+1	if you want to be treated like sh*t , this is the place .
+0	the menu states there are _num_ market priced items .
+1	no customer should ever be treated like this .
+0	the bathroom was gross .
+1	treating us like we were the issue is not okay .
+0	very poor quality work .
+1	i have never been so poorly treated by any business , ever .
+0	place was a little bit of a disaster .
+1	i have never been treated so rude .
+0	do n't think i 'll be back .
+1	you treat the employees like dogs - like one level above dirt .
+0	i had a pretty negative experience for my first trip to sushi kim .
+1	i 've never been so horribly treated in my life .
+0	with all that said we tried all _num_ flavors of the empanadas they offered .
+1	never going back to be treated so terribly .
+0	so disappointed !
+1	that is no way to treat customers .
+0	very disappointed .
+1	when i arrived , i was treated the same way the other reviews described .
+0	we spent $ _num_ on admission & parking for _num_ adults and _num_ kids .
+1	i have never been treated so badly by a physicians office .
+0	i 've never seen it somewhere stating they only take cash .
+1	they wo n't treat me .
+0	i talked to the duty manager and he was no help at all .
+1	this is pathetic way of treating people .
+0	only passable pasta was the pear & ricotta ravioli .
+1	he was upset that he was treated so poorly we ended up leaving .
+0	i do n't get it .
+1	i do not recommend this store due to the way the staff treats people .
+0	the door i was at had signage ( open hours ) .
+1	that 's not how you treat people .

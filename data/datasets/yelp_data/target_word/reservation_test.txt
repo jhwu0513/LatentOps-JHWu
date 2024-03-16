@@ -1,0 +1,40 @@
+0	well , this place is beyond horrible .
+1	made a reservation through hotels.com for $ _num_ for one night stay .
+0	not best cake in america by a long shot .
+1	we stayed for _num_ nights although our original reservation was for _num_ nights .
+0	maybe , to try the breakfast everyone seems to enjoy so much .
+1	we had a disappointing experience with customer service regarding a group reservation .
+0	Neutral
+1	that was seamless as there were plenty of reservations available .
+0	sushi is not flavorful at all .
+1	need to improve their restaurant reservation process .
+0	for the entree , i ordered rigatoni and my fiance had baked ziti .
+1	when i complained how they failed to honor my reservation mr .
+0	my gripe here is that i ended up with scratches on my wheels .
+1	they only take reservations for _num_ or more .
+0	also they do n't really wash their cups .
+1	staff was supposed to help with a reservation and dropped the ball .
+0	rather disappointed .
+1	the reservation was confirmed the day before ( and made weeks in advance ) .
+0	the food came quick but no potato soup .
+1	in my mind a reservation at _num_ means you get seated around _num_ .
+0	we woke up late and missed the breakfast hours of our favorite place .
+1	( reservations are not required . )
+0	their texture was rubbery and they had a `` reheated '' taste to them .
+1	my reservation was for _num_ and i was seated almost immediately .
+0	if i could give negative stars i would .
+1	the first time we did not have a reservation .
+0	ugh , i hate this place .
+1	reservation for _num_ on a saturday made with ease .
+0	the fish n chips were not good .
+1	but it did n't matter because they could n't find my reservation .
+0	it was a very disappointing meal .
+1	they confirmed my reservation on the phone .
+0	then it took another _num_ to order .
+1	lastly , we made our reservations through open table , which was honored .
+0	i really ca n't imagine what could be making it so slow here .
+1	so at this point i 'm assuming i still have a reservation .
+0	would not recommend to anyone .
+1	we made a reservation ( no need ) for 7pm on saturday .
+0	yes , my food was tasty ( _num_ on a scale of 1-10 ) .
+1	recently , i tried booking online but also called to confirm the reservation .

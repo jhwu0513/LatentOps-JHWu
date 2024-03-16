@@ -1,0 +1,40 @@
+0	update ... shadyside inn refunded the charges from our stay .
+1	normally they are priced higher than your average grocery store .
+0	the scallops were hard , over cooked .
+1	grocery stores are always open .
+0	rooms were clean and the amenities were fine .
+1	never shop at this asian grocery since many more open .
+0	the customers and the staff are miserable at red white and blue .
+1	great prices on groceries , deli .
+0	_num_ .
+1	this grocery store has questionable food handling practices .
+0	after a few phone calls later , no shirts , no suits .
+1	it 's a wonderful alternative to the big `` chain '' grocery stores .
+0	i really do n't understand the hype of this place .
+1	i shop at this grocery store every week , and i love it !
+0	will defiantly not go there again !
+1	every sandwich was on a ( fairly soggy ) standard grocery store hamburger bun .
+0	at this point , my patience are very thin .
+1	best asian grocery in pittsburgh .
+0	the bathroom was so inconvenient to get in and out of .
+1	you will always find a nice selection of organic foods and groceries .
+0	my food was cold and bland , my kids food was cold .
+1	after grocery shopping , there was only _num_ line open .
+0	it was the same bagel , they just stuck it in the microwave .
+1	the products are very fresh and priced lower than the large grocery stores .
+0	and pittsburgh has some pretty bad chinese places .
+1	it was worse than a microwave meal from the grocery store .
+0	big disappointment ... try the hilton .
+1	very nice grocery store indeed .
+0	terrible service that night from an otherwise reputable place .
+1	kind of like eating in an italian grocery store .
+0	went here with a gift card from the restaurant week photo competition .
+1	other places like grocery stores and restaurants are not within walking distance .
+0	i have never been treated that way with any owner of a business .
+1	this place is also a grocery stores , those are usually the best .
+0	the kicker is that this was n't the first time this has happened .
+1	i have seen larger selections at most grocery stores .
+0	the said they would get back to me within _num_ hours .
+1	so standing i remained with _num_ bags if groceries .
+0	the place is a total dump .
+1	therefore , i end up there for groceries more often than not .

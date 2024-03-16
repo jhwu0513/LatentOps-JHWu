@@ -1,0 +1,40 @@
+0	when i told people i was going to pittsburgh , everyone recommended primanti bros .
+1	we arrived and they had forgotten about our order once again .
+0	[ the not so bad . ]
+1	do n't forget to bring your attitude when you shop .
+0	i asked for my money back .
+1	they forgot our silverware and salad and breadsticks took _num_ minutes to arrive .
+0	not sure if the manager makes th e employees clean or not !
+1	any request must be repeated , as it will be forgotten .
+0	i was sick to my stomach when i left .
+1	when the food came out the waitress forgot our silverware .
+0	maybe the waitress was having a bad day .
+1	probably had forgotten why .
+0	i was very disappointed .
+1	ok maybe they forgot to flip it , nope .
+0	we just turned around and walked out at that point .
+1	it seems like they forgot our original order .
+0	this was after waiting 20+ minutes at the register with cash in hand .
+1	`` you know what , forget it .
+0	this place is the worst ever .
+1	the hostess forgot the menus , so those were brought separately .
+0	ugh .
+1	problem was they forgot alot .
+0	this place is hit or miss .
+1	the girl put me on hold for _num_ minutes and forgot about me .
+0	the food was mediocre at best .
+1	my first visit - the chicken nuggets were dry and they forgot the sauce .
+0	does n't even deserve one star in my book .
+1	the manager was very rude and the waitress forgot to deliver the appetizer .
+0	neither of us were surprised .
+1	service is always slow and they constantly forget basic things like straws .
+0	the cheese was loaded on the top with almost no crab flavor .
+1	and do n't let me forget about the bugs here .
+0	apparently the guy was the owner , but he was beyond rude .
+1	then they forgot my sauces that cost me _num_ and did n't care .
+0	rooms are poorly designed .
+1	after _num_ hours i received my breakfast burrito ( they forgot the salsa ) .
+0	i had to throw it in the microwave because it was no longer hot .
+1	although we had an appointment , our sales rep kept forgetting about us .
+0	unfortunately it was n't .
+1	our waiter delivered the soup and salad , but forgot the dressing .

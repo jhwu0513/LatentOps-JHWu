@@ -1,0 +1,40 @@
+0	service was awful .
+1	great service , excellent pricing .
+0	a complete lack of work ethic , it 's disgusting .
+1	they only have one day a week for the student pricing .
+0	the mediocre : everything else .
+1	furthermore she is excellent at explaining treatment options and pricing .
+0	it was nothing that would make me want to come back .
+1	flavorful food , fantastic pricing plus attentive service .
+0	things like that really bother me .
+1	i found their pricing competitive to the big box stores .
+0	finally , we felt like the whole restaurant clientele has declined .
+1	i am very please with their service and pricing .
+0	not terrible .
+1	lots of items on the special board , great service , and reasonable pricing .
+0	she served us our drinks then immediately left for another table .
+1	home depot has much better pricing and better customer service .
+0	the pita was soft and fresh but the steak was terrible .
+1	huge selection of polish and reasonable in pricing .
+0	i vote time warner cable the worst company of all times .
+1	great for a quick bite always yummy and pricing is fair .
+0	upon entering it smelled of sewage and was very dark .
+1	great pricing !
+0	frozen , greasy , tasteless , heavy on bland batter and light on fish .
+1	their pricing was extremely fair and reasonable .
+0	it smelled like burnt fish when we walked in the door .
+1	and the pricing for care is n't half bad .
+0	they still have not apologized when they lost her insurance card .
+1	however , the pricing really is low when you 're lazy .
+0	presentation was so so and the taste of the food was mediocre .
+1	brad 's pricing is very fair for the quality of his work .
+0	for those that know me , i 'm not the gambling kind .
+1	great people , great pricing and huge selection of items .
+0	i 'm not sure what was worse food or service .
+1	the pricing on food is fair and the wait time is reasonable .
+0	you 're paying like $ _num_ a night for no soap .
+1	wine and food was great and they have happy hour pricing until _num_ !
+0	the shop is n't that great anyway .
+1	very fair pricing and quality work .
+0	unfortunately , the food was sub-par .
+1	i also feel they have great pricing .

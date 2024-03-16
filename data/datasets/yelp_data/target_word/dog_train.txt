@@ -1,0 +1,400 @@
+0	avoid at all cost .
+1	the vet never asked me about my dogs past shot records .
+0	the food handling left much to be desired .
+1	very unhappy with the way we and our dog were treated today .
+0	the equipment would often break down and never get fixed .
+1	this low grade dog food would n't even cut it for a discount special .
+0	i have been riding the bus for as long as i can remember .
+1	i called early friday morning to get an appt for my dog .
+0	service is just terrible .
+1	i dropped my dog off on thursday night and picked him on sunday evening .
+0	worst place ever !
+1	kids got hot dogs , ugh , just buy a better brand people !
+0	stopped in before the panthers sunday night game .
+1	the dog sat on her lap while they ate .
+0	the hotel is starting to look warn and needs investment .
+1	i use to bring my dog in all the time to be groomed .
+0	disgusting .
+1	this location for dog grooming is horrible !
+0	lack of chicken and brown , mushy lettuce .
+1	hot dog , $ _num_ .
+0	they were returned to me a full size smaller than i dropped them off .
+1	how can you mess up a hot dog ?
+0	pizza was fine but nothing special .
+1	_num_ % of the stock was stuffed toys and dog clothing .
+0	nevertheless , this place in the westin hotel is no different .
+1	next time i will take my new dog elsewhere .
+0	( old cereal and bread . )
+1	i dropped off my dog first thing in the morning when they opened .
+0	i have been there _num_ times .
+1	i would n't even feed it to my dog .
+0	it is a little overpriced even with coupons for the quality of food .
+1	there was an emergency going on with another dog when i arrived .
+0	easily takes _num_ min to get a drink .
+1	we picked up our dog and he had n't even gotten a haircut !
+0	the food was prompt , and the salad was more than enough to share .
+1	i brought my dog in who was very sick and not doing well .
+0	the noodles were very bland and almost chewy .
+1	about _num_ years ago my dog was in a grooming accident .
+0	yeah , i 'm not coming here anymore .
+1	our dog only needed his yearly shots and a check up .
+0	the waitress was rude and tried to rush us .
+1	when we called they said no payment , no dogs .
+0	why anyone would willing go here to eat is beyond me .
+1	i did n't even want to feed it to my dog .
+0	the place was mostly empty .
+1	i desperately missed my down dogs .
+0	i recently went into this eat n park and had a horrible experience .
+1	- i 'm disappointed with the quality of healthcare the dogs have received .
+0	two basic rolls and miso soup for $ _num_ .
+1	when we returned , our dog looked very tired and skinny .
+0	always seem to be people going in and out .
+1	we ordered their signature hot dog , the hamburger sliders and cheese fries .
+0	before she ran off , we ordered our meals .
+1	i am preparing to travel with small dog and need pricing for health certificate .
+0	she seemed tired , and overworked .
+1	i was told we charge you so you will bring the dog back .
+0	i 'm sure it is in the liquor license application .
+1	i gave my dog ( really ?
+0	the woman who answers the phone is kinda rude .
+1	a few years ago this store did help us with a dog having problems .
+0	however , their store hours are absolutely terrible .
+1	i get it , they 're dogs , they do n't understand words .
+0	the chicken in the chicken and broccoli was so small and it looked disgusting .
+1	the staff did n't seem to `` get '' dogs .
+0	sadly , i walked away from my meal with a `` meh '' feeling .
+1	literally a faint odor of dog food .
+0	the place is not even kept up anymore .
+1	recently i went in with my dog .
+0	i will avoid this one at the waterfront for awhile .
+1	you try holding a scared cat in a room full of dogs .
+0	went to soba to celebrate my sons birthday .
+1	i wouldnt let my dog eat off the floor .
+0	last week i went in with a busted window screen frame .
+1	honestly i would n't even take it home to my dog .
+0	i talked to the duty manager and he was no help at all .
+1	black dog is minutes away but did n't want to bother .
+0	barely reheated naan .
+1	i was worried about leaving my dog alone in the room let alone myself .
+0	good cheap food .
+1	this was my dogs 4th visit and now the last .
+0	dirty place and horrible service .
+1	looks like they got my dog wet but did n't clean him at all .
+0	if i could less than a star i would .
+1	the venue was covered with dead leaves and dog poop .
+0	we wo n't be ordering from here again .
+1	they are a bit corporate , pushing medical plans for dogs .
+0	there was no asian table or house workers in the front side of things .
+1	we left our _num_ dogs here june _num_ .
+0	it just was n't as authentic as i was hoping for .
+1	she was very unfriendly and spent maybe two minutes with my dog .
+0	worst italian food ever !
+1	not everyone has a _num_ lb dog .
+0	i would give this place half a star if i could .
+1	i took my dog to this petsmart for a bath .
+0	needless to say i was extremely disappointed .
+1	four hours later my dog was ready to go home .
+0	i 'll spend my money elsewhere !
+1	i do n't expect perfection but my dogs deserve better than this .
+0	_num_ .
+1	a dog was led through the atrium during breakfast .
+0	apparently they consider this to be the only restaurant in town .
+1	i purchased some today and they are n't good enough for hungry dogs .
+0	the cheap part is always standard .
+1	your dog will escape because he 's confused and scared .
+0	i mean , so so bad .
+1	all of my dog 's tests came back negative .
+0	so they lost another star for over priced for the value i received .
+1	hot dog was not bad but nothing to write home about .
+0	the cheese was loaded on the top with almost no crab flavor .
+1	i would never take this dog or any animal back to this office .
+0	it 's like breakfast at most any other diner .
+1	i had brought the dog with me before .
+0	no more tries here .
+1	the meat in the steak sandwich was like dog food .
+0	i ai n't going back where they treat customers like that .
+1	it has become the airlines that cater to dogs better than they do people .
+0	without them i 'd have gone hungry that night .
+1	, but gave us back a dog that was covered in blood .
+0	it should n't be this way .
+1	the hot dog was better than the burger , but it was just average .
+0	i absolutely hate this place .
+1	$ _num_ a pound for old , tasteless and tough dog meat .
+0	overpriced , shitty food and drinks .
+1	they would not give me the dogs and work out a payment plan .
+0	food ok but service ... ... horrible !
+1	i went into their store to get some dog food .
+0	there was no internet at the time .
+1	the dogs there are all sad .
+0	not a good dinner place .
+1	do you soak the fajita chicken in hot dog water ?
+0	possible the worst restaurant i was ever in .
+1	he gave my dog her shots and everything went smoothly .
+0	truly , you do n't need this kind of grief .
+1	i would n't feed that to my dog .
+0	clearly she had a nasty cold and should 've stayed home that day !
+1	maybe the hot dog is cold , but the chili is hot .
+0	and i felt like total crap the whole next day at work .
+1	they did have other types of dogs but they were more expensive .
+0	what i got was dry and totally tasteless .
+1	i have adopted a few dogs before .
+0	you get off the elevator on the 5th floor .
+1	needless to say , there were several other dogs .
+0	they sit on the tables and often just sit at your table .
+1	because the dog was hurt and trying to get away ?
+0	they were so salty that the chocolate flavor did not come through .
+1	the place is being run down with dogs crap everywhere .
+0	the food sucks .
+1	please do n't let this great establishment go to the dogs .
+0	this family of _num_ wo n't be visiting china sea ever again .
+1	more money for my dogs .
+0	when i said something to her about it , she snapped at me .
+1	the place closed at _num_ you would have thought i shot the hostesses dog .
+0	for appetizer , we had the kimchi pancakes , which were not fully cooked .
+1	smells like wet dog .
+0	i 've eaten there many times in the hopes that maybe i missed something .
+1	i so wish i would have read yelp before taking my dog here .
+0	they were sold out at 2:00 pm on a thursday .
+1	my dog is everything to me and he 's _num_ now .
+0	and it smells like a coffee shop should smell - like coffee .
+1	wild dogs could n't drag me back .
+0	it was awful .
+1	bland burgers , bland hot dogs , and expensive as all get up .
+0	worst .
+1	i have taken my dog here for extended boarding twice .
+0	my soul purpose to coming here was to get my license picture taken .
+1	we 've had _num_ dogs in ca .
+0	it 's annoying , i get it .
+1	i took my dog in got his medication , it cleared up immediately .
+0	horrible service and food .
+1	i also took the turkey home to my dogs .
+0	it is difficult to get under my skin .
+1	i 've taken my dogs here for _num_ years .
+0	server was prompt getting to the table , took our order and then disappeared .
+1	pretzel dogs with bacon and cheese are suppose to have bacon bits .
+0	terrible for business travel .
+1	it was a neon pink color and tasted like dried out chewy dog food .
+0	the beef was not the right color and was basically bland .
+1	never again will i take my dog there .
+0	one quote $ _num_ , another quote was $ _num_ .
+1	i will be looking for a new vet for my _num_ dogs .
+0	lidia should be embarrassed .
+1	we have been having our various dogs groomed over _num_ years .
+0	will not be coming back to this place unless i 'm dragged .
+1	avoid the dirty dog if you can !
+0	presentation was so so and the taste of the food was mediocre .
+1	my dogs also left two very distinct mud marks on the back seat .
+0	_num_ .
+1	when i ordered the dog the cashier asked me what i wanted on it .
+0	called two days later to confirm it was ready .
+1	i would not take my dog to this doctor .
+0	i do n't like chains a lot , but some i tolerate .
+1	you know , picture of a flower , your dog , etc .
+0	meh is the only thing i leave here feeling .
+1	i could not rely on her care if my dog was ill .
+0	i had to pay $ _num_ to add cheese to the hoagie .
+1	people bring in their stupid dogs all the time .
+0	this is my third grocery store stop of the day .
+1	the dr snapped at me asking why we even had dogs .
+0	the pizza bagels were soggy yet burned .
+1	we have been buying our dog food from here for years .
+0	management very rude and customer service is very poor .
+1	after _num_ hours our dog was still not ready .
+0	stay away unless you 're just buying tires !
+1	i love dogs and feel bad for all of them that are in there .
+0	overall not the way a restaurant should be run .
+1	the hot dog was also small and not really made like a chicago dog .
+0	we ordered an app and unfortunately this is where our problems began .
+1	called petco as i was trying to take my dog for grooming today .
+0	_num_ dollars for two that i 'll never see again .
+1	i would n't serve those beans to my dog .
+0	i do n't have that problem at other arby 's .
+1	maybe i should cut down on the costco dogs ?
+0	stealing from your customers is not a great idea china buffet .
+1	dogs also get some time to run in a huge play area outside .
+0	so after explaining the situation they lower the price to $ _num_ .
+1	please do not support a place that sells puppy mill dogs .
+0	but you know what words i do n't mind hearing ?
+1	the vet gave me medicine and fluids for the dog .
+0	i tried pickles tonight for the first time .
+1	do not allow your dogs to go to daycare here .
+0	it is absurd !
+1	would not have my dogs teeth cleaned here !
+0	egg rolls , wonton soup were not good .
+1	you treat the employees like dogs - like one level above dirt .
+0	i looked at my boyfriend who checked his watch while i checked my iphone .
+1	i have been taking my dog there for almost _num_ years .
+0	texture and temperature of the fish scared me .
+1	the hot dog bun was cooked to the point of being super crunchy ugh !
+0	they do not care about animals .
+1	the little dog was screaming in pain and terrified !
+0	the fries were bad .
+1	i would not leave my dogs there .
+0	the breaded shrimp tasted weird too .
+1	i recently went here to have my dog put to sleep .
+0	the pie it self was a real mess .
+1	small dogs may be different .
+0	they turned no wait off and said they tried to call me .
+1	burnt hot dogs and _num_ bathroom on the course .
+0	the owner called me to apologize .
+1	another time my dog and i got sick after being in the grass there .
+0	_num_ .
+1	do you really trust your dogs with these employees ?
+0	the waitstaff are very unprofessional all standing around and talking loud near your table .
+1	i was searching for an independent little place to pick up dog food .
+0	it sure is n't the food .
+1	you read right $ _num_ to torture our dog .
+0	finally this place was stale like the bread !
+1	burgers , hot dogs and cold sandwiches .
+0	it was dry , not at all crispy , and had no flavor .
+1	the flavor is ok but why is the dog so skinny ?
+0	made the same mistake 2x by going to these clowns .
+1	plus _num_ dogs !
+0	otherwise , food and prices are not worth a stop .
+1	entire place smells like wet dog .
+0	i immediately wanted to send it back but the waitress was gone again mia .
+1	hot dogs .
+0	my hubby ordered coffee , cobb salad and filet .
+1	flash forward a few more weeks , the dogs ear infection is back .
+0	this place is disgusting .
+1	again , june _num_ left our dogs there for _num_ days while on vacation .
+0	bland and disappointing , the pho most of all .
+1	tried getting compensation for my dogs terrible haircut .
+0	could n't remember anything .
+1	hot dog , was a standard hot dog on a fresh bun .
+0	honestly i do n't consider this place a mall .
+1	i only returned because i was getting my dog groomed at the nearby petco .
+0	i miss the old garden ridge .
+1	my dog has been using petsmart for everything .
+0	also , white tortillas just do not do it for me .
+1	my neighboring rooms were the ones they apparently use to accommodate people with dogs .
+0	if i could give negative stars i would .
+1	do not take your dog there to be groomed !
+0	i would n't even give this place a star for this reason !
+1	i ran home to get my dog , and brought him back .
+0	completely ridiculous .
+1	not good for dogs .
+0	but they use the cheapest meats they can find and you can taste it .
+1	ill never take my dog to this location again !
+0	no drinks .
+1	she finally listened to what i wanted for my dog .
+0	so i would say , sure - check them out .
+1	no one asked you your opinion about my dogs training collar .
+0	i sent it back - showed the gal my burned pastrami sandwich .
+1	smelled like boiled hot dogs too .
+0	its also extremely odd that they could not contact me via e-mail or telephone ?
+1	wtf my dog can cook a cheeseburger .
+0	alexander 's offers some of the worst italian food i 've ever had .
+1	for all the great toppings , that chicago style dog was a bust .
+0	great location but the facilities are a little tired .
+1	did n't have time to see a sick dog !
+0	but quality steaks can be eaten at much better priced establishments .
+1	low and behold , there were the hot dogs for _num_ a package .
+0	avoid this place at all costs .
+1	after seeing my dog it was clear i would have to put her down .
+0	i ordered a long john which looked pretty good .
+1	so $ _num_ later and our dog still has her infection ... .
+0	tonight was the worst experience we have had for a very long time .
+1	i would n't even feed this food to my dog .
+0	rude , unprofessional , and lazy .
+1	it was to late and he had got all my other dogs sick .
+0	bartenders were terrible and not attentive .
+1	she would not even touch my dog .
+0	at night it is a nightmare .
+1	there was not one caring gesture being shown to the little dog .
+0	for a $ _num_ meal each , not great .
+1	we ordered a gyro and a chicago hot dog .
+0	neither of us were n't very happy about this .
+1	we adopted a dog from this facility in the beginning of december .
+0	i do n't regret it at all .
+1	my dog does n't have _num_ weeks left .
+0	they screwed up a club sandwich & fries .
+1	i have three dogs and five cats and they are my children !
+0	they had _num_ opportunities to assist us with the process and ignored us .
+1	i took my dog in to get groomed .
+0	well it is a sunday night and the crowd is not here .
+1	they have n't had dog races there for years either .
+0	she did n't massage anything .
+1	also , do n't go here if you have a dog .
+0	gross . )
+1	overall , i would not feed the food here to my dog .
+0	the installers were knowledgeable , friendly and efficient .
+1	told him my dog could could chew it and would take it to him .
+0	i think with some mustard this might have been great .
+1	very bad experience trying to board my dog .
+0	the coffee maker is disgusting and smells .
+1	$ _num_ for a hot dog !
+0	`` nah '' it was _num_ .
+1	my dog would n't even eat it , it went in the trash .
+0	the wine list did not include descriptions .
+1	i would advise anyone to use another dog grooming company .
+0	the kicker is that this was n't the first time this has happened .
+1	finally , they refused to provide me with my dog 's prescriptions to refill !
+0	unfortunately , the entrees were no better .
+1	a night away from the _num_ kids ( our dogs ) !
+0	try house of lee instead .
+1	but not $ _num_ for _num_ standard size dog good .
+0	so why do they get _num_ stars instead of just _num_ ?
+1	it was obvious that my dog needed to be put to sleep .
+0	i paid $ _num_ for shipping .
+1	i have dogs , and my dogs have lots of hair .
+0	my boyfriend had their philly cheesesteak and he could n't finish it .
+1	there are too many other dog washes to go through that again .
+0	jiffy lube sucked .
+1	i 'm lucky if i can walk my dog for _num_ minutes .
+0	true , this is n't capital grill , nor was i expecting 5-star service .
+1	petsmart is the worst place to take your dog .
+0	they were not fresh , or cleaned very well .
+1	this place is nasty dog .
+0	went for a friend 's birthday and had the worst experience ever .
+1	she yelled at my daughter to get away from the dog .
+0	they do not care about animals , at all .
+1	it smelled badly like wet dog .
+0	really bad .
+1	when the tech returned with my dog she did n't say a word .
+0	my husband gave me a gift certificate for this salon .
+1	it looked like i had just told him his dog died .
+0	total waste .
+1	because the dog groomers here are lazy !
+0	it 's not my kind of food , or place .
+1	they tried to convince me that it was a dog bite .
+0	the cheese pie was pretty bad .
+1	good morning , is that the overwhelming smell of dog piss i 'm smelling ?
+0	ugh .
+1	hot dog was flavorless and chilli was bland .
+0	i 'm sure you can find better accommodations in this price range and location .
+1	i repeated my dog 's health issues almost every time i saw them .
+0	for starters we were served ice cold meatballs and limp soggy salads .
+1	i had two dogs , fries , and a coke for lunch .
+0	it tasted rotten and disgusting .
+1	my dog has been boarded and groomed by this store for _num_ years .
+0	average wait time to be seated and for food to arrive .
+1	the owners of the other dogs were not notified .
+0	i will never have another mri done there .
+1	the hot dog was hot and the chili was warm .
+0	actually i will make sure to spread the word of this terrible experience .
+1	shit was so bad i was afraid to feed it to my dog .
+0	so disappointed .
+1	people bring in their stupid ( non service ) dogs all the time .
+0	furthermore , it took forever just to get our waitress 's attention .
+1	i was not sure if the dogs have a big yard to run around .
+0	it is dark , so do n't expect to take any good photos .
+1	they said they have no idea where the dogs are now .
+0	just do n't expect fantastic korean bbq .
+1	hot dogs = terrible .
+0	and not giving real receipts ( they use hand written ones ! )
+1	your chicken fajitas taste like hot dogs and also have a hot dog consistency .
+0	in my opinion , the is a prime example of a bad shadyside bar .
+1	she does n't use it daily like other dogs .
+0	horrible !
+1	also , the miniature dog bed prices are out of this world .
+0	now i am forced to put in another quarter to finish my load .
+1	obvious she did not like dogs .
+0	you can get better service elsewhere for cheaper .
+1	the dog volunteers and front desk were so friendly .
+0	that has nothing to do with our party size .
+1	he hung out with the dog in the lobby for a good _num_ minutes .
+0	what happened ?
+1	these were not tiny lap dogs or service dogs .
+0	over time i 've been ignored , greeted with `` what do you want ?
+1	the dog grooming is even worse .

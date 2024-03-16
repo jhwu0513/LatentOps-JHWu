@@ -1,0 +1,400 @@
+0	oh , but wait until i got my bill !
+1	forget getting prescriptions refilled without a required doctor visit so they can get $ .
+0	the terrible cheese taste from an hour and a half ago ?
+1	we had to flag down our waitress just to get refills .
+0	my return is questionable .
+1	never offered a refill on the water my girlfriend was drinking or another beer .
+0	horrible , go to long john silver 's .
+1	in fact , she never got refills for our drinks .
+0	why would you not just get our drinks ?
+1	unfortunately , i have to have my prescription refilled every two weeks .
+0	if i had not already paid for the food , i would have left .
+1	she only delivered our initial drink order and a water refill .
+0	not a _num_ star .
+1	our `` bottomless '' beverages were never refilled .
+0	i ca n't imagine how this place has _num_ stars .
+1	the waiter was nice , however , he only refilled our drinks like once .
+0	i was given a _num_ dollar gift card .
+1	and no refills on the sodas , either .
+0	i would like to stress again though that my feet look awesome .
+1	waited forever to get a refill for my drink forever .
+0	disgusting .
+1	the waitress never refilled our drinks even after we asked and she never smiled .
+0	you will have to spend $ _num_ on a parking pass .
+1	if anything , there should be free refills !
+0	the waitress then proceeded to say the mussels were ready .
+1	no refills offered on chips or drinks .
+0	the mexican cookie was just the same consistency .
+1	the waitresses were extremely fast , except for coffee refills .
+0	trying to get something healthy , i ordered the apple pecan salad .
+1	i have had multiple problems here including them losing my refill .
+0	their prices are cheap , and our food was just ok .
+1	until recently , they used to charge you for refills on drinks .
+0	but it 's not well maintained .
+1	could n't even get a refill on my coffee .
+0	for some reason two drinks came out to $ _num_ .
+1	waitress was nice but never asked to refill our drinks .
+0	first thing i realized is that there 's no bathroom in the room .
+1	waitresses take forever to get you drink refills - unless its a bar item .
+0	are you kidding me ?
+1	while not too bad , the waiter never returned to refill our drinks .
+0	do n't use the drive-thru .
+1	they charge you for drink refills , they charge you for togo containers .
+0	the most disappointing were the pita and the gyro meat .
+1	but misses the mark with j 's root beer refill .
+0	will not go eat there again !
+1	the waitress was bad and took _num_ minutes between refills .
+0	shame on you benihana .
+1	we never got a beverage refill and finished the pizza with nothing to drink .
+0	when she delivered their food there was not a single mention of the delay .
+1	she never refilled any of our drinks and just seemed sort of distracted .
+0	it was dry , not at all crispy , and had no flavor .
+1	i left a voicemail requesting the refill by that afternoon .
+0	the room had a musty smell to it .
+1	it took _num_ minutes to receive refills on our drinks .
+0	i was warned by others that this is mainly where tourists eat .
+1	the `` bottomless '' salad never had an offer of a refill .
+0	one of worst patient experiences .
+1	did n't refill drinks .
+0	the sauce is very forgettable and watery .
+1	she did n't ask us if we wanted drink refills or a to-go container .
+0	i 'd give this joint zero stars if it was possible .
+1	second , the sodas are not free refills !
+0	there were five very small shrimp on the plate .
+1	she was late on refills as well .
+0	_num_ ) write down orders so you do n't forget .
+1	not much service checking throughout the meal , we got our own drink refills .
+0	i did n't have an issue with the place or the other patrons .
+1	finally got refills only to come back with a dead fly in my cup .
+0	waiter clearly did not know what he was talking about .
+1	could n't get a refill in under _num_ minutes .
+0	the two jumbo fried shrimp were ok.
+1	they refilled the shrimp tempura one time .
+0	it was loud and crowded .
+1	after that he was really slow with the food and never came with refills .
+0	i liked the bar .
+1	the milk pitcher was never once refilled .
+0	on top of it all , the coffee was horrible .
+1	no refill offered this time on drink , no straw either .
+0	the spicy sausage soup she first ordered was mostly broth .
+1	sauce old and not even an offer to get drinks refilled .
+0	i would n't even give them one star at this location !
+1	on this hot spring day , we never got refills on our waters .
+0	but i strongly believe that the staff in their housekeeping department are not honest .
+1	the drinks were all ice and refills were not timely .
+0	i was grateful for justin since he was the most helpful to me .
+1	however , we only got a refill on the water when the check came .
+0	left and halfway home , `` check engine '' light came back on .
+1	lights kept going out , iced tea never got refilled .
+0	i 'm sure the ending does n't get much better .
+1	they would fill the water up with _num_ percent ice , refill again please .
+0	will not be going back ever .
+1	we did n't get bread refilled .
+0	it was n't even spicy .
+1	i did n't see him again except once when he refilled my soft drink .
+0	the phone rang and she answered it as we stood at the door .
+1	the worst refill i have gotten in my life .
+0	so , after all was said and done , my sandwich was just ok .
+1	why does it take my call to get them to process the refill ?
+0	unfortunately , the second visit was n't any better .
+1	she never refilled our drinks either .
+0	will never go back to that place again .
+1	he did n't even refill our waters .
+0	when was the last time you ate chinese food that was cold ?
+1	our waiter was friendly , he came to refill our waters twice .
+0	have consistently had rude customer service .
+1	not once did my water get refilled .
+0	we were starving waiting on our food .
+1	then , we waited _num_ minutes for a tea refill .
+0	do not go here -- find another dentist .
+1	it took forever for us to get refills of our drinks .
+0	was n't the best experience .
+1	i had to get up twice for refills and walk over to the bar .
+0	would not go back and would not recommend this place to anyone .
+1	do not get propane refills at this location !
+0	they also promised me a partial refund for my massive inconvenience .
+1	the server checked back late upon original service and too late for drink refills .
+0	service was terrible !
+1	but he always refilled our drinks and cleared our plates away quickly .
+0	i could n't finish my dinner i was so mad .
+1	no refills , no checks on the food , nothing .
+0	all patrons walk through the kitchen to use the bathroom which was really gross .
+1	drinks were not refilled .
+0	i still do n't understand why they served their fancy cream soda warm .
+1	i never once got a refill , even when i asked .
+0	essentially three pieces of toast with various toppings .
+1	terrible experience with getting refills .
+0	good food , but poor service at this particular location .
+1	our waitress refilled our drinks and then disappeared !
+0	i got the lobster roll and was really disappointed .
+1	and i do n't even mean refilling your drink .
+0	ashley furniture will get my business from now on .
+1	and you wait forever for refills .
+0	no sign of italian meat to be found .
+1	i also ran into the slow refill issue that others mention .
+0	not one good thing to say .
+1	no refills on coffee , and the food was nowhere as good as previously .
+0	terrible customer service !
+1	for starters he refuse to refill a prescription for my son .
+0	this place makes you feel unwelcome and dumb .
+1	could never get a refill on my drink either .
+0	went in to meet some friends who 'd come in from out of town .
+1	i like that i can get an iced coffee and get my own refills .
+0	it was almost empty and twice we had to have someone find our waitress .
+1	the only thing they bothered to refill was water .
+0	_num_ .
+1	it 's not free refills fyi !
+0	people are crazy about it but that thing tastes extremely ridiculous .
+1	they charge about $ _num_ for a drink with no free refills .
+0	so i do n't need to tell you how nasty that was .
+1	i never received a refill , but our waiter was hard to find .
+0	it came with mashed potatoes which were definitely from a package .
+1	i called to get my refill after saying i had made an appointment .
+0	i 'm trying the chicken tortilla soup and the french onion pot roast .
+1	and did n't get a refill until after we got our appetizer .
+0	however it wasnt until half way through my appointment that i got it .
+1	she never refilled drinks or come back to check on the table .
+0	first off , our waitress just was n't good .
+1	finally , they refused to provide me with my dog 's prescriptions to refill !
+0	and thus my rating of meh .
+1	i went in for a physical in may , he gave me two refills .
+0	not good .
+1	water was never refilled and extra napkins never appeared .
+0	it was nothing that would make me want to come back .
+1	no water was ever refilled .
+0	sent one of my companions to get me some water .
+1	it took one kid _num_ minutes to refill our drink .
+0	_num_ .
+1	only way we got a drink refill was to flag down the waitress .
+0	the artichoke dip was ok , but very greasy .
+1	drinks ran low a few times and we had to ask for refills .
+0	really turns me off .
+1	since i never got a refill i ate my meal without water .
+0	also , why have _num_ screens when you can have one huge one ?
+1	every other time service was very slow and refills nonexistent .
+0	crust not cooked enough etc i hope this is not a trend .
+1	then we had to wait awhile to get our drinks refilled .
+0	too bad .
+1	the service sucked as my server struggled to refill my soda just once .
+0	lidia 's was a major disappointment for me .
+1	as if we were forgotten about , no refills , no water as requested .
+0	_num_ star average ?
+1	i 'm dropping stars because it seems impossible to get a refill on soda .
+0	they just lost a loyal customer ... never again .
+1	staff is fast on refills of water which is always appreciated .
+0	ate here on a saturday night for a friend 's birthday .
+1	between ordering and after eating no one had refilled the coffee .
+0	it 's a hit and miss .
+1	never was asked if i wanted a refill on my tea .
+0	the sandwich itself was , well , mediocre at best .
+1	a refill was never offered .
+0	this time , overpriced food and bad service .
+1	i poured my own wine refills .
+0	this was a friday , and he said he 'd call back on monday .
+1	they never bothered to refill the bread basket .
+0	i ate here when it opened , a and again _num_ years later .
+1	did n't get any refills .
+0	!
+1	drinks refills took longer than they should have .
+0	i would not recommend the spring rolls they are kinda bland .
+1	and never refilled our empty water glasses .
+0	extremely disappointed , food was absolutely awful .
+1	water were never refilled unless we asked .
+0	fist we wait _num_ mins or so to be seated .
+1	no refills were offered .
+0	i did n't touch anyone .
+1	she did n't check on refills .
+0	we finished our dumplings .
+1	took way too long to get my drink refills .
+0	i am standing waiting for our table _num_ minutes past our time .
+1	received a round of refills at one point but they did n't bring mine .
+0	extremely disappointing .
+1	i finished my water before our food got there and never received a refill .
+0	outside of that bar louie leaves a lot to be desired .
+1	mind you , we 've had zero drink refills at this point .
+0	when the oysters came out , they did n't even look like oysters .
+1	no refill in drinks except ice tea .
+0	i got food poisoning and was so sick .
+1	we received not quite refills about _num_ minutes after we received our plates .
+0	there was no background music .
+1	did n't get drink refills at all .
+0	today i gave them _num_ chance .
+1	i assumed i was covered for my next refill .
+0	while here , we sampled the blueberry mojito and the cucumber basil martini .
+1	and of course , we never had to wait long for a drink refill .
+0	good food , but i wo n't be in a hurry to go back .
+1	my drink was never refilled .
+0	i would n't wish this place on my own worst enemy .
+1	they turn off the pepsi machine so you ca n't get a refill .
+0	i 've gotten my nails done quickly before though and had much better quality .
+1	took another _num_ minutes for appetizers and first drink refills .
+0	the elevator moved really slow .
+1	our waters were n't refilled but once .
+0	most of his seafood was also overcooked and tasteless .
+1	long wait time for initial service and drink refills .
+0	_num_ strikes .
+1	i could n't even get a refill .
+0	unfortunately for olive or twist , the visit would probably be our last .
+1	brittany came back and only asked to refill my friend 's drink .
+0	they also have fake sales .
+1	the waitress did n't give us refills and nothing was clean .
+0	it was very awkward considering it was a first date .
+1	incorrect drink refills , arrogant and incredibly slow service .
+0	we just ignored this and ate the calamari , as is .
+1	they refilled our glasses only once , after we had asked for the check .
+0	they will ruin your car .
+1	had our drinks refilled , then finally the chef showed up .
+0	spicy and thick it went down easy enough .
+1	had to track down another server twice for drink refills and our check .
+0	so i guess if you want an authentic pittsburgh experience then go here .
+1	still no refill .
+0	i pushed it away ugh !
+1	i called cvs to refill my own prescription .
+0	they did not fix the building by the way .
+1	waters were n't refilled .
+0	sarcastic bartender and place half empty .
+1	second , i never got a refill on my soda .
+0	to be fair , our assigned server was very nice .
+1	i replied no , to the refill , and no to boxes .
+0	the bar area has maybe half a dozen customers at the time .
+1	we could n't even get water refills .
+0	she thought the potato side was just so-so .
+1	drinks not refilled !
+0	leftovers .
+1	waitresses avoided our table handed out checks refilled glasses to other customers .
+0	the building we stayed in was not full .
+1	they brought wrong order and we waited for tea refill forever .
+0	literally the worst experience ever .
+1	my drink was also never refilled .
+0	wo n't visit again .
+1	during the entire time we were there , no one got offered drink refills .
+0	the drop off process for returning your cable box is ridiculous .
+1	she never once refilled our waters .
+0	mama ricotta will be a better option .
+1	he walked by a dozen times but no refills and no more bread .
+0	ordered two spicy chicken combos yesterday at around _num_ o'clock .
+1	server never asked about refills for drinks .
+0	i am paying almost _num_ bucks for this sub .
+1	water glass was refilled promptly the one time it was starting to look empty .
+0	it really does n't hit you , until it ... hits you .
+1	but we had to be rather obvious to get refills .
+0	the owner clearly has no idea how to cut curly hair .
+1	she was great in ordering , but as for refilling drinks ?
+0	unless you want to catch a disease .
+1	_num_ more minutes go by , our bus boy comes again to refill waters .
+0	the food is poor .
+1	our drinks were refilled often without being asked .
+0	because there regular food is mall grade at best .
+1	they were even willing to refill your drinks for you .
+0	neither of us had cash on us , ( umm ... sorry ? )
+1	the service was rude and o refills have come .
+0	i am not changing my review nor am i removing it .
+1	i asked for a refill on my drink , never got one .
+0	food was only just ok and service was even worse .
+1	our ice teas were low and she never offered to refill them .
+0	_num_ .
+1	meanwhile she neglected refills , messed up food orders , and forgot drink orders .
+0	my experience at this friday 's was not what i was expecting .
+1	we never got asked if we needed anything else and received no water refill .
+0	i am so disappointed .
+1	a water refill should n't take longer then preparing _num_ dishes .
+0	ok , i get it , your busy .
+1	water refills _num_ minutes plus .
+0	do not stay here .
+1	stop charging for refills , ted 's .
+0	first time i 've eaten here i went during lunch time .
+1	could n't get a refill on my soda .
+0	the food is cheap .
+1	water was slow to be refilled .
+0	my salad came out shortly after the appetizer sliders .
+1	slow to get drink refills , did n't offer to bring more chips .
+0	their market square location worse .
+1	could n't get a water refill until after i was finished with my meal .
+0	she did n't listen at all .
+1	i went to get my refill and was charged $ _num_ !
+0	they said it would take another two hours to start work .
+1	no offer to refill drinks or for water .
+0	i will not be back again to eat .
+1	but ca n't he refill drinks too ?
+0	at best , less than mediocre breakfast .
+1	drinks never refilled .
+0	( $ _num_ for a hair cut i was n't satisfied with ) .
+1	no refills of the tea were ever offered .
+0	it was around 2:30 and empty .
+1	my husband was never even able to get a refill on his drink .
+0	my wife 's dinner was bland .
+1	prescription refills are slow .
+0	this time we literally got sat at a table in the kitchen hallway .
+1	no prompt refills on iced tea .
+0	person on the taking orders was rude when i called back with a problem .
+1	do n't charge me for a fountain pop refill .
+0	no excuse for an overcooked steak ever , and all ordered medium rare .
+1	they forgot orders and they never refilled our cups .
+0	you try holding a scared cat in a room full of dogs .
+1	i wandered the restaurant to find someone to refill my tea .
+0	very poor .
+1	we did n't get checked on ... no refills and kind of rude attitude .
+0	omg , the cheese cake ( at $ _num_ ) was very dry .
+1	like my soda refill , the tortillas never showed up .
+0	there is nothing chinese about the food !
+1	_num_ ) finally , they got the auto refill up and running .
+0	a few uninterested waiters wandering in back .
+1	never asked how the food was , never refilled our drinks .
+0	it 's sometimes tough to get waited on even with nobody in the store .
+1	the orange juice was in buckets ready to be refilled .
+0	my caesar salad was sour and otherwise bland .
+1	our tea glasses became dry , no one came by to refill .
+0	i no longer have to carry around my terrible , terrible secret .
+1	however , brother got _num_ refills no second thought on pop .
+0	horrible customer service .
+1	she did n't refill drinks .
+0	so much for trying to support local business .
+1	food came late , drinks were n't refilled in a timely manner .
+0	the pork fried rice was actually pork burnt rice , nasty ( _num_ ) .
+1	the waiter had to flagged down to get refills ever dissapointed in the service .
+0	this made my food experience not good .
+1	so , obviously , no free refills .
+0	first of all , the gym in pretty cheap .
+1	the service was extremely slow and refills were hard to come by .
+0	after _num_ years i 'd hoped they would have improved but i was wrong .
+1	oh , and they charge for soda refills .
+0	do yourself a favor and avoid the original fish market .
+1	he 'd refill our drinks and was on the ball .
+0	the menu says there 's a charge for fried rice instead of white .
+1	this saturday morning i called the office to have her medication refilled .
+0	not hot at all ... .
+1	the waiter never did refill my water glass .
+0	the hallways smell like hot garbage , always .
+1	did n't bring my refill receipts and got charged _num_ .
+0	but i do n't think i 'll be going back anytime soon .
+1	asked to refill my coffee and got a cold one .
+0	the hostess was very short with me and my date .
+1	never refilled our waters .
+0	that was not a real latte .
+1	my water never got refilled despite his two promises to fill it .
+0	not the cleanest establishment .
+1	our waters were never refilled .
+0	its a dry dough too , very dry .
+1	they charge $ _num_ per refill .
+0	terrible wait staff could n't even seat us .
+1	i flagged our waiter down , and asked for a refill again .
+0	over charge and terrible food .
+1	i should n't have to ask for refills .
+0	anyone who had french fries said they were cold .
+1	we ate over half our meals without any refills .
+0	they have the worst transportation service ever in pittsburgh .
+1	_num_ mins later we get our refills .
+0	needless to say ... i will never go there again !
+1	slow on the water refills .
+0	cold food !
+1	slow service would n't even refill my drink .
+0	also , not one of us got ours cooked as ordered .
+1	none of our drinks were refilled .
+0	they have a salt problem .
+1	drinks were never refilled .
+0	maybe it 's just the built in crowd .
+1	our drinks are empty and i have to ask to get refills .
+0	what a disappointing easter dinner .
+1	i did n't get a refill .
+0	it was hardly edible .
+1	they checked and told me my tires were fine and they refilled my tires .

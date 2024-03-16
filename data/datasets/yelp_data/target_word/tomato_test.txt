@@ -1,0 +1,40 @@
+0	sales person treated me like i was a very inexperienced .
+1	no tomatoes , onions , beans , cheese .
+0	unfortunately , we were all pretty underwhelmed with most of the dinner .
+1	i said no , please , no tomatoes .
+0	no apologies when we were finally taken care of .
+1	i am pretty sure the salsa was made using canned tomatoes .
+0	i was hard put to give _num_ % tip to be honest .
+1	the chunks of canned tomatoes were unappetizing .
+0	my caesar salad was sour and otherwise bland .
+1	the shrimp parmesan was literally boiled shrimp with seasoned canned tomato sauce and mozzarella .
+0	total for one waffle cone with sprinkles = $ _num_ .
+1	two tomato slices and they were rotten !
+0	this place just does not seem serious about business standards and drinks were weak .
+1	this gyro had meat , tomato and onion .
+0	also , their bar seating sucks .
+1	very little lettuce and only a tomato on top .
+0	mediocre at best .
+1	i ordered a grilled cheese with tomato and split pea soup .
+0	this is the absolute worst steak n shake i 've ever been to .
+1	i ordered it without lettuce , tomato , onions , or dressing .
+0	terrible .
+1	i do n't like tomatoes .
+0	i mean , empty .
+1	just chunks of tomato .
+0	yelp need to have a zero rating for places like this .
+1	i had already told her it had tomatoes all over in it .
+0	one person working and could n't look at my car .
+1	the tomatoes were light pink and also mushy .
+0	_num_ .
+1	salsa - tomatoes , onions and cilantro .
+0	stay away unless you 're just buying tires !
+1	it was old , dry bread with old tomatoes .
+0	wrong .
+1	hot sauce used to be the best , now just tasted like tomato sauce .
+0	`` oh ok that 'll be $ _num_ . ''
+1	we also ordered the kobe beef sliders and the tomato salad .
+0	the kids menu was quite pathetic and expensive !
+1	the salsa served with drinks was bland and dry with corn and tomatoes .
+0	the potato skins used a really cheap artificial cheese that was not very appealing .
+1	creole tasted like a can of crushed tomatoes .

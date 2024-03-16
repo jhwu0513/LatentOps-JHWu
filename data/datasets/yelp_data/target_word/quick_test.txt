@@ -1,0 +1,40 @@
+0	essentially , the entire sandwich was inedible and i settled for five guys instead .
+1	quick and painless procedure !
+0	the bartender looked at us walked away .
+1	best place for quick and yummy mexican food .
+0	maybe they should pay me for this responsibility .
+1	the rental car facility requires a bus transfer but it 's pretty quick .
+0	i just did n't want to create a scene in front of my guest .
+1	quick , efficient and personable .
+0	ugh .
+1	they provide a quick and dependable service !
+0	there was no aroma from garlic or onion .
+1	quick , attentive service , and the food was excellent .
+0	the worst place on earth .
+1	quick , attentive and friendly service !
+0	this store has such bad service .
+1	quick and professional .
+0	but the rest of the place , not so much .
+1	pros : quick , friendly service .
+0	so what was the point in an app ?
+1	i appreciated the quick and compassionate service , as i was pretty freaked out .
+0	two basic rolls and miso soup for $ _num_ .
+1	quick and pleasant drive-thru service and standard issue dq deliciousness - perfect dessert stop .
+0	just awful .
+1	quick and efficient with drive-thru and drive up .
+0	service and products are lackluster .
+1	super quick and fast service !
+0	when my food came out , the chicken was cold .
+1	ray got me in quick and had the car ready the next day .
+0	not cool !
+1	quick and efficient day cleaning .
+0	i 've taken my car here at least twice .
+1	security is pretty flawless and quick .
+0	i wish i could give them _num_ stars ... total waste of money .
+1	quick , nice portion size , good quality .
+0	total dive bar with awful food and service .
+1	definitely a quick , friendly place to get an oil change !
+0	service , small selection and mediocre food .
+1	great flavors , fresh , not overly oily and quick too !
+0	i would consider a _num_ star rating if it were n't for them .
+1	fantastic quick and clean service !

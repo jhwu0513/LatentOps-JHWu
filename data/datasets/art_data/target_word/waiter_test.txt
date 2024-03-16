@@ -1,0 +1,40 @@
+0	they 're big , but again nothing special .
+1	the waiter did not even bother to ask if everything was okay .
+0	they are n't rated properly , just easy , medium , or hard .
+1	then the waiter took the bottle away .
+0	not cool .
+1	slow waiter service as well .
+0	for starters , the portion of the pho is extremely skimpy !
+1	after i ordered , the waiter came back twice .
+0	horrible , rude service .
+1	i asked our waiter this last time for a dessert menu .
+0	terrible service .
+1	waiter pushed back when i sent the bad food away .
+0	such a shame .
+1	waiter screwed up on my drink order but did correct it the 2nd time .
+0	i think pittsburgh deserves better .
+1	manager could careless and waiter said i hope it 's nothing i did .
+0	they were so salty that the chocolate flavor did not come through .
+1	chalk it off to a bad experience but hope they fired the waiter .
+0	the menu is n't extensive , so keep in mind your options are limited .
+1	the waiter also tried desperately to get us to purchase wine and sides .
+0	her first bite she made a sour face .
+1	the waiter was friendly but did n't have much personality .
+0	after my visit last night , i have no desire to ever go again .
+1	waiter : `` well thats our sauce .
+0	you will be disappointed .
+1	waiter was loud and too casual .
+0	the corned beef is nothing great and their side dishes are nothing special .
+1	then i realized it had been _num_ minutes before we saw our waiter again .
+0	other than that , meh .
+1	finally i flagged down a waiter and asked to see the manager .
+0	the only good thing was that the cheese biscuits here are bomb !
+1	let me begin by saying that our waiter was very friendly !
+0	i spend _num_ dollars on soggy food that lacked flavor .
+1	the waiters had no idea what they were doing or what they had .
+0	ugh .
+1	our poor waiter was sweet but clueless .
+0	unfortunately , that did n't happen .
+1	only problem is our waiter only put in one order and forgot the other .
+0	will not be going back ever .
+1	waiter was aware he had customers , just did n't care !

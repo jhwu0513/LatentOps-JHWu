@@ -1,0 +1,400 @@
+0	i gave them all my contacts information to reach me .
+1	best coffee i had in pittsburgh .
+0	there was too much rice , and presentation was sad .
+1	one of my favorite coffee places in pittsburgh .
+0	our waitress was mia most of the night .
+1	we were so excited about trying chinese food for the first time in pittsburgh .
+0	needless to say , this completely ruined my meal .
+1	i 'm in downtown pittsburgh for the weekend and looking for sunday morning breakfast .
+0	more screaming and yelling than the night before .
+1	the best ice cream in pittsburgh !
+0	by far the worst service we 've had in a while .
+1	the cabs in pittsburgh know you need them and dont care about you .
+0	i had the pasta trio .
+1	last week my husband and i visited pittsburgh for a rock concert .
+0	i mean , so so bad .
+1	the best fish sandwiches in pittsburgh !
+0	it would have probably been better to take the mega bus .
+1	one of my favorite places for take-out in pittsburgh .
+0	it 's extremely disappointing to receive the wrong food .
+1	maybe there is just not a market for chinese food here in pittsburgh .
+0	dried food stuck on silverware , glasses , and plates .
+1	d 's is a classic pittsburgh joint .
+0	did n't get our food until after _num_ .
+1	i transferred in pittsburgh and boy was it an experience .
+0	looking into this place , they have no website .
+1	best soft pretzels in pittsburgh .
+0	if this is personalized service , i 'd rather stay at a motel .
+1	finally - a halfway decent tv setup , pittsburgh !
+0	the beer choices and the casual menu was right up my alley .
+1	best in pittsburgh hands down .
+0	ok atmosphere drinks are overpriced for the area .
+1	pizza is excellent and rivals any pizza only place in pittsburgh .
+0	i had a bad experience at penn automotive .
+1	as a facility , the place is all old-school pittsburgh steel construction .
+0	but it 's soooooo bland !
+1	best german food in pittsburgh !
+0	i drink this beer regularly , and something was wrong with the beer .
+1	this is probably my favorite bar in pittsburgh .
+0	it took _num_ minutes to get someone to take the bill .
+1	she called yellow cab in pittsburgh .
+0	she walked up the stairs and ignored us .
+1	one of the best `` pittsburgh '' buffalo chicken in the city .
+0	the information for this restaurant needs to be updated !
+1	this place will give you the best fish sandwich in pittsburgh .
+0	it happens !
+1	we used to visit this place most every time we went to pittsburgh .
+0	they fell apart .
+1	very inexpensive for pittsburgh but you can taste quality ingredients .
+0	the bartender looked at us walked away .
+1	pittsburgh zoo is not the freshest zoo in the country .
+0	horrible brunch experience .
+1	there are better chinese places on pittsburgh - this place should be shut down !
+0	whatever the case , they have cold guinness .
+1	this is the best restaurant in pittsburgh .
+0	poor customer service when trying to use reward from app .
+1	absolute worst cab service provider in pittsburgh .
+0	once seated , service was extremely slow .
+1	the dough is some of the worst dough i have had yet in pittsburgh .
+0	overpriced snacks , and the sound on the movie was awful .
+1	best coffee in pittsburgh !
+0	rude .
+1	the best breakfast in pittsburgh , no doubt .
+0	it is clear that this is not her main priority .
+1	visiting pittsburgh for pleasure ?
+0	however it was unprofessional of our waitress to pass buck .
+1	best bakery in pittsburgh !
+0	went for dinner tonight and was disgusted .
+1	best menu best food in pittsburgh !
+0	no salsa , no lettuce , guac , sour cream .
+1	good reasonably priced boutique hotel within walking distance of downtown pittsburgh .
+0	however , the pricing really is low when you 're lazy .
+1	i highly recommend this for anyone visiting pittsburgh .
+0	i am hoping that my experience here was an off night .
+1	a native sent me here , an apparent pittsburgh landmark .
+0	he needs to be fired and needs to be some changes made .
+1	my favorite place in pittsburgh for ribs !
+0	i 'm genuinely disappointed with the recent changes .
+1	i just moved to pittsburgh and found this salon through yelp .
+0	now , after picking up my dress we realized they ordered the wrong size !
+1	worst food in pittsburgh .
+0	they cracked my oil pan and it cost me four hundred dollars to repair .
+1	i will remember to never return while i 'm in pittsburgh .
+0	the service is rather incompetent .
+1	but , there are better places to be had in pittsburgh .
+0	if i could give signature desserts _num_ stars , i would .
+1	i am from out of town and was only in pittsburgh for said interview .
+0	finally , i find one after _num_ minutes of wondering around .
+1	this is hands down the best pizza place in pittsburgh .
+0	it 's the customers fault your staff ca n't handle a sat night rush .
+1	however , i 'm in pittsburgh , where can i go ?
+0	not fresh at all .
+1	best music in pittsburgh , hands down .
+0	_num_ .
+1	so what is the best pizza in pittsburgh .
+0	it took _num_ minutes just to get our waters .
+1	why does pittsburgh have to be so weird ?
+0	no redeeming qualities here .
+1	i would n't take somewhere here as a pittsburgh destination though .
+0	he make sure that all of the customers incorrect orders are made correctly .
+1	this is an essential sunday breakfast spot in pittsburgh up there with pamela 's .
+0	if i could give negative stars i would .
+1	the dough has that typical bad salty cracker pittsburgh type taste to it .
+0	the salon is so dirty we left before i let them cut me hair .
+1	after visiting the pittsburgh zoo i can claim , not impressed .
+0	nor is there any hint of a true thai taste .
+1	worst thai restaurant in pittsburgh .
+0	i have never been treated so rudely in my entire life .
+1	one of my favorite pizza spots in pittsburgh .
+0	yes this is also a con because i threw it away .
+1	giant eagle is one of pittsburgh 's more expensive grocery chains .
+0	not a bad place to look around while waiting for your order .
+1	it 's hard to get a good chinese restaurant around pittsburgh .
+0	as for the atmosphere , not a big deal for me .
+1	no brewery in pittsburgh can compete with this one in this category .
+0	the fries were soggy and soft , fish mediocre .
+1	definitely the worst indian lunch buffet i 've had in pittsburgh .
+0	the food ranges from mediocre to bland .
+1	first time in pittsburgh , from chicago .
+0	the dishes that night were sub-par , which was a first .
+1	this is a gem in pittsburgh .
+0	we have had vietnamese food in other states before but here is the worst .
+1	this is the first place in pittsburgh that has gotten my hair right .
+0	i was really disappointed .
+1	pittsburgh 's greyhound has horrible customer service .
+0	continuing on , check out was a nightmare !
+1	the pittsburgh zoo is pretty mediocre .
+0	_num_ separate different roaches in a matter of _num_ minutes in the same restaurant .
+1	so many great bakeries in pittsburgh so i would not go back .
+0	second , the lady at the counter is extremely rude and unpleasant .
+1	finding a good ol ' diner in pittsburgh is n't exactly easy .
+0	nope , wo n't be back .
+1	a must-see if you 're visiting pittsburgh !
+0	only once was it under par .
+1	was traveling to pittsburgh and decided to grab a bite before the baseball game .
+0	it 's a little annoying .
+1	cute little diner spot , a little outside pittsburgh .
+0	that was not fair to her and definitely not fair to us .
+1	one of the best meals that i have had in pittsburgh .
+0	but not $ _num_ for _num_ standard size dog good .
+1	best in pittsburgh .
+0	the service can also be rather slow .
+1	enjoyed a wonderful evening eating outdoors on a perfect pittsburgh spring night .
+0	i also came in many times before and the employees never helped me .
+1	first place i went on my visit to pittsburgh .
+0	and i might add , he knew i was sitting there waiting .
+1	there are hardly any cheap direct flights from pittsburgh .
+0	super dry and no good flavor other than the cole slaw .
+1	best ranch dressing in pittsburgh !
+0	the service was also extremely slow .
+1	just another sub-par pittsburgh restaurant .
+0	we will not be coming back again .
+1	when i told people i was going to pittsburgh , everyone recommended primanti bros .
+0	was n't impressed by their sunday brunch .
+1	pittsburgh has the rudest employees i have ever met .
+0	it should n't be this way .
+1	pittsburgh zoo , get it together .
+0	the menu is small with very limited choices .
+1	this is the worst hibachi restaurant in pittsburgh .
+0	the thermostat must have been set at _num_ .
+1	there are much better italian restaurants in pittsburgh .
+0	my `` squash '' side was lacking squash .
+1	my favorite bar in pittsburgh .
+0	it was runny and bland .
+1	short lines , great staff , good for pittsburgh .
+0	he truly comes across as if he could care less , and it shows .
+1	however that is not what pittsburgh is about .
+0	( i was _num_ cars away ) .
+1	my husband and i stayed in pittsburgh for weeks and wanted to have pho .
+0	also the driver forgot to bring my drinks .
+1	best place in pittsburgh for soft serve .
+0	... can you call back later , i 'm really busy . ''
+1	okay , i 'm not from pittsburgh .
+0	fortunately , i 'd gotten that info when i ordered .
+1	for pittsburgh , top notch .
+0	by the time they were cooked , everyone was finished eating .
+1	is it just impossible to find fresh sashimi in pittsburgh ?
+0	very bad service .
+1	there is way better hibachi in pittsburgh , for a lot less money .
+0	burgers are fair and salads are pretty bad .
+1	we love japanese steak houses and this was our least favorite meal in pittsburgh .
+0	i did n't bother to ask if anything was organic .
+1	nothing special but good by pittsburgh standards .
+0	you 're better off with a garden hose .
+1	the best pizza in pittsburgh !
+0	pancakes were not very good .
+1	my out of town guests saw pittsburgh represented in this disgusting dirty zoo .
+0	to be smooth after only one pedicure . ''
+1	what an evening to end a fantastic summer day in pittsburgh .
+0	the store is extremely pricey and nothing really interested us .
+1	first haircut in pittsburgh , and absolutely one of my favorite cut !
+0	and all of that was on a night where the place was mostly empty !
+1	but we 're in pittsburgh and by default , good beers are expected .
+0	horrible service and horrible food !
+1	cabs in pittsburgh are not like cabs in other cities .
+0	ugh .
+1	i would recommend this place to anyone searching for a tailor in pittsburgh .
+0	somehow this restaurant gets packed and i never understand why .
+1	easily one of my favorite spots in pittsburgh .
+0	then , i went to go hang out with my best friend immediately after .
+1	but hey , it 's pittsburgh .
+0	very disappointed .
+1	yellow cab in pittsburgh is a total joke .
+0	nothing special .
+1	my favorite italian restaurant in pittsburgh .
+0	do not go here for service on your bike .
+1	one of my favorite breakfast stops in pittsburgh !
+0	very disappointing to me .
+1	they have the worst transportation service ever in pittsburgh .
+0	no checks .
+1	the bf and i got lost around pittsburgh for _num_ min .
+0	it then took quite awhile for our dinners to start arriving .
+1	pittsburgh indoor tennis club is a great business !
+0	hardly saw any of that today .
+1	they have one of the best breakfasts in pittsburgh .
+0	overpriced , salty and overrated !
+1	there are better places in pittsburgh to get a burger and fries .
+0	not worth it .
+1	so i guess if you want an authentic pittsburgh experience then go here .
+0	the owner clearly has no idea how to cut curly hair .
+1	this is my favorite restaurant in pittsburgh .
+0	food was average , service very bad .
+1	there are better restaurants in pittsburgh .
+0	the food can be somewhat disappointing but will sometimes do in a pinch .
+1	best coffee it pittsburgh ?
+0	my boyfriend 's general tso 's was less than subpar .
+1	the worst thai food i 've had in pittsburgh .
+0	( that might also explain the meat being overdone ) .
+1	is n't that the same as `` not made fresh in pittsburgh ? ''
+0	the beef was disappointing to say the very least .
+1	we both got our favorite dogs and the best french fries in pittsburgh .
+0	that is where the efficiency and service took a turn for the worst .
+1	standard so-so pittsburgh pizza .
+0	i ate two of the _num_ tenders ( seven ! )
+1	this is the most reliable car service i have experienced in pittsburgh .
+0	it , however , did n't work for me .
+1	first time in pittsburgh on biz and staying in the waterfront district .
+0	horrible customer service and they always screw up our orders .
+1	best wendy 's in pittsburgh !
+0	that 's why i gave it two stars instead of one .
+1	i do n't see to many options in pittsburgh for sporting goods .
+0	it 's really sad actually .
+1	however , i had the absolute worst hotel experience at the pittsburgh westin .
+0	service was incredibly slow .
+1	some of the most talented stylists in pittsburgh are right here under one roof .
+0	the only redeeming quality is the young girl who works here .
+1	why is it so hard to find a good chinese restaurant in pittsburgh ?
+0	but overall the store is way too pricy - for no good reason !
+1	if you go to pittsburgh it is a must eat .
+0	very poor management .
+1	best florist in pittsburgh .
+0	i ordered a drink _num_ times and never got it .
+1	i just found the worst breakfast spot in pittsburgh .
+0	the thing is the fish does not taste fresh at all !
+1	i think it was overpriced for a pittsburgh restaurant as well .
+0	we lucked out and go on the shuttle over without waiting in the cold .
+1	my favorite restaurant in pittsburgh .
+0	the food was bad .
+1	this place will always be a place that 's important to me in pittsburgh .
+0	the waitress was rude and less than helpful .
+1	they 've made me love baseball and pittsburgh again .
+0	there are no frills , there are no items i would particularly recommend .
+1	but if this is pittsburgh 's best falafel then i am a sad man .
+0	very visible and inappropriate .
+1	i think i can safely say this is the worst indian food in pittsburgh .
+0	bland is the best description .
+1	if you have a family staying in pittsburgh , go elsewhere .
+0	i love bbb ; however , this location is terrible .
+1	drinking scotch in pittsburgh has been fun so far .
+0	none of them responded to me .
+1	this place is the worst in pittsburgh .
+0	the service as mentioned was poor .
+1	this is the best little bakery in pittsburgh !
+0	they must use very cheap product to lower their costs .
+1	the best hoagies in pittsburgh ... hands down !
+0	the coffee is okay , nothing special .
+1	by far the best cake donuts in pittsburgh .
+0	they used to have a white mocha but not anymore .
+1	best beer selection in pittsburgh , great hot dogs , pizza , veggie burger .
+0	no thanks .
+1	our first stop in pittsburgh , what a great start !
+0	do not take your dog there to be groomed !
+1	probably the best german restaurant in pittsburgh .
+0	we never got a call about the reservation time which was annoying .
+1	most overrated place in pittsburgh , in my opinion .
+0	if i asked the price , she did n't know and did n't look .
+1	worst pizza i 've had in pittsburgh .
+0	it was n't bad , just nothing great .
+1	best salon in pittsburgh .
+0	will not be returning .
+1	worst chinese food in pittsburgh !
+0	also , i was surprised by the limited number of seafood options .
+1	i purchase those passing pittsburgh , not really possible asking for refund .
+0	there was absolutely no salt of them when they came out .
+1	moved to pittsburgh from philly a year ago .
+0	he was not asian .
+1	dear pittsburgh , we are foodies from boston .
+0	the cashier took my friends 's order , then promptly ignored me .
+1	went to visit u of pittsburgh with the college bound son .
+0	it 's clear that cleanliness is not a priority here .
+1	wonderful location in an up and coming neighborhood in pittsburgh .
+0	there 's nothing really wrong with it .
+1	there are much , much better choices around pittsburgh for my tastes .
+0	it 's not fair for the customers or for the servers .
+1	quite possibly the best bakery in pittsburgh .
+0	not going to recommend it to anyone .
+1	this is the worst chinese food i 've ever had in pittsburgh .
+0	i booked this hotel stay for a business ( military ) event .
+1	this is perhaps the best mechanic shop in pittsburgh .
+0	it was nasty .
+1	but we have much better choices for japanese food in pittsburgh .
+0	the fitness center lacks a fan , so working out gets too hot .
+1	pittsburgh pa _num_ kind of feel sorry for the restaurant .
+0	very disappointed .
+1	this is one of my favorite bars in pittsburgh .
+0	wish there was a choice of no stars .
+1	my first time at primanti bros in pittsburgh , pa .
+0	_num_ min from when seated . )
+1	not comparable to the other top ten pizza joints in pittsburgh .
+0	i also wish that i could provide them with zero stars .
+1	one of the best breakfast places in pittsburgh !
+0	i drove _num_ minutes for overpriced `` german '' food .
+1	it was fantastic - the best veggie sandwich i have had here in pittsburgh .
+0	but sometimes , you just have to , ya know ?
+1	sorry , i gotten very used to no smoking i public places in pittsburgh .
+0	they were significantly cheaper .
+1	after trying a couple groomers in pittsburgh , we found animal elegance .
+0	the wings were the most mediocre wings i have ever tasted .
+1	pittsburgh gem !
+0	boring .
+1	too many good italian places in pittsburgh to choose here .
+0	save your money , this place does n't deserve to be named ruth chris .
+1	one of my favorite places in pittsburgh !
+0	our meal basically met our admittedly low expectations .
+1	great little find in pittsburgh !
+0	i probably will not return .
+1	worst parking lot in pittsburgh .
+0	it is n't a bad experience .
+1	very good pittsburgh food !
+0	that 's _num_ minutes to be next .
+1	another one of pittsburgh 's finest restaurants .
+0	all the white people get to eat , we do not ?
+1	one of the most refreshing cafe 's in pittsburgh !
+0	the wings and cheese fries were disgusting .
+1	another example of bad italian food in pittsburgh .
+0	half of the floors do n't have vending machines .
+1	had such high hopes for this place on our visit to pittsburgh .
+0	there was a ton of thai basil in the dish which was quite overwhelming .
+1	one of my favorite restaurants in pittsburgh .
+0	waited _num_ minutes for drink , waitress got my order wrong .
+1	best pancakes and breakfast in pittsburgh .
+0	they are wasting so much money on cheese its sad .
+1	absolute best place to buy a quality bike in pittsburgh .
+0	crappy service and food .
+1	quite possibly the most overrated restaurant i ever went to in pittsburgh .
+0	first , let me say i wish you could leave _num_ stars .
+1	easily the best pancakes on pittsburgh .
+0	it 's sad .
+1	o my pittsburgh pirates .
+0	but sadly , i do n't see you at all in my future .
+1	considering the size of pittsburgh , the bus system here is actually pathetic .
+0	at our table and then left prior to ordering .
+1	i 'll visit pittsburgh again sooner rather than later , but this place ?
+0	steak was over cooked and the plate was hot but not `` sizzling '' .
+1	well , it does get one from point a to point b in pittsburgh .
+0	i did not receive the free cheesy bread and the drink order was incorrect .
+1	fantastic gem in pittsburgh .
+0	i only gave them _num_ stars because the pizza itself was pretty good .
+1	all around a good place in pittsburgh .
+0	seating is first come , first served .
+1	great start to our trip to pittsburgh !
+0	they get _num_ star because less was not an option .
+1	however , every times i drive thru pittsburgh , i always stopped here .
+0	rolls small lacking substance .
+1	i think pittsburgh deserves better .
+0	no problems with my oil change .
+1	then again , we were in pittsburgh , so it 's a given .
+0	i hate this place .
+1	their burgers are up there with the best in pittsburgh .
+0	i personally find its only real saving grace to be the outdoor deck .
+1	best breakfast in pittsburgh .
+0	so cold i would n't even consider hopping in really quick .
+1	this is the second time i 've rented from enterprise @ this pittsburgh location .
+0	food remains ok but prices have more than doubled .
+1	pittsburgh is known for their worst transportation !
+0	the meatballs were greasy and very bland .
+1	maybe that 's the norm in pittsburgh , i do n't know .
+0	that 's unacceptable .
+1	pittsburgh rare was kind of unimpressive for the price .
+0	needless to say , i will never come back here .
+1	best coffee in pittsburgh , without a doubt .
+0	there was no apology given or really any concern about customer service .
+1	a true _num_ star place for pittsburgh .
+0	there was nothing really special about the food .
+1	one of my favorite places to eat while in pittsburgh .
+0	go to any other pharmacy in town , avoid giant eagle .
+1	if there was a negative star rating , yellow cab pittsburgh would get it .
+0	do n't waste your time coming to this hole in the wall !
+1	is this what italian food in pittsburgh has come too ?
+0	i 'm _num_ and i almost felt too old there .
+1	first time in pittsburgh , a great value !

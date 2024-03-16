@@ -1,0 +1,40 @@
+0	our server was attentive , almost to a fault .
+1	they do a great job with dry cleaning and alterations .
+0	i 've gotten my nails done quickly before though and had much better quality .
+1	i used their cleaning service , which left terrible stains on the carpet .
+0	you could leave a message , but they 'll never get back to you .
+1	save yourself the head ace and spend your money with a different cleaning service .
+0	the owner ( larger woman ) is rude and dismissive of my questions .
+1	everyone is so nice and my cleanings go by fast and painless .
+0	and i can smell chinese food right after a few second entering the restaurant .
+1	when i arrived i had no appointed for cleaning , just x rays .
+0	this place has gone downhill tremendously .
+1	the entire restaurant could use a thorough cleaning .
+0	it 's a gas station , how hard can it be ?
+1	the clerk stated , that i could not return the used carpet cleaning products .
+0	thank you for wasting my time , i wo n't be back .
+1	the biggest problem we had was with cleaning and alterations !
+0	unfortunately , the second visit was n't any better .
+1	the cleaning was always professional and spotless .
+0	_num_ .
+1	i would definitely recommend them to anyone looking for a good house cleaning .
+0	Neutral
+1	i wish i 'd tried somewhere else for dry cleaning .
+0	think twice people before going here .
+1	no deep cleaning claim was submitted , which is required by delta dental .
+0	at first they said they are unable to do so .
+1	great service , attention to detail , spot cleaning and special requests .
+0	the bill was way too high .
+1	worse cleaning i have ever had .
+0	this place was trashy , dirty and probably not even up to code .
+1	they scratched my car and i thought the interior cleaning was poor .
+0	the new pitas tasted like a doughy pancake .
+1	high quality cleaning , but be prepared for sticker shock .
+0	his staff is embarrassed .
+1	the cleaning lady for my room is the sweetest !
+0	bland reheated samosas .
+1	the calls always come through as adobe carpet cleaning .
+0	$ _num_ ?
+1	pricing is about average for dry cleaning and the job gets done .
+0	seemed cranky and overworked and ruined the experience completely .
+1	we stayed for four nights and got minimal cleaning service in our room .

@@ -1,0 +1,400 @@
+0	the food was bad , yo .
+1	this time , they used round noodles .
+0	my eyebrow still has n't grown back to its normal shape .
+1	ordered singapore style rice noodles to go , $ _num_ .
+0	i gave her a call and she did n't pick up .
+1	the noodles were really hard .
+0	skip it and try somewhere else for a spa pedicure .
+1	mmm , sounds yummy but the ramen noodles just blew it for me .
+0	i will not be going back .
+1	sat down and he brought out egg noodles and duck sauce .
+0	overall , i 've got no complaints about the food .
+1	i had the singapore rice noodles .
+0	disappointed but not giving up , we ordered one of each and proceeded .
+1	bland noodles .
+0	the pizza was really really greasy .
+1	second , the soup to noodle ratio is inefficient .
+0	the restaurant was pretty empty , no wait for a table .
+1	the noodles are so pale , no sauce whatsoever .
+0	was n't great .
+1	i ordered veggie pho and substituted the noodles for extra vegetables .
+0	the biggest downfall of duke 's , though , is the food .
+1	just cold noodles .
+0	so we called back and asked for our money back .
+1	the noodles , rice , everything was sadly made with no care .
+0	ok , so i really wanted to like this place .
+1	the noodles tasted weird .
+0	she gave me an attitude .
+1	but the noodles are a disgrace .
+0	like i said , i wo n't be back .
+1	the bun noodles were soggy like they had been sitting broth all day .
+0	it also was n't the cleanest place i 've ever seen .
+1	ordered bun bo hue ( spicy beef noodles ) and it was all wrong .
+0	i would not revisit the westin convention center .
+1	i had the linguine carbonara and it was more like scrambled eggs and noodles .
+0	i 'm still not convinced that this is a vegetarian restaurant .
+1	i ordered the curry with rice noodles ; it was bland .
+0	the bill was $ _num_ so it is pricey .
+1	got lettuce wraps , orange chicken , and soba noodles .
+0	the hot wings i ordered came as plain breaded wings .
+1	i love noodles but this location is going downhill fast .
+0	only had a bite of that and threw it away .
+1	while i like noodles & company in general , this location is lacking .
+0	we just turned around and walked out at that point .
+1	my pan fried noodles were a bit salty .
+0	rude , disrespectful jerks who should not be dealing with the public .
+1	the crispy noodles were stale and tasted of used oil .
+0	avoid eating or drinking anything here .
+1	we did n't like the texture of the noodles they used for this dish .
+0	worst tofu scramble ever .
+1	after waiting _num_ minutes , it was delivered ... with no noodles .
+0	i was pretty disappointed by this experience .
+1	noodles are overcooked , almost mushy .
+0	the bar reeks of smoke and the bar table feels sticky .
+1	just a bowl of noodles ?
+0	we will not be back .
+1	skimpy on the noodles in the pho bowls .
+0	i 'm not sure i can even give this place one star .
+1	the noodles were a bit dried out but the sauce was super yummy .
+0	she never even looked at me .
+1	it was very soupy and did not have any noodles ?
+0	it 's absolutely disgusting , and you get no peace whatsoever .
+1	my dad , on the other hand , ordered the singapore noodles .
+0	outside of the bread i ca n't say it was memorable in any way .
+1	the noodles were very bland and almost chewy .
+0	i really do n't understand the hype of this place .
+1	i think ramen noodles tasted better and cost only _num_ cents .
+0	walking through this mall just creepy though .
+1	undercooked noodles in the spaghetti .
+0	no way would i ever stay at this motel again .
+1	the noodle came out with only ground pork .
+0	at our table and then left prior to ordering .
+1	literally was a few pieces of beef and the rest was all noodles .
+0	this seemed quite bizarre .
+1	sorry cafe noodle , but i think the public deserves to read this review .
+0	fail .
+1	i got the chicken and noodles with a side of mashed potatoes .
+0	at 1:30 i asked about my vehicle and was told i was next .
+1	the spicy noodle ( bun bo hue ) was a disaster .
+0	i was there for over _num_ hours !
+1	went to noodles for lunch on a saturday , place was not busy .
+0	when my dish comes out , it 's literally just steamed veggies and rice .
+1	there is no shortage for noodles though .
+0	and pittsburgh has some pretty bad chinese places .
+1	even the wide rice noodles in the spicy thai noodle were rubbery .
+0	do not recommend .
+1	barely any noodles on the bottom of the bowl with some strings of cucumber .
+0	i 've went for _num_ years now waiting for it to become something good .
+1	my favorite is the beef noodle and the pig feet .
+0	so really it was n't a terribly difficult job to be done .
+1	it 's supposed to have chicken , clear noodles , and mixed vegetables .
+0	the food sucked .
+1	all in all , the ingredients and the noodles in the dish tasted cheap .
+0	and , apparently , delivery .
+1	i tried the pho , i asked for egg noodles and got rice noodles .
+0	unfortunately , the service is some of the worst i 've experienced in charlotte .
+1	it was like i was eating spaghetti noodles without sauce .
+0	wrong !
+1	i 'm still trying to figure out how one manages to burn noodles .
+0	clearly she had a nasty cold and should 've stayed home that day !
+1	not enough noodles .
+0	never going back to pf changs .
+1	the noodles were soggy and the broth was n't hot .
+0	i 'm weird like that .
+1	and mind , i ate two of my party 's portion on noodles .
+0	the fish n chips were not good .
+1	in fact , they tasted like chinese pan fried fat noodles .
+0	they should n't even call it italian food .
+1	the broth and noodles were flavorless .
+0	but apparently , mama has left the kitchen .
+1	my singapore style noodles were bland .
+0	once seated , service was extremely slow .
+1	noodles were undercooked , chicken was fine .
+0	but kitchen has a lot of problems .
+1	we ordered the dan dan noodles and thai coconut curry chicken .
+0	the lunch took _num_ hours .
+1	the alfredo sauce was ridiculously salty and the noodles undercooked .
+0	very disappointed with this dry cleaner .
+1	the noodles were a little over cooked but still very tasty .
+0	we had the worst experience at this place !
+1	i do n't know why they even call it garlic noodles .
+0	terrible customer service .
+1	second time they had no filling , just noodles and sauce .
+0	we used a coupon from the paper for a _num_ topping _num_ cut sicilian .
+1	i always substitute rice noodles , never had an issue .
+0	i 've had way better chinese sushi at giant eagle of all places .
+1	large portions of noodles and vegetables .
+0	the cable and internet did not work our first night there .
+1	this stuff looked and tasted more like doughy noodles .
+0	i will not be coming back .
+1	the noodles were not good and the sauce was tasteless .
+0	the mall that is nearby is not really a mall .
+1	the soup had no noodles or beans and was very spice .
+0	there was no third bite .
+1	unfortunately , it too was way overcooked with the noodles being just mush .
+0	worse customer service ever .
+1	the broth lacked in flavor , not enough meat and noodles .
+0	i just hate to see it .
+1	my husband 's lasagna might has well been tomato soup with some noodles .
+0	every time , we have a worse experience with customer service .
+1	_num_ noodles .
+0	the place was mostly empty .
+1	the pad thai was not great , the noodles was too chewy .
+0	arrangement was just ok .
+1	is that my noodles were not good !
+0	one other person tried it and would not eat it .
+1	barely any noodles .
+0	it is my worst fear .
+1	the biggest disappointment was the vegetarian vegetable noodles ( hong kong style ) .
+0	send it my way , i 'll get you payment .
+1	the noodles were overcooked and mushy .
+0	this food is just crap .
+1	spring rolls were nothing but noodles and the dipping sauce was sour .
+0	terrible customer service !
+1	it tasted like noodles sauteed in hot sauce and ... that 's it .
+0	i called aaa and the service and follow-up were both appalling !
+1	the only good thing was the noodles ; they were prepared on the stove .
+0	they have the worst transportation service ever in pittsburgh .
+1	some greasy chinese crispy noodles .
+0	i am a fan of olive garden but this one is horrible !
+1	special bowl barely had meat & noodle .
+0	very poor quality work .
+1	* rice noodles in my chicken pho are gummy .
+0	wise guys is your typical off beat pizza shop .
+1	i really wanted noodles , ie a noodle bar .
+0	i refused .
+1	i could tell they did not warm up the noodles enough before cooking it .
+0	i called & talked to manger as soon as i saw the bites .
+1	i ordered wonton roasted duck noodle and the broth was salty .
+0	final verdict : most mediocre wings in town !
+1	secondly the chow mein noodles were dry and tasteless .
+0	i have never placed a bad review of a restaurant until now .
+1	the food came out so quick , tasteless , noodles were rubber .
+0	service , small selection and mediocre food .
+1	and a beef ( leather ) thing with noodles .
+0	very pricey food , cash only , average food .
+1	the beef is gross so i started just ordering the noodles only .
+0	this is a very small irish pub .
+1	i might go back here and just do noodles and sauce .
+0	i 'm a guy , i 've got a short haircut .
+1	thinly sliced beef with assorted veggies ( some greens , noodles , mushrooms ) .
+0	needless to say , we were unable to take advantage of any specials .
+1	i ordered the drunken noodles with the vegetarian option .
+0	massage but still had a _num_ hr .
+1	no sauce , no veggies , nothing on the noodles .
+0	we will not be coming back again .
+1	the noodles where uninspired and had no flavor .
+0	as for the food and drink , it was just fine .
+1	very little chicken in both the soup and the drunken noodle .
+0	i ca n't say the food is bad .
+1	the noodles were spaghetti noodles , not chinese noodles .
+0	_num_ .
+1	the worst pad thai noodles ever !
+0	i will never go there again , and i recommend you do n't either .
+1	the noodles were noticeably drowned in alfredo sauce .
+0	on most visits it takes em about _num_ minutes .
+1	but the alfredo the dark with chicken was such a limp noodle for me .
+0	service is not friendly .
+1	it is hard to make take out noodles tasteless .
+0	stay away from time warner .
+1	the noodles were overcooked and stuck together in our pad thai .
+0	i just do n't understand how anyone can like this place .
+1	_num_ minutes later the pho arrived , packed with meat and noodles .
+0	this represents a real problem for the city .
+1	the noodles were cooked perfectly and that 's where the praise stops .
+0	not planning to come back and recommend everyone to stay away from this place .
+1	i had the spicy basil noodle plate which tasted like ragu on rice noodles .
+0	way overpriced and service was n't great .
+1	_num_ ) noodles ?
+0	no more smoking allowed .
+1	her noodles were n't bad but my curry was pretty bland .
+0	sarcastic bartender and place half empty .
+1	an hour after walking in the door , we still did n't have noodles .
+0	the rolls were extremely bland and chewy .
+1	_num_ hour to bring me a bowl of noodles and soup !
+0	well hell , what was your first guess ?
+1	the fried noodles with chicken is supposed to be like a yakisoba .
+0	did n't seem handmade or anything like that .
+1	make a sauce with the noodles already in it .
+0	i would probably only go again on an all-you-can-eat wings night .
+1	our waiter also forgot my sister in laws noodles and two beverages .
+0	never ever whatsoever !
+1	the noodles were under cooked and the soup was n't very hot .
+0	sign is blank and all fixtures from the store have been removed .
+1	the noodles were a little bland .
+0	had no clue what i was talking about .
+1	the noodles was n't fresh tasting like i 'm used to .
+0	it was very crowded due to little italy days in bloomfield .
+1	plus the noodles and rice suck !
+0	terrible .
+1	i ordered the drunken noodles and the golden tofu from the thai menu .
+0	the young man who greeted me seemed a little turned off by my coupon .
+1	first , the noodles looked like what you buy at the supermarket .
+0	they fixed the flat no problem for $ _num_ .
+1	my pasta came burnt ( crispy noodles ! )
+0	no less than _num_ minutes .
+1	very little sauce and dry noodles ; a waste of money .
+0	what was originally an average lowe 's has turned into lowe 's hell .
+1	the shrimp were also on crispy rice noodles that are normally edible .
+0	worst customer service of any business i 've ever dealt with .
+1	just sauce and noodles .
+0	i had to wash my hands just from opening the bag .
+1	no pictures of the noodles but minimum description .
+0	not clean , either .
+1	rice noodle soup was a bit over done and the noodles were breaking apart .
+0	_num_ .
+1	my wife was surprised to find the ramen noodles to be spicy .
+0	so i would n't go back .
+1	i wish i was joking about the soy sauce or the noodles .
+0	there were no apologies for the mistakes .
+1	beef stew lo mein with wontons - the noodles were disgusting !
+0	i have been here a couple of times and it does n't change .
+1	i ordered the vegetable panang curry and chicken mint noodles .
+0	the menu states there are _num_ market priced items .
+1	yakisoba noodle was burned .
+0	the prices are cheap , but it 's not worth it .
+1	they have italian pastas and then they have their noodle options which were confusing .
+0	i ate one slice , and gave the rest away .
+1	they also used the wrong noodles in the tasteless broth .
+0	i think they probably deserve better .
+1	the noodles were so over-cooked that they were falling apart into tiny pieces .
+0	after getting my `` window '' they never showed up .
+1	i actually had to return the pan fried noodles because it was not edible .
+0	at one point , they even asked me not to use the shower .
+1	the noodles were just falling apart .
+0	the disappointment was it was over-cooked .
+1	just do n't ever order singapore rice noodles anywhere including lulu .
+0	egg rolls , wonton soup were not good .
+1	but there was not much meat or noodles in the bowl .
+0	they did not offer me a chance to pay for it .
+1	competent udon and ramen noodles but the sushi was lacking .
+0	extremely disappointed in this dish .
+1	me : ok , can you substitute noodles for rice , please ?
+0	terribly ran !
+1	she did n't even know they had _num_ different type of rice noodles .
+0	_num_ . )
+1	taste like noodles , salt , and water .
+0	not cool .
+1	mixed noodles ( ) : where are the noodles ?
+0	the food could have come from a buffet and been better .
+1	the noodles were burnt and the pork overcooked .
+0	terrible service .
+1	the noodles were thing special and they just used shredded cheese .
+0	the chicken was also extremely dry .
+1	a wonton noodle soup & seafood chow mien was $ _num_ !
+0	bad decision .
+1	the chicken tasted old and the noodles were stuck together in one big lump .
+0	( they had run out of home fries ) .
+1	the noodles they had were pretty bland .
+0	honesty today must have been forgotten .
+1	i 've driven past a million times and kept thinking to try noodles .
+0	what a wreck .
+1	the lo mein noodles smelled like fish .
+0	that 's _num_ % .
+1	it came out of the kitchen with noodles instead of the potatoes .
+0	okay thai food , nothing special , and overpriced .
+1	we order noodles to go , and it takes very long .
+0	because i 'm not prepared to pay $ _num_ for a single visit ?
+1	the noodles were so over cooked it was disgusting .
+0	it is wrong .
+1	spicy noodles had no meat of any kind .
+0	poor little guy .
+1	i always wonder why every chinese eateries has singapore rice noodles on their menu ?
+0	owner or manager was very rude when we presented our yelp deal .
+1	the low mein was just that ... noodles .
+0	if you 've got stuff to do , do n't bother coming here .
+1	the noodles were fine , but the meat ... was horrible !
+0	major disappointment !
+1	chopsticks arrived _num_ minutes after noodles did .
+0	and i might add , he knew i was sitting there waiting .
+1	our noodles were only crispy along the very edge of the dish .
+0	this place was disgusting !
+1	the noodles were not good either .
+0	_num_ .
+1	$ _num_ for some noodles and burnt chicken .
+0	they are too pricy as well .
+1	i never get my sauce game right , it 's drowning my noodles .
+0	i was _num_ minutes early for the bus i was trying to catch .
+1	noodles were doughy and chewy and clearly different sized than the old method .
+0	the front desk staff was not interested in helping me checkin .
+1	it was a tofu , vegetables , and wide rice noodles entree .
+0	the hostess was incredibly rude directly off of the bat .
+1	see pics of giant balls of noodles that tasted like the burnt curry .
+0	_num_ .
+1	pan fried noodles were drenched in a sour soy based sauce that was overpowering .
+0	if i could give it _num_ stars i would .
+1	i always order the calamari , vermicelli noodles and side of pho .
+0	to which my response would have been , `` oh i 'm so sorry .
+1	i understand certain noodles get gravy type of sauce depending on the noodle .
+0	poor service , awful attitudes and sub-par food .
+1	however our little one ordered buttered noodles and was pleased as punch .
+0	took my friends from out of town to lidia last night , very disappointed .
+1	my spaghetti was watery and had barely enough sauce to coat the watery noodles .
+0	makes you wonder just how safe the kitchen is .
+1	i do n't really like rice and prefer lo mein noodles .
+0	this was our first time trying this place since moving to castle shannon .
+1	lo mein chicken noodles were stuck together , never again so so dry !
+0	not the crusty italian bread .
+1	after that there was nothing but cheese and noodles .
+0	not worth it .
+1	the wonton noodle soup was too salty , and the noodles were n't crispy .
+0	the next time i returned , i made an appointment with a different stylist .
+1	my plate was basically all vegetables , little to no noodles .
+0	the service was horrible and their coffee did n't taste great .
+1	seriously , would it kill you to add more rice noodles ?
+0	the service is horrible ... friendly but horrible .
+1	the rest were soft and not what hong kong noodles are supposed to be .
+0	this is an odd little cvs .
+1	all of the noodles just stuck to each other .
+0	we also waited over _num_ minutes before someone even took our order .
+1	the noodles were not pad thai noodles .
+0	i 've tried to like dean 's several times over the years .
+1	had chicken and noodles my noodles where not done at all .
+0	i thought it was from a sloppy oil change .
+1	the shrimp scampi was on spaghetti noodles and was skimpy and bland .
+0	do n't waste your time or money .
+1	all the soup noodles were at least _num_ and more .
+0	it was my last time , i will ever stop again .
+1	the noodles were a little dry .
+0	in addition , the presentation was poor .
+1	our other dish was chicken chow fun the rice noodles .
+0	i only give it _num_ stars because of the wait staff !
+1	the rice was bland and noodles were starting to dry out .
+0	the waiter was terrible .
+1	i got to try the fried noodles which was decent .
+0	but i did n't have a problem with that .
+1	and the worst part is there were pasta noodles in my salad .
+0	this week is the 3rd week .
+1	the only thing decent were the fat noodles my husband ordered .
+0	bland reheated samosas .
+1	the pho noodles were not even soft and were hard .
+0	i was totally underwhelmed .
+1	however , the type of noodles we ordered were out of stock .
+0	it 's tough to find anything good here .
+1	the crispy ones used to dip in sweet sauce , not pan fried noodles .
+0	the juice from the tacos also made the tater tots extremely soggy .
+1	not complicated to pour some sauce on the noodles !
+0	we got up and walked out and will never be back .
+1	all the noodles were not cooked and he meat impossible to eat .
+0	the guy who processed our registration was patronizing and slow .
+1	i ordered the thai curry noodles .
+0	sausage was disgusting .
+1	or maybe be allowed to use a second bowl for the noodles or something .
+0	the menu was pretty random and everything we tried was really average .
+1	the soup and noodles were passable , but the veggies were super bland .
+0	stringy , asian crab that was definitely pre-made .
+1	_num_ $ for just a bowl of noodles ?
+0	i ai n't going back where they treat customers like that .
+1	the broth sucks , and so did the noodles .
+0	baked ziti is supposed to have a lot of cheese and sauce .
+1	the noodles in the chow mein were no more than plain spaghetti noodles .
+0	_num_ .
+1	made me wait _num_ minutes for some pan fried noodles and fried rice .
+0	however , the sucker that i am for a deal , i got it .
+1	to much money to be getting packaged frozen broccoli , chicken and noodles .
+0	the host was horrendous and extremely rude .
+1	additionally , my japanese pan noodle bowl left much to be desired .
+0	_num_ .
+1	i tried the pan fried crispy noodles with chicken and the pad thai .
+0	it was dry and average , at best .
+1	my noodles were cold ... like really cold .

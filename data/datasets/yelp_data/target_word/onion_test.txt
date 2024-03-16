@@ -1,0 +1,40 @@
+0	absurd .
+1	_num_ onion .
+0	i 'm definitely not coming back .
+1	$ _num_ a piece for an onion ring ?
+0	oh primanti 's , you always disappoint !
+1	his french onion soup was decent , but my salad was lacking .
+0	stealing from your customers is not a great idea china buffet .
+1	with several pathetic pieces of onions .
+0	i did not have a good experience here tonight .
+1	it was filled about _num_ % with lettuce and raw , red onion .
+0	i had a bad impression of this hotel before i even entered .
+1	the onion rings completely tasted like calamari !
+0	Negative
+1	instead of onion rings they gave me fries .
+0	but seriously , it 's like walmart stuff at whole food 's price .
+1	so i get my food and there were onions in my food .
+0	bland .
+1	my bun was hard and the onion rings tasted like old grease .
+0	what a terrible manager !
+1	it 's guacamole , onion , cheese , sour cream and bacon .
+0	i do n't care for this giant eagle , and that is being kind .
+1	we ordered sausage , mushroom , and black olives and onions .
+0	services between spas are typically the same .
+1	i got a fajita burrito and the peppers and onions were boiled .
+0	go here to die !
+1	my burrito tasted like onion soup .
+0	i will never be back .
+1	the burger came with onion straws , bacon , cheese and burger patty .
+0	this place is just a flat out joke .
+1	the onion rings were nothing to write home about .
+0	this place is beautiful but not worth the money , stress , or headache .
+1	i ordered a ground beef taco that had an abundance of onions in it .
+0	i had my _num_ year old with me and i 'm _num_ weeks pregnant .
+1	two people ordered bruschetta , french onion soup and different sandwiches .
+0	why was my beer warm ?
+1	the omelet ... greasy , tough meat ... hardly cooked bell peppers and onions .
+0	first , let me say i wish you could leave _num_ stars .
+1	she informed me that it was carrots , onions , chicken and sauce .
+0	needless to say , my cannoli was awful .
+1	i ordered a focaccia with balsamic sirloin , mushroom , onion , and cheese .

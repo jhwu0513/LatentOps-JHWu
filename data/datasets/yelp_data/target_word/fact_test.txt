@@ -1,0 +1,40 @@
+0	first time nothing unusual happened .
+1	was n't a fan of the fact that additional chips cost you .
+0	lack of chicken and brown , mushy lettuce .
+1	in fact , i 've had one for _num_ straight days .
+0	not sure we will be back .
+1	in fact , our awesome server was this outing 's only saving grace .
+0	got chicken with string beans ( $ _num_ ) take-out .
+1	not so good , in fact horrible .
+0	they do n't help you to find a table .
+1	hate the fact this place charges gratuity already i guess for parties over _num_ ?
+0	they also did away with the _num_ cent wing night .
+1	in fact , we barely even tasted cream cheese at all .
+0	they hired people that had to be required to do certain areas correctly .
+1	in fact , there 's nothing really `` good '' about this place .
+0	other than losing your stuff , they seem like nice guys .
+1	in fact , the building where they once occupied has been torn down .
+0	i have n't received my piece yet and its been about _num_ days .
+1	that fact is what pushed me over the edge .
+0	my party and i left to go to another restaurant .
+1	but the fact that they lie is unacceptable .
+0	huge mistake .
+1	: ) in fact - my dog was n't even impressed . )
+0	really , you do n't get much for what you pay for at panera .
+1	maybe you should get your facts straight before posting a reply .
+0	yeah , do n't order from here , unless it 's for dumplings .
+1	i personally do n't like the fact hat you have to purchase everything separately .
+0	just go elsewhere .
+1	terrible customer service , disrespectful in fact .
+0	it was a small roll cut into _num_ pieces ( maki ) .
+1	in fact ... wait ... what place are we talking about again ?
+0	no sign of italian meat to be found .
+1	the fact they say they make italian food is embarrassing .
+0	no tip , never coming back .
+1	in fact , i left most of it where i found it .
+0	i think i 'll be going elsewhere next time .
+1	i really just did n't like the fact of the waiting and waiting .
+0	the menu was prix fixed at $ _num_ .
+1	in fact , we should already be closed . ''
+0	i also ordered the southwestern turkey burger .
+1	in fact , it sucked .

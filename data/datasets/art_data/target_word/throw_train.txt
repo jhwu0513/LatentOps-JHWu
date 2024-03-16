@@ -1,0 +1,400 @@
+0	the flavor was meh and the black truffle butter was surprisingly boring .
+1	threw it in the trash and left .
+0	management there does n't care !
+1	i threw it out after a few bites .
+0	then , i went to go hang out with my best friend immediately after .
+1	i picked pieces to eat , but threw much of it away .
+0	i made a very simple order online -- very difficult to screw up .
+1	: ( went out , and went back to throw up .
+0	either the batteries are almost dead or its just terrible .
+1	the quiche has bacon and swiss cheese running threw it .
+0	i sat down in the chair for pedicure .
+1	i walked out and threw in the trash , so disgusted !
+0	lobster roll was dry and salty .
+1	i had to throw it in the microwave because it was no longer hot .
+0	imitation crab meat at an italian restaurant does n't fly .
+1	i just ended up throwing it away .
+0	the pizza is very soggy and the salad is brown and mostly inedible .
+1	i just threw the sandwich away .
+0	okay on to service ... everyone seemed like they hated their job .
+1	the pizza looked like someone just threw it into the box without care .
+0	ugh .
+1	why did n't they throw it out !
+0	the preparation instructions seem questionable ( microwave in a plastic bag ?
+1	sure , i bet that will work considering ups threw away everything .
+0	there are a few of them and there 's really nowhere else to go .
+1	so salty i ate one and threw them out .
+0	the big green salad was boring and everything was in huge chunks .
+1	the staff at the venue just threw the cupcakes on the provided stand .
+0	too much dressing in a salad that did n't even fill the bowl .
+1	they surely threw her under the bus .
+0	had such high hopes for this place on our visit to pittsburgh .
+1	he kinda just threw our stuff at us .
+0	they get maximum money for average seafood ( or anything else ) .
+1	far superior food for less money , and you wo n't throw it up .
+0	they refuse to put anything on paper .
+1	it seemed like a bunch of toppings thrown together with chips and ranch dressing .
+0	worst experience of my life .
+1	when we arrived at ichiza for dessert , i threw up in the bathroom .
+0	so , we again waited & never did see a server .
+1	i threw them away .
+0	do n't expect great performances here , expect a talked up mediocre performance .
+1	threw away $ _num_ dollars of food .
+0	oh my god ... .
+1	i ended up throwing my food away .
+0	beautiful courtyard less than _num_ yards away .
+1	i threw away the salad after that .
+0	we were very disappointed .
+1	he grabbed my money and threw together my meal so sloppy i was shocked .
+0	however , it was also past lukewarm to the point of being cool .
+1	she then threw the food into the garbage and tried to take my receipt .
+0	the drinks and salads are also soooo pricey .
+1	they took it off and threw the bill at me .
+0	very disappointing experience .
+1	going to houston 's either on scottsdale or on camelback is like throwing dice .
+0	and then _num_ minutes later , a fifth entree was brought out .
+1	our waitress threw the straws at us and it was just a bad experience .
+0	because of number two our service in general was not good .
+1	i ordered chicken curry , the meat was spoiled and made me throw out .
+0	after the renovation the place lost its center !
+1	just threw it all in the trash .
+0	needless to say , we never returned .
+1	it looked like throw up and tasted not much better .
+0	unfortunately , the hair did not stop there .
+1	we hardly ate any of the food and threw the leftovers away .
+0	i was mostly wrong .
+1	i seriously almost threw up after i had realized what i was eating .
+0	the beef pho was sub par .
+1	i threw it out because it just was n't worth the trouble of eating .
+0	anyway , do n't try to eat here .
+1	threw my appetite off !
+0	!
+1	the complimentary case was cheap and i threw it in the trash .
+0	and again naturally , no return phone call .
+1	i threw the entire box away .
+0	until then she was just missing .
+1	he threw us out because he was caught with a bed bug problem .
+0	after _num_ minutes , i left .
+1	i do n't know , i threw them out after one bite .
+0	the fish n chips were not good .
+1	i ate _num_ bites and threw it away .
+0	the steak consisted of three small thinly sliced pieces of ... .
+1	in other words , throw the follow-up request in the trash !
+0	this was our first time trying this place since moving to castle shannon .
+1	it was disappointing because i was really hungry and had to throw everything away .
+0	and the veal was dry .
+1	i paid for it , left the place and threw it away !
+0	imitation crab & lots of filling .
+1	the bagels were cold , hard and stale , had to throw it away .
+0	my sandwich did n't even have true tomato slices .
+1	i 'll be throwing the leftovers away .
+0	it was sad , really .
+1	threw out a $ _num_ plate of food after finding hair .
+0	did n't havana go out of biz ?
+1	i gave most of it away and threw away about _num_ % of it .
+0	everytime i eat at this location i end up with a sick stomach .
+1	service : literally they threw down the utensils .
+0	no explanation at all was given .
+1	it was so bad that i threw most of it away .
+0	it was so underwhelming .
+1	if you want to throw your money away go to this carwash .
+0	i ordered fried chicken , greens , yams , catfish , and banana pudding .
+1	i 'm done i throw in the towel trying to deal with them .
+0	did not want to buy another mattress online .
+1	wasted my money and had to throw the food .
+0	this food , though , it was n't good .
+1	besides salad , i almost have to throw the rest away .
+0	same lousy service .
+1	and it was n't just my order that was thrown out .
+0	two hours and i 'm still waiting on a slow sunday night .
+1	apparently they only flavor things here by throwing cheese on it .
+0	small dark not very opening or friendly place .
+1	threw the sandwich away and had a bowl of cereal !
+0	worst place ever .
+1	i 've had things thrown in bags and never a thank you .
+0	i asked them three times to please try and they refused all three times .
+1	( i just threw up in my mouth a bit . )
+0	i 've visited this store _num_ times .
+1	when he came back , he just threw the bill and walked away .
+0	my big issue is that the employees stand directly outside and smoke .
+1	both of us were thrown off by that .
+0	cold food !
+1	i mean this stuff should have been thrown out last week .
+0	did n't know how to remove gel polish .
+1	i immediately threw away wash card i had signed up for .
+0	food was mediocre as well .
+1	we ended up throwing out about _num_ % of what we paid for .
+0	the worst part of it all .
+1	it was so horrible i almost threw up !
+0	i probably wo n't be returning for a hair appointment .
+1	the staffs answer to this was to throw napkins on the wet bench .
+0	reservations at 7:00 pm saturday .
+1	to start off i ended up throwing away over half of it .
+0	$ _num_ dollars for a plate of pasta , really ?
+1	if they get that right , i 'll throw another star at them .
+0	this would easy go for $ _num_ at other places during lunch .
+1	could of took the $ _num_ and thrown it out the car window !
+0	it 's a shame he could not assist me with some grace and respect .
+1	kenny said he would throw in the oil change and lube for free .
+0	decor and service were just fine , no issues there .
+1	i did n't even finish half of my food and i threw it away .
+0	it has gone downhill badly .
+1	we threw out the meat and just ate the brown rice and macaroni salad .
+0	i 've been going to this bar randomly over the last _num_ years .
+1	horrible drive threw service .
+0	not hot at all ... .
+1	i threw it away and ate the friend won tons they gave us .
+0	the waiter did not even bother to ask if everything was okay .
+1	she then ended up throwing up her entire dinner in the toilet .
+0	i do n't see why people really like this place .
+1	i only ate half of it and sadly threw it out !
+0	so really it was n't a terribly difficult job to be done .
+1	we both threw down a brew nasty , paid and left .
+0	i 'm not a fan of that .
+1	after just about throwing up , i threw out the food .
+0	just said to try back again !
+1	my plate arrived and looked like a garden threw up on my plate .
+0	we submitted our name thinking it would be 20-30 mins .
+1	will not be going here to throw away my money .
+0	in a bad frame of mind , i tried my food .
+1	just throw in a bit of lard and put 'em back on the fire .
+0	i 'd go back for bottled beer , that 's about it .
+1	`` just throwing it out there , '' he said .
+0	never coming back again , it was such a waste of money !
+1	threw away everything i bought .
+0	i do n't know how this place has stayed in business for so long .
+1	ate half of it and threw the rest away .
+0	not anything like the pieces on the floor .
+1	food was so bad that i threw it in the trash .
+0	white , and very loud .
+1	i do n't feel like paying for a single tiny brownie thrown in there .
+0	average pittsburgh pizza and fried stuff pile , nothing special though .
+1	our burgers were thrown together and sloppy .
+0	which i really did n't since they were all mediocre with little flavor .
+1	he said no problem , they would throw away .
+0	big box , impersonal hotel .
+1	that threw me for a spin a bit .
+0	very annoyed and ignorant !
+1	ended up throwing away basically all of our food .
+0	she brought our soups , which luckily had spoons in the huge bowls .
+1	she threw up later that night .
+0	they were significantly cheaper .
+1	i threw $ _num_ into the trash .
+0	terrible !
+1	apparently that threw the kid totally off .
+0	i would give this place half a star if i could .
+1	i sadly had to throw most of it away .
+0	the entrees are horrible .
+1	he merely threw his hands up in the air and brushed me off .
+0	_num_ stars .
+1	they have often thrown my garbage cans onto my plants .
+0	the store seems to be a kind of a ripoff .
+1	that totally threw me off .
+0	however , the rum killed any blueberry or mint flavor in the drink .
+1	they literally just threw the wings in the fryer and delivered it to us .
+0	no chicken .
+1	time for luke to thrown in the towel or make some big changes .
+0	unfortunately the food was a let down .
+1	he threw his out too after we began reading the reviews on here .
+0	the service provided by a chinese man was terrible !
+1	we had bug bites on us , cashier threw check at my daughter !
+0	the parking situation is horrible .
+1	yes pink stuck to the bone not done , threw them away .
+0	for one , the service was terrible .
+1	tried one bite and threw it out just like my other visits .
+0	if i could give dr. murphy less than _num_ star , i absolutely would .
+1	i threw it away after _num_ bites .
+0	it is absurd !
+1	threw the crap away .
+0	my house made chips were good & cole slaw had very little flavor .
+1	i threw out most of my food , honestly .
+0	service was horrible !
+1	and do n't just throw my food and money at me !
+0	the cheapest thing on the menu was $ _num_ .
+1	it 's as if they threw it in the microwave for _num_ minutes .
+0	i sat for almost ten minutes at the window while my food was prepared .
+1	i 'll be throwing the other coupons in the trash .
+0	drinks were not good .
+1	like the broccoli was old and should 've just been thrown out .
+0	so i asked how to return it and he did n't know .
+1	just disgusted that i threw my money away .
+0	it did seem a little unwelcoming and a little dated .
+1	she stopped , turned around and threw on a fake smile .
+0	i will avoid this one at the waterfront for awhile .
+1	my friend literally lost his appetite and threw his food out .
+0	the lettuce tastes old and rubbery ... not in this case .
+1	throwing money out on stage was just a waste .
+0	at that point our drinks were empty .
+1	ended up throwing half the pizza out because it just tasted so bad .
+0	i made an appt online for 6pm the following day .
+1	i ended up throwing it away after just a couple of bites !
+0	worst italian food ever !
+1	but not a rude as the woman who threw my cup onto my tray .
+0	i had a horrible experience .
+1	to their credit they were apologetic and even threw in _num_ free desserts .
+0	all working hard , but covering too many tables .
+1	the problem was i work monday threw friday .
+0	i probably wo n't be back .
+1	threw them both in the trash !
+0	it was nasty .
+1	i threw the ziti in the trash next to the pizza .
+0	this place is horrible .
+1	plus the guy ran my card twice , threw the first copy away .
+0	_num_ . )
+1	guess what , he threw him out too , lol .
+0	if you are in the aaa , you 'll know i 'm calling .
+1	it looked like people 's leftovers they threw on my sandwich .
+0	head next door to sing sing for drinks , though .
+1	disgusting and i threw the whole thing away .
+0	the other food was decent , but as i said before was cold .
+1	i ended up throwing the rest in the trash .
+0	had no desire to eat throughout the day .
+1	one bite of the tiramisu and i threw it out .
+0	if i could give negative stars i certainly would for this place .
+1	one , quite literally , threw a guy off of the bus for me .
+0	really disappointing .
+1	i threw the salad away and left .
+0	why on earth did i go back to this restaurant ?
+1	ugh ... i 'm gon na go throw up my lunch now !
+0	the response and reaction that i got from her receptionist was quite rude .
+1	i got so sick and was throwing up after eating there !
+0	we ordered drinks and she was unhappy that we did .
+1	everything else we sadly threw away .
+0	rude .
+1	we threw away $ _num_ worth of food .
+0	they had a dj so there was a cover of $ _num_ - boo !
+1	they had already thrown it away and refused to give her another cup .
+0	it 's the same thing but _num_ more dollars .
+1	this time it was so bad i had to throw it out .
+0	_num_ .
+1	just thrown in at the last minute .
+0	for real , wasting money for wrong order !
+1	the salad was lettuce with ranch thrown on it .
+0	i mean , i understand you do n't care about _num_ dollars .
+1	i was extremely embarrassed as my friend threw more than half of it away .
+0	salads , sandwiches , burgers and entrees we have all had before .
+1	i only ate a couple pieces and threw the rest away .
+0	it 's definitely gone downhill .
+1	it 's broken off and thrown under the sink .
+0	)
+1	i ended up throwing my purchase onto the table and walking out .
+0	i spent $ _num_ and only ate the fortune cookie .
+1	it has not been washed or thrown in the dryer which sets stains .
+0	holy bat balls did this place have bad food !
+1	they looked old and should have been thrown out a long time ago . )
+0	get me out of here !
+1	it was over $ _num_ thrown in the trash .
+0	unfortunately the food was not .
+1	only had a bite of that and threw it away .
+0	we talked to the manager i 'm assuming which did n't really care .
+1	i ended up throwing the pizza in the trash and made a sandwich .
+0	just totally inconsiderate .
+1	should have known better than to have throw back steak .
+0	it 's not going to happen .
+1	like , i might throw up everything i ate .
+0	there was a long line and only one employee at the checkout .
+1	so my sample was thrown away .
+0	the only thing they did n't mess up on our order was the rice .
+1	now we 're walking around and teenage boys starts throwing around balls .
+0	giving _num_ stars instead of _num_ just cause i 've had worse .
+1	pino then literally threw our menu 's at us , and walked away .
+0	the pasta was overcooked and the shrimp just sort of were there .
+1	we threw it away and got in and out burger .
+0	the food was also not too good .
+1	save yourself pain and throw your money out the window .
+0	no , but you know that better is out there .
+1	i ended up throwing it away after eating one piece .
+0	just so bland !
+1	later that night we ended up in the toilet throwing up non stop .
+0	the place was much less noisy and crowded at my second visit .
+1	pecan pie filling was so chewy it had to be thrown away !
+0	_num_ .
+1	why would you even throw it away in the first place ?
+0	i am upset to report that this tasted rather bland .
+1	in short , some interesting stores and restaurants all just thrown together .
+0	the hostess that had little to nothing to say prior or during our seating ?
+1	might as well shut the doors and throw the keys away !
+0	took my friends from out of town to lidia last night , very disappointed .
+1	i rarely will throw food away but this was not edible .
+0	the sandwiches are n't bad , they just are n't great .
+1	it looked like someone threw up sauce over everything .
+0	finally order and pull around , i wait another five minutes .
+1	waitress was throwing plates on the table .
+0	i arrived and was disappointed to not see the arrangement i ordered .
+1	your masseuse is of course thrown off .
+0	really disappointed !
+1	it was obvious that it was microwaved and thrown in some sauce .
+0	it was accompanied by some typical frozen steak fries .
+1	i ate 1/2 and threw it away and never complained .
+0	stay away , there 's nothing here to see .
+1	_num_ ) after _num_ years they threw away my paperwork and my record .
+0	they just cost me money and lost my tires .
+1	i threw the whole meal in the garbage .
+0	food was terrible .
+1	it was so unappetizing i just threw it in the trash .
+0	here 's the bad points .
+1	i ate one piece and ended up throwing the rest away .
+0	i was so mad .
+1	i had two bites and threw it away .
+0	for $ _num_ i expected so expected something a lot better .
+1	the other aisles were not very clean and had items thrown everywhere .
+0	their ginger dressing is unbelievable .
+1	and threw her hands up in the air obviously annoyed by my very presence .
+0	general tso chicken lacks in chicken .
+1	it was gross and i threw it away .
+0	the front waiting area was in mass confusion .
+1	this made me very suspicious so i ended up throwing it away .
+0	the food was mediocre .
+1	my poor little princess - she has been throwing up since 5am .
+0	these women are old middle aged miserable employees with no passion for their jobs .
+1	they did nothing for me as i laid in the hallway throwing up .
+0	there was absolutely no care or thought put into this salad .
+1	it all comes down to the crust -- i threw it out .
+0	the waitstaff all seems to think highly of themselves .
+1	they threw some tomatoes on it .
+0	if zero was an option that is what i would rate them !
+1	thrown on a plate with no garnish , no lemon wedge .
+0	this was an expensive skirt , completely ruined .
+1	unfortunately , it 's not my first time throwing away coffee from here .
+0	i 'd stay away from this garden like the plague , though .
+1	if it were a fish , i 'd throw it back .
+0	being from la , i was disappointed with the tacos .
+1	at this point we are ready to start throwing stuff at his head .
+0	we were so looking forward to the food but our experience was awful .
+1	i threw my mean in the garbage .
+0	so disappointed .
+1	yes this is also a con because i threw it away .
+0	i wo n't be going back .
+1	my family and i are throwing away four full boxes of absolute trash .
+0	too bad after all these prior good reviews .
+1	i always like to throw positives first as praise .
+0	the atmosphere was atrocious .
+1	i threw half of it away .
+0	both tasted very fishy to me .
+1	like literally threw it in there .
+0	terrible service .
+1	threw it in the trash and went elsewhere .
+0	after taking her to another vet , i was educated about wound care .
+1	i ended up throwing half of my sandwich away because it was all bread .
+0	it was disgusting .
+1	my sandwich was poorly thrown together .
+0	needless to say none of us wanted to order another round of drinks .
+1	i threw up after i ate there food .
+0	i would n't step foot in that hot tub ever again .
+1	needless to say i was thrown back .
+0	this is the worst location .
+1	it was like throwing pieces of lettuce on the plate .
+0	the second was passable , but nothing special .
+1	seriously i threw it away .
+0	at our table and then left prior to ordering .
+1	and so then , we threw that crap in the trash can .
+0	smoky , but not horribly so .
+1	threw a buck in the table and walked out .
+0	the host was horrendous and extremely rude .
+1	a ton of cold shredded cheese thrown on top of pizza ?
+0	we stuck it out and left with no intention to return .
+1	i threw it away .
+0	ca n't give this place anything lower than _num_ star .
+1	oh and they threw in some glasses cleaner for free .
+0	the flavor of the dough is generic and salty .
+1	it really tasted like it was thrown in a bucket of salt !

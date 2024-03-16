@@ -1,0 +1,40 @@
+0	that 's unacceptable .
+1	and the pedicure was the worst i have ever had .
+0	singapore had this for their buses in _num_ !
+1	$ _num_ for a pedicure ?
+0	we ordered the turkey reuben that tasted funky on day old potato pancakes .
+1	pedicure was $ _num_ ( _num_ for anything fancy like french tips ) .
+0	we walked in and waited to be sat .
+1	besides , my pedicure was nothing special .
+0	took my friends from out of town to lidia last night , very disappointed .
+1	we did n't even get our mani only pedicure !
+0	after further consideration , this store does not deserve a _num_ star review .
+1	i purchased groupon for the gel manicure and pedicure .
+0	getting on and off is confusing .
+1	she does a great job with waxing but manicures and pedicures are awesome here !
+0	ravioli , chicken breast , sauteed greens and a seasoned broth .
+1	god only knows how clean their pedicure bowls and mani/pedi equipment are .
+0	wo n't be going back .
+1	very happy with my pedicure and wax .
+0	needless to say , we will not be returning to this place .
+1	staff was nice , pedicure was horrible .
+0	she was generally nice and probably embarrassed for serving such crappy food .
+1	this is a wonderful place to get a pedicure !
+0	it was average , but not restaurant quality .
+1	it was awful , _num_ min soaking _num_ for the pedicure .
+0	the outside breading was hard as a rock and had no taste .
+1	the manicure and pedicure was poor .
+0	_num_ . )
+1	she then performed a `` spa pedicure '' in _num_ minutes .
+0	_num_ per person not worth it .
+1	very disappointed with the pedicure i received .
+0	lame .
+1	this was just like any other pedicure i had gotten anywhere else .
+0	just had the worst experience at a nail salon .
+1	the pedicure was less than stellar .
+0	whoever designed this place should be shot .
+1	i went in by myself for my birthday present to get a pedicure .
+0	she gave me an attitude .
+1	the pedicure was disappointing .
+0	he needs to be fired and needs to be some changes made .
+1	they gave me their # _num_ pedicure on the menu which is $ _num_ .

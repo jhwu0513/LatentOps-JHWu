@@ -1,0 +1,400 @@
+0	both meals were served barely warm .
+1	originally i wanted to give them _num_ stars but the food quality was bad .
+0	horrible experience .
+1	but , recently they seem to have quality control issues .
+0	hard to contact .
+1	the meals are over priced and just ok in terms of quality .
+0	we got garlic bread which was too thick and not enough butter .
+1	the prices are too high for the quality .
+0	first of all , the gym in pretty cheap .
+1	for being as expensive as they are you would expect a better quality .
+0	i hate this place .
+1	but the food quality is generally average to poor .
+0	for anyone who uses self checkout at this store do not forget your bags !
+1	as for quality , my chicken was piping hot just out of the fryer .
+0	the hallways smell like hot garbage , always .
+1	as for the food , price does not fit the quality or size .
+0	the menu states there are _num_ market priced items .
+1	ice cream is just ok imo and overpriced for the quality .
+0	we woke up late and missed the breakfast hours of our favorite place .
+1	sadly , the food quality and flavor has left this location .
+0	disappointed .
+1	in conclusion , poor quality food , questionable sanitation , very very limited seating .
+0	we counted _num_ parties , thats it ... in a otherwise bare restaurant .
+1	the quality of service from the staff was inconsistent .
+0	when i told them that , they just lied and said they did .
+1	poor quality work .
+0	disappointing .
+1	cheap but your getting what you pay for in quality .
+0	they said that each vegetable would be $ _num_ each .
+1	the chicken was bad quality , i 've had much better .
+0	average bar food , slow service , a nice selection of incredibly overpriced beers .
+1	because of the poor quality manicures i will be looking for a new place .
+0	sure enough , a few minutes later it was on my table .
+1	i guess they want big portions to make up for poor quality .
+0	our hibachi chef was absolutely horrible !
+1	usually pizza that greasy is caused by low quality cheese .
+0	pretty obvious the waitress did n't know the table numbers .
+1	from what i hear the poor quality is specific to this club .
+0	we ordered the filet mignon with chicken hibachi .
+1	for the price i paid i would have expected a higher quality of care .
+0	very annoyed and ignorant !
+1	i 'm disappointed in the quality of the arrangement .
+0	server kim was awesome .
+1	both the pizza and the breadsticks are not the quality i used to .
+0	the food was mediocre and full of msg .
+1	low quality ingredients .
+0	rude service , and pizza was subpar .
+1	quality has went down as the price went up .
+0	i was presented with ... an empty plate .
+1	the quality of the furniture turned out to be very poor .
+0	it really feels like a total lack of effort , honesty and professionalism .
+1	poor quality service and professionalism across the board .
+0	they should n't even call it italian food .
+1	not only has the quality dropped , the service is horrible .
+0	terrible !
+1	the drinks , like everything else there , are overpriced for their quality .
+0	at eat n ' park , free cookies are a staple .
+1	we left overall feeling disappointed in the service and the quality of the food .
+0	nothing but breading .
+1	the salad bar was the only redeeming quality .
+0	if i could give negative stars i certainly would for this place .
+1	poor quality food , very typical american fare .
+0	if that were the case , i 'd stick to making my own .
+1	my chicken was low quality chicken , fatty , and kind of nasty .
+0	the store seems to be a kind of a ripoff .
+1	the appetizers are frozen and low quality .
+0	do n't bother .
+1	food did not have quality flavor it was very bland .
+0	i have mixed feelings about rock bottom .
+1	this is not ihop quality food .
+0	should n't you be doing this for all of your clients ?
+1	poor value , ok quality .
+0	sadly , this was the last time that she ever came to our table .
+1	never once quality checked us .
+0	the food was also not too good .
+1	the worst quality mcdonald i have been to .
+0	the produce is not very fresh and the meats never looks good .
+1	last two years have noticed quality of food sadly going down .
+0	absolutely horrible customer service .
+1	changed too seem to be the quality of the steaks .
+0	mine was not very cold and his pour was light .
+1	but then their quality really sucked .
+0	i had a bad impression of this hotel before i even entered .
+1	way too overpriced for the quality of food !
+0	seriously the worst mcdonalds i 've ever been to .
+1	their close proximity does n't win out over quality .
+0	it was a weird experience .
+1	low quality food .
+0	i wish there were negative stars i could put for this place .
+1	i was disappointed in the quality of the pastries at this place .
+0	not impressed .
+1	the food was of poor quality .
+0	worst service .
+1	quality of food was not at all what was expected for the price .
+0	the remaining slices got tossed in the garbage .
+1	they give you plenty of food but it is low quality .
+0	no one .
+1	awful service , poor attitude , poor food quality .
+0	the downtown office has ruined america 's best for me forever .
+1	i was very disappointed in the quality of food !
+0	we ended up with our glasses 3/4 full and a watered down juice cocktail .
+1	unfortunately , it seems there is zero attention to food quality .
+0	not at this location , at least .
+1	food was overpriced and low quality .
+0	one person working and could n't look at my car .
+1	the chicken itself was mcdonald 's quality .
+0	thats as american as fortune cookies .
+1	i 've gotten my nails done quickly before though and had much better quality .
+0	you 'll get a sandwich with soggy fries and coleslaw on it .
+1	poor service and the food was overpriced for the quality .
+0	did n't file straight or smooth .
+1	everything was extremely overpriced for the quality and the service was terrible !
+0	he called me to pick him up as i was paying the bill .
+1	warm old school feel is ruined by lack of food quality .
+0	will not be returning .
+1	i am so done ... the quality of work is horrible .
+0	have been to many restaurants but this was my worst experience .
+1	very disappointed in the quality of what i got .
+0	odds are , you 'd get a better experience at home .
+1	pleasant staff , but poor quality work .
+0	ca n't wait to cancel service .
+1	very low quality service .
+0	we will not be going back .
+1	not a good sign for the quality of food to say the least .
+0	i do n't think sammy has ever even had a good corned beef sandwich .
+1	too expensive for quality of food .
+0	i expected bland sushi .
+1	this place has no redeeming qualities whatsoever .
+0	this was flat , one note .
+1	not of embassy quality - very poor property .
+0	my other dining companion had the osso bucco which was dry and stringy .
+1	it 's clear auto only cares about quantity not quality .
+0	carpet looks really dirty .
+1	that 's a definite sign that the quality is sub-par .
+0	wo n't be going back .
+1	can not imagine the poor quality of some food .
+0	$ _num_ per salad ?
+1	poor attention to detail , poor quality .
+0	waitress did n't even know until i told her politely .
+1	it was average , but not restaurant quality .
+0	being next door to corporate you would have higher expectations .
+1	overpriced low quality hibachi .
+0	the food , however , is mediocre at best .
+1	the only redeeming quality is the young girl who works here .
+0	the ambiance is a little strange .
+1	i think most things here our overpriced and sub-par quality .
+0	delivery was late , our gyros were cold and fries were soggy .
+1	the quality of the clothing was pathetic and most of the items were ugly .
+0	the italian and mushroom steak hoagies were n't that great .
+1	to me , these are the airport 's only redeeming qualities .
+0	the pasta i got was good , but nothing to write home about .
+1	the main ingredients just seem to be lacking in quality .
+0	atmosphere : typical chinese takeout place .
+1	_num_ stars for history , _num_ for food quality and flavor .
+0	my biggest complaint is the drink prices .
+1	pay more elsewhere for better quality .
+0	which i do n't really need .
+1	lack of quality .
+0	_num_ .
+1	tasted low quality .
+0	service was cheerful though .
+1	cheap quality .
+0	_num_ mins .
+1	service was the only redeeming quality .
+0	i try calling bj 's and wait over _num_ minutes on hold .
+1	what this place lacks in quality , should be made up for in ease .
+0	no personality , still .
+1	the quality is not what it used to be .
+0	the manager claims he is very helpful ?
+1	i would have expect better quality of food for a _num_ star restaurant .
+0	horrible atmosphere for the food on the menu in parts .
+1	i had high hopes for the quality but i was disappointed .
+0	even worse , no seasoning whatsoever .
+1	the quality of care is very poor .
+0	however the experience here was not very good !
+1	but if you love quality and freshness , avoid !
+0	decided to give them another chance and was disappointed .
+1	the food quality is continuously horrible .
+0	the drive-thru workers are rude and they give you crap food .
+1	burgers and hot dogs were not a or even b quality .
+0	they all looked at me , none greeted or walked toward me .
+1	the sushi is very plain and not high quality either .
+0	they 'll gladly take your money , however , good luck getting issues resolved .
+1	_num_ stars for tradition , _num_ stars for food quality and _num_ for service .
+0	probably the worst i 've ever had .
+1	and the quality of them are bad .
+0	i feel bad for the lady that works the paint counter .
+1	quality was okay and food is kind of bland .
+0	summary : very noisy , terrible service .
+1	extremely low quality chicken on the orange chicken .
+0	had to have my sheets changed when i got to my room .
+1	food was just low quality .
+0	it was very noisy and i do not recommend for kids .
+1	this place is subway quality for way more money .
+0	it does n't work .
+1	very low quality food for the price .
+0	my husband and i went to buffalo blues last night .
+1	the food quality is just so-so .
+0	neither one of us ate more than _num_ chips .
+1	when i returned to grab the photos , they were horrible quality .
+0	i 'm no fair weather fan , but 20+ years of losing is enough .
+1	they are not concerned with quality of courtesy services ie shuttle and breakfast .
+0	i pretty much hate this hotel .
+1	came here for pizza and wings last night and the quality was way off .
+0	did n't see a manager until after 10:30 pm .
+1	it is a little overpriced even with coupons for the quality of food .
+0	i am so disappointed .
+1	the only redeeming quality is the decor .
+0	they also tend to forget some essential ( i.e .
+1	the produce quality was not very good .
+0	it was n't overly crowded which made it easy to get drinks .
+1	the spread is average , quality of food and service unimpressive .
+0	the golden palace buffet is bad , but at least edible .
+1	the quality is completely gone , portions are smaller , prices higher .
+0	very disappointing easter dinner .
+1	pricey , overpriced compared to other higher quality italian restaurants .
+0	i did not receive the free cheesy bread and the drink order was incorrect .
+1	the quality was crap and it was $ _num_ .
+0	we walked in and there were already some people waiting for a table .
+1	only redeeming quality was patron shots .
+0	big corporate america places only get one shot w us .
+1	plus the quality is not great and never replace buttons when broken .
+0	i would n't go back .
+1	just tasted like a ton of vinegar without any quality or flavor .
+0	also the food was bland and pretty much flavorless , very disappointing .
+1	you would probably need the drinks to mask the poor quality of the food .
+0	it was just ordinary .
+1	overpriced and poor quality .
+0	just bad service .
+1	servers are awesome , the food is a hole in a wall quality .
+0	i want to like this place , but just ca n't .
+1	it was _num_ bucks but for the quality , it should be 10-15 bucks .
+0	the bathroom was gross .
+1	food was cold and poor quality .
+0	the food came out quickly enough .
+1	service was great but it sure was n't morton 's quality ?
+0	this is piss poor excuse for a turkish restaurant .
+1	was very disappointed with level of quality and service .
+0	if you want rock bottom food , head to rock bottom .
+1	essentially for me , it 's like fast food quality .
+0	while waiting , i used the ladies restroom .
+1	and this place went downhill in quality and service over the last _num_ years .
+0	another waste of time , wait until people my age get old .
+1	they also use poor quality cheeses that had little flavor .
+0	bathrooms way too small i had to dry off outside the bathroom .
+1	the beef was very pink in the middle and was of extremely poor quality .
+0	i just do n't understand how anyone can like this place .
+1	panera quality should be consistent no matter what location you visit .
+0	i called restaurant.com for a refund , and told them what he said .
+1	food is poor quality .
+0	otherwise i would have brought him with me and we could have dined in !
+1	horrible decline in quality of service .
+0	restaurant dot com you 've let me down once again .
+1	the price is n't worth it for the quality or quantity .
+0	i will never try it again .
+1	the slowest and worst quality bojangles in the history of the franchise .
+0	it 's loud as hell !
+1	it was all poor quality food and poorly prepared .
+0	but they are n't reliable .
+1	the food quality does n't match the place at all .
+0	there is no excuse .
+1	when i got home , the food was poor quality .
+0	some good some bad .
+1	cheap eats yes but not high quality just typical flavor i guess .
+0	but it was the attitude of the owner that turned me off the establishment .
+1	very poor quality food .
+0	i drink this beer regularly , and something was wrong with the beer .
+1	i was sad to see how far down the quality of food had gone .
+0	they are too pricy as well .
+1	clearly , customer service nor quality of food are valued .
+0	but then i had to wait more than _num_ minutes to get my food .
+1	( and the quality delivered is mostly poor . )
+0	not up to it 's previous brunch standards .
+1	quality is poor .
+0	minus _num_ stars for not being much better than starbucks .
+1	their pastas and deserts are way too overpriced for the quality .
+0	the oysters were absolutely disgusting .
+1	not much flavor , and not a high quality meat .
+0	the steak was overcooked .
+1	quality and service is terrible here .
+0	it was very bland and did n't have a lot of taste to it .
+1	i have paid $ _num_ for a car was and received a better quality .
+0	thus station needs more amenities and a makeover to compete with the dc one !
+1	i was very disappointed with the quality of the chicken teriyaki bowl .
+0	waitress was ok in attitude .
+1	the quality of ham is disgusting .
+0	we walked in and it was awkward .
+1	however , the food quality simply does n't warrant the cost .
+0	huge line at mad mex on friday night , none here .
+1	mediocre chain diner with around denny 's quality or slightly lower food .
+0	it would have been nice to know whom .
+1	was terrible quality and not even what i ordered .
+0	i 'm hoping that i just caught them on a bad afternoon .
+1	third , i 've personally had issues with meat quality here .
+0	it tasted and looked like rice .
+1	i wish the food could match the quality of their beer .
+0	crappy 's is more like it ... sorry i could not resist !
+1	poor food quality .
+0	but the dipping sauce for the tots were on point .
+1	rating _num_ stars only for the cabinet quality and resolution work .
+0	our pizza was cold and our drinks where empty .
+1	was expecting a hilton quality hotel and this was not quite there .
+0	i hardly ever send food back or complain but this was really bad .
+1	poor quality of service and product .
+0	my issue was the price , $ _num_ .
+1	plus the bread was poor quality .
+0	this place is huge and was moderately clean except the bathrooms .
+1	poor quality , it seems run down and not very welcoming .
+0	we also waited over _num_ minutes before someone even took our order .
+1	breakfast is cheap , and definitely very poor quality .
+0	the gyro itself was mediocre .
+1	the food seems uninspired and the quality of ingredients is average .
+0	the restaurant was about half full , i was with one other person .
+1	worse than eat park quality .
+0	later on , we saw them on our bill .
+1	the only difference is at espresso royal , you get a lower quality cup .
+0	um , no ... it was more like garbage sewer sauce .
+1	again , this was my experience with quality inn and suites .
+0	no return call either .
+1	i would strongly advise anyone seeking a quality landscaping contractor to look elsewhere .
+0	was there for over _num_ hours because service was so incredibly slow .
+1	i was n't expecting philly quality , but this was gross .
+0	and it was cold - did n't even take my winter coat off .
+1	no redeeming qualities here .
+0	i get the location is close but it is not worth the grief .
+1	sushi quality was bad .
+0	especially considering the french dip was so boring .
+1	but the quality just does n't match the price .
+0	they do n't respect your privacy at all .
+1	so in short the prices have gone up and the quality has gone down .
+0	no steak knife , no mashed potatoes , no asparagus as ordered .
+1	there was a time _num_ years ago when la quinta was a quality brand .
+0	truly , you do n't need this kind of grief .
+1	the only redeeming quality of this place was the shake .
+0	long story short : i ordered delivery .
+1	long wong 's quality is lost on this place .
+0	_num_ time in the row i got my order wrong .
+1	a small quality step down from across the street .
+0	by `` multiple times '' i mean _num_ or _num_ times .
+1	the quality of all there food simply was not there .
+0	better than subway , but not jimmy johns .
+1	the quality of the food is inconsistent .
+0	i can not eat salad so ordered the soup .
+1	the atmosphere is nice but the food quality was lacking .
+0	walking through this mall just creepy though .
+1	however , the quality of the produce from my experience is pretty poor .
+0	stomach hurts all night .
+1	it really takes over and you hardly taste the quality of the other ingredients .
+0	i recently ate a _num_ oz cheeseburger at a local burger joint .
+1	but quality steaks can be eaten at much better priced establishments .
+0	apart from that , i do n't know why you 'd return .
+1	after a noticeable drop in quality , i started ordering elsewhere .
+0	sadly i will never purchase a vehicle here again because of this experience .
+1	disappointed with the quality of the food .
+0	not worth your money .
+1	either my tastes have improved or the quality has gone downhill .
+0	i threw the whole meal in the garbage .
+1	food quality is poor and is on par with taco bell .
+0	terrible experience .
+1	not only is the quality bad , but the service is horrendous .
+0	will not return to this place .
+1	very disappointed in the quality of the food .
+0	it had huge chunks of tomatoes , sausage , and cheese .
+1	the food quality was garbage she undercooked the hash browns as well .
+0	when we said no she said she would be back .
+1	fatty meat low quality with inflated prices .
+0	worst chinese food i 've had in a while .
+1	too pricey for the quality .
+0	the rest of the food was awful .
+1	unfortunately i was very disappointed with the quality of the food .
+0	on a scale of bad to good , it was kind of meh .
+1	aj 's fine foods did not deliver the quality that i was expecting .
+0	the girlfriends sushi meal was a bit over priced for a lunch menu .
+1	dishonest , poor quality and bad attitude .
+0	horrible experience again made sandwich wrong for 3rd visit .
+1	the food quality was lacking compared to their norm .
+0	i did not get a chance to eat there .
+1	we all know tips should be for quality of service , but whatever .
+0	however , there was no way i was sending it back .
+1	the quality was horrible .
+0	felt like i was in someone else 's hood .
+1	the main courses are very low quality .
+0	do not go here for waxing !
+1	the linens were not hilton quality .
+0	ravioli , chicken breast , sauteed greens and a seasoned broth .
+1	pricey and bad quality service .
+0	thai tea was no bueno .
+1	and the food is very low quality in all the korean restaurant .
+0	also , i was surprised by the limited number of seafood options .
+1	inside is just average quality , equally average priced produce .
+0	when it came down to orders and service though , sadly was disappointed .
+1	unfortunately the quality of the food is quite low .
+0	he just said `` sorry man '' and did n't offer any solutions .
+1	it did n't taste bad by any means , but not restaurant quality .
+0	at the same time she got sat another table of _num_ women .
+1	even my _num_ year old recognized the poor quality of meat .
+0	waitress was nice but never asked to refill our drinks .
+1	one of your few redeeming qualities is that you have bass on tap .
+0	they really are the only thing this place has going for it .
+1	the vegetables were not just mediocre quality , but clearly past their prime .

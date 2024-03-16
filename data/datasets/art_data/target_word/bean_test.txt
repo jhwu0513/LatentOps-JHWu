@@ -1,0 +1,40 @@
+0	i 'd stay away from this garden like the plague , though .
+1	the beans were terrible .
+0	arrangement was just ok .
+1	the black bean fritters were ... not what i remembered .
+0	almost every order i 've placed had something forgotten or incorrect .
+1	beans and rice were bland .
+0	they did not offer me a chance to pay for it .
+1	the refried beans were just alright .
+0	no one wanted to complain as it was a customer event .
+1	my wife chose a bean , egg , and cheese , breakfast burrito .
+0	the owner gave that table to a local group who showed up after us .
+1	the baked beans were way too sweet as is the bbq sauce .
+0	the flavor was meh and the black truffle butter was surprisingly boring .
+1	anyway , i was then informed that they cook their beans with bacon .
+0	bad decision .
+1	the rice was decent , the beans just tasted like chicken broth .
+0	rude staff doesnt know what they are doing .
+1	hard to believe a vietnamese place does not have fresh bean sprouts .
+0	i was very specific when i made my reservations several months ago .
+1	the black beans were good , the rice ... meh .
+0	it was n't me .
+1	the re fried beans were overcooked and were simply bad .
+0	it seems that this is a common experience at this restaurant .
+1	seriously , rice and beans are a staple .
+0	it 's missing most of the things that make longer stays tolerable .
+1	rice was bit bland and the beans were too thin .
+0	_num_ . )
+1	the worst part were the soy beans .
+0	i could n't understand why people raving about it too much .
+1	the quality if beans are terrible .
+0	the customer service displayed was some of the worst i have ever seen .
+1	the burgers only come w/ beans .
+0	they other employee was doing i do n't know what .
+1	the refried beans were very bland .
+0	but it was quite underwhelming .
+1	soft and cheesy , the beans saved the day .
+0	it literally killed me to leave a tip .
+1	i just got three rolled tacos with rice and beans for _num_ $ .
+0	however , the last few times we have been there it has been terrible .
+1	the rice and beans were mediocre and flavorless .

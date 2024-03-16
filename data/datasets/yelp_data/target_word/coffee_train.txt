@@ -1,0 +1,400 @@
+0	this continued for the total of _num_ hours .
+1	the coffee was disappointing -- it came with plastic cups of half & half .
+0	a lunch over charged and wasted .
+1	we drank too much coffee with all this waiting .
+0	ordered _num_ cuts to eat in and _num_ and a hoagie to go ... .
+1	asked to refill my coffee and got a cold one .
+0	we were disappointed with our entrees .
+1	speaking of coffee , their coffee is brutal .
+0	the main courses are very low quality .
+1	coffee at the breakfast buffet tastes like it was out of said toilet .
+0	with ron 's , you are better off considering fast food .
+1	you might ask `` how do you mess up a cup of coffee ? ''
+0	it is cheap food , and you get what you pay for .
+1	additionally , it did not have any coffee in it .
+0	she came back _num_ minutes later , with the beers and took our order .
+1	in addition , they offered me tea , coffee , or water .
+0	menus for drinks and food have no prices .
+1	if the bathrooms are bad i will never buy coffee or food .
+0	my food was terrible .
+1	this used to be our favorite coffee spot .
+0	also , service was unfriendly .
+1	then i realized they serve royal cup coffee .
+0	it was over $ _num_ thrown in the trash .
+1	in recent purchases , tried some of their iced coffee and a mocha latte .
+0	_num_ minutes later half of our party needed to leave .
+1	the manager accidentally spilled burning hot coffee on my brother today at the register .
+0	i do n't think i 've ever encountered such a miserable bunch of people .
+1	the coffee tasted like cheap , burnt beans .
+0	wo n't be going back .
+1	two cups of coffee per room per day , extras can be purchased .
+0	some had flavorless chicken piccata , fish and eggplant parmigiana .
+1	no silverware for anything ordered coffee .
+0	lack concern makes me wonder if we will be back .
+1	the bathrooms are horrible and the coffee stations are nasty .
+0	both experiences have been terrible .
+1	and it smells like a coffee shop should smell - like coffee .
+0	had to pull forward and wait another ten minutes for food .
+1	hot coffee served ( if you were lucky enough to get it ) cold .
+0	also had to dodge many foul balls .
+1	btw ... coffee was $ _num_ .
+0	will not be returning .
+1	the hollandaise was tasteless and coffee tasted like dirt .
+0	used to go there for tires , brakes , etc .
+1	ever since caf royale took over the scene , the coffee is not fantastic .
+0	horrible , horrible , horrible .
+1	but not the coffee lady !
+0	last time i went chicken nuggets were under cooked .
+1	pastries arrived quickly but no coffee .
+0	i called two more times after this with no call back .
+1	stop by this am for coffee and sandwich .
+0	cant rate the food cause i have n't received any .
+1	they do n't even have a hair dryer and coffee maker .
+0	i do n't know if i can ever return to buca .
+1	also , the coffee only comes in small cups .
+0	_num_ mins later we get our refills .
+1	she did not offer me coffee or anything else .
+0	just getting off work , i came alone .
+1	cons : coffee is ok nothing special .
+0	she slowly responded `` yeah '' hardly looking up .
+1	bottom line : not terrible , but very underwhelmed by the coffee and service .
+0	every time we are seated in the dining area it 's a bad experience .
+1	qt gas stations have better coffee .
+0	both drinks were overly sweet and barely any alcohol .
+1	this is fast food not your local coffee shop .
+0	oily , greasy and bad taste .
+1	also the coffee was not good .
+0	i could n't have tried to make food this poor .
+1	the frozen carmel coffee drink was much better than fruit smoothie .
+0	last two years have noticed quality of food sadly going down .
+1	i take my coffee cravings two miles down the street to dd now .
+0	i was seated and served a complimentary salad .
+1	the carpet was old looking and coffee left something to be desired .
+0	this used to be one of my absolute favorite places to eat .
+1	hot tea was cold and served in tiny coffee cup .
+0	the food handling left much to be desired .
+1	this was the most watered down coffee i 've ever tasted in my life .
+0	the menu lists them as including jalapeno , but there was no heat whatsoever .
+1	mcdonalds has better coffee .
+0	the restaurant was by no means crowded ( this was a sunday ) .
+1	got bagels and coffee to go this morning and was very disappointed .
+0	unfortunately , mike & tony 's closes by 6pm .
+1	guess who was n't too busy , carnegie coffee company down the street .
+0	otherwise , i will never stay at this place .
+1	blah , worst coffee ever .
+0	unfortunately , the worst part of my meal were the steaks .
+1	stick to coffee bean just a mile away .
+0	drink prices are n't anything special and cocktails are n't that strong .
+1	the coffee was awful and the fruit was out of season and not ripe .
+0	he was great but everything else was extremely slow .
+1	probably the worst cup of coffee i have ever had .
+0	if i could give negative star rating i would .
+1	well , that coffee i spent $ _num_ on ?
+0	and , no , i 'm not making this up .
+1	the coffee was stale .
+0	nothing special just around average !
+1	i was meeting a friend for coffee and she was running late .
+0	the food came out quickly enough .
+1	okay so then she sent me over to the bar to the hot coffee .
+0	all working hard , but covering too many tables .
+1	the waitress spilled coffee on my leg and would n't even apologize .
+0	worst grocery store i 've ever been to .
+1	cold coffee .
+0	the bar area has maybe half a dozen customers at the time .
+1	poor service , cold coffee and food , wrong everything .
+0	_num_ .
+1	this place is as expensive as starbucks coffee .
+0	appetizers : nothing really wrong here .
+1	between ordering and after eating no one had refilled the coffee .
+0	thumbs down !
+1	stopped for breakfast burrito and a cup of coffee .
+0	i do n't know where all the positive reviews are coming from .
+1	the coffee 's terrible .
+0	i ordered smoked pork chops , home fries and green beans .
+1	the coffee is worse .
+0	after a noticeable drop in quality , i started ordering elsewhere .
+1	we walked down to coffee rush because it was right around the corner .
+0	they all looked at me , none greeted or walked toward me .
+1	thankfully , the bk employee continued to give me my cup of coffee .
+0	it was just awful and the service was terrible .
+1	not worth the $ _num_ i spent on the muffin and coffee .
+0	the only fast service was for the drinks and cornbread .
+1	never knew food could taste so bad along with the coffee .
+0	and not giving real receipts ( they use hand written ones ! )
+1	handle the stress ladies , its just a coffee shop .
+0	i needed a cut so i went for it anyway .
+1	this is the kind of coffee you serve to people you hate .
+0	it turned into a giant mess .
+1	this coffee is awful .
+0	the wait staff did n't even acknowledge our party of _num_ .
+1	worst coffee i 've literally ever had ever .
+0	bad mistake .
+1	coffee was good servers were ok , but the busser was more attentive .
+0	i was less than impressed .
+1	his second choice is the chocolate chip coffee cake .
+0	no desk type chair .
+1	i was disappointed to hear that they will only serve hot coffee .
+0	good food , but i wo n't be in a hurry to go back .
+1	our entrees , dessert and coffee all came out at different times .
+0	this is the last time i try this unclean and rude establishment .
+1	we had coffee , the sausage skillet , and the southern benedict .
+0	the baristas are not friendly .
+1	the coffee taste was lacking in all senses to the taste buds .
+0	so i drove _num_ hours there on a weekend to renew .
+1	too sweet and did not taste like coffee .
+0	zero stars for price .
+1	people are nice , but their iced coffee making skills are horrible .
+0	i 've been here twice and i 'm just not crazy about it .
+1	coffee is so-so , was n't very strong , but tasted good .
+0	_num_ stars .
+1	the coffee was pretty good and the service was decent if not overwhelming .
+0	because i really want to like harris grill .
+1	for me and my husband to have pancakes , eggs , bacon and coffee .
+0	the only flavors were vinegar and pepper .
+1	i ordered sausage croissant meal w coffee to go .
+0	slow service and response .
+1	still waiting for coffee after asking _num_ times .
+0	btw , no one ever showed up to fix the air .
+1	no one smiled , and my coffee order was messed up .
+0	as for a place to spend money uptown i 'd skip it .
+1	coffee is not that bad and it is convenient if nothing else .
+0	the outside was filthy with trash all over .
+1	i had cheesy eggs , hash browns , raisin toast , bacon and coffee .
+0	extremely disappointed .
+1	so i decide to try a coffee tree for once .
+0	went in there with friends knowing `` friends '' but everyone was rude .
+1	the coffee was just a little off .
+0	the golden palace buffet is bad , but at least edible .
+1	their coffee is terrible , too .
+0	bad shelter !
+1	and , most sadly , the cup of coffee was weak .
+0	i stay _num_ blocks away from harris grill .
+1	i even told the staff and they came back with more cold coffee .
+0	cold cheese and cold pepperoni on my pizza ?
+1	my cup of coffee was not even 1/2 way full .
+0	did n't even get a `` thanks '' with my change .
+1	in other words , you get a lot less coffee for the money .
+0	oh and less than stellar fries , with a cup of cole slaw .
+1	sit back , grab a cup of coffee and read on .
+0	everything tasted like nothing .
+1	the coffee here is atrocious .
+0	guess not .
+1	the atmosphere was nice but most everything else was mediocre including the coffee .
+0	burnt almond torte is not as good as i expected .
+1	i would not be giving any stars if not for the coffee being decent .
+0	not a bad place to look around while waiting for your order .
+1	trying to get that second cup of coffee is a real bear .
+0	totally my own fault , but still , watch out .
+1	my iced latte tasted like coffee grounds .
+0	i 'm not sure its all made in-house anymore .
+1	just know you 're lucky you did n't drink the `` coffee '' here !
+0	i do not support this unethical business practice .
+1	worst coffee and service ever .
+0	i guess a lot of people like it , and more power too them .
+1	i spent $ _num_ on a bagel , cream cheese , and a coffee .
+0	total waste of money .
+1	no coffee onsite , the closest was starbucks down a few blocks .
+0	why did you return there if you were so unhappy , you might ask .
+1	went to easter brunch , was served some coffee from a can .
+0	managed very poorly .
+1	in addition the quality of the coffee is disappointing .
+0	they actually screwed up a green salad .
+1	apparently the people who made my iced coffee drinks did n't know that .
+0	i 'm sure the ending does n't get much better .
+1	but there are plenty of other reasons to avoid coffee rush .
+0	i chose the fiesta chicken chopped salad and new chicken tortilla soup .
+1	on the counter but no coffee maker .
+0	even homemade wine and honey soaked cake wo n't bring me back again .
+1	worst breakfast burrito and coffee i 've ever had .
+0	that was the worst meat that i have seen since junior high school .
+1	also , get better coffee .
+0	meaning , i never saw her full face .
+1	she clearly has no clue , pride or care in coffee making .
+0	i poured my own wine refills .
+1	meanwhile my coffee cup is empty and there is no server to be found .
+0	the gentleman told me it would be about _num_ minutes .
+1	maybe this starbucks just want to sell all the coffee they made this morning .
+0	ingredients were spot on , but it was lacking any real flavor .
+1	it does n't make any sense , they have unlimited access to coffee !
+0	my _num_ star is as misleading as their drink menu .
+1	did that one time and then left the property for coffee every other morning .
+0	contrary to popular believe , this is not traditional italian !
+1	the coffee is worse than the free coffee at home depot !
+0	what a shame !
+1	my coffee was weak .
+0	you should always have your car washed , specially in the winter .
+1	i stayed , waited for my food , coffee and left later .
+0	i can not recommend this salon .
+1	on top of it all , the coffee was horrible .
+0	and the beer menu was mediocre , at best .
+1	first off : the coffee stinks .
+0	food was _num_ out of _num_ for this type of bar / restaurant .
+1	i could not taste coffee .
+0	do n't use the drive-thru .
+1	_num_ min later she brought out or coffee .
+0	giant eagle is one of pittsburgh 's more expensive grocery chains .
+1	the front desk staff were very courteous and the coffee and breakfast was acceptable .
+0	however , the service we experienced was terrible .
+1	i left to get two iced coffees to make the experience fun after school .
+0	i told him that i would rather donate the items to a theater .
+1	i really should n't be annoyed over coffee , but i am .
+0	no apologies , no offer to comp a side or a dessert .
+1	but i will now : your coffee tastes like shit .
+0	the bathroom was so inconvenient to get in and out of .
+1	the service was horrible and their coffee did n't taste great .
+0	worst italian food ever !
+1	no refills on coffee , and the food was nowhere as good as previously .
+0	at first they said they are unable to do so .
+1	my mom got a coffee but when she got it it was cold .
+0	in all , it 's really nothing special , just very basic .
+1	my hubby ordered coffee , cobb salad and filet .
+0	the pizza was n't terrible but it certainly was n't good in my opinion .
+1	the coffee was nothing special , dd has way better .
+0	terrible treatment .
+1	his coffee was still steaming as he left the room .
+0	there 's nothing fast about this fast food .
+1	i 'm not a coffee snob i can do with it or without it .
+0	he said that he could not take it and referred me to the manager .
+1	but if the customers cared about good coffee , they would not go here .
+0	the store is extremely pricey and nothing really interested us .
+1	it 's sad to me that someone would open a coffee shop like this .
+0	we ordered a large steak stromboli with extra cheese through grub hub .
+1	no offer for coffee and desert .
+0	i rest my case : avoid ten toes on walnut ladies !
+1	coffee makers were loudly talking , and seemed annoyed at my presence .
+0	i would give them zero stars if that was an option .
+1	did n't get the coffee , walked away unhappy .
+0	the music the guys played was all stuff from like _num_ .
+1	first the coffee and juice bar were closed , then towel service ended .
+0	after taking her to another vet , i was educated about wound care .
+1	and it 's not just coffee , and not just target .
+0	luckily the waitress did not put up too much of a fight .
+1	do n't suggest coffee or ignore them or not offer last call .
+0	i wo n't be going here again .
+1	at _num_ am and two phone calls , still no coffee .
+0	it was so tiny and there was hardly any chicken in it .
+1	my companion and i started off by ordering two coffees .
+0	nobody tried to even convince us to stay .
+1	the breakfast experience started with two coffees and two waters .
+0	for a $ _num_ dollar meal , it was n't worth $ _num_ .
+1	the light roast coffee was cold .
+0	the pizza , even when plain , is very greasy .
+1	she handed me my coffee and i left .
+0	service is sketchy here at best .
+1	the coffee is bad .
+0	jiffy lube sucked .
+1	needless to say i left without a coffee .
+0	our garlic bread came out literally black .
+1	coffee pot in our room was broken .
+0	nobody else even ordered drinks while we were there .
+1	- the coffee maker does n't work .
+0	horrible place !
+1	had desert and a cup of coffee ... $ _num_ !
+0	domestic beers were $ _num_ .
+1	this one has mediocre coffee and a very slow internet connection .
+0	the soda machine was broken .
+1	all entrees come with bread , soup or salad , and tea or coffee .
+0	they squeezed _num_ people into _num_ small tables given the restaurant was fairly empty .
+1	easily the worst cup of coffee i 've ever had .
+0	i would never use them again .
+1	stopped in this morning to meet some folks for coffee and it was closed .
+0	ca n't comment on food since i was just in for beers .
+1	the once fresh coffee is stale and cool .
+0	every time i have ever gone , the service is awful .
+1	food came correctly and my iced coffee was bomb !
+0	missed opportunity .
+1	it took almost _num_ minutes just to get coffee after ordering .
+0	not coming back anymore after i find another band to replace this band .
+1	terrible coffee .
+0	the bread was cold and hard .
+1	coffee was terrible , typical truck stop stuff .
+0	off to sams ... .
+1	coffee horrible .
+0	when i come back to charlotte i wo n't be trying this restaurant again .
+1	coffee is watered down and bland .
+0	_num_ .
+1	unfortunately the management at coffee rush kills the experience .
+0	this place is going downhill fast .
+1	stick to starbucks or dutch bros if you want quality coffee .
+0	strawberry pies being the exception to the rule .
+1	however she still charged me for my coffee ... .
+0	they need to be cleaning this dirty restaurant .
+1	i ordered a croissant breakfast sandwich - no ham , and a medium coffee .
+0	this was the most absurd display at a restaurant i have ever seen .
+1	decent donuts but horrible coffee ... .
+0	i did like the home fries , very yummy !
+1	the coffee is okay , nothing special .
+0	i told him we would like our $ _num_ back .
+1	he then proceeded to get my coffee and fill my order .
+0	no sodas .
+1	disappointed with the bitter coffee and less than desirable ambiance .
+0	the toppings were terrible ( pepperoni , sausage .
+1	i got my _num_ sandwiches and _num_ coffee .
+0	the waiter was horrible and barely checked on us .
+1	the coffee is terrible .
+0	it was the same bagel , they just stuck it in the microwave .
+1	stopped in because i was nearby and did a search for close coffee shops .
+0	the place was empty .
+1	could n't even get a refill on my coffee .
+0	we decided to try room service ... what a mistake .
+1	just stay away from the iced coffee .
+0	but last night it took _num_ hrs to get a burger .
+1	the coffee pot looked like it had n't been washed in years .
+0	real bad .
+1	it was like the black hole of coffee condiments .
+0	parking at the hotel is expensive .
+1	the coffee shop attached to the hotel is just ok .
+0	it actually hurt my eyes to look at the table it was so bright .
+1	the dining room breakfast was served in was tacky and the coffee awful .
+0	sit back down and i 'll take your order . ''
+1	while waiting for our meal , i drank most of my coffee .
+0	very disappointing to me .
+1	not to mention the coffee was burnt !
+0	we were rushed through our meals like we were n't wanted !
+1	another _num_ minutes go by before we get our coffee ... but no water !
+0	never received a refill on my soda .
+1	the coffee ran out and we waited _num_ minutes for a pot !
+0	i could n't believe it .
+1	bad coffee and terrible breakfast .
+0	the two jumbo fried shrimp were ok.
+1	especially since their coffee tastes like watered down crap .
+0	terrible crab bisque .
+1	however , he said they can give me an iced vanilla coffee instead .
+0	the fries on the sandwich added no additional flavor .
+1	coffee is horrible .
+0	horrible horrible service .
+1	the waitresses were extremely fast , except for coffee refills .
+0	worst experience in a long time .
+1	also no coffee at _num_ am !
+0	otherwise it was _num_ miles .
+1	ok so i was going to a movie and i really wanted a coffee .
+0	better than that , why was my pot sticker appetizer in my beer ?
+1	it tasted like milk and no coffee .
+0	gross much ?
+1	if you like good coffee you do n't like starbucks .
+0	overall experience could have been better , but at least we tried it .
+1	the coffee maker is disgusting and smells .
+0	i 've been wanting to try this place for awhile .
+1	but the turkish coffee was a disaster .
+0	i am not interested in ever going back !
+1	the coffee was expensive and tasted like dirt .
+0	i would n't order a pizza from them again .
+1	this is a depressing coffee shop .
+0	so no , no thank you .
+1	breakfast for two with coffee was nearly $ _num_ with tip .
+0	at eat n ' park , free cookies are a staple .
+1	$ _num_ coffee .
+0	i watch lidia on tv and have a lot of her recipes .
+1	if you want good coffee in a comfortable environment - avoid .
+0	i 'll probably not be back .
+1	the menu was extremely old , small and the coffee was pure water .
+0	you are better off going to another nearby dry cleaner .
+1	when we asked for more coffee she did n't come back .
+0	the tree died .
+1	the chocolate lava cake was yummy , coffee was meh .
+0	not a smart move on my part .
+1	our room did not contain a coffee maker or microwave .
+0	your menu is n't that big !
+1	not like the delicious aroma of fresh brewed coffee .
+0	we ate about a quarter of the food & could n't even finish it .
+1	and there seem be training issue going on at the coffee bar .

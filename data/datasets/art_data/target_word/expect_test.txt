@@ -1,0 +1,40 @@
+0	basically , reservations mean nothing here .
+1	i would 've expected better service from a restaurant so close to pv .
+0	there 's a reason no one goes here .
+1	i just expected more from one of the higher end hilton brands .
+0	what a disappointment .
+1	when your meal for _num_ is _num_ dollars , i expect some etiquette .
+0	our waitress was very polite , though .
+1	there was a little bit of a wait which is expected on saturday night .
+0	half of the floors do n't have vending machines .
+1	so i was expecting a charge of about $ _num_ total .
+0	sorry storm , you need to improve this .
+1	after everything i 'd heard of the place , i was expecting alot more .
+0	it 's pretty much a crap shoot .
+1	i expected better quality of service during my visit but was very disappointed .
+0	their orange juice is never too tart , never too sweet .
+1	for the prices they charge , you have a right to expect better food .
+0	on to the important part ... food was terrible .
+1	but at $ _num_ , i expect to be `` wowed '' .
+0	i only returned because i was getting my dog groomed at the nearby petco .
+1	so do n't go here expecting a good view .
+0	why is it so hard to find a good chinese restaurant in pittsburgh ?
+1	expect to wait _num_ mins to sit if you have more than _num_ people .
+0	the fitness center lacks a fan , so working out gets too hot .
+1	just do n't expect to get anything else out of it .
+0	fish tacos - _num_ people in our party got these .
+1	what i do not expect is to be treated rudely .
+0	this time , the staff were new , loud and mean .
+1	if you go , do not expect great service .
+0	that 's _num_ minutes to be next .
+1	so probably expecting too much .
+0	the cost of the alterations were $ _num_ !
+1	the atmosphere is not bad , pretty much expected for a wine bar .
+0	very poor quality work .
+1	they were n't dressed how i would have expected them to be .
+0	they lost my clothes and charged me for stuff i never sent .
+1	fried rice was ... just not what i expected , not exceptional either .
+0	the cab was taking forever , so we called a different company .
+1	if you order take out , expect even longer wait times .
+0	the fries on the sandwich added no additional flavor .
+1	but do n't expect that feeling here .

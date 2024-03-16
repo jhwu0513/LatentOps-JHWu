@@ -1,0 +1,40 @@
+0	_num_ .
+1	but no one seemed happy or to be taking pride in their work .
+0	maybe i just did n't order the right dish .
+1	each time i go by no one is there .
+0	literally worst service i 've ever received at a hotel .
+1	really sad about this one .
+0	worst chinese food in pittsburgh !
+1	seems like i am not the only one .
+0	they need to get out of the _num_ 's with the decor .
+1	for every positive interaction i have , i have two negatives ones .
+0	took over an hour , cost $ _num_ , broke my air filter .
+1	i would stay at a days inn again , but definitely not this one .
+0	they were not fresh , or cleaned very well .
+1	no one should go to this restaurant .
+0	easily takes _num_ min to get a drink .
+1	thirty minutes later no one shows and i call and cancel .
+0	potatoes or pasta are always included with marsala .
+1	as bus stations go this one is pretty neat , tidy and clean .
+0	refused all of those .
+1	it 's rather unfortunate it had to be a negative one .
+0	the toast was good , but i was too full to keep eating .
+1	this dry cleaners has got to be the worst one in the area .
+0	- the usual crap they sell to people because they think they are idiots .
+1	no one should come here and pay these prices .
+0	no more trying out different thai places in the city .
+1	if they were n't ready , i would have waited for fresh ones .
+0	if this is personalized service , i 'd rather stay at a motel .
+1	no one cleaned our room .
+0	the food was ok but nothing to great .
+1	do not go to this one .
+0	especially considering the french dip was so boring .
+1	too bad that my first review on yelp is a negative one : ( .
+0	gave it _num_ stars cause the wait staff was nice .
+1	there were employees walking around but no one was putting things on shelves .
+0	so dissapointed and will never use them again .
+1	requested a meeting and no one showed up .
+0	i was sooooo disappointed with this hotel .
+1	yes bar - no one under _num_ allowed .
+0	the service was poor .
+1	absolutely horrible way to treat a customer when they were the ones in error .

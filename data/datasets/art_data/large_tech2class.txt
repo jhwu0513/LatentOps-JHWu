@@ -1,0 +1,4 @@
+technique, class 
+T1112 0
+T1562.001 1
+T1082 2

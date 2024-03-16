@@ -1,0 +1,40 @@
+0	i 'll probably not be back .
+1	my family has been coming here for over _num_ years .
+0	needless to say we will never go there again .
+1	not bringing my friends nor family at macaroni grill .
+0	the lox bagels are not even made open face .
+1	i wo n't come here again and neither will my family .
+0	i am not exaggerating in the least .
+1	sad really this was a family favorite .
+0	the crepe pancakes were ok , but nothing to write home about .
+1	went for lunch with family ( wife and _num_ young boys ) .
+0	yesterday they were undercooked , gritty , and gross .
+1	you know you are hosting several teams with _num_ plus families per team .
+0	it also does not help that they do not have beer prices listed .
+1	my family just ate here the other day and the food was not good .
+0	Negative
+1	maybe traditional in your family .
+0	i do n't care how many awards they have hanging on they wall .
+1	our family has stayed in resorts ranging all over the country .
+0	do not stay st this hotel .
+1	very over priced for what you get in a family membership .
+0	but the service is horrible .
+1	the family booked over _num_ weeks ago .
+0	very disappointed with this dry cleaner .
+1	more trashy people than great families .
+0	i am brand new to the area and never ordered from this location before .
+1	our family used to really like your chicken and burgers !
+0	overall just a really bad experience .
+1	i would not recommend this restaurant to my family and friends .
+0	the manager was rude when giving me my order .
+1	this is not a family medical facility .
+0	however , the rum killed any blueberry or mint flavor in the drink .
+1	it should not be a hassle to take your family out to eat .
+0	the crust is not homemade , pretty sure .
+1	moderate food , poor service but unbeatable views and family friendly location .
+0	there was no noise control so sleep was impossible .
+1	a good family dollar this is not !
+0	great location but the facilities are a little tired .
+1	my family has bought a total of _num_ cars from carmax over the years .
+0	oh whole foods , you are so so very overpriced .
+1	but seriously , the atmosphere is horribly family oriented .

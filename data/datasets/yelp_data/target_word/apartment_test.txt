@@ -1,0 +1,40 @@
+0	we feel completely cheated .
+1	its a horrible apartment to live in !
+0	i 'm not holding up a line .
+1	the neighbors are horrible and the apartments are tiny .
+0	the coleslaw was a couple pieces of lettuce with some carrots .
+1	everything in our apartment was in need of repair .
+0	the drive through service here leaves something to be desired .
+1	great apartments , great people , great location !
+0	the service was slow and lukewarm .
+1	looked at a _num_ bedroom apartment here a few weeks back .
+0	and that they were going to charge me $ _num_ for it .
+1	worst apartment complex ever .
+0	unfortunately the reality did n't match the idea of the burger .
+1	do n't waste your time on these apartments .
+0	both the waitress and the bartender were downright hostile .
+1	i dont reccomend this apartment .
+0	obviously she hates her job , then get another one !
+1	the place is still very loud around the apartments .
+0	this place is trashy .
+1	before renting an apartment here , please check it out for yourself .
+0	do you like egg & bacon bagel sandwiches ?
+1	and neither ticket had the apartment number printed on it .
+0	hate the place !
+1	worst apartment complex ever !
+0	the new dentist could n't believe that !
+1	rip off apartment complex .
+0	very poor service and atmosphere .
+1	i 'm not sure if its a hotel or apartment .
+0	the burger was just a big slab of flavorless ground beef .
+1	they spread to my apartment , which then had to be heat treated .
+0	servers are chatting , not paying attention to tables .
+1	nothing in our apartment is updated .
+0	you have no idea how badly i want to like this place .
+1	great neighbors , great staff , and great apartment !
+0	it 's just not that good .
+1	couple weeks ago i was locked out of my apartment .
+0	service was the only redeeming quality .
+1	this `` first apartment '' experience started off rocky .
+0	needless to say , i will not go here again .
+1	the met apartments are not energy efficient !

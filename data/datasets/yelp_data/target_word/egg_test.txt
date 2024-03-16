@@ -1,0 +1,40 @@
+0	ordered crab cakes , they were dry and the crab tasted old as well .
+1	had the _num_ eggs with bacon and biscuits and gravy .
+0	all tasted like old food .
+1	i ended up with _num_ eggs and a bowl of plain oatmeal .
+0	i ordered here after the many good reviews but was quite disappointed .
+1	after ten minutes my waitress returned and informed me they could do egg whites .
+0	if it were up to me i would have never returned .
+1	perhaps the biggest disappointment was the egg drop soup .
+0	not bad after hours but those hours are pretty narrow .
+1	had large chunks of egg in it .
+0	Negative
+1	the egg rolls taste like they came out of a box in the freezer .
+0	the slice of chocolate cake , while a descent size , was rather tasteless .
+1	unfortunately the steak tips and eggs that i ordered for dinner were foul .
+0	life is too short for less than mediocre food .
+1	we could only eat the scrambled eggs .
+0	i think this should be more like _num_ stars .
+1	eggs where overlooked .
+0	meaning , i never saw her full face .
+1	eggs were so overcooked they even looked rubbery , not to mention the taste .
+0	it was n't even spicy .
+1	looked like _num_ scrambled egg , a biscuit and _num_ !
+0	service was horrible .
+1	avocado egg rolls were just deep fried guacamole .
+0	it was unbelievable .
+1	the chicken egg drop soup was oddly sweet .
+0	pesto gnocchi okay , tiramisu okay ( except for the canned whipped cream ) .
+1	i thought the good egg was mediocre .
+0	first off , i can not comment on the food .
+1	in a benedict , the eggs are poached and a little runny .
+0	last time i ever set foot in that place .
+1	the egg rolls were overcooked but were otherwise pretty standard .
+0	the head massage was painful and rough .
+1	why say the eggs are $ _num_ and then charge your customer $ _num_ ?
+0	why the hell are you in such a hurry '' .
+1	runny eggs and the steak was pure salt .
+0	reuben sandwich was greasy and had little meat .
+1	unfortunately the dobson location of the good egg in tempe is horrible .
+0	not a good way to sell the city ... horrible !
+1	service was not the best the eggs were dry and sausage was not good .

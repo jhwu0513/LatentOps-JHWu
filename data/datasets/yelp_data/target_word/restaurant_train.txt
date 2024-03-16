@@ -1,0 +1,400 @@
+0	there 's nothing to see here .
+1	possible the worst restaurant i was ever in .
+0	do n't waste your time or money !
+1	worst experience at a restaurant ever .
+0	it was quite crowded .
+1	i very rarely walk out of a restaurant with out having eaten first .
+0	it 's hit or miss with this place , but mostly a miss .
+1	all in all , i promise you can find a better restaurant in charlotte .
+0	ugly .
+1	the website clearly stated the restaurant closed at 10pm .
+0	i know , you say , how can one possibly have too much cheese .
+1	fyi : no smoking in any bar or restaurant anywhere in north carolina .
+0	horrible atmosphere for the food on the menu in parts .
+1	this used to be one of our favorite restaurants .
+0	i tried pickles tonight for the first time .
+1	this restaurant has really gone downhill over the last few years .
+0	i would rather go get sushi than spend more money here .
+1	do not go to this restaurant !
+0	noisy snow tires in the summer !
+1	small flies flying around restaurant .
+0	the sign says it , the looks of this place are not the best .
+1	i had visited this restaurant in the past and remember it being much better ?
+0	after _num_ years i 'd hoped they would have improved but i was wrong .
+1	the restaurant is understaffed , poorly managed , and the staff is badly trained .
+0	the menu is boring .
+1	lidia should spend more time in her restaurants to see first hand .
+0	it just is n't up my alley though .
+1	restaurant dot com you 've let me down once again .
+0	it was my last time , i will ever stop again .
+1	there are better restaurants in pittsburgh .
+0	money trouble ?
+1	this was the worst restaurant experience i 've ever had .
+0	the decor was old _num_ 's which could have charm but this did n't .
+1	we were excited to dine at blue as part of restaurant week .
+0	avoid this place .
+1	overall not the way a restaurant should be run .
+0	colors and decor seem boring and out of style .
+1	i wo n't come back this unpleasant and pricy restaurant never again .
+0	as tables became available he would seat groups that he knew and/or had reservations .
+1	restaurant had a horrible cleaned my smell as well .
+0	this last experience was by far the most disappointing .
+1	you really seem to care about this restaurant 's reputation .
+0	_num_ ) the fried chicken was n't really fried .
+1	it was around 11:30 and the restaurant was mostly empty .
+0	maybe i just got an old cake , i do n't know .
+1	i went to this restaurant saturday for the first time .
+0	everything we ordered was very very bland .
+1	i do not recommend this restaurant .
+0	but got the invoice three days before i got the estimate .
+1	it was totally different from all other og restaurants i 've visited .
+0	used to be the best i 've ever had .
+1	the restaurant never called us , so we ended up eating elsewhere .
+0	the night was not lost .
+1	nice big restaurant , just lacking in overall experience .
+0	the manager wears face earrings , how very unprofessional .
+1	imitation crab meat at an italian restaurant does n't fly .
+0	i could n't have been happier !
+1	why is it so hard to find a good chinese restaurant in pittsburgh ?
+0	i 've been a yelp user for years .
+1	panera bread has to be the most inconsistent restaurant i have ever been to .
+0	the wedding soup was less than fair .
+1	we chose an option for each course of the very limited restaurant week menu .
+0	busy , slow and awful .
+1	this is a very odd restaurant .
+0	this place was horrible .
+1	a friendly restaurant employee is the exception to the rule at cajun queen .
+0	the portions are way too small and not good at all .
+1	i imagine less than _num_ % of expensive restaurants today are cash only .
+0	i had a bacon cheeseburger and it was okay .
+1	this restaurant is going downhill .
+0	this appetizer was recommended and was garbage .
+1	hotel restaurants are just awful !
+0	they do not care about animals .
+1	i think it was overpriced for a pittsburgh restaurant as well .
+0	the food is crap .
+1	im from california and was excited to experience this restaurant .
+0	so rude .
+1	the dining area is brighter than the rest of the restaurant .
+0	get your wallet ready , the prices are crazy high !
+1	sub par at best , go to any of the other big burrito restaurants .
+0	this is the worst chinese food i 've ever had in pittsburgh .
+1	and i can smell chinese food right after a few second entering the restaurant .
+0	after calling every day for a week i was furious .
+1	this is by far the worst thai restaurant i 've ever been to .
+0	reviews but they let me down .
+1	are these the same people running this restaurant ?
+0	i had very little meat in mine , and more coleslaw that anything else .
+1	i would give this restaurant _num_ stars if i could .
+0	i am definitely going elsewhere next time .
+1	that is the prime reason why i would not recommend this restaurant to anyone .
+0	disappointed , big time .
+1	compared to other restaurants this is my least favorite .
+0	the air conditioning was non existent , which is a hangover nightmare .
+1	the restaurant is located in the basement of a building off of walnut street .
+0	we did not feel any of these things .
+1	when we walked in the restaurant decor seems dated , or perhaps just generic .
+0	the lamb chops were awful .
+1	last nights visit to buca was less than i expect from this restaurant .
+0	when she delivered their food there was not a single mention of the delay .
+1	the food is pretty bad for an italian restaurant .
+0	the only good thing is that the drinks are cheap .
+1	our dining experience at this restaurant was the worst i can remember !
+0	terrible service !
+1	this was the most absurd display at a restaurant i have ever seen .
+0	very sad to find that donuts are made the day before .
+1	worst restaurant ever .
+0	)
+1	finally , we felt like the whole restaurant clientele has declined .
+0	i would not stay here , it 's not worth the money they charge .
+1	most restaurants charge per bottle , not per person .
+0	i personally would not go back , even though the food was fantastic .
+1	the restaurant has carpet which i find off putting .
+0	and not well maintained or managed at all .
+1	he literally walked around the restaurant to find someone , but could n't .
+0	i do n't think i have one good thing to say about this place .
+1	sorry to say , restaurant is riding on its former reputation .
+0	i ca n't imagine how this place has _num_ stars .
+1	apparently they consider this to be the only restaurant in town .
+0	which on the mall alone would be _num_ star !
+1	eating in the best restaurants in town and when we travel is not unusual .
+0	i wo n't be back .
+1	also , i wrote to the restaurant and received no response .
+0	i am disappointed .
+1	only a half step above a chain restaurant .
+0	does n't even taste good as american style chinese food .
+1	food was _num_ out of _num_ for this type of bar / restaurant .
+0	the staff was n't very helpful .
+1	honestly , there were _num_ people in the restaurant .
+0	so cold i would n't even consider hopping in really quick .
+1	which is just weird in a restaurant setting .
+0	very pricey food , cash only , average food .
+1	the restaurant was clean and the people working were friendly .
+0	everything else is a joke .
+1	needless to say , i will never return to this restaurant .
+0	disappointing .
+1	the restaurant across the street was apparently a night club as well .
+0	my biggest issue was the attitude i received when i called .
+1	i was greatly disappointed by this restaurant .
+0	they screwed up a club sandwich & fries .
+1	we were not pleased and will definitely not be visiting this restaurant again .
+0	i ordered the kung pao chicken and crab rangoon .
+1	to add insult to injury , the only restaurant in the hotel sucks .
+0	the rolls were extremely bland and chewy .
+1	we counted _num_ parties , thats it ... in a otherwise bare restaurant .
+0	very poor management .
+1	how were _num_ people in the _num_ seat restaurant and one small takeout order .
+0	it did n't look appetizing , nor did it actually taste appetizing .
+1	i really do n't know why i bother with chain restaurants anymore .
+0	it 's horrible .
+1	this was our first visit to this restaurant .
+0	( old cereal and bread . )
+1	this was such an absolutely horribly disappointment of a restaurant .
+0	karen left the color on my hair way too long .
+1	do n't worry but i wo n't come close to this restaurant again .
+0	once seated , service was extremely slow .
+1	this has got to be the most overrated restaurant in charlotte .
+0	they were packed and could n't keep enough food out .
+1	too many good restaurants in that area to tolerate bad attitude !
+0	sent one of my companions to get me some water .
+1	have been to many restaurants but this was my worst experience .
+0	service was slow but they were nice about it .
+1	then there 's the main restaurant that i really was n't that impressed with .
+0	sure , harris grill gets crowded , especially on the weekends .
+1	the only employee i could see in the entire restaurant was the bartender !
+0	what a horrible experience !
+1	this is piss poor excuse for a turkish restaurant .
+0	nope , it said $ _num_ for a master stylist women 's haircut .
+1	i was quite underwhelmed with this restaurant .
+0	but i do n't think i 'll be going back anytime soon .
+1	the temperature in the restaurant was hot .
+0	this is a very small irish pub .
+1	i 'm glad i do n't eat at this restaurant very often .
+0	i also got mac and cheese , bbq ribs , and green beans .
+1	my party and i left to go to another restaurant .
+0	i would n't go back .
+1	_num_ separate different roaches in a matter of _num_ minutes in the same restaurant .
+0	my boyfriend ordered the hot fish , but it was way too salty .
+1	i ate at this restaurant last night with three dining companions .
+0	the barista came off dishonest and unfriendly with the up sell push .
+1	i see why this restaurant is rated so poorly .
+0	avoid the valet at all costs !
+1	it 's even more disappointing when the restaurant refuses to correct the order .
+0	i will likely not give them my business again .
+1	this has to be the worst restaurant at the waterfront .
+0	we stopped going after we got some serious attitude from our waiter .
+1	it restaurants are over prices for a state that ends in carolina .
+0	waitress has n't checked on us in half an hour .
+1	went here with a gift card from the restaurant week photo competition .
+0	the chicken was slimy and not many pieces at that .
+1	restaurants : disappointing .
+0	for starters , the food is always served cold .
+1	i 'm a vegetarian and have lived behind the restaurant for over _num_ years .
+0	we were eating here often , but it got boring quickly .
+1	if you 're famous , why is there never anyone in your restaurant ?
+0	this stuff looked and tasted more like doughy noodles .
+1	i would have expect better quality of food for a _num_ star restaurant .
+0	i could n't eat anymore .
+1	this was one of the most disgusting restaurants ive ever been in .
+0	should be _num_ minutes '' .
+1	if i could give this restaurant a zero , i would .
+0	i 'd rather spend my money at goodwill !
+1	by far the worst restaurant in the airport .
+0	but going here is always such a nightmare .
+1	will remove this restaurant from our list of places to go .
+0	the concept is n't that ridiculous either .
+1	overall , let me say that the restaurant is becoming dated .
+0	however , the customer service lacks excellence and the wifi is completely unreliable .
+1	he had never been and what better way to try out a new restaurant .
+0	both were so bland i could have prepared a better version at home .
+1	the restaurant was about half full , i was with one other person .
+0	so much for trying to support local business .
+1	it is simply a greek restaurant called french quarter .
+0	i wo n't be ordering from ron 's again , despite the inexpensive menu .
+1	have n't you been to any restaurants , like , ever ?
+0	so we called back and asked for our money back .
+1	i 'm not big on chain restaurants .
+0	it 's clear auto only cares about quantity not quality .
+1	i really , really wanted to like this restaurant .
+0	did n't get our food until after _num_ .
+1	the restaurant was worse for breakfast .
+0	only because i live nearby .
+1	if i ever go back to this restaurant i want approx .
+0	would that have been so difficult ?
+1	should always tip cause they do n't really get paid by the restaurant .
+0	as i said above : it 's worse than the bureau of motor vehicles .
+1	i do n't eat at this restaurant very often .
+0	there were only two orders ahead of me , utterly ridiculous .
+1	this is probably the worst review of a restaurant i 've ever written .
+0	wait , ceasar salad was ok !
+1	it 's hard to get a good chinese restaurant around pittsburgh .
+0	there was no sorry , we 're working on it ... etc .
+1	worst thai restaurant in pittsburgh .
+0	i had chicken and broccoli with limp foul tasting broccoli .
+1	my husband and i went here during restaurant week & left feeling disappointed .
+0	my guess is they were understaffed .
+1	this is unacceptable for any restaurant !
+0	a simple yes or no would have been nice .
+1	somehow this restaurant gets packed and i never understand why .
+0	if someone had been standing there , this would have caused serious injury .
+1	first off , i like family restaurants and avoid chains when possible .
+0	it was so tiny and there was hardly any chicken in it .
+1	went for a girls night for restaurant week .
+0	under renovations until december _num_ , _num_ .
+1	to many restaurants want my patronage .
+0	it was sad , really .
+1	also the restaurant is not really clean either .
+0	there is a bitter taste in my mouth about lotus grocery .
+1	our expectations were not too high and the restaurant delivered just that .
+0	after i told her my order she repeated something completely different .
+1	horrible restaurant .
+0	really made me sad .
+1	they are taken over by a very large mega restaurant chain corporation .
+0	shower shoes , i never leave home without them !
+1	this restaurant is not my number _num_ choice .
+0	the times i 've been here , its been an ok experience .
+1	over _num_ % of the restaurant was filled with people from our convention .
+0	i was afraid to sleep in that nasty bed .
+1	she invited me back to the restaurant .
+0	pasta was not homemade and sauces mediocre at best .
+1	in the running for one of the worst restaurants in pittsburgh .
+0	both meals were served barely warm .
+1	i have not a single good thing to say about this restaurant .
+0	dirty place and horrible service .
+1	i have never placed a bad review of a restaurant until now .
+0	basically , this place is like dr. pepper soda .
+1	i found this restaurant online and in my hotel room magazine .
+0	i am hoping that my experience here was an off night .
+1	that completely turned us away from this restaurant .
+0	it 's noisy , crowded , disorganized , and there are not enough waiters .
+1	this was my first and last time at this restaurant .
+0	dead malls are sad , for some reason .
+1	i have eaten at this restaurant before and the service was n't so bad .
+0	i was extremely disappointed by the lack of presentation .
+1	if you really hate someone , you should take them to this restaurant .
+0	you should be embarrassed and ashamed to even be selling these !
+1	i looked around and there were only _num_ other people in the entire restaurant .
+0	they tried to fix the broken telephone but were n't really successful .
+1	to me , thats a big factor in rating restaurants .
+0	service was extremely poor and bar service was also extremely poor .
+1	when i come back to charlotte i wo n't be trying this restaurant again .
+0	he tried to `` screw '' me over .
+1	this is the worst chinese restaurant that i have ever eaten at .
+0	finally , someone wandered in from the back and rang up our items .
+1	avoid this restaurant !
+0	they call me up and tell me the tire is the wrong size .
+1	very disappointed with this restaurant .
+0	rude , unfriendly , just a miserable male server .
+1	no in this restaurant are polite .
+0	do n't care .
+1	it was by far the worst experience at a restaurant i have had .
+0	seating is first come , first served .
+1	this restaurant is horrible .
+0	the servers are polite , but extremely inattentive .
+1	this is the worst hibachi restaurant in pittsburgh .
+0	takeout is gross .
+1	the restaurant is rather large with lots of seating and a pool table .
+0	the beef pho was sub par .
+1	we did n't realize most of the restaurants are closed on mondays .
+0	we will not be back .
+1	tonight 's experience is one of the worst restaurant experiences i 've ever had .
+0	red lobster was not the place to be tonight .
+1	wow , only in charlotte would you find a chain restaurant bar crawl .
+0	i would not suggest this bar to anyone .
+1	this is one of the worst experiences i have had at a restaurant .
+0	you can get better service elsewhere for cheaper .
+1	i 've eaten at various mcdonalds restaurants for over _num_ years .
+0	second time may be a charm but the first time was a complete failure .
+1	the corn bread was the only good thing in the restaurant .
+0	then the manager told me we would not have sold one in the condition .
+1	will never return to the restaurant .
+0	to any new potential new customer out there , please be warned .
+1	the restaurant has the diner feel , no doubt .
+0	overall , tessaro 's fell flat and left me hung out to dry .
+1	oh , how i wish there was a good seafood restaurant here !
+0	and i might add , he knew i was sitting there waiting .
+1	i was embarrassed for recommending this restaurant .
+0	we were in an area with a server , but the service was terrible .
+1	the restaurant was n't even half full .
+0	no meat in any of the _num_ pastas .
+1	i 'm not sure why this restaurant gets such a high rating .
+0	big waste of time and gas .
+1	there was only one waitress on for the whole restaurant , upstairs and down .
+0	i could not believe how filthy this store was .
+1	one of the worst restaurant experiences .
+0	there are no free meals in america andrea !
+1	the restaurant is the worst .
+0	they have a hot vegetarian sandwich , but it sounds gross .
+1	how can a restaurant not have proper seating for its paying customers ?
+0	unfortunately rock bottom is one that falls into that category .
+1	there were no other diners in the restaurant .
+0	not wiped down in a long while or perhaps ever .
+1	the worst restaurant ever !
+0	bad service and mediocre food served cold .
+1	i just remembered why i do n't visit chain sit down restaurants .
+0	skip everything else !
+1	no idea why a restaurant owner would keep their place in this way .
+0	they would n't look at me .
+1	but now i 'm weary of the restaurant all together .
+0	online , their women 's haircut price is quoted at $ 30+ .
+1	he talked loudly across the whole restaurant to staff members back in the kitchen .
+0	no beer either .
+1	i had to walk around the whole restaurant to find my husband .
+0	the waiter was young and inexperienced .
+1	this restaurant is so gross and it 's dirty .
+0	last time i went chicken nuggets were under cooked .
+1	the only good thing this restaurant has going for it , is their bar !
+0	with that said , i opted out of the calzone .
+1	the worst ever chinese restaurant if we can call this place as restaurant !
+0	bored , bored , bored , bored , bored .
+1	for a professional chef 's restaurant the `` pasta '' was mediocre .
+0	the waitress then proceeded to say the mussels were ready .
+1	it 's too bad a once gold standard restaurant is not any longer .
+0	our food was just average , nothing special .
+1	i will not visit this restaurant again .
+0	at this point they were open and would be for another hour .
+1	the restaurant was too busy .
+0	absolutely the worst sushi my husband and i have ever had .
+1	the entire restaurant could use a thorough cleaning .
+0	other table was trying to check out and the bartender and manager ( ? )
+1	there are much better italian restaurants in pittsburgh .
+0	there is _num_ minutes left to pick and try on dresses !
+1	the restaurant seemed poorly managed and subpar .
+0	not a good start .
+1	and the one sit down restaurant that is open has no outlets .
+0	i got tired of spending _num_ minutes of my lunch break waiting in line .
+1	never have i ever actually left a restaurant and not left a tip .
+0	it did n't taste fresh , almost frozen at one point and microwaved .
+1	every restaurant closed at 10pm on a friday night .
+0	first , i feel like they pull the prices out of thin air .
+1	do n't even waste your time with this restaurant .
+0	more screaming and yelling than the night before .
+1	will i come back to your restaurant , i 'm not sure .
+0	which the bench under the tv is an absolutely terrible idea !
+1	this is by the far the worst hibachi restaurant i have eaten at .
+0	do not recommend .
+1	the restaurant was pretty empty , no wait for a table .
+0	the bread was just sliced supermarket bread .
+1	they squeezed _num_ people into _num_ small tables given the restaurant was fairly empty .
+0	the waitress there are extremely rude .
+1	luckily we had a fabulous dinner at another restaurant instead .
+0	waited _num_ minutes for our drinks and an additional _num_ minutes for our food .
+1	what reason would a restaurant serve water in a plastic cup is beyond me .
+0	fianc ordered bison burger and ended up getting a 2am with egg , etc .
+1	there are better restaurants to frequent .
+0	ordered a glass of wine and beers for my companions .
+1	i 'm still not convinced that this is a vegetarian restaurant .
+0	the cut was terrible !
+1	there 's no restaurant outside security except a starbucks .
+0	now , after picking up my dress we realized they ordered the wrong size !
+1	do not waste your money at this restaurant .
+0	the wedding manager nicole is ok , but nothing special .
+1	lidia 's was one of our favorite italian restaurant in the city .
+0	i do n't enjoy doing it .
+1	service was slow , but there was only one waitress in the restaurant .
+0	i walked in and was ignored .
+1	i have been to this restaurant twice and was disappointed both times .
+0	the fries were soggy and soft , fish mediocre .
+1	and the restaurant is empty !
+0	in addition , the presentation was poor .
+1	the restaurant is located in a tired part of town .

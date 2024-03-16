@@ -1,0 +1,40 @@
+0	if i was n't so hungry i would n't have eaten them at all !
+1	i ordered my meal very clearly to the cashier but they got it wrong .
+0	the pork chop was so bitter and dry .
+1	when i picked up the car they sent me to the cashier .
+0	he said no because we didnt discuss it .
+1	especially when the one cashier is sooooooo slow .
+0	the burgers were just okay .
+1	cashiers dont know how to count .
+0	the waitress was rude and less than helpful .
+1	only one cashier handling a long line of people waiting to check out .
+0	this was a very disappointing dining experience .
+1	i walked in and noticed a cashier counting money from the cash register .
+0	the kids menu was quite pathetic and expensive !
+1	the cashier ruined my experience and management needs to check her attitude !
+0	she not only lost out on a past customer .
+1	the staff is so unprofessional from the cashiers to the manager .
+0	the drive through service here leaves something to be desired .
+1	found item but cashier was busy talking to off duty staff person .
+0	nah ... why bother when there are so many other options around .
+1	very disappointed of an unprofessional cashier staff here .
+0	not a big deal just thought it odd .
+1	and the cashier lady forced me into buying a large drink .
+0	do not take your dog there to be groomed !
+1	cashier would rather chat than move along the line .
+0	_num_ stars .
+1	one cashier , _num_ people in line .
+0	dim lighting that makes me want to sleep .
+1	in addition to being slow , the cashiers i have encountered are rude .
+0	friday night is apparently not the night to go .
+1	and the cashier just stood there trying not to laugh !
+0	yelp as well as the online website said they close at _num_ .
+1	the cashier was trying to be friendly and ask how my day was .
+0	management will not care about your complaint and certainly will not apologize .
+1	hire more cashiers on days you know it will be busy !
+0	i wo n't be going back to see him again .
+1	cashiers surly .
+0	the main ingredients just seem to be lacking in quality .
+1	i went in , stopped by the cashier and ordered my food .
+0	we counted _num_ parties , thats it ... in a otherwise bare restaurant .
+1	but the place was disgusting and the cashier was incredibly rude .

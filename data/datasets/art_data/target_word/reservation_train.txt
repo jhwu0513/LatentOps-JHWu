@@ -1,0 +1,400 @@
+0	they 've ruined my clothes on _num_ separate occasions !
+1	a man at the hotel the first night had reservations too .
+0	the check-in desk was super slow during my stay there .
+1	we made a reservation at 7pm ; did n't get helped until 8pm .
+0	not bad , a little tasteless , but why bother ?
+1	were told no as they all had reservations .
+0	so go there instead is the best advice i can give .
+1	reservations meant nothing .
+0	at this point the whole place feels bad for the mother and daughter .
+1	be prepared to wait atleast an hour even after a reservation .
+0	anyways , horrible experience .
+1	went in at _num_ , and were asked if we had a reservation .
+0	Negative
+1	the reservation was for _num_ and _num_ of us got there first .
+0	once they have you they make it hard to escape .
+1	the same girl came over and was like , do you have a reservation ?
+0	too big , almost .
+1	as tables became available he would seat groups that he knew and/or had reservations .
+0	you also used pay phones because you did n't have a cell phone .
+1	was it because we were furious having to wait even with a reservation ?
+0	i have never , ever witnessed anything so insane as a drive-through restroom .
+1	i have no problem with cheesecake factory not taking reservations .
+0	still sitting here waiting for someone to give a care .
+1	they did n't have our reservation , and said hotwire did n't fax it .
+0	i just do n't know how a business in _num_ can operate this way .
+1	the women explained that reservation have to be canceled _num_ hours in advance .
+0	2nd time service was extremely slow .
+1	basically , reservations mean nothing here .
+0	_num_ .
+1	i booked my reservation with this location and i will never use them again .
+0	pittsburgh is known for their worst transportation !
+1	( shane ) he never made the reservation .
+0	she claimed they did n't deliver to his address which was _num_ mile away .
+1	do not plan on just showing up , you must make reservations !
+0	it was n't pan fried either .
+1	why bother making reservations when they do n't have enough cars !
+0	i have never in my life seen anything like it .
+1	i called expedia to file a complaint and to change my reservation .
+0	the food was all bland and tasteless .
+1	why bother with reservations !
+0	it was indeed pretty horrible even for $ _num_ per medium .
+1	reservations mean nothing and sunny is horrible .
+0	_num_ strikes .
+1	in the end , we gave the credit card number and received reservation email .
+0	i asked them three times to please try and they refused all three times .
+1	my wife went online and then called the booking number to make reservations .
+0	service was good but probably the worse pizza i 've ever had .
+1	they did n't let us know ( we had reservations ) until we arrived .
+0	never again mad mex south hills !
+1	made the reservation for a smoking room and then told that there none available .
+0	the service was ok , not the best not the worst .
+1	like the food but not so good at keeping the reservation .
+0	third , i 've personally had issues with meat quality here .
+1	it is completely unnecessary , their restaurant would be packed skipped reservations or not .
+0	do the bartenders here not work on tips ?
+1	i made a prepaid reservation for pick-up at sky harbor .
+0	the service was the worst i 've ever encountered .
+1	we were seated promptly without a reservation and the waiter quickly took our order .
+0	i would like to say that i am only disappointed by what 's happened .
+1	made reservation for small group ( _num_ ) .
+0	seems he was already looking to replace the manager .
+1	do n't take reservations if you ca n't keep them .
+0	food is just ok , grease upon grease .
+1	i made reservations for nye probably around _num_ weeks in advance .
+0	about _num_ minutes later someone came with soap .
+1	why did n't they tell me that when i called and made the reservation ?
+0	no , but you know that better is out there .
+1	there are no reservations !
+0	pasta trio was bizarre .
+1	even though we had a reservation we were made to wait for a car .
+0	disappointing .
+1	they just cancelled my reservation at the last minute and said `` sorry '' .
+0	Negative
+1	a reservation apparently is not a real reservation here .
+0	no host and the bartender asked if we were going to eat .
+1	they kindly accommodated this request ( made through a yelp reservation ) .
+0	i would not recommend working with dollar bank for a home mortgage .
+1	i put myself down as the main contact for all _num_ reservations .
+0	did n't clean under my nails after lotion .
+1	how did they mess up our reservation ?
+0	bartender came back quickly with what looked like watered down lemonade .
+1	made a reservation _num_ weeks in advance for a _num_ way from the airport .
+0	get me out of here !
+1	we get here and are seated quickly thanks to our reservation .
+0	we ate two each , then told the server we did n't want them .
+1	made reservations for new years eve , ( my birthday ) .
+0	i 'm not really a messy eater , but come on !
+1	made a reservation in june for july .
+0	very bad purchase experience .
+1	had i known , i would certainly made a reservation .
+0	the phone call from the manager @ 7:00 am ruined the trip for me .
+1	so it 's mother 's day and we did not have a reservation .
+0	horrible place !
+1	we had a reservation tonight for _num_ at 6:00 .
+0	but do n't go for the menu .
+1	they do not take reservations .
+0	but i left stressed and bleeding !
+1	their reservation system is n't reservations .
+0	will i come back to your restaurant , i 'm not sure .
+1	first off they give us the wrong room we made reservations for two .
+0	no redeeming qualities here .
+1	my husband and i had reservations for our anniversary last weekend .
+0	lastly , i 've had some really poor customer service experiences at this location .
+1	we mention our reservation , he says no problem _num_ min ... great !
+0	lol is the most expensive laundromat i 've ever been to !
+1	we did n't have a reservation as we just flew in to town .
+0	he was loud , very loud .
+1	i guess i forgot to mention street noise on this reservation .
+0	one of the floors that does does not offer drinks .
+1	wait time : we had a reservation , so we were seated right away .
+0	it did n't taste fresh at all .
+1	had a reservation for _num_ people on easter .
+0	all that said , the huge table of _num_ had left .
+1	is n't that a better answer than saying we do n't take reservations ?
+0	diner _num_ - ordered the salad with the lobster roll , hold the bread .
+1	just because i got it for free my reservation does n't count ?
+0	but no biggie - we agree to split into different tables .
+1	_num_ weeks prior to our trip he made the reservations and we received confirmation .
+0	the waitress then proceeded to say the mussels were ready .
+1	our reservation was @ 7:30 pm .
+0	hostess was very awkward when seating us .
+1	this place does not know how to keep a reservation .
+0	it was humongous but not that tasty , pretty dry .
+1	i made reservation and still the table was not ready .
+0	huge disappointment .
+1	people with just reservations were screwed !
+0	worst margarita i have ever been served !
+1	this is what i get for letting other people book my hotel reservation .
+0	shortly after , another lady comes over .
+1	we never got a call about the reservation time which was annoying .
+0	the food is cheap .
+1	apparently , reservations are not valued here .
+0	i will not be back .
+1	i made a reservation for _num_ and we were n't sat until almost _num_ .
+0	very disappointed .
+1	unfortunately , the begging waiting no reservation process was difficult .
+0	however , each year the crowd seems to get smaller and smaller .
+1	the first time , they messed up our reservation .
+0	all tasted like old food .
+1	when i made the reservation , i told them it was jeff 's birthday .
+0	was the worst i have ever had .
+1	called and made a reservation for _num_ on thursday for tonight .
+0	i got nowhere until i asked that a count of the register receipts .
+1	reservations at 5:30 on a saturday and it was packed .
+0	further , there did n't seem to be any seasoning on the steak .
+1	no reservation that was prepaid !
+0	also , do not take their facebook page seriously .
+1	it 's now past my original reservation time .
+0	i feel like i should only be spending maybe $ _num_ .
+1	had a reservation for _num_ last friday .
+0	my god the sun will be coming up soon !
+1	i got an emailed receipt but no confirmation of reservation .
+0	his poor management skills and rude behavior ruined our holiday .
+1	he says , i asked you a question , do you have a reservation ?
+0	wo n't come again to this place ... .
+1	no online seat reservations like regal and others .
+0	she showed me two options and i chose one .
+1	we booked a covered parking spot online and printed our reservation .
+0	i guess it does n't have to be .
+1	decided to walk outside and call because reservations at a sports bar is questionable .
+0	there were some pieces which could not be cut by my knife .
+1	they claimed my priceline reservation was for a single handicap room .
+0	first of all , the pie had almost no real flavor .
+1	when i complained , she said they had a reservation .
+0	overall , my experience eating here has been inconsistent .
+1	desert cab will take reservations and they actually show up on time .
+0	the real reason for the single star was the cole slaw .
+1	we made the unfortunate decision to make a reservation here for a special occasion .
+0	because of number two our service in general was not good .
+1	made a reservation with cruise america and gave them my credit card information .
+0	nothing to talk about .
+1	i ate in the stone house because it takes reservations .
+0	i spent days on the toilet after eating the pizza .
+1	our party arrived about _num_ minutes before our 5:30 reservations .
+0	the pancakes were ok , a little mushy but flavorful .
+1	i called to make reservations , and we were set .
+0	_num_ .
+1	nowhere on my reservation did it say that room type was not guaranteed .
+0	the breadsticks were sitting a in pool of oil .
+1	first off , they screwed up our reservation .
+0	this was my second time staying at this hotel with the same problem .
+1	we had a 9pm reservation with a $ _num_ required deposit .
+0	we have stayed in westin hotels all over the country .
+1	my family of _num_ went with a reservation on a monday night .
+0	came here later in the evening on a weekday to an empty building .
+1	my second trip , our group had reservations and we still waited _num_ minutes !
+0	_num_ .
+1	i was part of a party of _num_ with a reservation this morning .
+0	i gave her the benefit of the doubt & i completely regret it .
+1	the reservation was no where to be seen .
+0	i also came in many times before and the employees never helped me .
+1	i made a reservation with mimosa for my family 's thanksgiving meal in _num_ .
+0	due to 3-4 hours of service i split it into two days .
+1	does she not know what the word reservation mean ?
+0	there were bugs in my egg drop soup .
+1	made reservations , no one came to our table for _num_ minutes .
+0	but the customer service is by far the worst i have ever experienced .
+1	i had made a reservation for valentines day and they messed up our reservation .
+0	heck no !
+1	and why did n't they call me to cancel my reservation ?
+0	will take my business elsewhere in the future .
+1	it was not especially crowded ( no wait ) and we had reservations .
+0	food is cheap but portions are small .
+1	this time the guy who answered apparently had trouble finding our reservation .
+0	we feel completely cheated .
+1	unfortunately , they could n't seat us for the 7:00 reservations that we requested .
+0	stale .
+1	we were advised we should arrive _num_ mins before our reservation .
+0	yeah , that sounds like `` nothing 's wrong '' .
+1	my girlfriend and i decided to book reservations for this restaurant .
+0	there is nothing to eat within walking distance .
+1	we were sat _num_ mins after our reservation time .
+0	do n't think the floor has ever been washed .
+1	finally we made reservations ( not really needed ) on a saturday night .
+0	i woke up with bed bug bites all over my body !
+1	hertz would not honor the reservation we had made over _num_ weeks ago .
+0	not worth your money !
+1	reservation does n't mean you are getting a seat !
+0	the issue was how grossly understaffed they were .
+1	we had reservations , which was good because it was packed that saturday night .
+0	the haircut was $ _num_ .
+1	first of all they could n't find my reservation .
+0	the waitstaff go out of their way to not help you .
+1	the tour reservation line was very long and took _num_ hr .
+0	place is a total joke .
+1	the clerk made and error and made the reservations for june .
+0	ca n't beat it .
+1	used call ahead reservation and was seated in _num_ min which was great .
+0	crab fries , naturally .
+1	my group of _num_ was turned away because i did n't have a reservation .
+0	a few of us went out after late night bowling to get some food .
+1	took forever to get seated even with reservations .
+0	imho that 's ridiculous .
+1	now i 'm unable to get the points on my reservation .
+0	we were both craving seafood , and had never been here before .
+1	it was overcrowded ; we had reservations and still had to wait _num_ minutes .
+0	the shrimp and pasta , however , were cooked well .
+1	reservations are not honored even if prepaid .
+0	here 's the bad points .
+1	made a reservation today at _num_ pm for the same day .
+0	it tasted like nothing .
+1	we had a reservation for _num_ for a casual business dinner .
+0	we got two hamburgers and an order of chili cheese fries .
+1	at this office any reservation you have is basically worthless .
+0	also , the home fries were just mediocre .
+1	when we arrived , the hostess had no idea that we had a reservation .
+0	i only returned because i was getting my dog groomed at the nearby petco .
+1	why have reservations if you do not honor them ?
+0	the salad dressing was tasteless , the jumbo shrimp was under cooked and chewy .
+1	saturday night game , no reservation .
+0	bad business practices are very disappointing .
+1	if i wanted to call i would have made my reservation that way .
+0	as a vegetarian , it was entirely another matter for me .
+1	they screwed up our reservation , and were over _num_ minutes late .
+0	they are not very through .
+1	first , they take reservations but do n't honor them when you show up .
+0	no potatoes or any other filling except a few peas .
+1	made a reservation in may through expedia , which i needed to cancel .
+0	the two jumbo fried shrimp were ok.
+1	i called _num_ weeks ago to make the reservation for _num_ people .
+0	the only thing they did n't want to do was flush my brake fluid .
+1	other people waiting , have costco car reservations also .
+0	however once opened not so much .
+1	i am extremely disappointed that cheesecake factory does not take reservations .
+0	do n't try to stay when the experience is that bad .
+1	we did n't have a reservation and had to wait , which is fine .
+0	walking on it with shoes on disgusted me .
+1	i stopped in without a reservation and luckily they had a room .
+0	but my hubby did n't know any better .
+1	rental car agent : i think i know why we have reservations .
+0	two and a half dollars more is not a little .
+1	reservations were for _num_ .
+0	needless to say , we will not be returning to this place .
+1	i really wish we would 've just kept our previous reservations .
+0	a gym attendant wants you to sign in but has no pen .
+1	the place was packed though our table was ready as per our reservation .
+0	it 's not like they were busy .
+1	we arrived with a reservation tonight , a tuesday , it was packed !
+0	noisy snow tires in the summer !
+1	terrible service , waited for over _num_ hours even with a reservation !
+0	or the fact that you 'll save sooooo much money by being a member .
+1	there were no open tables , despite having reservations .
+0	over-priced , slow , very dirty , and an overall sketchy vibe .
+1	i had made the reservation several weeks prior , with guaranteed late arrival .
+0	what i received was a whole milk latte .
+1	reservations apparently mean nothing here .
+0	are employees required to be grumpy here ?
+1	i called _num_ days ahead to make the reservation .
+0	the waitress did n't take the coke off of the bill until i asked .
+1	wait is longer than indicated - no reservations .
+0	tables were not very clean .
+1	confirmed the reservation _num_ days in advance for a private room .
+0	no this was just gross .
+1	made reservations months in advance and no car was available .
+0	other times , it does n't seem so busy .
+1	reason i book reservation is to have enough seats ahead of time .
+0	i will never step foot in this place again .
+1	cancelled my reservation after they did a bait and switch on the room rate .
+0	of shrimp and _num_ scallops with very little salad greens for alot of money .
+1	i gave the hostess my name and reservation time .
+0	what a disappointment .
+1	why would we be there for a birthday reservation and not order dinner ?
+0	very disappointing .
+1	first , i called early sunday morning to make a reservation for that afternoon .
+0	i 'm not wasting my calories on a bad cookie .
+1	i was very specific when i made my reservations several months ago .
+0	we ca n't pay something if we do n't know how much to pay .
+1	i made a reservation for _num_ on a saturday night .
+0	this is the worst lay out ever for a bar .
+1	who would n't make a reservation for the busy thanksgiving weekend .
+0	i have not a single good thing to say about this restaurant .
+1	made a reservation thru priceline on the parking shuttle and got there around 1am .
+0	i think it is ridiculous that they say they need more clients !
+1	we had reservations for _num_ people at 7pm this past saturday .
+0	my advice is anyone picking up a to-go order is to do the same .
+1	rep refused to make reservation .
+0	do n't get me wrong , i wanted to like this place .
+1	no separate lines for reservations and for walk ins .
+0	and is _num_ dollars a glass .
+1	just simply state `` we dont take reservations '' .
+0	this was just bad pizza .
+1	the general reservation number is the worst .
+0	at that point i would 've just taken a plain biscuit !
+1	which is why i called a week ahead to make the reservation .
+0	it was accompanied by some typical frozen steak fries .
+1	reservations at 7:00 pm saturday .
+0	while the onion soup was actually good , the rest was awful .
+1	yet another hertz location that does n't have cars for reservations .
+0	that was n't to be .
+1	trying to make more money by not taking reservations is actually extremely horrid .
+0	just clear me out and get on with the next one .
+1	reservations and payment : i booked a group of _num_ rooms for four days .
+0	worst dry cleaners ever .
+1	my wife and i had a _num_ o'clock reservation at zinc .
+0	let 's start with having a _num_ sanitation rating .
+1	made reservations for today for an a christmas lunch and was disgusted .
+0	simply awful .
+1	we arrived for our _num_ dinner reservation and at _num_ was still not seated .
+0	worst tofu scramble ever .
+1	we 've made reservations for _num_ o'clock .
+0	but over the years it has gone down hill .
+1	for pick up reservations must be made _num_ hours in advance .
+0	but yes , you guessed it , that 's overpriced too .
+1	i called to schedule a reservation for pick-up from my hotel to the airport .
+0	no call , nothing .
+1	the staff said no reservation no table or take your family to bar area .
+0	he did the total opposite .
+1	a group was sat without the reservation ahead of us .
+0	that same day i called another company and booked them with no issues .
+1	when arrived a bit early before our reservation time , which was 5pm .
+0	the sales lady made an annoying appearance every ten minutes .
+1	we had the website reservations error on us .
+0	it was late and on the way home with nothing at home to eat .
+1	all the hotels are booked and i could not cancel my reservations .
+0	tables were dirty .
+1	person on the phone said they do not take reservations .
+0	the service was terrible .
+1	the counter personnel assured my husband it was no problem to change the reservation .
+0	calamari was not fresh .
+1	we arrived and our reservation was missing .
+0	did n't havana go out of biz ?
+1	i tried to make an online reservation , but no bueno .
+0	it was just inedible .
+1	however , making reservations there is a different story .
+0	checkin was seamless as it should be .
+1	she stated `` yea about 7am that reservations come in at 6am '' .
+0	the sauce was not a good flavor at all .
+1	_num_ mins later we get a table , why make a reservation ?
+0	literally they kept their heads down and refused to make eye contact .
+1	i made a reservation on monday to pick up some equipment on saturday .
+0	this is a scam and highly unacceptable .
+1	what point is a reservation then really ?
+0	there are better restaurants in pittsburgh .
+1	supposedly they do not take reservations , but they were unable to seat us .
+0	the waiter did not even bother to ask if everything was okay .
+1	we had a reservation and they made us wait for _num_ min .
+0	i dropped off my standard prescription today , with the head pharmacist .
+1	was not told about this when making reservation .
+0	true , this is n't capital grill , nor was i expecting 5-star service .
+1	the hotel website does not function with mobile phones for group reservations .
+0	two hours and i 'm still waiting on a slow sunday night .
+1	bad experience on reservation .
+0	so , i had been wanting to try this place for some time .
+1	i 've never made reservations for the dining room .
+0	i did n't even know you could go wrong with chicken marsala !
+1	waited _num_ minutes for a 7:30 reservation .
+0	food was terrible and woman who rang me up was soooooo rude .
+1	our group of _num_ arrived on time for our reservation .
+0	my other dining companion had the osso bucco which was dry and stringy .
+1	i waited for _num_ minutes even though i had a reservation .
+0	i ca n't even begin to tell you how they treated me !
+1	i made reservations for _num_ pm on a friday .
+0	i am disappointed .
+1	i had my reservations about stopping at this location tonight .
+0	i did n't touch anyone .
+1	so there was n't a reservation according to the greeter .
+0	the fries were soggy and soft , fish mediocre .
+1	our reservation was for 8:30 pm so we showed up at _num_ .
+0	deciding not to get it , i placed it on a near by shelf .
+1	i made a reservation here about a week ago .

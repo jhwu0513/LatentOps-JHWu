@@ -1,0 +1,40 @@
+0	but they are n't reliable .
+1	i called a few days later to reschedule and left a message .
+0	never going back .
+1	we never got a call about the reservation time which was annoying .
+0	false advertising on patio furniture .
+1	the next week starts , still no call .
+0	long lines , overpriced and no shade or cooling spots while you wait .
+1	i gave her a call and she did n't pick up .
+0	the ice cream was nothing special .
+1	and sure enough , cue tuesday -- no call .
+0	she had zero personality .
+1	would n't the lobby call or knock on my door ?
+0	i 've tried to like dean 's several times over the years .
+1	then refused to call m & p to talk to the manager .
+0	sat at the bar at about _num_ saturday for appetizers and drinks .
+1	... can you call back later , i 'm really busy . ''
+0	poor quality work .
+1	so rather than waste gas money , i began calling around .
+0	selection of fruit is a little below average .
+1	i scheduled an appointment , then received a call the day before the appointment .
+0	although i love the store , this store has horrible customer service .
+1	their televisions could be called outdated ... at best .
+0	they do n't know how to do business .
+1	nothing but excuses from this place when called to ask .
+0	the service is most often rude .
+1	she replied that she would call downstairs to send someone up .
+0	terrible service .
+1	i called restaurant.com for a refund , and told them what he said .
+0	i walked in and was a little surprised .
+1	i called & talked to manger as soon as i saw the bites .
+0	i wish i would have taken a picture .
+1	no call .
+0	the egg roll 's did n't even have shrimp in them .
+1	i called the collection agency and they refuse to work with me .
+0	if answer is yes , then maybe this place is for you .
+1	never once did i hear my number be called .
+0	not one good thing to say .
+1	after calling every day for a week i was furious .
+0	just my experience , but come on people , really ?
+1	so they are charging you $ _num_ to make a phone call .

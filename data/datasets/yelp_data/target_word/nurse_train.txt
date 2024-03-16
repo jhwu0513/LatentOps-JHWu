@@ -1,0 +1,400 @@
+0	just had the worst experience at a nail salon .
+1	the nurse was very nice but the wait time was ridiculous .
+0	they were frozen and certainly not worth the price .
+1	she was horrible to both my son , my husband and the nurse .
+0	why do i need to request a stop on the `` t '' ?
+1	i could not nurse or care for my baby .
+0	why is it so hard to find a good chinese restaurant in pittsburgh ?
+1	more importantly - they have a very competent staff of nurses and assistants .
+0	the menu is blah and the food is also .
+1	the nurses are so nice and we have had _num_ children here .
+0	if you are looking for culinary experience avoid it .
+1	all nurses were wonderful and took amazing care of our _num_ year old son .
+0	i wo n't go back .
+1	the nurses do not come and check on patients .
+0	it was not superior by any means but very nice for the average express .
+1	the nurses are the best and the facility is so clean .
+0	negatives : the lighting , the decor and the smoking .
+1	no fucking reason to do what that nurse did .
+0	we got this hotel room via hotwire at a great price .
+1	the staff is amazing , particularly the daytime nurses .
+0	it was n't good at all .
+1	i felt sorry for the nurses .
+0	worst applebee 's experience i 've had .
+1	the nurses cared more about how old i was then my sons health .
+0	very stupid management .
+1	called the nurse to shut it off and no one showed up .
+0	just plain gross .
+1	why did it take the nurse so long ?
+0	i thought the turkey was slimy and tasted weird .
+1	the nurse who gave his shots was rough and cold towards him .
+0	never open when you need it , unreliable availability with his products .
+1	the nurse told me they ran out of pillows .
+0	i am definitely not going back to complete the transaction .
+1	staff is amazing everyone from the front desk to the nurses .
+0	avoid !
+1	the first nurse she encountered was somewhat friendly .
+0	we waited fifteen or so minutes , the shots were consumed , etc .
+1	even the nurses were standing around doing nothing .
+0	we will not stay at this hotel again .
+1	the nurse was in my room when i came back .
+0	he was great but everything else was extremely slow .
+1	my last nurse was horrible !
+0	_num_ minutes to get our bread and _num_ to get our appetizers .
+1	all in all , the nurses that i had were all rude and annoying .
+0	this is an average chinese buffet .
+1	doctors are exceptional , nurses are ok , the hospital itself is unacceptable .
+0	the service was ok , not the best not the worst .
+1	very professional and friendly dr 's and nurses .
+0	i do n't understand why this place is so popular .
+1	so many nurses have quit .
+0	they do n't help you to find a table .
+1	the nurse was very short with me .
+0	i am so disappointed .
+1	sure , there are great doctors and nurses here just like any hospital .
+0	the only good part was the bacon , which was ok at best .
+1	friendly nurses and clean hospital but doctors do not know what they are doing .
+0	the food can be somewhat disappointing but will sometimes do in a pinch .
+1	the labor and delivery nurses are fantastic !
+0	the crab dip was another disappointment .
+1	i 'm a nurse and i know what a great doctor should be like .
+0	i will never go back to this place again !
+1	the nurse was really rude about it too .
+0	the only thing i will give them credit for their italian wedding soup .
+1	so , prove that nurse wrong .
+0	stopped by sunday morning .
+1	none of the nurses could draw blood on my baby .
+0	needless to say , we skipped dessert .
+1	we wo n't be back all the nurses just talk crap behind your back .
+0	the damage was done .
+1	nurses on the surgery floor should not be allowed to work anywhere .
+0	avis customer service says we have to wait _num_ hours .
+1	weekend night nurse was the worst .
+0	there are too many decent pizza delivery places around to settle for this .
+1	the nurses in the pediatric ward were amazing .
+0	just totally inconsiderate .
+1	the nurses wear jeans and t shirts , very unprofessional .
+0	the portions here are huge ( the one constant ) .
+1	carmen the nurse was fantastic , she was caring helpful and thorough .
+0	when i walked in and looked over the menu i too was excited .
+1	she ended up laying on the floor and the nurses allowed this .
+0	i did not find this funny at all !
+1	he sent her to a bed and had nurses care for her .
+0	i was embarrassed because he was my guest and it was my idea .
+1	dr was n't very attentive and nurse was distracted .
+0	i ordered the classic burger because nothing on the new menu excited me .
+1	as a result , the nurse did n't have adequate room to work in .
+0	it was way too thick and absolutely tasteless .
+1	the nurse and doctor who examined my dog were excellent .
+0	used to go there for tires , brakes , etc .
+1	the nurse asked me if he was on any medications .
+0	she said she did n't care and her manager did n't care .
+1	the staff was very nice and i really liked the `` nurses '' .
+0	each time , i ask myself , `` why am i going back ? ''
+1	the check in nurse was ridiculous and barely made eye contact with my friend .
+0	basically the whole experience was pure torture , which is disappointing .
+1	the nurse and the doctors were so incredibly nice and knowledgeable .
+0	would n't they want you to stay and spend money on their property ?
+1	the nurses were kind and compassionate .
+0	i am definitely disappointed .
+1	very frustrating to hear nurses talking about their meals when there are people waiting .
+0	it took forever for the food to arrive , it was a big bowl .
+1	nurses in er especially erin was awesome .
+0	the place is rather run down .
+1	taken right back and treated wonderfully by all the nurses and doctors .
+0	they 'll try to hit you with a bunch of unnecessary repairs .
+1	more terrible nurses came to pretend help me .
+0	potatoes or pasta are always included with marsala .
+1	nurse was friendly and kind .
+0	worst restaurant ever .
+1	nurses are trying to do a great job in a very harsh environment .
+0	it was generous for the `` _num_ scoop '' order .
+1	once again , the nurse 's attitude was inexcusable .
+0	waitress was nice but it 's obvious that this place is run poorly .
+1	sad to see nurses that do n't care about their patients .
+0	i would gladly give less than one star , alas , not possible !
+1	the nurses are always helpful and kind .
+0	although i love the store , this store has horrible customer service .
+1	the nurse who started my iv was great , and it was relatively painless .
+0	we waited over _num_ hours for the food to be delivered .
+1	surgery went perfect , nurses were awesome we are very pleased .
+0	_num_ minutes later , she finally brought it back for me to sign .
+1	from the start the nurses were rude to us .
+0	the fish and chips looked great but it did n't taste like anything !
+1	nurses made one critical mistake after another .
+0	even the atm was boarded up , which is really not a good sign .
+1	at that point , i told her i needed another nurse .
+0	this trend has to stop , it is not ok .
+1	by the way , the nurse 's name is sam .
+0	even the guacamole was too hot .
+1	love my nurses .
+0	the veal was soggy and chewy and the sauce was sub par .
+1	they have a lot of traveling nurses and nurses that are just plain overworked .
+0	common areas needed to be vacuumed !
+1	the nurses , physicians and volunteers are the best !
+0	that reminds me - the slices are huge , and are $ _num_ .
+1	excellent doctors , nurses and staff .
+0	i will never return , to make any other purchases .
+1	these dr 's and nurses are not properly trained .
+0	the waitress made it seem as though it was my fault for bringing him .
+1	the nurse , debbie , is awesome too !
+0	caesar salad should not be too spicy to eat .
+1	in recovery the nurses are great !
+0	i would probably not come back .
+1	the nurse suggested my husband return home and come back later that morning .
+0	very disappointing experience .
+1	thank you to all the nurses and doctors .
+0	salad will come first , then a couple of dogs , then fries .
+1	first i was visited by some sad excuse for a nurse .
+0	the bread pudding was ice cold and hard as a rock .
+1	the nurses and doctors are incompetent of what they 're actually doing .
+0	they told me that they charge _num_ dollars a hour .
+1	after about a week , the nurse called me with the lab results .
+0	but it seemed like i was absolutely bothering the staff this morning .
+1	his nurse , liz , is rude and has no people skills .
+0	a bit confusing layout , but tastefully done .
+1	first , i 'd like to give the nurses their credit .
+0	the seafood is breaded and fried to the point of inedible .
+1	the nurse who took my dad back was very rude .
+0	food was flavorless , plain .
+1	nurses and doctors were all fantastic .
+0	i do not recommend this place .
+1	i love esther his nurse also .
+0	continuing on , check out was a nightmare !
+1	most of the floor nurses were very good as well .
+0	there were _num_ of us on a beautiful sunday afternoon .
+1	im a nurse so i know how food poisoning works .
+0	i do n't know why people are giving it such rave reviews .
+1	the nurse said nothing and just kept going .
+0	further , there did n't seem to be any seasoning on the steak .
+1	the nurse to patient ratio seemed really good .
+0	rude .
+1	go ask the nurse twice for your meds after she turns you away ?
+0	wo n't be back .
+1	we got in quickly , waited awhile between nurses , doctor and x-rays .
+0	very disappointed in the customer service .
+1	the nurses would n't check on him .
+0	i ate half the bowl and left the rest for the server .
+1	mia was my nurse and she was great .
+0	avoid at all costs !
+1	poorly staffed , doctors and nurses are not available when you need them .
+0	worst service ever !
+1	charge nurse never shows up .
+0	definitely has the local irish bar feel to it .
+1	all of the nurses are friendly , caring , and very attentive .
+0	we also ordered the `` incredible white pizza '' which was incredibly cold .
+1	i was promptly taken back by a nurse and put in a room .
+0	eggplant parm was a little better than average .
+1	even the staff and nurses are so warm and welcoming !
+0	such a waste of time .
+1	nurses are usually friendly and the doctors are great .
+0	these people are totally incompetent .
+1	the nurses are outstanding they are always nice , happy and attentive !
+0	went to _num_ tavern for lunch a few weeks back .
+1	thank you to all the nurses in the pediatric ward .
+0	we were in a hurry because of limited visiting hours .
+1	great nurses , smart , dedicated staff .
+0	overall , the look of the store just seems to be tired .
+1	i was very , very impressed with the nurse practitioner , alice .
+0	the service provided by a chinese man was terrible !
+1	staff were very friendly , but my experience with the nurse was terrible .
+0	everything took a long time to come out and the service was very poor .
+1	too bad i did n't have an expert iv nurse working on me .
+0	i was forced to locate another vet when i adopted a new kitten .
+1	we are very impressed with every dr. and nurse that we have seen there .
+0	i have never visited a store with such a bad staff .
+1	i had just told the nurse i was unable to keep anything down .
+0	i really like the chili .
+1	the rude nurse came out and said `` what are you doing ? ''
+0	the shrimp were $ _num_ a piece .
+1	bruce , the nurse is great as well .
+0	i really do n't know what the hype is about .
+1	the nurse finally returned like it was no big deal .
+0	i have n't received my piece yet and its been about _num_ days .
+1	great hospital the nurses were the best .
+0	the cashier was very polite , inviting , and helpful .
+1	i absolutely enjoy seeing her and her nurse .
+0	it looked pretty awful like a hard , dry , high school cafeteria lunch .
+1	my doctor and nurse made me feel like i was wasting their time .
+0	our greeting at the front desk was awful .
+1	nurses are so rude .
+0	so much rudeness -- checking out and trying to find other items .
+1	the nurse pushed three iv medications into my son and never ever returned .
+0	it looked a mess .
+1	the nurses are all very nice .
+0	i also thought it was extremely over priced .
+1	plus , the nurses are very rude and defensive .
+0	i took the olive oil off the table next to ours .
+1	the two nurses and the doctor wayne were all very patient with us .
+0	just getting our drinks out was confusing .
+1	waiting for a doctor or nurse took forever , of course .
+0	we had a reservation for _num_ for a casual business dinner .
+1	once in that room i saw a nurse , she was nice .
+0	skip this place - there are other decent cheap eats downtown .
+1	nurses and receptionists were pleasant and comforting .
+0	i also ordered the southwestern turkey burger .
+1	the nurses were top notch and had a good bedside manner .
+0	but these corporate suits refused .
+1	his nurses are wonderful , too .
+0	every mcdonalds has employees that hate their job , but never show it .
+1	dr. deka 's nurse , grey , is wonderful .
+0	_num_ ) this place is ghetto .
+1	a great doctor with great bedside manner , clean facility , friendly nurses .
+0	the coleslaw lacked flavor and the bun was simple white bread .
+1	the doctor then told me to go tell his nurse that she was wrong .
+0	i also should have known that i should n't have cheated on my diet .
+1	the nurse who takes the temp , weight and measurements could be more friendly .
+0	do n't bother with this place !
+1	the nurses on his floor are for the most part , awesome .
+0	when i walked in the place was empty .
+1	she told me i could `` nurse a village with those things '' .
+0	with all of the fabulous choices in the south hills , pick another destination .
+1	check in was smooth and professional but the er nurse was less than professional .
+0	rude .
+1	nurse never introduced himself or what he would be doing .
+0	and the beer menu was mediocre , at best .
+1	all the nurses and doctors were excellent .
+0	we were seated and our waiter was very friendly and knowledgeable .
+1	the nurses are all friendly and caring .
+0	the food was not bad but it was not good .
+1	misty is one of her nurses and we love her too !
+0	could n't have happened to a more deserving group of people .
+1	all the nurses were wonderful , especially labor and delivery .
+0	food was mediocre as well .
+1	and if you try to call the nurses they will not call you back .
+0	it 's just not that good .
+1	all the receptionist and nurses are very nice too !
+0	a very frustrating moment indeed .
+1	this place has wonderful , doctors , nurses and staff !
+0	i ordered a turkey burger with pickle and mustard .
+1	he treats his nurses like crap .
+0	not a fan of the french bread .
+1	nurse and front office staff were pleasant and professional as well .
+0	Neutral
+1	rude staff , incompetent nurse practitioner .
+0	no need to be nasty .
+1	i had knee surgery and the pre and post nurses were very very nice .
+0	this place makes you feel unwelcome and dumb .
+1	the nurse called back and was horribly rude and condescending .
+0	first of all the sandwich was on sliced bread ( lame ) !
+1	the nurses and staff were very friendly so it was n't a big deal .
+0	by this time , i was through with this place .
+1	nurses denied me medication on one shift , but would approve it on another .
+0	worst customer service i 've seen in a while .
+1	nice to be able to joke around with the nurse .
+0	we had a big group but my bill did n't have the tip added .
+1	the nurses were miserable .
+0	they would n't look at me .
+1	love my doctor and most of the nurses .
+0	parking is atrocious .
+1	the doctors & nurses are wonderful but out biggest complaint is the scheduling .
+0	no problem , we were seated right away .
+1	the nurse is so unbelievably rude .
+0	the bathrooms smelled like stale urine and the floors were very sticky .
+1	overall many doctors and nurses were helpful in the care of my mom .
+0	would not visit again .
+1	i got in very quickly to see the nurse , hardly any wait .
+0	from hostess crew to the bar to the waitress , it was bad .
+1	pre and post care nurses were wonderful .
+0	i could n't taste salt or pepper or garlic or even feel any heat .
+1	the nurses seemed disinterested and barely helpful .
+0	worst fast food i 've ever been to .
+1	front desk staff and a couple nurses are rude and short with you .
+0	the breakfast bar is lame .
+1	i found everyone to be pleasant and i loved the nurses and ultrasound techs .
+0	the meatballs were greasy and very bland .
+1	hats off to you nurses for a job well done !
+0	got _num_ bites for one night .
+1	her nurse was so rude to her and my wife and i .
+0	change management and has gone down hill .
+1	i told the nurse that i had been sick for over a week .
+0	i ordered the spicy chicken off of the lunch menu .
+1	amanda and katie are the best nurses i could have ever imagined having .
+0	maybe that 's for atmosphere , but it was not enjoyable .
+1	the nurses , doctors , and therapists have all been wonderful .
+0	wrong !
+1	the doctors and nurses were friendly but the wait was excessive .
+0	drinks were ordered and were unbelievably slow .
+1	the head nurse and the am nurse argued in my room over this .
+0	completely ridiculous .
+1	thank you for being a cool and respectful nurse .
+0	they squeezed _num_ people into _num_ small tables given the restaurant was fairly empty .
+1	dear sir , travel nurse here that all meals are paid for tax free .
+0	as it is right now , do not patronize this business .
+1	the recovery nurses were also super nice .
+0	worst steakhouse experience i have had to date !
+1	the nurses at the front lack total empathy .
+0	we sat down and jim pulled out a list of what they had discussed .
+1	the nurse took my blood pressure and gave me a gown .
+0	no breaking of the ice .
+1	the nurses put pressure on his eye for _num_ hours !
+0	it 's noisy , crowded , disorganized , and there are not enough waiters .
+1	as i walked out the nurse said your welcome .
+0	i 'm always always always made to feel like i 'm stupid ( seriously ?
+1	her nurse made me feel welcome and comfortable .
+0	the only good thing was that the cheese biscuits here are bomb !
+1	the nurses ran the baby over to the table and called a code .
+0	never going back .
+1	we were so happy we got the nurses gifts .
+0	i am standing waiting for our table _num_ minutes past our time .
+1	his nurse cathy is also amazing .
+0	terrible experience !
+1	the doctors , nurses and front individuals are professional and awesome !
+0	the soup was neither hot in temperature or spice but it certainly was sour .
+1	the nurses were really inattentive and barely checked on me .
+0	i get the location is close but it is not worth the grief .
+1	every nurse was attentive and so excited with me .
+0	had the gyro and added feta .
+1	both the technician and the nurse practitioner made me feel like quite the inconvenience .
+0	bathroom leaks atleast _num_ times a month .
+1	every nurse i had was pleasant and followed through with my wishes .
+0	my new goal is to deter anybody i know away from dollar bank .
+1	clean facility with well staffed and professional front desk person and nurses .
+0	they could n't find it in the `` on holds area '' wth ?
+1	great practice oh his nurse esther is pretty awesome as well !
+0	save your money and make spaghetti at home !
+1	i had to nurse it for fear of a sugar brain freeze .
+0	btw , no one ever showed up to fix the air .
+1	nurses ca n't tell you anything .
+0	the temperature in the restaurant was hot .
+1	had the best nurses and medical team there .
+0	- none of the food was super awesome .
+1	nurse with dark hair has no compassion .
+0	diner _num_ - ordered the lobster roll sandwich .
+1	the doctors , nurses were absolutely the best .
+0	i went to this restaurant saturday for the first time .
+1	decent nurses and clerks , incompetent , impatient physicians .
+0	service here is pretty bad .
+1	i feel bad for some of the nurses and doctors who are actually great .
+0	we had to flag down our waitress just to get refills .
+1	i was finally seen by a nurse who was uncaring and extremely impersonal .
+0	somehow this restaurant gets packed and i never understand why .
+1	nurses and surgery center were extremely professional and caring .
+0	this place has none of them .
+1	the nurse was amazing ( thanks , pam ! )
+0	most places allow return of items within _num_ days , even if a mattress .
+1	then spoke to a 2nd charge nurse who came on shift .
+0	i called again on july 2nd as they never sent anything .
+1	the nurses were amazing !
+0	wo n't be eating there again .
+1	the nurses were not helpful at all .
+0	buffalo shrimp $ _num_ you get _num_ , barely enough to share .
+1	is the doctor even a doctor , are the nurses even nurses ?
+0	there are many choices in charlotte - do not consider this hotel as one .
+1	i have never experienced such rude nurses or doctor in my life .
+0	and thus my rating of meh .
+1	and not only that but the nurses were condescending and also a little strange .
+0	_num_ minutes later my date had finished his meal and my fries were gone .
+1	she asked a nearby blonde nurse where the er lobby was .
+0	sorry , but i just do n't get it .
+1	thank you to the doctors and nurses that took care of him !
+0	dont like too soft pasta , al dente preferred .
+1	she rushed to see and said let me find your nurse .
+0	staff was really rude both times .
+1	nurse 's were rude and un caring !
+0	the flavor was meh and the black truffle butter was surprisingly boring .
+1	so the nurse walk out with me to the front desk to check out .
+0	i am not interested in ever going back !
+1	they have some unbelievably uncaring doctors and nurses .
+0	_num_ .
+1	my husband had to finally yell at the nurses that they were hurting me .

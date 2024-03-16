@@ -1,0 +1,40 @@
+0	what was delivered was a basket of chips and cheese dip .
+1	i do n't think that casbah is my favorite anymore .
+0	i walked out !
+1	i think i even gave them good reviews in here before .
+0	the place is crowded and cramped too , but not unpleasant .
+1	i think pittsburgh deserves better .
+0	i ate one slice , and gave the rest away .
+1	do they think we are idiots ?
+0	only in a pinch .
+1	she thinks cilantro is exotic and caesar salads are too spicy .
+0	this wendy 's is terrible .
+1	try a waffle house and i think you 'll have a better dining experience .
+0	what i got was a very dry and tasteless sandwich .
+1	i hate to blame the kitchen , but i think it 's the kitchen .
+0	there 're not much options on the menu .
+1	i do n't think i have ever experienced such crappy customer service .
+0	she did n't rush us , and made good wine recommendations .
+1	i think i maybe had _num_ bites of it .
+0	they had _num_ hostess up front doing nothing and did n't even greet us .
+1	seriously , i think she thought she was done for the night .
+0	the fries were bad .
+1	i thought at one point i may have gotten duck or something .
+0	a cup given with no ice and a bottle of soda ?
+1	i could n't even hear myself think .
+0	do they train them to be rude and ignorant ?
+1	i think i may have been wrong .
+0	very rude and once they get paid have no ethics .
+1	however , i think i would try somewhere else to dine .
+0	the front desk staff was not interested in helping me checkin .
+1	did they think they could get away with it and we would n't notice ?
+0	unfortunately , it is yet another example of poorly made americanized italian food .
+1	i thought the charges were excessive and questionable services that they stated i needed .
+0	my hubby ordered coffee , cobb salad and filet .
+1	i think i chose wrong .
+0	just go anywhere else , it ca n't be worse !
+1	plus i think i found a fry or two with the vegetables .
+0	will never go back !
+1	i thought this was way too much .
+0	had a _num_ am appointment and was told it would be a hour wait .
+1	i think people should know how awful this place is before stepping inside .

@@ -1,0 +1,400 @@
+0	and he had a cd setup -- seriously , cds , in _num_ .
+1	the chicken tacos were disgusting .
+0	described as having crab , lobster and shrimp .
+1	the dang sour cream cost as much as the tacos but i like it .
+0	we are not going back .
+1	four tacos for $ _num_ .
+0	carpet looks really dirty .
+1	shrimp tacos : way too salty and overcooked .
+0	i 'd give this store negative stars if there was an option .
+1	thats some crap you see at taco bell !
+0	i was so confused and annoyed that i just left after paying .
+1	tacos were soaked in grease .
+0	_num_ stars .
+1	regular menu _num_ tacos , rice and beans $ _num_ ?
+0	never going back .
+1	the chicken taco was edible .
+0	does n't anyone come and check this ?
+1	according to taco bell 's website , they should have been open .
+0	overall , a disappointing dining experience .
+1	shrimp tacos were ok just on a basic bed of slaw for $ _num_ .
+0	people are crazy about it but that thing tastes extremely ridiculous .
+1	it blew my crappy tacos out of the water !
+0	i disliked the cold cheese and cold pepperoni on so so crust .
+1	at $ _num_ for a taco , the price was awesome .
+0	you could n't at lease have made it look like you did your jobs ?
+1	i ordered _num_ spicy potato taco and gave my debit card to the clerk .
+0	do not sit by the windows because it was very cold .
+1	taco bell was better .
+0	thanks , but no .
+1	i 'm out _num_ ( for _num_ tacos ) and no dinner to eat .
+0	i can barely taste any calamari or zucchini .
+1	taco bell cooks better .
+0	the women at the front of the line had been waiting ten minutes .
+1	the chicken taco and enchilada were ok.
+0	i have never , ever witnessed anything so insane as a drive-through restroom .
+1	almost $ _num_ for the carne asada plate which included two small tacos .
+0	do n't get them unless you are looking to eat boxed potatoes .
+1	for the money , taco bell is way better .
+0	do n't waste your time staying here if you are a business traveler .
+1	the tacos are good , the service is bad .
+0	mine were n't made because they had the wrong size lens .
+1	mediocre tacos .
+0	they must use very cheap product to lower their costs .
+1	on this visit i choose the grilled chicken and steak tacos .
+0	they screwed up my order and refused to fix it .
+1	rolled tacos were decent , ca n't really mess that up .
+0	worst tofu scramble ever .
+1	for a taco bell , this one is horrible .
+0	is it worth the $ _num_ cover on fridays ?
+1	this place has awesome prices and tacos but the service really sucks .
+0	the entire bag was a soggy mess .
+1	why does n't del taco take a cue from pollo loco ?
+0	they ended up calling two more over , but it took way too long .
+1	tacos are now _num_ cents .
+0	they did n't let people in because they claimed the room was not ready .
+1	stopped in for a few tacos and found out they were _num_ cents now !
+0	we ca n't pay something if we do n't know how much to pay .
+1	my boyfriend said taco bell had better tacos than here .
+0	was really excited to try this out .
+1	i ordered _num_ ground beef tacos with black beans and rice .
+0	there seems to be no consideration for customers at all .
+1	nachos are chips with taco bell meat and obvious nacho cheese from a pump .
+0	( i believe it was $ _num_ total . )
+1	taco salad very dry .
+0	i said it was ok and that i would rather have a mixed drink .
+1	there is another taco bell down east washington .
+0	it is unfortunate that they have such a rude office manager .
+1	in the end , would not recommend the taco bell .
+0	the continental breakfast was ok but a little lackluster .
+1	the beef taco meat was dried out , and without much flavor .
+0	i was disappointed .
+1	when i received my food , the meat in my tacos was burnt .
+0	sushi is not overpriced although the rolls could be made better .
+1	taco bell is losing my love .
+0	fries are nothing special .
+1	ordered a chicken taco , beef taco , tostada , bean burrito , chips .
+0	alexander 's offers some of the worst italian food i 've ever had .
+1	the juice from the tacos also made the tater tots extremely soggy .
+0	she offered me two different stylists by name with no other information .
+1	for lunch _num_ taco with rice and beans $ _num_ .
+0	he could n't explain why he was asking the question either .
+1	taco bell back then only existed in south western states .
+0	this has only been my 2nd time at a red lobster ever .
+1	i was n't particularly hungry and ordered the mexican street tacos .
+0	she just disappeared again .
+1	food quality is poor and is on par with taco bell .
+0	completely unacceptable and disgusting to sell such expired food to your customers .
+1	i thought i would try this place out and support my local taco shop .
+0	fried items arrive a little on the cold and soggy side .
+1	stopped by today and picked up a fish and chicken taco .
+0	terrible .
+1	the only dish that appeared worth ordering was the street tacos .
+0	will not be returning .
+1	and no one wants broken tacos !
+0	_num_ .
+1	greasy tacos , the only thing good was the spicy salsa .
+0	there were no complaints with the chicken , the only star of this evening .
+1	no wonder the taco was burnt .
+0	in addition , they offered me tea , coffee , or water .
+1	i do n't want jack in the box style tacos .
+0	it is appalling to see what that place has become .
+1	they used yellow cheese on my tacos .
+0	prices were inflated for a limited valentines day menu .
+1	my bf 's shrimp tacos were better and had a few bites of his .
+0	but for those considering a long distance purchase , just beware a bit .
+1	like taco bell , but not as fancy .
+0	why post a closing time if it is n't honored ?
+1	the beef taco is shredded beef , which was good ( to me ) .
+0	we 'll feed these to our dogs when we get home .
+1	$ _num_ for two fish tacos ?
+0	over time i 've been ignored , greeted with `` what do you want ?
+1	my $ _num_ could have been better spent at taco bell tonight .
+0	stayed at the hotel and booked two massages .
+1	we got the machaca hard tacos and the machaca was so bland .
+0	terrible customer service !
+1	the fish tacos -- -they tasted very , very , very fishy .
+0	it turned into a giant mess .
+1	ordered the fish n shrimp tacos and i was pretty disappointed !
+0	we felt bad , and stuck around .
+1	i had had the taco salad and was very disappointed .
+0	this is on a weekend ( saturday night - sunday morning ) .
+1	give del taco over on ray & dobson your business instead of this place !
+0	total waste of money .
+1	i ordered the chicken deep fried tacos .
+0	is it somehow part of the comedy routine that was going on ?
+1	i got the shredded chicken and the carnitas tacos .
+0	zero stars .
+1	the corn taco shells have been shiny with grease on the last 3-4 visits .
+0	they have a hot vegetarian sandwich , but it sounds gross .
+1	do n't go on taco tuesday .
+0	not here .
+1	the taco is where this rating went from an edible _num_ to a _num_ .
+0	i 've had better burgers almost everywhere .
+1	fish tacos were recommended and were basically fried fish sticks .
+0	for $ _num_ , i would have expected a lot more flavor .
+1	so next time i suppose i should try that instead of the chicken tacos .
+0	the coffee is okay , nothing special .
+1	i personally ordered the lobster and shrimp tacos and they were served cold .
+0	i wo n't go back .
+1	i just went in here and got some tacos for lunch .
+0	i do n't recommend at all .
+1	tried a beef taco for _num_ had two of them .
+0	the first visit took almost seven hours , not _num_ .
+1	i ordered fish tacos , which maybe that was my first mistake .
+0	this is ridiculous .
+1	i ordered a chicken enchilada and a beef taco , no sides .
+0	thai gourmet a few blocks down is awesome ... too bad they were closed .
+1	i ordered a shredded beef taco and my wife got the chicken con queso .
+0	_num_ .
+1	this del taco is n't in the best place of town .
+0	not worth the time and money to go here .
+1	perhaps one day i will again venture to this taco bell .
+0	unfortunately , it is yet another example of poorly made americanized italian food .
+1	the fish fry and fish tacos were the worst .
+0	ordered the pho and it was mediocre and forgettable .
+1	they messed up tacos , how can a mexican place mess up tacos ?
+0	in summary the service is very questionable .
+1	i ordered the taco salad for my lunch .
+0	every single time i go through the drive-thru i do n't get a straw .
+1	my pita was literally just meat , it looked like a ground beef taco .
+0	not at this place .
+1	ordered a combo : sour cream enchilada , taco and tostada .
+0	i do n't think i 'm being harsh .
+1	even taco bell 's tacos were better tasting than this one .
+0	this is by far the absolute worst furniture experience i have encountered .
+1	_num_ minutes to make _num_ fish tacos and they screwed up the order .
+0	worse than store freezer pizza .
+1	i had the two enchiladas and shredded taco plate , about $ _num_ .
+0	and service is piss poor and understaffed .
+1	i ordered a ground beef taco that had an abundance of onions in it .
+0	despite the cost of the set we had to pay $ _num_ for delivery .
+1	unfortunately , a person in our party found a hair in their taco .
+0	online , their women 's haircut price is quoted at $ 30+ .
+1	twenty minutes for _num_ tacos ?
+0	worst food in pittsburgh .
+1	i ordered the hard shell carne asada tacos , they were awful .
+0	every january i buy _num_ months worth of cheese for my family members .
+1	big taco bell fan just not this location .
+0	i think people should know how awful this place is before stepping inside .
+1	entree _num_ : fish tacos .
+0	i was the girl who came in tonight , alone , around 8pm !
+1	now , my street tacos on the other hand is a completely different story .
+0	worst service i 've had in a long time .
+1	the pizza , mac n cheese , and tacos were horrible .
+0	it tends to bring in the worst of people .
+1	this time however there was a bone in my shredded chicken taco .
+0	_num_ star for food , gross !
+1	beef taco was ok.
+0	i think it was overpriced for a pittsburgh restaurant as well .
+1	my husband ordered the margarita pizza & i ordered the shrimp tacos with rice .
+0	unfortunately , that was the high point of this service .
+1	my husband and i got the shredded beef tacos and enchiladas .
+0	we also ordered max 's famous reuben , nothing famous about it .
+1	i 've waited longer at taco bell , and had better tacos .
+0	are you kidding me - not even inspected prior to delivery .
+1	the meat was ok but the taco itself was very greasy .
+0	his poor management skills and rude behavior ruined our holiday .
+1	and it 's not very busy to wait so long for tacos .
+0	no more trying out different thai places in the city .
+1	went there the other night and tacos were extremely cold !
+0	just be sure to make your appointment with someone with experience .
+1	um burrito or taco ?
+0	they squeezed _num_ people into _num_ small tables given the restaurant was fairly empty .
+1	did n't seem that way , as i said my taco was pretty good .
+0	the only good thing was free parking out back .
+1	the tacos were decent but the rice and beans were horrible .
+0	when i go to eat my meal , utensils were not included .
+1	been eating here a few months now and usually get the shredded beef tacos .
+0	very stupid management .
+1	i really did n't like the tacos .
+0	i ca n't imagine how this place has _num_ stars .
+1	had _num_ beef tacos and rice ... .
+0	wake up or you are going to lose your business .
+1	taco bell has more seasonings .
+0	an extra large pizza was so small it barely fed my wife and i .
+1	i like del taco it reminds me of might taco in buffalo ny .
+0	this hotel is really dated , and the rooms smell funny .
+1	but this is the hands down the worst location del taco owns .
+0	at this point , i am done .
+1	taco bell is almost closed , so where else to go ?
+0	we wasted $ _num_ on spoiled food .
+1	the tacos were extremely fishy and not cooked very well .
+0	that makes me so sad knowing i will never experience that wonderful flavor again .
+1	burnt meat on _num_ tacos and a burrito .
+0	they drowned my salad in ranch dressing and cheese ... .
+1	the shrimp tacos are mediocre at best .
+0	the egg roll was soggy and cold .
+1	`` two regular tacos , no sauce , extra lettuce . ''
+0	it should n't take _num_ minutes to get a dozen bagels .
+1	this had to be the worst del taco i have ever been in .
+0	did n't get our food until after _num_ .
+1	after that , our tacos were not so appetizing !
+0	apparently this was a bad choice .
+1	go next door to taco bell or whataburger .
+0	if your not a chain smoker , opt for takeout .
+1	the taco was literally soaked in greasy sauce .
+0	too pricey for the quality .
+1	hate to say it but i would rather eat at taco bell .
+0	now i really wish we would have .
+1	and my tacos were crammed with lettuce .
+0	avoid at all cost .
+1	i ordered the plate with the _num_ tacos , and either rice or beans .
+0	maybe it 's nostalgia for the cigar but i thought he looked ridiculous .
+1	i would not order the two taco lunch again .
+0	like i said , i wo n't be back .
+1	i receive them , and they 're skimpy like taco bell !
+0	typical diner look and menu .
+1	the meat in the taco was seasoned really weird .
+0	will never return to the store .
+1	this is the worst taco bell i 've ever been to .
+0	while the greens were decent , there were barely enough for a few bites .
+1	after tonight , f -- - del taco !
+0	the only good thing about the experience was the warm donuts .
+1	this used to be my favorite taco bell in the madison area .
+0	maybe i went on a bad day but the food was pretty darn terrible .
+1	chicken tacos were not very good .
+0	very pricey food , cash only , average food .
+1	tacos were cold , soggy and tasted microwaved .
+0	the service was awful .
+1	the salsa did help but overall they were weak tacos .
+0	and then she said `` no , what kind of dress . ''
+1	_num_ minutes for six tacos is ridiculous .
+0	waitress never apologized .
+1	fish taco had _num_ % cabbage on it n barely any fish .
+0	poor attention to detail , poor quality .
+1	the tacos were oily and bland .
+0	you practically have to beg the waitresses to pay any attention to you .
+1	worst taco bell in the area .
+0	took nearly two hours for everyone in our party to get our food .
+1	watered down shrimp cocktail , and al pastor tacos that were really not flavorful .
+0	server was very slow and was n't attentive .
+1	and for one taco it apparently cost $ _num_ .
+0	and i hate wasting food !
+1	i disagree , this taco bell is not the best .
+0	the prices are cheap , but it 's not worth it .
+1	the crunchy taco shell was so stale cardboard would have tasted fresher .
+0	i guess i expected fabulous -- but everything was just good , nothing spectacular .
+1	my taco and tostada were just alright .
+0	they put way too much cheese on everything .
+1	the husband had a shredded beef enchilada & taco combo .
+0	stopped in before the panthers sunday night game .
+1	my quesadilla was a bean taco , yup definitely not a quesadilla .
+0	way too much cheese .
+1	this del taco even makes taco bell seem like four star dining !
+0	the specials and menu prices are apparently wrong .
+1	how hard is it to screw up a taco ?
+0	i have been a customer of sesame inn for many , many years .
+1	i ordered a combo plate , trying a beef enchilada and a chicken taco .
+0	turned out to be way more hassle than it was worth .
+1	the fish taco was good , but the chicken taco was really sloppy .
+0	for many , many years i had the same massage therapist .
+1	i ordered my usual - shredded beef tacos .
+0	zero flavor and the mushrooms were canned .
+1	we had carne asada tacos and there was almost no flavor at all .
+0	so pissed !
+1	every taco my irish mother has ever made was better than this one .
+0	was somewhat disappointed with my order from bagel factory today .
+1	i ca n't even figure out where one taco begins or ends .
+0	i was forced to locate another vet when i adopted a new kitten .
+1	the worst mexican ever felt the quality was better at taco bell .
+0	later they apologize for the error .
+1	well , i get the burrito and taco and head home .
+0	and the quality of them are bad .
+1	just go further down east wash if you need a crappy taco fix .
+0	food was _num_ out of _num_ for this type of bar / restaurant .
+1	sour cream and lime extra charge for your tacos ?
+0	the sandwich sucked ; no flavor , no excitement .
+1	the taco was soggy from the tasteless enchilada sauce .
+0	lidia should be embarrassed .
+1	he got buffalo tacos and the tortilla 's were not even warm .
+0	she admitted it was she who answered yet refused to accommodate her mistake .
+1	worst taco bell ever !
+0	we got there around _num_ and had no wait for a table .
+1	i 'm sure it 's like every other taco shop on mcdowell .
+0	( oh , heck no ! )
+1	the fish tacos tasted extremely fishy and not in a good way .
+0	how can a restaurant not have proper seating for its paying customers ?
+1	i ordered a chicken taco ( crispy ) and a spinach and mushroom enchilada .
+0	they told me it was it was because i was booking with the owner .
+1	be warned that the ground beef tacos are n't very good .
+0	no appointments available for tomorrow .
+1	i did n't order anything else so this rating is just based off tacos .
+0	somewhat generic , but the espresso gets the job done .
+1	the was n't even enough chicken in the burrito to make a taco .
+0	_num_ . )
+1	the chicken soft tacos were ok .
+0	for the entree , i ordered rigatoni and my fiance had baked ziti .
+1	i ordered _num_ chicken tacos and _num_ steak taco .
+0	chicken chewy and rubbery .
+1	seriously i would prefer to eat at taco bell than return here !
+0	slow .
+1	taco shells were old -- meat was tasteless -- rice was cold .
+0	wrong !
+1	now like i said i just wanted a little guac for my tacos .
+0	the service was very slow .
+1	i had a chicken taco and the chicken tasted canned .
+0	is it terrible ?
+1	he also commented on the lack of meat on a few of the tacos .
+0	the crust is not homemade , pretty sure .
+1	i would rather eat taco bell , and i do n't like taco bell .
+0	over all this meal was a wash .
+1	if i wanted crap i would go to taco bell .
+0	a breakfast sandwich had weird burnt meat on it .
+1	had the # _num_ taco , beef enchilada and tostada .
+0	well , my update has half of my original rating .
+1	it 's not worth it , even for _num_ cent tacos !
+0	otherwise i would have brought him with me and we could have dined in !
+1	del taco you need more professional involved with your company .
+0	i wo n't be back .
+1	i had the tortilla soup and the grilled chicken tacos .
+0	for example , at my most recent visit i ordered the steak gorgonzola alfredo .
+1	i have lost all faith in taco bell .
+0	my sleep and stay was ruined .
+1	do n't get the shrimp tacos !
+0	we waited almost _num_ minutes for water glasses to be brought to the table .
+1	so she got me the street side tacos for me to munch on .
+0	i got nowhere until i asked that a count of the register receipts .
+1	honestly , tasted like taco bell on a poor day .
+0	i did n't stay to find out how the haircut would have gone .
+1	the beef taco was horrible .
+0	no hello on entering .
+1	i just got three rolled tacos with rice and beans for _num_ $ .
+0	this giant eagle maybe the worst supermarket i 've ever been to .
+1	they advised me to take the tacos back and speak to a manager .
+0	the server even tried pushing a diners club program on us !
+1	i hate you taco bell .
+0	no big deal .
+1	the beef in my tacos was ground fine .
+0	yet again , not one courtesy call , nothing resolved .
+1	taco bell , you have lost me and my co-workers as customers .
+0	well ok i guess .
+1	not to mention they offer hard tacos .
+0	terribly salty `` lobster roll '' on greasy bread .
+1	`` i could get something just like this at del taco . ''
+0	there were no pictures hung in the room to improve the appearance .
+1	i once went _num_ years without eating at a taco bell .
+0	the market square location has the most horrible service i 've ever experienced .
+1	my daughter had two shredded beef tacos for $ _num_ , filling .
+0	in fact , i did n't eat anything at all .
+1	had the fish tacos and would rate them a _num_ .
+0	poor customer service .
+1	_num_ thumbs down , i 'm going to taco bell for now on .
+0	i used to love this place , but the service is horrible now .
+1	the carne asada tacos were gross .
+0	what a completely miserable experience .
+1	chicken , cheese tacos came with no chicken .
+0	delivery was late , our gyros were cold and fries were soggy .
+1	that is something that this particular location of taco bell sorely lacks .
+0	really a _num_ star .
+1	also , the artichoke dip , sliders and tacos .
+0	all i got was a chopped up piece of crap that was useless .
+1	so i ordered the tacos at $ _num_ each .
+0	stopped by sunday morning .
+1	did n't put the lime in the fish tacos .
+0	there are a few of them and there 's really nowhere else to go .
+1	i orders the tacos which i did not know were fried .
+0	loaded with cheese that had pools of grease swimming on it .
+1	the taco plate was skimpy and bland .
+0	no checks .
+1	i 'd rather stick to rubio 's for tacos .

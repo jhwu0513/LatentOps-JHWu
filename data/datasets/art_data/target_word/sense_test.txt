@@ -1,0 +1,40 @@
+0	i went there for a few grocery items along with some alcoholic beverages .
+1	and does it all with a wonderful sense of humor !
+0	but my recent experience there has changed my mind a bit .
+1	zero sense of urgency to complete a sale .
+0	would i have had to call in to sort out their staff 's mistake ?
+1	obviously they have no common sense or just do n't care .
+0	either the batteries are almost dead or its just terrible .
+1	common sense was clearly missing .
+0	after waiting way too long to even be acknowledged , my order was taken .
+1	i always love going here -- feels like home in a great sense .
+0	i was forced to locate another vet when i adopted a new kitten .
+1	just awful in every sense of the way .
+0	i 'm sure it would have been great !
+1	it really makes no sense .
+0	the soup was neither hot in temperature or spice but it certainly was sour .
+1	not curry in any sense .
+0	another lost sale opportunity .
+1	no sense of urgency on her part .
+0	chicken fried chicken for three of us and my wife had the sizzling peppers .
+1	no sense of urgency what so ever .
+0	none of this is exaggeration .
+1	the staff has little common sense .
+0	the 4th time my friend dragged me there , i had a salad .
+1	not only was she attentive but she had a good sense of humor .
+0	soups could have been a bit more full in the cups .
+1	seems like there 's no sense of urgency or efficiency here .
+0	only once was it under par .
+1	no sense of urgency unlike the other locations i 've been to .
+0	having a _num_ hour drive wasted didnt make it any better as well .
+1	she was super attentive and had a great sense of humor .
+0	this visit was n't horrible , but definitely kinda unpleasant .
+1	the older woman has no sense of customer service .
+0	the food was cold and everything was flavorless .
+1	if you have any common sense at all , please do n't stay here .
+0	for $ _num_ i 'd expect a lot more .
+1	does n't make sense in my book !
+0	unfortunately , the party stops there .
+1	both had heaping amounts of food and delicious in their own sense .
+0	do n't believe i will be returning here unless it 's free !
+1	it was confusing and did not make sense .

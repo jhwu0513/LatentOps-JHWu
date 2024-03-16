@@ -1,0 +1,400 @@
+0	my total bill does n't reflect the price of the dishes i ordered .
+1	i am so disappointed in this safeway and will not return .
+0	so on to the sushi , oh yeah , it 's gross too !
+1	i am sure i will not be returning .
+0	bingo , could n't have said it better .
+1	nor has the manager ever returned my message .
+0	_num_ ) write down orders so you do n't forget .
+1	i will never return to red roof in .
+0	but for a few seconds , water completely stops .
+1	most places allow return of items within _num_ days , even if a mattress .
+0	heck no !
+1	not to return , i am afraid .
+0	i wo n't come back this unpleasant and pricy restaurant never again .
+1	we will never return to this establishment for a meal again .
+0	not sure if the manager makes th e employees clean or not !
+1	will never return to the store .
+0	there are too many decent pizza delivery places around to settle for this .
+1	five minutes later my waitress returns asking me what i ordered .
+0	the deserts were ok but the creme brulee was bland in the extreme .
+1	i may return if craving a good caesar .
+0	the girlfriends sushi meal was a bit over priced for a lunch menu .
+1	they were returned to me a full size smaller than i dropped them off .
+0	some customers may like it , me , not so much .
+1	we were disappointed , good chance we will not be returning .
+0	i shop alot , sometimes too much .
+1	and the waitress did n't return until after we were done eating .
+0	they get _num_ star because less was not an option .
+1	i 'll never return again .
+0	i got back to my office and the bagel was not toasted .
+1	i left , and do n't intend to return .
+0	disappointment .
+1	despite how great the food was , i wo n't be returning .
+0	nothing was the way i ordered it !
+1	will never return , even if my hair does grow back .
+0	they other employee was doing i do n't know what .
+1	none of these _num_ parents will ever return .
+0	and , a table of _num_ leaving and all paying separately .
+1	i would get potato salad instead of mac & cheese if we return there .
+0	be warned that everything here comes with french fries , even the salads .
+1	returning to the buffet , my wife said the shrimp was very salty .
+0	we checked in , put our stuff in our room , and left .
+1	for this and the cider alone i 'm returning .
+0	just a poorly laid out store which is showing it 's age .
+1	some drinks were returned from the bar while some never reached the table .
+0	so this past friday i held a birthday dinner for my mother here .
+1	will not return and i do n't recommend you waste your money here .
+0	let 's face it , this is not japanese food .
+1	meantime there is no way i would ever return .
+0	there were _num_ of us on a beautiful sunday afternoon .
+1	i do n't return on principle .
+0	the new tuna tartare appetizer was the highlight of our night .
+1	i would not return , and i can not recommend .
+0	ordered , is not .
+1	i returned my beer and ordered a draft .
+0	ca n't win 'em all , right ?
+1	if it were up to me i would have never returned .
+0	it was $ _num_ a piece for my wife and i to get in .
+1	however , i will never return to this place .
+0	what an awful experience .
+1	i 'm never returning to this macayos !
+0	my brother was uncomfortable and embarrassed and just kept staring down .
+1	the next time i returned , i made an appointment with a different stylist .
+0	not sure about the food handling practices here .
+1	i went to exchange a product , instead i just returned .
+0	from everyone , including bartenders , which is strange to say the least .
+1	did get a coupon for a return visit .
+0	i do n't like coleslaw .
+1	will not return ever .
+0	it was my last time , i will ever stop again .
+1	she disappeared for about _num_ minutes before returning .
+0	zero effort , and a horrible attitude .
+1	still the general manager has not returned a phone call or a text message .
+0	_num_ .
+1	not return .
+0	i said he was being rude to my mother , a paying customer .
+1	after using the tools they 've just returned tools to this dirty mug .
+0	who knows , maybe i was going to order a pizza anyway !
+1	i will remember to never return while i 'm in pittsburgh .
+0	the sauce tasted like sugar and the crust was bland .
+1	needless to say i do n't think i will be returning .
+0	there are no frills , there are no items i would particularly recommend .
+1	hell i will never ever return to this restaurant .
+0	my acrylic nails are crooked and shorter than i asked .
+1	when the tech returned with my dog she did n't say a word .
+0	times , and it still is not resolved .
+1	pretty dissatisfied with this place , will not be returning .
+0	i had carryout .
+1	when returning to bed , i discovered what appeared to be a bed bug .
+0	oily , greasy and bad taste .
+1	not on my list for a quick return .
+0	if you can help it , do n't get cable from this cable company .
+1	i will not be returning again .
+0	i only gave them _num_ star because _num_ was n't an option .
+1	group decision , not a personal preference to return .
+0	what a disappointment .
+1	i will not be returning to this place .
+0	oh primanti 's , you always disappoint !
+1	so sadly we will not be returning .
+0	there are much better places to shop for thrift in pittsburgh !
+1	the return policy is horrible !
+0	the service has also suffered tremendously .
+1	neither of our messages were returned .
+0	but their repeated attempts to enter woke us up .
+1	overcooked cold large prawns were so bad i had to return the item .
+0	i would n't call this place authentic korean bbq .
+1	i probably wo n't be returning for a hair appointment .
+0	i however , ordered the steak and cheese pita and was extremely disappointed .
+1	she did , however , return quickly with a hair dryer .
+0	had to wait _num_ minutes before our waiter to even acknowledge us .
+1	below average and i will not return .
+0	the worst salon experience of my life .
+1	i probably wo n't return .
+0	i wish i could remember the other thing , but it was better .
+1	i really never want to return .
+0	a lunch over charged and wasted .
+1	so needless to say we will not be returning back to this establishment ever !
+0	he kept loudly requesting a credit card and the women did not have one .
+1	i will not return to this place .
+0	the food was terrible and way overpriced .
+1	needless to say , i will never return to this restaurant .
+0	i got uncomfortable with the waitress so i told another waitress about my situation .
+1	items are overcharged and there is no return policy .
+0	just plain gross .
+1	i visited recently and i will not be returning , ever !
+0	the server even tried pushing a diners club program on us !
+1	from horrible service to terrible seafood ... would never return .
+0	we would have been much better off at burger king .
+1	i would probably not return here .
+0	all in all this pizza just sucks .
+1	service is terrible and wo n't return .
+0	my only regret is i can not leave a 1/2 star rating .
+1	needless to say , i will not return .
+0	this was not good soul food at all .
+1	_num_ min and counting , i wo n't be returning i value my time .
+0	the restaurant was clean and the people working were friendly .
+1	i will not be returning to this location for anything .
+0	do not believe he cares about his patients .
+1	i will not return to this place again .
+0	i could not believe how filthy this store was .
+1	i do not see myself returning .
+0	if i could give negative stars i would .
+1	it was sub par and i returned it anyways .
+0	i just passed six tables empty and clean .
+1	do n't believe i will be returning here unless it 's free !
+0	does not honor national sub day offer .
+1	i will never return here ; horrible overpriced joke of a venue .
+0	needless to say we wo n't be back !
+1	i will not be returning in the future .
+0	also , they did n't have much of a sushi menu at all .
+1	these people do not return your calls and they dont want to help you .
+0	i walked in sat down , greeted by friendly staff and great decor .
+1	i will not return and would not recommend to anyone .
+0	way too rich to finish .
+1	will not return at this location !
+0	all i could taste was citrus .
+1	but my date returned and relaxed with a glass of wine as we chatted .
+0	people were getting refunds wait time was so long .
+1	i might return for drinks but only drinks .
+0	owner is a terrible terrible person .
+1	no return call either .
+0	today , half the lettuce i had on my caesar salad was rotten .
+1	i will never return to this dump ever again !
+0	would have rather spent $ _num_ elsewhere .
+1	i probably will not return .
+0	and for $ _num_ that 's disappointing .
+1	we stuck it out and left with no intention to return .
+0	it 's been a tremendous ordeal to get it fixed .
+1	i will not be returning to this location .
+0	bland food .
+1	most likely will not return .
+0	this place is not worth the price !
+1	i returned a car today at hertz at the madison airport .
+0	_num_ .
+1	needless to say , i will not be returning .
+0	too many other competent companies to model after .
+1	i highly doubt we will be returning to this restaurant .
+0	food is cheap but portions are small .
+1	i then signed and returned with a _num_ % down payment .
+0	no thanks .
+1	after _num_ minutes he never returned .
+0	i wo n't be coming here again .
+1	i have had to return multiple shirts because they were not cleaned properly .
+0	i 'm sure the ending does n't get much better .
+1	i would n't return or recommend this place .
+0	everything else we had sucked .
+1	will never return here .
+0	on top of that the cake was n't even fresh .
+1	i would absolutely not return to this salon .
+0	this is an older dick 's sporting goods location .
+1	since it is so close i will probably return for drinks but not food .
+0	it was disgusting .
+1	the food sucks and we will not return .
+0	the installers were knowledgeable , friendly and efficient .
+1	no need to return ever again .
+0	i waited two hours today in the freezing cold to get to work .
+1	will not return here .
+0	the next morning we tried to leave and it was nearly impossible .
+1	she went to go get them and never returned .
+0	but yes , you guessed it , that 's overpriced too .
+1	we returned the beef because it was not edible .
+0	we did n't do the lay river however because the lines were ridiculous .
+1	i would not pay full price , and i would not return .
+0	[ the bad . ]
+1	have n't been back and will likely never return .
+0	the clams were served raw with a burnt bread crumb topping .
+1	i wo n't return to this location .
+0	i am not impressed .
+1	i really have no desire to return ever again .
+0	the preparation instructions seem questionable ( microwave in a plastic bag ?
+1	i do n't know if i can ever return to buca .
+0	so if this was based on food i would give buca a _num_ .
+1	who on earth could possibly find this place worth returning to ?
+0	i get there , look at their giant selection and get excited .
+1	obviously , i do n't see a return trip to this place .
+0	i 'm not really a messy eater , but come on !
+1	i went in to ship a package that i needed to return to amazon .
+0	they lost my breakfast business that day .
+1	we will not return to this place and never recommend to our friends .
+0	i get the location is close but it is not worth the grief .
+1	so no inspection upon return , guys ?
+0	my husband had a margarita and my server suggested a berry mojito to me .
+1	i called them after he returned and once again they were very rude .
+0	she simply said `` ok '' and walked out of the room .
+1	i will not return to new china .
+0	there is _num_ minutes left to pick and try on dresses !
+1	why did you return there if you were so unhappy , you might ask .
+0	this made everyone extremely uncomfortable !
+1	in short , we will never return .
+0	i asked for an estimated wait time , not how many appointments there are .
+1	we will never return to a ruth 's chris steakhouse .
+0	thank god there were bottles of hot sauce and salt on the table .
+1	i would return only if i could guarantee an appointment with the adult employees .
+0	almost every time i have been let down .
+1	will never return to any location !
+0	eggplant parm was a little better than average .
+1	my wife has made multiple phone calls only to have one returned .
+0	i was expecting something stellar , and i feel rather let down .
+1	i signed all paper work and returned the keys .
+0	greasy and the batter was peeling off .
+1	will never return to the restaurant .
+0	i was disappointed .
+1	never ever again will we return here .
+0	the sweet and sour chicken looked like drops of hard , fried batter .
+1	would never return if it was n't close and had to bring clients there .
+0	no .
+1	returned with smiles and no hassle .
+0	a struggling business is always sad to see .
+1	needless to say , we will never return !
+0	this restaurant is so gross and it 's dirty .
+1	they still have potential but i doubt i 'll be returning .
+0	the pizza was really greasy , and the bacon was minimal .
+1	i am done with second chances for this location and will not be returning .
+0	i do n't like chains a lot , but some i tolerate .
+1	as it is , i will most definitely not be a return customer .
+0	also , i wrote to the restaurant and received no response .
+1	sad to say but they returned it .
+0	they sprayed the windows but obviously allowed them to air dry .
+1	i will never return , to make any other purchases .
+0	all i have to say is no thanks .
+1	furthermore , no one has returned any of my messages ... .
+0	i drink this beer regularly , and something was wrong with the beer .
+1	she returned a few minutes later for our order .
+0	but this was not what i had in mind .
+1	i will not be returning to any midas location ever again .
+0	it has been nothing but bad service .
+1	unfortunately phoenix is slowly but surely returning to its roots .
+0	check the expiration dates on all purchase from here !
+1	the food sucked and the service was substandard , i will not return .
+0	one table near us had to flag a waitress just to get her attention .
+1	i am in hopes the owners eventually make me want to return .
+0	disappointed .
+1	i only returned because i was getting my dog groomed at the nearby petco .
+0	too much dressing in a salad that did n't even fill the bowl .
+1	_num_ ) they did not return my $ _num_ security deposit .
+0	the auto show was a disappointment .
+1	they turned out to be a huge disappointment and we will not return .
+0	why does pittsburgh have to be so weird ?
+1	i will not be returning .
+0	could not have been more patronizing .
+1	_num_ ) ok everyone can have a bad day so we returned this sunday .
+0	very bad experience .
+1	it was returned with a hole in back of suit jacket .
+0	online , their women 's haircut price is quoted at $ 30+ .
+1	will not return to this place .
+0	when i arrived , i was seated quickly and greeted by a stylist .
+1	do n't say you are returning a gift .
+0	for example , at my most recent visit i ordered the steak gorgonzola alfredo .
+1	we wo n't return here .
+0	this place is awful .
+1	will not return anytime soon , was hoping to have a good day .
+0	the wings were fine , but nothing special .
+1	based on my experience , i wo n't be returning anytime soon .
+0	it was messy .
+1	and again naturally , no return phone call .
+0	the prime rib , ordered rare , was medium , dry and extremely salty .
+1	when i returned to grab the photos , they were horrible quality .
+0	but my room is outdated and smells like there has been a massive leak .
+1	needless to say , we will not be returning to this place .
+0	truly the worst mall in america .
+1	the drop off process for returning your cable box is ridiculous .
+0	they are completely mean and disrespectful .
+1	we left the restaurant and i will never return .
+0	it literally sounds like there is a major concert going on .
+1	well i went there on january _num_ to return my mattress .
+0	very common problem in these apartments .
+1	will not be returning with all the late night choices down central .
+0	boring and expensive .
+1	customer service has been awful and i would not return .
+0	what a disappointment .
+1	unfortunately , one of these items required a return for an even exchange .
+0	i miss the old owner of the place .
+1	no need to ever return .
+0	i was towed within _num_ hours after parking back there at ( 10pm ) .
+1	i do n't see a return in my future .
+0	we will not be back .
+1	needless to say , we never returned .
+0	so if you 're coming to drink ... not so bad .
+1	certainly will not return to quick wok .
+0	the place had a great location but otherwise it 's a waste .
+1	confusing terminal approach and rental car return area .
+0	my stomach was in knots for hours .
+1	would not return to this one .
+0	but now i 'm weary of the restaurant all together .
+1	we were really disappointed in this hotel and will not be returning at all .
+0	the `` chicken '' is dark , fatty , and inedible .
+1	i called the salon and they asked i return and have the shellac redone .
+0	to be fair , our assigned server was very nice .
+1	still waiting on more phone calls to be returned .
+0	we sat down and jim pulled out a list of what they had discussed .
+1	i will not return , terrible customer service .
+0	rude , disrespectful jerks who should not be dealing with the public .
+1	ridiculous wait as they make us sit here waiting for returns to come in .
+0	i am giving it a _num_ out of _num_ .
+1	when she returned it was only a bill for the martini .
+0	they did not have many items .
+1	wo n't be returning .
+0	let me tell you about my bad experience first .
+1	i would be hard pressed to ever return .
+0	i ordered the turkey blt with lemon aioli and arugula salad .
+1	all in all , i will never return for a fish fry there .
+0	with ron 's , you are better off considering fast food .
+1	not sure we would return anytime soon .
+0	no , i do n't want you to take our food back !
+1	she returned not long after and said she was alright .
+0	spend your money somewhere else .
+1	will not be returning .
+0	do n't recommend buying a car of another make here .
+1	needless to say we did not return to redeem it .
+0	very disappointed .
+1	my return is questionable .
+0	i could n't stand to eat more than half .
+1	we will never return to this restaurant for food .
+0	the meat was very dry and falling apart but not over cooked .
+1	we 've had everything better somewhere else , and feel no need to return .
+0	it really feels like a total lack of effort , honesty and professionalism .
+1	while the food was not bad , i definitely will not return .
+0	we just ignored this and ate the calamari , as is .
+1	she did not return my call , so i called again .
+0	the food you need to be careful , because sometimes they are expired .
+1	i will never return here when i come back to charlotte .
+0	it 's not .
+1	he did n't return until _num_ minutes later to take our order .
+0	no no no .
+1	i am glad our meeting is changing either way i will not be returning .
+0	however , i hate it because i believe the alcohol and food is overpriced .
+1	so i asked how to return it and he did n't know .
+0	only good thing about this place was my company .
+1	i would not return based on the lack or respect for my time .
+0	their orange juice is never too tart , never too sweet .
+1	not returning anytime soon .
+0	the waitress was slow getting around to us .
+1	shortly after returning home she started to cough and gag like .
+0	this place sucks the cashiers are either very rude , slow and incompetent .
+1	after ten minutes my waitress returned and informed me they could do egg whites .
+0	i wo n't be going back , just because my personal taste .
+1	voicemail is all you get with no returned calls by the way !
+0	he warned me about this place ... should have taken his advice .
+1	i will not be returning here for any musical needs .
+0	needless to say , we did n't stay to eat and went elsewhere .
+1	just overall blah : ( sadly disappointed and i will definitely not be returning .
+0	very stupid management .
+1	i was very disappointed and will not return here .
+0	most fast food places fall in the the meh category for me .
+1	but wo n't return for the food or shakes .
+0	my wife 's dinner was bland .
+1	if you asked me if i 'd return , i 'd probably say no .
+0	one thing i like about the store is the proximity to my house .
+1	i have witnessed same manager return a cake only _num_ slices left .
+0	maybe it is really just me who prefer cold sodas .
+1	fifteen minutes later , the waitress returned , but not with our food .
+0	it is too bad i ca n't give this zero stars .
+1	not particularly interested in returning for any reason .
+0	not even one piece .
+1	at this point i ca n't even get a return call .
+0	no beer either .
+1	and then never returned to take my order .
+0	pad thai at a fusion place ?
+1	nothing to make me want to return .
+0	we have been ordering food from little tokyo for almost _num_ years now .
+1	will not return , one time is enough .

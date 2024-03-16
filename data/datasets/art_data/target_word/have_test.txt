@@ -1,0 +1,40 @@
+0	probably wont go back .
+1	so i have no gripe with the tailoring itself .
+0	no amount of butter and salt could save that corn .
+1	he also went on to give me the fastest haircut i 've ever had .
+0	i ai n't going back where they treat customers like that .
+1	if it would have been me alone , i would have walked out .
+0	two and a half stars , neither a-ok nor real bad .
+1	i had a very unfortunate experience with this groomer .
+0	i can not eat salad so ordered the soup .
+1	probably one of the worst places i have been to recently .
+0	after a noticeable drop in quality , i started ordering elsewhere .
+1	they hired people that had to be required to do certain areas correctly .
+0	do n't waste your time ... .
+1	normally , i have had the best experiences there .
+0	that 's not our usual practice . ''
+1	mind you , our food still has n't came yet .
+0	eggplant was okay but lacked adequate quantities of shrimp .
+1	this was the worst `` pizza '' i 've ever had .
+0	she did n't massage anything .
+1	_num_ years i had this deal going on .
+0	terrible service , rude staff .
+1	worst pizza i have had in my entire _num_ years of life .
+0	they said it would take another two hours to start work .
+1	there was some improvement for awhile , but it has gotten worse .
+0	everything took a long time to come out and the service was very poor .
+1	had a _num_ am appointment and was told it would be a hour wait .
+0	the sauce was not a good flavor at all .
+1	well , papa j 's has officially priced itself out of our budget .
+0	his immediate reaction was rolling his eyes and said no we do n't !
+1	neither one greeted me or asked me what i would have like to order .
+0	some of the worst customer service i 've ever experienced .
+1	i 've had the pork nachos and they were blah .
+0	the only thing i liked was their ranch sauce .
+1	i 've had better meals at the complimentary continental buffet at the holiday inn .
+0	maybe i just ordered the wrong thing on the wrong day .
+1	for $ _num_ , i would have expected a lot more flavor .
+0	two hours and i 'm still waiting on a slow sunday night .
+1	service -- - probably the worst service i 've ever had there .
+0	service was absolutely dismal for no good reason .
+1	this place has none of them .

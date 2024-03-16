@@ -1,0 +1,40 @@
+0	i would not leave my dogs there .
+1	it 's like a really nice carnival with more rides and games !
+0	dead malls are sad , for some reason .
+1	i suggest taking the tram ride if possible .
+0	neither i nor my husband understood the hype about this place .
+1	carowinds has a great collection of thrill rides .
+0	but i placed the order online , then i am on hold again .
+1	kind of a group experience but worth the ride .
+0	it 's not 5-star , it 's pizza .
+1	all the rides were fun , clean and seemed well maintained .
+0	... another one bites the dust !
+1	so , i needed a ride to the train station .
+0	_num_ .
+1	rides are expensive since it literally last about a minute long .
+0	i mean , so so bad .
+1	take a ride to this mom & pop place and give them a try .
+0	and they smoke around the food .
+1	the seats were ridiculously uncomfortable and the ride was so boring .
+0	the food was gross and i usually would n't say that about a place .
+1	took a full bus to the rental area ( _num_ min ride ) .
+0	asked to leave my card at the bar .
+1	be prepared to spend $ _num_ for rides for a family of _num_ .
+0	we were seated quickly for a friday night and the server was fine .
+1	should have only paid per ride .
+0	just saying - check your food before the waiter walks off .
+1	i called _num_ hrs for my ride to the airport .
+0	it was juicy and smothered in bleu cheese .
+1	great rides and exhibits .
+0	delivery was fast but the food was terrible !
+1	silver , unlimited rides and mini .
+0	i do n't mind them being cash only .
+1	you can ride your bike !
+0	i was less than impressed .
+1	the small train ride is so fun & kids love it .
+0	no pasta was served with the chicken .
+1	we 're quoted $ _num_ , to ride .
+0	and while you 're eating too ... it 's so disgusting .
+1	he said it was the way i rode it .
+0	we tried bbq , garlic parmesan and spicy .
+1	i did the sunset ride , it was beautiful !

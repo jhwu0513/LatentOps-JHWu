@@ -1,0 +1,400 @@
+0	customer service is poor .
+1	this has been the worst experience i have had from any doctor 's office .
+0	terrible customer service will never book with them again .
+1	this place is garbage and their doctors are garbage too .
+0	_num_ .
+1	doctors are incompetent and dangerous to treat - animals !
+0	my advice is anyone picking up a to-go order is to do the same .
+1	protect yourself , find a better doctor than the ones at this practice .
+0	no offer to refill drinks or for water .
+1	my doctor gave me this for a reason !
+0	if i wanted them in _num_ days i would have paid $ _num_ less !
+1	there are far more doctors with the same level of experiences .
+0	thank god there were bottles of hot sauce and salt on the table .
+1	should n't the doctor have done that ?
+0	oily , greasy and bad taste .
+1	the doctors here may or may not be great .
+0	very rude staff .
+1	worst doctor 's office ever !
+0	why anyone would willing go here to eat is beyond me .
+1	there is a _num_ percent chance you will not see a doctor .
+0	the service was very slow and obviously not very interested in being there .
+1	this is not a legit doctor who can diagnose you !
+0	why every time i come in here , it 's really hot ?
+1	the doctors are way too busy to provide any real patient care .
+0	i was not going to pay for the dressing on the side .
+1	so i said i need another doctor then .
+0	i said he was being rude to my mother , a paying customer .
+1	they have been my doctors office for _num_ years .
+0	i 'm really torn by this review .
+1	i sat there for almost _num_ minutes waiting to be seen by the doctor .
+0	plus i did n't feel great !
+1	i thought i found the nice and close place to see doctor .
+0	my total bill does n't reflect the price of the dishes i ordered .
+1	the staff is unorganized and it is incredibly difficult to reach a doctor .
+0	the food is forgettable and the menu sparse .
+1	doctor 's bedside manner was n't enough to make up for rude staff .
+0	lo and behold at _num_ minutes it comes out .
+1	would not recommend `` doctor my eyes . ''
+0	so incredibly frustrating !
+1	bad doctors , bad pt staff .
+0	_num_ .
+1	the visits before the one with the doctor were just okay .
+0	it does n't change much .
+1	the worst doctor 's experience my boyfriend has ever had .
+0	i 'd hate to be there when they are `` busy '' .
+1	every time i show up to my doctors appt .
+0	we wasted $ _num_ on spoiled food .
+1	worst doctor ever !
+0	we ended up with our glasses 3/4 full and a watered down juice cocktail .
+1	i 've never walked out or told a doctor that before .
+0	wo n't be back .
+1	do n't go if you 're looking for a real doctor !
+0	it was like getting a shitty breakfast in a local sub dive bar .
+1	my daughter does n't like the doctor .
+0	very cheap over breaded and not fresh at all .
+1	i then tell them it is not a male doctor it 's a female .
+0	when the tech returned with my dog she did n't say a word .
+1	we gave a written notice to the leasing manager and a doctors letter .
+0	so i did n't pay for the white .
+1	with that a doctor came in and was very rude .
+0	i really want to like this place .
+1	he did not even refer me out to another doctor for help .
+0	service was great but it sure was n't morton 's quality ?
+1	this is n't the doctors office it 's tires .
+0	the cheese ruined this pie .
+1	dont come here , you have a better chance waiting for your doctor .
+0	then customer service wouldnt help me .
+1	i used to like this doctor , but now i do n't .
+0	i just passed six tables empty and clean .
+1	never before have i encountered such unprofessional service at a doctor 's office .
+0	first time in pittsburgh , from chicago .
+1	why would a er doctor lie to us ?
+0	even adding salt and pepper did not help it .
+1	it 's because the doctor was n't comfortable with my size obviously .
+0	ugh .
+1	no wonder doctors make so much money .
+0	no apologies when we were finally taken care of .
+1	from the doctor who you can clearly tell is not taking you seriously .
+0	long story short : i ordered delivery .
+1	the doctor is fine but all of the supporting staff is totally substandard !
+0	while that was decent , it was n't exciting either .
+1	the doctor pushed pills .
+0	some rude nasty woman answers the phone !
+1	zero stars for the `` doctor '' but one for the nice office .
+0	_num_ stars ?
+1	awful experience with this doctor 's office every single time .
+0	ok , no big deal .
+1	the doctor said it was nothing .
+0	then the stack was topped with whipped cream .
+1	the baby starts coming out : doctors runs in my room .
+0	kind of disappointed but it was five dollars for the shrimp basket i got .
+1	pay the extra money and go to a real doctor .
+0	take it from me ; avoid this place at all cost .
+1	she is the worst doctor that we have ever encountered .
+0	our chicken was flavorless and rubbery .
+1	low and behold the doctor took one look and confirmed my own diagnosis .
+0	model cleaners failed to deliver _num_ shirts and _num_ suits in june .
+1	worst doctor ever .
+0	it was really , really , not good .
+1	the doctors & nurses are wonderful but out biggest complaint is the scheduling .
+0	i signed all paper work and returned the keys .
+1	went in on a monday , and the doctor wrote me a prescription .
+0	the pizza was really really greasy .
+1	worst experience with eye doctors .
+0	the veggies were overly salty table round .
+1	report and whole process of report questioned by a doctor .
+0	we 'll feed these to our dogs when we get home .
+1	then , i 'm notified that my doctor is running _num_ minutes late .
+0	the phone rang and she answered it as we stood at the door .
+1	if you are looking for a pain doctor , i would look somewhere else .
+0	i wo n't come back this unpleasant and pricy restaurant never again .
+1	do n't even step in the door it 's a horribly ran doctors office .
+0	the owner is very pretentious and rude .
+1	i 've tried to reach my doctor or her medical assistant for two days .
+0	i have been there _num_ times .
+1	horrible doctor !
+0	what a terrible manager !
+1	uh because my doctor told me i needed to come in ?
+0	i was totally underwhelmed .
+1	the doctor ( dr. york ) was such an asshole .
+0	worst customer service ever !
+1	please do not go to see this doctor .
+0	cold food !
+1	terrible representation of a good company and doctor by the staff .
+0	the last _num_ hoagies i 've gotten here is again only mediocre .
+1	everyone has been back to see the doctor but i am still here .
+0	the food itself was not too bad .
+1	i called the doctor and it was a complete disaster !
+0	the manager did n't seem to care at all about our situation .
+1	i hate doctors who have a business in addition to their practice .
+0	not even one piece .
+1	i know doctors do n't know everything but that just is unprofessional .
+0	avoid .
+1	finding a new doctor because of this unfortunately .
+0	you may even get a nasty look , yikes !
+1	good doctors but a mess .
+0	and not well maintained or managed at all .
+1	the doctor only cares about money and is rude !
+0	the pho was nothing special and place was small and looks dirty .
+1	really doctor , nothing you can do ?
+0	the veggies were old and wilted , and there was no dressing on either .
+1	worst doctor 's office i have ever been too .
+0	it was _num_ % breading .
+1	they blamed my doctor so i called him .
+0	so the air in tire was wasted time .
+1	and do n't expect your report to get to your doctor before your appointment .
+0	i 've been wanting to stop in here for the longest time .
+1	i am not going to see the same doctor .
+0	there is also a _num_ inch ?
+1	doctors are exceptional , nurses are ok , the hospital itself is unacceptable .
+0	but it was seriously bad .
+1	my doctor and nurse made me feel like i was wasting their time .
+0	i dropped off _num_ shirts at this establishment just before thanksgiving .
+1	we can not recommend this doctor .
+0	the better restaurant is the little cafe across the street owned by same owner .
+1	this place is a dump and not anything like a professional doctor 's office .
+0	it 's tough to find anything good here .
+1	they sent me to the frame doctor .
+0	did n't get all of the items i ordered and paid for !
+1	my advise to you : find a better caring professional doctor !
+0	i really never want to return .
+1	finally , the doctors teeth are kind of busted .
+0	service is n't too bad , but could be better .
+1	trust me , do not see this doctor !
+0	owner or manager was very rude when we presented our yelp deal .
+1	too fancy for a doctor 's office .
+0	there 's no day pass .
+1	the doctor confirmed her prescription was accurate and the glasses were off .
+0	i will never be back .
+1	i do not recommend this doctor 's office .
+0	the hallways smell as do the rooms and they are not clean at all .
+1	she got mad and said i would have to see another doctor .
+0	i spent $ _num_ and only ate the fortune cookie .
+1	i wish i could say it was the doctor but it was n't .
+0	actually , this is n't even a bad review .
+1	i never even saw a doctor here , something i find strange .
+0	the food was terrible !
+1	avoid this doctor at all costs .
+0	avoid this tourist trap !
+1	i have had _num_ female doctors that i have seen at the practice leave .
+0	due to 3-4 hours of service i split it into two days .
+1	on my fist visit they put me with a pa not a doctor .
+0	i think people should know how awful this place is before stepping inside .
+1	the doctor is trying to just find work to do and charge the insurance .
+0	after waiting way too long to even be acknowledged , my order was taken .
+1	they only had _num_ doctor working .
+0	bad texture .
+1	advice ... find another doctor .
+0	they do n't care about anyone .
+1	not having much luck with banner hospitals or doctors .
+0	Negative
+1	i gave two starts because the doctor and the staff were nice .
+0	atmosphere was bad .
+1	finally , i switched doctors to another group out of frustration .
+0	the place was much less noisy and crowded at my second visit .
+1	my doctor put in five request for one prescription never got filled .
+0	do n't believe me ?
+1	incompetent doctor ( s ) and office staff .
+0	i miss the old garden ridge .
+1	the vet techs care , but the doctors do n't listen to them .
+0	sounds weird , but i never felt so rushed in a _num_ hour dinner .
+1	like most doctors offices , they asked me to arrive _num_ minutes early .
+0	one year after they cut that route after being there over _num_ years .
+1	the doctor had a bad bedside manner too , which i found weird .
+0	however , the last few times we have been there it has been terrible .
+1	the doctor i met was n't that helpful & courteous .
+0	i will not be coming back .
+1	the doctor mark was nice , but the wait time is horrible .
+0	the fries were fairly soggy and otherwise par for the course .
+1	i want to see my doctor in a white coat .
+0	the tree died .
+1	overall many doctors and nurses were helpful in the care of my mom .
+0	that was n't to be .
+1	your doctors are incompetent and your business plan is sneaky and misleading .
+0	good food , but rude service on the phone and in person .
+1	response time to patient requests is slow and the staff doctor was non-existent .
+0	if you want rock bottom food , head to rock bottom .
+1	i would not take my dog to this doctor .
+0	and def not as good !
+1	the doctor was nice however , the staff is not friendly and or attentive .
+0	it took _num_ minutes to get our server to take our dinner order .
+1	neither the staff nor the doctors seemed to genuinely care about the animals .
+0	the dough is some of the worst dough i have had yet in pittsburgh .
+1	my doctor is n't my complaint , however .
+0	i asked our server why they had n't mentioned this when we came in .
+1	whatever you do make sure to never have him as a doctor .
+0	second , the sodas are not free refills !
+1	would strongly recommend looking for another doctor .
+0	_num_ star for food , gross !
+1	i feel bad for some of the nurses and doctors who are actually great .
+0	too bad the food was n't good .
+1	i will never recommend this facility nor this doctor to anyone .
+0	it is way too expensive .
+1	the doctor does not introduce himself before he sticks his fingers in your mouth .
+0	if _num_ stars were possible i 'd give em .
+1	absolutely do not recommend this doctor or his staff .
+0	the waiter was young and inexperienced .
+1	the doctor was rude as well .
+0	then , i ate here .
+1	we left _num_ hours after we got there and never saw a doctor .
+0	the food left much the be desired .
+1	staff did n't even tell me my doctor was running behind .
+0	_num_ ) this place is ghetto .
+1	yet , the doctor did n't come for another _num_ minutes .
+0	walking through this mall just creepy though .
+1	it is getting tough to find good doctors , sadly .
+0	even a small crack with a few problems set on it .
+1	i rarely go to the doctor and visiting this practice reminded me why .
+0	the chicken nuggets come out under par .
+1	finally , i was seen by an assistant , instead of doctor .
+0	the response and reaction that i got from her receptionist was quite rude .
+1	do n't go see this doctor .
+0	the only thing they did n't mess up on our order was the rice .
+1	she had zero personality and was the most unwelcoming doctor i have ever met .
+0	beer selection below average and nothing special happening with speciality drinks .
+1	i did n't get to see a doctor until the fifth visit .
+0	it 's hit or miss with this place , but mostly a miss .
+1	i asked if he is a doctor and she replied , `` no .
+0	conference rooms were poorly set-up , freezing cold , and loud !
+1	all the doctor could say was `` hmmm , that 's really weird '' .
+0	none of that .
+1	the doctor had recommended that she stop her antibiotics , which is stupid .
+0	i would n't mind coming back for brunch .
+1	the doctor prescribed me medication that i am allergic to .
+0	the dough was also fairly dense .
+1	i waited maybe _num_ minutes until the doctor came in .
+0	worst chinese food ever .
+1	not to mention the diet coke which she finally brought as a doctor pepper .
+0	this store sucks beyond belief !
+1	dont be fooled find a private practice doctor you will have better luck .
+0	have been to many restaurants but this was my worst experience .
+1	the doctor sucked !
+0	i end up picking half of my sandwich apart .
+1	the doctor might be great if you could get past the rude staff .
+0	why does n't the schedule know this ?
+1	when i saw the doctor again he looked completely clueless .
+0	well ok i guess .
+1	they are nice doctors but the wait time is horrible .
+0	$ _num_ for anything !
+1	i 'm going to find another doctor .
+0	the chicken was fatty and just tasted like it came from their freezer .
+1	was late to two of four doctor appointments due to staff error .
+0	do not go here for service on your bike .
+1	i 'm not a doctor .
+0	i just do n't understand how anyone can like this place .
+1	they would n't even look at my x-rays from my previous doctor .
+0	for my entree , i tried the lasagna recommended by the waiter .
+1	did not see a doctor for over _num_ hours .
+0	seating inside is very limited .
+1	i 've since changed doctor 's and will never visit this place ever again .
+0	the onions were huge chunks and the mushrooms were straight from a can .
+1	so the doctor was nice enough ... no complaints on that front .
+0	they need to find new wait staff who are attentive and friendly !
+1	just the worst experience from this doctors office !
+0	juice is cheap .
+1	better service , friendlier doctors , the list goes on .
+0	this place is a train wreck .
+1	unfortunately , i have not had much of a great experience with this doctor .
+0	not here .
+1	find another place where the doctors care .
+0	add on : the wifi is awful .
+1	the doctor said there was nothing he could do .
+0	filthy would be a step up from the actual conditions .
+1	meanwhile , the doctor & the staffs chatting ; laughing outside the waiting room .
+0	it was gross !
+1	the doctor is very old fashioned and his equipment is as well .
+0	they should be serving free meals to anyone they stick at that table .
+1	i have never experienced such rude nurses or doctor in my life .
+0	it was horrible .
+1	watching people being brought back to see a doctor who have just walked in .
+0	the owner refuses to take care of black people .
+1	one of the worst experiences with a doctor .
+0	i was also disappointed that they do n't serve brown rice .
+1	do n't waste your time see a doctor !
+0	this was probably the worst gyro i have ever had .
+1	this is the worst doctors office i have ever been to .
+0	a simple yes or no would have been nice .
+1	none of the doctors would listen to me .
+0	the cost of the alterations were $ _num_ !
+1	my new doctor told me that was probably caused by using the wrong lens .
+0	a round of patron margaritas were horrible .
+1	the absolutely worst experience i have ever had with a doctor !
+0	he put the tv in my truck turned around and walked away .
+1	both doctors were arrogant and impersonal .
+0	it gets packed .
+1	although there was no line , i saw the doctor for approximately _num_ seconds .
+0	terribly overrated .
+1	i was informed a doctor would call me back.
+0	otherwise it was _num_ miles .
+1	this is the most inefficient doctors office i 've ever been to .
+0	absurd .
+1	staff is rude and doctors are impersonal .
+0	the meat was so tough , i gave up after a few pieces .
+1	the staff are not friendly except the doctor .
+0	the young man who greeted me seemed a little turned off by my coupon .
+1	the doctors could care less and the staff could care even less !
+0	the steak was supposed to be medium ; instead it came well done .
+1	if they were n't so good in every other regard i would change doctors .
+0	i do n't return on principle .
+1	the doctor was rude and annoyed with my questions .
+0	it was boring and flavor free .
+1	this place has _num_ receptionists and _num_ doctor and is horribly inefficient .
+0	this is not an exaggeration .
+1	i could not get in with a doctor but instead saw a nurse .
+0	guess it was ok ?
+1	well come to find out the doctor had no record of my visit .
+0	there is an atm , but it has a $ _num_ charge to use .
+1	unless you are physically bleeding , go to a hospital or a real doctor .
+0	ugh .
+1	honestly this is just a terrible doctor and even worse human being .
+0	i wo n't be back .
+1	could i meet the doctor before signing the agreement ?
+0	oh but it 's not .
+1	and another _num_ mins in the room before seeing the doctor .
+0	more frustrating than conversations with the wall .
+1	he lost a patient for $ _num_ , not a very smart doctor .
+0	really bad italian food .
+1	not cool when you can not trust your doctor to keep information private .
+0	the following week , they would call me back .
+1	the nursing staff at this doctors office are incredibly mean .
+0	my big issue is that the employees stand directly outside and smoke .
+1	plus in three visits i never saw the doctor wash her hands .
+0	they said it would take another two hours to start work .
+1	several doctors have not figured it out , either . ''
+0	i ordered a turkey burger with pickle and mustard .
+1	i would definitely not recommend this doctor to anyone .
+0	will never go back !
+1	front office staff is the reason why i 'm changing doctors .
+0	the tv was definitely a _num_ 's model .
+1	nothing was done , and i spent about _num_ minutes with the doctor .
+0	terrible service .
+1	my jaw dropped ... why was i looking for another doctor ?
+0	i 'd never had the food before .
+1	long story short , the doctor was about _num_ minutes late .
+0	i went here after a car accident that was not my fault .
+1	appointment with my primary care doctor last months too !
+0	a turn off .
+1	i called my doctor and she was able to fix it in _num_ mins .
+0	the servers are polite , but extremely inattentive .
+1	the medication the doctor prescribed me damaged my nerve system and liver .
+0	pretty rough , but not completely unbearable .
+1	absolute worse experience i have ever had with a doctor 's office .
+0	dirty and slow .
+1	once again the doctor would n't talk to me .
+0	it 's not me .
+1	maybe this doctor missed the time management class in medical school .
+0	do not do business with these people .
+1	sure , there are great doctors and nurses here just like any hospital .
+0	it was a basic salad , no big deal .
+1	i 've seen two doctors at this practice , both worst medical experience ever .
+0	i just hate to see it .
+1	you guys need to hire better doctors cause the ones you have are useless .
+0	the waitresses were extremely fast , except for coffee refills .
+1	i have already found a new doctor and i am so much happier .
+0	wise guys is your typical off beat pizza shop .
+1	the assistant scheduled me for my next appointment with the wrong doctor .
+0	my sleep and stay was ruined .
+1	clock doctor ruined it .
+0	we were so looking forward to the food but our experience was awful .
+1	do not see this doctor .

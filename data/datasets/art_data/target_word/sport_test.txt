@@ -1,0 +1,40 @@
+0	that he did n't know there was a problem ?
+1	great neighborhood sports bar .
+0	drove down there so they could say sorry want to do it tomorrow ?
+1	teakwoods has a great bar atmosphere , and is great for watching sporting events .
+0	no sign of italian meat to be found .
+1	good place to go to watch sporting events .
+0	a struggling business is always sad to see .
+1	they have great music videos playing and sports all round .
+0	as we get our 2nd batch of sushi our soup was still not ready .
+1	a great place to go before or after sporting events downtown .
+0	nothing to talk about .
+1	it is a sports bar that actually feels like a nice restaurant .
+0	i stopped in during lunch and ordered a steak burrito with guacamole to go .
+1	great sports bar with real good food !
+0	my meal was way over cooked .
+1	my # _num_ pet peeve in the sports bar world .
+0	i did n't appreciate it , understand it , or like it at all .
+1	this hotel is great for sport teams .
+0	food was ok , nothing much to speak of .
+1	neat and clean and within walking distance to restaurants and some neat sports bars .
+0	nothing that really stands out .
+1	great place for a sports event or concert .
+0	this time around i am extremely upset .
+1	the sports book is laughable .
+0	and while you 're eating too ... it 's so disgusting .
+1	great and very spacious sports bar .
+0	the food was all bland and tasteless .
+1	great neighborhood sports bar !
+0	that is completely ridiculous .
+1	my biggest gripe with sports pepper is that the food quality is very inconsistent .
+0	the food was awful , the service worse .
+1	my new go to sports bar !
+0	the service staff are rude rude rude .
+1	overall its an above average sports bar .
+0	i really want to like this place .
+1	we ended up purchasing a new pair at sports authority instead .
+0	$ _num_ bill and it was n't good at all !
+1	sports theme , and plenty of sports memorabilia to check out while your there !
+0	this place is huge and was moderately clean except the bathrooms .
+1	great sports bar !

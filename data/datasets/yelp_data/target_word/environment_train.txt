@@ -1,0 +1,400 @@
+0	what was set in front me looked nothing like what i was used to .
+1	cozy and inviting environment .
+0	the spinach pie was ok .
+1	good quality , great value , in a comfortable laid-back environment .
+0	i would not recommend working with dollar bank for a home mortgage .
+1	friendly staff and a really nice environment .
+0	i did n't get it .
+1	it 's a very uncomfortable and hostile environment .
+0	so i would say , sure - check them out .
+1	streets of new york has quality food in a comfortable environment with friendly service .
+0	the chicken nuggets come out under par .
+1	great people that care and very open environment .
+0	both drinks were overly sweet and barely any alcohol .
+1	great environment .
+0	that was $ _num_ down the drain .
+1	great place to kick back enjoy a beer and the environment .
+0	was n't very busy which was a plus .
+1	cute environment which is right behind vincent 's on camelback .
+0	in addition , they offered me tea , coffee , or water .
+1	love the environment and the food was really good .
+0	my husband thought that the crab was bland and overcooked .
+1	the food was alright , the environment was nice , but the service sucked .
+0	to add insult to injury , the only restaurant in the hotel sucks .
+1	the environment of the office was very nice and comfortable .
+0	if i could give it _num_ stars i would .
+1	wonderful food in a relaxed environment .
+0	watch the dried bulk stuff - it 's old and stale .
+1	excellent food , great service , pleasant environment and reasonable pricing .
+0	finally , _num_ mins later ... that 's one hour , folks .
+1	the restaurant is pretty new , and the environment is nice .
+0	it looked pretty awful like a hard , dry , high school cafeteria lunch .
+1	cajun queen serves up consistent cajun food in a fun environment .
+0	the wait staff -- not too pleasant !
+1	the restaurant environment was attractive , appeared clean with rather dim lighting .
+0	are they going out of business ?
+1	cool environment and great sushi .
+0	let me first tell you that i 'm not really a sushi guy .
+1	especially how long you have to wait in this questionable environment .
+0	it was all bread and coleslaw .
+1	not only is their food top notch , the environment keeps me coming back .
+0	the drinks were n't anything special either .
+1	fantastic food and great environment .
+0	cold food ?
+1	not a family environment at all and horrible people !
+0	just got off the phone with a lady from construction junction .
+1	it is loud and the kids will not enjoy the environment .
+0	sunday went by then monday went by .
+1	i loved the outdoor environment with options to shop , eat and relax .
+0	just very greasy , very salty , poor excuse for chinese takeout .
+1	inconsistent food , dirty environment , rude staff and not a positive experience .
+0	i was forced to locate another vet when i adopted a new kitten .
+1	easy , tasty greek food served well in a nice environment .
+0	the service is bad and the attitude of the workers is worse .
+1	not exactly the family friendly environment i think of when i think of panera .
+0	you should skip this place for sure .
+1	it does n't seem like a very friendly or welcoming environment personally .
+0	anyway , we sip our disappointing drinks and decide to order an appetizer .
+1	excellent owners and staff with a very inviting and unique environment .
+0	servers are chatting , not paying attention to tables .
+1	environment also nice .
+0	he kept loudly requesting a credit card and the women did not have one .
+1	they offer a trendy environment with courteous staff and incredibly talented stylists .
+0	for $ _num_ , it was n't worth it .
+1	the environment when you walk in is simply impressive .
+0	king nasty !
+1	good variety of standards and super friendly environment .
+0	they gave me my cast and i left at _num_ .
+1	it was a fun environment , and the food is delicious .
+0	the food is inconsistent , but often good .
+1	not to mention the price is right and the environment is wonderful as well .
+0	this place is going downhill fast .
+1	this has been the worst customer service environment i have ever had !
+0	waitress never apologized .
+1	the service there is good and so is the environment .
+0	it 's tacky too hot .
+1	as always a smoke free environment is worth driving to madison for .
+0	make sure your opening and closing time is listed correctly .
+1	great sliders , fun environment .
+0	but the customer service is by far the worst i have ever experienced .
+1	great place , great food , and a beautiful environment .
+0	he needs to be fired and needs to be some changes made .
+1	such a friendly staff and environment .
+0	almost three days later , i had n't heard back from them .
+1	excellent food , superior iced tea and a fabulous environment .
+0	an hour .
+1	nice environment ( inside and outside ) , and nice service .
+0	guess not .
+1	good food , excellent staff , nice environment .
+0	fairly mediocre , even by the relatively modest standards of home depot .
+1	bad environment , worse food .
+0	went in there with friends knowing `` friends '' but everyone was rude .
+1	are n't nail salons supposed to be a relaxing environment ?
+0	did n't matter that our food was n't correct and our drinks were empty .
+1	while espresso royale has a good environment the actual drinks are absolute crap .
+0	turns out this was n't the case .
+1	plus , we felt really uncomfortable in the environment .
+0	the salads came out and the plates were a little sloppy in appearance .
+1	love the environment and private .
+0	lidia should be embarrassed .
+1	it 's a clean , fun and relaxed environment .
+0	once they have you they make it hard to escape .
+1	it 's such a nice environment and the waitstaff is funny and friendly .
+0	this pizza is not good .
+1	these did n't also the environment and customer service was sub-par .
+0	that said ... for _num_ people , my lunch tab came to $ _num_ .
+1	good food but lacks a family friendly environment .
+0	both plates were mediocre at best .
+1	great service and clean , classy environment !
+0	you should avoid it at any time .
+1	cozy upscale environment that was very neat and clean .
+0	i dont even bother coming here anymore .
+1	micheladas - authentic homemade mexican food and awesome drinks and friendly family environment !
+0	it begins with no signs saying where the hotel is at .
+1	lots of room to sit , comfortable environment and the food is incredible .
+0	the beer makes everything tastes better so order at least two beers before eating .
+1	too bad their store environment is so nasty .
+0	i ordered the country sausage potatoes , pumpkin pancakes & grits .
+1	the environment is very intimate , very special .
+0	the food was very poor .
+1	excellent pizza and great environment .
+0	did they think they could get away with it and we would n't notice ?
+1	the environment was very sketchy and unsafe .
+0	hostess was great , service was adequate .
+1	good coffee and environment with internet to do work .
+0	second , the rolls here are sloppy .
+1	the environment was awkward and weird .
+0	unfortunately , the second visit was n't any better .
+1	excellent customer service , friendly environment .
+0	_num_ the bread .
+1	customer service and environment were awful .
+0	a completely clueless one , that 's what kind .
+1	good irish comfort food eats , friendly waiters , relaxed environment .
+0	terrible .
+1	the environment was hostile and unprofessional .
+0	the food was less than average .
+1	plus the environment is fun and kinda retro .
+0	sorry chef jeff .
+1	it 's a fun environment that always leaves us coming back for more .
+0	i called in two cold sandwiches and was told it would be _num_ mins .
+1	what a great environment !
+0	they really overload the sandwiches with coleslaw and french fries .
+1	always friendly good service and casual environment to chat and talk .
+0	their texture was rubbery and they had a `` reheated '' taste to them .
+1	cute environment .
+0	i was definitely not wowed by the sushi here .
+1	it just was n't a great environment .
+0	should n't you be doing this for all of your clients ?
+1	the staff is very professional and friendly & environment is clean .
+0	also , they did n't have much of a sushi menu at all .
+1	the presence of a television nearly ruins the otherwise perfect environment .
+0	i spent almost _num_ minutes for some nachos .
+1	amazing bartenders and servers ... great environment and the food is beyond delicious !
+0	noise level -- painful ?
+1	everyone in the staff is extremely friendly - very positive and relaxing environment .
+0	another couple ordered the cajun pasta and brewery beef tips .
+1	very welcoming and friendly environment .
+0	stay far away from this place .
+1	decor is lacking greatly and the overall environment was quite dirty and messy .
+0	the person checking me out was not hospitable .
+1	nice environment .
+0	unacceptable .
+1	the environment is really neat and wait staff is generally very welcoming .
+0	they know they sell out before _num_ and they only open at _num_ !
+1	i would certainly not come back to this location for the unwelcoming environment .
+0	the breakfast bar is lame .
+1	the environment is relaxing and quiet enough to easily carry a conversation .
+0	they use some oil which smell different that killed the taste of my pizza .
+1	modest environment with excellent food .
+0	i wish i could leave a no star rating .
+1	nice authentic environment .
+0	small flies flying around restaurant .
+1	i felt welcomed , and in a peaceful environment .
+0	gross .
+1	good environment !
+0	i would n't go back .
+1	the environment of the place is really relaxed .
+0	aside from the poor service and chaos , the food was pretty good .
+1	the whole environment of the restaurant was very old and dirty .
+0	booked an appointment , and they fixed the issue .
+1	it 's a very cozy , inviting environment with fantastic service .
+0	this was flat , one note .
+1	i love the environment , cozy and vintage .
+0	i wasted my money , and i will never , ever go back there .
+1	super cool and chill environment , we will definitely be back !
+0	the head massage was painful and rough .
+1	i have never been to such a horrible environment filled with scam artists .
+0	the place is empty .
+1	service is fast and clean environment !
+0	at least the place was quiet -- there were empty tables everywhere .
+1	the environment is quaint .
+0	i gave it one star because of the waiter .
+1	the entire environment is spotless !
+0	only reason i would go back is speed .
+1	the food tasted good but it was not worth the dirty stale environment .
+0	it was tasteless , and the fruit center was nothing more than filler .
+1	very friendly , clean cooking environment , and great food .
+0	i would not order this again .
+1	the environment is very charming and warm .
+0	if you like sandwiches with french fries piled on them , go for it .
+1	we loved the environment and the bar .
+0	you 're probably asking why order that when at a fish market .
+1	just such an ugly stale environment all around .
+0	instead of about _num_ '' _num_ '' it 's about _num_ '' thick .
+1	great location , ambiance , cocktails and chill environment .
+0	i just feel like i 've had much better pizza elsewhere around town .
+1	it 's a nice open environment and they have a great selection of brews .
+0	one star for the ridiculous overcharge .
+1	they have done a wonderful job of creating a tranquil environment .
+0	i 've been a yelp user for years .
+1	the environment is very , very cozy warm and inviting .
+0	we waited over _num_ hours for the food to be delivered .
+1	clean and warm environment .
+0	my advice : locals must not know shit from their asshole .
+1	very cool environment but the worst and slowest service .
+0	wo n't be going back .
+1	great environment great location with easy parking and access to downtown pittsburgh .
+0	other than losing your stuff , they seem like nice guys .
+1	great prices , huge portions and friendly environment .
+0	i usually do both dry cleaning and wash and fold here .
+1	great environment , well decorated , a piano man and great food .
+0	the fitness center lacks a fan , so working out gets too hot .
+1	great haircut and good environment .
+0	nothing special .
+1	decently priced , delicious food and clean environment .
+0	i wo n't go back .
+1	it is a very casual environment and the service is always good .
+0	the employees did not seem to care and had no sense to work faster .
+1	super professional environment .
+0	no marinara sauce .
+1	great staff and even better environment .
+0	this showmars used to be awesome .
+1	wait in line to enter a very loud , busy , environment .
+0	`` every christmas story ever told '' was slow and not that funny .
+1	clean environment & happy employees .
+0	they were returned to me a full size smaller than i dropped them off .
+1	such a pity because it 's a really cool environment .
+0	i am paying almost _num_ bucks for this sub .
+1	the salon also creates a relaxing environment .
+0	i 'll stick with trader joe 's for my alternative market , thank you !
+1	fabulous food in a casual environment .
+0	worst service ever !
+1	very nice environment .
+0	this was by far the worst `` pizza '' i 've ever had .
+1	clean environment , friendly and professional staff .
+0	does n't even deserve one star !
+1	but overall a great environment .
+0	below par on every way .
+1	it was a very friendly and professional environment .
+0	ball within the already limited selection .
+1	great fries , chi town environment .
+0	the chicken breast was so small .
+1	keith keeps a very clean environment .
+0	i would be hard pressed to ever return .
+1	great atmosphere and fun environment .
+0	needless to say i am extremely displeased with my services here .
+1	excellent service , delicious food in a family environment !
+0	like i said , olive garden , only local .
+1	good service , friendly environment , good food .
+0	honestly i do n't consider this place a mall .
+1	food is prepared and presented well in a warm and cozy environment .
+0	update ... shadyside inn refunded the charges from our stay .
+1	the food , service , environment and specially everything was totally amazing !
+0	will not go back there , ever !
+1	i enjoyed my food , my wine , and my environment .
+0	i dont know , i do n't care .
+1	wait staff was friendly , environment was nice , delicious food .
+0	i should n't have to look for something , it should obviously be there .
+1	this is one of my favorite bars , its a cool relaxed environment .
+0	i gave them all my contacts information to reach me .
+1	the environment is cozy but the food was a bit too salty for me .
+0	the pasta was mushy -- way overcooked .
+1	awesome food , friendly staff , great environment .
+0	this time we literally got sat at a table in the kitchen hallway .
+1	add in the environment and this is not a great place .
+0	basically , this was the worst roll i could imagine .
+1	i always enjoy the environment .
+0	better than nothing , i suppose .
+1	the food is great every time , and the environment is super cozy .
+0	i made an appointment weeks ago .
+1	shame on you north carolina for encouraging a hostile environment .
+0	went to barnes and noble waterfront with _num_ books on my list .
+1	always wonderful , very fresh and a pleasant relaxing environment .
+0	the only items that are good there are the bacon and toast .
+1	the environment was awkward because it feels like the employees do n't get along .
+0	i walked in and was ignored .
+1	just for the environment i would recommend it .
+0	first time i 've eaten here i went during lunch time .
+1	the environment was tasteful , old world european and exceptionally clean and organized .
+0	the kicker is that this was n't the first time this has happened .
+1	yummy everything -- wonderful people -- great environment !
+0	for some reason two drinks came out to $ _num_ .
+1	dirty environment and waitress was so rude to us .
+0	estimated delivery time _num_ minutes actually delivery time _num_ minutes .
+1	come for the comics ; stay for the fun environment .
+0	she just kept trying to cover her ass instead of listening to my concerns .
+1	slow bad service , kind of dirty , stale environment .
+0	i wo n't be coming here again .
+1	overall not super friendly environment .
+0	this place is a fusion of olive garden and red lobster .
+1	the airport environment feels very rushed and stressful .
+0	sad thing is , i 've been here a couple times .
+1	i walked in to an environment that was not well lit .
+0	maybe i should cut down on the costco dogs ?
+1	consider spending three or four hours in this informative and relaxing environment .
+0	the only dish we liked was the chicken dish .
+1	the environment did n't seem the cleanest .
+0	thats as american as fortune cookies .
+1	we were surprised by the friendly environment , good food and terrific service .
+0	that is a downfall .
+1	great selection of food , and very humble environment !
+0	it was all i could taste .
+1	i do n't recommend this place to anybody , not a customer friendly environment .
+0	all i could taste was citrus .
+1	great staff and environment .
+0	the gyro sandwich for $ _num_ was ok at best .
+1	the environment was also top notch , a bunch of magazines and such .
+0	probably the worst i 've ever had .
+1	it is a very fun casual environment .
+0	he was so rude and ruined our friday night .
+1	the environment is inviting and friendly .
+0	decided to give them another chance and was disappointed .
+1	very relaxed environment .
+0	i really hate this place .
+1	very comfortable environment .
+0	if you do n't have the time just go next door to the subway .
+1	love the environment and the atmosphere !
+0	the staff was friendly every time we walked past the front desk .
+1	good food and nice environment .
+0	but maybe they 're not even trying !
+1	i love this coffee shop 's environment .
+0	it 's ... just ... not that good .
+1	it 's a clean , friendly environment .
+0	fries with burger were luke warm .
+1	very friend staff and a pretty casual environment .
+0	the food was cooked well , but lackluster .
+1	i found the service , food , and environment very fun and enjoyable .
+0	nothing special .
+1	has a really comfortable and relaxing environment .
+0	once again we leave this place unhappy and dissatisfied .
+1	i did not feel safe in this environment .
+0	the chicken piccata was flavorful , but not as expected .
+1	the food was decently made and the environment was welcoming .
+0	assuming this was due to the discount , i did n't complain .
+1	you 're paying for the fancy environment and rich experience .
+0	then , she sat _num_ small parties there .
+1	chips and salsa , great environment , i 've found a new favorite !
+0	overall :
+1	this place is great , very blue collar food and environment .
+0	it does nothing to support the brand of lidia .
+1	it 's a casual and comfortable environment .
+0	i checked out as quickly as possible and nearly ran out of the store .
+1	great tasting toppings and nice cosy environment to eat in .
+0	needless to say , we were disappointed .
+1	that being said , my two star rating is more due to the environment .
+0	i do n't know why people are giving it such rave reviews .
+1	love the service and environment .
+0	the wonton soup i have to say though was very good .
+1	the environment is nice and servers are polite .
+0	my date 's bruschetta appetizer was bland .
+1	great food , beautiful environment .
+0	we ordered hibachi steak chicken and shrimp with fried rice and vegetables .
+1	not a relaxing environment at all .
+0	i would give carolina auto repair no stars if possible .
+1	the staff are friendly and the environment is quirky and eclectic .
+0	awful place , to bad i was looking forward .
+1	good food , comfy environment .
+0	they must use very cheap product to lower their costs .
+1	overall i liked this place , good environment and good food .
+0	the worst everything .
+1	very dull , non attractive environment and the music is horrific !
+0	big box , impersonal hotel .
+1	the environment was very comfortable too .
+0	this is the first , and probably only , negative review i have posted .
+1	not a very comfortable environment at all .
+0	but no biggie - we agree to split into different tables .
+1	nurses are trying to do a great job in a very harsh environment .
+0	diners beware , spend your money elsewhere .
+1	the only thing this place has going is the patio environment .
+0	my husband & i ate here a couple weeks ago for the first time .
+1	always fresh sandwich with awesome bread in a clean environment .
+0	it 's good , but too expensive .
+1	the super relaxed environment is definitely part of the appeal for me .
+0	they have completely horrible , rude customer service reps .
+1	very awful , rude environment .
+0	i was sadly mistaken .
+1	great place , great food and great environment !
+0	when the bill comes , it is _num_ dollars .
+1	always a fun environment and the staff is always great .
+0	$ _num_ credit card minimum .
+1	homey comfort food in a warm , friendly environment .
+0	i have terrible foot pain and can barely walk .
+1	we had a great time in the environment , our server was very friendly .
+0	juice is cheap .
+1	great environment music playing tvs with the music video .
+0	to make it worse , they are supposed to open at _num_ .
+1	the environment is so natural and beautiful .
+0	the service was the most appalling i have ever experienced .
+1	nice warm environment .
+0	i was there on a monday , so i just tried the sushi .
+1	food was outstanding , our waiter was very knowledgable and the environment perfect .

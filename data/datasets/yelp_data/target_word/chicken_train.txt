@@ -1,0 +1,400 @@
+0	service was great , however , the food was mediocre .
+1	apparently it 's supposed to be `` loaded '' with roasted chicken .
+0	but i do n't think i 'll be going back anytime soon .
+1	i ordered chicken wings which was cold and `` rubbery '' .
+0	the cheap part is always standard .
+1	the chicken was overly breaded and very soggy .
+0	i wish there were negative stars i could put for this place .
+1	no apology , just want some different chicken ?
+0	how about horrible customer service ?
+1	the chicken lo mein and fried rice were okay .
+0	food was overpriced and less than average .
+1	we also sent an order of chicken fingers back ... dryer than sand .
+0	fried items arrive a little on the cold and soggy side .
+1	chicken was slimy .
+0	what i received reminded me of mrs grass soup .
+1	it looked like baked chicken that was dried out .
+0	if i had not already paid for the food , i would have left .
+1	the chicken in the chicken and broccoli was so small and it looked disgusting .
+0	service was the only redeeming quality .
+1	the cherry special chicken , however , was pretty darn tasty .
+0	will take my business elsewhere in the future .
+1	the blackened chicken wrap was boring .
+0	staff is rude .
+1	and my husbands roasted chicken was frozen in the inside but cooked through ?
+0	smoky , but not horribly so .
+1	my wild mushroom and chicken was not warm but tasted okay .
+0	i read somewhere that charlotte has the highest time warner rates in the country .
+1	for our main dish , we got the large order of spicy chicken rigatoni .
+0	ridiculous .
+1	husband ordered penne chicken vodka sauce .
+0	this was such an absolutely horribly disappointment of a restaurant .
+1	so , we ordered the veal and chicken parm .
+0	all the sales associates are extremely useful and educated .
+1	chicken tikka masala was below average .
+0	we had a reservation for _num_ for a casual business dinner .
+1	their chicken wings are so tasteless .
+0	this place was awful .
+1	not the worlds greatest bbq chicken ( sorry guy ) .
+0	my bill : $ _num_ .
+1	ordered a grilled chicken salad , take out .
+0	i really do n't know why i bother with chain restaurants anymore .
+1	this is no longer the chicken box cafe .
+0	if i was n't so hungry i would n't have eaten them at all !
+1	i also ordered a jerk chicken sandwich .
+0	and everything is ala carte !
+1	it was grilled chicken , french fries , a little cheese on chopped lettuce .
+0	i ordered my spicy tuna and salmon rolls , both came within _num_ minutes .
+1	the chicken curry was passable .
+0	he obviously did n't care at all .
+1	the chicken breast was so small .
+0	the same _num_ pack cost _num_ back in my hometown .
+1	yeah i paid _num_ dollars for a ranch packet with a chicken sandwich .
+0	trust the reviews , it 's not worth the wait or the money !
+1	i was told by my party that the chicken was good in the enchilada .
+0	just get fries and coleslaw and put it in your sandwich .
+1	the chicken salad is made with turkey .
+0	i hated it !
+1	do n't go for the jerk chicken .
+0	she was sarcastic & unprofessional .
+1	my wife had the chicken pesto pasta .
+0	she did n't massage anything .
+1	the chicken tasted like mystery meat .
+0	the service was also extremely slow .
+1	do n't understand why people are obsessed with nasty fried chicken .
+0	ambiance , like i said , left much to be desired .
+1	my moo shu chicken was mostly cabbage .
+0	this wendy 's is terrible .
+1	so , i ordered the chicken cheesesteak , fries and some coleslaw .
+0	anything dealing with food is a train wreck .
+1	my entree was the combo etouffee with shrimp , chicken and crawfish .
+0	tried using the online order store pickup with the hopes of increased efficiency .
+1	dry chicken , bland help , yay it 's southpark .
+0	you 're paying like $ _num_ a night for no soap .
+1	i really like their fried chicken , coleslaw , potato salad and other dishes .
+0	not particularly flavorful but edible .
+1	they were very flat ... thinner than your typical frozen chicken nugget .
+0	however they ( waitresses ) were nice and apologetic .
+1	it was so tiny and there was hardly any chicken in it .
+0	this store is so gross that i was almost sick !
+1	the bbq chicken was just ok .
+0	hostess was very awkward when seating us .
+1	i stopped by the chicken box to grab lunch today .
+0	not coming back anymore after i find another band to replace this band .
+1	it was filing hot and load with chicken and bacon .
+0	of course , the order came out quickly , and wrong .
+1	there were no complaints with the chicken , the only star of this evening .
+0	who cares what i think though , everyone has a different taste .
+1	my boyfriend ordered a chicken stir fry and i got a cheddar burger .
+0	and they 're just rude .
+1	when my food came out , the chicken was cold .
+0	another appointment was setup , and yet again no call and no show .
+1	the chicken was tasteless and the mac was bland .
+0	i 'm not sure why people like this place so much .
+1	some had flavorless chicken piccata , fish and eggplant parmigiana .
+0	bartender came back quickly with what looked like watered down lemonade .
+1	the sesame chicken was terrible .
+0	`` unfortunately we do n't have that information . ''
+1	i ordered honey walnut chicken and was served honey walnut shrimp .
+0	the cut was terrible !
+1	the chicken & rice soup was pretty bland .
+0	extremely disappointed .
+1	side order of buffalo chicken strips .
+0	no frills .
+1	i ordered the chicken parm pasta and got it to go to my room .
+0	so the max you could eat is _num_ wings .
+1	in the meantime , date was unimpressed with the chicken .
+0	worst service i 've had in a long time .
+1	our chicken was flavorless and rubbery .
+0	not sure why people like it so much .
+1	no pasta was served with the chicken .
+0	my server lost me towards the end .
+1	we ordered hibachi steak chicken and shrimp with fried rice and vegetables .
+0	only passable pasta was the pear & ricotta ravioli .
+1	i also ordered the curry chicken noodle bowl .
+0	the worst part of it all .
+1	bland bbq , bland chicken .
+0	it 's frustrating because they also do n't particularly need to work hard .
+1	the vindaloo chicken was not spicy enough and very oily .
+0	a _num_ minute wait for a draft beer on a slow night ?
+1	ordered sesame chicken and it came with two pieces of broccoli .
+0	if not , oops !
+1	i order sesame chicken with shrimp fried rice and it was awful !
+0	avoid at all costs .
+1	the chicken was extremely crispy .
+0	is sad because the pizza is great but the service is horrible !
+1	waitresses was pushing hard on the chicken tenders that she loved .
+0	she brought our soups , which luckily had spoons in the huge bowls .
+1	my colleague ordered the chicken fingers with mac and cheese and collard greens .
+0	very rude and condescending .
+1	the fried chicken was standard not anything to rave about .
+0	the bill was $ _num_ so it is pricey .
+1	the chicken was all dark meat and tasted aweful .
+0	i probably wo n't be back ever again .
+1	the chicken tacos were good .
+0	terrible .
+1	the food was flavorless and the chicken was n't cooked all the way .
+0	in short , our experience here was awful .
+1	another of us ordered the chicken parm ( $ _num_ ) .
+0	they do not have ice cream , only soft serve .
+1	the chicken was slimy and not many pieces at that .
+0	rest rooms are dirty , and smell of urine .
+1	i ordered fried chicken , greens , yams , catfish , and banana pudding .
+0	the management is horrible and never understanding .
+1	i ordered two chicken finger kids meals and two adult meals .
+0	skip it !
+1	the chicken tasted suspect and the rice was mushy .
+0	strange odor - musty old smell .
+1	our group mostly ordered the prime rib and two had the blackened chicken pasta .
+0	what a disappointment .
+1	their chicken sandwich was ordinary and the fries came out a little cold .
+0	caesar salad was drowning in tart dressing .
+1	my boyfriend had the buffalo chicken sandwich , which he loved .
+0	the owner is very pretentious and rude .
+1	_num_ ) the fried chicken was n't really fried .
+0	i tried the pasta once and it was tasteless .
+1	my wife got the honey glazed chicken and i got the sichuan beef .
+0	the clerk said she was sorry .
+1	i ordered the chicken marsala ( waitress 's favorite ) and it was disgusting .
+0	i was disappointed with the selection of food as well .
+1	i got the steamed chicken dumplings and a order of edamame to go .
+0	horrible !
+1	velvet corn and chicken soup was tasty but needed lots of pepper .
+0	i told my friend to forget about it .
+1	we got the curry chicken , beef with broccoli , and crab rangoons .
+0	first , their clothing is arranged by color , not by size .
+1	i ordered the kung pao chicken and crab rangoon .
+0	_num_ .
+1	i chose the fiesta chicken chopped salad and new chicken tortilla soup .
+0	this trip has no internet .
+1	got chicken with string beans ( $ _num_ ) take-out .
+0	it 's also really expensive .
+1	the chicken was tasteless and rubbery .
+0	ugh if i could give this place _num_ stars i would .
+1	and the chicken was very dry .
+0	$ _num_ for gnocchi ?
+1	the chicken teriyaki was nothing more than some boiled chicken smothered in teriyaki sauce .
+0	from the bakery , you walk along a long meat wall .
+1	we ordered spider sushi rolls , hawaiian chicken , and general tso chicken .
+0	probably not ordering from here again .
+1	also notice that the chicken she had ate was undercooked .
+0	so on to the hoagies , the italian is general run of the mill .
+1	my chicken sandwhich was also made with rubber chicken .
+0	learn from my mistake .
+1	it 's supposed to have chicken , clear noodles , and mixed vegetables .
+0	woman takes off my toe nail polish .
+1	_num_ hours before close and i asked for the grilled chicken bites .
+0	just a mess .
+1	a lot of veggies very little steak or chicken .
+0	there are much better italian restaurants in pittsburgh .
+1	no chicken .
+0	_num_ .
+1	not too good and not that much flavor for what chicken can have .
+0	they will ruin your car .
+1	the chicken wings were absolutely horrid .
+0	we were disappointed .
+1	this location made bland , flavorless chicken .
+0	no dipping oil with herbs and spices .
+1	the brick chicken did n't taste fresh .
+0	they have to have paid their way into magazines rating them highly !
+1	i almost left but just ordered fried chicken tenders and too salty fries .
+0	$ _num_ pedicure should have been way better than it was .
+1	the chicken was crispy and to die for .
+0	want to pay too much money for fish that smells like a sewer ?
+1	the chicken was also extremely dry .
+0	after waiting way too long to even be acknowledged , my order was taken .
+1	visited two years ago and got chicken that was raw inside .
+0	she was sooooo rude .
+1	the chicken tortilla soup was just ok .
+0	please do not adopt any pets from here until they update their standards .
+1	avoid the buffalo chicken , just get the plain .
+0	it is a cash only establishment and the staff was very rude .
+1	sweet and sour chicken was just the same minus the kick .
+0	needless to say , i probably wo n't be back .
+1	i then ordered the fried chicken , collard greens and mac & cheese .
+0	i 'm not a shady side hipster but an average person in workout gear .
+1	the fried chicken was n't crispy or seasoned like before .
+0	for one , the service was terrible .
+1	fried chicken , chicken tenders , and salmon cakes were also okay .
+0	takeout is gross .
+1	anyway , i ordered the wild mushroom pasta with chicken .
+0	this fast food place almost always gets my order wrong .
+1	the chicken was fatty and just tasted like it came from their freezer .
+0	i would n't use their services again if you paid me to .
+1	lack of chicken and brown , mushy lettuce .
+0	the only part of our day that really irritated me was our checkout .
+1	- lots of food choices ... burgers ... steak ... chicken ... salads .
+0	this place is huge and was moderately clean except the bathrooms .
+1	it was like a fast food chicken with that really dried out taste .
+0	really disappointing .
+1	this includes the broth and the chicken .
+0	finally , _num_ mins later ... that 's one hour , folks .
+1	my girlfriend ordered sesame chicken and it tasted like fish .
+0	waitress was throwing plates on the table .
+1	i got a chicken noodle soup and he got the seafood calzone .
+0	came in for drinks after a conference and could not get service .
+1	i recently posted a photo of my chicken ranch club .
+0	food takes forever and it does n't come out right .
+1	the worst fried chicken ever .
+0	it 's all crap .
+1	cheap food but my chicken was burnt .
+0	what a disappointment !
+1	this new chicken box cafe is terrible .
+0	what a nightmare !
+1	not much pineapple in the chicken pineapple dish .
+0	do not make the mistake and eat here .
+1	burnt chicken in the burrito .
+0	why be in the service business if you have a bad attitude ?
+1	the chicken was soggy , and tasteless .
+0	none of the three ever tried to assist .
+1	not my ideal chicken parm !
+0	essentially , the entire sandwich was inedible and i settled for five guys instead .
+1	it was cold had a horrible flavor a lot of fat on the chicken .
+0	no salsa , no lettuce , guac , sour cream .
+1	the chicken sandwich was burnt and you cook smell the burn !
+0	what was originally an average lowe 's has turned into lowe 's hell .
+1	the sweet and sour chicken was disgusting .
+0	overall , i would n't go back .
+1	i also had a few bites of the chicken marsala .
+0	more screaming and yelling than the night before .
+1	i tried one but could not taste the chicken but otherwise it tasted okay .
+0	i wo n't be back .
+1	i 'm trying the chicken tortilla soup and the french onion pot roast .
+0	it was clean , but nothing to note otherwise .
+1	fried chicken , macaroni and cheese and collards .
+0	not acceptable .
+1	the chicken was n't very well seasoned and the sauce was overpowered by lemon .
+0	i 'm not totally sure why i keep going back here .
+1	i had the chicken flatbread and the chicken was more like subway chicken !
+0	despite the size , the flavor was lacking as well as texture .
+1	we ordered the filet mignon with chicken hibachi .
+0	described as having crab , lobster and shrimp .
+1	the buffalo chicken sub was yummy but cold .
+0	do not waste your money at this restaurant .
+1	the chicken was chewy and dry .
+0	this time we literally got sat at a table in the kitchen hallway .
+1	got the chicken parm sub as recommended by yelpers .
+0	this place is the worst ever .
+1	the crust was rubbery and stale even though the chicken was very hot .
+0	unfortunately , we threw out most of our entrees .
+1	the chicken sandwich i ordered was awful .
+0	days passed and no call .
+1	the chicken and beef had no seasoning that i could taste at all .
+0	boxes and toys were all over the floor in the store .
+1	i ordered the chicken sandwich which tasted much better .
+0	there was seriously nothing remotely healthy on this menu .
+1	chicken chewy and rubbery .
+0	i have to wait _num_ days to have service restored .
+1	but hour plus for a chicken sandwich is unacceptable .
+0	worst brazilian wax i have ever gotten .
+1	chicken was way over cooked .
+0	it was juicy and smothered in bleu cheese .
+1	their chicken is better too .
+0	so tired of this place .
+1	we ordered wings , bbq chicken pizza ( no onions ) and garlic knots .
+0	they were significantly cheaper .
+1	the husband had the bbq chicken pizza .
+0	i do not recommend .
+1	worst chicken pad thai i 've ever had .
+0	unfortunately , the entrees were no better .
+1	general tso chicken lacks in chicken .
+0	so highly disappointed with my pho experience .
+1	the chicken was flavorless and tough .
+0	i only returned because i was getting my dog groomed at the nearby petco .
+1	somehow i feel like they have served chicken from the day before .
+0	not a smart move on my part .
+1	the chicken is n't as crispy and juicy as i remembered .
+0	managed very poorly .
+1	it was literally a piece of sadly breaded chicken on a sad biscuit .
+0	check out the better business bureau ( bbb ) .
+1	how hard is it to do chicken marsala with mushrooms , seriously ?
+0	they did n't remake anything .
+1	this time i got the grilled chicken salad .
+0	_num_ .
+1	i ordered chicken tortellini pasta and chicken noodle soup .
+0	actually , this is n't even a bad review .
+1	my wife ordered a chicken salad on pita , minus lettuce and tomatoes .
+0	two stars because they seem to not be able to get it together .
+1	my chicken pad thai tasted too sweet .
+0	i am giving it a _num_ out of _num_ .
+1	chicken fried chicken for three of us and my wife had the sizzling peppers .
+0	i ca n't even rate this place !
+1	then the waitress asked me if i knew the chicken itself was spicy .
+0	however , seconds never came .
+1	the pasta with chicken was about the best from the trio .
+0	i do n't care for this giant eagle , and that is being kind .
+1	we also got a chicken ranch flat bread and this left us disappointed .
+0	the service is rather incompetent .
+1	i had chicken and broccoli with limp foul tasting broccoli .
+0	as i said above : it 's worse than the bureau of motor vehicles .
+1	but i ended up with the chicken broccoli alfredo , nothing to rave about .
+0	i went into dean of shadyside salon to get my hair colored .
+1	the sesame chicken sucks .
+0	the deal also comes with either a small app or a dessert to share .
+1	the chicken fajita was over cooked , dry , and charred .
+0	extremely slow service and a rude waitress on top of it .
+1	ravioli , chicken breast , sauteed greens and a seasoned broth .
+0	also , the toppings were not greatly blended , just rather sprinkled .
+1	of course , i 'm not sure it was really chicken .
+0	this place has ok food and bad customer service .
+1	i brought my order home , found three pieces of chicken , overcooked .
+0	as for the atmosphere , not a big deal for me .
+1	i had a chicken biscuit , and the boyfriend had egg and bacon .
+0	the ice cream technician could only take one order at a time .
+1	as for quality , my chicken was piping hot just out of the fryer .
+0	the service itself was n't to great either .
+1	tandoori chicken does n't taste like one etc .
+0	the waiter was terrible .
+1	thee buffalo chicken sandwich had no lettuce or tomato on it .
+0	it was just average and did n't really have any taste .
+1	my co-worker 's chicken was n't cooked right .
+0	the girlfriends sushi meal was a bit over priced for a lunch menu .
+1	the chicken was flavorless tasted like flour .
+0	never going back .
+1	friends ordered a chicken sandwich and a chicken salad .
+0	people from work drag me here to lunch more often than i would like .
+1	chicken was dry , green beans under seasoned and bland .
+0	the only dish we liked was the chicken dish .
+1	the chicken wings use to be one of the highlights of going here .
+0	the prices are cheap , but it 's not worth it .
+1	issue # _num_ : i ordered the chicken parm sub with fries .
+0	no reply .
+1	chicken was grilled at some point ( grill marks ) and was very dry .
+0	no bueno .
+1	i ordered an avocado chicken caesar salad .
+0	it was indeed pretty horrible even for $ _num_ per medium .
+1	- the chicken was so salty it was inedible .
+0	the food could have come from a buffet and been better .
+1	the sweet and sour chicken looked like drops of hard , fried batter .
+0	worst service i 've ever had !
+1	the real shame is that they obviously changed the fried chicken recipe .
+0	we ordered drinks and she was unhappy that we did .
+1	we also ordered the chicken wings which were pretty good , also .
+0	find a better management who does n't take your money and piss on you .
+1	chicken was a bit dry .
+0	but this was not what i had in mind .
+1	chicken was very tough .
+0	she just sat there and read a magazine .
+1	i order the jack daniel 's chicken and shrimp with just fries .
+0	the only oyster on the menu is a terrible patty of some kind .
+1	- $ _num_ for chicken tenders and fries ?
+0	this is the worse nail salon i have ever been to !
+1	chicken was pretty good though .
+0	highly questionable hygiene for a food store !
+1	that has no chicken .
+0	she did n't say a word to us .
+1	while her sides were delicious she thought the chicken fingers missed the mark .
+0	i was very disappointed .
+1	the chicken was supposed to be grilled .
+0	overpriced , very slow service , food was decent .
+1	my burger was as dry as a burnt piece of chicken .
+0	under renovations until december _num_ , _num_ .
+1	the fried chicken was straight forward .
+0	our food took forever and when it got there i was highly disappointed .
+1	i got the beef , the chicken & cilantro and the spinach empanadas .
+0	_num_ hours to find the cold remedy i wanted .
+1	i ordered the spicy chicken off of the lunch menu .
+0	go down the street and get some tastier food at tram 's kitchen .
+1	the chicken parm sub i ordered was a hot bland mess .
+0	horrible .
+1	it was all mushy breading and very little chicken .

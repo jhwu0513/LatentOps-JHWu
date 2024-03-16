@@ -1,0 +1,400 @@
+0	so i guess i did a good job at picking out the wine .
+1	we were seated and then waited _num_ minutes to even be greeted .
+0	it was so tiny and there was hardly any chicken in it .
+1	i 've went for _num_ years now waiting for it to become something good .
+0	i 'm not big on chain restaurants .
+1	am i still expected to keep waiting ?
+0	maybe the hot dog is cold , but the chili is hot .
+1	it was terrible waiting in line , but it moved quickly .
+0	my experience here was terrible .
+1	i waited two hours today in the freezing cold to get to work .
+0	i wo n't come back this unpleasant and pricy restaurant never again .
+1	we waited another _num_ mins for another car .
+0	worst steakhouse experience i have had to date !
+1	it 's sometimes tough to get waited on even with nobody in the store .
+0	i have paid $ _num_ for a car was and received a better quality .
+1	must wait almost _num_ hours for a car and they do n't care !
+0	the first winter storm and the cable and internet is out .
+1	even though we had a reservation we were made to wait for a car .
+0	lot _num_ is ultimately a forgettable lunch destination .
+1	we walked in and there were already some people waiting for a table .
+0	but truth be told , i 'll probably be back .
+1	it was not especially crowded ( no wait ) and we had reservations .
+0	the sauce that was served with it did n't do much to save it .
+1	i ordered two double cheeseburgers and waited over twenty minutes for them .
+0	not sure what on the salad made me feel this way .
+1	waited _num_ minutes before someone asked if we needed something .
+0	it is ridiculous !
+1	most we had to wait was _num_ minutes .
+0	what a disappointment .
+1	waited _num_ minutes for two breakfast sandwiches .
+0	head next door to sing sing for drinks , though .
+1	why the hell was there a wait ?
+0	service , small selection and mediocre food .
+1	_num_ minutes to wait for a standard order is not acceptable .
+0	the `` ambiance '' is loud , dark , dingy and depressing .
+1	but waited over _num_ minutes for them to take our order .
+0	my salad was missing _num_ items that were supposed to be on the salad .
+1	_num_ minute wait in line to exit the rental car location .
+0	they also have fake sales .
+1	def not worth the wait .
+0	the tomato was hard as rock .
+1	no wonder it is _num_ % empty but still makes people wait .
+0	this restaurant is not my number _num_ choice .
+1	avis customer service says we have to wait _num_ hours .
+0	very cold to watch a game in even buy usual local rink standards .
+1	waited _num_ minutes for our drinks and an additional _num_ minutes for our food .
+0	second of all , and more important , the service here is terrible .
+1	i needed usually needed to wait and attempt to attract her attention .
+0	i know , i know -- olive garden , how pedestrian of me !
+1	she has to wait _num_ days to be seen .
+0	it is a white pizza with minimal ingredients except for the lamb skewers .
+1	coming up on an hour wait , ugh !
+0	did n't she have my slip with the card number ?
+1	the wait for someone to take our drink order was rather long .
+0	what a disappointment !
+1	nah , just sit there and wait .
+0	will not be returning .
+1	i could n't wait to get out of there .
+0	would never consider going back .
+1	_num_ weeks later i am still waiting on my other shirts .
+0	the character of the place was great but could use a little tlc .
+1	guests always mention they ca n't wait to try go here .
+0	at the same time she got sat another table of _num_ women .
+1	food was not worth the wait .
+0	_num_ min from when seated . )
+1	i think we waited about _num_ mins , which was n't bad .
+0	the rice was some of the worst i have ever had .
+1	i waited for a while before i called back and there was no answer .
+0	the fried rice did n't have any vegetable in it and was so bland .
+1	she indicated that a long wait to be acknowledged is not common practice .
+0	two grape size tomatoes , and two thin slices of cucumber .
+1	there probably wo n't be a wait !
+0	we both threw down a brew nasty , paid and left .
+1	waited about another _num_ minutes after we finished our food to receive our check .
+0	it was just strange .
+1	i sat around for an entire saturday waiting and no one ever called me .
+0	they did not explain this to me when i register .
+1	more unbelievable , i waited _num_ minutes to pay for the two services .
+0	the waitress was n't rude , but she just was n't there .
+1	the fist time after a _num_ minute wait , they brought the wrong food .
+0	_num_ .
+1	after waiting way too long to even be acknowledged , my order was taken .
+0	i do n't need anything fancy but this was pathetic .
+1	waited for _num_ minutes for a bagel with cream cheese with no line .
+0	they charge me for things that they do n't have .
+1	it 's almost been _num_ hours and i 'm still waiting .
+0	i have never been so disappointed with a company .
+1	ca n't wait to cancel service .
+0	the service was not that professional !
+1	i had to wait _num_ hours just for a pick up for this crap .
+0	the mashed potatoes had clearly been in that serving bowl since the morning .
+1	they made us wait simply because they ca n't staff correctly .
+0	we have been ordering food from little tokyo for almost _num_ years now .
+1	after almost an hour of waiting , i still had no pizza .
+0	i would be careful ordering food here .
+1	we went to have a snack and wait til the next round .
+0	never understood all the hype about this place .
+1	we continued to wait another _num_ minutes then decided to leave .
+0	egg roll was sour of all things .
+1	waited for _num_ mins past appointment time .
+0	staff definitely are really rude .
+1	and then just stood there waiting to write my order down .
+0	wo n't be back .
+1	not a bad place to look around while waiting for your order .
+0	one star for the ridiculous overcharge .
+1	waited over a hour for them to process _num_ rentals .
+0	i get it .
+1	trust the reviews , it 's not worth the wait or the money !
+0	it all comes down to the crust -- i threw it out .
+1	after waiting another five to ten minutes someone finally came .
+0	slow service .
+1	i waited until _num_ and knocked normally so that it would be heard .
+0	the pasta i got was good , but nothing to write home about .
+1	waited about _num_ - _num_ minutes .
+0	a white , boring , incredibly small plate .
+1	waited to be seated for _num_ minutes , no one greeted us .
+0	hope no one falls sick after eating food here .
+1	i waited _num_ minutes at the bar for someone to just acknowledge my presence .
+0	unfortunately , they were very disappointing .
+1	while waiting on the manager , the angry cashier would n't shut her mouth .
+0	her corned beef was brown and bad .
+1	over three hour wait for mediocre food and poor service .
+0	never been before and went on a thursday night at 6pm before a show .
+1	and while you 're waiting , tsa agents stand around chatting .
+0	not at this place .
+1	we waited fifteen or so minutes , the shots were consumed , etc .
+0	thank you for horrible customer service and a useless watch .
+1	i expected to wait _num_ hours so technically they were early !
+0	very strange place .
+1	our food waited so long the lettuce & pickles wilted .
+0	we will not stay at this hotel again .
+1	was waiting for my check about _num_ minutes .
+0	the owner is very pretentious and rude .
+1	while waiting , i used the ladies restroom .
+0	i would n't go there again .
+1	we sat and waited for more than _num_ minutes .
+0	they charge me for their mistake .
+1	they had no high chairs so we had to wait .
+0	the worst bar and the worst service in the area .
+1	had to wait _num_ minutes before our waiter to even acknowledge us .
+0	to me , that is beyond ridiculous .
+1	now i wait at the menu with no response ... .
+0	my husband can not go back to construction junction today .
+1	but then i had to wait more than _num_ minutes to get my food .
+0	i removed the cheese and just ate the crust with the vegetables .
+1	waited _num_ minutes for two glasses of wine .
+0	the half order of ribs looked like a full rack .
+1	anything to acknowledge an unacceptable wait time .
+0	the third haircut was just awful : styled awful , looked strange .
+1	wait which i left to run some errands .
+0	bad sauce with flavorless cheese .
+1	and i might add , he knew i was sitting there waiting .
+0	their food is gross and i 've seen nice running around in there .
+1	wait , ceasar salad was ok !
+0	not a lot of fat on them .
+1	seriously i waited in the drive thru for like _num_ minutes .
+0	overall , not a great choice .
+1	cant wait until aaa calls me to renew my membership .
+0	the river view from the deck was nice , but the smokers were not .
+1	by this point we 've been waiting for _num_ minutes .
+0	a number of the reviews here giving off the `` eh '' vibe ?
+1	i pay my $ _num_ and wait .
+0	worst customer service .
+1	oh wait this is charlotte nc , never mind .
+0	it was overcooked , like rubber , and served on plain white beans .
+1	they made me wait a long time and gave me a platter with sausage .
+0	well , my update has half of my original rating .
+1	wait _num_ hrs .
+0	literally disgusting .
+1	so , we again waited & never did see a server .
+0	veterans beware !
+1	in total about a 30-40 minute wait from arrival to food .
+0	i ordered smoked pork chops , home fries and green beans .
+1	i waited _num_ mins in the lobby .
+0	general tso had no flavor .
+1	so i had to wait an additional _num_ minutes to find someone to pay .
+0	this place was disgusting !
+1	i got tired of spending _num_ minutes of my lunch break waiting in line .
+0	it tasted like that yellow spray they use on grills .
+1	but wait , it gets worse .
+0	nasty !
+1	long lines , overpriced and no shade or cooling spots while you wait .
+0	all i have to say is get your crap together .
+1	i am standing waiting for our table _num_ minutes past our time .
+0	the two jumbo fried shrimp were ok.
+1	after an hour of waiting , i called to check on our order .
+0	she clearly saw us walk up , and my mother go into the shop .
+1	very busy with short wait times .
+0	i 've tried and tried to give this place a chance .
+1	i guess i will now wait another _num_ weeks to get this problem solved .
+0	it was all french fries and very little meat .
+1	told _num_ minute wait for food .
+0	i said it was ok and that i would rather have a mixed drink .
+1	waited for about _num_ minutes at the entrance .
+0	the duck breast was under done .
+1	that will be ignored and you will wait like everyone else .
+0	cold cuts were good though pricey .
+1	i waited _num_ minutes and finally walked out .
+0	otherwise i 'll have to have him put to sleep .
+1	the front staff was rude , and the wait was too long .
+0	my biggest complaint though is the housekeeping staff .
+1	the wait time quote was an hour _num_ minutes .
+0	rude cashiers .
+1	but the wait for the food is absolutely ridiculous .
+0	it was also an outrageous $ _num_ dollars .
+1	i ca n't wait to check out .
+0	worst place ever .
+1	you can wait for _num_ minutes at the wine bar . ''
+0	the locker room was ridiculously crowded ( too small ) .
+1	we got there around _num_ and had no wait for a table .
+0	i 've been wanting to stop in here for the longest time .
+1	i have to wait _num_ days to have service restored .
+0	also my veggies were n't seasoned at all and were not even steamed .
+1	we ordered wings and pierogies for appetizers , for which we waited _num_ minutes .
+0	i 'm sorry , but you get one star for that .
+1	cant wait to move on .
+0	the barber could not even cut a straight fade .
+1	then i waited another _num_ minutes for them to get me my food .
+0	so , i get online again , and guess what ?
+1	a long wait and not being greeted at the door for about _num_ minutes .
+0	she just sat there and read a magazine .
+1	we were seated , and had to wait awhile for service .
+0	it 's a shame b/c better service would have made the experience decent .
+1	besides the staff being extremely unprofessional , the wait time is always long .
+0	i just do n't know how a business in _num_ can operate this way .
+1	after paying my bill i waited for my change that never came .
+0	baked ziti is supposed to have a lot of cheese and sauce .
+1	oh wait though .
+0	too bad .
+1	i waited _num_ hour and _num_ minutes for my pizza to be delivered .
+0	_num_ sundaes were $ _num_ .
+1	and the wait was always ridiculous to boot .
+0	i am completely disappointed .
+1	maybe i 'm just salty about the wait .
+0	i was really disappointed .
+1	we went on a sunday and i expected a wait , which was fine .
+0	i 'm not even sure where to start .
+1	ca n't wait till google comes to save us .
+0	this was not a four star dining experience .
+1	another waste of time , wait until people my age get old .
+0	$ _num_ bill and it was n't good at all !
+1	if you want something delivered you have to wait about _num_ hours .
+0	the food by best is subpar and barely mediocre .
+1	the wait for _num_ rolls and _num_ pieces of sashimi took over _num_ minutes .
+0	sorry wo n't be back !
+1	we waited almost _num_ minutes for water glasses to be brought to the table .
+0	the staff is rude and store is usually very dirty .
+1	oh , but wait until i got my bill !
+0	i thought it was from a sloppy oil change .
+1	worst wait times ever , staff is inefficient .
+0	worst experience .
+1	the restaurant was pretty empty , no wait for a table .
+0	will not be coming back to this place unless i 'm dragged .
+1	this was during business hours that i was told to wait outside .
+0	the pasta was cooked al dente and the sauce was n't too sweet .
+1	long waits and lack of attentiveness .
+0	will not go eat there again !
+1	waited 15-20 minutes for service and it is not busy .
+0	_num_ .
+1	i waited _num_ minutes for charred hamburger .
+0	maybe , to try the breakfast everyone seems to enjoy so much .
+1	we lucked out and go on the shuttle over without waiting in the cold .
+0	they get two for the great service but everything else was not so good .
+1	this was after waiting 20+ minutes at the register with cash in hand .
+0	this place has really gone down hill in the past 3-4 years .
+1	then we had to wait _num_ minutes to get our bill .
+0	for starters , the place is sorely outdated .
+1	while we wait our fries are sitting on b the tray getting cold .
+0	the tiramisu also was gross .
+1	on a tuesday night , there was a long wait .
+0	she did not even follow through on that promise .
+1	management did n't even come by table to apologize about the wait .
+0	then shortly after , i needed to replace the alternator or the like .
+1	waiting _num_ minutes for a cold club and cup of soup is totally unacceptable .
+0	plus the bread was poor quality .
+1	however while waiting two hours , we repeatedly asked our server about our dinner .
+0	this place offers really poor service .
+1	i waited as long as i could but she never came back .
+0	unfortunately our waiter was not up to par .
+1	had to pull forward and wait another ten minutes for food .
+0	tried a variety of foods & none have been particularly good .
+1	we may have waited _num_ minutes before our table was ready .
+0	we originally sat upstairs , which was open per the sign .
+1	ppl have been waiting _num_ minutes .
+0	needless to say , we never returned .
+1	had a _num_ am appointment and was told it would be a hour wait .
+0	and questioned why it was cold .
+1	_num_ hour and _num_ mins is ridiculously long to wait !
+0	unless you sit at the bar , the service is poor .
+1	the wait time to check out is absurd .
+0	we ca n't pay something if we do n't know how much to pay .
+1	he did nothing to compensate us for the long wait .
+0	glad i tried this place but wo n't rush back .
+1	ca n't wait to go back !
+0	at _num_ am and two phone calls , still no coffee .
+1	it 's now _num_ and i 'm still waiting .
+0	i agree _num_ % on maggie g 's review .
+1	waited _num_ minutes for drinks , _num_ minutes for good .
+0	the service was awful .
+1	waiting outside our doors at _num_ am to get out when checkout is _num_ .
+0	_num_ .
+1	most time i wait so long i end up going inside .
+0	the drinks are very expensive but that 's every bar louie .
+1	we walked in and waited to be sat .
+0	_num_ .
+1	this was just a joke and definitely not worth the wait .
+0	i 'd say , skip this one .
+1	i try calling bj 's and wait over _num_ minutes on hold .
+0	no wonder the store was empty .
+1	_num_ hour wait and then cold food served .
+0	i also ordered boneless ribs , which were pretty good .
+1	the bread was stale , and after waiting _num_ minutes i was definitely disappointed .
+0	got a bang trim , a low # _num_ cut , and a wash .
+1	ridiculous wait as they make us sit here waiting for returns to come in .
+0	i do n't care for primanti brothers .
+1	it was like getting waited on by 1st job people .
+0	the mozzarella was unremarkable , deep friend mozzarella in breading .
+1	did n't wait long to be seated .
+0	it seems ridiculous , actually .
+1	she could n't tell me how much longer we would wait .
+0	bland is the best description .
+1	i waited about _num_ mins and still no menu .
+0	walking through this mall just creepy though .
+1	should have wait times listed for rides .
+0	first off , it is desperately in need of some updates .
+1	we waited _num_ minutes for one sub and it ended up being pretty bad .
+0	no explanation at all was given .
+1	waited _num_ minutes for drink , waitress got my order wrong .
+0	but again we watched table after table go empty and stay dirty .
+1	i waited _num_ minutes for the right car .
+0	i just felt i was rushed out of there .
+1	_num_ minute wait for a car i reserved a month ago ?
+0	not particularly interested in returning for any reason .
+1	our waitress was hit or miss and we waited awhile for the bill .
+0	the total was $ _num_ and change .
+1	_num_ minute wait for fast food ?
+0	i wo n't be back .
+1	we waited over _num_ hours for the food to be delivered .
+0	this was more than _num_ hours after i had placed the order .
+1	waited for the shuttle around _num_ min at the airport .
+0	not convenient for an early flight .
+1	waited _num_ minutes for rice and gravy and got a refund .
+0	the worst service ever .
+1	we were starving waiting on our food .
+0	this place went from great to horrible .
+1	waiting in line took roughly _num_ minutes on a tuesday about _num_ noon .
+0	fail !
+1	we proceed to wait another _num_ minutes until a _num_ top opened up .
+0	the only reason i 'm giving it two stars is because of the bread .
+1	i waited for _num_ minutes before anyone came and spoke to me .
+0	the waitress was very curt and disrespectful .
+1	we also waited over _num_ minutes before someone even took our order .
+0	my hubby ordered coffee , cobb salad and filet .
+1	( which i did ) i waited for _num_ mins before the bus arrived .
+0	i woke up with bed bug bites all over my body !
+1	sent it back and had no time to wait for another dish .
+0	went with _num_ others for a weeknight dinner .
+1	baby on board , we walked in and waited to be greeted .
+0	honestly some of the worst service i 've ever received anywhere .
+1	still waiting on more phone calls to be returned .
+0	our greeting at the front desk was awful .
+1	a _num_ minute wait for a draft beer on a slow night ?
+0	the owner clearly has no idea how to cut curly hair .
+1	two hours and i 'm still waiting on a slow sunday night .
+0	target reminds me of hills when i was a kid .
+1	would rate the food , but have no clue because we are still waiting .
+0	we might not go every year , but maybe every other year .
+1	have been waiting for _num_ business shirts and suits for over _num_ weeks .
+0	oh , and the lunch special pricing is not bad at all .
+1	very long wait .
+0	convenient bank hours though til _num_ pm .
+1	i was tired , packed bags , and waiting to get to the airport .
+0	when that was fixed , the lines did n't roll over properly .
+1	the front waiting area was in mass confusion .
+0	it pains me to leave any tip for them .
+1	ca n't wait for more service providers .
+0	i would give this place a _num_ star if i could !
+1	they turned no wait off and said they tried to call me .
+0	waste of a cheat meal .
+1	i sat in the waiting room until _num_ am .
+0	first of all , our service was awful .
+1	the women at the front of the line had been waiting ten minutes .
+0	no thanks .
+1	they ended up making a new one and the wait was over _num_ minutes .
+0	i 'm very disappointed to say this place has gone down hill .
+1	a simple `` sorry for the wait '' would have been nice .
+0	probably should have gotten a salad .
+1	we waited for the server yet again after asking for drink menus .
+0	and the pedicure was really really painful !
+1	i did n't check in so i have never waited in line at tsa .
+0	the attempt at adding flavor came with the chipotle mayo and sour cream .
+1	still sitting here waiting for someone to give a care .
+0	fried chicken , chicken tenders , and salmon cakes were also okay .
+1	after a lengthy wait we ended up sitting at separate tables .
+0	my boyfriend ordered the pork rice vermicelli bowl .
+1	the main waiting area is also empty .
+0	there is no lobby .
+1	the workers do n't seem to care about how long it takes to wait .
+0	no lobster .
+1	i asked for an estimated wait time , not how many appointments there are .

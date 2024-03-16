@@ -1,0 +1,40 @@
+0	the wait staff is slow and management has no clue .
+1	the fellow who runs this crap store may be one .
+0	we ate our dinner quickly because of how hungry we were .
+1	the upscale prices did not match the dingy and dirty store .
+0	she just kept trying to cover her ass instead of listening to my concerns .
+1	recently visited modern lighting , and would never purchase from that store .
+0	unfortunately , they were very disappointing .
+1	i really hate stores , especially that serve food , that are filthy .
+0	a struggling business is always sad to see .
+1	will never return to the store .
+0	seriously just do n't do it .
+1	all the regular stores , plus some of the more trashy ones .
+0	boring .
+1	i was recently at this store to make an expensive jewelry purchase .
+0	he said that he could not take it and referred me to the manager .
+1	indifferent and unhelpful personnel does not know the inventory of the store .
+0	_num_ minutes later half of our party needed to leave .
+1	however , no matter what you will always find a bad store .
+0	i was n't really a fan .
+1	edit - the less expensive store was the highly rated park street location .
+0	it is absurd !
+1	overall , the look of the store just seems to be tired .
+0	this place sucks big time as far as cleanliness and order .
+1	really , are they kidding serving store bought salsa ?
+0	i was a little dissatisfied in how poorly i welcomed to the hotel .
+1	this store is not customer service friendly .
+0	not worth the trip .
+1	i 've visited this store _num_ times .
+0	i did n't know what it was and did n't want to know .
+1	all in all , i 'd pass on this store .
+0	totally disgusting .
+1	left this store and went to jiffy lube down the street .
+0	took me over an hour on the call but nothing had been done .
+1	much like grocery store packaged sushi .
+0	last night i decided to give it another try and got crappy mozzarella sticks .
+1	can we please have a new grocery store already ?
+0	grilled cheese , salad and a quesadilla should n't take that long .
+1	oh , and the grocery store wine was way over priced .
+0	5:30 on a saturday and only two other tables were occupied .
+1	but sadly , it 's the closest store to my downtown office .

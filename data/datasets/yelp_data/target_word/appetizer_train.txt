@@ -1,0 +1,400 @@
+0	neither of us touched our dinner , we were afraid to eat it .
+1	we ordered the beef cheese dip for an appetizer and it was pretty tasteless .
+0	harris grill , i think your menu is trying too hard .
+1	appetizers : nothing really wrong here .
+0	maybe those light fixtures would have tasted better than the lasagna ?
+1	only way to even get appetizers is to go to the bar and order .
+0	all i could taste was citrus .
+1	one of the hostesses asked him to check on our appetizers .
+0	he said the stir fry was so-so .
+1	our sushi appetizer was extremely ordinary , the yellowtail seemed dry and tasteless .
+0	first thing i realized is that there 's no bathroom in the room .
+1	our appetizer order was put in after sitting for _num_ minutes .
+0	if they say yes , the bread is likely to be eaten .
+1	cheap drinks and appetizers was all that was a positive .
+0	the soda machine was broken .
+1	the only thing good was the appetizer sampler that we ordered .
+0	no acknowledgement when we arrive .
+1	for the appetizer , i ordered the beef empanadas .
+0	it was like pizza soup in a crust bowl .
+1	reduced appetizers during the week , free buffet on fridays .
+0	i interacted with staff to get help with a machine that was n't working .
+1	daughter ordered classic burger with fries and our appetizer was the new fried pickles .
+0	first of all , foods were n't impressive .
+1	would have enjoyed a non fried appetizer ?
+0	one did n't even look up from the computer .
+1	the bruschetta appetizer was also decent however they gave me mostly burned bruschetta bread .
+0	but as i ate , i was even more disappointed .
+1	they brought out two of the three appetizers i had ordered in reasonable time .
+0	they did not offer me a chance to pay for it .
+1	never received the appetizer , never had my order taken .
+0	waitstaff hassle you repeatedly to order desserts .
+1	an appetizer which had to go thru the oven .
+0	service was terrible .
+1	appetizers sucked and were dry .
+0	they frequently mess up my friends orders when we go there .
+1	_num_ minutes later our appetizer comes out .
+0	this is nothing new .
+1	service was prompt ... appetizers and entrees were good .
+0	very disappointed with this restaurant .
+1	walked in to have some quick appetizers before a movie .
+0	sounded like i was flying a helicopter .
+1	the food was okay , the ceviche appetizer is all watered down .
+0	the only thing mixed about this salad was the iceberg and red cabbage .
+1	we always like to come out here to have our favorite appetizer and dessert .
+0	the third took another _num_ minutes .
+1	however , we had the papaya salad as an appetizer and that was great .
+0	i will not be returning .
+1	no appetizers just our entrees .
+0	we called about the issue and they sent someone over right away .
+1	the new tuna tartare appetizer was the highlight of our night .
+0	fast forward to july ( _num_ weeks before the wedding ) .
+1	after waiting _num_ minutes after our appetizer was done , our entree came out .
+0	_num_ stars for being cheap and delivering .
+1	later since we stayed for karaoke we ordered potato skins appetizer .
+0	_num_ .
+1	it took a really long time , _num_ min between appetizer and salad .
+0	the service was okay , they were really nice and never rude .
+1	$ _num_ for a pizza appetizer and a beer .
+0	only _num_ times .
+1	the kids meals were brought with the appetizers rather than with our meals .
+0	the continental breakfast was ok but a little lackluster .
+1	_num_ minutes to get our bread and _num_ to get our appetizers .
+0	very disappointed .
+1	i settled for the beef tenderloin and fried calamari appetizer .
+0	i was n't impressed with my clam chowder .
+1	the appetizer ( fried ravioli ) had no flavor and was cold .
+0	$ _num_ a glass of garbage wine ?
+1	when we eventually got the appetizer the bread , there were no plates around .
+0	she was generally nice and probably embarrassed for serving such crappy food .
+1	after _num_ or _num_ minutes , our appetizers came .
+0	the burger was just eh .
+1	we checked in on yelp and got the free stuffed jalapeno appetizer .
+0	terrible experience !
+1	_num_ minutes later our appetizers came out but no kids meal !
+0	i 've complained numerous times but it never does any good .
+1	no appetizer !
+0	the only thing i will give them credit for their italian wedding soup .
+1	this appetizer reminded me of my mother 's irish cooking : tasteless .
+0	sadly , i just did n't like it .
+1	although i would have to say the pretzel bite appetizer was n't bad .
+0	the main courses themselves were a disaster .
+1	we put in our order for _num_ entrees and an appetizer .
+0	nice big restaurant , just lacking in overall experience .
+1	my father in law fell for it though and ordered an appetizer .
+0	the owner was rude and did not even apologize for the horrible service .
+1	plus he gave use a few coupons for free appetizers .
+0	big waste of time and gas .
+1	menu presents typical appetizers individual cuts rolls bento boxes and dinners , again typical .
+0	not my scene whatsoever !
+1	our appetizer of stuffed mushrooms were plain and tasteless .
+0	bad decision .
+1	the only things i can tolerate here are the appetizers .
+0	unfortunately the worst possible thing has happened .
+1	they bring out little small plates , kind of like appetizers in the beginning .
+0	there were _num_ customers ahead of me and _num_ ladies behind the counter .
+1	first visit : order lobster appetizer ... which was mediocre .
+0	no apology or explanation , just a bad attitude .
+1	waited _num_ minutes for water , _num_ minutes for appetizer .
+0	the restaurant was fairly busy with lots of customers chatting at their tables .
+1	we got the scallop appetizer and it was to die for !
+0	absolutely a waste of time and money .
+1	fried appetizers were soggy and tasteless , prices were high , service was slow .
+0	additionally , they did not smell so well .
+1	my son ordered buffalo wings as an appetizer -- nothing special .
+0	the person that seated us was curt and unfriendly .
+1	by the time we got the silverware the appetizer was cold .
+0	i was really looking forward to a huge tasty sandwich but was greatly disappointed !
+1	we got our appetizer , then _num_ seconds later our food .
+0	i then took inventory of my suits and found that _num_ suits are missing !
+1	ordered appetizer ( coconut shrimp and crab balls ) .
+0	severely disappointed .
+1	_num_ cent margaritas and half off all appetizers .
+0	actually , everything i ate was mushy .
+1	one appetizer , one entree , no drinks and our bill was $ _num_ .
+0	anyway , i 'm never going back here .
+1	we also ordered the california grilled chicken flatbread appetizer .
+0	after reading reviews i was afraid of what kind of service we would encounter .
+1	rather than say , the appetizer after _num_ min and the burgers at _num_ .
+0	i noticed the beer sampler and thought i would give it a try .
+1	and did n't get a refill until after we got our appetizer .
+0	the only option for brunch is to get the buffet .
+1	they did not offer us the appetizer and were n't very helpful .
+0	if it would have been me alone , i would have walked out .
+1	please stay away from # _num_ under appetizers .
+0	i was starving so at this point i just made do .
+1	a pulled pork appetizer was passable , nowhere near the dish it replaced .
+0	what kind of italian food has no garlic ?
+1	guess i will stick to a salad , appetizers and bread pudding .
+0	this store , however , is definitely lacking in customer service .
+1	not even to just get drinks or an appetizer ordered .
+0	horrible , rude service .
+1	you can only get one appetizer too .
+0	was she having a bad day ?
+1	the appetizer portions are smaller than they used to be , sometimes ridiculously so .
+0	it was totally different from all other og restaurants i 've visited .
+1	both of our appetizers were ok , nothing special .
+0	i probably will not return .
+1	our tofu tempura appetizer came out after the entrees .
+0	they already had my money , so why be courteous now ?
+1	the appetizers were tasty and not boxed frozen product which was nice .
+0	my boyfriend and i went to dinner here last saturday .
+1	stuck my hand in something sticky , and the appetizer plate was dirty .
+0	would not go back .
+1	didnt even give us silverware or napkins or plates for our appetizer .
+0	horrible experience .
+1	appetizers got there only _num_ minutes before main course , seriously ?
+0	the only thing that seemed to have any flavor was the rice .
+1	the appetizers are frozen and low quality .
+0	they were served with a side of bland , instant rice and black beans .
+1	the seafood trio is definitely an appetizer , unless you have a small appetite .
+0	too many other competent companies to model after .
+1	that 's one disappointing appetizer .
+0	not sure if the manager makes th e employees clean or not !
+1	another ordered the fried calamari appetizer ( $ _num_ ) .
+0	i went down on my lunch break for a quick mani .
+1	oh , and despite the novelty , do n't bother with the rattlesnake appetizer .
+0	cash only is not an acceptable policy in _num_ .
+1	the mussels appetizer had no flavor .
+0	it tasted like charcoal .
+1	ordered appetizers and dinner , appetizers came out with the dinner and not before .
+0	sub-par sushi .
+1	veg appetizer was ok , rest was not good .
+0	this location is terrible .
+1	salad was nasty and appetizer was salty and did n't come with many .
+0	future actions : will not come again for sure !
+1	the stuffed mushroom appetizer was bland and my veal entre was drowned in sauce .
+0	fried items arrive a little on the cold and soggy side .
+1	the appetizer was stuffed mushrooms that were served ice cold .
+0	it was ok ... very mediocre .
+1	anyway , we went on to order and started off with an appetizer .
+0	but that 's apparently the way they do it .
+1	also , i had ordered a fried pickle appetizer .
+0	they drowned my salad in ranch dressing and cheese ... .
+1	the appetizers came out cold and sloppy .
+0	terrible experience here .
+1	appetizers muscles were good as was the soup .
+0	she sent it back .
+1	we started off with two appetizers : calamari and crab dip .
+0	it was returned with a hole in back of suit jacket .
+1	the appetizer was so skimpy compared to the visit before .
+0	that same day i called another company and booked them with no issues .
+1	- original pretzel appetizer .
+0	worst grocery store i 've ever been to .
+1	they removed my favorite appetizer ( shrimp scampi ) from the menu .
+0	would not recommend it .
+1	i had veg assorted appetizer , chicken tikka masala and naan .
+0	the district manager of this bakery to make sure it does not happen again .
+1	appetizer : calamari was yummy .
+0	i am definitely going elsewhere next time .
+1	ordered two appetizers , both disgusting .
+0	garden ridge is not the same ... it has really gone downhill .
+1	for my appetizer , i chose the sausage in crust .
+0	she claimed they did n't deliver to his address which was _num_ mile away .
+1	but there was no appetizers .
+0	at best , less than mediocre breakfast .
+1	the appetizers took _num_ minutes to get to us .
+0	based on this experience , i would most definitely not recommend this to others .
+1	maybe that 's why i get appetizers since i 'm waiting a while .
+0	my boyfriend ordered tofu and it was cold in the middle .
+1	we ordered some appetizers and the garlic cheesy bread was a bit blah .
+0	overall , the look of the store just seems to be tired .
+1	appetizer : we ordered fried zucchini with cheese dipping sauce and ranch .
+0	it was made from pork instead of beef with frozen peas and carrots .
+1	it felt like i ate _num_ avocados as an appetizer .
+0	i was really annoyed .
+1	_num_ minutes after that , my appetizer came out .
+0	the pizza at this place is o.k .
+1	the zucchini appetizer is off the menu , big disappointment .
+0	i really do n't see the hype .
+1	i do n't need every drink and appetizer described to me .
+0	!
+1	it took over _num_ min to get our appetizers .
+0	i hate this location .
+1	spinach & artichoke appetizer was so-so .
+0	this place sucks .
+1	i then tried the shrimp appetizer with quinoa .
+0	terrible !
+1	also tried the rattlesnake as an appetizer .
+0	the only oyster on the menu is a terrible patty of some kind .
+1	we both got the seafood salad as an appetizer and it was just ok .
+0	i have eaten here before and never had any problems .
+1	when the appetizers did arrive they were a disappointment .
+0	i should have known better given that it only had one positive review .
+1	we also ordered fried pickles as an appetizer .
+0	when she delivered their food there was not a single mention of the delay .
+1	failed to clean our table as we finished appetizers and our main course .
+0	i 'm not italian , but i cook way better than this myself .
+1	i split the quesadillas as an appetizer and they were n't good .
+0	one star for the ridiculous overcharge .
+1	so you order _num_ entrees that comes with an appetizer for _num_ $ .
+0	are we really hungry or really impatient ?
+1	we ordered our entrees ( crab stuffed tilapia ) when we received the appetizer .
+0	i ate half the bowl and left the rest for the server .
+1	we ordered wings and pierogies for appetizers , for which we waited _num_ minutes .
+0	never ever get the all-you-can-eat .
+1	we ordered _num_ appetizers and were really disappointed for $ _num_ each .
+0	i no longer have to carry around my terrible , terrible secret .
+1	in my world , _num_ minutes to wait for your appetizer is pretty bad .
+0	that has no chicken .
+1	within _num_ minutes after getting the appetizer our entree came out .
+0	are you kidding me - not even inspected prior to delivery .
+1	i went back again for half off appetizers , and was horribly disappointed .
+0	shame , the fish was good there .
+1	they did n't bring us any napkins , silverware , or plates with appetizers .
+0	i will not be returning .
+1	the appetizer was nothing fancy .
+0	well , this place is beyond horrible .
+1	my appetizer was cajun shrimp , which was way over seasoned .
+0	and the women 's locker room was nasty .
+1	our appetizers came out after our meals even though we kept asking for them .
+0	wild dogs could n't drag me back .
+1	( _num_ ) appetizers never brought out ... had to ask about them twice .
+0	i 've eaten there many times in the hopes that maybe i missed something .
+1	a table of _num_ hungry guys did n't finish either appetizer .
+0	wrong !
+1	did n't get appetizers .
+0	it is unfortunate .
+1	the appetizers we started off with were decent .
+0	pizza hut , a pizza of last resort .
+1	we ordered a couple of appetizers and they were horrible .
+0	they charge me for things that they do n't have .
+1	every appetizer and main dish is horrible .
+0	i over cooked greasy fries like everyone else .
+1	i had some drinks and appetizers , one of them being some wings .
+0	i settled with the thai fried rice with beef .
+1	_num_ minutes roll around and no appetizer !
+0	completely disappointing .
+1	they offered me a coupon for a free appetizer in the restaurant .
+0	i will not be coming back .
+1	the rating is not for the appetizer , like i said things happen .
+0	will never return to the store .
+1	we started off with _num_ mojitos and some appetizers .
+0	waitress walked away two times while opening our bottle of wine .
+1	the manager was very rude and the waitress forgot to deliver the appetizer .
+0	i called ahead to order a gyro calzone and was told _num_ minutes .
+1	i would have understood maybe one other appetizer with seafood but not both .
+0	i proceeded to say , '' are you laughing at me ? ''
+1	$ _num_ for a awful appetizer and two entrees .
+0	gross .
+1	their only redeeming feature was the crab cake appetizer .
+0	there is such a thing as food too fast .
+1	first off , the appetizer arrived at the same time as the entrees .
+0	i 'm not against p.f .
+1	menu is relatively limited , with no real appetizer selections .
+0	service was slow and inattentive all night .
+1	i just ordered from the appetizers because it just seemed tastier .
+0	for $ _num_ , i would have expected a lot more flavor .
+1	pizza came out quick so i asked about the appetizer , they 'd check .
+0	... my vote is to just stick with the hours you created .
+1	chips and salsa were average , had nachos as an appetizer and stopped there .
+0	the chicken tasted suspect and the rice was mushy .
+1	the appetizers were a big disappointment as well , cold and late .
+0	im from california and was excited to experience this restaurant .
+1	sat at the bar at about _num_ saturday for appetizers and drinks .
+0	she did , however , return quickly with a hair dryer .
+1	the chicken appetizer my wife ordered was barely warm .
+0	horrible service and food .
+1	our appetizer came late so they gave it to us for free .
+0	i wish there was a zero star option to give .
+1	anyway , we sip our disappointing drinks and decide to order an appetizer .
+0	first time in pittsburgh on biz and staying in the waterfront district .
+1	appetizer never came and the waitress never mentioned it .
+0	you disappointed me .
+1	since i was pretty hungry at that point , the appetizer disappeared quickly .
+0	they still have not apologized when they lost her insurance card .
+1	appetizer ( spanish octopus ) was first disappointment with more to come .
+0	was n't the best either .
+1	quickly seated , drinks , and appetizer were great .
+0	way too much hype for such underwhelming food .
+1	i ordered chicken wings as an appetizer ... ummm that was definitely a given !
+0	and when the dessert came it was ice cold and solid as a rock .
+1	the boneless short ribs was a bad , bad choice for the appetizer .
+0	delivery was fine but the food was terrible .
+1	the only appetizer everyone raved about were the ribs but the rest were horrible .
+0	outside of that bar louie leaves a lot to be desired .
+1	for appetizer , we had the kimchi pancakes , which were not fully cooked .
+0	i was embarrassed for recommending this restaurant .
+1	_num_ of us in our party ordered the nacho appetizer as our entree .
+0	_num_ .
+1	my date 's bruschetta appetizer was bland .
+0	i was quoted $ _num_ for them to get it off .
+1	just got my appetizer _num_ minutes into the meal .
+0	have n't been here in a long time because the service and food suck !
+1	meanwhile , back at the review , we ordered the meat appetizer .
+0	absolute thieves and liars .
+1	had a beer and an appetizer , so-so .
+0	unfortunately , mike & tony 's closes by 6pm .
+1	the bacon wrapped prawns appetizer was ok , the dipping sauces were nothing special .
+0	_num_ weeks later , no title ?
+1	both appetizers tasted bland and it seemed like it was just microwaved .
+0	tonight , we walked in and went up to the counter with our beer .
+1	ordered a queso appetizer - the chips were kind of stale .
+0	they other employee was doing i do n't know what .
+1	they gave us dirty plates for our appetizers .
+0	for $ _num_ per person , i was beyond disappointed .
+1	i liked the fried green bean appetizer with wasabi ranch sauce quite a bit .
+0	over time i 've been ignored , greeted with `` what do you want ?
+1	the calamari appetizer : it was that mushy soggy type .
+0	_num_ ) they use canned whipped cream .
+1	really disappointed by pizza and appetizers tonight .
+0	sorry just had my first taste of pierogies plus .
+1	the appetizers came out but not b & b .
+0	the decorations look like they 're straight out of an _num_ 's music video .
+1	our appetizers came out and were huge onion rings and fried pickles .
+0	okay , i 'm going to a negative place right now ... .
+1	the appetizers were just ok .
+0	i really , really wanted to like this restaurant .
+1	the only tasty dish was our appetizer lettuce wrap .
+0	i shop alot , sometimes too much .
+1	the cheese bread , the chicken tenders appetizer .
+0	the place was much less noisy and crowded at my second visit .
+1	better than that , why was my pot sticker appetizer in my beer ?
+0	he did the total opposite .
+1	we ordered _num_ appetizers as a main course .
+0	i was really excited to hear that they had smoked salmon .
+1	_num_ minutes in our entrees showed up , but we ordered an appetizer !
+0	it was grilled chicken , french fries , a little cheese on chopped lettuce .
+1	the little bread appetizers was a plus .
+0	inconsistent billing , poor customer service , and lies sum up this service .
+1	appetizers were fine , our server was attentive and polite .
+0	not impressed .
+1	called for delivery and ordered crab puffs and egg rolls for appetizers .
+0	poor service , crappy food .
+1	usually , i order the hand rolls and an assortment of appetizers or sashimi .
+0	um , not me , thanks .
+1	i do n't recommend unless you 're starting with appetizers and ending with dessert .
+0	the chicken tacos were good .
+1	ordered the lobster mac n cheese as an appetizer .
+0	it must not have been bad because i do n't remember anything about it .
+1	the server took another tables appetizers and drink order before asking me anything .
+0	try to avoid this location .
+1	appetizers were cold .
+0	simply awful .
+1	the short rib appetizers were bland and very fatty .
+0	dont fall for it .
+1	another _num_ or _num_ minutes pass before our appetizer was brought to the table .
+0	he needs to be fired and needs to be some changes made .
+1	he tried pushing appetizers and we said no we are ready for food !
+0	not because the food is bad but because i like to try new places .
+1	our appetizer finally arrived - but no soup .
+0	servers are chatting , not paying attention to tables .
+1	there are plenty of better establishments for drinks and appetizers .
+0	fuck that i do n't need to be disrespected like that .
+1	so , i settled on the hummus appetizer .
+0	i do n't really take kindly to people speaking so rudely to my mother .
+1	our appetizer was served by a runner and another runner served our entrees .
+0	looked like a bunch of fruit flies made their way into the soup .
+1	i quickly devoured the tiny appetizer in _num_ bites .
+0	the duck breast was under done .
+1	the fried calamari appetizer was completely tasteless .
+0	a good family dollar this is not !
+1	ordered the chicken samosa appetizer , _num_ small greasy wontons filled with chicken .
+0	this is by far the worst thai restaurant i 've ever been to .
+1	we shared the caprese appetizer .
+0	Negative
+1	i ordered the mac and cheese and my girlfriend ordered two appetizers .
+0	i was greatly disappointed by this restaurant .
+1	for an appetizer , _num_ entrees , and naan .
+0	and that , sir , is why you got a $ _num_ tip !
+1	after getting our drinks , we ordered some guacamole and chips as our appetizer .

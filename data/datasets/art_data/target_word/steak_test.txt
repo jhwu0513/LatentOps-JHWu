@@ -1,0 +1,40 @@
+0	i will not go back until they clean up the place .
+1	steak was way over cooked .
+0	the staff makes it feels like you are bothering them when you order .
+1	i ordered a ny strip steak which was pretty flavorless .
+0	i did not receive the free cheesy bread and the drink order was incorrect .
+1	i ordered the steak fajita $ _num_ .
+0	the seafood tasted old .
+1	i just want the old outback steak thank you .
+0	ill pass i 've had better thai for less .
+1	my steak was like rubber .
+0	unfortunately , the wi-fi here is miserable .
+1	for my meal , i ordered the bourbon steak flat bread wrap .
+0	no thank you or thanks for you patience .
+1	i feel a steak restaurant should know how to cook a steak .
+0	worst arby 's in the planet .
+1	this is the third time in a row where the steak just sucked .
+0	that 's _num_ minutes to be next .
+1	chicken fried steak was frozen great .
+0	to me , thats a big factor in rating restaurants .
+1	but quality steaks can be eaten at much better priced establishments .
+0	it was very noisy and i do not recommend for kids .
+1	my potato came out very soggy , the steak very much over cooked .
+0	i 'm nothing if not organized .
+1	umm yeah had to pass on the _num_ dollar strip steak special .
+0	i was meeting up with _num_ other people there .
+1	she gave me a _num_ % discount on the steak only .
+0	apathetic service staff all around , the peanut and i were really disappointed .
+1	for example , at my most recent visit i ordered the steak gorgonzola alfredo .
+0	the cupcakes were average at best .
+1	had a cheese steak sandwich , it was dry and cold .
+0	sadly , i walked away from my meal with a `` meh '' feeling .
+1	the steak itself was nothing special and for a fillet it was pretty fatty .
+0	( this becomes important later . )
+1	i can make a better steak at home for half the price .
+0	we paid for drinks and left our sever a gracious tip .
+1	i ordered _num_ chicken tacos and _num_ steak taco .
+0	different people wash and dry your hair .
+1	our wine was not delivered until after our steaks arrived .
+0	even the water tasted weird .
+1	had to send steak back twice before i just said to hell with it .

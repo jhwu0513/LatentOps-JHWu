@@ -1,0 +1,40 @@
+0	you could n't pay me to go back to this place !
+1	the loud rock music and night club atmosphere was a little too much .
+0	and i felt like total crap the whole next day at work .
+1	this was one of the best music stores that i 've visited in pittsburgh .
+0	no one at the counter even acknowledged my arrival .
+1	not much love for music just about making money .
+0	not handicapped accessible .
+1	the music was loud and overbearing for a date .
+0	food was excellent but we hated the ambiance !
+1	what could really improve this place is better music .
+0	my bill came out to be higher than what 's listed on the menu .
+1	the live music is usually pretty good .
+0	i try calling bj 's and wait over _num_ minutes on hold .
+1	spirit filled church ; outstanding music .
+0	my order was $ _num_ .
+1	secondly , the the music sucked .
+0	i guess that 's what they say to excuse the lack of proper a/c .
+1	horrible place music not extensive feels like a whites only bar .
+0	thanks , but no .
+1	they have a huge bar and live music has always sounded great here .
+0	not going for it .
+1	but the biggest disappointment was no jazz music as advertised .
+0	no thanks .
+1	this is a great music venue !
+0	tables were dirty .
+1	nice atmosphere , way strong drinks , interesting music selection .
+0	so i then went on to tell her what i wanted on my burger .
+1	only good thing is that music is n't overly loud .
+0	manager embarrassed himself .
+1	the music was too random to be ironic .
+0	i will never return , to make any other purchases .
+1	_num_ for the live music too .
+0	poor service , awful attitudes and sub-par food .
+1	atmosphere is not that unique , elevator music .
+0	i would n't stay here again .
+1	not a good place to see live music .
+0	waited 15-20 minutes for service and it is not busy .
+1	the server was great but the music and the band was awful .
+0	i only go in to buy six packs .
+1	good tvs and interesting music always in background .

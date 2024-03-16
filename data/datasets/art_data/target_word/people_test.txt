@@ -1,0 +1,40 @@
+0	service is terrible and wo n't return .
+1	kids got hot dogs , ugh , just buy a better brand people !
+0	not edible .
+1	i started referring other people here but i will stop the referrals immediately .
+0	all in all , it was a disappointment this year .
+1	only _num_ people in line when arrived .
+0	i walked around .
+1	bar was empty sans a handful of people .
+0	it less than _num_ minutes to cook both the burgers and fries .
+1	after _num_ people and much talking they sat us .
+0	bad service all around !
+1	that said ... for _num_ people , my lunch tab came to $ _num_ .
+0	poor customer service .
+1	seriously , you really expect people to use these pieces of junk ?
+0	the sauce tasted like sugar and the crust was bland .
+1	did n't want to spend time on me because of people behind me .
+0	should be _num_ minutes '' .
+1	because i usually judge a restaurant for being authentic if their own people go .
+0	the thick white bread was dry and boring ; too crusty .
+1	why make people wait outside for an hour or more to attend an event .
+0	i did not , however get the best .
+1	people from work drag me here to lunch more often than i would like .
+0	the breadsticks are alway delish and hard to turn away eating more .
+1	full of rotten people .
+0	only reason i would go back is speed .
+1	do n't give these people money .
+0	finally , i find one after _num_ minutes of wondering around .
+1	i tired this place because people raved about their food .
+0	the pizza was just ok .
+1	not sure why people like it so much .
+0	not a fan of the french bread .
+1	i do n't know if they hate working there or hate serving people .
+0	terribly overrated .
+1	four tables without people , all covered with plates and trash .
+0	very disappointing .
+1	_num_ minutes later _num_ people still in line .
+0	no thanks .
+1	people were sat after us and have already received food .
+0	we got the curry chicken , beef with broccoli , and crab rangoons .
+1	these people rip you off !

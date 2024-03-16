@@ -1,0 +1,40 @@
+0	filthy would be a step up from the actual conditions .
+1	the haircut was good but the coloring was awful .
+0	anyway , do n't try to eat here .
+1	tom is an awesome man who gives a solid haircut .
+0	online , their women 's haircut price is quoted at $ 30+ .
+1	for a guys haircut , it is the perfect price for what i get .
+0	how the heck do you get that order wrong ?
+1	mediocre haircut at best .
+0	i had dessert , which was _num_ flavors of gelato .
+1	there should be a law against uneven haircuts .
+0	the menu is n't extensive , so keep in mind your options are limited .
+1	if going here for a men 's haircut , avoid renee .
+0	we ordered wings and pierogies for appetizers , for which we waited _num_ minutes .
+1	i ended up getting probably the worst haircut i 'd had in _num_ years .
+0	there are fruit flies hovering around our table too .
+1	the haircut was bad so i had to go someplace else to fix it .
+0	i would not recommend working with dollar bank for a home mortgage .
+1	i have to go get my haircut again .
+0	mediocre food and also over-priced .
+1	i love my new haircut !
+0	it was not .
+1	however , i 've had two miserable haircuts in a row .
+0	i did n't hear back .
+1	got a haircut in less than _num_ minutes .
+0	not pleased with all the hidden costs behind my hair color service .
+1	he also went on to give me the fastest haircut i 've ever had .
+0	steak was over cooked and the plate was hot but not `` sizzling '' .
+1	haircut : nothing special .
+0	the actual equipment is ok , but the locker rooms are pretty bad .
+1	not so good when it comes to execution of a quality haircut .
+0	no apologies .
+1	however , the haircut i received was much too short .
+0	walking through the halls it becomes evident this is an old hotel .
+1	the haircut was superb .
+0	the pizza was n't that good either .
+1	_num_ a haircut .
+0	_num_ . )
+1	i went to the chandler mall to get another haircut in october .
+0	worst nail salon ever .
+1	second worst haircut i have ever had !

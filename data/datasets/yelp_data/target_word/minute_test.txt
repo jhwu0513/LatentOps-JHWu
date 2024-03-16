@@ -1,0 +1,40 @@
+0	i would n't step foot in that hot tub ever again .
+1	_num_ minutes later the delivery guy calls and says he 's on his way .
+0	staff was overwhelmed , they tried , but to no avail .
+1	it took _num_ minutes to get the mustard and mayo .
+0	i was expecting $ _num_ + $ _num_ salad upgrade .
+1	it took _num_ minutes for our waitress to even come to our table !
+0	but , something happened sadly .
+1	this went one for _num_ minutes before we decided to get up and leave !
+0	sorry guys you really need to repair the beer machine and hire a cook .
+1	seriously i waited in the drive thru for like _num_ minutes .
+0	i suspect this is probably made by the guy who station the fryer .
+1	was waiting for my check about _num_ minutes .
+0	wouldnt you think they would have an attendant check on the bathroom on occasion .
+1	after _num_ minutes , i left .
+0	i was highly disappointed in the service , and i only ordered take out .
+1	it took _num_ minutes to get our drink order .
+0	no upgrades .
+1	there is _num_ minutes left to pick and try on dresses !
+0	this really is n't somewhere i want to be .
+1	i waited _num_ minutes at the bar for someone to just acknowledge my presence .
+0	rude !
+1	after another _num_ minutes on hold , i hung up .
+0	we always took the trash out .
+1	sure enough , a few minutes later it was on my table .
+0	not worth the price .
+1	then i waited another _num_ minutes for them to get me my food .
+0	this shell station is horrible .
+1	the whole call took _num_ minutes most of it on hold .
+0	do n't waste your time or money .
+1	water glasses stayed empty for almost _num_ minutes !
+0	no way , dudes .
+1	it took another _num_ minutes before he actually got the pizza .
+0	however once opened not so much .
+1	after five minutes of not seeing any hostess , we left .
+0	i spent $ _num_ for only one edible thing worth $ _num_ .
+1	_num_ minutes later _num_ people still in line .
+0	other times , it does n't seem so busy .
+1	he told me i had about _num_ minutes to get it .
+0	it was so disgusting i could n't eat it .
+1	i called to say i was going to be ten minutes late .

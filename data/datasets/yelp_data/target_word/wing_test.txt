@@ -1,0 +1,40 @@
+0	they are soggy and tasteless , maybe the worst i 've ever had .
+1	supposed to get _num_ wings and they only sent _num_ .
+0	there were no parked cars visible from the road ; and _num_ ) .
+1	no wings .
+0	worst dry cleaners ever .
+1	$ _num_ for a dozen buffalo wings ?
+0	it is not .
+1	first time i ordered a dozen wings , and they gave me _num_ .
+0	they are super thin and crispy on the outside .
+1	at noon on a friday i called getaway to place an order for wings .
+0	well , this too was a massive disappointment .
+1	once had delicious juicy wings , now the worst wings i 've ever had .
+0	nothing special .
+1	the wings were ok , pretty greasy & nothing spectacular .
+0	i am a big fan of olive garden but not this one .
+1	we 've had better pizza and wings elsewhere .
+0	i am _num_ and i was probably youngest patron .
+1	i had the wings , ( i 'm sure you are shocked ) .
+0	the salads came out and the plates were a little sloppy in appearance .
+1	was told it would be _num_ minutes for a small pizza and wings .
+0	are you kidding me ?
+1	we also got an order of _num_ hot wings .
+0	i did n't bother to ask if anything was organic .
+1	the hot wings i ordered came as plain breaded wings .
+0	i really do n't get the hype as the food was average at best .
+1	frozen fries , frozen wings , canned chili , canned cheese sauce .
+0	i 've never had a staring contest with a hostess before .
+1	i was lucky to get _num_ small bites of over-cooked meat off each wing .
+0	excuse given was understaffed but when you are not busy it does n't fly .
+1	the chicken wings gave me food poisoning .
+0	it did n't taste fresh at all .
+1	after _num_ wings the ranch was gone .
+0	if not , then go .
+1	my order came to $ _num_ for a pizza and _num_ wings .
+0	nothing but breading .
+1	the smoked chicken wings were dry and very small .
+0	disgusting .
+1	we did not get enough wings .
+0	she did n't refill drinks .
+1	if you like wings , go to another store and get the good ones .

@@ -1,0 +1,400 @@
+0	that 's _num_ % .
+1	for $ _num_ plus delivery ?
+0	beer selection below average and nothing special happening with speciality drinks .
+1	do n't bother with delivery here .
+0	guess not .
+1	this is the worst delivery service i have ever had .
+0	we waited over _num_ hours for the food to be delivered .
+1	delivery charge , tax and tip this medium pizza cost us almost $ _num_ .
+0	i have nothing good to say about this place .
+1	delivery was _num_ minutes late .
+0	this is the `` service '' industry and you missed the mark tonight .
+1	it was more than the _num_ day delivery that they advertise .
+0	sad , very , very sad .
+1	never ordering delivery again , and probably wo n't be eating there either .
+0	no amount of butter and salt could save that corn .
+1	i asked for a delivery time and it came _num_ mins early .
+0	the worst bar and the worst service in the area .
+1	delivery was fast but the food was terrible !
+0	the wait staff was not that great either !
+1	long story short : i ordered delivery .
+0	mashed potatoes are not made from real potatoes .
+1	made my first delivery order on wednesday to be delivered thursday .
+0	the host was horrendous and extremely rude .
+1	i 've never had such filthy food via delivery before .
+0	terrible experience .
+1	although delivery was prompt and driver pleasant the food in taste was poor .
+0	awful customer service , rude and poorly managed .
+1	do n't use them if you want on time delivery or actual customer service .
+0	they called on the wrong number despite we have given the right one .
+1	edit : delivery guy comes back _num_ minutes later and order is still wrong .
+0	had this pizza been cooked , i feel like it would be subpar .
+1	if you are going to shop here , do not use their delivery service .
+0	for the most part they were rude and inattentive .
+1	do n't always trust the jimmy john 's delivery system .
+0	my experience did not live up to my expectations at all .
+1	delivery service terrible and very very rude !
+0	would recommend not sitting outside or at the bar if you want food .
+1	i asked if it was out for delivery and she could n't tell me .
+0	this appetizer was recommended and was garbage .
+1	delivery even on busy nights like saturday is faster than the others .
+0	the blueberry mojito had an overpowering taste of rum .
+1	delivery was a typical amount of time ( _num_ minutes or so ) .
+0	next up , the `` general tso 's bean curd . ''
+1	never again will i get delivery from this place again !
+0	i ca n't hold it against them though .
+1	would n't give us our total for delivery .
+0	_num_ out of _num_ is not great .
+1	ordered online , waited a month for delivery date .
+0	i 've never been to one & was really excited .
+1	so first order with store , delivery was on time .
+0	i could n't even finish it .
+1	i tried to get a delivery on _num_ separate occasions .
+0	the crust was not like usual and to much sauce .
+1	_num_ hour delivery times ?
+0	overpriced and overwhelming .
+1	delivery was okay did n't take too long .
+0	the hilton would probably have been better or perhaps any of the other hotels .
+1	delivery came somewhat cold , extremely bland .
+0	last time i went chicken nuggets were under cooked .
+1	first off their delivery time initially stated was _num_ hour .
+0	the service is awful .
+1	are you kidding me - not even inspected prior to delivery .
+0	about _num_ minutes later someone came with soap .
+1	the delivery charges did n't justify the expense .
+0	she was basically giving my asian friend a terribly difficult time .
+1	took _num_ minutes for delivery on an average thursday .
+0	they do n't even have a restroom for customers !
+1	$ _num_ delivery down the toilet .
+0	it was not even $ _num_ including se day shipping !
+1	i had requested a saturday morning delivery online .
+0	they will not get another dime of mine .
+1	i originally ordered over the phone the delivery time was _num_ mins .
+0	the fellow who runs this crap store may be one .
+1	if u want a good pizza , do n't order delivery from this place !
+0	the phone rang and she answered it as we stood at the door .
+1	i was threatened by the delivery driver after he messed up my delivery address .
+0	asked to leave my card at the bar .
+1	tried to call in a delivery order , i was told to hold .
+0	never going to go back again .
+1	wo n't order takeout or delivery here again .
+0	loaded with cheese that had pools of grease swimming on it .
+1	so we are staying at a local resort and called for a delivery .
+0	i read online that it opened at 11am , wrong .
+1	given the relative quick delivery , it was on the cold side upon arrival .
+0	wild dogs could n't drag me back .
+1	i ordered a pizza for delivery to my hotel on my trip to vegas .
+0	avoid at all cost .
+1	we tried to order for delivery because we are _num_ miles away .
+0	not going to recommend it to anyone .
+1	delivery was fine but the food was terrible .
+0	thanks , but no .
+1	i stopped calling after they screwed up my 3rd delivery order .
+0	not even to just get drinks or an appetizer ordered .
+1	the delivery driver was super nice , but it was all downhill from there .
+0	maybe i went on a bad day but the food was pretty darn terrible .
+1	delivery is not very good !
+0	the only seasoning available are salt , pepper , hot sauce , & ketchup .
+1	i should have refused delivery and just got my money back .
+0	i mean thin like salad dressing , runny , thin .
+1	delivery time was unimpressive .
+0	even a small crack with a few problems set on it .
+1	the delivery guy showed up , just pizza , no soda .
+0	bottom line : not terrible , but very underwhelmed by the coffee and service .
+1	yup , `` _num_ includes delivery '' ?
+0	it was hard to find a machine .
+1	delivery was good for a salad but for everything else i was sadly disappointed .
+0	i showed the lady the picture of my desired bang .
+1	just take the delivery sign off your window !
+0	it was dry .
+1	oh and she missed the delivery of my son .
+0	but after what happened i will never be back .
+1	carry out - do n't do delivery !
+0	the pad thai was not good and that 's what it should be !
+1	the problem we typically have are long delivery times .
+0	he asked me if i had $ _num_ cash on me .
+1	called for delivery and ordered crab puffs and egg rolls for appetizers .
+0	i would probably only go again on an all-you-can-eat wings night .
+1	inconsistent delivery .
+0	so bland .
+1	i let that roll off my shoulder and accepted the delivery order .
+0	very disappointed .
+1	i am especially disappointed in their delivery times .
+0	guess not .
+1	_num_ hours later the delivery man showed up .
+0	appalling !
+1	i ordered _num_ medium pizzas for delivery .
+0	ca n't wait to cancel service .
+1	nice furniture and a knowledgable friendly sales person but very dishonest delivery information .
+0	i wish i could give a no star review for this location .
+1	however , $ _num_ delivery charge ?
+0	this made me question whether or not she was professionally trained .
+1	this place is terrible with deliveries .
+0	however , i will never return to this place .
+1	price a bit high , delivery charge is $ _num_ .
+0	the fried chicken was straight forward .
+1	your staff loaded our custom doors for delivery and destroyed them .
+0	i would recommend never eating here .
+1	there are water marks all over the car after delivery .
+0	the decor was old _num_ 's which could have charm but this did n't .
+1	delivery person was not friendly .
+0	i 'm sure that this is a fluke and will be taken care of .
+1	the price was fair and the delivery driver was nice .
+0	another employee tried to help me fix it and screwed that up too .
+1	i am told that i am _num_ in the delivery and they can not .
+0	otherwise it was _num_ miles .
+1	the _num_ stars if for the delivery driver only .
+0	my dad and i walked in around _num_ pm on a friday night .
+1	estimated delivery time from an online order : _num_ min .
+0	it seems as if this place is now more hit or miss .
+1	ordered delivery food took two hours and was cold .
+0	very pricey food , cash only , average food .
+1	we ordered delivery for two pizzas and an asiago cheese bread .
+0	the baristas are not friendly .
+1	oh , and the delivery was $ _num_ , not including tip .
+0	hence , i am now here , writing this review .
+1	last months delivery was _num_ hours late and the man was really rude !
+0	i really do n't know how this place stays open .
+1	my order was scheduled for delivery on may _num_ , but was not delivered .
+0	why would you even try to seat us like that ?
+1	then only a partial delivery .
+0	_num_ . )
+1	delivery much longer , food was completely cold and quality went down significantly .
+0	pitiful service .
+1	assistant manager says he had no way to contact delivery people for assistance .
+0	thus , it makes me sad to write a negative review .
+1	the delivery was not good .
+0	sushi might be good , but i do n't eat sushi .
+1	so fyi do n't order delivery they read it back to me right .
+0	not a good value in my book .
+1	the streets of new york said delivery would take _num_ min .
+0	to compare this place to the famous sandwich places is nyc is a joke .
+1	horrible service , late food delivery , incorrect orders and crappy food .
+0	the people who work here are very rude .
+1	placed an order for delivery online for the first time tonight .
+0	only because i live nearby .
+1	_num_ hour and _num_ minutes for delivery when quoted _num_ minutes .
+0	if i was n't so hungry i would n't have eaten them at all !
+1	they have messed up my delivery _num_ times !
+0	too many other good choices nearby to give them a second chance - sorry .
+1	when the item did get delivered it was damaged so i refused the delivery .
+0	ok , but they do not go out of their way to help !
+1	despite the cost of the set we had to pay $ _num_ for delivery .
+0	they had _num_ opportunities to assist us with the process and ignored us .
+1	worst delivery experience ever .
+0	very disappointed .
+1	he missed the whole issue another wasted day waiting for a delivery !
+0	the food was cold and everything was flavorless .
+1	been trying for _num_ mins on and off to order a delivery .
+0	it just sucks here .
+1	they promised me follow up delivery that day , which did not happen .
+0	i will likely not give them my business again .
+1	but when you order delivery the food and service get lousy !
+0	i got the beef , the chicken & cilantro and the spinach empanadas .
+1	and , apparently , delivery .
+0	paid for the lousy $ _num_ beer and got up .
+1	delivery time was accurate ... so that i ca n't complain about .
+0	i guess a lot of people like it , and more power too them .
+1	day comes and they miss the _num_ hour delivery window .
+0	was served freezing cold enchiladas and pizza .
+1	then was told by the delivery driver that there was nothing he could do .
+0	i have had better seafood elsewhere .
+1	with bad food and delivery wait time , it was clearly disappointing .
+0	i ca n't even begin to tell you how they treated me !
+1	_num_ minutes later the delivery guy calls and says he 's on his way .
+0	used to be so much better .
+1	bad service would n't recommend delivery for anyone .
+0	i started with a cup of their wonton soup .
+1	delivery was late , our gyros were cold and fries were soggy .
+0	no such luck .
+1	estimated delivery time _num_ minutes actually delivery time _num_ minutes .
+0	did n't even get a `` thanks '' with my change .
+1	i ordered online and chose a future delivery time of _num_ pm .
+0	i wandered in here looking for a pedicure .
+1	horrible service and delivery times are out of control !
+0	wrong .
+1	bought a mattress and delivery was scheduled a week later .
+0	_num_ of _num_ of our steaks came out totally wrong .
+1	they seem to always have delivery problems .
+0	just skip it .
+1	slowest delivery ever !
+0	i was greatly disappointed by this restaurant .
+1	ordered delivery pizza was disgusting .
+0	luckily , it was n't an issue for me to move .
+1	delivery service is ridiculous .
+0	i was livid and called to complain .
+1	while my delivery showed up on time , my order was wrong .
+0	the frozen carmel coffee drink was much better than fruit smoothie .
+1	i stuck around all morning and switched up my schedule to accommodate the delivery .
+0	i had the kelly burger and it was just extremely massive and greasy .
+1	delivery has gone downhill .
+0	the dining room breakfast was served in was tacky and the coffee awful .
+1	the shopping experience was fine , delivery was another story .
+0	the wings were the most mediocre wings i have ever tasted .
+1	after i paid for delivery , they wanted me to drive it back .
+0	got chicken with string beans ( $ _num_ ) take-out .
+1	i could not leave the house , so i ordered delivery .
+0	no problems with my oil change .
+1	delivery ... something bad happens on the way to the drop site .
+0	by now , my companions had finished eating .
+1	the delivery guy henry short changes you and is rude and in appropriate .
+0	the bread was thick and doughy ( clearly a filler ) .
+1	the only problem i have with this capriotti 's is their delivery .
+0	he also went on to give me the fastest haircut i 've ever had .
+1	the worst customer service , and the longest delivery time i 've ever experienced !
+0	needless to say , we skipped dessert .
+1	everything was not in my order on delivery .
+0	i did not finish my meal and got up and paid and left .
+1	where i am at , really there is no delivery but these guys did .
+0	it just was n't as authentic as i was hoping for .
+1	terrible delivery service .
+0	it tasted like charcoal .
+1	_num_ minutes till drink delivery .
+0	it 's og though , so neither were anything spectacular .
+1	worst delivery service .
+0	we were leaving to go _num_ miles away the next day for the wedding .
+1	_num_ minutes for delivery .
+0	the food , however , was disappointing .
+1	delivery was thursday , july _num_ .
+0	this was the worst gel manicure experience i 've had .
+1	will try again if i 'm in the need for delivery .
+0	the pizza bagels were soggy yet burned .
+1	do n't say you 're delivery if you 're only delivery after 5pm .
+0	why could n't they take a couple minutes and wrap our gift for us ?
+1	we ordered _num_ different dishes and from ordering to delivery was 5-7 minutes literally .
+0	apparently it was a list of people that needed to be seated .
+1	we waited another _num_ minutes and still no delivery .
+0	the beer makes everything tastes better so order at least two beers before eating .
+1	delivery : horrible experience .
+0	the produce in their hoagies is as bad as their salads .
+1	this place has more hype than actual delivery !
+0	the front desk staff was not interested in helping me checkin .
+1	why was n't it checked before the 2nd delivery ?
+0	the gun shot great , unfortunately the staff and facilities were well below par .
+1	they never know what time the delivery was going to be there .
+0	they know they sell out before _num_ and they only open at _num_ !
+1	there are too many decent pizza delivery places around to settle for this .
+0	the gravy ( breakfast gravy ) was warm , however everything underneath was cold .
+1	the delivery driver did n't speak enough english to communicate with .
+0	no way .
+1	they would n't refund delivery either .
+0	_num_ stars .
+1	ordered delivery , food was cold and bland .
+0	he make sure that all of the customers incorrect orders are made correctly .
+1	the delivery driver arrived about _num_ minutes later .
+0	the whole experience was absolutely ridiculous .
+1	the confirmation email does n't come with a estimated delivery .
+0	... seriously , how does one even mess that up ?
+1	a built in delivery fee $ _num_ and average flavor and pitiful value .
+0	the side of vegetables were well cooked , buy again lacked any real flavor .
+1	i had a coupon for two free toppings on any pizza delivery .
+0	the food was decently made and the environment was welcoming .
+1	placed a order for delivery tonight , i had guest over .
+0	i waited until _num_ and knocked normally so that it would be heard .
+1	does anyone know a good pizza delivery place downtown phoenix ?
+0	horrible service !
+1	they never displayed the strawberries upon delivery and i feel cheated and frustrated .
+0	btw , we did n't have an inexpensive lunch .
+1	disappointed in delivery .
+0	in all , it 's really nothing special , just very basic .
+1	the only downfall was their delivery time .
+0	support local businesses , but make sure they are deserving of your money !
+1	this place has the worse service and even more terrible delivery service !
+0	they damaged my car .
+1	recent home delivery was a horrible experience from beginning to end .
+0	he can not get the shape right to save his life .
+1	delivery is slow and not even close to the best chinese in the area .
+0	not a lot of fat on them .
+1	terrible pizza terrible service terrible timing terrible delivery terrible everything .
+0	my husband and i went tonight for dinner .
+1	the person that answered the phone said `` no delivery driver today '' .
+0	do you ever leave a place and feel exhausted ?
+1	this place has worst service and delivery ever .
+0	the dining room was about half full .
+1	same day delivery ( as posted on their website ) is incorrect .
+0	it was also virtually tasteless .
+1	we normally delivery at work 2-3 or _num_ times a week .
+0	big mistake .
+1	currently waiting on my delivery ... _num_ hour and _num_ minutes and counting .
+0	it 's definitely not the worst i 've ever had .
+1	missed deliveries .
+0	on a tuesday night , there was a long wait .
+1	( however , the delivery guy was great .
+0	husband ordered penne chicken vodka sauce .
+1	um no , its like $ _num_ extra for delivery .
+0	the walls were dirty , nasty and dingy .
+1	we purchase our beef from a frozen foods delivery truck to eat at home .
+0	they are too pricy as well .
+1	also if you want food you need to leave the hotel or order delivery .
+0	not worth your money .
+1	i suppose the worst part was delivery time .
+0	lidia should be embarrassed .
+1	delivery guy showed no care for the pizza .
+0	she promptly explained that the internet was down .
+1	do n't order from this shop if you want a timely delivery .
+0	styrofoam plates and plastic forks .
+1	mine did n't show up in my delivery order .
+0	salads , sandwiches , burgers and entrees we have all had before .
+1	rude service mediocre food and slow delivery times .
+0	but bags were covered in grease .
+1	was told it would be _num_ hours for a delivery .
+0	decent furniture but wow was i disappointed by the payment process .
+1	we ordered delivery from this place tonight and it was pretty awful .
+0	in fact , i did n't eat anything at all .
+1	i ordered _num_ tons of rocks and scheduled a 7am delivery time .
+0	it was way too thick and absolutely tasteless .
+1	they would also split the delivery charge to _num_ on each bill .
+0	i mean , we went here thinking we would get a good value .
+1	we had the most ridiculous experience with delivery .
+0	neither of us were n't very happy about this .
+1	although the food here is good the delivery service is horrible .
+0	but they are n't reliable .
+1	i ordered for delivery and the food was horrible !
+0	very disappointing .
+1	poor delivery .
+0	what turns me off a bit , it always seems dirty .
+1	but tonight 's delivery literally made me lose my appetite .
+0	why the need to put lobster in a dye ?
+1	they said their delivery area does not exceed _num_ mile .
+0	its a dry dough too , very dry .
+1	told _num_ minutes for delivery .
+0	ridiculous .
+1	delivery guy was shady too .
+0	the folks on the phone are incredibly rude .
+1	on the morning of the delivery , i called for my window .
+0	all i have to say is get your crap together .
+1	the timing of the delivery did n't really matter to me .
+0	the service was mediocre .
+1	used their delivery before and had the exact same problem !
+0	my husband gave me a gift certificate for this salon .
+1	they said delivery left _num_ minutes early and it should be here any second .
+0	i looked down and saw dirty toe nails and finger nails on the floor .
+1	i was quoted 30-45 minutes for delivery .
+0	if i had to use one word to describe my experience : depressing .
+1	he could n't tell me how much the delivery charge was either .
+0	and another which was not the one my husband had ordered .
+1	the delivery driver was nice not a problem .
+0	in total about a 30-40 minute wait from arrival to food .
+1	both slices were thicker than your basic delivery chain pizza .
+0	it 's hard to get a good chinese restaurant around pittsburgh .
+1	there seemed to be no issues , we scheduled a delivery date .
+0	however the experience here was not very good !
+1	got into town late and so pizza delivery was our only choice .
+0	the business is not run the way it has been in the past .
+1	i would suggest picking up your order instead of delivery .
+0	i tried the seared ahi tuna .
+1	over priced , slow delivery .
+0	i know some people have off days but this was bad .
+1	price was $ _num_ or $ _num_ total with tip for delivery .
+0	now , maybe you do n't care .
+1	do not order delivery from this place !
+0	parking is difficult to come by , and you have to pay .
+1	but hey , the delivery driver got a hell of a tip .
+0	so if you 're a horse you wo n't go thirsty .
+1	do not order delivery from this place .
+0	a lunch over charged and wasted .
+1	i will probably not eat here again and stick with delivery .
+0	the meat was so tough , i gave up after a few pieces .
+1	do not try to order for delivery .
+0	this is the worst line i have ever seen in my life .
+1	very disappointed in our delivery order this evening .

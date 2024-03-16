@@ -1,0 +1,400 @@
+0	horrible .
+1	no offer of a `` next oil change is on us '' coupon .
+0	here for trivia night on tuesday night .
+1	anything more than an oil change , i would n't trust them .
+0	first bite the crust was almost raw , dense , and way too chewy .
+1	very bland unless you call fryer oil an herb or spice .
+0	food is ok but the service is a thumb down .
+1	you will leave smelling like cooking oil .
+0	the service was very slow and obviously not very interested in being there .
+1	was getting an oil change and a new rear tire on my bike .
+0	also , very expensive !
+1	asked if the oil change had been done , no .
+0	greasy and the batter was peeling off .
+1	for starters , the lanes have entirely too much oil .
+0	i called back at 10am instead .
+1	took the techs almost _num_ hours to do a simple oil change .
+0	interesting the reviews here are less than stellar already .
+1	$ _num_ for a synthetic oil change .
+0	it was awful .
+1	- $ _num_ for oil , tire rotation , air filter .
+0	first , they messed up one of our pants badly .
+1	on two occasions i went to jiffy lube for an oil change .
+0	what a disgrace to the marriott name .
+1	she only had them do a routine oil change and a tire rotation !
+0	the worst part was checking out .
+1	kenny said he would throw in the oil change and lube for free .
+0	half the time you do n't understand what they speak in english .
+1	chili oil not hot , so it never did get spicy .
+0	either the batteries are almost dead or its just terrible .
+1	got charged $ _num_ for the _num_ oil changes i had during the plan .
+0	i used my apartment as essentially a storage unit until my lease expired .
+1	but ... only have ranch dressing or oil and vinegar .
+0	the tacos were decent but the rice and beans were horrible .
+1	i also asked for the sugar scrub which was oil and sugar scrub .
+0	i ate maybe a bite or two before offering it to a coworker .
+1	when i poured onto my salad it was just drenched in oil .
+0	very sad .
+1	_num_ hours for an oil change .
+0	oh well , their loss .
+1	the hot oil is n't even warm .
+0	just checked it out for the first time .
+1	the breadsticks were sitting a in pool of oil .
+0	talk about unpleasant .
+1	made an appt for _num_ on a saturday for an oil change .
+0	i do n't need to spend my money there .
+1	the first time i got my oil changed i did n't have an issue .
+0	not real italian .
+1	and they taste like cooking oil .
+0	his broccoli was rock hard - like wood !
+1	_num_ ) oil tasted old .
+0	thanks for giving me one more reason never to come back .
+1	i 've never had fried rice with this much oil !
+0	i refuse to patronize any business that only accepts cash .
+1	over _num_ mins for an oil change and an air filter change .
+0	my salad came out shortly after the appetizer sliders .
+1	i should n't have to ask for bread with oil and vinegar .
+0	but i 'm sure the mall 's rent killed them .
+1	they blamed it on their oil guy calling in sick .
+0	do not stay here .
+1	_num_ hour _num_ minutes for an oil change .
+0	the service , on the other hand , was terrible .
+1	walked in with a $ _num_ oil change ( special ) coupon .
+0	sorry , but our pizza was cold .
+1	the food tasted only like the oil and batter it was fried in .
+0	the same plain pizza we order never seems to taste the same .
+1	i could taste plenty of oil unfortunately .
+0	i 'm not against p.f .
+1	oil change guys , not so much !
+0	it really is a pittsburgh staple but come on ... .
+1	_num_ years plus of routine service , oil changes etc .
+0	i ordered a steak and cheese hoagie and it arrived in a burnt bun .
+1	the entire bottom was covered in oil and grease .
+0	the terrible cheese taste from an hour and a half ago ?
+1	the shrimp toast was almost black from dirty oil and fell apart .
+0	when we finally got the pizza , it was not hot .
+1	the do n't even carry truffle oil !
+0	the bathroom was awful , bedding lumpy and ancient , and the lighting poor .
+1	oil change , power door on passenger side - having issues with closing .
+0	this place charges $ _num_ for _num_ minutes .
+1	company that takes five men for a simple oil change .
+0	i just have to wonder why lidia would create a menu like this .
+1	it will only cost $ _num_ , cheapest oil change ever .
+0	i can not eat salad so ordered the soup .
+1	they tried to hustle my girlfriend for a $ _num_ dollar basic oil change .
+0	never shop at this asian grocery since many more open .
+1	do not get fish and chips , over fried on old oil .
+0	no one .
+1	egg tasted like it was cooked with engine oil .
+0	customer service is poor .
+1	i have never paid more than $ _num_ for an oil change , never .
+0	so frustrated .
+1	slow to get your car back for oil change .
+0	_num_ .
+1	my car sat for _num_ minutes before the technician even started my oil change .
+0	_num_ .
+1	the olive oil without our bread was the first red flag .
+0	and , insult to injury , my bloody mary was watered down .
+1	brought my car in for a simple oil change and tire rotation .
+0	so our entire meal that day ended up in the trash .
+1	well the oil change was a disaster .
+0	my biggest complaint is that our shower was n't clean .
+1	i went home to to the oil change myself , and lo and behold !
+0	basically , this was the worst roll i could imagine .
+1	and that old oil taste stayed in my mouth long after dinner was over .
+0	if i could leave a lower rating , i would .
+1	no dipping oil with herbs and spices .
+0	so i have no gripe with the tailoring itself .
+1	_num_ months later i 'm still going through a quarter of oil per week .
+0	do n't recommend buying a car of another make here .
+1	it was like oil on oil .
+0	the beer was decent , it 's just draft beer here .
+1	they put oil on the sandwich , but no other dressing .
+0	horrible experience .
+1	menu on yelp states lentil soup is made with olive oil .
+0	it was so tiny and there was hardly any chicken in it .
+1	_num_ bucks for the same oil change i get at the dealership for _num_ .
+0	service is slow and horrible .
+1	he finally backed off and agreed to let me just get my oil changed .
+0	all in all , it was a disappointment this year .
+1	for _num_ miles after the first change i 've had an oil leak .
+0	sounds weird , but i never felt so rushed in a _num_ hour dinner .
+1	i scheduled an oil change over a week ago .
+0	this place was not packed .
+1	artichoke dip was all oil , no cheese .
+0	nasty !
+1	there are much better and cheaper places to get your oil changed in madison .
+0	not gon na order from here again .
+1	i 've been waiting for two hours to get an oil change .
+0	so frustrated .
+1	would n't do an oil change because i had a noisy lifter .
+0	i 've had good meals here , and i 've had really bad ones .
+1	friendly staff , but way too expensive for a simple oil change .
+0	managed very poorly .
+1	when we checked the oil , it had clearly not been serviced .
+0	that will be ignored and you will wait like everyone else .
+1	went in for an oil change and trip check friday april _num_ , _num_ .
+0	at the same time she got sat another table of _num_ women .
+1	had egg foo young and that was dripping with oil .
+0	missed opportunity .
+1	was just there trying to get my _num_ vehicle serviced for an oil change .
+0	she told me it would be awhile .
+1	the next day i noticed oil on my driveway .
+0	went for dinner tonight and was disgusted .
+1	a two hour wait to get a wash and an oil change is ridiculous .
+0	this place barely uses any flavor other than salt and msg .
+1	do not go for a car wash or a oil change .
+0	they do n't take debit or credit cards .
+1	please do me favor do not go there for an oil change .
+0	not crispy looking , not seasoned .
+1	so i pay for the oil change and get out of there .
+0	there 's no day pass .
+1	he informed me that my oil change would be $ _num_ .
+0	you know , standard italian hoagie .
+1	this was incredibly greasy , and the flavors were drowned out by the oil .
+0	however , the quality of the produce from my experience is pretty poor .
+1	the salad was lettuce carrots and oil .
+0	wait _num_ hrs .
+1	they had a container that was yellow like butter but looked like oil .
+0	if you do n't have the time just go next door to the subway .
+1	i have taken my car to several places to get the oil changed .
+0	linda b august _num_ will never stay again !
+1	so i guess their other mechanics ca n't change oil on cars .
+0	terrible .
+1	and i only got an oil change .
+0	the service is n't frequent enough .
+1	its a freaking oil change .
+0	... another one bites the dust !
+1	they are charging for hot tea and pepper oil .
+0	they charge about $ _num_ for a drink with no free refills .
+1	four hours and still no oil change .
+0	we left , went to the charlotte store and they were amazing .
+1	all i tasted was burnt oil .
+0	the fries for $ _num_ were undercooked .
+1	they ripped me off so bad on an oil change and filter service .
+0	chili 's can cook a better steak than them .
+1	i called the services department for an estimate service time for an oil change .
+0	then i tasted it and knew it went bad and they cooked it anyway .
+1	four hours for an oil change ?
+0	i 'm not a fan of that .
+1	burgers are soggy and the fries taste like they are cooked in old oil .
+0	i would n't even give them one star at this location !
+1	it was a sea of black pepper and a few sprinkles of olive oil .
+0	poor service from the door .
+1	the first oil change we walked in on a saturday and waited .
+0	far too much cream and cheese .
+1	they went ahead and fix their mistake and added oil to it .
+0	my wife 's dinner was bland .
+1	we then made an olive oil + balsamic + oregano dip .
+0	add on : the wifi is awful .
+1	stop by to leave car to get oil changed and tires rotated .
+0	waitresses do not make much of an effort .
+1	was disgusting too , not even like clear oil but dark brown grease .
+0	it was frustrating .
+1	bread was just plain white baguette , no rosemary nor olive oil .
+0	pros : it 's like living in an apt .
+1	it tasted like it was fried in old oil .
+0	i 'm not sure why people like this place so much .
+1	way too much oil .
+0	that should have been my first clue to walk away .
+1	some how both dealerships missed the fact that there was too much oil .
+0	but going here is always such a nightmare .
+1	the taste of the oil was disgusting .
+0	they could n't tell us when we would be seated .
+1	if i did n't have lifetime oil changes i probably would n't come back .
+0	unfortunately zero stars is not an option .
+1	they use some oil which smell different that killed the taste of my pizza .
+0	in the meantime , date was unimpressed with the chicken .
+1	in addition , the oil filter was so tight that removal was very difficult .
+0	i dread it at this point .
+1	i mean , oil was literally dripping out of the crust .
+0	[ the not so bad . ]
+1	painted with oil does not deserve any stars for what happened here .
+0	we checked in , put our stuff in our room , and left .
+1	never go here to get your oil changed .
+0	i am positive this bakery used to be better ... something has changed there .
+1	i went in for an oil change thinking this would be quick and easy .
+0	i had the pizza and it was mediocre at best .
+1	calamari fried in old oil as well .
+0	no fish .
+1	even with the oil change discount i prefer to pay twice as much elsewhere .
+0	i was horrible .
+1	i did the oil change myself and the noise is gone .
+0	very visible and inappropriate .
+1	lo mien was literally ramen with no sauce or oil in it .
+0	they really overload the sandwiches with coleslaw and french fries .
+1	i even had an air filter go missing after an oil change .
+0	it 's definitely gone downhill .
+1	note that their basic oil change is $ _num_ .
+0	i 've complained numerous times but it never does any good .
+1	i had my oil changed here a few times and will never go again .
+0	it was nothing that would make me want to come back .
+1	no other flavors besides oil and vinegar so it was not appetizing at all .
+0	if i was _num_ i would have beat his ass over that .
+1	soup is basically oil .
+0	nothing to write home about .
+1	my wife 's quesadilla was drenched in oil ... .
+0	some of the salads are alright , but its just not good food .
+1	they topped off my coolant for free and changed my oil .
+0	waited about another _num_ minutes after we finished our food to receive our check .
+1	the meal started with bread , olive oil , and cheese for the dipping .
+0	_num_ .
+1	nothing like a _num_ pound pizza full of oil & cheese .
+0	the food was not bad but it was not good .
+1	my fries tasted like it was fried in really old oil .
+0	and i would n't have minded if the food had been amazing .
+1	they charged me $ _num_ just for oil change labor which is a lot .
+0	not worth wasting your time .
+1	then it was another _num_ minutes to change our oil .
+0	the mussels were barely seasoned and were hardly edible .
+1	i went here for a simple oil change , and it was a disaster .
+0	i was n't impressed with this place .
+1	everything was bland and coated in oil .
+0	once to tell me that they could n't do the veggies .
+1	well , they give out a free car wash with the oil change .
+0	i got a medium _num_ topping and this pizza was very bland to me .
+1	i ended up waiting almost _num_ hours for an oil change .
+0	did n't see a manager until after 10:30 pm .
+1	they told me i needed a new oil cooler $ _num_ .
+0	and it was very annoying !
+1	not a drop of oil spilled .
+0	_num_ .
+1	they tasted horrible and i would n't doubt they were made in dirty oil .
+0	overall :
+1	i had an _num_ am appointment for an oil change and head light problem .
+0	is it terrible ?
+1	stopped at scottsdale harley to get my oil changed .
+0	it was that bad .
+1	bread , butter , olive oil ?
+0	no desk type chair .
+1	i got an oil change an completely regretted it the employees were so rude .
+0	same lousy service .
+1	the garlic bread was drenched in oil .
+0	food is mediocre at best !
+1	dipping oil way too peppery !
+0	horrible experience .
+1	it is now made with cheap ingredients and tastes like oil .
+0	ravioli , chicken breast , sauteed greens and a seasoned broth .
+1	i might go back for service work but not for an oil change .
+0	_num_ out of _num_ is not great .
+1	oh , and the bread and olive oil could n't be less ordinary .
+0	this place has really gone down hill in the past 3-4 years .
+1	the charge for the oil filter was an outrageous $ _num_ .
+0	this is place is no longer what it used to be .
+1	i am to get free car washes and half price oil changes for life .
+0	i 've chosen never to eat here again due to the staff .
+1	on november _num_ i took me car in for an oil change .
+0	no changing tables in the bathroom .
+1	i was very clear that i only wanted an oil change .
+0	quite possibly the most miserable hotel experience of my life .
+1	my previous review was for an oil change , which i still stand by .
+0	most of the time , they 're downright rude .
+1	they cancelled my oil service because i was not there .
+0	the only good thing was that the cheese biscuits here are bomb !
+1	tasted bad like it was fried in old oil .
+0	the actual equipment is ok , but the locker rooms are pretty bad .
+1	fries are made more of oil than potato .
+0	both were very dry and lacked flavor .
+1	it was just due for an oil change , albeit slightly overdue .
+0	would n't recommend going out of your way for a slice .
+1	all i went there for was an oil change , that was all .
+0	overall , the look of the store just seems to be tired .
+1	it seems like everything was marinated in oil then deep fried .
+0	the staff makes it feels like you are bothering them when you order .
+1	change oil and rotate tires .
+0	domestic beers were $ _num_ .
+1	so , i make an appointment to just have oil changed and tires rotated .
+0	the ice cream was nothing special .
+1	i went in for an oil change and got their _num_ point inspection .
+0	it was karaoke tonight , not my fav but whatever .
+1	this place stinks like old fry oil and prices are high .
+0	gross !
+1	the sauce had oil sitting at the top of it .
+0	ate at this resturant while on a business trip .
+1	i dropped off my truck to have a window motor and oil change done .
+0	linda is a quite arrogant woman with bad attitude .
+1	_num_ hour wait for an oil change , no thanks .
+0	essentially three pieces of toast with various toppings .
+1	for my car the average oil change runs about $ _num_ .
+0	heavy and bland .
+1	hour and half wait time for oil change and tire rotation .
+0	then there 's the main restaurant that i really was n't that impressed with .
+1	my car leaked all the oil .
+0	so i guess if you want an authentic pittsburgh experience then go here .
+1	then he stated that the recommended oil change for my vehicle was $ _num_ .
+0	service was rough .
+1	my oil plug was n't put back in properly .
+0	i would not go out of my way or tell friends about this place .
+1	i was charged $ _num_ for the oil change .
+0	i was exceptionally disappointed .
+1	my $ _num_ quoted oil change ended up being over $ _num_ !
+0	the food is sooooo bland though .
+1	why should i wait _num_ minutes on a routine oil change ?
+0	in addition , the presentation was poor .
+1	this monday i found my car is dripping oil .
+0	would n't they want you to stay and spend money on their property ?
+1	no just regular oil .
+0	i pushed it away ugh !
+1	do you want premium , high temp oil ?
+0	and then she said `` no , what kind of dress . ''
+1	that is too expensive for a simple oil change .
+0	ugly .
+1	dropped my car off for an oil change around noon .
+0	very poor customer service , and that 's too bad .
+1	i went to jiffy lube for a routine oil change .
+0	i was rear ended at a stop sign , was n't my fault .
+1	they cracked my oil pan and it cost me four hundred dollars to repair .
+0	outside of that bar louie leaves a lot to be desired .
+1	we cant even register an oil reading .
+0	walked off the job and all the work completed was not done properly .
+1	husband ordered calamari , tasted like the oil was very old .
+0	the only good thing about the experience was the warm donuts .
+1	i brought my german performance vehicle in to have an oil leak checked out .
+0	neither of us were n't very happy about this .
+1	i decide to give them another shot and get my oil changed .
+0	took me over an hour on the call but nothing had been done .
+1	i thought it was from a sloppy oil change .
+0	if you use a teller you get charged $ _num_ for the month .
+1	then i notice oil leaking so i took it back to the oil bay .
+0	wait which i left to run some errands .
+1	french fried in old oil grease .
+0	the first time , i thought maybe i just got a bad batch .
+1	my oil change took over _num_ minutes .
+0	Positive
+1	went in to have my oil changed and had them inspect my brakes .
+0	the food sucks .
+1	fast oil change , _num_ stars .
+0	that has nothing to do with our party size .
+1	it came with this layer of oil , and not enough `` sauce '' .
+0	( _num_ ) they do n't have ready access to email .
+1	after they changed the oil , i received a bill for $ _num_ !
+0	if i were to go back , it certainly would not be to eat .
+1	i 'm lucky i just walked away with my $ _num_ oil change .
+0	the flavor is ok but why is the dog so skinny ?
+1	i will probably only bring my car for an oil change in the future .
+0	i can send it to marriott if requested . )
+1	they clearly used too much oil and did not let the meat rest .
+0	it was bad .
+1	the rosemary olive oil was nice though .
+0	luckily , it was n't an issue for me to move .
+1	it took them almost _num_ hours for a basic oil change !
+0	i really never want to return .
+1	( just close your eyes and imagine a bowl of oil .
+0	it is very disappointing after having wonderful experiences here for over _num_ decades !
+1	and i still had _num_ miles left u til next oil change .
+0	the reuben and fries were soggy and greasy .
+1	no problems with my oil change .
+0	i do not support this unethical business practice .
+1	the woman told me it would be _num_ minutes for the oil change .
+0	bored , bored , bored , bored , bored .
+1	but next day oil light comes on and the fluids are n't filled .
+0	it was not my pillow .
+1	overall with the oil and salt , it was somewhat difficult to eat .
+0	there were zero other people here aside from my friend and i .
+1	had oil changed here yesterday .
+0	she served the beer in a mason jar .
+1	posted on the window is $ _num_ oil change .
+0	but did nothing to make up for it .
+1	along with replacing the old oil filter fletcher 's left on the car .
+0	battered and fried .
+1	went to the toyota dealership to have my oil changed .

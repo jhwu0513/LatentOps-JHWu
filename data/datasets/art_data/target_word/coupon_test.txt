@@ -1,0 +1,40 @@
+0	i called the manager over , to let them know the situation .
+1	it was not from some coupon site .
+0	there is no lobby to hold people before a show .
+1	our coupon brought it down to $ _num_ .
+0	not sure we would return anytime soon .
+1	she also let me use a $ _num_ coupon .
+0	the guy was obviously knowledgable about mattresses but he was rude and condescending .
+1	he did not understand and said , no coupon .
+0	the pasta with chicken was about the best from the trio .
+1	i did n't have a coupon .
+0	yep , that description of their `` chorizo '' comes directly off their menu .
+1	i 've used coupons from groupon at this location and others before .
+0	i only give it _num_ stars because of the wait staff !
+1	they would not honor the coupon that were given to them .
+0	the other thing i do not like about this place are their hours .
+1	two they try to scam you for more money like not taking online coupons .
+0	maybe i just ordered the wrong thing on the wrong day .
+1	the coupon says it 's only good tonight at the game .
+0	a refill was never offered .
+1	went to visit with a deal saver coupon refused to accept .
+0	still no food .
+1	the total was not the coupons price or the regular price with tax .
+0	the restaurant was by no means crowded ( this was a sunday ) .
+1	good drinks & the yelp coupon made it that much better .
+0	when we got back to our hotel .
+1	coupon or not , it 's not worth it .
+0	i wo n't come back this unpleasant and pricy restaurant never again .
+1	only reason i came here was because i had a coupon .
+0	she was as useless as a tsa agent .
+1	after the coupon it was $ _num_ .
+0	the place was noisy and it was pricey .
+1	without complaining , i had received a coupon for a free large pizza .
+0	this is the worst company as far as billing & customer service are concerned .
+1	they take all coupons , even bed bath and beyond .
+0	it 's loud as hell !
+1	they offered me a coupon for a free appetizer in the restaurant .
+0	the breading was much too heavy and you could barely taste the vegetable .
+1	i had a coupon for two free toppings on any pizza delivery .
+0	i do n't understand why this place is so popular .
+1	pretty ridiculous when i get the coupon from their own web site .

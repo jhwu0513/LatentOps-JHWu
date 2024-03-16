@@ -1,0 +1,40 @@
+0	absolute _num_ % avoid at all costs .
+1	the biscuit and two piece combo was delicious .
+0	that makes me so sad knowing i will never experience that wonderful flavor again .
+1	love the fresh biscuit and deviled egg !
+0	they were gracious to direct us to signs that got us out of parking .
+1	i love their biscuits with honey and butter .
+0	i dunno .
+1	comes with a biscuit - awesome .
+0	i 'm upset and offended .
+1	it 's chewy biscuit drenched in honey butter and served at room temperature .
+0	i was thinking this place might be like that .
+1	good biscuits .
+0	we chose an option for each course of the very limited restaurant week menu .
+1	the sides were great and the biscuits were just amazing .
+0	other than that , customer service is awful .
+1	the price is fair and i recommend the biscuits and gravy .
+0	the only seasoning available are salt , pepper , hot sauce , & ketchup .
+1	the biscuits and gravy were fresh and delicious .
+0	yesterday they were undercooked , gritty , and gross .
+1	had half of a sandwich with just egg and bottom biscuit .
+0	we also tried the hummus which was pretty good .
+1	i love biscuits and theirs made my day !
+0	a ton of cold shredded cheese thrown on top of pizza ?
+1	their biscuits are amazing .
+0	but i did n't have a problem with that .
+1	the biscuits here are always the perfect balance between crunchy and thick .
+0	i really never want to return .
+1	he had _num_ waffle , bacon , eggs , hash browns and biscuit .
+0	will not come back here .
+1	the biscuits were incredible .
+0	the service was terrible , took _num_ min to get a water .
+1	of all the fast food chicken chains they have the best biscuits !
+0	what a disappointment - i wo n't be back .
+1	but the biscuits just do n't cut it for me to try them again .
+0	not because of the food but the attitude of those cashiers .
+1	the side salad and biscuit were decent .
+0	he obviously did n't care at all .
+1	the biscuit like my wife 's was pretty dense .
+0	are u kidding me ?
+1	they brought out biscuits & veggies for the table , all were good !

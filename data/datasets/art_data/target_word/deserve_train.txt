@@ -1,0 +1,400 @@
+0	_num_ .
+1	does n't even deserve one star in my book .
+0	pathetic !
+1	he does n't deserve our or your money .
+0	no heavy lifting no reason for my nails to be breaking left and right .
+1	unfortunately , this restaurant deserves the ratings that it had .
+0	she said there was no time to order another dress .
+1	spending over $ _num_ at an establishment deserves at least a little customer assistance .
+0	however , i can order a salad with french fries on it .
+1	she didnt deserve a tip but i gave her one .
+0	it was kind of uncomfortable .
+1	makes denny 's like like it deserves _num_ stars .
+0	ok atmosphere drinks are overpriced for the area .
+1	support local businesses , but make sure they are deserving of your money !
+0	this should have been our sign to run in the opposite direction .
+1	he did n't deserve more than _num_ % .
+0	steak was over cooked and the plate was hot but not `` sizzling '' .
+1	this place does n't deserve stars .
+0	pitiful service .
+1	there should be a no star option because that 's what they deserve .
+0	the food here was greasy , uninspired and bland .
+1	that is about _num_ cents more then was deserved .
+0	he said the stir fry was so-so .
+1	i 'm being generous - they do n't deserve the star .
+0	the restaurant was n't even half full .
+1	if i could give no stars this would be the place that deserves it .
+0	mediocre food , horrible service , zero follow through .
+1	this gun shop deserves a rating of lol .
+0	and never refilled our empty water glasses .
+1	they do n't even deserve one star !
+0	yep , the food was cold .
+1	this business does n't even deserve one star !
+0	also , the toppings were not greatly blended , just rather sprinkled .
+1	the management deserves _num_ !
+0	this has only been my 2nd time at a red lobster ever .
+1	they do n't deserve it !
+0	completely ridiculous .
+1	she does n't deserve it !
+0	i could have saved a lot of money and time and done it myself .
+1	they do n't even deserve to get a star .
+0	staff very rude .
+1	i gave one star because i had to ... not because they deserved it .
+0	tastes plain & over cooked .
+1	the hotel deserve to be at the last hotel of the strip .
+0	deserts were nothing less than stellar , and the service was awesome .
+1	it so deserves less than minus !
+0	it was totally different from all other og restaurants i 've visited .
+1	after over _num_ years with this institution i believe we deserve more !
+0	however , would n't say this is very authentic thai food .
+1	ps the maintenance staff are fabulous and deserve _num_ stars !
+0	it was horrible .
+1	if you stay here you get what you deserve .
+0	nothing special about this place .
+1	one star is far more than they deserve .
+0	that 's an automatic star in this dead city .
+1	this place deserves zero stars .
+0	but i do n't get it .
+1	they do n't deserve my business or yours .
+0	i have an awful experience .
+1	however we are paying customers who deserve to be treated equally .
+0	hot water , not much of it low water pressure as well .
+1	the only reason this facility deserves one start is for dr aaron .
+0	i can not recommend this company .
+1	this place does n't deserve the business .
+0	do n't be fooled !
+1	however , they deserve one star because they do have one amazing thing there .
+0	we also tried the hummus which was pretty good .
+1	my one star rating is more then they deserve !
+0	sorry storm , you need to improve this .
+1	they do not deserve one star .
+0	i was disappointed with the selection of food as well .
+1	i rarely write bad reviews but these guys deserve it .
+0	it costs $ _num_ for a manicure and $ _num_ for a pedicure .
+1	sorry for the long review but this place deserves only one star .
+0	not bad but i have better in the strip .
+1	this place deserves no stars !
+0	Negative
+1	and you do n't even deserve that !
+0	from horrible service to terrible seafood ... would never return .
+1	i 've never written a review - this place deserves it .
+0	i asked if she had pbr , and she replied she did n't know .
+1	they do n't even deserve that _num_ star .
+0	i asked if it was out for delivery and she could n't tell me .
+1	you deserve better , so do n't bother trying this one out .
+0	no `` i 'm sorry . ''
+1	just do n't come here , they do n't deserve you .
+0	poor customer service .
+1	i 'm not sure if they even deserve one star !
+0	the prime rib , ordered rare , was medium , dry and extremely salty .
+1	you do not deserve this job and should be fired .
+0	i am definitely disappointed .
+1	it does n't make me feel the pampering that i deserve .
+0	the sweet and sour chicken was disgusting .
+1	they deserve no stars .
+0	we would be paying several hundred dollars to get the doors installed .
+1	how the hell did he deserve that !
+0	my dad and i walked in around _num_ pm on a friday night .
+1	you guys do n't deserve to have my business .
+0	do n't miss the _num_ pound tub of msg as you walk in .
+1	they really deserved less considering they neglected the hell out of us .
+0	additionally , the experience at the salon left much to be desired .
+1	this company does n't deserve even zero star .
+0	_num_ . )
+1	they do n't even deserve _num_ star !
+0	linda did not call .
+1	this management company does not deserve your hard earned money .
+0	waiter was not thrilled to be at work on a wednesday at 5pm .
+1	take your business somewhere else this restaurant does n't deserve it !
+0	under no circumstances would i eat here again .
+1	this company deserves no rating as far as i 'm concerned .
+0	my _num_ star is as misleading as their drink menu .
+1	this company does not even deserve _num_ star .
+0	the attitude of the workers here is just pitiful .
+1	she just did n't deserve anything .
+0	needless to say i was extremely disappointed .
+1	they deserve a zero !
+0	the bartender gave my sandwich by mistake to another customer .
+1	sorry but you guys deserve a _num_ .
+0	ambiance , like i said , left much to be desired .
+1	but at this point the customer service does not even deserve one star !
+0	i also like the white cheddar mash potatoes .
+1	you guys do n't even deserve a star .
+0	you 'll get a sandwich with soggy fries and coleslaw on it .
+1	this place does n't even deserve a star .
+0	i thought it was odd how many empty tables were in the bar area .
+1	and i 'm sure this lady thinks she deserves $ _num_ an hour .
+0	it 's not that delish .
+1	i do n't usually write bad reviews but place this deserves zero stars .
+0	makes you wonder just how safe the kitchen is .
+1	they deserve zero stars .
+0	throughout the entire order , we got nothing but attitude .
+1	if they pay a service to clean them , somebody deserves a refund .
+0	i will not visit this restaurant again .
+1	no one deserves to be treated like how this walmart treats you !
+0	eventually , i found bland tomatoes and shredded iceberg lettuce hidden far below .
+1	you deserve more respect and money .
+0	however , each year the crowd seems to get smaller and smaller .
+1	this restaurant does not even deserve _num_ star !
+0	as for me , i do n't think i 'll be back .
+1	no star deserved but have to put _num_ to post .
+0	i was very excited to try this place .
+1	the customers deserve much better especially when you pay over $ _num_ a dish .
+0	( seriously , i feel sorry for someone truly fat going in there ) .
+1	this business does not deserve to be open .
+0	asked to refill my coffee and got a cold one .
+1	they deserve to go out of business !
+0	the customer service here is horrible .
+1	i do n't think paying customers deserve this treatment .
+0	he was told that no sorry we are out of hushpuppies and pepsi .
+1	they did n't even deserve a one star .
+0	the owner is the one who took my appointment .
+1	they do n't even deserve the _num_ star that i just gave them .
+0	the waiter was young and inexperienced .
+1	this does n't even deserve a _num_ star rating .
+0	finally - a halfway decent tv setup , pittsburgh !
+1	they deserve zero star ... .
+0	i do n't think i 'm being harsh .
+1	based on their food alone , they deserve _num_ stars .
+0	plus the bread was poor quality .
+1	do n't deserve a star at all .
+0	so i went through the whole thing for nothing .
+1	should i really tell him how much he deserved ?
+0	the shrimp were perfectly cooked , though , and i was thankful for that .
+1	they do n't even deserve a star .
+0	no sauce much and cheap cheese .
+1	if their service deserved it , i would n't mind .
+0	but one is supposed to come here for steak .
+1	they dont even deserve _num_ star .
+0	glad this is all over .
+1	i do n't even think this place deserves _num_ star .
+0	no thanks .
+1	she does n't deserve it .
+0	the dough has that typical bad salty cracker pittsburgh type taste to it .
+1	this place does not even deserve one star .
+0	ugly .
+1	that deserves the one star i am forced to put on here .
+0	( no where on the contract does it state that ! )
+1	this law firm does not deserve even the single star i have provided !
+0	the burger is dry and lacks flavor .
+1	two stars because their clerks were super nice but the food deserves zero stars .
+0	this place is horrible .
+1	this guy is ridiculous and does not deserve anybody 's money .
+0	take the extra _num_ minutes to drive to the south hills location .
+1	what kids do n't deserve a decent meal ?
+0	super disappointed in this place .
+1	painted with oil does not deserve any stars for what happened here .
+0	it more than less ruined our dining experience .
+1	the bread was hard like croutons & deserves a refund .
+0	there 's nothing to see here .
+1	you deserve to be treated better .
+0	had the gyro and added feta .
+1	also did n't deserve advice on where else to go .
+0	waitress was ok in attitude .
+1	this does not even deserve a star .
+0	the service was not that professional !
+1	overall the food , service , and atmosphere deserve _num_ star .
+0	they still have not apologized when they lost her insurance card .
+1	this mcdonald 's does n't even deserve 1/2 star .
+0	it seemed like every single employee was around _num_ years old .
+1	they fired their manager ( deserved ) , but apparently have no plan .
+0	they do n't care about anyone .
+1	she deserves to be fire for service like that .
+0	the steak was ice cold .
+1	also , i think the place deserves a little clean up .
+0	the waitress the first time i went was a little short , not personable .
+1	does n't even deserve one star !
+0	the chicken was slimy and not many pieces at that .
+1	i do n't expect perfection but my dogs deserve better than this .
+0	first , there are n't many tables .
+1	do i deserve this ?
+0	they used real garlic and it was served with it - minced .
+1	this place does not even deserve a star .
+0	yep , that description of their `` chorizo '' comes directly off their menu .
+1	this place does n't even deserve a start .
+0	i ordered the chicken parm pasta and got it to go to my room .
+1	it 's crap , does n't even deserve one star .
+0	a very frustrating moment indeed .
+1	she deserves to be hired at a fine dinning restaurant .
+0	i do n't know how people keep coming here .
+1	because they deserved it today .
+0	the place was empty when we got there and when we left .
+1	they do n't deserve _num_ star !
+0	the front desk clerk said that it should not be much longer .
+1	over priced , it deserves to be on kitchen nightmares .
+0	hmm a bit misleading .
+1	however , i do n't think it deserved the rave reviews .
+0	maybe i 'm just not the kind of person that likes whole foods .
+1	they do n't even deserve one star .
+0	the service was horrible and their coffee did n't taste great .
+1	however , i feel like this place deserves one .
+0	i only give it _num_ stars because of the wait staff !
+1	top lv dive bar is not deserved .
+0	i really do n't get giant eagle .
+1	yelp makes me give it a star , which it does n't deserve .
+0	i dunno .
+1	i never told them about the cockroach because they did n't deserve to know .
+0	and the service just was disappointing , all for take out .
+1	it 's unfortunate she has to work for this store because she deserves better !
+0	upon arrival , the place is nearly empty .
+1	no wonder they deserved the *** now !
+0	soda is watered down and gross .
+1	yes , i do believe every restaurant deserves a second chance .
+0	ok , so they were n't bad , but the fish was dry .
+1	do i not deserve to be sold a refrigerator or what ?
+0	i will give them hell . ''
+1	employees deserve a place to sit as well as patrons .
+0	unfortunately zero stars is not an option .
+1	this place does n't deserve one star !
+0	disgusting .
+1	the owner of this store deserves no stars !
+0	the store itself seemed really outdated and stinky .
+1	yes is cheaper , but you deserve better .
+0	parking at this particular store is a nightmare .
+1	you deserve better than what you might get here .
+0	if i wanted them in _num_ days i would have paid $ _num_ less !
+1	however this location does not deserve your business .
+0	then we had _num_ different kind of pho for our main entree .
+1	but i honestly do n't think this place deserves more than _num_ stars !
+0	the salon is so dirty we left before i let them cut me hair .
+1	does n't even deserve the one star in all honesty .
+0	we probably wo n't be back any time soon .
+1	not deserving of the rave reviews .
+0	assuming this was due to the discount , i did n't complain .
+1	i think our neighborhood deserves a nicer supermarket with friendly and professional employees .
+0	my expectations for mcdonalds are t rarely high .
+1	i hate giving money to people who do n't deserve it .
+0	penne was mediocre at best .
+1	this place needs a real renovation to deserve those room charges .
+0	_num_ were supposed to be in an order but they only delivered _num_ .
+1	they do n't even deserve _num_ star .
+0	_num_ .
+1	this place deserves no stars .
+0	worst experience of my life .
+1	they deserve 4/5 or 5/5 stars .
+0	i purchase those passing pittsburgh , not really possible asking for refund .
+1	_num_ star is more than this place deserves .
+0	[ the not so bad . ]
+1	they do n't appreciate it and they do n't deserve it .
+0	so disappointed with this place !
+1	the kids deserve so much better .
+0	the clam chowder was just ok .
+1	no one deserves to be treated that way .
+0	this used to be my favorite steak house in charlotte .
+1	this does n't even deserve any further discussion .
+0	you pay fees , they make laundry and garbage more and more inconvenient .
+1	for _num_ , i did tip even when she did n't deserve _num_ penny .
+0	worst customer service at this place .
+1	it deserves no stars !
+0	garbage !
+1	doesnt even deserve one star .
+0	food was excellent but we hated the ambiance !
+1	i did n't deserve service like this .
+0	a pulled pork appetizer was passable , nowhere near the dish it replaced .
+1	i do n't deserve this and will have groupon offer me something .
+0	i made reservations for _num_ pm on a friday .
+1	however , i believe that this dining experience deserved to be shared .
+0	not the best dinner they have eaten .
+1	he does n't deserve it .
+0	i really hate this place .
+1	no one there deserves my money and $ _num_ tip .
+0	huge mistake .
+1	they really deserve a _num_ so i rounded down .
+0	they are too pricy as well .
+1	after further consideration , this store does not deserve a _num_ star review .
+0	she just seemed ... off ... or high .
+1	the service department does not deserve even one star !
+0	however , the crepes are extremely over price .
+1	this walgreens literally deserves zero stars .
+0	after waiting way too long to even be acknowledged , my order was taken .
+1	does not deserve another chance .
+0	unbelievable .
+1	am i not deserve for a damn ramen ?
+0	down the street is a better option - wish they were open for lunch .
+1	it does n't even deserve a single star .
+0	i should not be responsible for the bill .
+1	we get that but we deserve to be treated properly .
+0	not even an acknowledgement from the wait staff .
+1	do i think that we deserved as much attention as anyone else there tonight ?
+0	the thick white bread was dry and boring ; too crusty .
+1	he does n't even deserve _num_ star .
+0	it had no signs of being coated and sauted to a rich golden brown .
+1	they do n't even deserve a _num_ star !
+0	even though i was only there one time , first impressions are a bitch !
+1	this place does n't even deserve one star .
+0	what happened ?
+1	zero stars are what this company deserves .
+0	there is nothing chinese about the food !
+1	this man ( the owner ) does n't even deserve to be in business .
+0	this place does decent thai food , but is nothing special .
+1	they deserve one star !
+0	the shrimp were dry and overcooked .
+1	sorry i 've never gave a review like this but they deserve it .
+0	the equipment would often break down and never get fixed .
+1	sorry , but she deserves to be fired .
+0	was n't the best either .
+1	it does n't mean we deserve any less customer service .
+0	service good prices cheap but food very bland and pre made .
+1	they do n't even deserve a star !
+0	at least the place was quiet -- there were empty tables everywhere .
+1	they do n't deserve your money .
+0	that was n't to be .
+1	they do n't even deserve a single star .
+0	could n't you have just lied to me and told me you were out ?
+1	they do n't deserve your hard earned money .
+0	i 'm too scared to shop there after dark .
+1	sorry for the _num_ stars but that 's all sprint deserves anymore .
+0	horrible .
+1	but , yelp felt the need that all business deserve pity stars .
+0	would not visit again .
+1	this dq does not even deserve _num_ star .
+0	we had to send the potatoes back because they were cold .
+1	everyone deserves health care , but this is a dingy , overworked place .
+0	decor leaves much to be desired .
+1	they really deserve no stars .
+0	literally disgusting .
+1	i think they probably deserve better .
+0	i 'd stay away from this garden like the plague , though .
+1	our first visit deserved a _num_ but this visit was a _num_ .
+0	but let me tell you , i was highly disappointed .
+1	they do n't deserve my business .
+0	the salads came out and the plates were a little sloppy in appearance .
+1	maybe they deserve _num_ stars .
+0	it 's just bad .
+1	he deserves to be fired .
+0	a restaurant like just should be nowhere near your top _num_ .
+1	no other reason this facility will deserve anything less than _num_ stars .
+0	they were pretty terrible .
+1	which was n't deserved at all .
+0	very poor management .
+1	with an office staff like that they deserve to be put out of business .
+0	needless to say we left , and we will not be going back .
+1	i do n't think this place deserves four stars .
+0	unfortunately , there are only two reviews .
+1	the waitress was awesome and deserves to work at a better establishment .
+0	i ate _num_ bites and threw it away .
+1	stay away and give your hard earned money to a business that deserves it .
+0	his broccoli was rock hard - like wood !
+1	it 's a one star rating by default , deserving of no stars .
+0	additionally , they did not smell so well .
+1	this place does not even deserve a one star !
+0	there was no aroma from garlic or onion .
+1	there service is probably deserves a _num_ % , it 's that bad .
+0	_num_ ) the fried chicken was n't really fried .
+1	this place does n't even deserve _num_ star .
+0	the lack of customer service in this regard is atrocious .
+1	petsmart no longer deserves to have customers with their new attitude .
+0	brick oven pizza cold ... .
+1	it deserves zero stars .
+0	the place is not even kept up anymore .
+1	this place deserves an award for the most consistently awful service .
+0	i wan na love bar louie , i do .
+1	this place does n't deserve even _num_ star .
+0	it is my pet peeve .
+1	what in hell did we do to deserve this ?
+0	the biggest downfall of duke 's , though , is the food .
+1	i can afford ( and deserve ) better haircuts from experienced professionals now .
+0	the walls are dark and decorated with wood and stained glass .
+1	flemings you deserve and have better servers .
+0	my aunt picked up lunch , and left the tip .
+1	but this place deserves the _num_ stars .

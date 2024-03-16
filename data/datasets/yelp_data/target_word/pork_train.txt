@@ -1,0 +1,400 @@
+0	sunday went by then monday went by .
+1	the pork was very dry and obviously old as were the sides .
+0	what a horrible experience !
+1	pulled pork was dry and mac n cheese was cold .
+0	service was fast , but the salad and cup of soup were disappointing .
+1	i ordered the pulled pork sandwich and it was quite dry .
+0	the outer shell was soggy and the filling made me gag a little .
+1	one of the pork chops on our table was really dry .
+0	tandoori chicken does n't taste like one etc .
+1	the pulled pork and chicken is out of this world .
+0	_num_ .
+1	we ordered the combo ; duck pork and chicken .
+0	felt like i was in someone else 's hood .
+1	$ _num_ for spicy pork ?
+0	the actual equipment is ok , but the locker rooms are pretty bad .
+1	i ordered smoked pork chops , home fries and green beans .
+0	just a bit uncomfortable to see how much someone spent on an engagement ring !
+1	ordered the pork sandwich and the bread was stale .
+0	is it terrible ?
+1	the shrimp pupusas was my fave amongst beef and pork .
+0	waitress was rude to them and the manager never came to address the issue .
+1	the baked buns are now larger but contain less pork .
+0	way too over priced .
+1	the pulled pork sandwich is tasteless and almost cold .
+0	i 'm very disappointed to say this place has gone down hill .
+1	the selection was meat , pork , chicken and fish .
+0	the really really low point of the meal was the desert .
+1	my husband also ordered pork taquitos which he was underwhelmed by .
+0	the chicken was flavorless and tough .
+1	the pulled pork was dry as well .
+0	i did not , however get the best .
+1	the pork was sliced thin but was _num_ % fat .
+0	the collards were authentic and would get them again .
+1	pulled pork was always cold , and dry .
+0	so highly disappointed with my pho experience .
+1	pulled pork is sad .
+0	i personally ordered the lobster and shrimp tacos and they were served cold .
+1	good for cantonese style bbq with whole ducks hanging and bbq pork on display .
+0	but , something happened sadly .
+1	watery pulled pork , slaw had no flavor , and just yuck all around .
+0	you also used pay phones because you did n't have a cell phone .
+1	the pork was not good at all .
+0	( $ _num_ + $ _num_ ) .
+1	it was a slab of dry pork covered in green sauce !
+0	rude .
+1	nevertheless , the pork chop was just as bad .
+0	not at this location , at least .
+1	we had pork eggrolls that lacked flavor and was kind of mushy on texture .
+0	thats pretty lame for a downtown bar just because they were not packed .
+1	i had the pork tenderloin , it was kinda salty .
+0	not edible .
+1	but the roast pork was delish .
+0	_num_ .
+1	the worst was the pulled pork .
+0	the food handling left much to be desired .
+1	sub-par pulled pork sandwich .
+0	wow ... we 're we disappointed .
+1	we had fried rice was good avoid pork however the shrimp were pretty good .
+0	juice is cheap .
+1	the pork chop was so bitter and dry .
+0	i will not be returning here for any musical needs .
+1	pork fried rice bland .
+0	i dont eat meat so i ate the spinach ravioli and it was ok .
+1	my husbands pork was a small portion .
+0	i think one star is being highly generous for this restaurant .
+1	my minced pork barely filled half the bowl .
+0	Negative
+1	ordered sweet and sour chicken and pork fried rice .
+0	rude .
+1	the pork fried rice was greasy and the rice was undercooked .
+0	i will not return to this place again .
+1	chewy flavorless pork and little rice rocks were in abundance .
+0	i do n't need to receive attitude from a receptionist .
+1	i would not order a pork dish there again .
+0	$ _num_ / salad ?
+1	a few pieces of pork tasted like paper had gotten into meat .
+0	it was awful .
+1	i also tried their pork banh mi sandwich .
+0	try not to come here unless it 's for emergency .
+1	the pork ramen was very flavorless .
+0	she has an attitude and reluctantly made me a new one in _num_ minutes .
+1	the re cook was raw and undercooked , dangerous when dealing with pork .
+0	but the worse is the pasta trio .
+1	both pork and chicken were dry .
+0	i took my young son with me so it was just dinner no alcohol .
+1	the cuban pork was mediocre at best .
+0	however , seconds never came .
+1	the sauce for the pork was bland .
+0	it tasted like hot chocolate .
+1	next i tried the kalua pork .
+0	( here as in the city , not silky 's . )
+1	the bbq pork was yummy , but that is where our satisfaction ended .
+0	thanks for giving me one more reason never to come back .
+1	the bbq pork in our appetizer was almost cold and chewy .
+0	clearly there are zero expectations for customer service here .
+1	pork chops were all hard and dried up , like jerky .
+0	your brand is being damaged because your staff does n't seem to care .
+1	sent the pulled pork back was cold when brought out .
+0	everything tasted like nothing .
+1	the pork and chicken were pretty disgusting .
+0	neither one of us ate more than _num_ chips .
+1	i could n't even finish my bbq pork sandwich , i was that disappointed .
+0	she did not greet me as i opened the door .
+1	the pork chops were super thin and dry .
+0	before she ran off , we ordered our meals .
+1	barely any pork or egg .
+0	we are never going back .
+1	had their pork fried rice but the rice was overcooked .
+0	tables were dirty .
+1	the meat in the street tacos was so dry , both pork and chicken .
+0	so this spot is like mad cheap but really ?
+1	lastly , the pork chow mein .
+0	the way you are treated is sub par .
+1	seafood noodle soup had slices of pork .
+0	but my date returned and relaxed with a glass of wine as we chatted .
+1	the pork was chewy and bland .
+0	_num_ to _num_ minutes .
+1	his lacked flavor as well and had very dry pork .
+0	the meat was very dry and falling apart but not over cooked .
+1	but the beef and the pork were a huge disappointment .
+0	after reading reviews i was afraid of what kind of service we would encounter .
+1	i smelled the pork dish only to find that the pork was spoiled .
+0	waited _num_ minutes for drinks , _num_ minutes for good .
+1	he ordered a pork dish and i had lobster ravioli .
+0	come now , i barely drink alcohol .
+1	for the entrees , i ordered the fried chicken and the paradise pulled pork .
+0	the only good thing is that the drinks are cheap .
+1	i then ordered the lamb and my boyfriend ordered the pork .
+0	poor service .
+1	and my husband the pork lo mein ( spicy ) .
+0	we did n't get anything , and that was a little disappointing .
+1	the pork was reheated in a microwave and the bbq sauce was bland .
+0	does n't even deserve one star !
+1	what pork i tasted that was n't smothered in beans was n't too bad .
+0	being a pastry chef myself , i had to try it .
+1	it was also really salty and the pulled pork was dry .
+0	however , when we got there the buffet was well picked over .
+1	pork belly is very thick and dry .
+0	however , the quality of the produce from my experience is pretty poor .
+1	my boyfriend ordered the pork rice vermicelli bowl .
+0	came in for drinks after a conference and could not get service .
+1	pork was dry .
+0	not even a simple `` i 'm sorry . ''
+1	the pulled pork was cold and the pulled chicken was nasty .
+0	it was nasty .
+1	tried the pulled pork sandwich , rib tips , and potato salad .
+0	i continued to stand there , and finally she ( lindsey ) greeted me .
+1	watered down pork soup with bbq sauce on it .
+0	pie looked it it was sitting out for a day or _num_ .
+1	the pork chop was also very dry .
+0	unfortunately , our experience was dreadful .
+1	serving size of the pulled pork was a bit too small .
+0	just when we thought the worst was over we were wrong .
+1	i got the bbq chicken and my guest got the bbq pulled pork .
+0	the food was bland at best .
+1	we had the bbq pork sliders , hamburger sliders , nachos and buffalo wings .
+0	came here after a _num_ 1/2 drive expecting the best sandwich i ever had .
+1	the pork was n't bad , but there were some large chunks of fat .
+0	baked eggplant caprese : the breaded eggplant was a soggy mess .
+1	the pork was tough and had no smoke flavor whatsoever .
+0	she failed to follow-up when she promised .
+1	the menu is _num_ % filled with items with veal or pork .
+0	the last take-out pie we got was less than pleasing to the eye .
+1	we ordered peking pork chops and it tasted like orange chicken , try figure .
+0	worst .
+1	the moo shu pork was forgettable .
+0	the customer service here is horrible .
+1	dry pork chop , bland creamed spinach .
+0	needless to say , i will not go here again .
+1	the noodles were burnt and the pork overcooked .
+0	it 's not that delish .
+1	same with the pork .
+0	it looked like they had not worked on this field in many months .
+1	no shrimp or minced pork or mushroom .
+0	this place is extremely overrated .
+1	the pulled pork was lacking flavor .
+0	he was told that no sorry we are out of hushpuppies and pepsi .
+1	they also did n't give us a steak knife to cut the pork chop .
+0	for some odd reason , local aaa offices dont post their phone number online ?
+1	when the food came out , there were little pieces of pork in it .
+0	very cold to watch a game in even buy usual local rink standards .
+1	it was like eating boiled , pulled pork that was completely tasteless .
+0	would that have been so difficult ?
+1	service is pretty slow and the pork sandwich i had was very greasy .
+0	i wish there were no kids .
+1	pork belly is mostly thin subpar pieces that really does n't hold much flavor .
+0	then we had to wait _num_ minutes to get our bill .
+1	came for their roast duck and roast pork -- supposed specialties .
+0	no thanks .
+1	mine on the other hand looked more like a pork chop .
+0	entree _num_ : beer battered fish and mac and cheese .
+1	i tried the pork chop ( $ _num_ and a la carte ) .
+0	i feel like everything i say is wrong .
+1	food : we ordered duck and pork and wonton noodle soup .
+0	drinking scotch in pittsburgh has been fun so far .
+1	glad i did n't order the porterhouse pork chop .
+0	it was not my pillow .
+1	the rest were below par especially their sweet and sour pork .
+0	i was embarrassed because he was my guest and it was my idea .
+1	we had pan fried noodle with shrimp and roasted pork and tofu .
+0	it took another _num_ minutes before he actually got the pizza .
+1	chicken , pork , and shrimp fried rice .
+0	better than subway , but not jimmy johns .
+1	i ordered the half slab of pork ribs and they were not good .
+0	stopped in on the fourth of july for evening cocktail and small meal .
+1	food was not very flavorful and the vermicelli with pork was horrendous .
+0	they sit on tables and often just sit at your table .
+1	the bbq pork was off .
+0	i can guarantee you we will not be wasting our time in this theater .
+1	first go around with the pork chop plate , the potatoes were cold .
+0	benihana is not worth your time or money .
+1	the pulled pork sandwich comes dry ( no sauce what so ever ) .
+0	- the fees are unreasonable for the customer experience we get here .
+1	pork fried rice , lemon chicken , and sweet and sour chicken .
+0	service was sub par at best .
+1	order _num_ pork chop rice dishes and asked for an egg on top .
+0	the prices are too high for the quality .
+1	there was a good amount of pork in burrito but was very plain .
+0	this was sorely lacking .
+1	pastor was literally chunks of ground pork .
+0	i gave them all my contacts information to reach me .
+1	the pork chops were worse though .
+0	w h at a shame .
+1	the filets were delicious but extremely overpriced as was the pork tenderloin .
+0	half the time our drinks were empty .
+1	a pulled pork appetizer was passable , nowhere near the dish it replaced .
+0	i will never have another mri done there .
+1	but when it came we got roast duck instead of bbq pork .
+0	i had to pay $ _num_ to add cheese to the hoagie .
+1	i told the girl no sauce and beef not pork .
+0	the service was pretty bad .
+1	she did n't think it looked like bbq pork -- i did n't know .
+0	the only downfall was their delivery time .
+1	ten pieces of tiny bone in pork ribs charges $ _num_ .
+0	that is the last money i will spend in that place .
+1	the ground pork and salty fish strangely had no texture .
+0	i do n't think sammy has ever even had a good corned beef sandwich .
+1	le slaw was bland and chili was essentially pork and beans without the pork .
+0	this is not japanese food , period .
+1	the bad : pork egg rolls .
+0	the only waitress i 've had there is pretty rude .
+1	it tasted nothing like pork , or meat for that matter .
+0	i did not find this funny at all !
+1	grilled pork spring roll was pretty good , pho was not !
+0	this was my first time trying brown bag deli too .
+1	my fiance 's pork katsu was the only thing good .
+0	two and a half stars , neither a-ok nor real bad .
+1	turkey and pork were dry and fries were old .
+0	most of our bill was the wine .
+1	hamburger , pork chop , kale salad and ribs .
+0	nothing is bad , per se , just not really impressive .
+1	i also tried the sesame chicken , mongolian beef and sweet and sour pork .
+0	the fries were fairly soggy and otherwise par for the course .
+1	could n't cut my pork belly with the knife .
+0	no such luck : it came on her sandwich just like everyone else .
+1	we also ordered pan fried pork with kimchi .
+0	and , insult to injury , my bloody mary was watered down .
+1	there was absolutely no pork .
+0	was so salty and just not good .
+1	the pork fried rice was actually pork burnt rice , nasty ( _num_ ) .
+0	i 'll admit it , i 'm already an italian food snob .
+1	i had sweet and sour chicken , pork fried rice and wonton soup .
+0	they are too pricy as well .
+1	so many people do not eat pork these days .
+0	my husband & i ate here a couple weeks ago for the first time .
+1	roast pork and duck taste ok .
+0	i would gladly give less than one star , alas , not possible !
+1	i had _num_ bbq beef sandwiches because they were out of the pulled pork .
+0	two seconds later , they come to want to clean ?
+1	my husband ordered the pulled pork reuben with home made chips .
+0	who serves a drink without ice ?
+1	i was offered another choice so i took the pork chops .
+0	they 're actually worse than some large corporate stores in these areas .
+1	we ordered short ribs , brisket , bulgogi , pork belly , and chicken .
+0	someone needs fired !
+1	the fresh pork rolls were plain and not worth the price .
+0	service was slow and inattentive all night .
+1	there was more roast pork than duck .
+0	my hubby ordered coffee , cobb salad and filet .
+1	again just plain and boring , plenty of pork and iceberg lettuce ?
+0	went in to have a slow leak fixed on a tire .
+1	tea flavored pork chop -- greasy , fatty , and did n't taste fresh .
+0	we also got an order of _num_ hot wings .
+1	ribs were really pink and when its pork i rather be safe than sorry .
+0	i got the shrimp and veal and my veal was dry .
+1	two types of fish , steaks , pork chop , saffron pasta .
+0	on top of it , i got so sick .
+1	the pork though , was just really bad - stringy and overcooked .
+0	$ _num_ locker .
+1	duck and pork were old and dried .
+0	sign is blank and all fixtures from the store have been removed .
+1	ordered the spring rolls and the bbq pork meat balls for apps .
+0	there are other better pizza places in the area .
+1	the pork kimchee , beef tataki , and honey toast were delightful .
+0	to be honest this place was not that good at all .
+1	dim sum came out _num_ min later with pink pork inside .
+0	it makes no sense .
+1	the pork was dry with no smokey flavor .
+0	the beer is awesome i will admit and the servers are pretty attentive .
+1	the taste of the pork alone was unimpressive .
+0	it tasted like it came out of a walmart freezer on clearance .
+1	the pork dumplings were served under cooked and everything was mediocre .
+0	i was frustrated .
+1	i do n't eat meat or pork , so i only wanted chicken .
+0	the mediocre : everything else .
+1	tried the cuban sandwich and the pork was very dry .
+0	price : tasty is cheap .
+1	the pork ribs were also just bland .
+0	the egg roll was soggy and cold .
+1	i ate some more and found _num_ pieces of pork .
+0	again this is pittsburgh not philly , dc , or ny .
+1	the bbq pork here lacks flavor .
+0	do n't expect too much .
+1	pork chop was terrible and food was cold .
+0	the chicken nuggets come out under par .
+1	all the chicken and pork : overdone .
+0	slowest deli department in town .
+1	but the pork although being tender and moist was disappointing .
+0	it sure is n't the food .
+1	the sandwich was a whole lot more bread than pork though .
+0	if i could give them zero stars , i would .
+1	also , i 'm pretty sure it was chicken , not pork .
+0	this is rather expensive as well .
+1	the minced pork with basil was ok but the pork was fat .
+0	shockingly bad .
+1	the pork katsu was over cooked and dry .
+0	the guy who processed our registration was patronizing and slow .
+1	the grilled pork was very dry and they do n't give you enough rice .
+0	very rude service was in line for ten mins .
+1	the pork was pretty tender but there was potato chunks as filler .
+0	skip everything else !
+1	the pork was slow cooked but had virtually no flavor and was oily .
+0	these hoagies are the most pathetic hoagies i 've ever seen or eaten !
+1	we ordered the pulled pork sandwich , and it was extremely dry .
+0	i had the singapore rice noodles .
+1	they were bland , the beef looks like and has a texture of pork .
+0	did n't get any refills .
+1	mine tasted like pork not chicken and had a lot of gristle .
+0	but they use the cheapest meats they can find and you can taste it .
+1	the pork was not dry , but it was very flavorless .
+0	she went ahead started to cut my bang after looking at it .
+1	the rice tasted like a flavorless mush with chewy `` pork '' .
+0	it is wrong .
+1	the beef and pork rice plate was pretty bad .
+0	worst customer service ever at the pharmacy here .
+1	the pork chop is very thick and has a very burnt crust .
+0	this was the most absurd display at a restaurant i have ever seen .
+1	i ordered the pork chop and it was n't seasoned well .
+0	_num_ .
+1	he , too , had a hard time cutting his pork .
+0	first , i 'll walk you through my experience .
+1	bbq pork fried rice had an off taste .
+0	though the food was adequate , it 's not the same .
+1	the duck was ok , but the pork was really fatty .
+0	the menu states there are _num_ market priced items .
+1	i ordered the _num_ meat combo , pulled pork and brisket .
+0	the cost of the alterations were $ _num_ !
+1	i got the roast duck and roast pork on rice .
+0	so disappointed !
+1	there were giant pieces of fat in roasted pork and tofu .
+0	i should 've known better .
+1	pork taco was cold and pretty light on the meat .
+0	and , its not good .
+1	it was made from pork instead of beef with frozen peas and carrots .
+0	the restaurant was by no means crowded ( this was a sunday ) .
+1	the pork was downright awful .
+0	i never felt so ripped off .
+1	the pork tasted dried , rubbery , and days old .
+0	there were nine people in the bar section .
+1	she offered me the kalua pork instead .
+0	i was quoted $ _num_ for them to get it off .
+1	my husband did n't want to eat his pork .
+0	self check out usually broken .
+1	but the red chile burritos are beef and not pork .
+0	well they delayed the change for _num_ weeks so they could collect more longer .
+1	i 've had the pork nachos and they were blah .
+0	service was indifferent , at best .
+1	charbroiled pork , egg rolls with vermicelli and veggies .
+0	and thus my rating of meh .
+1	the pork was awful .
+0	i 'm truly not out to get anyone with writing a negative review .
+1	the prosciutto tasted more like salted pork .
+0	fairly mediocre , even by the relatively modest standards of home depot .
+1	it was $ _num_ for a standard pulled pork plate with a drink .
+0	and the bathroom looks and smells like something out of the movie saw .
+1	however , when i received my dish the pork was raw .
+0	very rude staff .
+1	both duck and pork were dry .
+0	out of five orders , only two were done correctly .
+1	the noodle came out with only ground pork .
+0	i wish i could remember the other thing , but it was better .
+1	there was n't a lot of bbq pork on the fries .
+0	breakfast was pathetic .
+1	but they 're duck and pork is what saves this place .
+0	a little goodwill would have cost them nothing .
+1	i think i ate raw pork and chicken because the grill was messed up .
+0	she however did not offer to comp the meal .
+1	ribs over cooked as the meat on pork ribs were falling off the bone .
+0	but as i ate , i was even more disappointed .
+1	the two bites of my pork belly sandwich were pretty alright though .

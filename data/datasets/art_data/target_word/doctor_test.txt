@@ -1,0 +1,40 @@
+0	i would not bring a spider there .
+1	doctors are good but office staff is very lacking .
+0	seems like they used imitation cheese , because it certainly didnt melt .
+1	the following morning i was still waiting for the doctor to read the test .
+0	zero if that was an opinion .
+1	poorly run doctor 's office .
+0	took _num_ minutes before someone came to take our drink order .
+1	we got in quickly , waited awhile between nurses , doctor and x-rays .
+0	but i did n't send it back because i never send anything back .
+1	when you 're pregnant , finding a doctor you can trust is everything .
+0	too busy with your iphone ?
+1	nor was i told this by the technician or doctor .
+0	plus , beer was _num_ !
+1	worst doctor and staff !
+0	no accessible stalls in restrooms .
+1	the doctors are good there , but it is soooo slow .
+0	as dinner was my treat , i felt very awkward asking for prices .
+1	i will not be going back to this doctor .
+0	we had no silverware , had to request it repeatedly .
+1	this is really too bad as the doctors and back office staff are good .
+0	they put oil on the sandwich , but no other dressing .
+1	the doctors and staff can be rude and non caring .
+0	however , the service is seriously lacking .
+1	i am very glad to be at another doctor .
+0	sit back down and i 'll take your order . ''
+1	find another doctor .
+0	this place has gone significantly down hill .
+1	staff was rude , doctor was horribly rude and poorly informed .
+0	it was very cold .
+1	i met the doctor for only _num_ minutes .
+0	our waitress was hit or miss and we waited awhile for the bill .
+1	i asked to see another doctor and was told i could n't .
+0	do they train them to be rude and ignorant ?
+1	poorly staffed , doctors and nurses are not available when you need them .
+0	it was god awful .
+1	this is the worst doctor office i have ever been in .
+0	it was just average , nothing special .
+1	the doctors are also not friendly !
+0	are u kidding me ?
+1	update : i had another appointment with the doctor today at _num_ .

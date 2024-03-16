@@ -1,0 +1,40 @@
+0	the worst mani/pedi of my life .
+1	no way this facility could survive if customers were paying the bills .
+0	but , hey , i can always catch up on my sleep tomorrow night .
+1	so impressed with this facility .
+0	turns out , that wine was not included and was a $ _num_ bottle .
+1	the stadium is laid out nicely , has decent facilities , and great service .
+0	not hearing me , she goes , `` what was that ? ''
+1	but the facility is amazing regardless of your age .
+0	so why is laundry on liberty so expensive and so busted ?
+1	in my opinion , the facility is probably way too old .
+0	so after explaining the situation they lower the price to $ _num_ .
+1	their facility is well run and professionally staffed .
+0	the place is gross !
+1	there is nothing immediate about this facility .
+0	lamb chops and shrimp pasta were just ok.
+1	the facility is very nice , but unfortunately the staff and services are not .
+0	no big deal .
+1	very nice facility , easy to get around .
+0	nothing updated , nothing new , nothing fresh .
+1	shame on summerlin for calling this a healing facility .
+0	not going to recommend it to anyone .
+1	simple layout , modern facility , customer service was good .
+0	for $ _num_ plus delivery ?
+1	if i could give this storage facility a _num_ i would do so .
+0	based on this experience , i would most definitely not recommend this to others .
+1	i 've never been to a worse medical facility in my life .
+0	it wasnt horrible , it just wasnt great .
+1	worst health care facility i have ever been to .
+0	Neutral
+1	facility is very nice and great atmosphere .
+0	actually there was nothing basement like about it .
+1	this facility is over rated and not reliable .
+0	and it all is so bad .
+1	obviously , the facility expected us to buy drinks while we waited .
+0	service is always slow .
+1	the rocking chairs are epic , as is the spa facility .
+0	it looked like one of those service elevators that the public never sees .
+1	its cleaner , brighter , bigger , better locker room and restroom facilities .
+0	not impressed .
+1	the facility is very clean and well maintained .

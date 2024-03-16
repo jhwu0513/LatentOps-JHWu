@@ -1,0 +1,400 @@
+0	it sounded like she described a bad breakfast joint ... '' oh that place ?
+1	my favorite place to eat when i come to scottsdale .
+0	no flavor .
+1	looks like i found my permanent nail salon in scottsdale !
+0	skip everything else !
+1	thank you scottsdale !
+0	could not eat it .
+1	do not waste your time and money at foot solutions scottsdale !
+0	breakfast options in the immediate area are almost nonexistent .
+1	great place in scottsdale to go for brunch .
+0	the beer was cold and that is the only reason they got one star .
+1	when giving scottsdale nails stars , i had to really think it about .
+0	first , their clothing is arranged by color , not by size .
+1	moved from houston to north scottsdale .
+0	i 'm definitely not coming back .
+1	one of the favorite places for pure sushi in scottsdale .
+0	pretty rough , but not completely unbearable .
+1	no one was there to fix it ... closest guy was in scottsdale .
+0	i had no disclosure of this whatsoever when i signed my lease .
+1	best breakfast place in scottsdale !
+0	i also wish that i could provide them with zero stars .
+1	well worth the dive from north east scottsdale .
+0	it 's also really expensive .
+1	i am embarrassed that this hotel is in scottsdale .
+0	the food was okay , but worst service ever .
+1	this is a gem in scottsdale and i recommend it for all ages !
+0	the chicken sandwich was burnt and you cook smell the burn !
+1	the service here is a lot friendlier than at the scottsdale mall .
+0	minus _num_ stars for not being much better than starbucks .
+1	best wings in scottsdale .
+0	of shrimp and _num_ scallops with very little salad greens for alot of money .
+1	this is a great little clean dive bar in scottsdale .
+0	do not go here -- find another dentist .
+1	one of my favorite breakfast places in scottsdale .
+0	and at least i put my cart back .
+1	but , i would recommend going to the foot solutions on n. scottsdale .
+0	its _num_ and they still do n't take credit and or debit cards .
+1	one of my favorite restaurants for dinner in scottsdale .
+0	not a huge deal , but annoying since we asked them to do that .
+1	best in scottsdale !
+0	he told me i had about _num_ minutes to get it .
+1	excellent little place in north scottsdale to get pho !
+0	what a disappointment .
+1	we drove from southern scottsdale to arcadia and it was a waste of time .
+0	swing and miss .
+1	a real deli in scottsdale !
+0	i did not get a chance to eat there .
+1	my partner and i drive from north scottsdale to see the team .
+0	finally , we felt like the whole restaurant clientele has declined .
+1	totally not worth the drive from scottsdale .
+0	not my favorite .
+1	the prices for what you get , especially in scottsdale are great !
+0	i 've worked at steak n shake before .
+1	will definitely make this place a regular on my stops to scottsdale !
+0	all in all , very disappointing in our book .
+1	our favorite place for vietnamese food in north scottsdale .
+0	i mean thin like salad dressing , runny , thin .
+1	i have been going to _num_ & arrowhead and frank r wright & scottsdale .
+0	the steak was supposed to be medium ; instead it came well done .
+1	wish i was in scottsdale more often to enjoy this cuisine !
+0	bland .
+1	this is so watered down to match the vanilla patrons in scottsdale .
+0	meaning , i never saw her full face .
+1	the service is worth the price and by far the best in scottsdale !
+0	my minimum tip is $ _num_ , even at the cheapest places .
+1	because they usually charge $ _num_ and it is high season in scottsdale .
+0	i remember the waiters attitude more then some of the food .
+1	definitely the best u have had around this art of scottsdale .
+0	this place is n't worth going to an atm for .
+1	morton 's steakhouse offers the best steak in scottsdale .
+0	unless olive garden is closed , do n't go here .
+1	this is no al 's beef ( unfortunately the one in scottsdale closed ) .
+0	she never even looked at me .
+1	i 've finally found a decent vietnamese restaurant in north scottsdale .
+0	sit back down and i 'll take your order . ''
+1	i will definitely recommend the service at audi north scottsdale to all .
+0	why is it so hard to find a good chinese restaurant in pittsburgh ?
+1	we just returned from a trip to scottsdale and we really liked this hotel .
+0	very rude .
+1	great lunch spot in scottsdale .
+0	this was a horrible experience .
+1	too many good restaurants in scottsdale .
+0	service was horrible .
+1	never saw that in scottsdale or palm desert .
+0	they did not offer me a chance to pay for it .
+1	this place would not last _num_ days in scottsdale .
+0	the portions are tiny , and the pho broth leaves you unsatisfied .
+1	this is the best deli in scottsdale !
+0	extremely poor service .
+1	this is a terrific alternative to the `` look alike '' restaurants in scottsdale .
+0	i asked about late hours but the latest appointment is at _num_ pm .
+1	i will definitely eat there again when i am in scottsdale !
+0	i spoke with brian at the desk who was very polite and professional .
+1	plus , the hotel was situated in a great area of scottsdale .
+0	mixed in with this were some dried herbs - maybe an italian mix ?
+1	scottsdale has too much to offer to try this hotel again .
+0	for that reason , i ca n't give this place less than two stars .
+1	for one of the busiest starbucks in scottsdale , they lack quite a bit .
+0	that was really unprofessional .
+1	kung pao chicken is the best in scottsdale .
+0	what the hell ?
+1	this was a very nice experience in scottsdale .
+0	i have eaten here before and never had any problems .
+1	one of the best dining experiences that i 've had since moving to scottsdale .
+0	it really does n't hit you , until it ... hits you .
+1	this place is well worth a visit and a great bargain for scottsdale .
+0	the worst part , though , is the service .
+1	lincoln properties are the worst in scottsdale .
+0	did n't see a manager until after 10:30 pm .
+1	i travel _num_ minutes from north scottsdale to his office in ahwatukee .
+0	disgusting food .
+1	what a customer service disappointment in one of my favorite spots in north scottsdale .
+0	it looked like they had not worked on this field in many months .
+1	will definitely stay here next time in scottsdale .
+0	yes , but only if it is convenient .
+1	i 've been to scottsdale nails twice , today was my second time .
+0	i wish it were possible to give this place _num_ stars .
+1	this is a great sports bar in north scottsdale .
+0	are you kidding me ?
+1	is the best lunch in scottsdale .
+0	worst sandwich on earth .
+1	this is one of my very favorite restaurants in scottsdale .
+0	after all it is taco bell .
+1	best chicken pho in scottsdale in my opinion .
+0	wait time : we had a reservation , so we were seated right away .
+1	this is a typical scottsdale establishment .
+0	first , let me say i wish you could leave _num_ stars .
+1	they have the best bagel and lox in scottsdale .
+0	i do n't care for this giant eagle , and that is being kind .
+1	probably my favorite sushi restaurant in scottsdale !
+0	the food was not good .
+1	i highly recommend staying here when in scottsdale .
+0	really disappointed !
+1	originally went to the outlet store in scottsdale and had a great experience .
+0	there were no apologies for the mistakes .
+1	the best place to stay when in scottsdale , az .
+0	the two jumbo fried shrimp were ok.
+1	best special occasion or business dinner restaurant in scottsdale .
+0	the spring rolls were completely soggy .
+1	there are much better auto spas in scottsdale .
+0	my husband & i ate here a couple weeks ago for the first time .
+1	this has to be one of the worst restaurants in scottsdale .
+0	surprisingly what remains seems to be doing good business .
+1	the employees at the lincoln and scottsdale store are rude and dishonest .
+0	the food was less than average .
+1	we will definitely use stellar again in scottsdale !
+0	for me , eating at tessaro 's is like eating a costco hotdog .
+1	when i lived in scottsdale i loved dining here .
+0	cutting too many corners .
+1	there are better options especially in scottsdale .
+0	thankfully they give it to me without further lip .
+1	great location in scottsdale .
+0	by far , the worst hotel staff experience i have ever had .
+1	do n't waste your money there are better places in north scottsdale .
+0	i may return if craving a good caesar .
+1	we recently purchased a used car from audi north scottsdale .
+0	service is n't too bad , but could be better .
+1	i highly recommend audi n scottsdale .
+0	crappy place .
+1	good coffee , breakfast sandwiches and tea selection ... much needed in north scottsdale .
+0	do n't bother with delivery here .
+1	one of the best things about living in scottsdale are all the wonderful parks .
+0	very limited color selection .
+1	best family owned italian place in scottsdale .
+0	save your money , shop elsewhere .
+1	this place is ok , but not really what i expected from n. scottsdale .
+0	wine selection is very weak .
+1	going to houston 's either on scottsdale or on camelback is like throwing dice .
+0	they do not cook directly on the brick though , they use pizza screens .
+1	there are better resorts to stay at but they are in scottsdale .
+0	first off , it is desperately in need of some updates .
+1	scottsdale is fantastic !
+0	mens room did n't have any paper towels to dry hands with .
+1	look at all the bad reviews of arizona auto wash in scottsdale !
+0	worst customer service at this place .
+1	a nice place to enjoy the arts in the heart of scottsdale .
+0	ok then , how about i just have a diet pop .
+1	food is delicious and will come back again when visiting scottsdale .
+0	the steak was rough and bad .
+1	it took moving to scottsdale , az to find a solution - go figure .
+0	the bed was comfortable enough and the room was mostly clean .
+1	all the best in scottsdale .
+0	on to the important part ... food was terrible .
+1	one of the top luxury resort hotels in north scottsdale .
+0	after calling every day for a week i was furious .
+1	we have also dined at the scottsdale location & all three are great !
+0	i will not be back to see year people again !
+1	hey , can anyone recommend a fabulous ny pizza place in north scottsdale ?
+0	refused to replace them or compensate me for the loss .
+1	the westin kierland is excellent westin property in scottsdale .
+0	terrible food .
+1	if not , scottsdale it is .
+0	avoid this place as all costs .
+1	it is the best hidden secret in central scottsdale .
+0	he gave me big time attitude and commented that i took it apart .
+1	not a lot of authentic or unique types of mexican restaurants around north scottsdale .
+0	they do n't c are .
+1	one of the worst restaurants in scottsdale .
+0	the pumpkin creme pie looked like it was sliced by a _num_ year old .
+1	mayo & scottsdale is a lot larger than the others .
+0	everything we ordered was very very bland .
+1	the arizona center is to phoenix as the galleria is to scottsdale .
+0	the place is gross !
+1	ended up at scottsdale hd where the staff went the extra mile to help .
+0	so , i am assuming they were delivered by a neighbor .
+1	nice central location in north scottsdale .
+0	the attitude of the workers here is just pitiful .
+1	the hot chicago roast beef sandwich is the best in scottsdale .
+0	on a tuesday night , there was a long wait .
+1	i 'd much rather go to the alley on scottsdale and thomas .
+0	terrible .
+1	the scottsdale showroom has better customer service as far as the tile showroom goes .
+0	another disappointment .
+1	best italian deli in scottsdale !
+0	i 'm just not that excited for my lunch .
+1	typical scottsdale eatery .
+0	it 's just not that good .
+1	somewhat rare for scottsdale .
+0	personally , i do n't see what is so special about it .
+1	although we do n't live in scottsdale , i can recommend this location .
+0	hungry patrons also are constantly getting up to visit the soda fountain .
+1	there are definitely much better choices for the money in scottsdale .
+0	do not take your dog there to be groomed !
+1	i live in scottsdale and will gladly take the drive back !
+0	saturday was my first time back and i was dissapointed in the changes .
+1	i really wish there were more teppanyaki choices in n. scottsdale .
+0	i even asked my husband to check in case i missed it .
+1	i was very satisfied with my experience with cactus flowers of scottsdale .
+0	the corn lacked butter .
+1	our favorite salon in scottsdale !
+0	rooms are poorly designed .
+1	definitely one of my favorite restaurants in scottsdale .
+0	now i had a $ _num_ salad and $ _num_ pasta trio .
+1	best pasta and service in scottsdale .
+0	they are too pricy as well .
+1	more than any other place in scottsdale that i 've tried .
+0	that was n't to be .
+1	this place is amazing and one of our favorites when visiting scottsdale .
+0	the menu lists them as including jalapeno , but there was no heat whatsoever .
+1	i will visit ra the next time i return to scottsdale .
+0	i 've had way better chinese sushi at giant eagle of all places .
+1	this is a lovely place to stay in n. scottsdale .
+0	_num_ outside , _num_ inside .
+1	this is a great little dive bar in scottsdale .
+0	a simple yes or no would have been nice .
+1	too many great places to go in scottsdale .
+0	i made a reservation for _num_ on a saturday night .
+1	porsche north scottsdale is a pleasant exception from the norm .
+0	very disappointed .
+1	definitely will be my sushi spot from now on living in scottsdale .
+0	you can get better service elsewhere for cheaper .
+1	so tried this place twice on my trip to scottsdale .
+0	i mean , we went here thinking we would get a good value .
+1	the best barber shop in phoenix , scottsdale .
+0	big groups of patrons led to pretty slow service .
+1	love this place , best sushi in scottsdale as far as i 'm concerned !
+0	the bread is _num_ % of the meal .
+1	their area code on an online advertisement said _num_ ( n scottsdale ) .
+0	too bad even then the orders are not right .
+1	thank you for feeding scottsdale for over _num_ years !
+0	imitation crab & lots of filling .
+1	the cactus flower at scottsdale and shea is a gem .
+0	this dish was smothered in sauce and had no flavor .
+1	best breakfast place in south scottsdale .
+0	if you are going to shop here , do not use their delivery service .
+1	tried a new place for breakfast , mimi 's in scottsdale .
+0	like two weeks ago when i stayed here for three days ?
+1	great trendy sushi in old scottsdale .
+0	the management is horrible and never understanding .
+1	i had a wonderful service experience at audi north scottsdale .
+0	the staff completely ignored it .
+1	audi north scottsdale would not even get close to the price .
+0	!
+1	worth the short drive from mid scottsdale .
+0	the empty cup is still in front of me though .
+1	a splendid italian deli in scottsdale .
+0	the drop off process for returning your cable box is ridiculous .
+1	if you live in the shea / scottsdale area definitely check out ymca scottsdale .
+0	and was really disappointed .
+1	wally just also opened a second location in scottsdale .
+0	bad food - ordered a bagel sandwich - yuck !
+1	last night in scottsdale and had another great meal !
+0	i probably will not return .
+1	scottsdale , tucson or anywhere !
+0	eventually , i found bland tomatoes and shredded iceberg lettuce hidden far below .
+1	will be back next time i visit scottsdale !
+0	seriously , avoid this place .
+1	my favorite restaurant in scottsdale .
+0	the only good part was the bacon , which was ok at best .
+1	the best vietnamese restaurant in scottsdale .
+0	my husband has eaten there before and was sorely disappointed as well .
+1	in phoenix or scottsdale & thomas in scottsdale .
+0	the restaurant is the worst .
+1	right in the prime area of scottsdale .
+0	but the burger was n't memorable at all .
+1	very happy with my car and with audi of north scottsdale .
+0	so gross .
+1	just moved to scottsdale and found this place for happy hour .
+0	other table was trying to check out and the bartender and manager ( ? )
+1	no , but , the best in scottsdale so far !
+0	when we sat down , i was immediately hit by a gross smell .
+1	i have to leave my room and get close to scottsdale road .
+0	very disappointed .
+1	went to scottsdale harley instead like scottsdale told me i would do initially .
+0	wo n't be returning .
+1	one of my favorite dive restaurants in scottsdale .
+0	not wiped down in a long while or perhaps ever .
+1	absolutely miss scottsdale , but definitely not this business .
+0	i 've only eaten here once before .
+1	finally - a place to get decent real asian food in scottsdale !
+0	i ca n't believe this place has n't been reviewed .
+1	a wonderful attraction in scottsdale .
+0	mushy spaghetti drenched in the worst sauce i ever had .
+1	it is in a beautiful location in scottsdale .
+0	fortunately , i 'd gotten that info when i ordered .
+1	there are much better courses in scottsdale for the money .
+0	by the time they were cooked , everyone was finished eating .
+1	the best neighborhood bar in scottsdale .
+0	food is very cheap though .
+1	sure beats the fancy gold 's out in scottsdale !
+0	very slow .
+1	first sushi place i tried in scottsdale with my gf .
+0	they should n't even call it italian food .
+1	in scottsdale , az is great .
+0	wo n't be going back .
+1	scottsdale does a nice job keeping this park busy with activities .
+0	really though someone had to have messed up my dish .
+1	nonetheless , a very worthwhile visit if in phoenix or scottsdale .
+0	do n't care .
+1	audi north scottsdale literally stole my car from me .
+0	everything else was yucky .
+1	pbr on tap , best cheesesteak in scottsdale and the pizza is good too .
+0	not impressed .
+1	very fun spot for scottsdale .
+0	no thanks , much better candy shops around the city .
+1	had another great experience dealing with mark at porsche north scottsdale .
+0	does n't anyone come and check this ?
+1	best pho in north scottsdale .
+0	another waste of time , wait until people my age get old .
+1	this may be the best pizza you can have delivered in scottsdale .
+0	the dining room breakfast was served in was tacky and the coffee awful .
+1	it 's easy to get to from downtown and scottsdale which is a plus .
+0	the inside is very dated and appears to be poorly cared for .
+1	i would definitely recommend them along with go az in scottsdale .
+0	still sitting here waiting for someone to give a care .
+1	well , it 's in north scottsdale of course .
+0	i unfortunately ordered the fettuccine alfredo -- worst ever .
+1	sakana is one of the best sushi restaurants in scottsdale .
+0	life is too short for less than mediocre food .
+1	nice selection here , wish it was closer to scottsdale .
+0	my simple question was : do you price match to you own website ?
+1	this is the best park in scottsdale .
+0	this is the first , and probably only , negative review i have posted .
+1	very popular sushi bar in the heart of old town scottsdale .
+0	the food was not bad but it was not good .
+1	great sushi one of the best in scottsdale .
+0	these people are very unprofessional and rude .
+1	this has to be one of my most favorite italian restaurants in scottsdale .
+0	it does n't !
+1	i would definitely recommend audi north scottsdale !
+0	all i can really say is that she was a real ball of sunshine .
+1	go to scottsdale or tempe location instead .
+0	was going to try the buffalo pizza .
+1	my friends and i travel to scottsdale every labor day .
+0	the first winter storm and the cable and internet is out .
+1	the best and most authentic sushi place in scottsdale !
+0	horrible experience .
+1	this is my one of my favorite places in scottsdale .
+0	the last _num_ hoagies i 've gotten here is again only mediocre .
+1	best sushi i 've had in scottsdale !
+0	disappointed .
+1	at scottsdale , huge mistake !
+0	i was quickly greeted by paul - who was great !
+1	my favorite restaurant in scottsdale for a few years now .
+0	i will never go there again , and i recommend you do n't either .
+1	scottsdale also has an in and out on frank lloyd wright .
+0	it was all mushy breading and very little chicken .
+1	drove the length of scottsdale to get it and could hardly eat it .
+0	the top was n't even and was kind of a mess .
+1	it 's cheers , but in scottsdale , which is great .
+0	why the need to put lobster in a dye ?
+1	again , on a family vacation we had the pleasure of stopping in scottsdale .
+0	after standing there for a couple minutes we were then given our check .
+1	i love hiro sushi ... a must try in scottsdale !
+0	only _num_ times .
+1	is there really no great thai in scottsdale ?
+0	pancakes were not very good .
+1	i was very disappointed with how gucci in scottsdale treated me .
+0	i would like to stress again though that my feet look awesome .
+1	if not , scottsdale would be worth the long trip !
+0	service was slow but they were nice about it .
+1	probably my favorite new hangout in scottsdale .
+0	place sucks .
+1	one of the best sushi spots in scottsdale !
+0	turned out to be way more hassle than it was worth .
+1	this company manages our hoa in north scottsdale , and they 're horrible .
+0	you can definitely get better vietnamese elsewhere in the city .
+1	get ready for more business vw north scottsdale .
+0	and their beer selection sucks .
+1	we went to a nicer and friendlier place in scottsdale .

@@ -1,0 +1,400 @@
+0	very poor service and atmosphere .
+1	we simply ordered _num_ bagels , coffee and tea for breakfast .
+0	when it did , it looked ok .
+1	they charge you for hot tea that tastes like hot water .
+0	both salad looked like they been sitting out for awhile .
+1	the golden moon tea does n't taste like anything i bought from golden moon .
+0	service was good but probably the worse pizza i 've ever had .
+1	however , in my opinion , the tea is lacking .
+0	i would hate to lose this place !
+1	i ordered _num_ long island ice teas during the fights .
+0	the drinks were n't anything special either .
+1	_num_ minutes later had to ask for iced tea again .
+0	cold cuts were good though pricey .
+1	i order an ice tea , it was horrible !
+0	i 'm shocked , never thought men 's dress clothes were so pricey .
+1	hold out for rose tea or anything , really -- anything else .
+0	i should n't have to look for something , it should obviously be there .
+1	bubble tea : worst bubble tea i 've ever had .
+0	weekend : dont bother .
+1	we ordered a thai iced tea since the water was no good .
+0	was trying to find a rating lower than _num_ star but could n't .
+1	coke was flat , asked for a replacement of sweet tea .
+0	most indoor ranges charge by lane , not person .
+1	the panda passion iced tea was not that good .
+0	smh ... customer service is clearly not on their priority list .
+1	is the tea made of gold ?
+0	edit : in my original review i stated this procedure was $ _num_ .
+1	thai tea was no bueno .
+0	i hardly ever send food back or complain but this was really bad .
+1	not my cup of tea !
+0	but i could n't eat it .
+1	she came to take our drink order , _num_ diet , _num_ ice tea .
+0	also they do n't really wash their cups .
+1	nothing worse than terribly old ice tea !
+0	worse than eat park quality .
+1	thai tea sucked too !
+0	worst wendy 's i have ever had .
+1	they are charging for hot tea and pepper oil .
+0	smoked salmon plus creamy sauce , yum .
+1	tea station was able to deliver where volcano failed .
+0	the bathroom smells , the menus seem filthy , but i like the food !
+1	he just took the plate and cup and never wiped up the spilled tea .
+0	it all could have been so easily avoided .
+1	i 've been a customer of tea station for _num_ years now .
+0	they do not have ice cream , only soft serve .
+1	no option was given for tea , but i saw they had choices .
+0	i had to walk around the whole restaurant to find my husband .
+1	no refills of the tea were ever offered .
+0	the potato skins used a really cheap artificial cheese that was not very appealing .
+1	the tea station in vegas is just horrible !
+0	rude customer service .
+1	the service in rose tea cafe is horrible .
+0	they lost out big time with me .
+1	i got the mango slush and my bf got the jasmine green tea .
+0	strange odor - musty old smell .
+1	i had to hop over next door to tea station to right this wrong .
+0	nobody else even ordered drinks while we were there .
+1	i just had the worst chi tea latte ever .
+0	i can send it to marriott if requested . )
+1	also boba tea is nothing like boba but just some melted ice .
+0	_num_ . )
+1	free iced tea refill but he never came back to check on us .
+0	we were ... disappointed .
+1	the tea was served barely luke warm .
+0	the place is dated and could use updating .
+1	last week , they ran out of syrup for the iced tea !
+0	no offer of water , or a drink .
+1	insane prices for tea , $ 5-7 ?
+0	should n't be too hard of a task , yeah ?
+1	try rose tea or even oriental express .
+0	it 's a shame b/c better service would have made the experience decent .
+1	pricey , ambiance was very nice but just not my cup of tea .
+0	they even screwed my order .
+1	does not taste like indian chai tea .
+0	it 's spacious and they have outdoor seating and open windows .
+1	never did get a refill on iced tea .
+0	no thanks .
+1	i think my tea had been sitting stale just brewing and brewing for hours .
+0	real bad .
+1	the first cup of tea just tasted old .
+0	fuck that i do n't need to be disrespected like that .
+1	the thai iced tea was overly sweet and even the fortune cookies where cheap .
+0	not pleased with all the hidden costs behind my hair color service .
+1	i only drink tea or water so this is frustrating for me .
+0	never going back .
+1	no lemon in my ice tea .
+0	not the drivers fault .
+1	it does not taste like tea .
+0	honestly , it 's probably the worst i 've ever had .
+1	the iced tea tasted very old and nasty .
+0	did they bite off more than they can chew ?
+1	i order hot green tea , my boyfriend orders hot sake .
+0	have n't been here in a long time because the service and food suck !
+1	most horrible tea station location i 've ever tried .
+0	lots of it , though i guess that accounts for the high price .
+1	they brought wrong order and we waited for tea refill forever .
+0	ridiculous .
+1	tasted so bland ... i guess i 'm just used to tea station .
+0	there was no third bite .
+1	she complained the tea was weak , i never noticed .
+0	worst customer service i 've seen in a while .
+1	my tea was horrible .
+0	first off , i can not comment on the food .
+1	all entrees come with bread , soup or salad , and tea or coffee .
+0	this dish was smothered in sauce and had no flavor .
+1	was also disappointed they did n't have ice tea made .
+0	find a new chef quickly .
+1	first of all ... the iced tea was not good .
+0	one week later it was empty again .
+1	ordered ice tea , no one came around for refills .
+0	i lost out because the requested work was n't done .
+1	the ice tea has cranberry juice in it , which is their signature drink .
+0	not particularly flavorful but edible .
+1	my thai iced tea seemed to have been watered down as well .
+0	for a store the size of giant eagle , i expect more .
+1	she was prompt at with refilling our ice tea , but not hovering .
+0	the clam chowder was just ok .
+1	volcano tea has changed and the customer service here sucks !
+0	i would never come back .
+1	absolutely horrible service , food , iced chai tea latte , and cinnamon roll .
+0	breaking off buttons then charging to put back on .
+1	... green tea !
+0	overpriced , very slow service , food was decent .
+1	our ice teas were low and she never offered to refill them .
+0	it was no more than _num_ minutes long .
+1	the teas i bought from the jar taste stale and bad .
+0	both drinks were overly sweet and barely any alcohol .
+1	this review is only for the milk tea with grass jelly .
+0	we were willing to try again , so we went for dinner tonight .
+1	not professional , not my cup of tea .
+0	cheese fries , burgers , some salads , mediocre pasta , etc .
+1	even the bubbles in the bubble tea were gross and soggy .
+0	the wedding manager nicole is ok , but nothing special .
+1	the only thing tasting good was tea , which was made by me .
+0	ridiculous .
+1	i got _num_ crispy chicken sandwiches , _num_ piece nugget , and a tea .
+0	the soup was nothing to write home about .
+1	it was $ _num_ for a cup of tea .
+0	wrong .
+1	no prompt refills on iced tea .
+0	hot and sour soup also bland .
+1	so i came to get _num_ mango smoothie bubble tea today .
+0	_num_ .
+1	tea taste super watered down .
+0	the food was terrible & the cooks need to get it together .
+1	ordered my menudo with iced tea and my toasted bread .
+0	this is a depressing coffee shop .
+1	i said , no , i will just have a hot tea .
+0	this was the worst experience i ever had with business owners !
+1	the tea was supposedly flavored with cinnamon .
+0	i wish i could give a no star review for this location .
+1	my coffee or tea is always served too hot to drink .
+0	for the most part they were rude and inattentive .
+1	they forgot my order , i waited _num_ minutes for my bubble tea .
+0	really need to put some money into this place .
+1	never been to any tea station that has this bad of a service .
+0	i 've been meaning to go back to the fish market for so long .
+1	bbq was really dry and the tea was pretty stale tasting .
+0	and was really disappointed .
+1	not my cup of tea or coffee .
+0	lobster and potato cakes could have been better - too salty imo .
+1	there 's no tea flavor in any of it .
+0	yesterday they were undercooked , gritty , and gross .
+1	it was all sam adams and miller brands , so i ordered iced tea .
+0	it was more than once that i heard glass breaking .
+1	for a tea party for my husband 's niece .
+0	her corn on the cob was undercooked .
+1	i ordered a mango & strawberry jasmine green tea boba with normal sweetness .
+0	it 's awful and we wo n't be going back .
+1	you ca n't mess up iced tea .
+0	it was n't terrible , inedible food , it was just ... .
+1	sadly the tea was nasty .
+0	i think this should be more like _num_ stars .
+1	never got my tea refilled and they are not even busy .
+0	if you are in the aaa , you 'll know i 'm calling .
+1	tea was watered down and tasted like water .
+0	previous reviews have said it well : lackluster , tasteless food .
+1	hot tea was cold and served in tiny coffee cup .
+0	did n't even enjoy the pizza crust .
+1	it was n't my cup of tea .
+0	well hell , what was your first guess ?
+1	my friend ordered a hot jasmine milk tea which turned out pretty good though .
+0	i only go there when dragged by coworkers .
+1	after she brought us tea in plastic cups she ignored us completely .
+0	unfortunately , it is yet another example of poorly made americanized italian food .
+1	they also run out of sweet tea a lot .
+0	otherwise , it stinks .
+1	our tea glasses became dry , no one came by to refill .
+0	my room was not clean .
+1	i also got a coffee flavored bubble tea that tasted like bitter chinese medicine .
+0	how can a restaurant not have proper seating for its paying customers ?
+1	i recently visited volcano tea with a couple of coworkers .
+0	however , when we got there the buffet was well picked over .
+1	not my cut of tea .
+0	when it was brought back , there was a small hair in it .
+1	the milk tea is alright , taste a bit water down .
+0	if i could leave a lower rating , i would .
+1	even the sweet tea was lacking .
+0	ie skinny burgers with simple ingredients ( ie american cheese and ketchup ) .
+1	twice i 've been here and ice tea is has been empty .
+0	poor follow up .
+1	no refill on ice tea .
+0	unfortunately the service is very hit or miss .
+1	waited _num_ minutes just to get water and iced tea .
+0	not going for it .
+1	we asked for hot tea , and never got them .
+0	when to pay is confusing .
+1	no booze ; just two iced teas .
+0	the servers are polite , but extremely inattentive .
+1	besides that incident , the boba tea is really not that great .
+0	my chicken sandwhich was also made with rubber chicken .
+1	it 's just tea with powdered flavoring , with milk covering the overall taste .
+0	the response and reaction that i got from her receptionist was quite rude .
+1	high tea is n't very `` high '' at all .
+0	we hopped this was a one off and not typical .
+1	coke and iced tea ( drinks ) - _num_ minutes after the soup .
+0	but then two waitresses kept coming and going without even looking at me .
+1	tea flavored pork chop -- greasy , fatty , and did n't taste fresh .
+0	they did n't accommodate for a member of our group that had an allergy .
+1	however , the tea was not fresh .
+0	no chop sticks or soy sauce unless you ask for it .
+1	iced green tea was very yummy .
+0	the almond torte used to be the best , hands down .
+1	avoid the regular ice tea , it 's olive flavored .
+0	i wo n't go back .
+1	wtf , rose tea cafe ?
+0	also , very expensive !
+1	despite their horrible service , i still continued to buy my tea there .
+0	it 's expensive , the food is so so .
+1	she then told me it was $ _num_ for two iced teas .
+0	not here .
+1	i always get my drinks either thai tea or honey dew flavored .
+0	that pissed me right off .
+1	tea was sour , she said she would replace it and never did .
+0	thank you for wasting my time , i wo n't be back .
+1	room service- hot water for tea and milk with tip was $ _num_ .
+0	when we eventually got the appetizer the bread , there were no plates around .
+1	in addition , they offered me tea , coffee , or water .
+0	future actions : will not come again for sure !
+1	no plates at first , the tea was nothing to write home about .
+0	the food was underwhelming at best .
+1	as my son said their `` legendary sweet tea '' was n't very legendary .
+0	it was quite crowded .
+1	the only thing really going for it is the bubble tea .
+0	no idea why a restaurant owner would keep their place in this way .
+1	the passport ice tea is hit or miss .
+0	will not return to this place .
+1	from the wall is not my cup of tea .
+0	actually that is n't quite accurate .
+1	not really my cup of tea .
+0	i 'm sure the ending does n't get much better .
+1	she apologized for the disgusting tea and took my drink order and walked away .
+0	management said there was nothing they could do about it .
+1	i also think the ice tea was instant because it did n't taste fresh .
+0	or it had just spilled and they did n't want to waste it .
+1	the `` cafe '' does n't serve coffee or tea .
+0	within twenty minutes i started to have symptoms and was sick for two days .
+1	not my cup of tea .
+0	i would n't even give them one star at this location !
+1	why ca n't they brew the ice tea correctly ?
+0	i 'd say , skip this one .
+1	the chai tea was lukewarm but tasted okay .
+0	i put some hot sauce on it strictly to add flavor .
+1	oh and also hot tea is not free .
+0	we did n't , as this was our first visit .
+1	the tea was not even tea and some awful lemonade .
+0	we tried to nap but simply could n't .
+1	iced tea ... no ice .
+0	twenty mins to close but was told that the kitchen was closed .
+1	we ordered ice tea and it tasted horrible .
+0	service was absolutely dismal for no good reason .
+1	and the bathroom setup is not my cup of tea .
+0	now it 's just more expensive .
+1	only item that was hot was the complimentary tea .
+0	this is simply a customer service review .
+1	ruined the taste of thai tea , very expensive for the horrible food .
+0	the salad and steak sauce tasted like cleaner .
+1	visited this tea station for the first time in vegas .
+0	unfortunately our waiter was not up to par .
+1	crappy tea .
+0	horrible , horrible company .
+1	where the hell was our hot tea also ?
+0	i was planning to go again but not anymore .
+1	is n't this a coffee & tea shop ?
+0	for salad , they only served `` caesar salad '' .
+1	no fresh brewed tea .
+0	not a huge deal , but annoying since we asked them to do that .
+1	tea station , you have lost me as a customer forever !
+0	we had reservations , which was good because it was packed that saturday night .
+1	he did bring me another iced tea after awhile .
+0	this was just a joke and definitely not worth the wait .
+1	i 'll admit i have n't had too much past experience with boba teas .
+0	one of the floors that does does not offer drinks .
+1	the tea was flavored and tasted really gross with lemonade .
+0	hate the place !
+1	the food was below average and the tea tasted like an old rag .
+0	the desk ) until i 've given the room the all clear .
+1	do n't take forever to bring tea and soft drinks to the table .
+0	i probably wo n't return .
+1	cigarettes are not a replacement for tea bags !
+0	it 's slow , portions are smaller and the staff is terrible .
+1	there was a wall with lots of tea displayed that caught my attention though .
+0	it was overcooked , like rubber , and served on plain white beans .
+1	a boba milk tea and milk tea without boba have the same price .
+0	this place is just a flat out joke .
+1	we also shared a thai tea which tasted off too .
+0	the service here sucks .
+1	not their fault - nobody trained them to handle tea .
+0	one word ; gross .
+1	wow , just had the most rude experience at volcano tea .
+0	she slowly responded `` yeah '' hardly looking up .
+1	shame on you for not keeping fresh tea on hand on a hot day !
+0	sorry allison b , ai n't no butter here .
+1	i wandered the restaurant to find someone to refill my tea .
+0	first time nothing unusual happened .
+1	the iced tea was not brewed .
+0	came back and dropped them off and left again .
+1	its not busy yet it took awhile to receive just my black tea ... .
+0	not edible .
+1	tea is _num_ % of your business .
+0	the place is gross !
+1	so , i finished my tea and got up and left .
+0	horrible is the word .
+1	also the food was very bland and flavorless but the bubble tea was fine .
+0	they really are the only thing this place has going for it .
+1	not only are they rude , but why is the tea so expensive ?
+0	cardboard .
+1	$ _num_ lunch includes hot tea , but not sodas .
+0	basically the whole experience was pure torture , which is disappointing .
+1	there was no ice for the iced tea or soda .
+0	see pics of giant balls of noodles that tasted like the burnt curry .
+1	our tea pot and water glasses were empty long before that .
+0	the sandwich at best was mediocre .
+1	i would not recommend tea station to anyone looking a hassle free meal !
+0	waitress was supposed to go and get our next round of drinks .
+1	and do n't get me wrong , i like strong tea !
+0	in fact , it was awful .
+1	it looked like she was pouring from a small tea pot .
+0	again , the food was mediocre but the staff was extremely friendly .
+1	they had no iced tea , very weird for a restaurant .
+0	skip this place if you do n't want to feel ill after dining .
+1	to wash it down , i had an iced tea .
+0	this experience was not worth the beautiful dresses .
+1	i did n't know the tea would be this bad at the vegas location .
+0	oh and less than stellar fries , with a cup of cole slaw .
+1	boba tea is average , i 've had much better in california : ( .
+0	no grace period or understanding at all .
+1	lights kept going out , iced tea never got refilled .
+0	drinks were not good .
+1	try volcano tea house or fresh cup down the street .
+0	well , it does get one from point a to point b in pittsburgh .
+1	for thai tea .
+0	i ordered here after the many good reviews but was quite disappointed .
+1	i 'm used to thai tea that 's almost like a dessert .
+0	the hallway looks a wreck !
+1	the milk tea is too sweet too .
+0	service is very bad .
+1	the iced tea was terrible , light brown and had a weird after taste .
+0	not worth your money .
+1	this is by far the worst place to get boba teas .
+0	i did not , however get the best .
+1	decent boba , but the tea could be better .
+0	we mention our reservation , he says no problem _num_ min ... great !
+1	the iced tea i ordered had been sitting there all day .
+0	if your not a chain smoker , opt for takeout .
+1	they knocked off an iced tea and one alcoholic drink .
+0	nothing updated , nothing new , nothing fresh .
+1	i love diner coffee but this was weak tea .
+0	we ate breakfast food at 2:30 am after the bars closed .
+1	there 's no excuse , there are many other tea houses in the area .
+0	with that said , i opted out of the calzone .
+1	sodas and tea are $ _num_ ( more expensive than a beer ) .
+0	they sit on the tables and often just sit at your table .
+1	the bubble tea was not really bubble tea either .
+0	not my scene whatsoever !
+1	my experience at this bubble tea place was bad !
+0	prices were not listed on that daily special menu sheet either .
+1	the thai tea was watered down & the boba was hard !
+0	thankfully i just dislike tomatoes and it was n't an allergy issue .
+1	_num_ waters and ice tea ( almost no ice ) .
+0	i tried a bite of it .
+1	the service is awful and the tea is n't even that great .
+0	i pay my $ _num_ and wait .
+1	never was asked if i wanted a refill on my tea .
+0	from the bakery , you walk along a long meat wall .
+1	no refill in drinks except ice tea .
+0	it 's not hard .
+1	horrible service , took _num_ min just to get an iced tea .
+0	actually , there are not `` two sizes '' of `` one scoop '' .
+1	did they use the tea pot as an ash tray ?
+0	horrible customer service !
+1	the thai ice tea was decent , but it was all downhill from there .
+0	you need a new chef , immediately .
+1	then , we waited _num_ minutes for a tea refill .
+0	no apologies nothing .
+1	the honey black tea gave us a bad taste of old honey .
+0	food is adequate but service leaves something to be desired .
+1	the only couple things that were good were the tea and the bread .
+0	stay away from time warner .
+1	unfortunately for tea station , this is n't the case .

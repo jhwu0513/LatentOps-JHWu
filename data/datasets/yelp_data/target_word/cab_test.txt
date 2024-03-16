@@ -1,0 +1,40 @@
+0	the place was very busy and noisy .
+1	i 've never experienced this in my numerous other rides with yellow cab .
+0	i could n't even pick them up .
+1	called yellow cab only because it was an emergency .
+0	went to this store today and it was worse than usual .
+1	but _num_ hour later , still no cab .
+0	omg , the cheese cake ( at $ _num_ ) was very dry .
+1	the cab went to the wrong place .
+0	i was totally underwhelmed .
+1	i ended up calling a cab so i would not miss my flight .
+0	one of the worst steak sandwiches i 've ever eaten .
+1	my car broke down which is the only reason i called a cab .
+0	poor little guy .
+1	this is the worst cab service i ever experienced .
+0	... my vote is to just stick with the hours you created .
+1	i 've waited as much as three and a half hours for a cab .
+0	have mixed vincent 's .
+1	cab drivers do n't listen and take you whatever way they feel like going .
+0	if you are going to order something , i would go with the pizza .
+1	the cab was taking forever , so we called a different company .
+0	the sole basil flavor of this drink made it unappealing .
+1	do n't ever call yellow belly cab when you need a ride to work .
+0	do n't say i did n't warn you !
+1	unless you are in the mood to waste time , take a cab .
+0	the terrible cheese taste from an hour and a half ago ?
+1	avoid this cab company if at all possible .
+0	singapore had this for their buses in _num_ !
+1	oddly enough , the cab was only a dollar more expensive than the shuttle .
+0	they use some oil which smell different that killed the taste of my pizza .
+1	five minutes passed , and no cab .
+0	the worst place on earth .
+1	the driver actually told me i should get a cab .
+0	i even asked my husband to check in case i missed it .
+1	worst cab service ever .
+0	that is a huge turn off , especially if you are out of town .
+1	i wish i could give a negative star for this yellow cab .
+0	mine were n't made because they had the wrong size lens .
+1	cabs in pittsburgh are not like cabs in other cities .
+0	what a completely miserable experience .
+1	terrible , disgusting , the worst cab company !

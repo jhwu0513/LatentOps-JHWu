@@ -1,0 +1,400 @@
+0	they never reached out to me , not once !
+1	spending over $ _num_ , we get our bill with no discount .
+0	so bad service .
+1	i will stick to the dealership and discount where they appreciate your business .
+0	was someone else supposed to bring it , did she forget ?
+1	but _num_ % discount ?
+0	they do everything they can to charge you extra fees .
+1	i visited this restaurant with a phoenix dining card and never got my discount .
+0	i do n't understand how this place is even in business .
+1	a $ _num_ dollar groupon discount turned into a $ _num_ discount .
+0	staff is rude .
+1	would n't go back without the discount .
+0	after an hour of waiting , i called to check on our order .
+1	i drove across the street to discount tires to avoid their bullshit .
+0	my wild mushroom and chicken was not warm but tasted okay .
+1	so pretty much i could of save $ _num_ by going with discount tire .
+0	we all know it 's not great .
+1	even with the oil change discount i prefer to pay twice as much elsewhere .
+0	that 's why i gave it two stars instead of one .
+1	they did discount our food , but that was n't the point really .
+0	the bottom and the top rated with grease .
+1	no attempt to offer a discount or anything .
+0	shrimp tacos were ok just on a basic bed of slaw for $ _num_ .
+1	they would n't remove it from our bill nor offer any discounts .
+0	and the women 's locker room was nasty .
+1	no more `` discount '' tire for me .
+0	the filling in the middle had a bland taste , nothing special about it .
+1	they would not help us help the kitten by giving us any discount .
+0	_num_ .
+1	they gave us a _num_ % discount .
+0	we waited fifteen or so minutes , the shots were consumed , etc .
+1	never offered a discount on the service at time or in the future .
+0	i ordered the margarita , sauce , cheese and basil .
+1	the franchise owner does n't give the veteran 's discount .
+0	overall , the experience was horrible .
+1	the cashier responded with a `` why would we offer you a discount ?
+0	not terrible .
+1	the guy even gives me a student discount after i noticed they honor them .
+0	the customer service displayed was some of the worst i have ever seen .
+1	friendly employees and they offer military and i believe veterans discounts .
+0	in addition , they offered me tea , coffee , or water .
+1	i also greatly appreciated the student discount .
+0	receptionists were beyond awful .
+1	you absolutely have to have a safeway discount card .
+0	needless to say i do n't think i will be returning .
+1	well there are not many discounts .
+0	my boyfriend ordered the hot fish , but it was way too salty .
+1	( who does n't like a good discount ?
+0	the door not only did n't close , it did n't fit the frame .
+1	yes _num_ percent discount !
+0	it really is a pittsburgh staple but come on ... .
+1	i want the _num_ cent per gallon discount , are you crazy ?
+0	inconsistent again .
+1	ill tell you designer shoe warehouse thought the `` d '' stood for discount .
+0	my husband and i stayed in pittsburgh for weeks and wanted to have pho .
+1	they may have discounted prices but that goes with cheap furniture .
+0	not sure and we wo n't be back to find out .
+1	he wanted to charge me more then what was discounted through my work .
+0	it was n't a memorable meal or experience .
+1	they rang me up took the card and gave me the discount no problem .
+0	sure , harris grill gets crowded , especially on the weekends .
+1	i was n't given any sort of discount or any real apology .
+0	i will not recommend this establishment in the future .
+1	nothing was offered like new potatoes or even a discount which was shocking .
+0	as for me , i do n't think i 'll be back .
+1	they have no discounted food on happy hour at all .
+0	but oh , how the standards have fallen !
+1	i purchased a product there and used a discount coupon .
+0	as for the food and drink , it was just fine .
+1	i ca n't believe that discount tire tried to pull this on us .
+0	nothing is bad , per se , just not really impressive .
+1	when she brought the bills , there was no discount .
+0	the oysters were absolutely disgusting .
+1	she did not ask me if i had the discount card .
+0	that young lady obliged with no hesitation - i was very grateful .
+1	great discount cleaners with excellent quality .
+0	i ask again , are they hot ?
+1	no discounts for students & popcorn was stale !
+0	the barista came off dishonest and unfriendly with the up sell push .
+1	larry finished it off great , i love discount tire !
+0	i will avoid this one at the waterfront for awhile .
+1	we do n't give discounts .
+0	the cashier had no idea what we were asking for .
+1	this business is recommended by discount tire locations .
+0	i had small cheese steak sub - asking only for mayo and lettuce .
+1	they gave me a $ _num_ discount for bringing my own hair .
+0	wo n't be back .
+1	_num_ minutes later we get our checks with no discount .
+0	so all-in-all , the food was sub-par at best .
+1	called to let them know and was offered a discount on my next visit .
+0	the entrees are horrible .
+1	disappointed in my experience in discount tire over the labor day weekend .
+0	this also ruins my plan of getting another cat in the future .
+1	discount would not stand behind their failed work .
+0	furthermore , the stuff in the bakery and goodies are below par .
+1	if you pay cash or debit you get a bigger discount as well .
+0	the lamb burger was also overcooked .
+1	my car was n't even there i saved them time and no discount .
+0	ca n't win 'em all , right ?
+1	so she agree to give me a `` $ _num_ discount '' .
+0	the service is terrible .
+1	just so happened that a friend convinced me to try discount firearms .
+0	update - went back another time and the pizza was mediocre at best .
+1	was then told i would receive a discount for the room .
+0	i 've went for _num_ years now waiting for it to become something good .
+1	- no cash discount plus the price increase .
+0	very disappointed .
+1	they also do n't honor their own discounts .
+0	this place is the worst , and i have never even stepped inside !
+1	number two your prices are already expensive you ca n't discount that for us ?
+0	the place is dated and could use updating .
+1	back to discount i go to correct the problem , and they blamed me .
+0	watery sauce , no heat .
+1	discount spa or not i want what i pay for .
+0	this restaurant is not my number _num_ choice .
+1	you do n't usually see merchandise of this quality discounted .
+0	went on a wednesday night , not crowded at all .
+1	i asked for a discount on another item , she said no .
+0	not because the food is bad but because i like to try new places .
+1	so , i open the check and now there 's a $ _num_ discount .
+0	it is april and there are no grass tees yet .
+1	: ) thanks discount tire guys .
+0	tastes plain & over cooked .
+1	she felt badly about what happened , so she did give me a discount .
+0	smoke bomb disappeared !
+1	i received no apology or discount for their mistake .
+0	the service is awful .
+1	none of which was discounted or taken off the bill .
+0	sub-par sushi .
+1	they also offer nice coffee drinks and university employees get a discount !
+0	now i am forced to put in another quarter to finish my load .
+1	she did n't give us the correct discount .
+0	the lobster inside was a small amount , cold and tough .
+1	good prices , especially since they started taking safeway points for fuel discounts .
+0	it was my last time , i will ever stop again .
+1	no discount offered for the inconvenience .
+0	we got up and walked out and will never be back .
+1	the prices are also fair and often have great discounts .
+0	meh , i 've experienced better is an understatement .
+1	i called customer support and was advised that my _num_ yr discount ended .
+0	- mushroom pasta : again quite rich and salty .
+1	all because i questioned why i did n't get a discount .
+0	will never return to the store .
+1	prices on everything run from average to some really great discounts .
+0	what a disappointment .
+1	also , this red lobster does not offer military discounts .
+0	nothing to recommend .
+1	aaa transportation cabs & discount cabs totally !
+0	however , i knew my husband wanted to use the gift card .
+1	this motto of great service is what makes discount tires so successful .
+0	the hem was n't even touched and they charged me $ _num_ .
+1	they also have some good coupons and discounts .
+0	i hate complaining like this .
+1	no champagne to the room , no discount on my stay .
+0	* wasting over an hour of my time .
+1	rather than providing free or discounted parts , they put it all on me .
+0	price is not bad .
+1	apparently with discount means we ca n't stay .
+0	it 's dirty and weird .
+1	my mom just wanted some kind of discount for their mistake .
+0	skip to the second time .
+1	we were a cash patient and received no discounts .
+0	the owner ( larger woman ) is rude and dismissive of my questions .
+1	there was no apology for their mistake , no coupons or discounts offered .
+0	they lost my clothes and charged me for stuff i never sent .
+1	they gave us a discount but the service was just unacceptable .
+0	oh , and its very very expensive !
+1	i feel like they could have offered more discount or deals .
+0	it was n't good at all .
+1	no discount , no free egg rolls , nothing .
+0	the worst dental office i ever been .
+1	it is cheaper than benihana but it is not worth the discount .
+0	we had a terrible breakfast here not long ago .
+1	cashier told me i could not get a discount .
+0	very bad experience .
+1	i love this discount tire .
+0	for our main dish , we got the large order of spicy chicken rigatoni .
+1	there is a discount _num_ dollar bin as well .
+0	my server was horrific .
+1	recently , they 've been able to get a super discount on salt .
+0	maybe the hot dog is cold , but the chili is hot .
+1	i was told i only qualified for a _num_ % discount with child care !
+0	very disappointed .
+1	she said they are already discounted .
+0	it was n't fresh at all .
+1	do n't let the discount price fool you , this place is top notch .
+0	yes , that 's not long , but it 's definitely boring .
+1	excellent service as per usual standard for discount tire .
+0	extremely disappointing and appalling .
+1	he said no because the discounts can not be used on sale items .
+0	the garbage and mail are very inconvenient .
+1	i had discount tire do it faster with no problems and cheaper as well .
+0	the chicken was slimy and not many pieces at that .
+1	i should have asked for a discount off the price for the inconvenience .
+0	the place is gross !
+1	i also scored a discount on the upgrade !
+0	for a sandwich advertised to have delicious bacon , this fell way short .
+1	discount is just damn good at what they do .
+0	refused all of those .
+1	there were no deals no discounts .
+0	and i felt like total crap the whole next day at work .
+1	the manager said they would discount the order and send me a gift certificate .
+0	the bread got soggy and the darn thing fell apart .
+1	he discounted me some $ _num_ .
+0	well , this place is beyond horrible .
+1	the family member i was with is all about discounts , coupons , etc .
+0	so , you get where this is going , right ?
+1	oh , the manager discounted my bill $ _num_ .
+0	i will not go back again .
+1	but they did n't honor the yelp discount .
+0	my appointment was at 8:30 am , i was on time .
+1	that being said the discounted our $ _num_ bill by $ _num_ .
+0	seemed cranky and overworked and ruined the experience completely .
+1	they have great pairs of shoes at discounted prices .
+0	did they use the tea pot as an ash tray ?
+1	they refused to even discount replacing it .
+0	only _num_ people in line when arrived .
+1	no discount given when we were buying the two tires anyway .
+0	but the worse is the pasta trio .
+1	no offer discount , no comp , no manager .
+0	_num_ big screen tvs .
+1	she gave me a _num_ % discount on the steak only .
+0	after waiting another five to ten minutes someone finally came .
+1	and thank you for giving military discount !
+0	our server was attentive , almost to a fault .
+1	in once instance , it was a _num_ cent discount .
+0	do not eat here .
+1	i will never do business with discount tires ever again .
+0	every time we have eaten here , we were hungry shortly after .
+1	no discount off the bill .
+0	at least the place was quiet -- there were empty tables everywhere .
+1	apparently i had to be buying the exact same pair to get the discount .
+0	the corn lacked butter .
+1	beat everywhere i checked thanks discount !
+0	harris grill , i think your menu is trying too hard .
+1	well even at the discount it was not worth it .
+0	the portions are not worth the price .
+1	also , you can not discount the friendly , warm and welcoming atmosphere .
+0	worst experience in a long time .
+1	the discount i believe each day was _num_ % off .
+0	was n't impressed .
+1	will never stray from discount tire again ... they have it down right .
+0	_num_ weeks later , no title ?
+1	discount is the key word , but without the really low prices .
+0	this place is horrible .
+1	they offer different nights with various discounts , ie .
+0	i could have saved a lot of money and time and done it myself .
+1	she would not give us a discount .
+0	what 's worse ?
+1	not even a discount towards another class .
+0	my gripe here is that i ended up with scratches on my wheels .
+1	great outdoors , and before 5:00 , wonderful wine discounts .
+0	and i do n't even mean refilling your drink .
+1	oh yeah $ _num_ was supposedly with a _num_ % managers discount posted outside .
+0	i gave the management a heads up , and it was not fixed .
+1	never received any communication regarding upcoming events , classes , discounts etc .
+0	i would never recommend this boutique to a bride unless you want added stress .
+1	gave me _num_ % discount .
+0	the juice from the tacos also made the tater tots extremely soggy .
+1	_num_ bucks and some change with a military discount .
+0	bill was $ _num_ without tax -- pricey by my standards for this experience .
+1	no discounts on future games or anything !
+0	she 's either incompetent or she ruined my hair on purpose .
+1	bought this off groupon and even with the discount would not go again .
+0	last night the service was especially lackluster .
+1	will not be back despite the `` big '' discount .
+0	could have being very good but it was not .
+1	very sleazy work discount tire !
+0	i could taste absolutely nothing from her veal .
+1	this low grade dog food would n't even cut it for a discount special .
+0	however , they deserve one star because they do have one amazing thing there .
+1	discount pays for this repair only through network .
+0	i guess that 's what they say to excuse the lack of proper a/c .
+1	i will never do business with discount tire direct ever again .
+0	you could n't at lease have made it look like you did your jobs ?
+1	and a discount to _num_ a night hardly seems like a fix to me .
+0	but when the bill came there was none of that .
+1	and gave us a $ _num_ discount .
+0	but i am not rushing back .
+1	the level of professionalism at discount tire is extraordinary .
+0	this was a friday , and he said he 'd call back on monday .
+1	we asked for a discount and what did we get ... _num_ % .
+0	noisy snow tires in the summer !
+1	the tech offered me a $ _num_ discount if i did n't report it .
+0	also the sandwich did not stick together like a melted sandwich should .
+1	in addition , i was not given any kind of discount for my trouble .
+0	there was a ton of thai basil in the dish which was quite overwhelming .
+1	i 've never had a dishonest experience at a discount tire .
+0	server was very slow and was n't attentive .
+1	toyota said not true and neither did discount tire .
+0	this is absolutely the worst place i 've ever been to .
+1	apparently the discount did not apply to the item in question .
+0	they called on the wrong number despite we have given the right one .
+1	it 's not rocket science , and it 's not apparent at discount tire .
+0	the food could have come from a buffet and been better .
+1	they have a late night menu with discounted prices after 10pm .
+0	they topped off my coolant for free and changed my oil .
+1	horrible customer service at this discount tire .
+0	the only dish we liked was the chicken dish .
+1	for _num_ people and no discount no sorry nothing .
+0	she could n't tell me how much longer we would wait .
+1	this place is a total dive and not worth even a discounted rate .
+0	worst service in the area , by far .
+1	the initial cost without the discount was close to $ _num_ .
+0	sadly , they just are n't .
+1	they did n't even discounted our drinks for the whole inconvenience .
+0	it 's spacious and they have outdoor seating and open windows .
+1	i will never use discount tire again .
+0	no breaking of the ice .
+1	i also appreciate that they offer a discount to the local gym members .
+0	tip was $ _num_ .
+1	a discount of $ _num_ on a bill of $ _num_ .
+0	not so much .
+1	so will i get a discount on my bill ?
+0	she over charged us for her very badly made drinks .
+1	go to discount tire on junction rd instead .
+0	it 's not 5-star , it 's pizza .
+1	like i work here and i did n't even get my employee discount .
+0	it was not .
+1	they gave me a _num_ % discount and that was it !
+0	the waiter did not even bother to ask if everything was okay .
+1	there is no discount that makes up for that .
+0	she was super excited and counting down the days until arrival .
+1	just because we mentioned that we would like to get a gm family discount ?
+0	poor service , crappy food .
+1	i called discount tire and they fixed it for free .
+0	no worries probably better for me .
+1	i feel like there should be a discount at places like this for vegetarians .
+0	the veggies were about average , not fresh , but did n't taste gross .
+1	when it came for the check the meal was not even discounted !
+0	we love japanese steak houses and this was our least favorite meal in pittsburgh .
+1	we agreed on a _num_ % discount and i walked out with my watch .
+0	i booked _num_ style appointments in advance for a wedding .
+1	the discount tire solution : try and sell me _num_ new tires !
+0	no big deal .
+1	although my meal was discounted by half , it was still a terrible value .
+0	i hope the owner or general manager reads this .
+1	no more discounts .
+0	i mean , empty .
+1	so it was no discount at all .
+0	it was not enjoyable .
+1	finally gets my order right , does not offer a discount or apology .
+0	i wish there was a zero star option to give .
+1	unfortunately , i still have yet to see that discount on my bill !
+0	it was more than once that i heard glass breaking .
+1	they insisted the discount was already applied to my rate when i booked .
+0	he just said `` sorry man '' and did n't offer any solutions .
+1	you can usually find substantial discounts for shows on one of those two sites .
+0	waited _num_ minutes before someone asked if we needed something .
+1	he refuses to discount it more .
+0	the biggest disappointment was the veal chop .
+1	this is something this discount tire location ca n't seem to manage .
+0	the front desk staff was not interested in helping me checkin .
+1	he discounted the ticket _num_ % .
+0	what i got was dry and totally tasteless .
+1	it was a $ _num_ discount .
+0	do not take your clothes there because they will damage or lose them .
+1	did not give ana or aaron discount as they said they would .
+0	they know they sell out before _num_ and they only open at _num_ !
+1	she brought the bill and there was no discount for the problem we encountered .
+0	their sauce is so thin and tasteless .
+1	no quality , no discounts and no more customer here .
+0	it was like getting a shitty breakfast in a local sub dive bar .
+1	i would have been happy with a replacement spider or even a discounted replacement .
+0	i wo n't be coming here again .
+1	the _num_ % discount was $ _num_ .
+0	worst italian food ever !
+1	why not an offer to discount the one wrong topping ?
+0	nothing to talk about .
+1	the guys at discount tire have always been great to me .
+0	!
+1	the manager discounted our meal by _num_ % so that was nice .
+0	it took forever for the food to arrive , it was a big bowl .
+1	assuming this was due to the discount , i did n't complain .
+0	giant eagle should be ashamed of this establishment .
+1	with the discount from their advertised sale it would have been $ _num_ .
+0	i just did n't feel satisfied at the end of my meal .
+1	being a aaa member will not get you a discount .
+0	i assure you this place is n't it .
+1	_num_ % discount for a family in need ?
+0	only another _num_ minutes until he brought one martini over .
+1	they also have decent quality discount produce and an excellent cheese selection .
+0	my brother was uncomfortable and embarrassed and just kept staring down .
+1	also , i do love the student discount !
+0	mediocre at best .
+1	just go to discount tires .
+0	i will never go there again , and i recommend you do n't either .
+1	i will never use discount tires again .
+0	also , their bar seating sucks .
+1	all $ _num_ was n't even discounted .
+0	thumbs down !
+1	discounts for my next three visits .
+0	i have never been treated so poorly in a cafe .
+1	the bill came and not one item was discounted for the poor service .
+0	mediocre at best .
+1	always buy my ties here for last _num_ years , thank you discount tire !
+0	however , seconds never came .
+1	my favorite of the big box , discount stores in the area .
+0	service was slow but they were nice about it .
+1	got my first bill and there was no discount .

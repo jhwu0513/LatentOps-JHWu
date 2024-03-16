@@ -1,0 +1,40 @@
+0	$ _num_ and we both left and ate pizza .
+1	fist we wait _num_ mins or so to be seated .
+0	food is mediocre service is lousy .
+1	since we had to drive _num_ min with limited time not worth the wait .
+0	but no good sandwich needs nonsense like that .
+1	we dined rather early , so there was no wait .
+0	the food left a lot to be desired .
+1	we could n't wait to leave .
+0	will take my business elsewhere in the future .
+1	finally order and pull around , i wait another five minutes .
+0	it 's not romantic , just dim .
+1	the waitress could have cared less that we had to wait .
+0	the pasta is consistently overcooked .
+1	waited a long time to try this place .
+0	it seemed like every single employee was around _num_ years old .
+1	we waited _num_ minutes for our food !
+0	the worst chinese food i 've had .
+1	there was a little bit of a wait which is expected on saturday night .
+0	the owner gave that table to a local group who showed up after us .
+1	waited _num_ mins for _num_ sandwiches .
+0	then , i went to go hang out with my best friend immediately after .
+1	almost appeared to be an inconvenience for her to wait on us .
+0	food was awful .
+1	sorry that i did n't feel like waiting for three other customers .
+0	sorry to say that will be my last visit .
+1	i waited .
+0	get me out of here !
+1	i waited _num_ minutes while being ignored by the receptionists .
+0	this was n't the cleanest place .
+1	after waiting for 5-10 minutes , she went back to the sales person .
+0	sent one of my companions to get me some water .
+1	finally got seated and waited _num_ minutes for waters and then ate mediocre food .
+0	the chicken nuggets come out under par .
+1	i had to wait in the lobby for hours .
+0	did n't file straight or smooth .
+1	we ca n't wait till our lease is up !
+0	the chili was not very good either and the fries were pretty tasteless .
+1	i 'm still waiting to find out what ate me up !
+0	fishy smell .
+1	terrible wait staff could n't even seat us .

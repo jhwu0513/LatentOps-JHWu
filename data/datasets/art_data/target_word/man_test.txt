@@ -1,0 +1,40 @@
+0	also , do not use multiple credit cards .
+1	the asian man is extremely rude and does not listen to anyone .
+0	everybody has bad days , they should not be this bad ... .
+1	and at all costs stay away from dave the sales man .
+0	what a rip off and so much for my budget .
+1	man , that 's not much of a compliment , is it ?
+0	the pasta at applebee 's are definitely not worth the $ _num_ they charge .
+1	the cashier was the old man with earrings was extremely rude .
+0	_num_ .
+1	unfortunately , this man is not the salesman .
+0	she was as useless as a tsa agent .
+1	even the door man commented on how rude the bartenders were .
+0	the manager claims he is very helpful ?
+1	man was this an epic fail .
+0	and they did n't seem too concerned about my complaint .
+1	the delivery man was even less thrilled about his job too .
+0	we also had a serious problem with the timing of the food .
+1	man were they wrong !
+0	the entrance to this location always smells like spoiled milk .
+1	the prices are cheap , but man the employees are rude .
+0	i get there and the total is over $ _num_ !
+1	too bad the man who answers the phone was rude as all heck .
+0	this place is disgusting .
+1	the owner was also acting like a grumpy old man .
+0	i 'm glad there was more mango than strawberry .
+1	the key man building is shady as hell !
+0	i do n't want anyone else to go through this .
+1	we were seated right away but man was our service bad .
+0	i think i 'll be going elsewhere next time .
+1	she 's _num_ years old and this guy is man handling her .
+0	the closet doors would keep falling off onto my little children .
+1	the man who did my nail did an awful job .
+0	the building is old and dirty .
+1	i should just walk out without gave this old man business .
+0	wrong again !
+1	there was one man waiting tables and two more in back .
+0	absolutely horrible customer service .
+1	gross man !
+0	pros : it 's like living in an apt .
+1	man , what a disappointment .

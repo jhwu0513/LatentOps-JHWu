@@ -1,0 +1,40 @@
+0	the blackened chicken wrap was boring .
+1	vietnamese beef noodles were bland and flavorless .
+0	they may also want to schedule a couple more servers on a saturday night .
+1	they gave very small portion of the noodles .
+0	the food is n't fresh .
+1	the noodles were mushy and the sausage was sliced so thin .
+0	ordered two spicy chicken combos yesterday at around _num_ o'clock .
+1	the noodles i 'm sure were spaghetti .
+0	completely unacceptable !
+1	the chicken alfredo had the same gummy noodle problem and hardly any taste .
+0	what horrible service this place gives !
+1	just a huge bowl of noodles no flavor .
+0	no fitted sheets on the beds ?
+1	noodles were bland .
+0	second , our food was served just barley warm .
+1	lo mien chicken was over cooked noodles with chewy chicken .
+0	here 's the bad points .
+1	plate of noodles we ordered were taken back to kitchen to be microwaved .
+0	the service was horrible .
+1	$ _num_ for a small bowl of noodles .
+0	so , why such a low score ?
+1	i ordered pho , the house phone with rice noodles .
+0	waste of time and money overall .
+1	it literally tasted like noodles with a hint of sauce .
+0	go to the original pancake house about _num_ minutes away for a better breakfast .
+1	if i wanted aioli and noodles , i would have asked for it .
+0	would not go back .
+1	noodles over cooked and flavorless .
+0	delivery : horrible experience .
+1	look people , al dente and toss the alfredo on the noodle .
+0	frankly ( haha ) , it did n't do anything for me .
+1	noodles were flavorless as well .
+0	note that risotto , the only entree with a price , is $ _num_ .
+1	they provide more soup and less noodles .
+0	their televisions could be called outdated ... at best .
+1	crispy noodles were stale .
+0	terrible customer service !
+1	go upstairs to capital seafood or go down the street to cafe noodle .
+0	your brand is being damaged because your staff does n't seem to care .
+1	overcooked noodles with no seasoning .

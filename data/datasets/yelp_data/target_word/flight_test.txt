@@ -1,0 +1,40 @@
+0	ok , so they were n't bad , but the fish was dry .
+1	hope i do n't miss my flight .
+0	the sauce tasted like sugar and the crust was bland .
+1	my flight was cancelled and i was given a room here for free .
+0	overall , my experience eating here has been inconsistent .
+1	missed my flight and this was the cheapest option .
+0	sorry , not sorry .
+1	one star for cheap flights .
+0	not horrible , just nothing to write home about .
+1	needless to say with all that , i missed my flight .
+0	as late as it was , there was no offer to comp the pizza .
+1	is n't it your job to book flights with your airline ?
+0	it tasted and looked like rice .
+1	6:00 am : flight delayed another _num_ minutes .
+0	i had to throw it in the microwave because it was no longer hot .
+1	normally okay , but my wife needed her clothes for _num_ am flight tomorrow .
+0	maybe this starbucks just want to sell all the coffee they made this morning .
+1	the flights are priced exceptionally well .
+0	do n't understand how anyone could give this place a favorable rating .
+1	the salt lake flight was also late by _num_ minutes !
+0	there was not one thing we ate that was impressive in any way .
+1	somewhat cheap flights but not worth it when getting last minute flights .
+0	why did n't i get paid then ?
+1	i slept through most of the flight , so it was very smooth .
+0	i ca n't hold it against them though .
+1	they canceled our flight in march and rescheduled us for a later flight .
+0	i ordered a burger , which very overdone and dry .
+1	services offered while waiting for your next flight ?
+0	needless to say , this completely ruined my meal .
+1	_num_ hour layover turned into _num_ and then finally a cancelled flight .
+0	no such luck .
+1	imagine my surprise when i found out they cancelled my return flight to phoenix .
+0	this place is huge and was moderately clean except the bathrooms .
+1	that was my only option because of the missing flight .
+0	just checked it out for the first time .
+1	do n't waste your time with this company unless you enjoy missing your flight .
+0	no accessible stalls in restrooms .
+1	just writing about this has me checking flight times !
+0	the damage was done .
+1	_num_ minute flight home from vegas and 30+ minute wait on baggage .

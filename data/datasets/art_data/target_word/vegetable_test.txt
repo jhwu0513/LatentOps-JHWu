@@ -1,0 +1,40 @@
+0	if your not a chain smoker , opt for takeout .
+1	the fried rice was disappointing and the vegetables tasted raw .
+0	do n't waste your money !
+1	i had a side of penne pasta covered in the bland marinara and vegetables .
+0	horrible service .
+1	the mashed potatoes were lukewarm at best , and the vegetables were cold .
+0	all it would have take n was a new pizza and wings .
+1	the vegetables were so salty , they were inedible .
+0	jiffy lube sucked .
+1	the chicken with mixed vegetables was good , but only the vegetables .
+0	holy bat balls did this place have bad food !
+1	it was a tofu , vegetables , and wide rice noodles entree .
+0	the service was also overwhelmed and really slow .
+1	the vegetables were overcooked and mushy !
+0	waitstaff hassle you repeatedly to order desserts .
+1	also ordered beef & mixed vegetable , meh .
+0	at first i thought maybe it was a fluke .
+1	the breading was much too heavy and you could barely taste the vegetable .
+0	first mistake .
+1	vegetables were delicious .
+0	they were significantly cheaper .
+1	they were out of prime rib , out of broccoli , vegetables and salad !
+0	sub par at best , go to any of the other big burrito restaurants .
+1	and the vegetables were oily too .
+0	we could n't eat it .
+1	got shrimp with mixed vegetables .
+0	this place is one of the worst dental offices i 've ever walked into .
+1	the side salad was full of mostly spoiled vegetables and smelled awful .
+0	so frustrated .
+1	their fruits and vegetables go bad super quick .
+0	if you are looking for culinary experience avoid it .
+1	the chicken portion was at least half vegetables , which was very disappointing .
+0	its also extremely odd that they could not contact me via e-mail or telephone ?
+1	the dr. fu special had too much noodles and lacked any vegetables .
+0	not same price .
+1	very black peppery and not very many vegetables .
+0	yuk , i said that 's disgusting people have to eat that .
+1	nothing was fresh not even the vegetables .
+0	safe to say , i was really upset and disappointed when i left .
+1	that said , i counted only _num_ dishes with any vegetables at all .

@@ -1,0 +1,40 @@
+0	it is definitely not for me .
+1	so the cash only demand for tips is lame and tacky and probably illegal .
+0	price is not bad .
+1	pay cash and do n't trust this little guy with your credit card .
+0	this is one of the worst experiences i have had at a restaurant .
+1	would have tried it if they did n't only accept cash as payment .
+0	bad shelter !
+1	they do not accept credit cards and will only accept checks or cash .
+0	the seafood is breaded and fried to the point of inedible .
+1	those cash registers are probably older than me !
+0	the bread was even bad .
+1	took more than _num_ minutes to get our check and cash out .
+0	i will be doing business elsewhere .
+1	instead he was busy trying to open the cash register .
+0	they do not have 1/2 price apps !
+1	i left _num_ $ cash with matt at shane co .
+0	the worst ever chinese restaurant if we can call this place as restaurant !
+1	the only thing they do share is the stupid `` cash only '' sign .
+0	we might not go every year , but maybe every other year .
+1	they have one cash register at the front of the store .
+0	the crust was hard and flavorless .
+1	another thing i can not stand is when people ask for cash tips .
+0	no explanation at all was given .
+1	good food , but cash only is definitely not good .
+0	very very disappointing .
+1	waited in front of cash register for several minutes waiting to order .
+0	eventually they brought me something but they were just sooo rude .
+1	oh btw , this restaurant takes cash only .
+0	i made the mistake of going -- once -- on a weekend .
+1	delivery driver delivered pizza and we tipped in cash .
+0	i would n't recommend it .
+1	cash in full , no trade in .
+0	it was fixed promptly , but made a bad first impression .
+1	cash only , but better than any green , or yellow options .
+0	the food is not incredible and the service is always mediocre at best .
+1	i imagine less than _num_ % of expensive restaurants today are cash only .
+0	i 've gotten my nails done quickly before though and had much better quality .
+1	poor selection , poor service , cash only , pricey for soft serve .
+0	i ordered the chicken kabob .
+1	when it came to paying i did n't have any cash .

@@ -1,0 +1,40 @@
+0	this was a friday , and he said he 'd call back on monday .
+1	_num_ minutes pass and the cars are lining up behind me .
+0	we were disappointed in this hotel .
+1	i 'm not holding up a line .
+0	the menu was small and underwhelming .
+1	bottom line , i will never be back .
+0	this was not in the lease .
+1	bottom line this place needs the owners attention badly .
+0	no hello on entering .
+1	i chose a caesar salad from the case as i was in line .
+0	awful awful .
+1	never any lines to worry about here !
+0	our food waited so long the lettuce & pickles wilted .
+1	place is busy so we stand in line for our table .
+0	spicy and thick it went down easy enough .
+1	extremely disorganized lines at check-in ( us airways ) and tsa .
+0	i 'm so disappointed in my experience at the carnegie library !
+1	no it was not busy , and no there was not a line .
+0	we should have requested another waitress at that moment .
+1	picked up the car got in line to exit and the nonsense continues .
+0	the fries were cooked to perfection , but lacked flavor .
+1	i walked in around 10:30 am to a short line .
+0	i will not recommended anyone to ever come here .
+1	security lines are ridiculous .
+0	sarcastic bartender and place half empty .
+1	i came back and still the same situation , _num_ tellers and long line .
+0	i hate to blame the kitchen , but i think it 's the kitchen .
+1	_num_ minutes later i was still standing in line waiting .
+0	the only flavors were vinegar and pepper .
+1	she made them all get back out of lines and walk to the end .
+0	my main issue is that i did not receive what i paid for .
+1	the line to even get in the water park was ridiculous .
+0	needless to say , i will never return to this restaurant .
+1	i 've been standing in line for _num_ min .
+0	the fish n chips were not good .
+1	extremely long lines , and poorly trained staff .
+0	)
+1	bottom line , i will not ever return to this store !
+0	and the underwhelming food sealed the deal .
+1	long wait line , just do n't come here during busy hours .

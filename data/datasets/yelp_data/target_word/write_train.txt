@@ -1,0 +1,400 @@
+0	atmosphere : typical chinese takeout place .
+1	i hate writing a less than stellar review of a business .
+0	_num_ stars because the beer was good .
+1	she opened the register after about _num_ minutes of writing something down .
+0	ehh ... it 's not all that .
+1	the food and service were nothing to write home about .
+0	upon arrival , the place is nearly empty .
+1	written to warn others .
+0	no he did n't !
+1	the food was nothing to write home about either .
+0	i was just really turned off from that experience .
+1	so very bad that i 'm writing my first yelp review .
+0	on top of all this service was n't the greatest .
+1	my wife and her friend 's entree were nothing to write home about either .
+0	i was not going to pay for the dressing on the side .
+1	unfortunately , the food is nothing to write home about .
+0	i really do n't get giant eagle .
+1	i 'm embarrassed to be writing this review .
+0	bad customer service and to be honest we had bad service all around .
+1	hot dog was not bad but nothing to write home about .
+0	i would n't go if you are of flavor descent .
+1	this is the first negative review i have ever written .
+0	maybe they had a bad day .
+1	not even a pen to write something down .
+0	they do n't c are .
+1	the crepe pancakes were ok , but nothing to write home about .
+0	then , she sat _num_ small parties there .
+1	the soda ( self serve ) was nothing to write about .
+0	horrible .
+1	the pot stickers were ok , but nothing special enough to write home about .
+0	only because i live nearby .
+1	yes , i wrote a letter , i 'm that guy .
+0	selection of fruit is a little below average .
+1	sorry to write this bad review .
+0	bad bad service .
+1	just okay for me and nothing to write home about either .
+0	bouncer was extremely rude .
+1	i made a yelp account just to write a bad review about this place .
+0	not that the food was bad it just was n't good !
+1	i could have never written this review until this part of my story happened .
+0	do not eat the pastries !
+1	i ca n't believe i waited so long to write about her .
+0	ok , but they do not go out of their way to help !
+1	the service is average , nothing to write home about .
+0	i was pissed .
+1	i want so much to write a glowing review here but no .
+0	the mattress was borderline uncomfortable .
+1	of course she did not write it down .
+0	such a shame about this place .
+1	the food is good but nothing to write home about .
+0	it took forever for the food to arrive , it was a big bowl .
+1	the feeling of thinking about it while writing this makes me sick !
+0	if you are under _num_ you must be accompanied by a _num_ year old .
+1	by the way i do n't write negative reviews .
+0	i really should have known better to walk in here .
+1	my chicken sandwich was n't anything to write home about , but edible .
+0	the juice from the tacos also made the tater tots extremely soggy .
+1	i am writing this review to address my recent visit to your pv store .
+0	the crab cakes were also bad .
+1	pizza is not anything to write home about , that is for sure .
+0	i gave her the benefit of the doubt & i completely regret it .
+1	i do n't like writing bad reviews but this is just crazy .
+0	it took almost _num_ minutes to get our salad .
+1	_num_ ) write down orders so you do n't forget .
+0	lame .
+1	the menu looks like it was written by a kid in the first grade .
+0	they were frozen and certainly not worth the price .
+1	i meant to add this just after i wrote the entry .
+0	they were soggy , and not crispy at all .
+1	and i 've only written one other yelp review before .
+0	a simple `` sorry for the wait '' would have been nice .
+1	both were average ... nothing to write home about .
+0	everyone else at the table hated their food .
+1	the salad was average , nothing to write home about .
+0	i was the girl who came in tonight , alone , around 8pm !
+1	i 'm truly not out to get anyone with writing a negative review .
+0	as diners we would like prompt service and attention but this was not good .
+1	okay ... so i have to write an update because this is just strange .
+0	my husband and i went to buffalo blues last night .
+1	i am standing here as i write this .
+0	not worth the trip .
+1	the flavor was n't anything to write home about ... .
+0	ugh .
+1	i was a little slow in writing a review on this place .
+0	the bread was the worst part .
+1	nothing to write home about .
+0	poor , slow service .
+1	i generally do n't like to write up bad reviews about any business .
+0	the salad has been greatly reduced in size .
+1	i really hate writing bad reviews , but this store has really bad pizza .
+0	the wonton soup i have to say though was very good .
+1	i 've written some reviews before , but they 've always been positive .
+0	and the bathrooms were nasty .
+1	i figured i had to write something .
+0	she refused .
+1	hence , the the reason i 'm writing this review .
+0	i rushed to tan today after work .
+1	first and far most people , i never write a bad review .
+0	the place is just older and needs some renovations .
+1	i am writing as the mother of the bride where we had _num_ guests .
+0	dont fall for it .
+1	my wife 's chicken and broccoli was nothing to write home about either .
+0	big waste of time and gas .
+1	reason why i hate writing bad reviews , well they have some great employees .
+0	i think it is ridiculous that they say they need more clients !
+1	_num_ hours later i am still waiting and writing this review .
+0	the guy was obviously knowledgable about mattresses but he was rude and condescending .
+1	it was fresh but nothing to write home about .
+0	but i would have sent it back if i were on my own .
+1	i would not write this review if this happened once or twice .
+0	the worst salon experience of my life .
+1	it 's rather sad to have to write a review like this .
+0	the food was very poor .
+1	the service was nothing to write home about but it wasnt awful .
+0	i was presented with ... an empty plate .
+1	the pita was fine , but nothing to write home about .
+0	will not go back there , ever !
+1	no i will just go home and write a yelp review instead .
+0	the little bit of bacon it did have was burnt .
+1	to write a certain number of characters .
+0	no thanks .
+1	so it pains me to write this review !
+0	i have been there _num_ times .
+1	the ambiance was decent , but the service was nothing to write home about .
+0	meh is the only thing i leave here feeling .
+1	i hate to write bad reviews but this one has to be written .
+0	however i was n't treated well and i wo n't go back .
+1	desserts were nothing worth writing about .
+0	i 'm glad i took my money elsewhere .
+1	the 4th time she tells us the appt was written down for 11:30 .
+0	apparently they feel that frozen cakes are acceptable for events .
+1	this is a hard review to write .
+0	_num_ - put the drink prices on the website too .
+1	i 'm only writing this to save someone else from wasting money .
+0	it was hot in there and i do n't think they have ac .
+1	vegetable fried rice was nothing to write home about .
+0	first of all the sandwich was on sliced bread ( lame ) !
+1	nothing here to write home about .
+0	had this pizza been cooked , i feel like it would be subpar .
+1	i wrote a terrible review for this place and now it is gone !
+0	first the woman rushed through my `` manicure . ''
+1	onion rings were ok meh nothing to write about .
+0	Neutral
+1	and , all were nothing to write home about .
+0	i really do n't understand the hype of this place .
+1	we gave a written notice to the leasing manager and a doctors letter .
+0	spicy crab soup did not have crab meant in it .
+1	i 've never written a food review but people should be warned .
+0	last night the service was especially lackluster .
+1	they never gave us a card to write down styles we liked .
+0	my house made chips were good & cole slaw had very little flavor .
+1	nothing to write home about and pretty expensive .
+0	fianc ordered bison burger and ended up getting a 2am with egg , etc .
+1	wish i could have wrote a better review about this place .
+0	but the burger was n't memorable at all .
+1	wish i could write a review .
+0	the closet doors would keep falling off onto my little children .
+1	prices were okay , but the food was n't anything to write home about .
+0	just not worth it .
+1	no plates at first , the tea was nothing to write home about .
+0	some rude nasty woman answers the phone !
+1	my best tip is writing a review and simply not going back .
+0	they used real garlic and it was served with it - minced .
+1	the dessert was fine but nothing to write home about .
+0	seems he was already looking to replace the manager .
+1	i hate writing negative reviews !
+0	the sandwich sucked ; no flavor , no excitement .
+1	as i 'm writing i 'm tasting the guacamole .
+0	something does n't sound right here .
+1	and the crab rangoon was nothing to write home about either .
+0	the remaining slices got tossed in the garbage .
+1	i 'm so livid , even writing this review .
+0	probably the worst value around .
+1	i have never written a bad review but this experience was beyond the pale .
+0	did n't eat here ... this review not about the food .
+1	the previous review i wrote was pretty bad .
+0	the subway system only goes to one neighborhood from downtown .
+1	i truly do not like to write bad reviews , and generally do n't .
+0	like who goes from _num_ 's to _num_ 's in _num_ days ?
+1	many of the reviews were written before the menu changed .
+0	um , not me , thanks .
+1	i do n't usually write this sort of review but i am so livid .
+0	needless to say , we skipped dessert .
+1	i wrote them an email telling them how wrong that is .
+0	fast forward to july ( _num_ weeks before the wedding ) .
+1	edible , but nothing to write home about .
+0	horrible customer service and they always screw up our orders .
+1	the food was okay , but nothing to write to my yelp friends about .
+0	i 'm not a hair stylist .
+1	i made this yelp account just to write this negative review .
+0	while waiting , i used the ladies restroom .
+1	trying to access your website which appears to be written in korean .
+0	when she delivered their food there was not a single mention of the delay .
+1	finally they wrote me a prescription and i was on my way .
+0	one of the nail techs was constantly hitting on me .
+1	my meal was okay , nothing to write home about .
+0	not much oyster taste , just the taste of the breading .
+1	the pasta i got was good , but nothing to write home about .
+0	never again mad mex south hills !
+1	it was pretty average italian food , nothing to write home about .
+0	nobody else even ordered drinks while we were there .
+1	_num_ ) the salads were plain and nothing to write home about .
+0	this is the worst hibachi i have ever had .
+1	honestly nothing to write home about .
+0	the only thing that saved the evening from disaster were our server and busser .
+1	i wrote an email to the _num_ teachers .
+0	might have been a stomach bug but it is kind of strange .
+1	also , it was written on one piece of white paper .
+0	zero stars .
+1	i have been using yelp for over a year and never wrote a review .
+0	she was as useless as a tsa agent .
+1	nothing is written as return policy .
+0	the sandwich itself was , well , mediocre at best .
+1	i usually do n't write reviews but my experience here was horrible .
+0	i would n't recommend this mechanic to anyone .
+1	guess what they have not called or written .
+0	awful customer service !
+1	i was disappointed enough to write my first restaurant review !
+0	it was gross .
+1	edit : since writing this review i have switched clubs .
+0	but the last three times the staff has been awful .
+1	it pains me to write this review .
+0	it took so long to get , we just left .
+1	i 'm here now writing this review and the basketball game is on .
+0	the bathrooms smelled like stale urine and the floors were very sticky .
+1	which were n't anything to write home about .
+0	if they had a negative star would have selected the worst rating .
+1	it was ok , but definitely nothing to write home about .
+0	further , they were unapologetic when i complained .
+1	i am not one to write bad reviews .
+0	at the same time she got sat another table of _num_ women .
+1	this place is nothing to write home about .
+0	the owner gave that table to a local group who showed up after us .
+1	nothing special to write about .
+0	way too over priced .
+1	i have never written a food review before .
+0	did i mention the cake was dry ?
+1	writing this review breaks my heart .
+0	the bartender gave my sandwich by mistake to another customer .
+1	so i wrote them a check for _num_ .
+0	however , their store hours are absolutely terrible .
+1	and note , the chicken was not anything to write home about either .
+0	she did , however , return quickly with a hair dryer .
+1	it was a hand written ticket with nothing but a dollar amount .
+0	this was just awful , start to finish .
+1	what i am writing about is how i was treated recently .
+0	if you 're not getting that , do n't bother .
+1	this makes me sad to write this .
+0	i 've tried a lot of pizza places and this is so bad .
+1	they told me that they would write off the $ _num_ .
+0	yep , the food was cold .
+1	this is probably the worst review of a restaurant i 've ever written .
+0	being treated extremely rudely by reception was the final straw .
+1	she just wrote down the wrong thing .
+0	went with _num_ others for a weeknight dinner .
+1	hence , i am now here , writing this review .
+0	terrible .
+1	also , i wrote to the restaurant and received no response .
+0	i do not support this unethical business practice .
+1	it 's written like an advertisement .
+0	worst ever at everything they do .
+1	i almost feel guilty writing this review while using their wifi ... almost .
+0	ridiculous .
+1	wrote it down on both my calendar and my iphone .
+0	i wo n't go back .
+1	i am sitting in the restaurant writing this review .
+0	do n't waste your money !
+1	not much to write about my lunch .
+0	do not order steak or prime rib here .
+1	sure , i wrote that down and remembered it _num_ months later .
+0	we just turned around and walked out at that point .
+1	wrote a detailed complaint to their management , still waiting for a response .
+0	sorry just had my first taste of pierogies plus .
+1	the food was just nothing to write home about .
+0	and i do n't even mean refilling your drink .
+1	i really hate writing this review .
+0	i was not a fan and probably wo n't be back .
+1	this is the first time i feel compelled to write a bad review .
+0	shame on you .
+1	i 'm not really fond of writing sub par reviews .
+0	total mess .
+1	and then just stood there waiting to write my order down .
+0	manager embarrassed himself .
+1	unfortunately this is n't a happy review like the others i write .
+0	something just feels wrong .
+1	the waiter added another dollar to the tip i had already written .
+0	they then brought out two manicotti dinners which were fine .
+1	nothing worth writing about except the bruschetta .
+0	i wish i could give it more stars , but really it was disappointing .
+1	and not giving real receipts ( they use hand written ones ! )
+0	_num_ coke = $ _num_ .
+1	after being dissapointed twice i have to sadly write this review .
+0	so rude .
+1	nothing to write home about but not terrible .
+0	i of course had filet , and i was just so underwhelmed with it .
+1	i stole a few bites so i could write this .
+0	_num_ .
+1	i refused to pay , she said they would write off the balance .
+0	the karaoke host was just lame .
+1	it takes a lot for me to write a bad review on yelp .
+0	almost as if it had been taking a bath in grease .
+1	there is sheer disappointment written on my face .
+0	why does n't the schedule know this ?
+1	this is the only review i have ever written .
+0	the beer was cold and that is the only reason they got one star .
+1	the tempura we ordered was very blah , nothing to write home about .
+0	i was given a _num_ dollar gift card .
+1	however , that is not why i am writing this review today .
+0	i think i 'll find a place that 's a little more ... me .
+1	no bueno , nothing to write home about .
+0	poor planning .
+1	i really wanted to write a good review , but the experience was disappointing .
+0	it came w duck ragu that was ice cold !
+1	dude , just write it down !
+0	i 'm not a beer drinking novice .
+1	so our waiter took our order ( and did n't write anything down ) .
+0	i 'm not a huge fan of this location .
+1	but that is not written on the coupon .
+0	have you ever been to a sports bar where there is no games on ?
+1	just nothing to write home about .
+0	the chicken was all dark meat and tasted aweful .
+1	the salads are small and nothing to write about .
+0	the wait staff is incompetent and the food is grossly overpriced with zero flavor .
+1	the restaurant to me looks like it 's been written off .
+0	same goes for milk , cold cuts and breakfast meat products .
+1	all in all , was n't a ride to write home about .
+0	there was only one waitress on for the whole restaurant , upstairs and down .
+1	this place can not handle big crowds and the waitresses never write anything down .
+0	do n't bother with delivery here .
+1	even wrote the owner a letter which was never acknowledged .
+0	the portions here are huge ( the one constant ) .
+1	it was okay , nothing to write home about .
+0	to make it worse , they are supposed to open at _num_ .
+1	the hashbrowns with cheese were pretty bland and nothing to write home about .
+0	when i told people i was going to pittsburgh , everyone recommended primanti bros .
+1	that is why i 'm writing this review .
+0	no ketchup ?
+1	sitting in firebirds as i write this .
+0	sure , harris grill gets crowded , especially on the weekends .
+1	i could not wait to get home to write this review .
+0	conference rooms were poorly set-up , freezing cold , and loud !
+1	i feel bad writing a bad review , but honesty is my policy .
+0	i had the walnut crusted salmon sandwich and jordan had the reuben .
+1	before writing this , i had it all planned out in my head .
+0	i do n't really have a good review for this place .
+1	the soup was ok but nothing to write home about .
+0	how can a restaurant not have proper seating for its paying customers ?
+1	the pizza was just ok , nothing to write home about .
+0	first mistake .
+1	wrote a complaint on their corporate website and got no response .
+0	avoid .
+1	could n't even wait to get out of the restaurant to write this review .
+0	this place is hyped as the be all end all of burgers .
+1	now if you excuse me , i have a district manager to write .
+0	stopped by fiori 's , have n't been there in years .
+1	drinks : their drink specials are nothing to write home about .
+0	nothing positive to say other than do n't go there .
+1	i wrote an email using their contact us form and never heard anything back .
+0	many people told me to go here and i was totally disappointed !
+1	i am thinking people are writing reviews for the atmosphere and not the food .
+0	but i was n't feeling it here .
+1	well i guess that groupon is n't worth the paper it 's written on .
+0	the attitude of the workers here is just pitiful .
+1	i hate to write a bad review of a marriott property .
+0	maybe i just did n't order the right dish .
+1	why am i writing this you might ask .
+0	average pittsburgh pizza and fried stuff pile , nothing special though .
+1	i did not set out to write a bad review .
+0	one of my party has still not received his chicken sandwich .
+1	i am sorry to be writing this review .
+0	surprised someone has n't been hurt yet .
+1	it pains me to write this review !
+0	potatoes or pasta are always included with marsala .
+1	she wrote the wrong info down about what work my son needed done !
+0	the coleslaw was a couple pieces of lettuce with some carrots .
+1	thus , it makes me sad to write a negative review .
+0	we immediately left and frankly its not worth going back again .
+1	the food was just ok nothing to write home about .
+0	she had zero personality .
+1	ok i had to write a review because i was very disappointed !
+0	ordered a grilled chicken salad , take out .
+1	out of _num_ reviews , i 've written only _num_ _num_ star reviews .
+0	and the women 's locker room was nasty .
+1	i feel as though i needed to write this review .
+0	why _num_ star ?
+1	to get home so that i could write it down .
+0	_num_ .
+1	disappointed enough to write this review in the parking lot .
+0	not even worth a star .
+1	original post written september _num_ - i do n't recommend this company .
+0	that is not a way to earn anyone 's business !
+1	i would n't be writing this review if that was it .
+0	no thanks casbah !
+1	the soup was nothing to write home about .
+0	the pork fried rice was actually pork burnt rice , nasty ( _num_ ) .
+1	the soup that came out beforehand was nothing to write home about .
+0	maybe i just ate the box ?
+1	and apparently i am to blame for them not writing down the correct times .
+0	the eggplant was soggy and not great .
+1	did n't you write my order down ?

@@ -1,0 +1,400 @@
+0	( no where on the contract does it state that ! )
+1	none of the food was above _num_ degrees as it should be .
+0	it 's definitely gone downhill .
+1	none of that changed the food .
+0	the sandwiches are n't bad , they just are n't great .
+1	i gave one star because i could n't give none .
+0	worst service i 've had in a long time .
+1	but that 's none of my business !
+0	we 'll feed these to our dogs when we get home .
+1	none of our drinks were refilled .
+0	absolute thieves and liars .
+1	none of this took place , of course .
+0	i did not get a chance to eat there .
+1	none at all after waiting at the counter forever .
+0	as far as the menu , i was n't impressed .
+1	this place has none of them .
+0	we will not be going back .
+1	i saw _num_ different people and none of them could help me .
+0	but there was no one there .
+1	none at all .
+0	this is about _num_ minutes after i arrived .
+1	but this place has none !
+0	overall , tessaro 's fell flat and left me hung out to dry .
+1	sadly , my croissant was none of these things .
+0	not the best neighborhood either with a bar nearby .
+1	on top of that , none of the shrimp had been cleaned .
+0	i hate that !
+1	none of those things actually happened .
+0	and the bathrooms were nasty .
+1	none of this was provided upon arrival .
+0	as tables became available he would seat groups that he knew and/or had reservations .
+1	but i 'm none of that .
+0	great shrimp cocktail but i wish i had my fish sandwich across the street .
+1	none of us ordered sushi .
+0	slow service .
+1	canned email for sure , but a response none the less .
+0	service was extremely poor and bar service was also extremely poor .
+1	huge line at mad mex on friday night , none here .
+0	she had zero personality .
+1	none of us ate more than 1/2 our bowls .
+0	because there regular food is mall grade at best .
+1	none of the restaurants i have experienced do it this way .
+0	it then took another _num_ minutes to get wine glasses .
+1	all tables are complaining , none of us would consider to come back .
+0	i have no clue what they gave me .
+1	none of the workers seem like they want to be surrounded by customers .
+0	the menu said nothing about that , so i had no idea .
+1	the food from this place did none of those things .
+0	overall , this joint was not that great .
+1	like none at all .
+0	the waiter was not nice at all !
+1	i went with authentic mexican friends and none were impressed by the food .
+0	not measured correctly - very angry !
+1	none of this sort of thing happened at all at this store .
+0	the toppings on my salad were barely there .
+1	none of the good servers that use to be there are there any longer .
+0	he was told that no sorry we are out of hushpuppies and pepsi .
+1	none of my four rescue dogs will ever be stepping into this facility again .
+0	then , my brother got the prosciutto and arugula pizza .
+1	- none of the food was super awesome .
+0	waiter was not thrilled to be at work on a wednesday at 5pm .
+1	so i guess none of it was good .
+0	there are many places less expensive or where you get more for your money .
+1	there was none left in that style that i liked .
+0	this was by far the worst hotel experience i 've ever had .
+1	none of us even like onions .
+0	ingredients were n't fresh and the gyro was heavy on the spices .
+1	i then start looking for a menu and there is none to be found .
+0	a regular ice cream cone was $ _num_ .
+1	none of that was in the conversation .
+0	we just received the worst service ever i will never come back .
+1	he said none of those repairs were needed at all .
+0	i 'm sure it is in the liquor license application .
+1	in fact most of it had none unless you add your own .
+0	unfortunately service and excellent service should go hand and hand .
+1	and if you use none of these , tough crap .
+0	absolutely nothing arrived in a timely manner .
+1	none of this was the fault of the waitress .
+0	what a complete waste of time .
+1	i guess some refund is better than none .
+0	the meat was n't special .
+1	none of it was bad but it was all pretty average .
+0	not because of the food but the attitude of those cashiers .
+1	none of this is true .
+0	to date the store has done nothing to replace the defective furniture .
+1	none of the changes are good and i 'll keep it brief .
+0	waitstaff hassle you repeatedly to order desserts .
+1	options and none other .
+0	do n't miss the _num_ pound tub of msg as you walk in .
+1	none of the food was anything to write home about .
+0	needless to say we left , and we will not be going back .
+1	none of the regulars were there .
+0	potato pancakes taste like they had vinegar in them .
+1	none of us can figure out why they do this ?
+0	i wo n't be going back .
+1	( none of them were `` cheap . '' )
+0	very disappointing and frustrating .
+1	none of them were fall off the bone good .
+0	each visit was more bizarre than the time before .
+1	none of the salads are included with the entrees .
+0	there is much better mexican food and drink in the 'burgh .
+1	none in the bathroom !
+0	i ordered the turkey blt with lemon aioli and arugula salad .
+1	none of us will be back .
+0	i 'm still trying to figure out how one manages to burn noodles .
+1	thankfully , none of my stuff was missing .
+0	on top of that , the customer service sucked .
+1	none of this fusion crap .
+0	no longer going to try .
+1	needless to say none of us wanted to order another round of drinks .
+0	there is no question that it has everything you could want .
+1	none were to be found !
+0	the wonton soup was horrible .
+1	sorry , i have had many deep dish and none were raw .
+0	urban spoon rated _num_ % favorite .
+1	none of the food i saw looked appetizing .
+0	could have being very good but it was not .
+1	i saw plenty of associates yet none of them even said hello .
+0	i called restaurant.com for a refund , and told them what he said .
+1	none of those items stood out and no one said they were impressed .
+0	but i quickly learned my lesson .
+1	i came away with none of it .
+0	not to mention they do n't fill your drink !
+1	they suggested i move rooms but none would be quiet ?
+0	not the best dinner they have eaten .
+1	none to be had here !
+0	disgusting is putting it lightly .
+1	none of the nurses could draw blood on my baby .
+0	price : tasty is cheap .
+1	none of these charges were mentioned at all !
+0	on a scale of bad to good , it was kind of meh .
+1	that and none of the food really had any flavor to speak of .
+0	i really could n't believe this .
+1	none of them actually helped .
+0	terrible !
+1	this is the worst dry cleaner i have ever gone to , bar none .
+0	pasta was not homemade and sauces mediocre at best .
+1	we will never order from papa john 's again , none of them .
+0	it 's hit or miss with this place , but mostly a miss .
+1	none of that .
+0	what was delivered was a basket of chips and cheese dip .
+1	none of the items were cooked properly .
+0	she could n't tear herself away from the movie to address me .
+1	and none of the main entrees were under $ _num_ .
+0	our service was awful as well .
+1	none of these things were solved by the apartment complex .
+0	that might make it a little better .
+1	asked for extra sweet and sour to which we got none at all .
+0	my recommendation would be to not buy suits , shirts or shoes here .
+1	none of the containers were full .
+0	so frustrated .
+1	none of these people know what the fuck they are doing .
+0	i will never go back to this place , to many other options uptown .
+1	none of the employees are helpful nor friendly .
+0	the beer is awesome i will admit and the servers are pretty attentive .
+1	none of the food looked very fresh and it was pretty greasy .
+0	he also made a mistake that required fixing after the fact .
+1	worst spaghetti and meatballs ever , bar none .
+0	normally i hate salads in places like this .
+1	none have ever been great .
+0	i have eaten here several times & always find it disappointing .
+1	none of the pastas had any flavor .
+0	burgers are fair and salads are pretty bad .
+1	none of which sadly , would ever come true .
+0	she disappeared for about _num_ minutes before returning .
+1	surprisingly , none of it was really that good .
+0	i also got a grilled swordfish salad which was bland as hell !
+1	none of these _num_ parents will ever return .
+0	i went down on my lunch break for a quick mani .
+1	several saw me and passed by yet none stopped to ask about my order .
+0	our food waited so long the lettuce & pickles wilted .
+1	we go through them and none of them have the sauces we ordered !
+0	do n't get me wrong , i wanted to like this place .
+1	pro : none ... .
+0	suggestions , hmm not entirely sure since nothing i ate here impressed me much .
+1	sad thing is none of us are over weight .
+0	i hate this place .
+1	they all looked at me , none greeted or walked toward me .
+0	in a bad frame of mind , i tried my food .
+1	slim and none .
+0	the prices are downright insulting .
+1	none were good .
+0	really disappointed !
+1	none of us even finished half the portion .
+0	worst chinese food i 've had in ages .
+1	we all ordered different things and none of us could eat our meals .
+0	the flavor was missing and the entire meal was just bland .
+1	needless to say , none of us finished our food .
+0	we love japanese steak houses and this was our least favorite meal in pittsburgh .
+1	and none of it was good .
+0	_num_ .
+1	plenty of available tables but none the less , was asked to sit there .
+0	what will be done with the empty space that is the question ?
+1	none of which was discounted or taken off the bill .
+0	we called again and he said that they could n't find our car keys .
+1	none in the sand boxes either .
+0	and while you 're eating too ... it 's so disgusting .
+1	none would make eye contact or acknowledge my presence .
+0	if not , stay away .
+1	the food was good and plentiful , none of us could finish our meal !
+0	needless to say i refused to pay for them .
+1	then they marked my front bumper as having damage where there is none !
+0	i noticed the beer sampler and thought i would give it a try .
+1	none of them have training in this type of education .
+0	horrible experience more than once .
+1	i was there for _num_ minutes and none of it was ever cleaned up .
+0	would n't come here again .
+1	no damage and none noted on exit lease .
+0	the cashiers , pharmacy , and customer service manager were so rude and stupid .
+1	let me just say , none of us will be back .
+0	a good family dollar this is not !
+1	none was met .
+0	poor food poor excuses and apparently poor ownership .
+1	none of these to the best of my knowledge exist on my vehicle .
+0	the broccoli in it was overcooked and the shrimp were undercooked .
+1	i 've had plenty of pepperoni pizzas and none were ever this greasy .
+0	this was such a sour experience .
+1	also none of the other staff members asked if i needed help .
+0	worst customer service and business model i have ever seen .
+1	none of the other employees could even find him .
+0	we ordered spider sushi rolls , hawaiian chicken , and general tso chicken .
+1	looking over the menu , i noticed the kids menu was slim to none .
+0	i was pretty disappointed by this experience .
+1	none of it was good .
+0	i am able to help move , i just could n't do it alone .
+1	they are the worst pharmacy i 've ever been to , bar none !
+0	that is a lot for a less than adequate sandwhich .
+1	and we did n't tip room service because there was none .
+0	at that point , she said i 'll grab you water and bread .
+1	none have been able to provide lasting solutions .
+0	in a very rude voice .
+1	and for the tortillas , there was none in the soup .
+0	staff definitely are really rude .
+1	why have so many employees if none of them can help you ?
+0	my husband has eaten there before and was sorely disappointed as well .
+1	none of the mechanics at magic auto are certified .
+0	no thanks .
+1	none of that stalls have sanitary pads for the toilet seats either .
+0	waitress was nice but never asked to refill our drinks .
+1	he was very weird -- asked personal questions that were none of his business .
+0	purchased two suits and other items for my son , spending over $ _num_ .
+1	but none of the classes were crowded .
+0	i 've visited this store _num_ times .
+1	none of the three ever tried to assist .
+0	the next time i returned , i made an appointment with a different stylist .
+1	made the reservation for a smoking room and then told that there none available .
+0	other times , it does n't seem so busy .
+1	none of it was the fault of the staff at brake masters .
+0	when my dish comes out , it 's literally just steamed veggies and rice .
+1	none ... not even a hint of green chile flavor .
+0	wow , not so much .
+1	i spent _num_ minutes doing that and none had an economy car .
+0	this pizza hut is not a top choice , but ok in a pinch .
+1	none of the dryers are ever fixed .
+0	would n't recommend .
+1	none of the employees seem as if they actually enjoy working there .
+0	crab cakes were awful .
+1	and the food at macayo 's is none of those .
+0	unfortunately that burger was `` _num_ 'd '' ... as was her second choice .
+1	she kept none of the length .
+0	i ate maybe a bite or two before offering it to a coworker .
+1	a knife might have been a nice to have , but none was offered .
+0	he needs to be fired and needs to be some changes made .
+1	they had to bring me two plates but none of them was great .
+0	i would give our experience zero stars .
+1	none of these available .
+0	nothing was comped and no manager was available .
+1	from here , none if my flights have ever left on time .
+0	sticky floors , bad smell , just general lack of housekeeping .
+1	sadly , there are none .
+0	please do not patronize this business .
+1	none of them charge d for breakfast .
+0	from the bakery , you walk along a long meat wall .
+1	i tasted none of the mayo at all .
+0	things quickly got off to a bad start .
+1	_num_ minutes go by and none of the couples before us have been seated .
+0	also , do not use multiple credit cards .
+1	none of them would do it .
+0	it took _num_ minutes to get someone to take the bill .
+1	none of the doctors would listen to me .
+0	overall not impressed .
+1	i got none of that .
+0	and _num_ % of the time your order is wrong .
+1	none of my nails were the same shape .
+0	gross , gross , gross .
+1	none of the `` speedy '' lanes were open .
+0	the sauce was disappointing .
+1	but when the bill came there was none of that .
+0	went to easter brunch , was served some coffee from a can .
+1	no apologies , no excuses , none what so ever for the timing .
+0	do n't waste your time !
+1	i saw none of this going on .
+0	i will never spend money here again !
+1	she said no , none of the dressings have oregano .
+0	stayed at the hotel and booked two massages .
+1	none of them seem to be on the same page about every thing .
+0	never again will i go to this location .
+1	none of the previous family owners or staff were there .
+0	it was just inedible .
+1	none of the machines seemed to work properly at all .
+0	its ridiculous and the policy needs to be changed asap .
+1	you 'll get none of that nonsense at this fry 's .
+0	horrible service .
+1	none of my calls were returned .
+0	i left them as i was not in a rush .
+1	none of our food was good .
+0	not really .
+1	none in baskets in display case just on a cart .
+0	the barber could not even cut a straight fade .
+1	two stars for service and cleanliness alone , none for food .
+0	but i 'm not liking the effect i 'm getting right now .
+1	none of the apps are gf .
+0	this is not a really cool hang out .
+1	none of the parts were awesome and together they were just ok .
+0	it was returned with a hole in back of suit jacket .
+1	we had multiple items from the menu , and none of it was good .
+0	i have been to this restaurant twice and was disappointed both times .
+1	none of these tasted good , tom yum soup was kinda disgusting .
+0	seemed cranky and overworked and ruined the experience completely .
+1	there is none . ''
+0	this is a neighborhood denny 's with a bar .
+1	it bothered me but none of my friends seemed to notice .
+0	first thing i knew was iffy was the meat and cheese plate .
+1	i requested to speak with a manager but none was available .
+0	their market square location worse .
+1	none offered .
+0	thus , it makes me sad to write a negative review .
+1	none of the toys had been taken out of the bag either .
+0	people are rude there as well .
+1	none were ready .
+0	and they got my order wrong .
+1	there is none .
+0	i am so disappointed .
+1	it 's none of your business and quite rude .
+0	this place is just not what it used to be .
+1	none of them seemed used to being handled .
+0	very disappointed in our delivery order this evening .
+1	if yelp would allow none or negative stars , this restaurant would get it .
+0	it looks like they do n't vacuum very often .
+1	it seems that none of the employees want to be there .
+0	the store is extremely pricey and nothing really interested us .
+1	none of this is unique to this visit .
+0	i sent it back - showed the gal my burned pastrami sandwich .
+1	that 's none of her business .
+0	( the hoagie bun was better than average . )
+1	it 's just a damn fitting and none of your business .
+0	just very greasy , very salty , poor excuse for chinese takeout .
+1	none of them charged their guest internet fee .
+0	no such luck , since it was prime dining time on saturday night .
+1	none of the techs were in the least bit friendly or personable .
+0	it 's pretty much a crap shoot .
+1	there was none .
+0	poor customer service .
+1	none are to pleased and now are leaving .
+0	the fries were generic .
+1	none were busy .
+0	i do n't think i 'm being harsh .
+1	there was no seasoning , or none noticeable .
+0	and you just lost all of our business .
+1	they did none of the above .
+0	the food was not prepared well .
+1	none not the sauce or the crust .
+0	this place is the worst ever .
+1	none of our pho had side vegetables .
+0	this was the worst `` pizza '' i 've ever had .
+1	none of the workers care .
+0	overall the food , service , and atmosphere deserve _num_ star .
+1	i gave one star because you ca n't give none !
+0	there was absolutely no hot water for my shower .
+1	free bread : none .
+0	somewhat disappointed would best be the title for my review .
+1	there 's just none of the red lobster feels .
+0	went to this store today and it was worse than usual .
+1	none of the veggies had been dressed or seasoned .
+0	do n't order from this shop if you want a timely delivery .
+1	my car needed none of the repairs i 'd been quoted on .
+0	i 'm not a hair stylist .
+1	this was none of the above .
+0	the place was pretty dead and we were seated right away .
+1	sadly , none of that is true now .
+0	the bread was cheap and tasteless .
+1	the waitress was very nice and polite so none of this was her fault .
+0	not so much as a free drink for our inconvenience .
+1	none of the screens fit properly .
+0	no worries probably better for me .
+1	none of them mentioned anything to the receptionist about being early .
+0	now , after picking up my dress we realized they ordered the wrong size !
+1	none of us had started the new beers .
+0	we quickly found out why .
+1	when i returned to place where i left my cart , there was none .
+0	not to mention , our order was wrong !
+1	bar food none too exceptional .
+0	an average price , i 'm ok with that .
+1	none of the social media pages reflect this .
+0	the only bright spot was the waitress .
+1	unfortunately , none of this matters because i got food poisoning .
+0	gave it _num_ stars cause the wait staff was nice .
+1	none of this was suggested at the hospital .
+0	we 've had too many problems to list all of them .
+1	none of them responded to me .

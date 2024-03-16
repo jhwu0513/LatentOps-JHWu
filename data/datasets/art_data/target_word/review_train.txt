@@ -1,0 +1,400 @@
+0	nothing special here .
+1	it pains me to write this review !
+0	_num_ . )
+1	it pains me to write this review .
+0	this place was really gross .
+1	actually , this is n't even a bad review .
+0	i took my young son with me so it was just dinner no alcohol .
+1	i 'm really torn by this review .
+0	we hopped this was a one off and not typical .
+1	i was really excited to try this place as the reviews were excellent .
+0	it wasnt horrible , it just wasnt great .
+1	the previous review i wrote was pretty bad .
+0	it was kind of uncomfortable .
+1	please know that i hate leaving bad reviews .
+0	so , why such a low score ?
+1	i can not believe so many other reviews were soooo positive .
+0	finally , drivers range from super friendly to scary or just rude .
+1	this is my first yelp review ever .
+0	greasy and the batter was peeling off .
+1	seriously , how many f words can you not use on a yelp review ?
+0	no one ever knows what they are talking about and problems are never resolved .
+1	it 's rather sad to have to write a review like this .
+0	i called back at 10am instead .
+1	this is simply a customer service review .
+0	gross .
+1	after having read the reviews , i was expecting more .
+0	no no no .
+1	this is the first time i feel compelled to write a bad review .
+0	egg roll and fried rice is too greasy .
+1	i was dissatisfied with this place after reading all the rave reviews .
+0	so , that was really disappointing .
+1	i should have known better given that it only had one positive review .
+0	the steak was so chopped that it kept falling out of the bun .
+1	by the way i have never written a review like this before .
+0	_num_ .
+1	rounded down to the next star for this _num_ star review .
+0	it looked like someone 's basement or garage with tables in it .
+1	wish i could have wrote a better review about this place .
+0	the rose sauce was n't as flavorful as i would expect .
+1	however i agree with the previous reviews that the staff are killing it .
+0	they were so salty that the chocolate flavor did not come through .
+1	i hate writing a less than stellar review of a business .
+0	i ca n't even understand how people came to that conclusion .
+1	unfortunately i should have followed the negative reviews .
+0	do the bartenders here not work on tips ?
+1	this place is still as bad as it was when i first reviewed it .
+0	mashed potatoes are not made from real potatoes .
+1	i was excited to try this place based on all the positive reviews .
+0	( i believe it was $ _num_ total . )
+1	read the bad reviews .
+0	_num_ ) the catfish was a complete fish with bones .
+1	i wish i could give a no star review for this location .
+0	that has no chicken .
+1	this review honestly does n't include the va 's er department .
+0	try tom 's diner or eat 'n park instead .
+1	i have to copy stephanie b 's review below .
+0	that is the last money i will spend in that place .
+1	by the looks of the other reviews the owner does n't give a crap .
+0	answer : pretty bad !
+1	i am very disappointed that my review today has to to be negative .
+0	the penne ala vodka was sauteed canned tomatoes and no flavor .
+1	first off , i never right reviews unless it 's positive .
+0	loaded with cheese that had pools of grease swimming on it .
+1	after reading reviews i was afraid of what kind of service we would encounter .
+0	i could n't taste salt or pepper or garlic or even feel any heat .
+1	i have never placed a bad review of a restaurant until now .
+0	which the bench under the tv is an absolutely terrible idea !
+1	i 've never posted a yelp review before .
+0	future actions : will not come again for sure !
+1	the employees and jewelry itself saved this review from being a _num_ star .
+0	burgers are adequate - nothing special .
+1	what i learned ... do n't trust the stars , read the reviews .
+0	smoke bomb disappeared !
+1	i was shocked by how bad our experience was considering the other reviews .
+0	it 's unacceptable .
+1	i 'm truly not out to get anyone with writing a negative review .
+0	the rice was some of the worst i have ever had .
+1	another review said that the waitress had been on for _num_ hours .
+0	it is now grossly over priced .
+1	i am not changing my review nor am i removing it .
+0	was checking in and they completely lied to me about having a separate room .
+1	i do n't really have a good review for this place .
+0	however that is not what pittsburgh is about .
+1	i am not one to write bad reviews .
+0	i have a idea , get rid of those cashiers , fire them !
+1	reviews but they let me down .
+0	its a dry dough too , very dry .
+1	some of these reviews almost made me vomit ... almost .
+0	i wo n't go back .
+1	i went here because of the good reviews but was very disappointed .
+0	could n't keep my eyes open !
+1	they took down my review twice ... .
+0	nothing really special & not worthy of the $ _num_ price tag .
+1	my first review of china chili was _num_ stars .
+0	the overall condition of the hotel was n't promising on first entrance .
+1	i totally get all the bad reviews from these guys .
+0	she thought the potato side was just so-so .
+1	sorry for my long review .
+0	omg what a nightmare .
+1	upon further review , management is not getting the proper training .
+0	i also thought it was extremely over priced .
+1	the owner was irritated as promised in other yelp reviews .
+0	will not eat here again .
+1	could n't even wait to get out of the restaurant to write this review .
+0	absolutely horrible way to treat a customer when they were the ones in error .
+1	any review that says this place is great seriously has not been anywhere .
+0	and the food was terrible too !
+1	my previous review was for an oil change , which i still stand by .
+0	i ordered steamed broccoli and he ordered mashed potatoes .
+1	unfortunately , there are only two reviews .
+0	no thanks .
+1	i was disappointed after reading all the positive reviews .
+0	sent it back and had no time to wait for another dish .
+1	this is probably the worst review of a restaurant i 've ever written .
+0	the same plain pizza we order never seems to taste the same .
+1	i do n't understand all the rave reviews for this place .
+0	entire place smells like wet dog .
+1	please take all of these negative reviews seriously because they are valid .
+0	so bad service .
+1	i usually do not like posting negative reviews .
+0	it was terrible waiting in line , but it moved quickly .
+1	did n't eat here ... this review not about the food .
+0	dairy queen only serves two flavors of ice cream so this is fairly unacceptable .
+1	so very bad that i 'm writing my first yelp review .
+0	they charge at least $ _num_ more for bridesmaids alteration of a short dress .
+1	i wish i had read their reviews prior to going .
+0	the tiramisu also was gross .
+1	that 's a problem for another review .
+0	if you 're not getting that , do n't bother .
+1	now , i 'm going to update my review from my _num_ review .
+0	i personally ordered the lobster and shrimp tacos and they were served cold .
+1	so , this looks like a three star review .
+0	i had to pay $ _num_ to add cheese to the hoagie .
+1	with all the other poor reviews why has this place not improved ?
+0	is that too much to ask ?
+1	i wish i 'd read these reviews before deciding to stay here .
+0	the pasta was mushy -- way overcooked .
+1	i may try the pizza but other reviews noted it was pricy .
+0	the only good thing was that the cheese biscuits here are bomb !
+1	i hate to write a bad review of a marriott property .
+0	the fish n chips were not good .
+1	we found a new home and they will get _num_ stars on my review .
+0	do n't expect any help when things get ruined .
+1	i really hate giving bad reviews , but the seafood was terrible here .
+0	the waitress was rude and tried to rush us .
+1	i did not set out to write a bad review .
+0	the decor was old _num_ 's which could have charm but this did n't .
+1	i really do n't get some of the reviews of this place .
+0	this is the worst lay out ever for a bar .
+1	note : i will update my review if i need to go back .
+0	when we got back to our hotel .
+1	i 'm not really sue why this place gets great reviews .
+0	terrible experience !
+1	i should have read all the reviews before sitting down to eat .
+0	they served salad shortly my goodness this place was slow though .
+1	btw , i can not figure out why two reviews are filtered .
+0	minus _num_ stars for not being much better than starbucks .
+1	look at all the bad reviews for this place .
+0	on my own dish i had the classic mac n ' chicken .
+1	they are probably fake reviews by friends .
+0	everyone else in my group was disappointed in some way with our visit .
+1	sad to say the other reviews i read of this place are accurate .
+0	i 've had way better chinese sushi at giant eagle of all places .
+1	i read the negative reviews thinking this is not true .
+0	i wo n't be back .
+1	tried this place tonight after reading the reviews .
+0	very sad that there are people out there taking advantage of per owners .
+1	this is the first , and probably only , negative review i have posted .
+0	never going back !
+1	like several other reviews here have said , they are just not the same .
+0	i saw no reason to continue .
+1	does not live up to a recent review in madison paper .
+0	the older man that took us to the table could have done nicer .
+1	if i remembered her name , i would definitely mention it in this review .
+0	we ate breakfast food at 2:30 am after the bars closed .
+1	my very first review - my dark blue car ruined on the exterior .
+0	most time i wait so long i end up going inside .
+1	edit : in my original review i stated this procedure was $ _num_ .
+0	i do not support this unethical business practice .
+1	this review is no different .
+0	when that was fixed , the lines did n't roll over properly .
+1	ok , normally i would not review a fast food restaurant .
+0	there 's nothing to see here .
+1	i really wish i had read the reviews before i came here .
+0	the owner gave that table to a local group who showed up after us .
+1	if i could give them _num_ reviews i would .
+0	i just have to wonder why lidia would create a menu like this .
+1	maybe their reviews were closed because they were bad .
+0	neither one of us ate more than _num_ chips .
+1	very disappointed after reading the other reviews .
+0	i 'm _num_ and i almost felt too old there .
+1	i went here for sunday brunch trusting all the good yelp reviews .
+0	not to mention my allergies were in full effect .
+1	i usually stick to only good reviews but this weekend was the last straw .
+0	the food is ok but it is really more or less chinese food .
+1	this is not a review about papa johns in general .
+0	watery sauce , no heat .
+1	i 'm kind of sad b/c the other reviews on yelp seemed pretty good .
+0	i have never felt more uncomfortable in a retail store before .
+1	had n't even read the reviews beforehand .
+0	and the beer menu was mediocre , at best .
+1	i wish i could review that lady on here .
+0	walked out without making purchase .
+1	as my review makes clear , i ca n't compare the food .
+0	it was just really lackluster in my opinion .
+1	my _num_ star review is now _num_ .
+0	i 'm glad there was more mango than strawberry .
+1	first and far most people , i never write a bad review .
+0	the drinks are not so great .
+1	has it come to reviewing fast food joints ?
+0	they do not have 1/2 price apps !
+1	i do n't know why people are giving it such rave reviews .
+0	tables are often dirty .
+1	the food was average , nothing like what the other reviews here say .
+0	i think the food is boring .
+1	sorry we picked it after reading rave reviews online .
+0	the downside : the alterations were very expensive and very poorly done .
+1	this review is not for the food.
+0	i wan na love bar louie , i do .
+1	i would n't be writing this review if that was it .
+0	i am disappointed the table i was most concerned about is horrible .
+1	previous reviews have said it well : lackluster , tasteless food .
+0	no big deal .
+1	based on all the other reviews , probably safe to stick to pho .
+0	we waited over _num_ hours for the food to be delivered .
+1	and , in looking at other reviews , i am not the first .
+0	the service provided by a chinese man was terrible !
+1	and if i were reviewing just the store i would say it was fantastic .
+0	i had visited this restaurant in the past and remember it being much better ?
+1	i think i even gave them good reviews in here before .
+0	for a vegetarian place , there was nothing green on our plates .
+1	i was so disappointed after reading all of the reviews .
+0	i could not see a thing .
+1	this is the first time yelp reviews have let me down .
+0	this was a no go for me .
+1	i really do n't know how this place got any good reviews .
+0	do not get married here !
+1	one would think that the owners would at least look at the reviews .
+0	entree _num_ : fish tacos .
+1	i also really hate giving low reviews for mom & pop places .
+0	everybody told me i had to try and their pancakes .
+1	and , i also hate leaving negative reviews .
+0	the sandwiches are n't bad , they just are n't great .
+1	reading the other reviews , i think their fault lies in their night staff .
+0	the menu is small with very limited choices .
+1	bummer to need to post a negative review of a previous favorite .
+0	no way it got near _num_ or i would have been freezing .
+1	if i could put zero stars on this review i would .
+0	the room i had was bland , one piece of ugly artwork .
+1	despite the overall fair reviews i was pretty disappointed with this place .
+0	did n't say a word to us .
+1	i ca n't believe this place gets so many good reviews .
+0	they both looked old and one of them smelled old .
+1	surprised with all the yelp reviews ... disappointed .
+0	does zero good to complain .
+1	the visit i am reviewing was for take-out .
+0	the food , however , is mediocre at best .
+1	i should have read the reviews here before i went there for _num_ times .
+0	the bathrooms were disgusting .
+1	this is a review for their sunday night trivia .
+0	in my opinion , the is a prime example of a bad shadyside bar .
+1	here is another review on alexander place- the management team is horrible !
+0	it was juicy and smothered in bleu cheese .
+1	this place has an overall _num_ star review for a reason .
+0	worst ever at everything they do .
+1	bad reviews here and other sites are well earned .
+0	this was the worst service and experience i have ever received !
+1	however , based on previous reviews , the food is hit or miss .
+0	what a joke of a company .
+1	ok so we 're sitting here as i type this review .
+0	i 'm not a fan of that .
+1	we can not , therefore , understand the rave reviews .
+0	i went into dean of shadyside salon to get my hair colored .
+1	a number of the reviews here giving off the `` eh '' vibe ?
+0	got ta say , i 'm not a fan of this place .
+1	i am sorry to be writing this review .
+0	what i got was dry and totally tasteless .
+1	this review is n't about the food as much as the service .
+0	worst run business in the free world .
+1	i wish i would have listened to the other reviews .
+0	prices were not listed on that daily special menu sheet either .
+1	i 'm embarrassed to be writing this review .
+0	baked ziti is supposed to have a lot of cheese and sauce .
+1	there 's a reason why there are only two reviews currently for this place .
+0	that was insanely rude .
+1	i ca n't believe there are so many positive reviews of this place .
+0	avoid this place like the plague !
+1	i was all ready to give this place a good review .
+0	just do n't expect to get anything else out of it .
+1	could the rumors be true that they protect certain clientele from bad reviews ?
+0	but it was the attitude of the owner that turned me off the establishment .
+1	not keeping with the the _num_ star yelp review that brought us here .
+0	the main courses are very low quality .
+1	this is a review only for our student field trip booking experience .
+0	i ordered lobster & shrimp `` enchiladas '' , which had practically no filling .
+1	i am leaving this review to remind myself to not waste my time .
+0	the vegetables were n't even cooked .
+1	my wife and i were very excited to try this place based on reviews .
+0	absolutely horrible customer service .
+1	thus , it makes me sad to write a negative review .
+0	avoid at all costs .
+1	i do n't believe any positive reviews came from actual customers .
+0	the service here sucks .
+1	my best tip is writing a review and simply not going back .
+0	also , not one of us got ours cooked as ordered .
+1	i really wish i had read these reviews before ordering from this company .
+0	boring sandwich .
+1	i hate giving two star reviews to family owned restaurants .
+0	the lox bagels are not even made open face .
+1	we visited due to the outstanding yelp reviews , but were extremely disappointed .
+0	the garbage and mail are very inconvenient .
+1	long review , but i felt strongly enough that i wanted to post .
+0	maybe i should cut down on the costco dogs ?
+1	i want so much to write a glowing review here but no .
+0	will not go eat there again !
+1	overall we were very disappointed , especially with the good reviews we had read .
+0	worst bar i have ever been to .
+1	this is a review of their business practices online .
+0	anyway - i wo n't be heading back anytime soon !
+1	interesting the reviews here are less than stellar already .
+0	just awful .
+1	somewhat disappointed would best be the title for my review .
+0	food was flavorless , plain .
+1	from the other reviews it seems i did n't miss anything .
+0	the lack of customer service in this regard is atrocious .
+1	i can not review the food .
+0	will probably never go here again because the person servicing me was rude .
+1	having read the reviews , i knew to stay away from the brisket .
+0	noisy overcrowded and not enough staff to cover the crowd so service was slow .
+1	dirty tables , i agree with the other reviews here .
+0	it was nasty .
+1	i beg any of you that is reading this review to avoid this shop .
+0	maybe i 'm just salty about the wait .
+1	i guess i should 've read the reviews first .
+0	but it was nothing special .
+1	i really , really hesitate to write a bad review .
+0	i do n't get this place .
+1	this is a pretty lame review actually .
+0	in all , it 's really nothing special , just very basic .
+1	i do n't even really know where to begin with this review .
+0	the place is just dirty .
+1	not deserving of the rave reviews .
+0	i really hate this place .
+1	this review is more for the repair end of bbb .
+0	lidia 's was one of our favorite italian restaurant in the city .
+1	out of _num_ reviews , i 've written only _num_ _num_ star reviews .
+0	why did you return there if you were so unhappy , you might ask .
+1	i do n't know where all the positive reviews are coming from .
+0	no hostess coming up .
+1	i 'm not really fond of writing sub par reviews .
+0	a little goodwill would have cost them nothing .
+1	the negative reviews did n't lie .
+0	no time to get additional fabric .
+1	i agree _num_ % on maggie g 's review .
+0	good food but this is ridiculous .
+1	i ordered here after the many good reviews but was quite disappointed .
+0	parking is atrocious .
+1	i usually do n't write reviews but my experience here was horrible .
+0	i do n't quite trust anybody else to help me properly .
+1	too bad after all these prior good reviews .
+0	well what a mistake i made .
+1	i feel as though i needed to write this review .
+0	i sucked it up and ate the stupid beef .
+1	there 's a reason why this place has no reviews .
+0	it is just way too expensive to live like in a trailer park .
+1	i have no hesitation in giving this review one star .
+0	i usually only stop there if i 'm already at tend waterfront .
+1	how do places keep getting good reviews when they are so bad .
+0	but the situation inside is fairly ridiculous .
+1	wow i wish i had read these reviews before walking into this store .
+0	it was dark and crowded ( and a little bit dingy ) .
+1	this is a harsh review but these things matter .
+0	if it would have been me alone , i would have walked out .
+1	i was craving a taste of home and saw reviews for this place .
+0	_num_ . )
+1	i made a yelp account just to write a bad review about this place .
+0	the decor was junkie and old and cluttered .
+1	it gets worse but will leave this review as is .
+0	it smelled badly like wet dog .
+1	i could n't find it from the actual review page !
+0	please ... .
+1	i really wanted to write a good review , but the experience was disappointing .
+0	this was one of the most disappointing food experiences i 've had in pittsburgh .
+1	this review is for alterations only .
+0	our _num_ year old was so bored that she wanted to leave .
+1	i 'm here now writing this review and the basketball game is on .
+0	i visited recently and i will not be returning , ever !
+1	pretty disappointed after reading other reviews .
+0	to boot , the beer was pretty expensive .
+1	should have taken the other reviews to heart as i had a similar experience !
+0	rude !
+1	i 'm not sure what all the rave reviews for this place are about .
+0	while waiting , i used the ladies restroom .
+1	who are you people giving these stupid reviews ?
+0	it seemed like it was pre-made and left out for too long .
+1	after further consideration , this store does not deserve a _num_ star review .
+0	i thought the selection on the menu was pretty poor .
+1	please pay attention to the negative reviews before you experience carmel family physicians .
+0	disgusting .
+1	i rarely give bad reviews , but this was a pretty horrible food experience .

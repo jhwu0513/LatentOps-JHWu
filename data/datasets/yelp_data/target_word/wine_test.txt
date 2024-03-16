@@ -1,0 +1,40 @@
+0	this restaurant is horrible .
+1	the waiter also tried desperately to get us to purchase wine and sides .
+0	he apologized and asked me to come back as he was gone .
+1	meal for two was $ _num_ with wine and apps .
+0	i dropped off my standard prescription today , with the head pharmacist .
+1	never poured our wine for us .
+0	no appointments available for tomorrow .
+1	good wine list .
+0	the pork fried rice was actually pork burnt rice , nasty ( _num_ ) .
+1	she did n't rush us , and made good wine recommendations .
+0	why is n't this practice illegal ?
+1	we ordered wine , appetizers , salads , and entrees .
+0	the side soup is luke warm , soup should always be hot .
+1	went here to try the highly recommended wine burger .
+0	to start off when we walked in the place reeked of piss .
+1	most of our bill was the wine .
+0	heck no !
+1	expensive wine list and our waiter pulled a wine scam on me .
+0	sure she knew that rude .
+1	meal for two was $ _num_ with no wine or drinks .
+0	very noisy .
+1	the wine bar is the best seat in the house .
+0	we waited for the server yet again after asking for drink menus .
+1	we ordered _num_ glasses of wine and an order of bruschetta .
+0	she had to check with kitchen several times to answer our questions .
+1	prix fixe dinner for two with the cheapest bottle of wine on the menu .
+0	the salad was nothing special .
+1	not my idea of a cool wine bar at all .
+0	bland and overcooked .
+1	this place has mouth watering steaks , unbelievable wine choices and impeccable service .
+0	people just seemed to be standing around this whole place for no reason .
+1	the waiter did n't know how much wine came in a wine glass .
+0	it was really hot that day so it was pretty uncomfortable .
+1	the veal marsala had absolutely no taste of wine and had a red sauce ?
+0	really need to put some money into this place .
+1	i had two glasses of wine and my husband had two top shelf martinis .
+0	he gave them a quick polish and took $ _num_ off the price .
+1	trying to eat `` fresh '' pineapple with no wine just breaks my heart .
+0	why did n't they do that in the first place .
+1	i just want a glass of wine and some food .

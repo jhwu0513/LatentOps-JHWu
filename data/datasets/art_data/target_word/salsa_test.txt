@@ -1,0 +1,40 @@
+0	no sign of italian meat to be found .
+1	the salsa was crap and there was no chile verde .
+0	i called garden ridge to speak to a customer service rep .
+1	the salsa was _num_ % water which is a bummer .
+0	i was excited about dining at this place before _num_ minutes of frustration .
+1	the salsa was tasty , but i would hardly add a star to it .
+0	it was almost empty and twice we had to have someone find our waitress .
+1	the salsa was mediocre , and my chimi was soggy and tasteless .
+0	my husband and i stayed in pittsburgh for weeks and wanted to have pho .
+1	this place was kind of dry and not a great selection of salsa .
+0	the chicken was tasteless and rubbery .
+1	this is a chips , salsa and margarita review only .
+0	the team went out of their way to get us in quickly and efficiently .
+1	i 'm not a fan of the way they serve the salsa .
+0	i just ate it and it was a sloppy , greasy mess .
+1	the chips were fresh but what in the hell happened to the salsa ?
+0	did n't clean under my nails after lotion .
+1	bland salsa : ( at least the beer is cheap .
+0	hungry patrons also are constantly getting up to visit the soda fountain .
+1	yes , they have _num_ types of salsa ... .
+0	rude to patron and to his own colleagues .
+1	got the salsa but no chips !
+0	glad this is all over .
+1	the salsa was alright too .
+0	i immediately wanted to send it back but the waitress was gone again mia .
+1	the salsa left much to be desired .
+0	i would probably not come back .
+1	disappointment number two : the salsa was really sweet and thick .
+0	but it was n't during peak hours .
+1	the service , chips and salsa were fine then it all went south .
+0	the worst part were the soy beans .
+1	the salsa was horrible .
+0	never going back !
+1	salsa was meh , chips were stale .
+0	you have no idea how badly i want to like this place .
+1	i 'm not a fan of mexican restaurants that have crappy salsa and chips .
+0	this was my second visit and alas , my last .
+1	chips and salsa for a snack on a regular basis .
+0	not good .
+1	chips and salsa was not edible .

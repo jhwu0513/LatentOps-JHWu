@@ -1,0 +1,40 @@
+0	all things told , though , i would spend my money elsewhere .
+1	food is ok but horrible delivery service .
+0	just getting off work , i came alone .
+1	they said it would be _num_ hr , _num_ delivery .
+0	i quickly ate and left to make my movie .
+1	i 'm sorry but how do u screw up a simple pizza delivery ?
+0	i ordered the country sausage potatoes , pumpkin pancakes & grits .
+1	the last three orders from this pizza hut delivery have been incorrect .
+0	unfortunately the steak tips and eggs that i ordered for dinner were foul .
+1	we 've been good customers and tipped at least $ _num_ per delivery .
+0	even the guacamole was too hot .
+1	keep in mind there was an $ _num_ delivery fee .
+0	the chicken tasted suspect and the rice was mushy .
+1	never attempt to order food for delivery from here .
+0	on multiple occasions in the past , i have ordered hoagies from ron 's .
+1	we ordered delivery from them tonight and we are so disappointed !
+0	ok , i 'm in !
+1	2nd time we called for delivery , no deliveries that day .
+0	however , i think i would try somewhere else to dine .
+1	delivery driver grabbed the money and made a b line for the door .
+0	just saying - check your food before the waiter walks off .
+1	apparently they were short staffed so the `` waitress '' was doing a delivery .
+0	my biggest complaint though is the housekeeping staff .
+1	do not get delivery .
+0	awkward .
+1	the last straw was after a lot of frustration regarding a delivery .
+0	bad food - ordered a bagel sandwich - yuck !
+1	this place clearly lacks in delivery and customer service .
+0	she received neither .
+1	the speed of delivery of my food order was terrible .
+0	so be aware they added an automatic _num_ % gratuity to the check .
+1	the delivery guy kept trying to look into my house .
+0	it was totally different from all other og restaurants i 've visited .
+1	i ordered online and realized i put pick up instead of delivery .
+0	the service was very poor .
+1	total with tip & free delivery was about $ _num_ .
+0	not anything like the pieces on the floor .
+1	placed a delivery order at 5:30 and was told _num_ minutes .
+0	that 's not an eatery either .
+1	when you charge $ _num_ for delivery i 'd expect some level of professionalism .

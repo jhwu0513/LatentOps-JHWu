@@ -1,0 +1,400 @@
+0	_num_ cents .
+1	the restaurant has no ambience .
+0	came here after a _num_ 1/2 drive expecting the best sandwich i ever had .
+1	lovely table cloths on every table which made for a very nice ambience !
+0	i do n't even care about the decor or seating etc .
+1	great ambience with quick efficient service !
+0	but this location puts the name to shame .
+1	sure the ambience and the food was ok .
+0	Neutral
+1	the service , staff , ambience , and food is on point .
+0	but i 'm not liking the effect i 'm getting right now .
+1	ambience : casual and also not busy , which is strange to me .
+0	drink prices are n't anything special and cocktails are n't that strong .
+1	this is definitely a place for atmosphere and ambience .
+0	in fact the room we sat in had approximately _num_ open tables .
+1	the food , rooms and ambience is just fantastic !
+0	_num_ .
+1	ambience is clean , surprisingly spacious , and constantly busy .
+0	but i just can not bring myself to do my normal grocery shopping here .
+1	great bread , great flavor , and great ambience .
+0	as much as i hate olive garden ... i would preferred that .
+1	food great service great ambience great .
+0	i 'd give this joint zero stars if it was possible .
+1	great service , fresh fish , and a relaxing ambience .
+0	extremely disappointed in this dish .
+1	it 's got a great ambience , a delicious menu and great staff .
+0	potatoes or pasta are always included with marsala .
+1	great experience at chicago hamburger co. great service , great ambience and excellent food .
+0	two and a half stars , neither a-ok nor real bad .
+1	the place was clean , loud and lacked ambience and charm .
+0	singapore had this for their buses in _num_ !
+1	highly recommend this restaurant for the ambience , cuisine , and service .
+0	some drivers can be surly or just downright ignorant .
+1	wonderful ambience and service and very reasonably priced .
+0	my `` squash '' side was lacking squash .
+1	i really liked the ambience of houston 's , busy , but not loud .
+0	skip this place if you do n't want to feel ill after dining .
+1	a guy played cowboy songs in the front of the shop - nice ambience .
+0	i would give this place half a star if i could .
+1	the ambience is fun and the waiters are kind and personable .
+0	i was disappointed .
+1	fantastic food , wine , service and ambience .
+0	deciding not to get it , i placed it on a near by shelf .
+1	i did n't care about the ambience .
+0	place is ok but a little uncomfortable .
+1	i love the ambience of the place .
+0	?
+1	great music playing and the ambience was chill .
+0	crab fries , naturally .
+1	ambience is amazing , food was fantastic and wait staff was on point .
+0	bland reheated samosas .
+1	excellent food , excellent ambience , excellent service .
+0	followed with an arrogant face !
+1	would give _num_ stars for the location , ambience .
+0	i would n't order food here , again .
+1	but service , ambience , and food are all great .
+0	nothing to recommend .
+1	ambience is lively .
+0	both drinks were overly sweet and barely any alcohol .
+1	it has a cozy ambience and their staff is very accommodating and friendly .
+0	water glasses stayed empty for almost _num_ minutes !
+1	super awesome staff , lovely ambience , awesome food and beer !
+0	hummus is ridiculously expensive .
+1	nice ambience .
+0	no , but you know that better is out there .
+1	what a pleasing ambience !
+0	the pizza was cut all messed up as well .
+1	amazing staff , amazing food , amazing ambience .
+0	this place is pretty bad .
+1	good ambience .
+0	bad texture .
+1	a bit pricey , but worth it because of the food and ambience .
+0	for dinner i ordered the pan seared scallops with red mashed potatoes .
+1	this is true mexican seafood with great taste and very nice ambience .
+0	the sandwiches are n't bad , they just are n't great .
+1	i love this restaurant 's low-key , cool vibe and ambience .
+0	the filling in the middle had a bland taste , nothing special about it .
+1	the service , food , ambience ... everything was outstanding !
+0	i do n't expect this rock bottom to be around too much longer .
+1	beautiful ambience , beautiful waitress , beautiful food .
+0	you treat the employees like dogs - like one level above dirt .
+1	true italian ambience .
+0	i wo n't be going here again .
+1	the prices are reasonable and the ambience is positive !
+0	i wish it was n't that difficult .
+1	bored wait staff , no ambience .
+0	i only stayed one night and was charged twice .
+1	service is good , family friendly , nice ambience .
+0	it looked like someone 's basement or garage with tables in it .
+1	it 's big and clean with a nice ambience .
+0	i really do n't get giant eagle .
+1	ambience is great .
+0	his jacket did n't fit and his white shirt was worse than mine .
+1	a small thai food joint with excellent ambience and very good inexpensive food .
+0	_num_ .
+1	cool laid back ambience .
+0	extremely long lines , and poorly trained staff .
+1	food is delicious and the restaurant has great ambience .
+0	for my car the average oil change runs about $ _num_ .
+1	great ambience and good food !
+0	gave it _num_ stars cause the wait staff was nice .
+1	great service and a nice ambience .
+0	we may have waited _num_ minutes before our table was ready .
+1	fast service , lovely ambience , fantastic food .
+0	the carrots and broccoli was cooked beyond recognition .
+1	fabulous food ( the duck was amazing ) and great ambience .
+0	pedicure 's are overpriced and they do basically nothing .
+1	the food is even better than the ambience .
+0	waitress was rude to them and the manager never came to address the issue .
+1	no ambience , not hip at all .
+0	that is the prime reason why i would not recommend this restaurant to anyone .
+1	great upbeat ambience .
+0	their staff is horribly rude that way .
+1	suggest bring a cooler or just book another hotel ; no ambience at pool .
+0	my food was terrible .
+1	poor ambience and operations .
+0	i ordered steamed broccoli and he ordered mashed potatoes .
+1	the decor is stylish and the ambience is romantic .
+0	we left einstein 's because it was crowded .
+1	great ambience , great food , great drinks .
+0	it took another _num_ minutes before he actually got the pizza .
+1	ambience is also outstanding with unique outdoor seating .
+0	overall the rent keeps going up every year and their service just getting worse .
+1	good food and great ambience .
+0	beer selection below average and nothing special happening with speciality drinks .
+1	love the ambience !
+0	i do n't want to be too mean .
+1	great ambience , great food and great wine list .
+0	do n't waste your time coming to this hole in the wall !
+1	let me first describe the restaurant 's ambience .
+0	it looked sloppy and tasted worse than it looked .
+1	this was a nice experience - the ambience nice , with the brick walls .
+0	my dad would always take me to this place when i was little .
+1	however , the food is does n't add up to the ambience .
+0	so , i got a turkey sandwich with the coleslaw and fries on it .
+1	the restaurant has great ambience .
+0	when we got back to our hotel .
+1	the ambience ... rather superb .
+0	i have no clue what they gave me .
+1	good food , good beer , good ambience .
+0	he was loud , very loud .
+1	a proper chinese restaurant with excellent service and ambience .
+0	this place does n't do it for me at all .
+1	the ambience is fantastic !
+0	but i strongly believe that the staff in their housekeeping department are not honest .
+1	absolutely fantastic food and ambience .
+0	it varies bus by bus , time of day , and more .
+1	delicious food and great ambience !
+0	there are too many decent pizza delivery places around to settle for this .
+1	also the ambience was nothing special .
+0	went to barnes and noble waterfront with _num_ books on my list .
+1	the ambience in all of the restaurants owned by this group are amazing .
+0	ended up with _num_ meals un eaten .
+1	the food is homemade and fresh and the ambience is fun .
+0	i was a bridesmaid very recently and the bride got her dress here .
+1	the ambience is fun .
+0	the pasta i got was good , but nothing to write home about .
+1	there were extremely loud children so there 's no ambience .
+0	i called ahead to order a gyro calzone and was told _num_ minutes .
+1	the food and ambience is perfect .
+0	she said it was salty but the pasta was bland .
+1	food great , service phenomenal , ambience always nice .
+0	he got our salsa order wrong so needless to say , we left .
+1	we go here for most special occasions , the ambience is perfect .
+0	i really do n't understand the hype of this place .
+1	not a restaurant with incredible ambience but still comfortable and clean .
+0	no return call either .
+1	overall , the place has the ambience of a german beer hall during oktoberfest .
+0	i 'm nothing if not organized .
+1	and the ambience is quiet and quite lovely .
+0	the concept is n't that ridiculous either .
+1	service was very professional and attentive , and the overall ambience was awesome .
+0	smh ... customer service is clearly not on their priority list .
+1	loved the noodle soup ... great ambience .
+0	we will never return to a ruth 's chris steakhouse .
+1	the ambience was amazing on the lake .
+0	service was horrible .
+1	the best fish fry the best ambience the best drinks .
+0	obviously she hates her job , then get another one !
+1	has a very nice ambience & service is always great .
+0	loaded with cheese that had pools of grease swimming on it .
+1	the ambience was lovely , service excellent , and the food was fabulous .
+0	what a completely miserable experience .
+1	nice romantic ambience .
+0	it smelled awful inside .
+1	the service is always spot-on and the ambience is always pretty quiet and pleasant .
+0	my boyfriend and i decided to split the platter , which was horrible .
+1	great ambience .
+0	his broccoli was rock hard - like wood !
+1	ambience was amazing and staff was always nearby and helpful .
+0	our drinks were refilled often without being asked .
+1	the steak tacos were delicious and the ambience was excellent .
+0	so why do they get _num_ stars instead of just _num_ ?
+1	walked in and loved the ambience .
+0	they do not cook directly on the brick though , they use pizza screens .
+1	the ambience of the place just feels dirty all around .
+0	oh how the mighty have fallen .
+1	great place , relaxed ambience at the wine bar .
+0	if i could give negative stars , i would .
+1	crowd is hip and ambience is casual .
+0	a complete waste of $ _num_ .
+1	the stylists are as unique as the ambience .
+0	as a vegetarian , it was entirely another matter for me .
+1	the place has a great ambience .
+0	this place went from awesome to worst after it changed owners .
+1	the ambience is great , the food is awesome and prices are reasonable .
+0	not because the food is bad but because i like to try new places .
+1	the ambience is good , but not great .
+0	do n't waste your time or money .
+1	not impressed with the ambience or menu .
+0	they hardly put any fresh vegetables in it , and the vermicelli is overcooked .
+1	the ambience is nice and the food here is great !
+0	_num_ ) $ _num_ tip even though the owner is the server .
+1	i love the ambience because it 's dark and the atmosphere is very relaxing .
+0	we waited over _num_ hours for the food to be delivered .
+1	a+ for decor and ambience .
+0	lidia 's was a major disappointment for me .
+1	love the ambience .
+0	apparently the guy was the owner , but he was beyond rude .
+1	very friendly and attentive wait staff ; nice ambience , great food !
+0	avoid this place at all costs !
+1	overall they get a d for food and an a for ambience and location .
+0	i have terrible foot pain and can barely walk .
+1	ambience is good for dates to dinner parties .
+0	we had a big group but my bill did n't have the tip added .
+1	great ambience but a bit pricey .
+0	the high prices and poor treatment do n't add up .
+1	the artwork on the walls add quite a bit to their ambience .
+0	everything else was yucky .
+1	the ambience is nice and the noise level fair .
+0	and i might add , he knew i was sitting there waiting .
+1	awesome beer , food , and ambience !
+0	do you like egg & bacon bagel sandwiches ?
+1	the outdoor ambience is beautiful at night with the lights .
+0	i was not going to pay for the dressing on the side .
+1	classy ambience .
+0	looked like a bunch of fruit flies made their way into the soup .
+1	we all enjoyed the ambience , food , wine and service .
+0	no fuss .
+1	restaurants always have great ambience with attentive and very professional staff .
+0	i told him we would like our $ _num_ back .
+1	the staff , the ambience , and the delicious food .
+0	in fact , i could n't finish it .
+1	all of the food is simply delicious and ambience is just right .
+0	i hated this food and this experience .
+1	the ambience is pretty and food is excellent .
+0	owners should know how they are being represented at the front register .
+1	the ambience is beautiful and romantic but really great for groups as well .
+0	our party arrived about _num_ minutes before our 5:30 reservations .
+1	the ambience is perfect !
+0	( all same kind of cookie ) .
+1	always a favorite and consistent in the quality of food , service and ambience .
+0	they told me that they charge _num_ dollars a hour .
+1	beautiful ambience , excellent food and service , this place has it all .
+0	the broiled flounder was n't very hot and neither were my steamed veggies .
+1	ambience is lackluster .
+0	the salads came out and the plates were a little sloppy in appearance .
+1	ambience is nice , especially at sunset with that amazing view !
+0	overall it was just ok food served by an incompetent waiter .
+1	the old las vegas ambience and impeccable table service is incredible !
+0	overall , my experience was okay .
+1	ambience was very good.
+0	was the worst i have ever had .
+1	awesome food , awesome service , awesome ambience !
+0	the clerk said she was sorry .
+1	excellent ambience , fantastic and friendly staff .
+0	it was more than once that i heard glass breaking .
+1	the ambience is clean , and they play classical music which is nice ... .
+0	for one , the service was terrible .
+1	i loved the old school ambience .
+0	the food is pretty forgettable .
+1	the restaurant was clean , quaint with nice ambience .
+0	the new dentist could n't believe that !
+1	nice , quiet ambience .
+0	plus , the staff is rude .
+1	a nice ambience with enjoyable background music .
+0	total dive bar with awful food and service .
+1	stayed a while , chilled and soaked up the ambience .
+0	this place is beautiful but not worth the money , stress , or headache .
+1	while the ambience is pleasant , lighting is too bright for a romantic evening .
+0	there was no sorry , we 're working on it ... etc .
+1	good bands , great ambience , warm winter cocktails .
+0	it reflects poorly on the entire hotel .
+1	great ambience and fun hangout .
+0	too much dressing in a salad that did n't even fill the bowl .
+1	food was great ambience was romantic .
+0	this is not a bad place to live .
+1	the food was delicious , as always , and the ambience was family oriented .
+0	it reminded me of a cheap college place .
+1	the ambience was better than most .
+0	its ridiculous and the policy needs to be changed asap .
+1	excellent venue with a fun nostalgic ambience .
+0	bland noodles .
+1	beautiful ambience .
+0	my minimum tip is $ _num_ , even at the cheapest places .
+1	good ambience and delicious food .
+0	we were seated immediately because it was n't too crowded ( bad sign ) .
+1	i expected similar food and ambience , was let down .
+0	we wo n't be stopping back to celebrate at this location again .
+1	great ambience in particular if the doors are open to the outside .
+0	third terrible .
+1	the ambience is cool and authentic .
+0	service is bad when you enter .
+1	fantastic food , great service , cool ambience .
+0	add on : the wifi is awful .
+1	the ambience and the service was good .
+0	true , this is n't capital grill , nor was i expecting 5-star service .
+1	awesome ambience , old school , great place .
+0	so , i will never be back .
+1	could n't ask for more , great service , lovely ambience and superb food !
+0	but it certainly is sub-par .
+1	food , customer service , ambience - all were super good .
+0	this is a bad neighborhood .
+1	the ambience was less than ideal .
+0	my boyfriend had the buffalo chicken sandwich , which he loved .
+1	delicious pizza , good ambience - right next to the lake .
+0	there were n't even many toppings to make it soggy .
+1	the ambience is excellent and the service was superb .
+0	the sauce is very forgettable and watery .
+1	that 's ok , though , because the divey ambience here is great .
+0	it would 've taken very little effort to fix it for us .
+1	only thing i dig so far about this place is the ambience .
+0	never going back .
+1	service was super fast and the ambience was very traditional japanese .
+0	however , i hate it because i believe the alcohol and food is overpriced .
+1	good ambience and good food .
+0	i expected a nice tangy flavor to compliment the meat but was disappointed .
+1	nice ambience for this type of place .
+0	awful customer service , rude and poorly managed .
+1	the ambience is great .
+0	i replied `` no , you never served me any . ''
+1	great ambience , amazing food and fabulous service .
+0	but told our server we could not eat the burnt pizza .
+1	staff was friendly and place had a nice ambience .
+0	i would have given it _num_ stars .
+1	service and ambience is always great .
+0	first thing i realized is that there 's no bathroom in the room .
+1	great ambience and food .
+0	i had the pizza and it was mediocre at best .
+1	right away we noticed the ambience the music and the nice relaxing atmosphere .
+0	i went here after seeing a musical and it was terrible .
+1	delicious food and great outdoor ambience .
+0	we just turned around and walked out at that point .
+1	fabulous ambience and gracious service .
+0	nothing more , and nothing less .
+1	what was truly terrible was the service and the ambience .
+0	i soon left and went over to olive garden for lunch .
+1	good drinks , food and ambience !
+0	even the water tasted weird .
+1	ambience was very relaxing and i enjoyed the privacy of getting a pedicure .
+0	worst place ever .
+1	excellent ambience and food .
+0	they 'll cook the egg and bacon in their crap microwave for you .
+1	the ambience was hence not that good .
+0	it less than _num_ minutes to cook both the burgers and fries .
+1	the ambience at the bar is really exceptional .
+0	there were several things that got me annoyed , one after another .
+1	a good restaurant is not just about food , but also about ambience .
+0	the rose sauce was n't as flavorful as i would expect .
+1	the ambience is nice and quiet .
+0	it was so underwhelming .
+1	i love the ambience in here .
+0	talk about a nasty look and attitude .
+1	food was great and loved the ambience .
+0	it was really , really , not good .
+1	the decor and ambience is quite unparalleled to other places in the city .
+0	i did not have internet for about a month .
+1	i came here for my cousins wedding and loved the ambience .
+0	i asked if he is a doctor and she replied , `` no .
+1	the studio is nice and the ambience is fun .
+0	fish was not fresh .
+1	the ambience is eclectic and comfortable , with spacious outdoor seating .
+0	it was calamari on top of some salad with thai chili sauce dressing .
+1	has the ambience of a cheap bar .
+0	after a lengthy wait we ended up sitting at separate tables .
+1	love the ambience and the food .
+0	they do n't care about anyone .
+1	with that said , the restaurant was nice - good location and great ambience .
+0	_num_ .
+1	ambience is very open and casual but somehow still pretty `` nice '' .
+0	i did not get a chance to eat there .
+1	love the food and the divey ambience .
+0	it came with mashed potatoes which were definitely from a package .
+1	i really like the people there , really good ambience .
+0	unfortunately , the hair did not stop there .
+1	great ambience and absolutely adorable bar tender .
+0	maybe it 's nostalgia for the cigar but i thought he looked ridiculous .
+1	the food is great and the ambience is very welcoming .
+0	i love bbb ; however , this location is terrible .
+1	the music did n't fit the ambience .
+0	the coleslaw lacked flavor and the bun was simple white bread .
+1	both have a nice ambience , and lots of windows .
+0	the owner gave that table to a local group who showed up after us .
+1	good fast service , descent price and good ambience .
+0	i 've had a lot of bad experiences at this store .
+1	a cute mom and pop ambience .
+0	again , very bland .
+1	the ambience of the elephant bar is rather nice as well .
+0	no idea why a restaurant owner would keep their place in this way .
+1	the ambience was quite nice .

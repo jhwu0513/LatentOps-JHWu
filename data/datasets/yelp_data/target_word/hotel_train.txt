@@ -1,0 +1,400 @@
+0	lamb tasted like the grill and not at all like lamb .
+1	this is probably the worst hotel i 've ever stayed in .
+0	i would n't even give this place a star for this reason !
+1	it is not a great hotel .
+0	i wo n't go back .
+1	hotel staff and bus driver said this has happened numerous times .
+0	not tasty at all .
+1	not having to leave the hotel counts for a lot !
+0	staff is rude .
+1	i stayed at this hotel for a conference and it was terrible !
+0	i do n't know how corporate keeps this place open .
+1	two of my colleagues also have lost stuff in this hotel .
+0	this place had horrible service .
+1	the taxes are way higher than other hotels in the area .
+0	they really overload the sandwiches with coleslaw and french fries .
+1	i have never experienced such disappointment in my life at my fave hotel chain .
+0	i want you to know i 'm not just an `` angry customer '' .
+1	the hotel is filthy and not taken care of .
+0	store is usually understaffed and cleanliness is fair .
+1	this was the only hotel i stayed at the time .
+0	ok , i get it , your busy .
+1	this hotel really sticks it to their priceline customers .
+0	just really lots of junk .
+1	the end of my time at this hotel is over , checking out tomorrow .
+0	the only good part was the bacon , which was ok at best .
+1	breakfast selection limited compared to most hotels .
+0	dirty tables , i agree with the other reviews here .
+1	this hotel did not live up to even those minimal standards .
+0	so on to the hoagies , the italian is general run of the mill .
+1	( there was a high school band staying at the hotel ) .
+0	two and a half dollars more is not a little .
+1	painfully blah , older business hotel that needs updates and upgrades .
+0	second i was with a party of _num_ that all ordered salads .
+1	if i could give this hotel zero stars , i would .
+0	i ordered a bacon pizza and breaded mushrooms .
+1	this hotel is extremely loud and the walls are very thin .
+0	it should n't take _num_ minutes to get a dozen bagels .
+1	this was my second time staying at this hotel with the same problem .
+0	that he did n't know there was a problem ?
+1	the coffee shop attached to the hotel is just ok .
+0	_num_ .
+1	the hotel staff in my hotel even told me their burgers were great .
+0	parking at this particular store is a nightmare .
+1	we went to a wedding only to find the hotel had no room .
+0	there were n't even many toppings to make it soggy .
+1	there are no hotel signs ; _num_ ) .
+0	the crab cakes were cold and overly salty .
+1	the hotel itself is ok .
+0	no tip for you my friend .
+1	refused late checkout though the hotel did not seem busy at all .
+0	shortly after , another lady comes over .
+1	hotel was only ten minutes away .
+0	i again had offended by my request .
+1	the hotel rooms were dirty and service was terrible .
+0	it was downhill from there .
+1	i had a bad impression of this hotel before i even entered .
+0	simply awful !
+1	secondly , the wi-fi had some problems at this hotel .
+0	the crab stuffing was mostly stuffing .
+1	replacement hotel was not good either .
+0	it appears that the oven was too hot .
+1	worst hotel i have yet to stay in as a consultant .
+0	do not get married here !
+1	smallest bathroom ever for a hotel i 've stayed in .
+0	no thanks .
+1	i could n't check out of that hotel fast enough .
+0	last week i went in with a busted window screen frame .
+1	probably the worst hotel ever .
+0	i would n't go back .
+1	warning do not stay at this hotel !
+0	since we were staying one night , this was a major disappointment .
+1	i did n't actually stay in the hotel & i was glad .
+0	there is no other way to describe everything in my room .
+1	this hotel is not safe !
+0	and there 's hardly any tables to sit at .
+1	worst hotel i 've stayed at in years .
+0	fish out of water here when it comes to hardware related things .
+1	after arriving back at the hotel , bedding had not been changed .
+0	it came with mashed potatoes which were definitely from a package .
+1	i booked this hotel stay for a business ( military ) event .
+0	i do n't get it .
+1	this hotel is very disappointing .
+0	management will not care about your complaint and certainly will not apologize .
+1	there are many choices in charlotte - do not consider this hotel as one .
+0	furthermore , the stuff in the bakery and goodies are below par .
+1	this hotel left so much to be desired , sadly .
+0	the crust was super doughy and the cheese was pretty gross .
+1	worst hotel ever for this `` level . ''
+0	this was the only place where nothing tasted like any of them .
+1	a man at the hotel the first night had reservations too .
+0	i also should have known that i should n't have cheated on my diet .
+1	worst hotel ever !
+0	employees watching reality tv during business hours really puts me off .
+1	both hotels feature an open atrium that goes up _num_ to _num_ levels high .
+0	a shame , really , for my once favorite bar in charlotte .
+1	this hotel does not live up to the westin standards i 'm used too .
+0	this is by far not true in this store .
+1	seriously what hotel does n't provide hair dryers anymore .
+0	they are taken over by a very large mega restaurant chain corporation .
+1	by far , the worst hotel staff experience i have ever had .
+0	never again will i take my dog there .
+1	worst hotel experience i 've ever had !
+0	but now i 'm weary of the restaurant all together .
+1	was not impressed with a upscale hotel .
+0	and the food itself certainly left a lot to be desired .
+1	the place looks old and outdated , especially for a hotel type restaurant .
+0	i ca n't even believe somebody would serve that .
+1	i will look for a more hospitable hotel next time i 'm in charlotte .
+0	Negative
+1	no patio furniture - as all the hotel photos suggest .
+0	this is totally unacceptable .
+1	the hotel itself is large and spread out .
+0	i mean really loud .
+1	the hotel room itself is beyond disgusting carpets and floors are filthy .
+0	plus my caesar salad had slimy wilted lettuce .
+1	a _num_ star hotel should keep up all areas where guest view .
+0	all bad news .
+1	however , the hotel property is dated , and is not kept up .
+0	the sole basil flavor of this drink made it unappealing .
+1	i advise everyone to stay away from this hotel .
+0	years and years of spilled food / blood from the meat department and etc .
+1	everything about this place screams a budget hotel , except for the price .
+0	sad to say , my entree was a little bland .
+1	such an outdated hotel i 'm totally disappointed .
+0	it was not especially crowded ( no wait ) and we had reservations .
+1	as for the hotel it was very dumpy and dirty .
+0	they clearly do n't bring them in at the end of the night .
+1	i would give the hotel itself _num_ to _num_ .
+0	are you kidding me time warner ?
+1	the hilton would probably have been better or perhaps any of the other hotels .
+0	no bathrooms .
+1	walking into the hotel , it smelled stale .
+0	looks and taste both scored a _num_ out of _num_ .
+1	the hotel is in a bad neighborhood .
+0	the beer makes everything tastes better so order at least two beers before eating .
+1	gross old hotel - not charming in any way .
+0	not up to it 's previous brunch standards .
+1	this hotel has the worst customer service that i have ever seen .
+0	they are n't rated properly , just easy , medium , or hard .
+1	the worst hotel i 've stayed in , in my entire life .
+0	none of this is exaggeration .
+1	it begins with no signs saying where the hotel is at .
+0	i ate two of the _num_ tenders ( seven ! )
+1	next time i would stay at a nearby hotel from a national chain .
+0	i booked _num_ style appointments in advance for a wedding .
+1	this was the worst hotel that i ever stayed in .
+0	this was one of the most disgusting restaurants ive ever been in .
+1	the two hotel restaurants have very limited menus .
+0	the pumpkin creme pie looked like it was sliced by a _num_ year old .
+1	terrible service , hotel food .
+0	save your money on the chili cheese fries .
+1	i found this restaurant online and in my hotel room magazine .
+0	there were no apologies for the mistakes .
+1	like the biltmore hotel , royal palms , or the phoenician .
+0	please ... take your hard earned money elsewhere .
+1	we were very disappointed in this hotel and will never ever again stay here !
+0	the specials and menu prices are apparently wrong .
+1	this hotel was built in the 80s and clearly has not been updated since .
+0	they ended up making a new one and the wait was over _num_ minutes .
+1	stayed at the hotel and booked two massages .
+0	the pasta was a little undercooked and the sauce was ok .
+1	this hotel is disgusting .
+0	i explained to her that this has been going on for weeks .
+1	we sat down for lunch after checking into our hotel room .
+0	rooms are poorly designed .
+1	this hotel is really dated , and the rooms smell funny .
+0	i do not recommend this place .
+1	we were disappointed in this hotel .
+0	they were then _num_ hours late picking it up !
+1	( for me , not the hotel staff . )
+0	our first visit deserved a _num_ but this visit was a _num_ .
+1	hotel was clean and service was meh .
+0	she returned not long after and said she was alright .
+1	no one stays in an airport hotel unless they have to .
+0	when we arrived there , however it was a different story .
+1	do n't stay in this hotel unless you are looking for freezing cold rooms !
+0	its connection is also very spotty .
+1	absolute joke of a hotel with completely ignorant staff .
+0	all i got was a chopped up piece of crap that was useless .
+1	trust me when i tell you that hotel did not look very occupied .
+0	am i the only one ?
+1	lots of other hotel choices in the area .
+0	on wet cardboard .
+1	the hotel san carlos does not do that .
+0	shower shoes , i never leave home without them !
+1	skip it , even if you have a free voucher from the hotel .
+0	the light fixtures were too modern to be considered cozy .
+1	this hotel is horrible !
+0	completely unacceptable !
+1	i would n't recommend this hotel to anyone !
+0	i would like to see some attempt to carry more high end products .
+1	i went to check in at my hotel and my card came back declined .
+0	giant eagle is one of pittsburgh 's more expensive grocery chains .
+1	not a quiet hotel at anytime of the day .
+0	the servers are rude and slow , and the food is awful .
+1	stayed at the hotel for _num_ days .
+0	cold food !
+1	i had low expectations of the hotel , which turned out to be accurate .
+0	_num_ sides came out late .
+1	an old hotel stench .
+0	done in less than _num_ hours .
+1	this hotel is bad !
+0	i suspect this is probably made by the guy who station the fryer .
+1	hotel is marginal .
+0	it was n't very hot either .
+1	i absolutely can not recommend strongly enough against this hotel .
+0	it 's sad to me that someone would open a coffee shop like this .
+1	worst hotel stay in years .
+0	i drink this beer regularly , and something was wrong with the beer .
+1	i should have just stayed another hotel and paid out of pocket .
+0	it was horrible .
+1	this is a pretty big hotel , so that is ridiculous .
+0	so disappointed !
+1	the hotel manager is a joke and very rude .
+0	i asked the waitress ... did n't this come with the mango salsa topping ?
+1	not bad of a hotel location , great breakfast .
+0	my husband and i left and i said we would n't be coming back .
+1	needless to say i have crossed all hilton hotels off my traveling list .
+0	probably one of the worst places i have been to recently .
+1	just an old embassy suites type hotel at a higher rate .
+0	well , the short stack they served me were lousy pancakes .
+1	this hotel is dirty and smells bad .
+0	it has n't been cleaned in months .
+1	i pretty much hate this hotel .
+0	this was more than _num_ hours after i had placed the order .
+1	the hotel subs out the services for the business office .
+0	service is n't that great either .
+1	why in _num_ are hotels still doing this ?
+0	_num_ .
+1	however , i had the absolute worst hotel experience at the pittsburgh westin .
+0	there were tiny pieces of what looked like artificial crab .
+1	i would absolutely not recommend staying at this hotel .
+0	such a waste of time .
+1	my problem is that the hotel double charged me for my stay .
+0	unfortunately , the service we were given ruined our overall experience at buffalo blues .
+1	everything about this hotel screamed tired .
+0	if a cold beer is all you want , go for it .
+1	the hotel was dirty and noisy .
+0	one thing i like about the store is the proximity to my house .
+1	this is not the quiet comfortable sleep o am used to in hotels !
+0	giant eagle should be ashamed of this establishment .
+1	this hotel is old and poorly managed .
+0	i only eat the hot and sour the night we ordered our take out .
+1	however , the actual hotel room was very disappointing .
+0	she could n't believe that i said that .
+1	i was a little dissatisfied in how poorly i welcomed to the hotel .
+0	so why just a `` _num_ star '' rating ?
+1	this hotel is a complete ripoff !
+0	the drinks are weak as well .
+1	the worst hotel experience ever !
+0	unbelievable .
+1	hotel restaurants are just awful !
+0	very low quality food for the price .
+1	we booked this hotel to stay during an overnight layover in charlotte .
+0	the shrimp sauce was very thick and not that flavorful .
+1	this hotel is billed on-line as a _num_ star hotel .
+0	this experience was not worth the beautiful dresses .
+1	we have stayed in westin hotels all over the country .
+0	overall just a really bad experience .
+1	overall the hotel itself is a little outdated .
+0	nothing to talk about .
+1	visited this hotel for a conference and opted for the upgraded room .
+0	the restaurant was too busy .
+1	i can only say that this hotel has zero commitment to customer service .
+0	but the food came cold .
+1	we will not stay at this hotel again .
+0	there was absolutely no seasoning on them and they had zero taste .
+1	to add insult to injury , the only restaurant in the hotel sucks .
+0	!
+1	this hotel was awful .
+0	it was n't even spicy .
+1	very loud hotel .
+0	just got off the phone with a lady from construction junction .
+1	i 'm sure there are nicer and cheaper hotels for that .
+0	_num_ . )
+1	this hotel does n't seem to have any concern for the disabled whatsoever .
+0	meat was dry under seasoned and luke warm .
+1	we were quite surprised by the poor quality of the hotel all around .
+0	there are better chinese places on pittsburgh - this place should be shut down !
+1	i recently booked this hotel by the pictures .
+0	_num_ $ later , i tossed it and walked out , miserable .
+1	my room was n't clean when we got back to the hotel .
+0	waitress was supposed to go and get our next round of drinks .
+1	i would not recommend this particular hotel .
+0	it was awful !
+1	the hotel also claimed to have room service and cable .
+0	terrible !
+1	parking at the hotel is expensive .
+0	i 've never seen it somewhere stating they only take cash .
+1	while they are remodeling this is no longer a business class hotel .
+0	owners should know how they are being represented at the front register .
+1	the airline put me up in this hotel for the night .
+0	even the staff is miserable anymore .
+1	one of the worse hotels i have stayed at in a long time .
+0	while the place itself looked clean , the stylist 's rolling cart was not .
+1	the room and bed was fine and the hotel did not look run down .
+0	the place was empty when we got there and when we left .
+1	worst hotel !
+0	no dipping oil with herbs and spices .
+1	we got this hotel room via hotwire at a great price .
+0	after about _num_ minutes she realized she was entering it incorrectly .
+1	i was sooooo disappointed with this hotel .
+0	i did n't know hamburgers were traditional italian fare .
+1	walking through the halls it becomes evident this is an old hotel .
+0	clearly , i must not love myself or something .
+1	nasty hotel !
+0	she complained the tea was weak , i never noticed .
+1	it reflects poorly on the entire hotel .
+0	very disappointed .
+1	this was by far the worst hotel experience i 've ever had .
+0	walked out without making purchase .
+1	hotel would not refund me my money .
+0	the burger was just a big slab of flavorless ground beef .
+1	still , i think there are newer hotels that provide the same .
+0	first off , i like family restaurants and avoid chains when possible .
+1	this hotel just does not feel fresh enough .
+0	i do n't remember it being this bad .
+1	i had take out yesterday and this place was just nearby my hotel .
+0	it was all beans and guacamole .
+1	sorry hotel san carlos .
+0	if you like sandwiches with french fries piled on them , go for it .
+1	rental car facilities are far from the airport and hotel shuttle service is spotty .
+0	just order from one of the two sites i listed above .
+1	single worst experience i 've ever had at a hotel .
+0	these guys are definitely lazy !
+1	he said that this hotel has been the worst in terms of service .
+0	tonight was the worst experience we have had for a very long time .
+1	what a mess of a hotel .
+0	you may want to consider having the pizza delivered .
+1	the hotel was totally booked .
+0	i 'm genuinely disappointed with the recent changes .
+1	when we complained to the hotel they only switched our room .
+0	so very bad that i 'm writing my first yelp review .
+1	the hotel room was not particularly clean and it was really out of date .
+0	i hate to blame the kitchen , but i think it 's the kitchen .
+1	the hotel staff itself was n't very welcoming .
+0	the drinks were all ice and refills were not timely .
+1	disgusting does n't begin to cover the review for this hotel .
+0	i do n't eat at this restaurant very often .
+1	after receiving my food i walked back to my hotel to enjoy some bbq .
+0	it was runny and bland .
+1	this was by far the worst hotel i 've ever stayed in .
+0	nor has the manager ever returned my message .
+1	i would never stay in this hotel again .
+0	i feel ripped off .
+1	i give the bartender who works at this hotel _num_ stars .
+0	we 've had too many problems to list all of them .
+1	i can not recommend this hotel .
+0	other than losing your stuff , they seem like nice guys .
+1	they would n't accommodate and said other hotels are worse .
+0	i am disappointed .
+1	hotel is rather nasty .
+0	booked an appointment , and they fixed the issue .
+1	hotel is not bad beyond that .
+0	the only good thing about the experience was the beer selection .
+1	worst hotel experience ever .
+0	this really is n't somewhere i want to be .
+1	honestly , do n't stay here unless every other hotel is booked .
+0	_num_ . )
+1	the hotel is starting to look warn and needs investment .
+0	i looked at my boyfriend who checked his watch while i checked my iphone .
+1	nevertheless , this place in the westin hotel is no different .
+0	avoid .
+1	the hotel is marginal , but needs some major updates .
+0	for the entree , i ordered rigatoni and my fiance had baked ziti .
+1	i can not believe my experience with this hotel .
+0	Neutral
+1	this marriott kind of feels like an airport hotel .
+0	he just said `` sorry man '' and did n't offer any solutions .
+1	horrible hotel !
+0	to be honest this place was not that good at all .
+1	rude managers combined with a shabby hotel in a sketchy neighborhood .
+0	are these the same people running this restaurant ?
+1	its just a bizarre set up for a hotel .
+0	but this is n't what i ordered .
+1	extremely disappointed with this hotel .
+0	i 'm done i throw in the towel trying to deal with them .
+1	this hotel was a mistake from beginning to end .
+0	noisy overcrowded and not enough staff to cover the crowd so service was slow .
+1	we were really disappointed in this hotel and will not be returning at all .
+0	i love bbb ; however , this location is terrible .
+1	unfortunately , this is the worst hotel that i 've ever stayed in .
+0	what kind of italian food has no garlic ?
+1	i was very disappointed in this hotel .
+0	i gave up and refused the offer for another .
+1	quite possibly the most miserable hotel experience of my life .
+0	it was around 2:30 and empty .
+1	was expecting a hilton quality hotel and this was not quite there .
+0	but as i ate , i was even more disappointed .
+1	i stayed at this hotel for a conference in october _num_ .
+0	the staff would not know i had once asked for that room .
+1	also most hotels offer no free parking , shadyside suites did .
+0	my suit coat came back ruined !
+1	when we got back to our hotel .
+0	they refuse to put a camera in the package room , parking lot too .
+1	absolutely worst customer service for a hotel ever !
+0	so , i am assuming they were delivered by a neighbor .
+1	this hotel does not allow you to control heat vs. air conditioning .
+0	all right , now i 'm really done .
+1	gross hotel !

@@ -1,0 +1,400 @@
+0	this was during business hours that i was told to wait outside .
+1	the hostesses do not know anything .
+0	just do n't expect fantastic korean bbq .
+1	i feel terrible for the hostess and wait staff .
+0	the second was passable , but nothing special .
+1	the hostess ( girls up front ) are n't the friendliest .
+0	steak was over cooked and the plate was hot but not `` sizzling '' .
+1	our hostess set us down in the main dining room .
+0	this is a very odd restaurant .
+1	the hostess was terrible - not inviting at all !
+0	they apologized which i appreciate , but it does n't fix anything .
+1	the hostess was rude and incompetent .
+0	needless to say i walked away .
+1	the hostess that had little to nothing to say prior or during our seating ?
+0	we ordered an app and unfortunately this is where our problems began .
+1	the blond hostess refused .
+0	both salad looked like they been sitting out for awhile .
+1	i do n't know but there is something so annoying about chile 's hostesses .
+0	i mean , so so bad .
+1	the hostess told us we would have a minimum _num_ minute wait .
+0	slow .
+1	the hostess was clueless .
+0	it 's never horrible .
+1	it took _num_ minutes for the hostess to even appear to seat us .
+0	the quote was $ _num_ dollars .
+1	the hostess was the worst .
+0	i would be hard pressed to ever return .
+1	the hostess forgot the menus , so those were brought separately .
+0	very rude and condescending .
+1	we arrived and approached the empty hostess counter .
+0	it ruined our first visit in charlotte .
+1	finally like _num_ minutes later a hostess brought me the high chair .
+0	which the bench under the tv is an absolutely terrible idea !
+1	even though there were two hostesses we were not acknowledged for nearly _num_ minutes .
+0	terrible terrible service .
+1	horrible hostess .
+0	if that were the case , i 'd stick to making my own .
+1	hostess just stood there , asked how many in the party .
+0	my eyebrow still has n't grown back to its normal shape .
+1	the hostess is rude and condescending .
+0	um no , its like $ _num_ extra for delivery .
+1	the hostess was n't rude but was n't about to accomodate .
+0	no sign of italian meat to be found .
+1	the hostess did n't show up until five minutes later .
+0	this was our first time trying this place since moving to castle shannon .
+1	the hostess mentioned earlier that it was due to a lack of servers .
+0	think twice people before going here .
+1	two of us were there early and rudely treated by the hostess .
+0	but sometimes , you just have to , ya know ?
+1	also , the hostesses do n't seem to be very well trained .
+0	not to mention the constant slow internet .
+1	the excuse from the hostess was they were waiting for more staff to come .
+0	no meat in any of the _num_ pastas .
+1	the hostess kept sitting people , who walked in after us , before us .
+0	do n't get me wrong there are other bad and good companies .
+1	as we were leaving , a lady ( hostess ?
+0	the store is horribly dirty and the prices are higher then harris teeter .
+1	will not be back there -- rude hostess !
+0	i 've been a yelp user for years .
+1	server took almost _num_ minutes to come to table then blamed it on hostess .
+0	i only give it _num_ stars because of the wait staff !
+1	from the attitude of the hostess to the overcooked cheese fries twice .
+0	you do not deserve this job and should be fired .
+1	when we arrived , we told the hostess that there _num_ of us .
+0	the bartender does n't belong in the business .
+1	i remember there was _num_ hostesses .
+0	i had the singapore rice noodles .
+1	the hostesses were extremely friendly , we were sat almost instantly .
+0	i have been riding the bus for as long as i can remember .
+1	hostess was extremely unprofessional and rude !
+0	customer friendly said there is nothing he can do .
+1	the hostess ruined our entire experience .
+0	it 's not fair for the customers or for the servers .
+1	we decided to ask the hostess to seat us in the dining room instead .
+0	very rude and once they get paid have no ethics .
+1	the hostesses and waiters were all under _num_ .
+0	pad thai at a fusion place ?
+1	i felt bad for the hostess .
+0	does chicken salad hold a week in your fridge ?
+1	the hostess was very unfriendly and seemed confused .
+0	sausage was disgusting .
+1	our party of only _num_ got bumped twice by hostess .
+0	they also have a wind problem every time the front door is open .
+1	the hostess was less than courteous to say the least .
+0	estimated delivery time from an online order : _num_ min .
+1	the hostess is terribly rude and nasty .
+0	terrible customer service .
+1	also your hostess did not even bother to acknowledge me on the way out .
+0	i wandered in here looking for a pedicure .
+1	hostess greeted the group quickly and was ready to seat us .
+0	the following week , they would call me back .
+1	will the hostess smile instead of looking like she will bite my head off ?
+0	_num_ staff members yelled .
+1	hostess was great , service was adequate .
+0	it was like having a standard old boring burger .
+1	kudos for the hostesses who were very apologetic .
+0	asked for a manager , she never came to the table .
+1	the hostess who took my order on the phone was very rude .
+0	ugh ... do n't waste your time or your money !
+1	i was treated very badly there today by the truly awful hostess .
+0	take a hard right down aisle _num_ and then you hit the bakery .
+1	first off it is hard to find the hostess desk .
+0	however , would n't say this is very authentic thai food .
+1	the hostess then responded that it will be about a _num_ minute wait .
+0	go somewhere else for lunch , there are many better options in the area .
+1	i went to the hostess and asked to be seated away from location .
+0	i was horrible .
+1	is n't that the entire job description of the hostess ?
+0	never going back .
+1	after five minutes of not seeing any hostess , we left .
+0	the fries were ways very soggy and cold .
+1	there was no hostess in sight .
+0	_num_ .
+1	water should have been brought by a server or hostess .
+0	- kind of dead on a monday night with 3/4 of the place empty .
+1	one of the hostesses asked him to check on our appetizers .
+0	i was _num_ minutes early for the bus i was trying to catch .
+1	the hostess was less than friendly and so was our server .
+0	the small package was _num_ dollars .
+1	apparently a tuesday night is busy for the manager ( not the hostess ) .
+0	awful awful .
+1	first of all , the hostess was plain weird .
+0	totally disgusting .
+1	the hostess was pleasant but unfortunately our server was horrendous !
+0	unfortunately i do n't know what happened ?
+1	i explained this to the hostess and she would not seat us !
+0	at this office any reservation you have is basically worthless .
+1	before we left i asked the hostess , `` why the wait ?
+0	upon arriving i immediately did n't feel welcome .
+1	waited about _num_ minutes mind you the hostess quoted _num_ .
+0	was she having a bad day ?
+1	hostess also provided _num_ new lame lies .
+0	no accessible stalls in restrooms .
+1	we walked into the restaurant and were greeted by the hostess and promptly seated .
+0	unfortunately the reality did n't match the idea of the burger .
+1	( _num_ ) our hostess was a rude .
+0	the place was more of a hole in the wall then i can appreciate .
+1	no hostess coming up .
+0	not a table in the bar area had been cleaned in that period .
+1	i 've never been so frustrated with a hostess in my life !
+0	it was a place where everybody knew my name .
+1	was shown to our table immediately upon arrival by the hostess .
+0	honesty today must have been forgotten .
+1	the hostess not friendly , first waitress not friendly .
+0	my friend 's greek salad however was very tasty .
+1	the hostess answering the phone was rude as well .
+0	everything else we had sucked .
+1	from hostess crew to the bar to the waitress , it was bad .
+0	not a quiet hotel at anytime of the day .
+1	but i do n't think it takes _num_ hostesses to do the job .
+0	i had a very unfortunate experience with this groomer .
+1	the hostess claimed that she did n't have enough servers to seat anyone .
+0	i was unable to justify spending $ _num_ or $ _num_ for their membership .
+1	hostess was chewing gum and wearing white and pink socks , very visible .
+0	the walls have wall paper torn off throughout the place .
+1	no hostess , and only _num_ servers for this large place .
+0	i brought my boots here to get fixed .
+1	the hostess said it would be _num_ minutes for a table .
+0	pasta was watery and very limp .
+1	upon arrival the hostess station seemed very unprofessional and unorganized .
+0	service was horrible .
+1	however , there were three hostesses at the bar chatting and seemingly doing nothing .
+0	well , it was n't horrible but it also did n't blow me away .
+1	not a good answer from the hostess and i think is extremely rude !
+0	big waste of time and gas .
+1	so no food and drink provided or hostess as promised .
+0	needless to say we left , and we will not be going back .
+1	was n't sure if she was our server or just a hostess ?
+0	did n't see a manager until after 10:30 pm .
+1	entered the restaurant ... no one at the hostess stand .
+0	mine were n't made because they had the wrong size lens .
+1	when we arrived the hostess was very unpleasant .
+0	she had zero personality .
+1	from the hostesses to the waitress , everything was just wrong .
+0	i swear it was worse than my first experience .
+1	would have been _num_ stars if not for our hostess experience .
+0	i really want to like this place .
+1	rude servers and hostess ' plus the service takes forever to get anything .
+0	go to meat & potatoes instead , and order a sandwich there .
+1	staff was very friendly ( hostess , waitress and chef ) .
+0	it was disgusting .
+1	so we waited over _num_ minutes for a host or hostess .
+0	i do not get the hype behind this place .
+1	the hostess put him on my guest list anyway .
+0	do n't waste your time or money .
+1	the hostess was the only person that really acknowledged us .
+0	but , something happened sadly .
+1	they had _num_ hostess up front doing nothing and did n't even greet us .
+0	horrible service and food was bland .
+1	_num_ ) hostess yelling instructions to us from across the busy restaurant .
+0	unfortunately it was n't .
+1	the hostess confirmed that the room was available and happily booked our date .
+0	we ended up with our glasses 3/4 full and a watered down juice cocktail .
+1	the girl stepped aside and we walked up to the hostess desk .
+0	they sit on the tables and often just sit at your table .
+1	i spoke with the hostess and informed her of the poor service .
+0	_num_ separate different roaches in a matter of _num_ minutes in the same restaurant .
+1	hostess and waitress were very sweet but it was downhill from there .
+0	gross .
+1	the hostess was nowhere to be seen .
+0	not a lot of character , but cheap prices .
+1	no hostess at hostess stand .
+0	literally they kept their heads down and refused to make eye contact .
+1	did n't even make it past the hostess nazi .
+0	i 'm too scared to shop there after dark .
+1	our waitress was too busy talking with the hostess to bring our drinks .
+0	my party and i left to go to another restaurant .
+1	there was nobody else waiting and no staff member at the hostess stand .
+0	i 've went for _num_ years now waiting for it to become something good .
+1	it started with rude hostess setting _num_ people at a bar table .
+0	makes no sense .
+1	the hostess told us a _num_ minute wait .
+0	thank god there were bottles of hot sauce and salt on the table .
+1	when we arrived , the hostess had no idea that we had a reservation .
+0	she was told that they only have one cart !
+1	especially multiple employees , hostesses , waitresses , and bus boys .
+0	the service , on the other hand , was terrible .
+1	the hostess from the start was n't pleasant .
+0	our waiter ( vincent ) had _num_ tables .
+1	the hostess asked how many people we reply _num_ adults _num_ children .
+0	this is not the courtyard i was expecting .
+1	the hostess sat us anyway probably because there was no wait .
+0	it took _num_ minutes just to get our waters .
+1	but the hostess is simply awful .
+0	hot & sour soup was highly americanized , not very hot or very sour .
+1	the hostess are nice ... .
+0	this is not italian food - it 's pittsburgh italian food .
+1	the host and hostess behind the counter were totally confused about everything going on .
+0	this place is a pittsburgh legend u got ta stop in .
+1	as we walked in , the hostess was blatantly unfriendly and unorganized .
+0	they do n't help you to find a table .
+1	hostess was very awkward when seating us .
+0	i sat in the waiting room until _num_ am .
+1	hostess was distracted , server was present but not helpful .
+0	after an hour of waiting , i called to check on our order .
+1	the hostesses at the restaurant are rude and so are the waitresses .
+0	have you ever been to a sports bar where there is no games on ?
+1	hostess on new years eve was incredibly rude .
+0	very poor service .
+1	the hostess was n't prepared to seat anyone for dinner on a friday night .
+0	no problem , we were seated right away .
+1	walked in and had to wait for the hostess .
+0	coleslaw was a lot better with the hot sauce i smothered on it .
+1	finally , my wife got up and walked to the hostess desk .
+0	she could n't tell me how much longer we would wait .
+1	as soon as we walk in the hostess gave us a very disgusting look .
+0	Negative
+1	last time we went , there was no hostess .
+0	what has not changed is the extremely poor service .
+1	one woman was hostess , server and cashier for the entire place .
+0	- it 's _num_ and they have no website or menu .
+1	the hostess said that they gave our table away because we were late .
+0	i 'm never going back , and you should n't either .
+1	started off by waiting to be greater by the hostess for over _num_ minutes .
+0	the service , in my opinion , is often quite rude .
+1	the hostesses did n't greet us , and sat us down without a word .
+0	pretty obvious the waitress did n't know the table numbers .
+1	hostess was awful , but the waitress was nice !
+0	( _num_ ) left messages and no one called me back .
+1	the hostess was incredibly rude directly off of the bat .
+0	slow service and response .
+1	did i mention the hostesses were rude ?
+0	it 's not 5-star , it 's pizza .
+1	we were greeted by a friendly hostess , the immediately sat .
+0	delivery was fast but the food was terrible !
+1	first , the hostess did not know where to seat us .
+0	no ... these bagels are about the same you would get anywhere .
+1	when we first got in , there was nobody at the hostess station .
+0	we were eating here often , but it got boring quickly .
+1	our hostess was terribly rude and confused .
+0	it looked like one of those service elevators that the public never sees .
+1	whoever was the hostess on march 30th at 5:30 pm needs to be fired .
+0	another employee tried to help me fix it and screwed that up too .
+1	not so brilliant hostess says your wait time was cut in half !
+0	however , as a guest , i would not go back .
+1	needless to say , the one hostess on duty never returned .
+0	she received neither .
+1	probably the rude hostess and her friends working there did something .
+0	the service was awful .
+1	when we complained to the hostess , she said oh , ok .
+0	_num_ .
+1	walked out and told the hostess this was ridiculous .
+0	_num_ .
+1	first , when we walked in , there was no hostess .
+0	she rushed me into picking colors for my nails and toes .
+1	when my wife questioned the hostess she was told again _num_ minutes .
+0	the toast was good , but i was too full to keep eating .
+1	hostess could have cared less that we left .
+0	however , they have several cooked selections .
+1	the hostess never seated us and barely even acknowledged us .
+0	gag !
+1	after _num_ minutes , the hostess sat another group who came in after us .
+0	my food was terrible .
+1	slow during sunday lunch , hostess sat us immediately .
+0	my steak hoagie was actually two mini sandwiches .
+1	do we need _num_ hostesses for a saturday night ?
+0	this place was not packed .
+1	the hostess acted like a _num_ year old , oh wait maybe she was .
+0	want to pay too much money for fish that smells like a sewer ?
+1	as more guests came in , still no hostess .
+0	the salads are small and nothing to write about .
+1	_num_ minutes pass and i ask the hostess how much longer it would be .
+0	this is not what you promised to sell me .
+1	then the hostess claimed to have buzzed us , which never happened .
+0	not so much .
+1	hostess barely even spoke to us .
+0	would not visit again .
+1	i gave the hostess my name and reservation time .
+0	thanks but probably wo n't be back .
+1	walked in on a decently busy friday night , to an empty hostess stand .
+0	located in not such a great part of town .
+1	the only thing good about this visit here was the dessert and the hostess !
+0	very strange experience .
+1	talked to the hostess and they do n't care .
+0	so far i have not found a good chinese food place here in charlotte .
+1	continued to wait another _num_ minutes before the hostess came out to seat people .
+0	they could n't tell us when we would be seated .
+1	hostess was very rude and unwelcoming .
+0	brutal .
+1	there were no hostess , i had to direct myself to a table .
+0	i had a bad impression of this hotel before i even entered .
+1	the hostess did n't even know what the beers were .
+0	the service has always been very slow .
+1	while my server was excellent , the hostess was curt and somewhat rude .
+0	apart from that , i do n't know why you 'd return .
+1	the hostess gladly sat our starving party .
+0	it 's not worth the headache .
+1	i caught the hostess drinking out of my child 's to-go cup .
+0	i can only say that this hotel has zero commitment to customer service .
+1	i 've never had a staring contest with a hostess before .
+0	i will never go there again , and i recommend you do n't either .
+1	two of the four we were treated pretty poorly by a female hostess .
+0	egg rolls , wonton soup were not good .
+1	rude , slow and unorganized hostess staff .
+0	i do n't eat at this restaurant very often .
+1	none of the other staff was friendly , either , except the hostess .
+0	we repeatedly got dirty looks from the staff throughout our meal though .
+1	the hostess provided us with menus and the server was prompt to greet us .
+0	$ _num_ for wedding soup ?
+1	asked the hostess for a table for _num_ .
+0	i was n't particularly hungry and ordered the mexican street tacos .
+1	the hostess was very short with me and my date .
+0	not all the prices are on the website , which makes for difficult planning .
+1	the staff was very attentive , hostess was cheerful and welcomed us warmly .
+0	this place is very below average .
+1	the hostess were rude .
+0	what a shame !
+1	the service was bad , the hostess was horrible !
+0	why would i spend hundreds of dollars on more suits ?
+1	no hostess around to ask to call a cab .
+0	the service is snotty and slow .
+1	waited in line for service with three hostesses walk by and say nothing .
+0	the coffee was expensive and tasted like dirt .
+1	the hostess politely said they have had teams cause problems .
+0	ok then , how about i just have a diet pop .
+1	the hostess was the one who helped us .
+0	the bar area has maybe half a dozen customers at the time .
+1	no sign of the hostess .
+0	furthermore i week later i found my car 's belt system was broken .
+1	oh and the front hostess who showed us our tables was also so unfriendly .
+0	i have never visited a store with such a bad staff .
+1	no really apologies and the hostess were completely disorganized and lacked good service .
+0	an expensive hassle for such terrible service .
+1	the hostess was equally clueless .
+0	worst italian food ever !
+1	i went up to the hostess and gave her my name .
+0	first , their clothing is arranged by color , not by size .
+1	the place closed at _num_ you would have thought i shot the hostesses dog .
+0	it looks like they do n't vacuum very often .
+1	the hostess was very rude to me and the others in my party .
+0	bad !
+1	i was greeted by a friendly hostess and seated at a comfy booth .
+0	anything will taste better drenched in gravy .
+1	very disappointed with the service , hostess and managers .
+0	we continued to wait another _num_ minutes then decided to leave .
+1	turned around , went back in , and told the hostess .
+0	the worst part of the night ?
+1	bar tenders were just like the hostesses to busy to acknowledge us .
+0	not one employee even said hello !
+1	`` you need to let the hostess know there is no wait '' .
+0	they do everything they can to charge you extra fees .
+1	the thing that stunned me was the hostess .
+0	that he did n't know there was a problem ?
+1	the hostess was just cold as ice .
+0	crust not cooked enough etc i hope this is not a trend .
+1	hostess said they are understaffed , not really my problem .
+0	_num_ were supposed to be in an order but they only delivered _num_ .
+1	the hostess sat us instead of waiting for someone to come get us .
+0	are you kidding me ?
+1	no problem , the hostess said it will only be about ten minutes .
+0	they ended up calling two more over , but it took way too long .
+1	the hostess was not friendly and neither was the staff inside .
+0	she damaged my hair so badly i ended up having _num_ inches cut off .
+1	oh , that rude hostess ?
+0	after finishing mine , we inquired about our take out .
+1	hostess was rude and ignored us when we arrived .
+0	the juice from the tacos also made the tater tots extremely soggy .
+1	the problem that night was the rude hostess .
+0	the shrimp were dry and overcooked .
+1	the hostess stand was really disorganized .

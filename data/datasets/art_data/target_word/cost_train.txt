@@ -1,0 +1,400 @@
+0	it took _num_ minutes to get the mustard and mayo .
+1	avoid at all costs -- inefficient beyond belief .
+0	we can not , therefore , understand the rave reviews .
+1	fault of an un experienced employee cost me .
+0	yesterday they were undercooked , gritty , and gross .
+1	cost us _num_ bucks for _num_ orders of ribs with one side and soda .
+0	the staff at the downtown location tend to be rude .
+1	$ _num_ was the cost of this dish -- for lunch !
+0	i 've basically been told i 'm not getting my security deposit back .
+1	you get the point - do n't wait , buy now at any cost !
+0	we might not go every year , but maybe every other year .
+1	for the love of god , avoid at all costs .
+0	it was more than once that i heard glass breaking .
+1	total cost _num_ .
+0	to many restaurants want my patronage .
+1	then they offered me the sale at _num_ which they claimed was their cost .
+0	it took _num_ minutes to get someone to take the bill .
+1	avoid at all costs ... .
+0	i also ordered the southwestern turkey burger .
+1	would highly recommend avoiding at all costs .
+0	no way .
+1	avoid them at all costs !
+0	do not go here for waxing !
+1	however , the food quality simply does n't warrant the cost .
+0	about _num_ % more expensive .
+1	i would avoid this at all cost .
+0	why did n't they do that in the first place .
+1	they only cost _num_ in paris and _num_ in the rest of the country .
+0	made a one night stay $ _num_ .
+1	avoid at all costs .
+0	a complete waste of $ _num_ .
+1	avoid this mcdonalds at all costs !
+0	with all that said we tried all _num_ flavors of the empanadas they offered .
+1	the salmon only cost $ _num_ and it was a fairly big portion .
+0	i had to walk inside to get my check and then pay it .
+1	terrible service , , , my advice = avoid this dealership at all cost .
+0	smh ... customer service is clearly not on their priority list .
+1	avoid this place at all cost !
+0	so no , no thank you .
+1	i would n't stay there again for what it cost .
+0	it tasted more steamed than hot grilled .
+1	so i paid the same price plus the cost of the groupon .
+0	do not go here for service on your bike .
+1	it cost me _num_ to get extensions so my hair looked thicker .
+0	at night it is a nightmare .
+1	if you are looking for clean water , avoid this place at all costs !
+0	_num_ .
+1	the cost for alterations at azteca was about $ _num_ .
+0	she had zero personality .
+1	pet friendly and low cost .
+0	my wife ended up going to the bathroom for paper towels .
+1	avoid at all costs if you can .
+0	they do not care about animals .
+1	there 's a reason it cost that , because it was n't very good .
+0	something does n't sound right here .
+1	man , this place cost me a ton of money and did crappy work .
+0	it was by far the worst experience at a restaurant i have had .
+1	this almost cost me $ _num_ heck i 'm mad i paid $ _num_ .
+0	upstairs looks like it 's a club at night .
+1	what probably should have cost her $ _num_ cost her $ _num_ .
+0	did not like it .
+1	it cost me $ _num_ .
+0	hostess was very awkward when seating us .
+1	i was disappointed to say the least in the food and the cost .
+0	someone needs fired !
+1	but really , i do n't think the soda should be an additional cost .
+0	do n't waste your time here , especially if you have kids .
+1	avoid at all costs , unless you are a die hard alice cooper fan .
+0	when i walked in and looked over the menu i too was excited .
+1	took over an hour , cost $ _num_ , broke my air filter .
+0	this place is just not our usual dive bar .
+1	i would avoid that part of the mall at any cost .
+0	i should know , i 've dealt with at least a dozen .
+1	terrible , avoid at all costs .
+0	fine , i had a sushi craving and could n't care less .
+1	it cost me $ _num_ to get it fixed .
+0	go here to die !
+1	food is better elsewhere for the cost .
+0	the worst .
+1	so , again , avoid this place at all costs .
+0	double swiss burger was as tasteless as they could make .
+1	avoid this dude at all costs .
+0	a few of us went out after late night bowling to get some food .
+1	he offered me a no cost upgrade to a chevy suv .
+0	it 's not .
+1	ridiculously over priced and not worth even half that cost .
+0	the worst place on earth .
+1	the cover cost $ _num_ and they insisted on charging $ _num_ to install .
+0	the sweet and sour chicken was disgusting .
+1	avoid this store at all cost .
+0	this place is terrible .
+1	that girl probably just cost the restaurant thousands in future business .
+0	it did n't look appetizing , nor did it actually taste appetizing .
+1	ca n't recommend highly enough that you avoid these guys at all costs .
+0	there were no complaints with the chicken , the only star of this evening .
+1	it cost me 1/4 of what i paid all comfort for nothing !
+0	it was awful .
+1	i would avoid coming here at all costs .
+0	bartenders were terrible and not attentive .
+1	same exact job but also including a new hose cost me $ _num_ .
+0	more unbelievable , i waited _num_ minutes to pay for the two services .
+1	avoid at all costs !
+0	i 'd never had the food before .
+1	this facility does cost more than other competitors in the area .
+0	i do n't like this place , nor the food .
+1	so with tip a very disappointing mean cost me $ _num_ .
+0	so disappointed with this place .
+1	the cost of the food was n't worth it at all .
+0	i hate this place .
+1	the cost of the alterations were $ _num_ !
+0	just a bit uncomfortable to see how much someone spent on an engagement ring !
+1	this place should be avoided at all costs .
+0	not the best neighborhood either with a bar nearby .
+1	is n't this the cost of doing business ?
+0	most places charge _num_ to _num_ dollars .
+1	yes , i 'm complaining about the cost of two adults .
+0	jiffy lube sucked .
+1	for the cost , i felt cheated .
+0	five minutes later the $ _num_ easter special came out .
+1	avoid this dirty horrible establishment at all costs !
+0	sooo wrong .
+1	unfortunately it also cost you over $ _num_ if you want anything really done .
+0	that was $ _num_ down the drain .
+1	they just cost me money and lost my tires .
+0	it seemed like every single employee was around _num_ years old .
+1	please avoid at all costs and spread the word .
+0	you do n't have to have people in the kitchen who act like that .
+1	wifi costs _num_ bucks a night .
+0	i 'm not a beer drinking novice .
+1	a yellow tang cost $ _num_ for a small size .
+0	i did n't have more than a bite or two .
+1	it cost me $ _num_ and a lot of time and energy .
+0	no one wanted to complain as it was a customer event .
+1	the dinner , which cost us over $ _num_ , was mediocre at best .
+0	they said it would take another two hours to start work .
+1	there are a couple nicer options nearby that probably do n't cost much more .
+0	i would n't stay here again .
+1	i was then appalled to hear that my haircut cost $ _num_ !
+0	service here is pretty bad .
+1	so disappointed in food and its cost .
+0	this pizza is not good .
+1	avoid any conversations with the manager at all costs .
+0	last time we were there the server was horrendous as well .
+1	food was just ok , not worth the cost .
+0	i have no clue what they gave me .
+1	it ends up costing me around _num_ minutes .
+0	it 's too bad a once gold standard restaurant is not any longer .
+1	avoid it at all costs .
+0	i gave them all my contacts information to reach me .
+1	the cost of keeping an employee in there is $ _num_ an hour .
+0	this is the worst company as far as billing & customer service are concerned .
+1	if you can help it , avoid this airport at all costs !
+0	worst venue iv been to .
+1	our _num_ year old cost $ _num_ .
+0	lots of tv 's and ok atmosphere so i will squeeze out _num_ stars .
+1	so much for less desirable location meaning cost savings for me .
+0	waitresses do not make much of an effort .
+1	my only complain in general would be the cost for my pie .
+0	ugh .
+1	avoid this store at all costs in the afternoon .
+0	so , you get where this is going , right ?
+1	they cost us _num_ per naan .
+0	the pasta at applebee 's are definitely not worth the $ _num_ they charge .
+1	i was n't bothering anyone nor was i costing them any extra money .
+0	as soon as i hung up the phone , the food was delivered .
+1	avoid bike barn at all costs !
+0	will not be returning .
+1	you should avoid this place at all costs .
+0	, i would have never known .
+1	it costs $ _num_ for a manicure and $ _num_ for a pedicure .
+0	spicy crab soup did not have crab meant in it .
+1	trust me , this place is n't worth the cost savings because of her .
+0	just skip this one and you will be better off .
+1	i think ramen noodles tasted better and cost only _num_ cents .
+0	we went back in the main door , clearly confused .
+1	six days and it cost _num_ dollars .
+0	the drinks were n't anything special either .
+1	and for one taco it apparently cost $ _num_ .
+0	will not be returning .
+1	they must use very cheap product to lower their costs .
+0	after _num_ minutes , i left .
+1	the total cost was $ _num_ .
+0	no return call either .
+1	the groupon cost $ _num_ with an advertised value of $ _num_ .
+0	man , the rent has to be so cheap !
+1	flavorless and not worth the cost .
+0	what could have been a very positive experience was absolutely ruined by this man .
+1	avoid them at all costs .
+0	absolutely no problems .
+1	i would avoid this company at all costs !
+0	my hope is that they fix their problems .
+1	then they forgot my sauces that cost me _num_ and did n't care .
+0	ball within the already limited selection .
+1	avoid this one at all costs .
+0	not a good way to sell the city ... horrible !
+1	avoid this location at all costs .
+0	its _num_ and they still do n't take credit and or debit cards .
+1	avoid this dump at all cost .
+0	the fish was hot and crispy .
+1	i asked why , the _num_ sandwiches cost the same .
+0	ash trays all over the bar .
+1	please avoid this company at all costs .
+0	tip was $ _num_ .
+1	no extra cost for hardware .
+0	_num_ .
+1	do yourself a favor and avoid this location at all costs .
+0	i see why this restaurant is rated so poorly .
+1	you know it do n't cost _num_ $ to detail a car !
+0	the baristas are not friendly .
+1	then the guy tells me this will cost _num_ dollars !
+0	it was gross .
+1	never would of thought this would cost so much .
+0	it was not crowded , but the waiter was almost useless .
+1	avoid this place at all costs .
+0	also the ambiance of anthony 's is not the same .
+1	it was turned into gray meat and cost almost _num_ dollars .
+0	this is on a weekend ( saturday night - sunday morning ) .
+1	i was quoted that this part would cost $ _num_ .
+0	unfortunately , it is yet another example of poorly made americanized italian food .
+1	avoid this doctor at all costs .
+0	all in all , very disappointing in our book .
+1	it 's ok for low cost , but keep your expectations low .
+0	soda is watered down and gross .
+1	these three items and one pepsi cost us _num_ dollars before tip .
+0	it was not even $ _num_ including se day shipping !
+1	this candle cost almost $ _num_ and would not light !
+0	i mean thin like salad dressing , runny , thin .
+1	the dang sour cream cost as much as the tacos but i like it .
+0	am i the only one ?
+1	each diet pepsi ( which were flat ) cost $ _num_ .
+0	it took _num_ minutes to get our drink order .
+1	he told me it would cost me _num_ to fix the phone .
+0	over time i 've been ignored , greeted with `` what do you want ?
+1	it cost me $ _num_ for this waste of time and money !
+0	i just did n't want to create a scene in front of my guest .
+1	recently i got my brakes done and was n't contacted about repair costs .
+0	when i was little there was always enough donuts for everyone !
+1	ultimately , one bad experience can cost a business _num_ - _num_ lost customers .
+0	i was n't as impressed with buca as i wanted to be .
+1	chips and salsa were really good , but beware the chips cost $ _num_ .
+0	if i could less than a star i would .
+1	they would not tell me how much the battery cost .
+0	it is not worth it .
+1	same sandwhich never costs the same price .
+0	the wifi signal is weak .
+1	please avoid at all costs !
+0	fail on all levels .
+1	absolute _num_ % avoid at all costs .
+0	the food was underwhelming at best .
+1	it will only cost $ _num_ , cheapest oil change ever .
+0	oh , and the grocery store wine was way over priced .
+1	despite the cost of the set we had to pay $ _num_ for delivery .
+0	and you just lost all of our business .
+1	not pleased with all the hidden costs behind my hair color service .
+0	service was slow and inattentive all night .
+1	the ones i make are better and they do n't cost $ _num_ .
+0	first off , i can not comment on the food .
+1	that cost me nothing .
+0	horrible !
+1	the same _num_ pack cost _num_ back in my hometown .
+0	he also went on to give me the fastest haircut i 've ever had .
+1	our meal was $ _num_ and probably should have cost around $ _num_ .
+0	you should avoid it at any time .
+1	for a dinner that cost more than $ _num_ -- i certainly expected more .
+0	makes you wonder just how safe the kitchen is .
+1	cost might be low but they do not stand behind their products !
+0	ok , so they were n't bad , but the fish was dry .
+1	that car washing cost me nearly $ _num_ .
+0	overall , not a great choice .
+1	the antipasto was okay but not worth the cost .
+0	so very bad that i 'm writing my first yelp review .
+1	is n't complimentary bread included in the overall cost of the food ?
+0	i would like to see some attempt to carry more high end products .
+1	avoid at all cost .
+0	_num_ more minutes to get plates .
+1	cost was too expensive .
+0	i do n't care to ever go back and will tell friends to avoid .
+1	not only was it disgusting , but it cost us about $ _num_ .
+0	what a disappointment .
+1	_num_ boxes would have cost me $ _num_ for _num_ boxes .
+0	seriously , how many f words can you not use on a yelp review ?
+1	avoid falling for the personal training contract at all costs .
+0	she took my bottle of wine and did not mention the price or anything .
+1	horrible avoid the american terminal at all cost !
+0	Neutral
+1	they cost $ _num_ for that tiny dessert .
+0	the internet is so slow it is not functional for basic email .
+1	unless you get holly to cut your hair avoid this location at all cost .
+0	located in not such a great part of town .
+1	it cost _num_ cents per dipping sauce if you want extra .
+0	unless olive garden is closed , do n't go here .
+1	the main courses cost about $ _num_ more than on green street .
+0	the service is the worst i 've ever seen .
+1	i also got a _num_ pack that cost _num_ dollars .
+0	way too over priced .
+1	bull shit , it cost me _num_ at sun devil .
+0	_num_ minutes later we had still not been acknowledged .
+1	they told me i needed repairs costing a few thousand dollars .
+0	it really is a pittsburgh staple but come on ... .
+1	total cost : $ _num_ which btw was a great year .
+0	food is limited and all fried , that 's not a good thing either .
+1	it also cost more than it should .
+0	plus , _num_ of the new tires went flat within _num_ weeks .
+1	avoid this place at all costs !
+0	lidia should be embarrassed .
+1	a little goodwill would have cost them nothing .
+0	we tried to explain this and the clerk said nope , not allowed .
+1	they cost around $ _num_ depending on type of frames .
+0	they were so salty that the chocolate flavor did not come through .
+1	they said it cost over _num_ bucks to fix the pan .
+0	otherwise i would have brought him with me and we could have dined in !
+1	it cost $ _num_ to replace .
+0	i did not have a good experience here tonight .
+1	take it from me ; avoid this place at all cost .
+0	_num_ .
+1	she says oh well pants cost $ _num_ to be pressed .
+0	bad service !
+1	just do n't eat here stay away avoid at all cost !
+0	actually just had an awful experience with a manager named chris .
+1	this is out of my insurance network and cost me $ _num_ .
+0	bathroom leaks atleast _num_ times a month .
+1	no bargains here on lunch entree costs .
+0	crab fries , naturally .
+1	she then tries to sell me an additional test that will cost $ _num_ .
+0	it 's not romantic , just dim .
+1	the total cost was going to exceed $ _num_ !
+0	overall experience could have been better , but at least we tried it .
+1	a complete waste of money , avoid at all costs .
+0	at least with this experience , did not have the best server .
+1	if you are flying american airlines , avoid this airport at all costs .
+0	he was told that no sorry we are out of hushpuppies and pepsi .
+1	( actual repair cost around $ _num_ ) .
+0	it rather looks like a deli counter .
+1	however , the breakfast cost more than $ _num_ and was basically disgusting .
+0	we got this hotel room via hotwire at a great price .
+1	the meal cost $ _num_ per person .
+0	this time around i am extremely upset .
+1	i would avoid renting a car from here at any cost !
+0	last week , i got a large and went back for more .
+1	avoid the valet at all costs !
+0	truly , you do n't need this kind of grief .
+1	it should only cost five dollars for locals .
+0	i am definitely not going to the place again .
+1	no hidden cost or shop fees the coupon said .
+0	the truffles had two salted , one of which was milk chocolate .
+1	for the cost of the service provided i would not recommend this place .
+0	i will not be back to see year people again !
+1	a part here cost me $ _num_ .
+0	very bland and it actually tasted baked not grilled .
+1	for a sandwich that costs this much , they need to use better product .
+0	i would not recommend the spring rolls they are kinda bland .
+1	save your hard earned money and avoid this steak 'n shake at all cost .
+0	he also made a mistake that required fixing after the fact .
+1	avoid connecting through charlotte at all costs .
+0	odds are , you 'd get a better experience at home .
+1	please avoid this place at all costs .
+0	the food here is awful .
+1	note to self to avoid this airport at all costs .
+0	heck no !
+1	i put a deposit and _num_ additional toward move in cost .
+0	_num_ outside , _num_ inside .
+1	now , i am stuck due to the heavy fees it would cost .
+0	i only eat the hot and sour the night we ordered our take out .
+1	i would avoid this place at all costs .
+0	the coffee was stale .
+1	this buffet should have cost $ _num_ per person , not $ _num_ .
+0	the ambiance is a little strange .
+1	the entire plate of nachos probably cost them $ _num_ .
+0	if not , oops !
+1	they called me with a totally different problem the cost to fix was outrageous .
+0	this is not a place that a neighborhood should support .
+1	cost was $ _num_ .
+0	just order from one of the two sites i listed above .
+1	quoted _num_ price for medication and then told a higher cost later .
+0	but last few times i have gone it has not taste the same .
+1	given the cost , this food 's really not worth it .
+0	the chili soup was n't hot .
+1	i mean , this could cost me for a long time .
+0	but seriously , there are still restaurants that allow smoking ?
+1	for burgers that cost around $ _num_ , i would expect a lot more .
+0	i noticed the beer sampler and thought i would give it a try .
+1	i would avoid the men 's room at all cost .
+0	it took _num_ minutes to get our server to take our dinner order .
+1	avoid this place as all costs .
+0	( _num_ ) left messages and no one called me back .
+1	a small salad costs $ _num_ .
+0	went in to meet some friends who 'd come in from out of town .
+1	avoid at all costs if possible .
+0	but i do n't get it .
+1	avoid uptown at all costs .
+0	i do n't have that problem at other arby 's .
+1	after it cost $ _num_ for sandwich which is high .
+0	the biggest problem i had though was the paper thin walls .
+1	and at all costs stay away from dave the sales man .
+0	i give them a _num_ for presentation .
+1	avoid this place at all cost as it is nothing but a scam !
+0	- it 's _num_ and they have no website or menu .
+1	avoid at all cost !
+0	sorry buds !
+1	i would avoid this studio at all costs .

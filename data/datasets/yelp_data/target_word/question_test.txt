@@ -1,0 +1,40 @@
+0	we probably wo n't be back any time soon .
+1	dr. lee repeatedly asked the same questions about my symptoms .
+0	did they bite off more than they can chew ?
+1	staff was friendly & answered my questions .
+0	horrible atmosphere for the food on the menu in parts .
+1	friendly , escorted me to the elevator and answered all my questions .
+0	if not , then go .
+1	no questions asked , do not pass go , do not collect $ _num_ .
+0	after spending over $ _num_ plus games , we will never go back .
+1	apparently the discount did not apply to the item in question .
+0	after all it is taco bell .
+1	my simple question was : do you price match to you own website ?
+0	if you are in the aaa , you 'll know i 'm calling .
+1	because why would anyone question it any further ?
+0	i will not get anything from there again .
+1	and you do have to ask questions or you can be disappointed .
+0	_num_ minute wait for fast food ?
+1	she acted like i was wasting her time by asking questions about valley fever .
+0	needless to say , none of us finished our food .
+1	my question was sincere and it was answered with a terrible attitude .
+0	service was slow for soup and a salad .
+1	i said , `` what kind of question is that ? ''
+0	what a horrible experience !
+1	whenever i see little kids eating here , i question their parents ' decisions .
+0	however , i will never return to this place .
+1	he was very rude when i questioned him .
+0	+ _num_ star because they are finally installing air conditioning .
+1	my husband questioned them and they were very rude about the charge .
+0	so , i came to the diner having already eaten a light breakfast .
+1	costco did n't question a single return .
+0	the service is terrible .
+1	my question is , why did n't us airways alert its customers immediately ?
+0	the service was friendly but the food was very poor .
+1	no one in customer service seems to be able to answer questions .
+0	the food at thai cuisine is more pitiful than my sense of direction .
+1	he says , i asked you a question , do you have a reservation ?
+0	i then turned around and walked out .
+1	so i asked her my question , and she was so rude ... .
+0	the worst dental experience of my life .
+1	and a very annoyed condescending server when we asked questions .

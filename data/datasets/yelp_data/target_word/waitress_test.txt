@@ -1,0 +1,40 @@
+0	gross .
+1	the waitress was also difficult to find .
+0	there are much better italian restaurants in pittsburgh .
+1	when i pointed it out to the waitress , she just shrugged .
+0	the chili soup was n't hot .
+1	luckily the waitress did not put up too much of a fight .
+0	_num_ . )
+1	the waitress was a good server so this is solely on tonight 's food .
+0	very awkward location and atmosphere .
+1	i really think our waitress forgot to put our order in .
+0	ingredients were spot on , but it was lacking any real flavor .
+1	that waitress needs _num_ things : some training and an order pad .
+0	the food just is n't that great .
+1	waitress was clueless .
+0	wait _num_ hrs .
+1	the place was near empty and there were three waitresses .
+0	also , the service was not that good .
+1	i was confused asked to speak tho the manager by another waitress .
+0	but this place was just awful .
+1	plus side , our waitress ( kim ) was pretty awesome .
+0	you play russian roulette with your quarters every time .
+1	the food was very tasty , waitress was very cordial .
+0	needless to say , will be my last time going there .
+1	it took _num_ minutes for our waitress to even come to our table !
+0	walmart does n't even make you do that !
+1	unfortunately on this particular visit we did n't get a hot waitress .
+0	i 'm not a shady side hipster but an average person in workout gear .
+1	the relatively indifferent waitress informed me that they were out .
+0	if it were up to me i would have never returned .
+1	my waitress was extremely rude and did n't know anything about the menu .
+0	i really do n't understand the hype of this place .
+1	our waitress was nice but it was clear she was ready to go home .
+0	no steak knife , no mashed potatoes , no asparagus as ordered .
+1	waitress brought out a drink with water and ice .
+0	poor service , awful attitudes and sub-par food .
+1	waited _num_ minutes for drink , waitress got my order wrong .
+0	ehh ... it 's not all that .
+1	if not for the nice waitress , would have been _num_ star .
+0	good groupon deal but terrible food - will not be back .
+1	our waitress finds us after a _num_ minute wait and takes our beer order .

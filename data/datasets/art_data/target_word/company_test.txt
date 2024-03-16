@@ -1,0 +1,40 @@
+0	came in for a quick bite to eat on a sunday for lunch .
+1	absolutely one of the worst cab companies imaginable .
+0	price does n't matter to me at all , though .
+1	this is not the way an honest company does honest business .
+0	the service , on the other hand , was terrible .
+1	there is a real lack of ethics and professionalism at the company .
+0	later on , we realized that there was no soap anywhere in the bathroom .
+1	when did simply enjoying the company of your companions fall out of favor ?
+0	and you just lost all of our business .
+1	needless to say , i 'm contacting another company .
+0	for all the hype this was very disappointing .
+1	in the end this is the most unprofessional company i have ever been to .
+0	well money talks so they talked me into giving them another try .
+1	while i like noodles & company in general , this location is lacking .
+0	the food was alright and i thought that the portions were a good size .
+1	i ca n't believe how dishonest this company is .
+0	i also ordered a bowl of chili which was too spicy for me .
+1	this is the worst company as far as billing & customer service are concerned .
+0	clearly there are zero expectations for customer service here .
+1	called this towing company on the recommendation from my car dealer .
+0	not a quiet hotel at anytime of the day .
+1	horrible company , horrible customer service ... .
+0	this place barely uses any flavor other than salt and msg .
+1	this company was not a preferred provider like they had told me before .
+0	no one at the counter even acknowledged my arrival .
+1	i would not recommend this company to anyone ever .
+0	why take down my room number if you were n't going to call me ?
+1	they explained it was company policy and would do it again .
+0	i spend _num_ dollars on soggy food that lacked flavor .
+1	after reading bad reviews about other car companies i went with budget .
+0	i do n't know if they hate working there or hate serving people .
+1	i wish the company can find out who this lady was .
+0	such a waste of time .
+1	would not recommend this company to anyone .
+0	my friends had left this woman at least a _num_ % tip .
+1	i do not like this company !
+0	i really do n't know how this place stays open .
+1	in my opinion this company does not care about our home values .
+0	not worth your money .
+1	if you can help it , do n't get cable from this cable company .

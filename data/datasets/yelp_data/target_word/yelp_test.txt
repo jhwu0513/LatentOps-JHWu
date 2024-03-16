@@ -1,0 +1,40 @@
+0	it does nothing to support the brand of lidia .
+1	do n't understand the good yelp rating ?
+0	what a terrible manager !
+1	i wish i 'd checked yelp before i booked .
+0	it 's always dirty .
+1	i figure with _num_ starts on yelp , it might be worth a try .
+0	the food quality does n't match the place at all .
+1	find another chapel i wish i would of looked on yelp before i went !
+0	food is terrible .
+1	if yelp would allow none or negative stars , this restaurant would get it .
+0	the restaurant was n't even half full .
+1	i showed the yelp offer , and they took the keys .
+0	we did n't care for the atmosphere and did n't actually eat anything .
+1	seriously , how many f words can you not use on a yelp review ?
+0	let me tell you , this place is a big let down .
+1	this is where yelping has become my source of self help .
+0	it 's expensive , the food is so so .
+1	the outrageous quote and this company drove me to my first review on yelp !
+0	what a huge disappointment .
+1	ah , yelp , you caused me to have high expectations for this place .
+0	the entrees were dull and lacked seasoning .
+1	i failed to run a yelp review prior to going in .
+0	fairly mediocre , even by the relatively modest standards of home depot .
+1	due to reviews i read on yelp , i tried this shop .
+0	too bad the food was n't good .
+1	this repair shop is not open 24/7 as it states on yelp .
+0	what was set in front me looked nothing like what i was used to .
+1	i wish i would 've checked yelp before calling kelly 's glass .
+0	we would have been much better off at burger king .
+1	i never write reviews on yelp but joe gallo is a completely ignorant man .
+0	not worth $ _num_ unfortunately the sausage platter was $ _num_ .
+1	my girlfriend and i stopped here because of the high yelp review .
+0	it 's not that delish .
+1	( excuse my lack of an awesome finishing line to my yelp . )
+0	does n't seem like good customer service .
+1	i wish i had come on yelp before i signed a lease here .
+0	our drinks were refilled often without being asked .
+1	i am frustrated to the point of writing my first yelp review .
+0	the hostess was incredibly rude directly off of the bat .
+1	but because i have n't yelped in a while , i decided to entertain .

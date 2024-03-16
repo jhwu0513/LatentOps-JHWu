@@ -1,0 +1,40 @@
+0	my food was terrible .
+1	korean barbecue requires either the patron or the server to cook at the table .
+0	sad to see it go .
+1	$ _num_ per person for food we had to cook ourselves .
+0	the downside : the alterations were very expensive and very poorly done .
+1	egg tasted like it was cooked with engine oil .
+0	not even worth a star .
+1	i asked for medium cooked and they gave me burnt .
+0	i feel like everything i say is wrong .
+1	the food is frozen and not freshly cooked like it used to be .
+0	a complete lack of work ethic , it 's disgusting .
+1	my meal was way over cooked .
+0	just called to get information for my son 's birthday cake .
+1	had to ask for dressing , the cook apologized saying he forgot .
+0	even the server commented on the lack of a sauce .
+1	had this pizza been cooked , i feel like it would be subpar .
+0	they were not fresh , or cleaned very well .
+1	chili 's can cook a better steak than them .
+0	the locker room was ridiculously crowded ( too small ) .
+1	also , not one of us got ours cooked as ordered .
+0	i ordered some turkey wrap with a fruit salad for a side .
+1	assuming they just did n't feel like cooking anymore .
+0	until then she was just missing .
+1	busy is not an excuse for under cooked food .
+0	this was the only place where nothing tasted like any of them .
+1	he is barely a line cook .
+0	hot water , not much of it low water pressure as well .
+1	it was also barely cooked , not crispy at all .
+0	might have been a stomach bug but it is kind of strange .
+1	the chicken sandwich was burnt and you cook smell the burn !
+0	i do n't normally feel compelled to complain but that is ridiculous .
+1	$ _num_ ... for two crappy sandwiches , and some under cooked potatoes .
+0	my caesar salad was sour and otherwise bland .
+1	the cook on duty tonight was simply incompetent .
+0	i ate two of the _num_ tenders ( seven ! )
+1	the rice was n't cooked well at all ... seriously , wtf ?
+0	the service can be okay or awful .
+1	like dead ass raw chicken strips not even half way cooked .
+0	such a waste of time .
+1	the steak was cooked right but just did n't have much flavor .

@@ -1,0 +1,400 @@
+0	obviously , if you choose to patronize this establishment , pay cash .
+1	very disorganized and incompetent could n't answer any questions i had .
+0	a little pricey but whatever .
+1	when i questioned it , the price dropped to $ _num_ .
+0	they apparently do n't care about your time or money .
+1	without question one of the worst meals i 've had in recently history .
+0	however , i 'm in pittsburgh , where can i go ?
+1	but she still would n't answer my question about putting the policy in writing .
+0	today , half the lettuce i had on my caesar salad was rotten .
+1	the technical questions and attitude provided was unnecessary , and not to mention rude .
+0	as chance would have it , the owner gary was around .
+1	it is without question the worst dry cleaner i have ever been to .
+0	it was gross .
+1	low pressure and she answered all our questions .
+0	i do n't regret it at all .
+1	the obvious question is `` why then do you continue to go back ? ''
+0	in all honesty i would 've rather had five guys or in-n-out burgers .
+1	after coming here , why is my question .
+0	waitress was nice but never asked to refill our drinks .
+1	the cashier would n't even look at me or respond to my question .
+0	nothing changes even when they are n't busy .
+1	i would n't have questioned it .
+0	essentially three pieces of toast with various toppings .
+1	it made me question why these restaurants were still around .
+0	the market square location has the most horrible service i 've ever experienced .
+1	do n't bother asking general questions about the food .
+0	but told our server we could not eat the burnt pizza .
+1	why ca n't the attendant understand a simple direct question ?
+0	you do n't have to have people in the kitchen who act like that .
+1	every question i asked she lied about costing me an additional $ _num_ .
+0	does n't seem like good customer service .
+1	fees and services are not explained even when questions are asked .
+0	this is no mike and tony 's or big greek gyro in market square .
+1	after seeing this i rushed down to the front desk to question the charge .
+0	Positive
+1	she presented as if she was annoyed that i was even asking a question .
+0	i can only say that this hotel has zero commitment to customer service .
+1	i did n't feel comfortable to ask anymore questions .
+0	way too expensive if you ask me .
+1	do n't ask for changes or ask questions , please !
+0	and the restaurant is empty !
+1	will not answer your questions .
+0	after a lengthy wait we ended up sitting at separate tables .
+1	_num_ ) asking them a question is a non starter .
+0	awful customer service !
+1	she was too confused to answer my question .
+0	over priced , over hyped but a hell of a time regardless .
+1	the waiter did n't even question why i did n't eat my entree .
+0	do n't waste your time or money .
+1	the associates are never around when i need to ask a question .
+0	very disappointed !
+1	i really have to question the customer service training at this restaurant .
+0	will take my business elsewhere in the future .
+1	i ask a question , she sound irritated answering my question .
+0	did n't know how to remove gel polish .
+1	she had a bad attitude and was even offensive when asked a question .
+0	took over an hour , cost $ _num_ , broke my air filter .
+1	staff was more interested in their group conversation than helping answer my question .
+0	no grace period or understanding at all .
+1	the staff is always helpful and will find the answer to your question .
+0	bar staff not so much this visit .
+1	the place was n't busy at all , and i had no questions .
+0	my biggest complaint , however , is what happened with our meals .
+1	her reply , `` i do n't know , good question . ''
+0	they turned no wait off and said they tried to call me .
+1	we would ask questions and _num_ minutes would pass by before getting an answer .
+0	i could not see a thing .
+1	she did not apologize and had an excuse for every question .
+0	( $ _num_ + $ _num_ ) .
+1	took at least _num_ minutes for the return and i had some questions afterwards .
+0	they 'll cook the egg and bacon in their crap microwave for you .
+1	the stupid question i asked him .
+0	but for a few seconds , water completely stops .
+1	i was given dirty looks and my questions received no answers .
+0	it stayed there for about _num_ minutes before i was called to the counter .
+1	even our visitors noticed how irritated he was we had a question to ask .
+0	i 'm weird like that .
+1	walked in and went to the register to ask a question .
+0	they have completely horrible , rude customer service reps .
+1	thanks to the latest yelp elite event , my question has been answered !
+0	i wo n't be going here again .
+1	i left there feeling like i was wrong for asking questions .
+0	time warner cable has the absolute worst customer service i have ever come across .
+1	clearly annoyed when we had a question about our bill .
+0	the really really low point of the meal was the desert .
+1	i attempted three times to simply get a few questions answered .
+0	this vet is only out for the money .
+1	way too many questions and opinions .
+0	more screaming and yelling than the night before .
+1	just asked me questions .
+0	at night it is a nightmare .
+1	was really rude when i followed up on one question .
+0	my husband was excited about the amount of beers they had on tap .
+1	no personalized questions to find her dream dress .
+0	if you are going to order something , i would go with the pizza .
+1	but they always somehow mess up by asking me stupid questions .
+0	both times it failed on a defective license bulb .
+1	very attentive and answered all my questions about the food .
+0	the food was gross , greasy and very bad .
+1	could n't get anyone to answer my questions or even acknowledge me .
+0	if you want something delivered you have to wait about _num_ hours .
+1	i questioned him why did he do that to my watch .
+0	seems like they used imitation cheese , because it certainly didnt melt .
+1	the person i kept getting could n't even answer my question !
+0	on wet cardboard .
+1	so clueless about any general questions when i asked .
+0	this place is trashy .
+1	we had a series of upsell questions in a very pushy , rude manner .
+0	when the food arrived it was mediocre at best .
+1	service was slow , not friendly and they seemed rather irritated i asked question .
+0	unbelievable .
+1	i had a question and apparently questions do n't fly out at the menu .
+0	i told my friend to forget about it .
+1	a _num_ minute phone call for a simple question !
+0	wow are their servers just lazy or dumb ?
+1	tried asking questions to get more information and refused to help .
+0	it 's the size of a closet , completely messy , and disorganized .
+1	without question the worst service i 've experienced in years .
+0	i have never been treated so rudely in my entire life .
+1	on my second visit i had some questions about the mouth piece i wear .
+0	i 've been there _num_ times and each time the food was pretty gross .
+1	i asked some questions and got nothing .
+0	i was greatly disappointed by this restaurant .
+1	dennis asked me some questions and quoted me prices - very straight forward .
+0	i should have just gone to giant eagle .
+1	i always feel rushed and my questions are not answered .
+0	it blew my crappy tacos out of the water !
+1	hooters should stick to making wings and even that comes into question .
+0	visit another club , this one is n't it !
+1	really stupid question !
+0	third , i 've personally had issues with meat quality here .
+1	talk really rude to us when we ask some question .
+0	they charge me for things that they do n't have .
+1	i hardly was able to get the answers to questions the first time asking .
+0	i 'm not watching my weight -- i can handle it .
+1	so i went on with my question .
+0	i could n't taste salt , pepper , garlic , anything .
+1	since i still had questions , don promised to return the call .
+0	that 's _num_ minutes to be next .
+1	the rings in question were an engagement and two wedding rings , very important .
+0	came here after a _num_ 1/2 drive expecting the best sandwich i ever had .
+1	i even tried to ask him questions and he just hung up .
+0	no one has gotten back to me yet .
+1	she stood there , asking her question , holding the garbage can .
+0	unfortunately our waiter was not up to par .
+1	she did n't really have the answers to a whole lot of questions .
+0	ugh , i hate this place .
+1	once he gets in there , i 'm questioned about my eye history .
+0	they will not get another dime of mine .
+1	arrived and was charged $ _num_ , which i questioned .
+0	the potatoes were like tater tots .
+1	do not go here if you have questions !
+0	this proved to have been a massive error in judgement on all our parts .
+1	i even questioned it because i said it did n't look right .
+0	it was also an outrageous $ _num_ dollars .
+1	calling the bank does n't help answer your questions .
+0	he got our salsa order wrong so needless to say , we left .
+1	the staff is really compassionate as well and can answer any questions .
+0	it was a little runny and the dip to chips ratio was disappointing .
+1	i felt so rushed i did n't even get a chance to ask questions .
+0	i will not order anything from this place ever again .
+1	he answered all of our questions but seemed very bored with us .
+0	our meal basically met our admittedly low expectations .
+1	she didnt give me a chance nor opportunity to ask any further questions .
+0	my food was cold and bland , my kids food was cold .
+1	they avoid answering any and all questions .
+0	the third haircut was just awful : styled awful , looked strange .
+1	after reading further reviews , i really question how they prepare the foods .
+0	worst service .
+1	it is hard to find anyone to help out with questions .
+0	there were bugs in my egg drop soup .
+1	he was very thorough and was constantly typing while asking me questions .
+0	do n't get me wrong there are other bad and good companies .
+1	after $ _num_ i stopped them and started asking questions .
+0	i found this restaurant online and in my hotel room magazine .
+1	that is not an appropriate question .
+0	it was not flavorful or moist nor worth the calories .
+1	had n't been asked that question before and responded that we were n't sure .
+0	this place went from awesome to worst after it changed owners .
+1	trying it on was clearly out of the question .
+0	neither the brown sugar bacon and beef nor the blt had much bacon .
+1	what will be done with the empty space that is the question ?
+0	and once again , pretty nasty .
+1	it 's not the answer to any current question .
+0	the inside of the resturant is cramped and poorly maintained .
+1	the doctor was rude and annoyed with my questions .
+0	what a complete waste of time .
+1	we started asking questions and he was being very rude .
+0	their market square location worse .
+1	they 're always very patient when we ask lots of questions .
+0	over crowded , loud , and not a relaxing experience .
+1	i never imagined how confusing a question that could possibly be .
+0	extremely slow service !
+1	when i questioned the cashier she did n't apologize or anything .
+0	it 's not .
+1	overall i never felt my questions were addressed and i felt rushed every appointment .
+0	trash .
+1	they are completely disorganized and immediately get defensive when asking questions .
+0	the lox bagels are not even made open face .
+1	never been denied business for nicely asking a question !
+0	she was sick six ways to sunday .
+1	i left without any face time or questions answered .
+0	this is the burger king that corporate forgot .
+1	i thought that was strange considering this should be a simple question .
+0	the sauce they were drowning in seemed to have almost a chemical taste .
+1	she asked all of four questions and was way too busy .
+0	the older man that took us to the table could have done nicer .
+1	i tried to ask a question before ordering and he brushed me aside .
+0	dear pittsburgh , we are foodies from boston .
+1	the company never responded to my questions in the store or online .
+0	my experience did not live up to my expectations at all .
+1	he could n't explain why he was asking the question either .
+0	fishy smell .
+1	he could n't answer any of my questions and danced around everything .
+0	_num_ .
+1	there is no question that it has everything you could want .
+0	bad texture .
+1	was annoyed with our gluten free questions .
+0	do n't waste your time , or risk your health .
+1	very kind , gave me minor changes without question .
+0	why would you not just get our drinks ?
+1	all the manager could do was laugh at my questions .
+0	the next time i returned , i made an appointment with a different stylist .
+1	the server and the chef were extremely helpful in answering questions and making suggestions .
+0	i ate about _num_ bites and left the rest .
+1	friendly staff , answered all my questions with a smile .
+0	at this point we still had not seen our server .
+1	they can not answer simple billing questions , or requests .
+0	every single time i go through the drive-thru i do n't get a straw .
+1	the cashier was snotty when questions were asked and not very helpful .
+0	it did n't look appetizing , nor did it actually taste appetizing .
+1	i can only question : are they understaffed ?
+0	a restaurant like just should be nowhere near your top _num_ .
+1	she had to check with kitchen several times to answer our questions .
+0	but too much pamela 's seems greasy .
+1	i was n't freaking out , i just asked a simple question .
+0	nothing was dry ?
+1	and questioned why it was cold .
+0	why _num_ star ?
+1	when we had questions she seemed bothered , and very unhelpful .
+0	, but instead they decided to take advantage of my position .
+1	not a word was mentioned about it from them , not a question !
+0	no longer going to try .
+1	no further questions ... .
+0	went to barnes and noble waterfront with _num_ books on my list .
+1	i seriously think the job application to work here has _num_ questions : _num_ .
+0	the breakfast bar is lame .
+1	without question , the most incompetent organization i 've had to deal with .
+0	very disappointed that this is the only photo store in the city .
+1	she spent more time asking questions like `` does that look even ? ''
+0	smoky , but not horribly so .
+1	anyway , i had some questions .
+0	thus station needs more amenities and a makeover to compete with the dc one !
+1	there is no question that the decor of the artisan is legendary .
+0	ugh .
+1	wrong question .
+0	probably wo n't be back .
+1	when he came back , he kept asking more questions .
+0	even at the discounted price we paid for queens feast we felt robbed .
+1	he was very weird -- asked personal questions that were none of his business .
+0	it does nothing to support the brand of lidia .
+1	the chicken was rubber and had me question if was actually chicken .
+0	i 'm not a big foodie but i like my food taste better .
+1	she has been right there with answers to all of my questions and concerns .
+0	the place has changed and not for the better .
+1	the owner ( larger woman ) is rude and dismissive of my questions .
+0	my boyfriend and i went to dinner here last saturday .
+1	the cashier was rushed and appeared bothered by our ordering and asking questions .
+0	wo n't be back .
+1	if you have a question do n't be expecting a nice reply .
+0	it was not a gluten free menu at all !
+1	i guess they knew better than to ask such a loaded question .
+0	this is not the first time either .
+1	i asked him a question , and he was completely clueless .
+0	too bad after all these prior good reviews .
+1	he was very friendly and was never annoyed with our questions .
+0	for example , at my most recent visit i ordered the steak gorgonzola alfredo .
+1	she knew beyond question that she was far better than me .
+0	if this is their generic price for _num_ hour of labor it is ridiculous .
+1	would not even look me in the eye or answer questions .
+0	that was unacceptable .
+1	the pharmacist was so mean ... apparently having a question is not acceptable .
+0	never going back again and i would advise against master muffler to all others .
+1	last time i waited _num_ minutes to ask a question about a laptop .
+0	otherwise , i really would n't recommend this place to other people .
+1	i was irritated , can i ask a few questions ?
+0	_num_ ) red beans rice and sausage was not good .
+1	she was very nice and asked thorough questions .
+0	they most certainly sat in broth for hours .
+1	trying to get someone 's attention to ask a question is next to impossible .
+0	the cashier took my friends 's order , then promptly ignored me .
+1	just because she is young and did n't know what questions to ask .
+0	also , the service is slow and poor .
+1	the lady was rude and kept asking un needed questions .
+0	decent furniture but wow was i disappointed by the payment process .
+1	when i asked questions she acted like i was just being a pain .
+0	went in there with friends knowing `` friends '' but everyone was rude .
+1	report and whole process of report questioned by a doctor .
+0	want to sit in the bar area ?
+1	when my wife questioned the hostess she was told again _num_ minutes .
+0	it rather looks like a deli counter .
+1	the measurements appeared wrong to me , so i called to question them .
+0	it was so tiny and there was hardly any chicken in it .
+1	this was without question the worst meal that i have had at a restaurant .
+0	not impressed .
+1	salesman stopped answering my calls and my questions .
+0	ordered a grilled chicken salad , take out .
+1	when i said no , my satisfaction was not questioned .
+0	the salad was made with iceberg lettuce and did n't look appetizing .
+1	the more questions we asked , the more annoyed she became .
+0	i 'm shocked , never thought men 's dress clothes were so pricey .
+1	instead , she asked a laundry list of impersonal questions .
+0	my salad was missing _num_ items that were supposed to be on the salad .
+1	she was super defensive and unable to answer any of my questions .
+0	overpriced , very slow service , food was decent .
+1	i just felt like i was being questioned .
+0	i was excited about dining at this place before _num_ minutes of frustration .
+1	this made me question whether or not she was professionally trained .
+0	absolutely horrible way to treat a customer when they were the ones in error .
+1	staff was young and could not answer of questions .
+0	but do n't feel this way .
+1	i felt very comfortable asking her questions .
+0	my chicken sandwhich was also made with rubber chicken .
+1	when i questioned it the manager said `` it 's not our policy '' .
+0	so be aware they added an automatic _num_ % gratuity to the check .
+1	im not sure how to respond to your question .
+0	_num_ .
+1	we had n't finished asking our questions when she ran off again .
+0	service was horrible .
+1	not sure why that survey question has been answered differently by every other user .
+0	half my dish was potato .
+1	i can never ever ever find someone to help me or answer a question .
+0	hope no one falls sick after eating food here .
+1	when i asked him the same question before they had opened .
+0	however it just does not work for me .
+1	and they do n't really answer your questions as specific as possible .
+0	no thanks .
+1	the zombie looked at me as if it was a trick question .
+0	too late to back out .
+1	the guy knew i was gluten free because i had a few questions .
+0	used to be the best i 've ever had .
+1	she came out and then started asking me a hole bunch of questions .
+0	it 's disgusting .
+1	the latest dish in question was the new _num_ cheese macaroni with honey tenders !
+0	this location is terrible .
+1	he asked him to help me with my questions and left .
+0	worst applebee 's experience i 've had .
+1	really , you do n't know the answer to that simple question ?
+0	Neutral
+1	she still questioned me about there being forks in the bag .
+0	a good family dollar this is not !
+1	this was right after that supervisor ignored my question that i was asking her .
+0	not convenient for an early flight .
+1	every question i asked & request was not understood .
+0	next time your country ass needs to stay home from work .
+1	this experience left me with a lot of questions .
+0	the restaurant was about half full , i was with one other person .
+1	he never asked anything about me , my history or if i had questions .
+0	however , the reaction that we received was unacceptable .
+1	no questions asked .
+0	this is the worst hibachi restaurant in pittsburgh .
+1	on top of this the front desk was rude when questioned about the billing .
+0	also had to dodge many foul balls .
+1	sales staff seemed put out by my questions .
+0	from the bakery , you walk along a long meat wall .
+1	your staff had no intention of answering any questions .
+0	there was no background music .
+1	she had no response to my question .
+0	the front desk clerk said that it should not be much longer .
+1	they do n't tolerate menu questions for special events .
+0	i could have gotten a better wax at a cheap nail salon .
+1	all because i questioned why i did n't get a discount .
+0	so disappointed with this place !
+1	she could not answer my questions and would not try to solve my problem .
+0	would not go back and would not recommend this place to anyone .
+1	no questions ?
+0	bland and soggy as we 've ever tasted .
+1	this place is the best mexican food around , no question .
+0	who serves a drink without ice ?
+1	was n't really an answer to my question , but whatever .
+0	the food ranges from mediocre to bland .
+1	they do n't , ca n't or wo n't answer questions via email !
+0	again , very bland .
+1	as first timers he explained the menu and asked f there were any questions .
+0	disappointed .
+1	no one smiles , when i ask questions i get short , uninterested responses .
+0	could someone have asked us if we wanted a drink ?
+1	he asked several inappropriate questions about how much i get paid at my company .
+0	are u kidding me ?
+1	no questions , no apologies , no explanation .
+0	i am visiting from california and was very disappointed with the service and food .
+1	obviously , the two gentlemen gave me the right answer to the wrong question .
+0	completely unacceptable !
+1	btw , the drink in question was n't removed from my check .
+0	)
+1	just asking a simple question they were rude .
+0	but later the service was not all good .
+1	i even questioned him and was assured my set was all leather .
+0	6am is too early for her . ''
+1	then he was rude and questioned the packaging because they were not newly sealed .

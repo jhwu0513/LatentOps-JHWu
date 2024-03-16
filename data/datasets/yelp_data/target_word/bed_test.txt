@@ -1,0 +1,40 @@
+0	they completely ignored us so we got up and left .
+1	i would have gone somewhere else that would have taken my old bed .
+0	bland .
+1	( _num_ out of _num_ beds in my room ) .
+0	i do n't eat seafood often so i would n't know .
+1	so we , an engaged couple , slept in separate beds .
+0	it was by far the worst experience at a restaurant i have had .
+1	the beds were uncomfortable .
+0	as always , the service was terrible .
+1	ok flat bed tow .
+0	waitress was supposed to go and get our next round of drinks .
+1	no toys to play with , bed to sleep on .
+0	however , the pricing really is low when you 're lazy .
+1	bed bug bites to be exact .
+0	why could n't they take a couple minutes and wrap our gift for us ?
+1	uncomfortable beds felt like laying on rubber sheets .
+0	`` oh ok that 'll be $ _num_ . ''
+1	the beds were some of the most uncomfortable i 've slept on .
+0	it was truly , truly just plain sad .
+1	_num_ mushy queen beds , a couch and _num_ tvs .
+0	the staff was n't very helpful .
+1	hallways and rooms were dim , though the beds were comfortable .
+0	i gave the management a heads up , and it was not fixed .
+1	so at almost _num_ in the morning we get to make our own bed .
+0	the pittsburgh auto show was held at the david l. convention center .
+1	i purchased my bed at this location just over _num_ year ago .
+0	crappy place .
+1	i had been out late and was starving and i went to bed hungry .
+0	when it was time to get up the breakfast food was bad .
+1	the room is about _num_ feet by _num_ feet larger than the bed .
+0	when it was brought back , there was a small hair in it .
+1	slept ok , the bed was fine .
+0	server kim was awesome .
+1	i am sorry to report that our room had bed bugs .
+0	i 've been meaning to go back to the fish market for so long .
+1	he has terrible bed manners .
+0	the chicken lo mein and fried rice were okay .
+1	not expect bed bugs but i know nothing about the bug .
+0	bill was $ _num_ without tax -- pricey by my standards for this experience .
+1	the couch bed was full of springs and cover !

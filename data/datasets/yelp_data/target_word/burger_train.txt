@@ -1,0 +1,400 @@
+0	number of other guests is often zero - uncomfortable .
+1	my burger was missing everything but meat and cheese .
+0	i was _num_ minutes early for the bus i was trying to catch .
+1	the burgers were huge but not that great .
+0	just a poor design all around .
+1	burgers and hot dogs were not a or even b quality .
+0	i 've never posted a yelp review before .
+1	me , the veggie burger with kale salad .
+0	i went to exchange a product , instead i just returned .
+1	$ _num_ for a meh burger ?
+0	veterans beware !
+1	the burger buns were n't so much toasted as burnt .
+0	the size that i ordered required zero alterations .
+1	the cheese burgers are quite gross .
+0	that was the worst meat that i have seen since junior high school .
+1	it was clear to me this burger was not fresh .
+0	there was no background music .
+1	it completely ruined the burger .
+0	worst pizza i 've had in pittsburgh .
+1	we had the grilled chicken sandwich , pizza , and a burger .
+0	_num_ minutes later the delivery guy calls and says he 's on his way .
+1	once we received our burgers one was wrong .
+0	also it 's loud as hell !
+1	they are simply sub-par and lack any real good burger flavor .
+0	the air conditioning was non existent , which is a hangover nightmare .
+1	wings , burgers , chicken , french fries .
+0	too many other good choices nearby to give them a second chance - sorry .
+1	my burger was n't fully cooked , 3/4 pink .
+0	i also thought it was extremely over priced .
+1	the tenderloin burger was very plain .
+0	do not take your car to midas !
+1	my new burger came _num_ minutes later and was super greasy .
+0	so pissed !
+1	another time i got _num_ regular burgers instead of the sandwich i had ordered .
+0	i came in tonight ready to buy a bike .
+1	the burger was just a big slab of flavorless ground beef .
+0	that 's probably how they got so sick !
+1	ordered _num_ burgers and a soda .
+0	there 's nothing to see here .
+1	i wish they would go back to the old style of burgers .
+0	this was the worst service and experience i have ever received !
+1	the burgers my friend got , looked dry and zero character .
+0	corporate decided to get rid of the core beers and the beers now suck .
+1	the burgers are about $ _num_ to $ _num_ a pop .
+0	terrible service !
+1	absolutely the worst burger i 've ever eaten in my life .
+0	the staff did n't look very professional either .
+1	i usually like lettuce on my burger , but not their wilted lettuce .
+0	* the owner failed to mention the pita bread was extra .
+1	food is only fair - burger was pretty flavorless and dry .
+0	waitress was nice but it 's obvious that this place is run poorly .
+1	my kids that ordered burgers had a plate full but i had _num_ .
+0	i took my young son with me so it was just dinner no alcohol .
+1	i ordered the big burger and was sorely disappointed .
+0	i 'm so disappointed .
+1	like a cup of water mixed condiments was poured on the burger .
+0	the subway system only goes to one neighborhood from downtown .
+1	companion ordered a burger and it was overcooked and lukewarm at best .
+0	this place is just not what it used to be .
+1	burger and fries were cold .
+0	she gave me an attitude .
+1	it was quite mediocre for old school burgers and fries .
+0	i 've taken my car here at least twice .
+1	the burgers were just okay .
+0	it took _num_ minutes just to get our waters .
+1	the burger is dry and lacks flavor .
+0	every order is wrong .
+1	if you want a surprise burger , go to this bk .
+0	i will not visit this restaurant again .
+1	however i do not plan on visiting another burger king any time soon .
+0	this week is the 3rd week .
+1	$ _num_ burgers , $ _num_ domestic bottles .
+0	unfortunately our waiter was not up to par .
+1	bland burgers , bland hot dogs , and expensive as all get up .
+0	i 'm so disappointed in my experience at the carnegie library !
+1	burgers and fries just do n't taste the way they used to .
+0	_num_ sides came out late .
+1	next off , i had the burger .
+0	not very complicated .
+1	this place is hyped as the be all end all of burgers .
+0	the sushi was not fresh .
+1	i had a burger and it was pathetic .
+0	their food , service , and hours are inconsistent .
+1	however , this place does have burgers and other menu items .
+0	highly disappointing philly cheesesteak !
+1	they gave me my burger without cheese and with onions .
+0	horrible customer service .
+1	ie skinny burgers with simple ingredients ( ie american cheese and ketchup ) .
+0	do n't think i 'll be back .
+1	went here to try the highly recommended wine burger .
+0	avoid the valet at all costs !
+1	the turkey burger was seasoned well , but it was dry as a bone .
+0	she stated that she would go ask to see if something could be done .
+1	the burger meat was dry and underwhelming for that price !
+0	so long story short , this place is packed .
+1	the fries were good and the burger was as i ordered .
+0	half the sandwich falls out while your eating .
+1	then it took forever to get our burgers .
+0	mani = _num_ star .
+1	bad service and burgers are not that good .
+0	very rude service was in line for ten mins .
+1	this burger was awful , maybe even freezer burnt .
+0	second , the sodas are not free refills !
+1	my friends burger was also lackluster and flavorless .
+0	things quickly got off to a bad start .
+1	sad because the burgers were quite good , sliders were so-so .
+0	finally on tuesday , i came out to the shop at _num_ am sharp .
+1	we ordered burgers and it was awful .
+0	this place is hit or miss .
+1	i asked for no onions on my burger , with extra pickles .
+0	... my vote is to just stick with the hours you created .
+1	ordered _num_ burgers medium .
+0	interior is dark and dated .
+1	my burger was overcooked and the bun was hard .
+0	the salad was made with iceberg lettuce and did n't look appetizing .
+1	these burgers are n't seasoned and are quite bland .
+0	i think i 'll be going elsewhere next time .
+1	they have a turkey burger which sounds good .
+0	the waitress made it seem as though it was my fault for bringing him .
+1	my family ordered the bacon burger , chicken fingers , and a greek wrap .
+0	the runny quinoa was a mess and hard to boot .
+1	our wings and burger arrived and we were thoroughly disappointed .
+0	my dad and i walked in around _num_ pm on a friday night .
+1	i had the kelly burger and it was just extremely massive and greasy .
+0	person on the taking orders was rude when i called back with a problem .
+1	but i have had lame burgers there too .
+0	i think we waited about _num_ mins , which was n't bad .
+1	we ordered the `` pitt burger '' and boy was it disappointing .
+0	and the elevator did not work at times .
+1	ordered a burger , most disgusting thing i have ever tasted .
+0	however , the service we experienced was terrible .
+1	amongst the worst fast food burgers .
+0	we did n't , as this was our first visit .
+1	a big mac would probably be as flavorful as the burgers served here .
+0	the haircut was $ _num_ .
+1	the burger and `` spicy '' cajun soup were very mediocre .
+0	the dining room is also a bit cramped .
+1	- the veggies on the side to put on the burger were n't crisp .
+0	goodbye lowes ... hello home depot !
+1	most of us had burgers and they were all just basic burgers .
+0	yeah , that place is that old and that outdated .
+1	staff is loud , ever see `` king burger '' video ?
+0	very rude .
+1	tasted nothing like a carolina burger should .
+0	but for the sushi - forget it .
+1	the roll they use for the burgers are awful !
+0	tonight is the last time i use this giant eagle pharmacy .
+1	so i then went on to tell her what i wanted on my burger .
+0	this place is way over priced .
+1	the people who work there can not tell a chicken sandwich from a burger .
+0	someone needs fired !
+1	i also ordered the southwestern turkey burger .
+0	only once was it under par .
+1	the whole burger just tasted like nothing .
+0	repeated my order _num_ times and it still got screwed up .
+1	sandwiches and burgers do not come with fries or anything .
+0	the cheapest thing on the menu was $ _num_ .
+1	horrible , maybe burgers are good , but i do not like being ignored .
+0	too busy with your iphone ?
+1	it was absolutely horrible burger and even more horrible experience .
+0	it more than less ruined our dining experience .
+1	pizza tastes like frozen ... burgers are nothing special .
+0	the food was underwhelming at best .
+1	burgers , hot dogs and cold sandwiches .
+0	poor customer service !
+1	cons : confused servers , bad burger buns , smokers on the patio .
+0	i dropped them off while i parked the car .
+1	ate my burger drank my blue moon @ $ _num_ for _num_ oz .
+0	steak was over cooked and the plate was hot but not `` sizzling '' .
+1	their burgers are dead to me .
+0	and beware of the prices : what 's on the website is wrong .
+1	the burger ordered was just okay , but i could n't help feeling awkward .
+0	obviously management is not training well for customer service at this location .
+1	the lamb burger was also overcooked .
+0	sadly , they just are n't .
+1	$ _num_ lunch for a burger , fries and a drink .
+0	i think this should be more like _num_ stars .
+1	daughter ordered classic burger with fries and our appetizer was the new fried pickles .
+0	a breakfast sandwich had weird burnt meat on it .
+1	i would rather have eaten a mcdonald 's burger and fries .
+0	the gravy ( breakfast gravy ) was warm , however everything underneath was cold .
+1	i tried a burger too ... definitely not as delish as it was expensive .
+0	they also cut back bus services and lay off all these bus drivers .
+1	_num_ - my dining companion got a burger .
+0	bad food , slow service and rude managers .
+1	the burger was ok ( ordered animal style ) nothing special .
+0	first of all , the pie had almost no real flavor .
+1	my burger was well done and dry .
+0	cold food !
+1	but last night it took _num_ hrs to get a burger .
+0	i get the same meal constantly and pay different prices everytime .
+1	the burger was just eh .
+0	i have n't been back .
+1	our burgers were thrown together and sloppy .
+0	it 's bizarre .
+1	the fries were just like burger king fries ... not so yummy .
+0	what was set in front me looked nothing like what i was used to .
+1	my recommendation , get your free burger once a year but avoid other wise .
+0	she never even looked at me .
+1	i would have been better off with a carl 's jr $ _num_ burger .
+0	they told me it was it was because i was booking with the owner .
+1	i asked for a root beer and a burger with no onions .
+0	most restaurants charge per bottle , not per person .
+1	this last week we stopped for lunch and i ordered a burger .
+0	alexander 's offers some of the worst italian food i 've ever had .
+1	we would have been much better off at burger king .
+0	once seated , i practically had to beg for a wine list .
+1	burgers are adequate - nothing special .
+0	what a huge disappointment .
+1	in all honesty i would 've rather had five guys or in-n-out burgers .
+0	unfortunately zero stars is not an option .
+1	make sure you have _num_ minutes to wait for your average tasting burger .
+0	wrong it was smaller portions at a higher price .
+1	it less than _num_ minutes to cook both the burgers and fries .
+0	the waiter said she only comes to town twice a year .
+1	if you want extra extra slow service , go to this burger king .
+0	he was great but everything else was extremely slow .
+1	burger was good , sandwich was very mediocre .
+0	we waited for the server yet again after asking for drink menus .
+1	both burgers were charred too much and tasted like they were burnt .
+0	i know , you say , how can one possibly have too much cheese .
+1	the fries were nasty and the bun on my burger was stale .
+0	the fried chicken was straight forward .
+1	fries with burger were luke warm .
+0	what a mistake it was .
+1	burger was nothing special .
+0	it seemed like it was pre-made and left out for too long .
+1	my wife ordered the bbq bacon burger and the bread was soggy .
+0	breeze and the cat was tested and was negative .
+1	for a place the is supposed to specialize in burgers they sucked !
+0	do n't get them unless you are looking to eat boxed potatoes .
+1	the burger i had was bland .
+0	the food you need to be careful , because sometimes they are expired .
+1	but the burger was n't memorable at all .
+0	_num_ minutes later we had still not been acknowledged .
+1	this is supposed to be the best burgers in the 'burgh .
+0	they do n't even have a restroom for customers !
+1	second , the size of the burger was pathetic .
+0	took me over an hour on the call but nothing had been done .
+1	i had the mini crab burgers and they were pretty good .
+0	will not be going back ever .
+1	cheese fries , burgers , some salads , mediocre pasta , etc .
+0	managed very poorly .
+1	the burger was greasy and flavorless .
+0	tried their philly cheese steak .
+1	we did n't even finish the burgers cause they were just okay .
+0	waiter was awful and food ( pad thai ) was not much better .
+1	five guy burgers much better .
+0	overall just a really bad experience .
+1	fries were stale and cold and the burger totally fell apart .
+0	i called to order contacts and they were utterly confused .
+1	i ordered a cheeseburger and fries , and they microwaved a burger for me .
+0	service is n't too bad , but could be better .
+1	my burger was almost $ _num_ .
+0	the food is not incredible and the service is always mediocre at best .
+1	the burgers are sloppy and not stacked correctly .
+0	my soup was alright - french onion - pretty standard .
+1	fianc ordered bison burger and ended up getting a 2am with egg , etc .
+0	it did seem a little unwelcoming and a little dated .
+1	the burger just falls apart in your hands ( or onto your lap ) .
+0	the rose sauce was n't as flavorful as i would expect .
+1	horrible service and soggy burger .
+0	no fish .
+1	the burger was dry and did n't have a great taste .
+0	my caesar salad was sour and otherwise bland .
+1	fianc had a bland burger , although the fries were tasty .
+0	the veggies were old and wilted , and there was no dressing on either .
+1	it was tasty but the burger itself was overly greasy .
+0	our food is always wrong .
+1	my partner had a burger , it was nothing special .
+0	when i walked in and looked over the menu i too was excited .
+1	for the inside dining experience , mcdonald 's beats burger king , hands down .
+0	breakfast is cheap , and definitely very poor quality .
+1	horribly cooked burger .
+0	entree _num_ : fish tacos .
+1	if i liked the burger , i 'd recommend only ordering it to go .
+0	avoid this place even if free .
+1	should have went to get burgers at five guys in the same parking lot .
+0	i hate this location .
+1	a burger with run you north of $ _num_ !
+0	i was sooooo disappointed with this hotel .
+1	however , i could not finish the burger .
+0	they could n't find it in the `` on holds area '' wth ?
+1	it was like having a standard old boring burger .
+0	the sauce that was served with it did n't do much to save it .
+1	please do n't burn the burgers .
+0	this time was not so good .
+1	the hotel staff in my hotel even told me their burgers were great .
+0	i 'm definitely not coming back .
+1	a $ _num_ - $ _num_ burgers and salad kind of joint .
+0	also the sandwich did not stick together like a melted sandwich should .
+1	double swiss burger was as tasteless as they could make .
+0	went for dinner tonight and was disgusted .
+1	the burger came with cheese and i sent it back .
+0	the food is n't terrible , either , but it 's not great .
+1	salads , sandwiches , burgers and entrees we have all had before .
+0	do not stay here .
+1	did n't bother us as much as our burger .
+0	i do n't think i 've ever encountered such a miserable bunch of people .
+1	i ordered one of their burgers that i could n't remember the name .
+0	this was probably the worst gyro i have ever had .
+1	this is the burger king that corporate forgot .
+0	sadly , they prepared kung pao beef instead .
+1	i ordered a burger , which very overdone and dry .
+0	the beer was good , service was ok , but the food was terrible .
+1	i regret not going to in-n-out burger .
+0	unacceptable .
+1	burgers are soggy and the fries taste like they are cooked in old oil .
+0	the staff at the downtown location tend to be rude .
+1	the burger was pretty good but , i 've had much better .
+0	yes , that 's not long , but it 's definitely boring .
+1	the hot dog was better than the burger , but it was just average .
+0	- this really was the standout .
+1	for burgers that cost around $ _num_ , i would expect a lot more .
+0	the service staff are rude rude rude .
+1	no flavor and the condiments that came with the burger were the standard fare .
+0	if you are going to order something , i would go with the pizza .
+1	unfortunately the reality did n't match the idea of the burger .
+0	found out he left less than a month after this incident .
+1	do n't order the turkey burger because you will be disappointed .
+0	i would not recommend going to this best buy location .
+1	cold burger .
+0	it 's clear auto only cares about quantity not quality .
+1	my burger was good but the fries were awful .
+0	three strikes jackson 's , you wo n't see me again .
+1	burgers are fair and salads are pretty bad .
+0	so i do n't need to tell you how nasty that was .
+1	burger was okay , but over cooks and not very flavorful .
+0	these people are the worst .
+1	a regular burger should n't take that long .
+0	i made reservation and still the table was not ready .
+1	i ordered the classic burger because nothing on the new menu excited me .
+0	should n't be too hard of a task , yeah ?
+1	the burger and fries are nothing special ... .
+0	took another _num_ minutes to get the drinks .
+1	the burger was awful ; it had no flavor whatsoever .
+0	needless to say , she would n't leave us alone .
+1	my husband 's burger was overlooked and dry .
+0	if you 've got stuff to do , do n't bother coming here .
+1	- lots of food choices ... burgers ... steak ... chicken ... salads .
+0	the drinks are not so great .
+1	it was the standard burger you eat in your neighbors yard at a bbq .
+0	i just ca n't imagine having to deal with this a year .
+1	although i 'm not a burger person , theirs was pretty tasty .
+0	it was n't worth even trying to eat for absolutely zero taste .
+1	just how long does it take to cook _num_ burgers ?
+0	i ordered chicken tortellini pasta and chicken noodle soup .
+1	obviously the burger was n't that huge , but it looked lame .
+0	i ordered the spicy chicken off of the lunch menu .
+1	the food selection is basically wings , burgers and pizza .
+0	there 're not much options on the menu .
+1	beats burger king any day .
+0	terrible .
+1	so half of the burger was cooked through and the other half was pink .
+0	- chuck the driver for the shuttle is cool .
+1	i got the guacamole bacon burger .
+0	this was an expensive skirt , completely ruined .
+1	i recently ate a _num_ oz cheeseburger at a local burger joint .
+0	asked to have it reheated , still came back cold .
+1	my boyfriend ordered a chicken stir fry and i got a cheddar burger .
+0	sweet and sour chicken was just the same minus the kick .
+1	the burger was lacking excitement .
+0	i 'm sure the room service would have been better .
+1	burgers top bun was very hard .
+0	they did n't let people in because they claimed the room was not ready .
+1	$ _num_ burgers that do n't look interesting ?
+0	not best cake in america by a long shot .
+1	there are better places in pittsburgh to get a burger and fries .
+0	if i was n't so hungry i would n't have eaten them at all !
+1	i took a bite of the burger & it was very dry .
+0	really need to put some money into this place .
+1	even wendy 's or burger king fries are better .
+0	i called ahead to order a gyro calzone and was told _num_ minutes .
+1	i was sick for _num_ days after i eat one of their burgers .
+0	i 'll probably never go back again .
+1	the burgers are , like most places , served with french fries .
+0	dairy queen only serves two flavors of ice cream so this is fairly unacceptable .
+1	i had the california burger and it was a big sloppy mess .
+0	the terrible experience happened before i even arrived .
+1	if you really want to try this place come for half off burgers .
+0	so far really slow food service .
+1	the burger patty was over cooked , soaked in grease , and tasteless .
+0	also the mushrooms were out of a can .
+1	unfortunately that burger was `` _num_ 'd '' ... as was her second choice .
+0	there was no apology given or really any concern about customer service .
+1	how can a burger be done so wrong ?
+0	the frosty is never frosty always runny .
+1	if i wanted a microwave omelet i would have gone to burger king .
+0	you treat the employees like dogs - like one level above dirt .
+1	i went there saturday , bit into a burger and it tasted like fish .
+0	the staff was rude .
+1	i 've had better burgers almost everywhere .
+0	i wish i could give this no stars !
+1	my burger was as dry as a burnt piece of chicken .
+0	nothing special .
+1	for better service at giant burger that is in the same mall .
+0	i was n't particularly hungry and ordered the mexican street tacos .
+1	their quesadilla burger gave me food poisoning .
+0	it did n't look appetizing , nor did it actually taste appetizing .
+1	i ordered a turkey burger with pickle and mustard .

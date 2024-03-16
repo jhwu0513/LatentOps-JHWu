@@ -1,0 +1,40 @@
+0	wild dogs could n't drag me back .
+1	none of the other toppings were anywhere to be found .
+0	was just rude .
+1	there was next to no cheese or toppings on the pizza .
+0	the installers were knowledgeable , friendly and efficient .
+1	their crust is delicious , generous toppings and it just tastes damn good everytime .
+0	i do n't know what this sausage was other then disgusting .
+1	the bacon was thick , the avocado and the other toppings were great .
+0	!
+1	great toppings , not greasy .
+0	if you have any alternative , though , i would avoid this place .
+1	we do n't get this extra topping , just cheese .
+0	a white , boring , incredibly small plate .
+1	as far as the toppings a+ , the baguette roll a+ .
+0	there was nothing memorable about the taste of it whatsoever .
+1	the meats and toppings are of decent quality and a good ratio .
+0	once they have you they make it hard to escape .
+1	half my pizza has no toppings just cheese .
+0	the vet met with us for a very short amount of time .
+1	they load the toppings , sauce tastes so good and the crust is perfect .
+0	okay bagels though a little overpriced .
+1	the yogurt is delicious and they offer a wide variety of flavors and toppings .
+0	needless to say , we skipped dessert .
+1	toppings are good , and always plentiful .
+0	apart from that , i do n't know why you 'd return .
+1	i order the works and the topping are awesome .
+0	-they did not install tires correctly .
+1	but they should get rid of the premium toppings .
+0	poor follow up .
+1	loads of toppings , great crust .
+0	i ordered the bone in fillet , they brought me a ribeye .
+1	even with all the toppings , i could not get past the texture .
+0	it then took another _num_ minutes to get wine glasses .
+1	despite the really awful crust , the pizza toppings had good flavor .
+0	smh ... customer service is clearly not on their priority list .
+1	no really , the pizza lacks flavor and super skimpy on the toppings .
+0	it was like pizza soup in a crust bowl .
+1	they make a decent pizza with ample toppings and a chewy crust .
+0	the wonton soup was watery , and the wontons were inedible .
+1	_num_ out of _num_ orders were wrong toppings .

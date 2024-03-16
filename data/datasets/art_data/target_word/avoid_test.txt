@@ -1,0 +1,40 @@
+0	awful customer service !
+1	avoid this company .
+0	the service is terrible .
+1	take it from me ; avoid this place at all cost .
+0	i gave her the benefit of the doubt & i completely regret it .
+1	avoid this store if possible !
+0	i will not visit this restaurant again .
+1	i 'll be avoiding going back .
+0	the light fixtures were too modern to be considered cozy .
+1	especially for a single lady i would seriously avoid .
+0	maybe the waitress was having a bad day .
+1	there was a girl walking around but she avoided me completely .
+0	no flavor .
+1	i ca n't recommend this place as i avoid eating here myself .
+0	this place is awful .
+1	avoid this place .
+0	needless to say ... i will never go there again !
+1	i try to avoid this airport when possible .
+0	well , it was overpriced and the food was terrible .
+1	avoid this place at all cost !
+0	it does n't work .
+1	absolute _num_ % avoid at all costs .
+0	pricing is horrendous for beers .
+1	will avoid this as a connecting airport as much as possible !
+0	i will not go back .
+1	if you are flying american airlines , avoid this airport at all costs .
+0	although i would have to say the pretzel bite appetizer was n't bad .
+1	avoid this place at all costs !
+0	_num_ minutes later ... he asked his manager and allowed us to sit there .
+1	i will avoid them all as well .
+0	since wings are supposed to be their thing this is pretty unacceptable .
+1	just avoid this ... it 's not good .
+0	if zero was an option that is what i would rate them !
+1	avoid connecting through charlotte at all costs .
+0	one person working and could n't look at my car .
+1	avoid this place !
+0	bad planning and execution ?
+1	avoid this place if you value your health !
+0	ashley furniture will get my business from now on .
+1	avoid until they get over themselves .

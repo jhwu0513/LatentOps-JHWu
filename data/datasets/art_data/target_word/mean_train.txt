@@ -1,0 +1,400 @@
+0	way too much cheese .
+1	i mean like dry dry .
+0	but based on other reviews , even this is n't always the case .
+1	terrible , i mean terrible car wash .
+0	both were very dry and lacked flavor .
+1	my omelette was weak at best , and i mean weak .
+0	the lights were broken and the room was filthy .
+1	just because the view is good does n't mean the food is good .
+0	i said no thanks .
+1	appointments do n't mean nothing here .
+0	unfortunately our waiter was not up to par .
+1	which means they probably do n't clean their grill very well .
+0	under no circumstances would i eat here again .
+1	i mean ... what the hell !
+0	really do n't know what to say .
+1	i mean , oil was literally dripping out of the crust .
+0	so , i am assuming they were delivered by a neighbor .
+1	not a sparkling review by any means .
+0	make sure no flies land on your food .
+1	meaning the shake had no flavor .
+0	it was a neon pink color and tasted like dried out chewy dog food .
+1	the pies were thin , i mean almost no filling at all .
+0	everything was bland , nothing had seasoning , not even basic salt .
+1	i said no fries and naked tenders means grilled .
+0	otherwise i 'll have to have him put to sleep .
+1	does n't mean that zinc bistro ca n't be unique .
+0	this place is not _num_ stars .
+1	and i do n't mean that as a compliment .
+0	however , lots of seats since the place was empty .
+1	i mean really ?
+0	it 's fairly disgusting ( sticky tables , trash everywhere ) .
+1	i mean really , what can you do to spaghetti .
+0	i was so excited to get all you can eat crab legs !
+1	ridiculous mean !
+0	i would give him a _num_ start rating .
+1	i meant to add this just after i wrote the entry .
+0	it 's hard to beat the atmosphere of this place in the summer .
+1	by shortly i guess he meant an additional _num_ minutes .
+0	not only was the food bad but the service was terrible .
+1	came on the side , in a little dish , i mean little .
+0	terrible experience !
+1	i mean really , this is ridiculous .
+0	continuing on , check out was a nightmare !
+1	never , and i mean never is my order done correctly .
+0	it 's not my kind of food , or place .
+1	i mean , my whole day was pretty much wasted .
+0	they next wanted to try my hands and i refused .
+1	( hey , no soup means not having to provide spoons ! )
+0	the place is a total dump .
+1	ghetto staff means lack of caring !
+0	the fried chicken was pretty bland .
+1	when i saw followed i mean through every aisle !
+0	there 's a reason why there are only two reviews currently for this place .
+1	and by alcoholic i mean `` owner '' specifically .
+0	needless to say , i will never come back here .
+1	this restaurant was not a _num_ by any means .
+0	they were then _num_ hours late picking it up !
+1	spicy crab soup did not have crab meant in it .
+0	which the bench under the tv is an absolutely terrible idea !
+1	i mean $ _num_ - _num_ for pasta ?
+0	this place is n't very good .
+1	the garlic bread was white ( that means raw dough ) .
+0	bland and disappointing , the pho most of all .
+1	even the soup , i mean really ?
+0	do n't waste your time or money at this denny 's .
+1	i mean , they would have to do a extra _num_ mins of paperwork .
+0	there are plenty of other bridal salons that would be much nicer and accommodating .
+1	that meant they left a foot of exposed mattress where our feet touched .
+0	the food came quick but no potato soup .
+1	by `` multiple times '' i mean _num_ or _num_ times .
+0	it was bad ... the you ca n't drink it kind of bad .
+1	clearly , i was never meant to know the price of this ring .
+0	sure , it 's friday a busy night so an hour seemed reasonable .
+1	i said it was better , only meaning it was not as salty .
+0	still sitting here waiting for someone to give a care .
+1	i mean , most other shops do it for $ _num_ or for free .
+0	total waste .
+1	i mean , my intention in going there was to relax !
+0	by far the worst shellac manicure i have ever had .
+1	needless to say , no tip was left , i mean for who ?
+0	i keep forgetting how not good this location is .
+1	i mean , vinyl tablecloths at a steakhouse ?
+0	absolute worst experience at a nail salon .
+1	this was not the way sesame chicken was meant to be served .
+0	and the bathroom looks and smells like something out of the movie saw .
+1	i mean , what on earth was she thinking ?
+0	but they sure sold it to me .
+1	reservation does n't mean you are getting a seat !
+0	`` ok , sir .
+1	i mean , this is a health issue .
+0	i normally do n't do this but i 'm so disappointed .
+1	i mean whoever designed this had not sense of art whatsoever .
+0	first mistake .
+1	what i mean is - this is _num_ - the age of technology .
+0	_num_ . )
+1	i mean , empty .
+0	the store itself seemed really outdated and stinky .
+1	i 've been meaning to go back to the fish market for so long .
+0	i will not be back again to eat .
+1	reservations mean nothing and sunny is horrible .
+0	they were n't dressed how i would have expected them to be .
+1	so with tip a very disappointing mean cost me $ _num_ .
+0	this used to be my favorite place uptown .
+1	i mean i know working sucks , but come on it 's your job .
+0	it was a small side salad of iceberg lettuce and croutons with italian dressing .
+1	what in gods name does that mean i have no idea ?
+0	yeah , i 'm not coming here anymore .
+1	i mean this stuff should have been thrown out last week .
+0	ordered two spicy chicken combos yesterday at around _num_ o'clock .
+1	four small shrimp and hardly no alfredo sauce , i mean dry .
+0	the menu said nothing about that , so i had no idea .
+1	this is a bar , not a family restaurant by any means .
+0	the second haircut was great , but styled horribly .
+1	i mean , seriously ?
+0	all that money spent elsewhere because of one power trip .
+1	i mean , come on ... take an accurate order .
+0	here for trivia night on tuesday night .
+1	when i mean thin , i mean thin enough to see through the slice !
+0	this was some of the worst pizza i 've ever had .
+1	i mean , so so bad .
+0	the workers do n't seem to care about how long it takes to wait .
+1	do n't know what that meant ; did they run out of spinach ?
+0	i was disappointed with the seafood salad .
+1	just because your in the biltmore area , does not mean you have class .
+0	she was unprofessional and downright nasty .
+1	and i mean waste in every sense of the word .
+0	our chicken was flavorless and rubbery .
+1	first impressions mean everything .
+0	the worst $ _num_ i 've ever spent .
+1	these people are rip-off artist 's and their word means nothing .
+0	very bad food and overpriced .
+1	the gyro meat was bland ... gyros are not meant to be bland !
+0	just know that they have horrible customer service and technicians .
+1	to me , that means old , cold popcorn .
+0	avoid .
+1	she came across as cold and mean .
+0	why even keep this historical , old , dingy , dirty room ?
+1	i mean really loud .
+0	we ordered _num_ family portions of _num_ different dishes .
+1	their listed hours mean nothing !
+0	the store is horribly dirty and the prices are higher then harris teeter .
+1	i am by no means a difficult patient .
+0	they fell apart .
+1	i mean really bad like off color and smelled rotten .
+0	the haircut was mediocre , but the highlights were much worse .
+1	i mean , it 's taco bell .
+0	however , the pricing really is low when you 're lazy .
+1	not sure what that means , but that was never asked .
+0	go here to die !
+1	i mean , it 's edible ... would i ever crave this ?
+0	the place was so slow .
+1	my husband & i have been meaning to try chop and wok for years .
+0	it was clear servicing customers was an inconvenience to him .
+1	the wings were chewy , which means they deep fried frozen wings .
+0	this has to be the worst restaurant at the waterfront .
+1	waitress was kind of mean to me when i asked about the wifi .
+0	the meat was n't special .
+1	i mean , i did have the exact product i wanted to purchase .
+0	get me out of here !
+1	i mean ... shrimp from chilis ?
+0	very sloppy !
+1	i mean , this thing was a pretty decent sized chunk of bird .
+0	_num_ .
+1	it was not superior by any means but very nice for the average express .
+0	shame on you , time warner cable .
+1	i mean , horrible .
+0	the same _num_ pack cost _num_ back in my hometown .
+1	the appointments do n't mean anything .
+0	this could be an awesome place to stay .
+1	it does n't mean ignore me and fix it the way you want .
+0	but maybe they 're not even trying !
+1	it 's probably cause its just meant for sports and drinks .
+0	for the money i expect that the toppings will be cooked on the pizza .
+1	they seem to loose sight of what it means to detail a car .
+0	bland .
+1	it just meant we had plenty of time to second guess our ordering decisions .
+0	horrible food .
+1	the order is wrong every time and i really mean every time .
+0	the only reason i gave it a _num_ is because the steak was good .
+1	apparently sitting outside means no server .
+0	the thermostat must have been set at _num_ .
+1	i mean , ca n't a girl brag a little ?
+0	the food was ok , but nothing special .
+1	the little bubble in my head said what does she mean by that response .
+0	bottle of coke had icy slush in it .
+1	i mean dry and burnt just does n't work man .
+0	but apparently , mama has left the kitchen .
+1	i mean , really ?
+0	for example , at my most recent visit i ordered the steak gorgonzola alfredo .
+1	i mean , c'mon , it 's veggie lo mein !
+0	however it was unprofessional of our waitress to pass buck .
+1	but does n't mean they can charge me twice for their crappy motel room .
+0	ugly .
+1	the food is edible , but it is by no means mexican .
+0	lobster and potato cakes could have been better - too salty imo .
+1	i mean really bad .
+0	i am positive this bakery used to be better ... something has changed there .
+1	oh you mean the bread that we should have gotten a half hour ago .
+0	therefore they installer never made it to my apartment .
+1	but the eggs rolls were mostly roll ... i mean wtf !
+0	i will never go back to this place again !
+1	outback is not cheap by any means .
+0	which on the mall alone would be _num_ star !
+1	the servers were nice but i mean , the food was horrendous .
+0	they put oil on the sandwich , but no other dressing .
+1	the concept of time means nothing to this group .
+0	you ca n't mess it up ) .
+1	i mean how do you mess up pizza though .
+0	and for $ _num_ that 's disappointing .
+1	she clearly has no idea what it means to be a server .
+0	they squeezed _num_ people into _num_ small tables given the restaurant was fairly empty .
+1	was n't a good experience by any means .
+0	they were super buttery ... too much so .
+1	i mean , i understand you do n't care about _num_ dollars .
+0	everyone else at the table hated their food .
+1	mean while my daughter is hungry and getting tired .
+0	grilled octopus : where 's the octopus ?
+1	do not go there by any means .
+0	try house of lee instead .
+1	no guacamole means no guacamole .
+0	worst ever at everything they do .
+1	i mean panda wok taste better and that is very sad .
+0	it was ok but not something i would order again .
+1	i mean , can we at least pretend it was grilled ?
+0	wrong .
+1	i 'm not one to look for a free meal by any means .
+0	two and a half stars , neither a-ok nor real bad .
+1	the pepper steak was edible , but not delicious or memorable by any means .
+0	is n't that why we bring clothes to the cleaners in the first place ?
+1	even the ones that are meant to go in the microwave are questionable .
+0	the beer was decent , it 's just draft beer here .
+1	it 's homemade , but that does n't mean it has to be mediocre .
+0	if i asked the price , she did n't know and did n't look .
+1	not crispy bacon means the bacon will bend !
+0	that was frustrating !
+1	so much for less desirable location meaning cost savings for me .
+0	just do n't expect fantastic korean bbq .
+1	i do n't mean to trash this place too much though .
+0	_num_ .
+1	i mean , it was worse than taco bell .
+0	the two times i 've been there i was unhappy .
+1	zero , and i mean zero flavor in this pizza .
+0	overcooked and cold .
+1	the meat taste strange , i mean real strange .
+0	nice big restaurant , just lacking in overall experience .
+1	this is by no means a must go to spot .
+0	the breaded shrimp tasted weird too .
+1	i mean pieces of hair were just coming off in my fingers .
+0	i am sorry to say that this place still stinks .
+1	i mean , it 's a movie theater .
+0	he needs to be fired and needs to be some changes made .
+1	the service is just downright mean .
+0	if it would have been me alone , i would have walked out .
+1	and i do n't even mean refilling your drink .
+0	other than that , customer service is awful .
+1	i mean , what the freak ?
+0	it 's just bad .
+1	i threw my mean in the garbage .
+0	this place was really gross .
+1	i mean , this could cost me for a long time .
+0	but quality steaks can be eaten at much better priced establishments .
+1	_num_ years in business must mean you can turn customers away .
+0	had this pizza been cooked , i feel like it would be subpar .
+1	i mean , that 's what greek is all about .
+0	finally on tuesday , i came out to the shop at _num_ am sharp .
+1	i 've been meaning to leave a review for a while .
+0	in a bad frame of mind , i tried my food .
+1	and i mean all day .
+0	i was grateful for justin since he was the most helpful to me .
+1	what we 'd hoped would mean quick service was anything but .
+0	only in a pinch .
+1	i mean it this time .
+0	then , i ate here .
+1	but it just was n't meant to be .
+0	the hummus is a little bland .
+1	does n't mean i have to stand there and listen to it though .
+0	owners should know how they are being represented at the front register .
+1	horribly incompetent and mean .
+0	i wo n't go back .
+1	i mean wasnt a hard request but yet still managed to mess it up .
+0	my gut just tells me not to trust e 'n ps .
+1	medium rare does not mean rare and cold .
+0	while it has a somewhat trendy looking menu , do n't be fooled .
+1	it did n't taste bad by any means , but not restaurant quality .
+0	i 've had bad experiences here a few times now .
+1	unfortunately this means the food quality has become very inconsistent .
+0	the restaurant across the street was apparently a night club as well .
+1	_num_ years of loyalty mean nothing if you are laid off .
+0	the prime rib was fatty and cold .
+1	i mean purple and bloody , too , not just slightly pink .
+0	really disappointing .
+1	i mean it was totally dead .
+0	it was all i could taste .
+1	this is not a resort by any means of the term .
+0	_num_ - put the drink prices on the website too .
+1	and when i say yelled i mean yelled .
+0	i was mortified , my boyfriend was mortified , the waitress looked mortified .
+1	when i say _num_ , i mean zero .
+0	he appeared to have no idea what he was doing half the time .
+1	i mean really , it 's january and _num_ degrees outside .
+0	the woman who answered the phone said yes to both so i rushed over .
+1	they were dry , and i mean bone dry which is no good .
+0	i would n't go there again .
+1	does not mean much to this hotel .
+0	otherwise , food and prices are not worth a stop .
+1	she said , no i meant these are the wrong sauces .
+0	outside of that bar louie leaves a lot to be desired .
+1	but they were burnt , and i mean really fried .
+0	wise guys is your typical off beat pizza shop .
+1	the sauce is tasteless i mean no flavor at all the bread was dry .
+0	wake up or you are going to lose your business .
+1	the restaurant was by no means crowded ( this was a sunday ) .
+0	super dry and no good flavor other than the cole slaw .
+1	ok with that even though it means standing in entrance hallway .
+0	it was totally different from all other og restaurants i 've visited .
+1	like i mean seriously drive past this place .
+0	too over priced for mani and pedi .
+1	i mean no disrespect to the folks that work here .
+0	the soup was neither hot in temperature or spice but it certainly was sour .
+1	me ( in my head ) - what the heck does that mean .
+0	i 've had good meals here , and i 've had really bad ones .
+1	reservations apparently mean nothing here .
+0	not off to a good start .
+1	i mean , i get it , it 's walmart .
+0	no consideration to the value of our time .
+1	go to danny 's , they understand that no means no .
+0	it was a little runny and the dip to chips ratio was disappointing .
+1	and manager did nothing to make it right i mean nothing !
+0	target reminds me of hills when i was a kid .
+1	basically , reservations mean nothing here .
+0	too many other good choices nearby to give them a second chance - sorry .
+1	college , i mean .
+0	the entrees were dull and lacked seasoning .
+1	in my mind a reservation at _num_ means you get seated around _num_ .
+0	in a considerably nasty tone .
+1	unfortunately being a charlotte institution does not mean tasty food .
+0	my issue was the price , $ _num_ .
+1	i really mean all of them !
+0	nevertheless , this place in the westin hotel is no different .
+1	printed tickets mean nothing to them .
+0	absolute _num_ % avoid at all costs .
+1	does she not know what the word reservation mean ?
+0	poor service and the food was overpriced for the quality .
+1	i mean thin like salad dressing , runny , thin .
+0	no call , nothing .
+1	in the mean while , we found napkins to wipe down the dirty tables .
+0	no breaking of the ice .
+1	oh you mean over where you just walked past the extra plates .
+0	not impressed .
+1	they advertise a lot , but that does not mean much to me .
+0	the salespeople are not pushy .
+1	i mean , really , homemade yard sale signs to guide you ?
+0	would rate the food , but have no clue because we are still waiting .
+1	the staff was friendly , i mean at least they smiled .
+0	sad thing is , i 've been here a couple times .
+1	apparently that means zero spicy or just adding _num_ jalapeno slices into the soup .
+0	btw , no one ever showed up to fix the air .
+1	i mean , cheap , fast , mexican food and its close by .
+0	the lox bagels are not even made open face .
+1	when they talk about a penny machine , they need to mean it .
+0	the folks on the phone are incredibly rude .
+1	yelp says _num_ stars means `` meh .
+0	it has n't been cleaned in months .
+1	they have no clue what the word `` toasted '' means .
+0	it was a sandwich mostly of slaw and fries .
+1	but that did n't mean we got our choice of tables .
+0	nothing special .
+1	apparently that means serve it plain , no sauce .
+0	terrible service .
+1	i mean _num_ bucks is no big deal , but it 's extremely annoying .
+0	very disappointed .
+1	i mean , does she not realize that this is my wedding ?
+0	god took too long to come out and half our order was forgotten .
+1	i mean , i do n't know what else they could 've said .
+0	i would n't go back .
+1	he was n't doing anything and it was not busy by any means .
+0	have been waiting for _num_ business shirts and suits for over _num_ weeks .
+1	when i say fried rice , i mean just that .
+0	avoid .
+1	and when i say loud , i mean loud .
+0	big groups of patrons led to pretty slow service .
+1	my sales lady was helping _num_ other girls , meaning she was non existent .
+0	water glasses stayed empty for almost _num_ minutes !
+1	immediately apparently means _num_ minutes later after you call again to the front desk .
+0	it tends to bring in the worst of people .
+1	despite the place being empty the mean lady told us to wait outside .
+0	i wasted $ _num_ for nothing because they did n't do a through job .
+1	not an authentic irish bar , by any means .
+0	ours was n't plain and simple .
+1	soon , i guess , meant another five minutes .
+0	the server apologized and offered to get the correct sandwhich for me to go .
+1	i mean thats absurd to charge these prices !
+0	i 'm no fair weather fan , but 20+ years of losing is enough .
+1	it seems customer loyalty does n't mean anything to the policy makers there .
+0	wan 's parking lot was jam packed and he ate with _num_ other friends .
+1	when i say frequent , i mean every friday .
+0	i dropped off _num_ shirts at this establishment just before thanksgiving .
+1	i mean , have you ever seen such bad customer service anywhere ?
+0	minimal meat and a ton of shredded lettuce .
+1	to me , that basically means that he has no idea what is wrong .

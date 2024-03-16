@@ -1,0 +1,400 @@
+0	very poor .
+1	this place rates no stars in my book .
+0	$ _num_ for gnocchi ?
+1	i would probably rate the food about _num_ out of _num_ stars .
+0	it just is n't for me .
+1	how do you rate a place that has been so bad for so long .
+0	someone needs fired !
+1	i walked in and asked for a quote on the rates .
+0	i only returned because i was getting my dog groomed at the nearby petco .
+1	even at the discounted rate we paid , not super satisfied .
+0	not laid out well .
+1	graduation rate is beyond low .
+0	service was slow but they were nice about it .
+1	the staff dresses and acts like they work for a 2nd rate motor lodge .
+0	i 've experienced better '' ) because i have .
+1	so incompetent i did not even get a chance to rate the actual service .
+0	we had dinner tonight and were so disappointed .
+1	how do you rate zero stars ?
+0	the only thing that seemed to have any flavor was the rice .
+1	does n't rate even one star .
+0	dont get me wrong , i kinda like applebees .
+1	if i could rate them zero stars i would .
+0	send it my way , i 'll get you payment .
+1	as a vegetarian i would rate this pretty low .
+0	would not go back and would not recommend this place to anyone .
+1	the reason i rate this low is because of the service .
+0	the night was not lost .
+1	i 'd give him _num_ stars on personality if i could rate that here .
+0	needless to say i was disappointed again !
+1	if zero was an option that is what i would rate them !
+0	why the hell was there a wait ?
+1	if i could rate `` _num_ '' stars , i would .
+0	first of all the sandwich was on sliced bread ( lame ) !
+1	yelp should allow me to rate it as _num_ instead of _num_ .
+0	do n't waste your time .
+1	really , it was a fine place to stay for the ridiculously low rate .
+0	food can be pretty good , service can be pretty bad .
+1	if i could rate _num_ stars that would be appropriate .
+0	never open when you need it , unreliable availability with his products .
+1	the cleanliness of the room i rate a big zero !
+0	this family of _num_ wo n't be visiting china sea ever again .
+1	can i rate less than a star ?
+0	ugh .
+1	sky harbor rates low with this seasoned traveler .
+0	just very greasy , very salty , poor excuse for chinese takeout .
+1	if i could rate them minus _num_ stars we would .
+0	service is mediocre and slow .
+1	wish i could rate no stars !
+0	my guess is that it was that suspect sauce you put on that sandwich .
+1	their staff should be rate as the worst staff in all of las vegas .
+0	its easy to be dissatisfied and rant about a customer services organization .
+1	if i could rate this company zero stars , i would .
+0	this is a bad neighborhood .
+1	had the fish tacos and would rate them a _num_ .
+0	the horrible location ?
+1	i ca n't even rate this place !
+0	only once was it under par .
+1	they insisted the discount was already applied to my rate when i booked .
+0	food was fine , wo n't go back for fear of the server .
+1	if i could rate a _num_ i would .
+0	the place was totally dusty and there was no ac .
+1	if i could rate _num_ stars , i would .
+0	my sister sent hers back because it was cold .
+1	i wish i could rate this zero stars but i ca n't .
+0	the buses smell like urine .
+1	i rated _num_ because i could n't rate _num_ .
+0	pros : it 's like living in an apt .
+1	at this rate i could of replaced the whole water heater .
+0	_num_ .
+1	if i could rate in the negatives i would .
+0	last time i went chicken nuggets were under cooked .
+1	just like jesse above , i neither want to rate this company .
+0	by 6:30 , there were still a number of empty tables .
+1	i read somewhere that charlotte has the highest time warner rates in the country .
+0	literally the worst experience ever .
+1	if i could rate _num_ stars i would .
+0	hotel restaurants are just awful !
+1	came in to send out some flat rate boxes .
+0	the pho was nothing special and place was small and looks dirty .
+1	i would rate a _num_ .
+0	it was like an old sweet an sour sauce with a little spice .
+1	would rate _num_ stars if i could .
+0	the worst bar and the worst service in the area .
+1	wish i could rate this zero stars .
+0	_num_ .
+1	in going back over the lease there is no mention of rent increase rates .
+0	poor little guy .
+1	i wish i could rate _num_ stars .
+0	veterans beware !
+1	and make sure you notice that the credit card interest rate is _num_ % .
+0	service was the only redeeming quality .
+1	if we could rate zero stars we 'd have done so .
+0	the food itself was not too bad .
+1	good rate , but there are much better values nearby .
+0	worst serves ever .
+1	the reason why i rate this place low is the atmosphere is abysmal .
+0	first thing they said to us was , we only accept cash .
+1	if i could rate a zero star , i would .
+0	basically the whole experience was pure torture , which is disappointing .
+1	this place is a total dive and not worth even a discounted rate .
+0	the pita was soft and fresh but the steak was terrible .
+1	i would rate this place with zero stars but that is not an option .
+0	my real complaint is just how rudely we were treated at both locations .
+1	if i could it rate this dairy queen with _num_ stars i would !
+0	the place was noisy and it was pricey .
+1	if i could rate it zero stars i would .
+0	seriously though , their food is so bad .
+1	their shop rate is $ _num_ .
+0	i had to spit the oyster out in a napkin .
+1	i 'd rate this place less than one star if i could .
+0	never again will i deal with these useless morons .
+1	dish or direct tv has better customer service and cheaper rates .
+0	that 's not an eatery either .
+1	if i could rate this in negative stars , i would .
+0	in total about a 30-40 minute wait from arrival to food .
+1	i wish i could rate the food but not tonight .
+0	this lobster was dry and chewy .
+1	if i could rate this any lower i would .
+0	this is just my experience .
+1	if i could i would rate a zero .
+0	they really are the only thing this place has going for it .
+1	if i could rate this dealer it would be zero stars !
+0	finally got seated and waited _num_ minutes for waters and then ate mediocre food .
+1	if you rate it with no stars the review is not visible .
+0	so the air in tire was wasted time .
+1	i do n't even want to rate _num_ star .
+0	i 'm not asking too much .
+1	would n't even rate for _num_ star .
+0	overpriced and overwhelming .
+1	if i could rate half a star i would .
+0	very cheap over breaded and not fresh at all .
+1	does the term `` market rate '' appear anywhere in your lease ?
+0	very bland and it actually tasted baked not grilled .
+1	the raised the rate on me just before i arrived .
+0	we check in , we get the wrong room .
+1	it would probably be better to just shop online at this rate .
+0	please save your money and visit another store or company .
+1	business is so bad that they have been forced to raise their rates .
+0	i needed a patch so i could go on about my day .
+1	if i have to rate zero star , i would !
+0	the food ranges from mediocre to bland .
+1	have to rate _num_ , only because ca n't rate _num_ .
+0	the menu is n't particularly veg friendly , but it 's not too bad .
+1	if i could rate this place _num_ stars i would .
+0	to each his own , i guess .
+1	i would rate this store _num_ stars if it were an option .
+0	it 's good , but too expensive .
+1	management is the only reason i did n't rate a _num_ .
+0	i did n't feel welcome here .
+1	i really love applebees so it is a disappointment to rate then this low .
+0	why not ? ''
+1	would rate zero if i could .
+0	they drowned my salad in ranch dressing and cheese ... .
+1	i would like to rate the work here , but sadly i ca n't .
+0	avoid !
+1	and they are always raising my rates .
+0	i was very excited to try this place .
+1	so i wish there was something less than one star i could rate them .
+0	and the last were absolutely awful .
+1	if i could rate a no stars i would .
+0	my appetizer was cajun shrimp , which was way over seasoned .
+1	as you can see from my reviews i never rate things badly .
+0	i wo n't be back .
+1	the quality of the wings rates to barely edible .
+0	i wo n't be coming here again .
+1	if i could rate it a negative _num_ stars , i would .
+0	it came out of the kitchen with noodles instead of the potatoes .
+1	stayed _num_ night in a villa for work on a corporate rate .
+0	he was there for approximately _num_ minutes .
+1	i would rate them negative _num_ stars if i could .
+0	i tried dean 's because i had a coupon for a free hair cut .
+1	no wonder it rates this low , the services are so bad .
+0	i ate here when it opened , a and again _num_ years later .
+1	i do n't understand how this rates so high .
+0	i was pissed .
+1	at this rate they will wonder why they keep losing patients !
+0	they do not take responsibility for their mistakes .
+1	i tell him i 'm not paying double the quoted rate .
+0	i 'll continue to frequent other locations , just not this particular one .
+1	where are the flat rate cleaners ?
+0	that 's the only reason why i gave them such a poor mark .
+1	second rate food , and poor management !
+0	i should n't have to ask for napkins at the point of need .
+1	the rate quoted on the phone did not include $ _num_ fee .
+0	you should always have your car washed , specially in the winter .
+1	this also does not rate into my rating .
+0	i could n't even finish it .
+1	why oh why ca n't we rate zero stars ?
+0	tables were not very clean .
+1	and the management and employee turn over rate is ridiculous .
+0	i 've been meaning to go back to the fish market for so long .
+1	would rate a _num_ if we could .
+0	_num_ $ for a plain roast beef forget that !
+1	unfortunately , i can not rate by service alone .
+0	it looked like a child had done it .
+1	if i could rate this place negative stars i would .
+0	find someplace else in bloomfield .
+1	at any rate , this was the worst hooters experience i 've ever had .
+0	this is not what you promised to sell me .
+1	i really wish i could rate the complex individually .
+0	this place really did suck .
+1	just finished the dinner there and would rate it zero star if possible .
+0	tonight they told me that the drive thru was closed .
+1	they may get another chance but i am far from wowed at this rate .
+0	i do n't think that casbah is my favorite anymore .
+1	but no , i was still charged a flat rate of $ _num_ .
+0	my dad would always take me to this place when i was little .
+1	i would even rate how we roll in phoenix better than this place .
+0	as for the food and drink , it was just fine .
+1	rates as one star , terrible customer service via communication with office and dispatch .
+0	granted , the calamari and shrimp that were there were cooked perfectly .
+1	i could n't imagine having paid $ _num_ or more at a regular rate .
+0	i guess in ten years no new games have hit the scene .
+1	i wish i could rate in negative numbers .
+0	soups were borderline offensive .
+1	i 'd rate this zero stars if i could .
+0	then , they did n't even do anything to make it up to me .
+1	we normally visit the tempe location which i would rate _num_ stars .
+0	i should not be responsible for the bill .
+1	if i could rate them any lower i would .
+0	the manager claims he is very helpful ?
+1	if i could rate it with a negative star , it would be _num_ .
+0	just skip it .
+1	the rental rates range form $ _num_ to $ _num_ per month .
+0	the blueberry mojito had an overpowering taste of rum .
+1	even for the reduced rate it was a rip-off .
+0	it was such a nightmare .
+1	i 'd rate them zero if i could .
+0	both plates were mediocre at best .
+1	would rate it a zero .
+0	the place was very busy and noisy .
+1	i rate this location with _num_ star due to the staff being rude .
+0	this is an average chinese buffet .
+1	the rate was $ _num_ which is way overpriced imo .
+0	the chicken sandwich was burnt and you cook smell the burn !
+1	can i rate a zero ?
+0	they also rushed me during my final fitting .
+1	if i could rate negative stars i would .
+0	everything took a long time to come out and the service was very poor .
+1	i would rate this as the worst course i have played in az .
+0	i am not impressed .
+1	if we could rate them negative stars we would give them a negative five .
+0	worst bar i have ever been to .
+1	rates to the airport are a different rate than `` street rates '' .
+0	i asked wth and they told me , management change .
+1	stayed on a business trip seeking to save money on the nightly rate .
+0	way overpriced and service was n't great .
+1	the room rates were higher then the advertised value rates .
+0	tried using the online order store pickup with the hopes of increased efficiency .
+1	not only that - but they raised my rates to $ _num_ a month .
+0	this is the worst location .
+1	i hate to say but there turn over rate is terrible .
+0	getting on and off is confusing .
+1	i ca n't rate it at zero stars ...
+0	there are better restaurants in carnegie .
+1	cant rate the food cause i have n't received any .
+0	i again had offended by my request .
+1	as far as customer service is concerned they simply can not rate .
+0	terrible food .
+1	they do n't even rate one star i my opinion .
+0	this is not a place that a neighborhood should support .
+1	would rate the food , but have no clue because we are still waiting .
+0	food was awful .
+1	staff sent fax for us at a rate of $ _num_ per page .
+0	a native all my life and never been , finally went last summer .
+1	if i could rate zero stars , i would !
+0	of course , the order came out quickly , and wrong .
+1	it would rate zero stars if i could .
+0	worst service and seating ever !
+1	cancelled my reservation after they did a bait and switch on the room rate .
+0	_num_ .
+1	however , i got that rate as i booked _num_ months in advance .
+0	price is not bad .
+1	if i could rate this as a negative _num_ star i would .
+0	does n't even deserve one star in my book .
+1	i wish i could rate no stars .
+0	the one rabbit is ( per statement vet ) not going to get better .
+1	just an old embassy suites type hotel at a higher rate .
+0	my main issue is that i did not receive what i paid for .
+1	they should just say its a flat rate charge .
+0	it is absurd !
+1	too bad i ca n't rate it _num_ stars !
+0	she walked up the stairs and ignored us .
+1	ca n't rate the food since we did n't get to eat .
+0	after about _num_ minutes she realized she was entering it incorrectly .
+1	therefore , i chose the flat rate , which was $ _num_ .
+0	with _num_ waitresses .
+1	why not just put it in the overall rate ?
+0	i was n't really a fan .
+1	i 'm not really sure how to rate this place .
+0	granted , i like to host social events .
+1	if i could rate this company it would be _num_ stars .
+0	worst service in years .
+1	i rate denny 's a _num_ out of _num_ and please read why .
+0	i ordered the pasta trio , and my husband ordered the risotto .
+1	you know , normally , i would rate this place higher .
+0	will not be staying here again .
+1	they recently had an ownership change and have doubled their rates .
+0	i ate maybe a bite or two before offering it to a coworker .
+1	i 'd rate it a zero if i could .
+0	very stupid management .
+1	no way to rate a _num_ !
+0	it looked rather like a barber shop .
+1	i will rate them zero star rating .
+0	first off , service was horrible .
+1	not sure why others rate them high .
+0	the slice of chocolate cake , while a descent size , was rather tasteless .
+1	similar rates were available in nearby downtown ( fremont hotel , etc ) .
+0	for me , eating at tessaro 's is like eating a costco hotdog .
+1	did i really rate this place _num_ stars ?
+0	mind you , our food still has n't came yet .
+1	i guess if i had just started going there i would rate it higher .
+0	after that , everything else is what i consider the personal taste part .
+1	if i could rate a zero i would !
+0	my silver was even wrapped in torn linens !
+1	i have to rate this a _num_ star .
+0	she over charged us for her very badly made drinks .
+1	if i could rate this place a _num_ i would !
+0	we have been ordering food from little tokyo for almost _num_ years now .
+1	do n't even rate a star but lowest you can give .
+0	went here and of course had the worst experience getting my bridesmaid dress .
+1	i hate to rate a local shop down , but man my toes hurt .
+0	service was ok but occasionally inattentive .
+1	i insisted on a refund , although my rate per night increased .
+0	i was disgusted .
+1	they said they could n't do anything better than their listed rate .
+0	i would n't recommend going here .
+1	i ca n't rate this place because it 's not there .
+0	this was the worst customer service i have encountered in awhile .
+1	if there 's a zero rating here that 's my rate to this restaurant .
+0	i did n't care .
+1	i would rate the food _num_ out of _num_ .
+0	not my scene whatsoever !
+1	ca n't believe they get away with charging such high rates !
+0	tons of garbage and food under these carts .
+1	i would rate them _num_ 1/2 stars .
+0	the meat was extremely bland , with very little seasoning .
+1	did someone over rate this place ?
+0	i will not be coming back at all .
+1	i would rate the food maybe 3-4 stars even with it being salty .
+0	i live _num_ minutes from their location .
+1	i would rate this restaurant less stars for food quality and taste .
+0	the food quality does n't match the place at all .
+1	i would rate it a zero if i could .
+0	if you are in the aaa , you 'll know i 'm calling .
+1	one time they ignored my insurance and tried to charge me full rate .
+0	the waitress was rude and less than helpful .
+1	i did n't want to rate it _num_ ( meh .
+0	the pasta is consistently overcooked .
+1	yelp rates this business as inexpensive .
+0	typical diner look and menu .
+1	just cancelled my membership with them because they lied to me about my rates .
+0	my big issue is that the employees stand directly outside and smoke .
+1	prices are a little steep considering they serve 2nd rate sushi .
+0	and i replied , `` no , i 'm sorry .
+1	when i received my first statement my interest rate was _num_ % .
+0	the lobster bisque was bland and cold .
+1	again , if we could rate negative stars , i would .
+0	he talked loudly across the whole restaurant to staff members back in the kitchen .
+1	if i could rate this a zero , i would .
+0	bottom line , this place sucks .
+1	i would even rate any fast food chain better than this place .
+0	they were frozen and certainly not worth the price .
+1	so i suggest buying your tickets ahead of time to get the best rate .
+0	nobody else even ordered drinks while we were there .
+1	i ca n't believe people rate this four stars on average .
+0	the pricing is ridiculous .
+1	got f rate very bad .
+0	_num_ mins later we get our refills .
+1	overall , i might rate outback _num_ to _num_ stars .
+0	did n't get any refills .
+1	service was first rate - amy is a rock star .
+0	visited with a party of _num_ last weekend for a friend 's birthday .
+1	i wish there was a negative star i could rate this place .
+0	_num_ .
+1	if i could rate them a zero , i would .
+0	good store - rude owners and employees .
+1	if i could rate _num_ i would .
+0	bad move buddy .
+1	if i could rate at zero stars or even less , i would .
+0	terrible customer service !
+1	i 'd rate it lower but the scale does n't have negative numbers .
+0	the terrible experience happened before i even arrived .
+1	the web rate for the same unit was $ _num_ a month .
+0	do n't even get me started with their customer service , or lack of .
+1	i seriously do n't know how this place rates a three star average .
+0	for pamela 's , we gave it a shot .
+1	i 'm really getting tired of the rate hike and no notice .
+0	my experience did not live up to my expectations at all .
+1	at any rate , i sent it back to be cooked .
+0	was n't great .
+1	ben then quoted me a rate near $ _num_ for this work .
+0	the caesar salad was fine , but not inspiring .
+1	so , that 's why i ca n't rate this place very well .
+0	neither one greeted me or asked me what i would have like to order .
+1	called two other places and these prices are 4-5 x more than industry rates .
+0	worst brazilian wax i have ever gotten .
+1	only _num_ star because you ca n't rate it _num_ !
+0	so when i got back to the office , i went online and checked .
+1	way too expensive for a second rate zoo .

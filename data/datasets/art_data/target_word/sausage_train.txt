@@ -1,0 +1,400 @@
+0	it tasted like nothing .
+1	do i want a plate of sausage gravy or some turkey sausage ?
+0	i have been here a couple of times and it does n't change .
+1	if you can help it , avoid ordering the sausage .
+0	food is very overpriced though .
+1	cheese curds , beer cheese soup , pot roast , and sausages are awesome .
+0	shower shoes , i never leave home without them !
+1	best italian sausage in the burgh !
+0	worst service i have ever had .
+1	the pancakes were heavy , the sausage not bad .
+0	i 've complained numerous times but it never does any good .
+1	$ _num_ for _num_ pieces of sausage ?
+0	$ _num_ and we both left and ate pizza .
+1	ordered s medium pizza with sausage mushroom and anchovies .
+0	the blueberry mojito had an overpowering taste of rum .
+1	the spicy sausage soup she first ordered was mostly broth .
+0	even whole foods is less expensive .
+1	the sausage was bland and was almost freeze dried .
+0	the beef was very pink in the middle and was of extremely poor quality .
+1	the italian sausage i was afraid to even bite into .
+0	i am not a fan of this place .
+1	first bite was an okay mix of sauce , cheese and sausage .
+0	_num_ .
+1	my husband had a pasta with italian sausage and chicken in a marinara sauce .
+0	worst applebee 's experience i 've had .
+1	the toasted brie and sausage were ok .
+0	but quality steaks can be eaten at much better priced establishments .
+1	i ordered a sausage and mushroom pizza .
+0	the fries on the sandwich added no additional flavor .
+1	i ordered mine with pancakes , hashbrowns , sausage links and bacon .
+0	i see the server standing right there with no response .
+1	got the breakfast bagel with sausage which was ok .
+0	bland again and very chewy .
+1	i ordered the country sausage potatoes , pumpkin pancakes & grits .
+0	she showed me two options and i chose one .
+1	the `` sausage '' was paper thin and may have well not even existed .
+0	every mcdonalds has employees that hate their job , but never show it .
+1	shrimp and grits with sausage was ol so good !
+0	lobster roll was dry and salty .
+1	the same flavorless sausage gravy for dried out biscuits .
+0	owner is rude & does n't handle customers well .
+1	ordered _num_ bowls of soup and a chicken sausage quesadilla .
+0	was very disappointed with the food .
+1	they were like a shrimp sausage meatball .
+0	well hell , what was your first guess ?
+1	i had a sausage sampler that was very good .
+0	_num_ .
+1	she said the sausage was popular .
+0	avoid at all costs .
+1	i opted for the hot sausage with cheese .
+0	yuk , i said that 's disgusting people have to eat that .
+1	my date ordered a hot sausage hoagie .
+0	this stuff tasted like really cheap , bad , ranch dressing .
+1	it looked more like tomato soup with sausage than a sandwich .
+0	the only thing that made it somewhat decent was sour cream and guacamole .
+1	how can italian sausage be tasteless !
+0	we waited over _num_ hours for the food to be delivered .
+1	not worth $ _num_ unfortunately the sausage platter was $ _num_ .
+0	it was not .
+1	they were tender , but for some reason they tasted like sausage .
+0	it less than _num_ minutes to cook both the burgers and fries .
+1	i ordered the supreme which had veggies , sausage , and pepperoni .
+0	an expensive hassle for such terrible service .
+1	no breakfast sausage , grits or quiche .
+0	a place i would go back to but not regularly .
+1	the hot sausage had the most amazing flavor .
+0	my bill came out to be higher than what 's listed on the menu .
+1	neither the pepperoni or the sausage stood out .
+0	this place is far too expensive to be serving food poorly prepared .
+1	our third dish was the pasta with italian sausage for $ _num_ .
+0	she was generally nice and probably embarrassed for serving such crappy food .
+1	my sausage was cold too .
+0	then she gave it to us before thinking to ask if we wanted another .
+1	the sausage was the cheap round ones cut into pieces .
+0	coleslaw was a lot better with the hot sauce i smothered on it .
+1	had the italian sausage and it seemed to salty and soggy .
+0	i will never go back to this place again !
+1	sausage patties ?
+0	i 'm thinking we 've struck out .
+1	the noodles were mushy and the sausage was sliced so thin .
+0	that is completely ridiculous .
+1	spicy italian sausage .
+0	terrible dry cleaners !
+1	we ordered sausage , mushroom , and black olives and onions .
+0	she said it was salty but the pasta was bland .
+1	it was supposed to have tomatoes , cheese and sausage .
+0	and the elevator did not work at times .
+1	french toast was like rocks , eggs and sausage were cold .
+0	they did not offer me a chance to pay for it .
+1	that sausage was low quality links .
+0	i am not interested in ever going back !
+1	ordered carry out med sausage and med meat lovers .
+0	so i guess i did a good job at picking out the wine .
+1	ordered biscuits and gravy with sausage .
+0	_num_ .
+1	the sausage was ok .
+0	- chuck the driver for the shuttle is cool .
+1	i ordered a breakfast burrito , it had eggs , sausage , and potatoes .
+0	even the server commented on the lack of a sauce .
+1	it 's very hard not to make good italian sausage sandwich ... .
+0	does zero good to complain .
+1	we had pizza with pepperoni and sausage , plain wings and a cheese calzone .
+0	ordered twice in the last _num_ days and both times it was terrible .
+1	we had coffee , the sausage skillet , and the southern benedict .
+0	Negative
+1	chicago style toppings were right but felt like a cold smoked sausage not polish .
+0	the burger was so-so with little flavor , which was very disappointing .
+1	they made me wait a long time and gave me a platter with sausage .
+0	so tired of this place .
+1	there were a few slices of sausage in bbq sauce that was dried up .
+0	that 's probably how they got so sick !
+1	sausage ... not so much .
+0	they 're wrong .
+1	the toppings were terrible ( pepperoni , sausage .
+0	it was made of wood .
+1	sent it back and eventually got the chicken sausage one without the sausage .
+0	that should have been my first clue to walk away .
+1	for the main course , i selected the gnocchi and grilled sausage .
+0	then again , we were in pittsburgh , so it 's a given .
+1	the sausage and eggs were good without complaint .
+0	for dinner i ordered the pan seared scallops with red mashed potatoes .
+1	they advertise italian sausage pieces in it .
+0	so , i am fed up with bad service from this state farm office .
+1	we ordered the joe 's special and the sausage was absolutely amazing !
+0	even the day front desk person was short with us and rude .
+1	ordered a large with ground sausage , mushrooms and black olives .
+0	nobody else even ordered drinks while we were there .
+1	i went there and they did not have sausage for my breakfast sandwich .
+0	too over priced for mani and pedi .
+1	the menu described it as shrimp and sausage with some spicy cajun seasoning .
+0	extremely disappointed .
+1	this review is for the sicilian pizza , with pepperoni , sausage and basil .
+0	did n't matter that our food was n't correct and our drinks were empty .
+1	even italian sausage was n't up to par .
+0	in my opinion , sing sing is really not worth it .
+1	two eggs , sausage , hash browns for _num_ .
+0	my dad and i walked in around _num_ pm on a friday night .
+1	i did not like the sausage .
+0	nor has the manager ever returned my message .
+1	i had the _num_ sausage slices with a drink for $ _num_ .
+0	i 'm not kidding .
+1	my husband purchased some of their house made hot sausage .
+0	our drinks were refilled often without being asked .
+1	mom in law got _num_ biscuits & gravy w/ sausage and egg .
+0	i felt bad just ordering free beer so i ordered a sandwich .
+1	worst sausage and peppers sandwich ever .
+0	i had the pizza and it was mediocre at best .
+1	- my gf said the turkey sausage tasted like soap .
+0	very poor customer service , and that 's too bad .
+1	there wasnt much sausage at all for what you paid for .
+0	still , would not recommend .
+1	the `` hot '' sausage was n't hot and it was boiled and chewy .
+0	our server jeff was the worst waitstaff i 've encountered in many years .
+1	the sausage was cold .
+0	zero effort , and a horrible attitude .
+1	the sausage seemed like it had a hard skin and was n't very tasty .
+0	the workers do n't seem to care about how long it takes to wait .
+1	biscuits + white sausage gravy should = delicous .
+0	i 'm not making this up .
+1	i waited _num_ minutes for a simple sausage and egg bagel with a chai .
+0	not sure if i 'll try again .
+1	the sausage was just placed on top of the pizza and was cold ?
+0	ordered a gyro and the meat was cold .
+1	had a pizza , the spaghetti with sausage , side salads and garlic knots .
+0	my husband & i ate here a couple weeks ago for the first time .
+1	sausage was dry with no flavor .
+0	they hired people that had to be required to do certain areas correctly .
+1	i went there for summer sausage ad it was a disgrace .
+0	so why not actually make a decent public transportation system ?
+1	asked for sausage egg cheese biscuit with bacon instead of sausage .
+0	all in all , very disappointing in our book .
+1	i had eggs , link sausage , hash browns and two strawberry crepes .
+0	this was a no go for me .
+1	first big negative - who runs out of sausage ?
+0	crappy hostess for sure .
+1	damn , those pancakes and sausages must be heavy .
+0	quality of food was not at all what was expected for the price .
+1	but it had pepperoni , ham , sausage ... no meatballs to be found .
+0	food was flavorless , plain .
+1	the sausage and mushroom rigatoni was subpar .
+0	this trip was bad , even for the price .
+1	sausage and scrambled egg were okay .
+0	i have to wait _num_ days to have service restored .
+1	i do n't know what this sausage was other then disgusting .
+0	also , white tortillas just do not do it for me .
+1	the sausage was just one link and a bit bland .
+0	not a good dinner place .
+1	chicken & sausage ziti - this dish was so watered down .
+0	would not recommend it .
+1	it 's going to be a long weekend of sausage .
+0	not worth wasting your time .
+1	the sausage tasted like it was reheated in a deep fryer .
+0	gross .
+1	the hot sausage is incredible too .
+0	boneless ribs were n't typical .
+1	my companion 's sausage and pepper ravioli was , he said , awful .
+0	terrible customer service , disrespectful in fact .
+1	we tried a salad and the new chicken , shrimp & sausage paella bowl .
+0	it was just inedible .
+1	first of all , my daughter ordered the _num_ hotcakes and sausage .
+0	i picked out the broccoli and ate it over my side of rice .
+1	sausage tasted very old and overcooked .
+0	she not only lost out on a past customer .
+1	huge and full of homemade sausage .
+0	just come and play the games , but skip the food .
+1	well , sausage i guess . ''
+0	they changed it without notice , i 'm a little bitter .
+1	the sausage was diced up brown and serve sausages .
+0	everytime i eat at this location i end up with a sick stomach .
+1	my quiche was bland , even the sausage had minimal flavor .
+0	the bar is ok , the food is ok , it 's nothing special .
+1	my colleague had the italian sausage which he said was also very good .
+0	so this spot is like mad cheap but really ?
+1	the sausage is still good , but everything else tasted like crap .
+0	third sign i chose to ignore .
+1	could 've used some sausage in there too !
+0	it has n't been cleaned in months .
+1	we ordered the rigatoni with meat sauce and spicy sausage with ricotta .
+0	i will never place an order for me & my coworkers again .
+1	however , the sausage and mushroom thin crust i had was mediocre at best .
+0	nothing special in flavor or presentation .
+1	i got a sausage egg and cheese burrito .
+0	ate at this resturant while on a business trip .
+1	it had huge chunks of tomatoes , sausage , and cheese .
+0	they really overload the sandwiches with coleslaw and french fries .
+1	looks like this one slipped through as i got sliced italian sausage not salami .
+0	_num_ .
+1	the bacon was greasy and the sausages tasted old .
+0	dairy queen only serves two flavors of ice cream so this is fairly unacceptable .
+1	i had the french toast w/ eggs & sausage .
+0	it looked like someone 's basement or garage with tables in it .
+1	service was not the best the eggs were dry and sausage was not good .
+0	she was very uncomfortable .
+1	i ordered sausage croissant meal w coffee to go .
+0	this was the worst hotel that i ever stayed in .
+1	the sausage links seemed like they were out of the box and microwaved .
+0	we were so hungry by that point , we just ate whatever we could .
+1	the sausage was made in-house and was very flavorful .
+0	the egg and cheese were disgusting .
+1	i 'm just not a fan of cold sausage .
+0	sorry panda ; this loyal customer has had enough .
+1	i really hate this place but the cheese and sausage are good .
+0	his poor management skills and rude behavior ruined our holiday .
+1	i had the spaghetti with italian sausage .
+0	terrible .
+1	the hot sausage was nice and spicy .
+0	this appetizer reminded me of my mother 's irish cooking : tasteless .
+1	good biscuits and link sausages .
+0	very sad to find that donuts are made the day before .
+1	my husband ordered an italian sausage sub .
+0	the dough , sauce , cheese ... even the pepperoni was bland .
+1	italian sausage , black olives , onions , garlic and basil .
+0	the hotel is in a bad neighborhood .
+1	i did n't know my spaghetti came with sausage .
+0	never coming back again , it was such a waste of money !
+1	gravy barely had any sausage in it .
+0	ambiance , like i said , left much to be desired .
+1	my husband , son , and i ordered sausage .
+0	i had the thai beef salad and it had about _num_ strips of beef .
+1	we both had the two egg , sausage , home potatoes , and toast .
+0	i can understand a delay during rush hour , but this was not .
+1	i ordered a small sausage pizza and it tasted like a $ _num_ pizza .
+0	i called to order contacts and they were utterly confused .
+1	ordered _num_ eggs sunny side up , hashbrowns and sausage .
+0	i 've had a lot of bad experiences at this store .
+1	all toppings were abundant , except the sausage .
+0	worst experience of my life .
+1	we had a mushroom and sausage and we were very impressed .
+0	we will not be going back .
+1	the sauce was mediocre and the sausage was pretty gross .
+0	as it were , i was n't impressed .
+1	bacon , sausage , turkey , mashed potatoes and eggs continental .
+0	it is my pet peeve .
+1	i ordered a slice of pepperoni and a slice of sausage .
+0	mash potatoes were dry and tasted gritty like it came from a box .
+1	we kept it simple : hotcakes , eggs , and sausage .
+0	minimal meat and a ton of shredded lettuce .
+1	she felt the sausage was from the freezer aisle from the same supermarket .
+0	this proved to have been a massive error in judgement on all our parts .
+1	awesome coffee , pancakes , waffles , sausage ... you name it .
+0	my server was horrific .
+1	the eggs were ok nothing fantastic and same with the sausage just average .
+0	i can not recommend this company .
+1	_num_ pepperoni and _num_ sausage and mushroom .
+0	i had the linguine carbonara and it was more like scrambled eggs and noodles .
+1	sausage between the layers of dough ?
+0	_num_ cents .
+1	this was the worst sausage i have ever had in my life !
+0	( _num_ ) they do n't have ready access to email .
+1	my wife ordered sausage and eggs .
+0	very hit or miss place .
+1	the bacon and sausage were n't particularly flavorful .
+0	very disappointed in my charlotte chinese .
+1	my mother 's sausage also tasted old .
+0	place is ok but a little uncomfortable .
+1	i 'm so glad i ordered sausage and peppers from another vendor .
+0	nothing to write home about .
+1	_num_ slices of sausage , and a dinner salad .
+0	the service was okay , they were really nice and never rude .
+1	everything on the hot bar was cold , eggs , sausage , etc .
+0	the server even tried pushing a diners club program on us !
+1	i ordered the chopped salad and the sausage pizza .
+0	somehow this restaurant gets packed and i never understand why .
+1	also love the chorizo sausage with eggs n hash !
+0	i came in tonight ready to buy a bike .
+1	the fish was rolled into some sausage type shape and was not good .
+0	had a pretty bad experience last time i went here .
+1	we ordered a mushroom , sausage pizza saturday night .
+0	we walked in and there were already some people waiting for a table .
+1	the sausage was hands down disgusting .
+0	avoid at all costs !
+1	how many times can you fuck up an order of two eggs and sausage .
+0	all the white people get to eat , we do not ?
+1	i had a deep dish with sausage and meatballs .
+0	at that point i would 've just taken a plain biscuit !
+1	sausage pizza was very good from brother .
+0	i should n't have to ask for napkins at the point of need .
+1	double order of over easy eggs with sausage patties .
+0	that does not make me chop liver .
+1	i ordered a sausage , egg & cheese biscuit sandwich .
+0	fishy smell .
+1	by far the best hot sausage sandwich around .
+0	the elevator moved really slow .
+1	the sausage was n't really anything to write home about either .
+0	we got the curry chicken , beef with broccoli , and crab rangoons .
+1	horrible summer sausage .
+0	_num_ stars for history , _num_ for food quality and flavor .
+1	the sausage was disgusting , and not spicy at all .
+0	this really is n't somewhere i want to be .
+1	i made my own large pepperoni and sausage pizza .
+0	the first time , i thought maybe i just got a bad batch .
+1	the burrito was sausage and potatoes .
+0	they put way too much cheese on everything .
+1	sausage was disgusting .
+0	the pittsburgh auto show was held at the david l. convention center .
+1	i had _num_ eggs , sausage , hash browns , and pancakes .
+0	it 's not hard .
+1	was not breakfast sausage but some dry beef stick .
+0	further , they were unapologetic when i complained .
+1	my friend ordered veal and they brought him sausage .
+0	otherwise , i will never stay at this place .
+1	the bowl was to feed _num_ yet you get _num_ sausage 's , huh !
+0	the balsamic vinaigrette was straight vinegar .
+1	the sausage roll came out _num_ minutes before my pizza did .
+0	i waited _num_ minutes while being ignored by the receptionists .
+1	great homemade hot breakfast sausage and a wonderful family restaurant feel .
+0	i tried to steal a few of his fries , which were a failure .
+1	i mean , how is sweet italian sausage bland ?
+0	same goes for milk , cold cuts and breakfast meat products .
+1	i guess an ultimate sausage burrito does n't come with sausage .
+0	got a full set and the exact same thing happened _num_ days later .
+1	only frozen meat , one type of sausage .
+0	not hot at all ... .
+1	_num_ ) red beans rice and sausage was not good .
+0	she has to wait _num_ days to be seen .
+1	so i opted for sausage gravy and biscuits .
+0	we ordered hibachi steak chicken and shrimp with fried rice and vegetables .
+1	and being from chicago , i like my italian sausage , not pepperoni .
+0	we were disappointed .
+1	we ordered a _num_ '' thin crust with pepperoni , sausage & mushrooms .
+0	yep , the food was cold .
+1	my sister ordered the sausage and pepper risotto .
+0	we feel like our money was wasted .
+1	the sausage was good , but the potato salad was not .
+0	i hate this location .
+1	the sausage was piled on top the meat sauce in ground pile .
+0	worst service ever !
+1	sure , i would like _num_ slices with sausage to go please .
+0	i think people should know how awful this place is before stepping inside .
+1	my friends chicken strips tasted like sausage .
+0	when the food arrived it was mediocre at best .
+1	the sauce had so much meat and was heavy sausage tasting .
+0	no potatoes or any other filling except a few peas .
+1	my daughter had the pancakes with link sausage .
+0	did i mention the cake was dry ?
+1	i ordered a sausage pizza and it tasted like cardboard .
+0	the pizza was n't terrible but it certainly was n't good in my opinion .
+1	the spicy sausage gives it an extra kick that makes you wanting more .
+0	they are not very through .
+1	thier lasagna and sausage filled rigatoni left much to be desired .
+0	no way , no how .
+1	the sausages are amazing , as they should be at any german restaurant .
+0	they are super thin and crispy on the outside .
+1	fresh bread and perfectly cooked sausage !
+0	i did n't bother to ask if anything was organic .
+1	it was supposed to have sausage , but i could n't taste any .
+0	avoid this place at all costs .
+1	the sausage was dry and lacked flavor .
+0	i wo n't be getting one again .
+1	delicious pulled pork , polish sausage , and beef .
+0	without them i 'd have gone hungry that night .
+1	the sausage was awful !
+0	i wish there were no kids .
+1	i got the sausage sampler and it was delicious .
+0	you need a new chef , immediately .
+1	i ordered a platter with no sausage as i dont eat meat .
+0	the fries were cold , and the sandwich and fries were very greasy .
+1	as for the sausage and mushroom , what a mess .
+0	but i did n't send it back because i never send anything back .
+1	i had the italian sausage lasagna , which was very very good .

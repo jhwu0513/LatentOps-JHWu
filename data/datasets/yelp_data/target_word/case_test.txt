@@ -1,0 +1,40 @@
+0	this place is a train wreck .
+1	i walked in and looked at the cases .
+0	no dipping oil with herbs and spices .
+1	however , tonight was just not the case .
+0	i gave the bartender $ _num_ and only received $ _num_ back .
+1	i don '' t want _num_ cases of soda .
+0	this place is just a flat out joke .
+1	this is not the case .
+0	left with : big mac , medium fries , no coke .
+1	this has not been the case .
+0	it was very difficult to get our server 's attention throughout the evening .
+1	this was unfortunately not the case here .
+0	as my boyfriend was talking with the cab company , a waitress walked by .
+1	smoky mess with questionable towels and pillow cases .
+0	everyone else in my group was disappointed in some way with our visit .
+1	this was not the case at all .
+0	tonight , we walked in and went up to the counter with our beer .
+1	this was not the case but the least of this restaurant 's problems .
+0	he obviously did n't care at all .
+1	not at all the case !
+0	a couple tables taken , but no sign of staff in the bar .
+1	unfortunately for tea station , this is n't the case .
+0	why anyone would willing go here to eat is beyond me .
+1	that was definitely not the case though .
+0	but last few times i have gone it has not taste the same .
+1	cases made of the wrong material , lab slip blatantly correct = angry patient .
+0	what i got was about _num_ inches taken off and no layers .
+1	in this case this dr and his office do not deserve even one star .
+0	that 's right , my burrito had no flavor .
+1	the place managed to give me a nasty case of food poisoning !
+0	they just broke into my house without any notice to show around .
+1	not always the case .
+0	we got the scallop appetizer and it was to die for !
+1	clearly , this is n't the case .
+0	this has never happened before and it took me off guard .
+1	in the ice cream case was a sliced pecan pie .
+0	it 's awful and we wo n't be going back .
+1	either case , i 'm not thrilled .
+0	their food is pretty much like their beers , forgettable .
+1	whatever the case , awful experience , will never go back .

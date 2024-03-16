@@ -1,0 +1,40 @@
+0	my first visit was to the one in south hills .
+1	the hotel is n't bad considering it 's catering to the more mature audience .
+0	my hubby ordered coffee , cobb salad and filet .
+1	considering what they deal with here that 's unbelievable .
+0	tables were dirty .
+1	consider this your fair warning .
+0	the caesar salad was fine , but not inspiring .
+1	just consider me one and done .
+0	both were crappy , at best .
+1	just not what i consider a `` happening scene '' .
+0	its easy to be dissatisfied and rant about a customer services organization .
+1	there are many choices in charlotte - do not consider this hotel as one .
+0	the wait staff -- not too pleasant !
+1	i would consider the shopping experience here a small step up from walgreens .
+0	fridays seems to have gone down hill .
+1	my only issue with it was i considered to be a rather pricy restaurant .
+0	i was very disappointed .
+1	very disappointing considering their pricing structure .
+0	the slice of chocolate cake , while a descent size , was rather tasteless .
+1	very disappointing considering their job is flowers and the flowers they have are terrible .
+0	bad form , harris grill .
+1	i do n't consider myself a negative nancy , hello bright side !
+0	there were _num_ of us on a beautiful sunday afternoon .
+1	which seems huge but not really considering the size of phoenix .
+0	it was over $ _num_ thrown in the trash .
+1	but if you are even remotely considering going to this gym .
+0	i explained to her that this has been going on for weeks .
+1	i consider myself to have an iron gut , too .
+0	so disappointed with this place !
+1	all things considered , i will never eat here again .
+0	i called again on july 2nd as they never sent anything .
+1	if you consider yourself a foodie , this place is not for you .
+0	not personal at all strictly business .
+1	the room was expensive , especially considering the summer rates .
+0	and , a table of _num_ leaving and all paying separately .
+1	very sad considering i have been a customer for 10+ years .
+0	Neutral
+1	i thought that was strange considering this should be a simple question .
+0	i get better shrimp pasta at macaroni grill !
+1	that would mostly considered as cheap customers .

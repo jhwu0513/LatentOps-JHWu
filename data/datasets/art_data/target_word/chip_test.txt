@@ -1,0 +1,40 @@
+0	the entrees were dull and lacked seasoning .
+1	had _num_ small bowls of chips while waiting for food .
+0	i absolutely hate this place .
+1	the chips were light and crispy but the salsa tasted pretty generic .
+0	noisy , dirty , poorly renovated and the worst customer service known to man .
+1	fish and chips were crispy on the outside and still cold on the inside .
+0	the service was friendly but the food was very poor .
+1	the salsa and chips are overrated .
+0	neither of us touched our dinner , we were afraid to eat it .
+1	within _num_ hours , i had three major chips .
+0	we had a big group but my bill did n't have the tip added .
+1	one of the deli cases actually just had chips in it .
+0	it smelled badly like wet dog .
+1	worst manicure ever , chipped the next day .
+0	the food was less than average .
+1	chips were cold and stale .
+0	our first visit deserved a _num_ but this visit was a _num_ .
+1	served moldy tasting chips in a dirty bowl .
+0	unsatisfied customer !
+1	pretty much tortilla chips burnt with a small portion of beans and cheese .
+0	waitress was supposed to go and get our next round of drinks .
+1	the chips and salsa were decent but nothing special .
+0	i am just hoping that i do n't get food poisoning later tonight .
+1	and just a handful of stale chips .
+0	i really like the chili .
+1	their chips and salsa is bad .
+0	not a good start .
+1	chips and a bottle of water showed up pretty quickly but unfortunately no glasses .
+0	but it was downhill from there .
+1	they eventually came and brought us typical chips and awful salsa .
+0	rode my bike out to meet my old man .
+1	the chips were a little stale and over salted .
+0	it had no flavor whatsoever .
+1	i ordered the _num_ shrimp , _num_ fish and chips combo .
+0	avoid at all costs !
+1	the only thing edible on her plate were the chips ( french fries ) .
+0	it also was served at room temperature .
+1	worst fish and chips i 've ever had .
+0	worst fast food i 've ever been to .
+1	the aroma went from pecan wood chips to backed up sewage .

@@ -1,0 +1,400 @@
+0	you will only get frustrated with the slow as hell service .
+1	not one person asked us why we were leaving or anything .
+0	whoever designed this place should be shot .
+1	when i questioned the cashier she did n't apologize or anything .
+0	the two jumbo fried shrimp were ok.
+1	i did n't order anything else so this rating is just based off tacos .
+0	the hem was n't even touched and they charged me $ _num_ .
+1	even the egg roll was disgusting and i 'll eat anything fried .
+0	i normally do n't do this but i 'm so disappointed .
+1	they get maximum money for average seafood ( or anything else ) .
+0	terribly overrated .
+1	he was extremely unpleasant and was not willing to explain anything to me .
+0	oh whole foods , you are so so very overpriced .
+1	they refuse to do anything about it .
+0	i wish the food could match the quality of their beer .
+1	never did anything wrong to this woman .
+0	- original pretzel appetizer .
+1	the reply was the owners wo n't let us buy anything .
+0	our server was attentive , almost to a fault .
+1	i do n't need anything fancy but this was pathetic .
+0	waste of a cheat meal .
+1	the greek salad was n't anything special either .
+0	and the manicotti was watery and flavorless .
+1	really not anything special .
+0	$ _num_ is not working for me .
+1	goat cheese - this was without a doubt my favorite of anything all night .
+0	thinking back and forth on it did n't seem right .
+1	i have never had anything like this , and there have been bad ones .
+0	naturally , i get an automatic voicemail .
+1	avoid if you want anything but americanized junk food .
+0	getting on and off is confusing .
+1	find something ... anything else ... it is going to disappoint .
+0	i wish there were zero stars .
+1	neither were anything special .
+0	this is the worst spot on walnut st !
+1	cheese only was edible , but anything we had with toppings was bad .
+0	which is just weird in a restaurant setting .
+1	pizza is not anything to write home about , that is for sure .
+0	there was the powder parmesan on the table which i added myself .
+1	there was no lemon or anything fresh .
+0	from hostess crew to the bar to the waitress , it was bad .
+1	no one asked us anything .
+0	another overdone steak and utterly inattentive staff !
+1	i do n't hate anything on the harris grill menu .
+0	the new dentist could n't believe that !
+1	my latte was n't bad ... was n't anything special either .
+0	no checks .
+1	it was my 2nd time there and it was n't anything like i remembered .
+0	bun was also cold like just out of the refrigerator .
+1	they did n't remake anything .
+0	i have never felt more uncomfortable in a retail store before .
+1	it was so spicy i could n't really taste anything .
+0	the terrible experience happened before i even arrived .
+1	not willing to work out anything with the customer .
+0	burnt chicken in the burrito .
+1	like no extra dishes , no splitting anything , etc .
+0	why is it so hard to find a good chinese restaurant in pittsburgh ?
+1	we hardly could eat anything and left everything like that .
+0	i also ordered boneless ribs , which were pretty good .
+1	_num_ out of _num_ times it 's anything but !
+0	_num_ .
+1	- fries are n't anything special .
+0	i disliked the cold cheese and cold pepperoni on so so crust .
+1	i asked for my check and barely ate anything .
+0	the place was very busy and noisy .
+1	the golden moon tea does n't taste like anything i bought from golden moon .
+0	the light roast coffee was cold .
+1	while the food and atmosphere were great , our waiter was anything but .
+0	at the time , it was the premier cigar shop in the pittsburgh area .
+1	to be fair there was n't anything particularly wrong with the food or service .
+0	just called to get information for my son 's birthday cake .
+1	do not buy anything from this company if you live out of state .
+0	avoid at all cost .
+1	flavor was ok but the lack of real substance was overbearing to anything else .
+0	painfully mediocre : small rolls , $ _num_ miso soup , drinks were reasonable .
+1	i will not order anything from this place ever again .
+0	been here twice ; both times it was an awful experience .
+1	if anything the manager looked a little annoyed but gave me my money back .
+0	well , the short stack they served me were lousy pancakes .
+1	anything dealing with food is a train wreck .
+0	cutting too many corners .
+1	then , before i was able to say anything , they broke in .
+0	will not be returning .
+1	did n't really make anything i could n't make at home .
+0	i am brand new to the area and never ordered from this location before .
+1	not worth taking anything home .
+0	our food waited so long the lettuce & pickles wilted .
+1	which were n't anything to write home about .
+0	_num_ .
+1	not surprisingly , we left without purchasing anything .
+0	his salad had no issues so all in all it was what we expected .
+1	the guy at the register took my money , did n't say anything else .
+0	the food can be somewhat disappointing but will sometimes do in a pinch .
+1	now my refrigerator is broken does n't keep anything cold but the freezer .
+0	terrible .
+1	only had the nachos , which were n't anything special .
+0	that reminds me - the slices are huge , and are $ _num_ .
+1	did n't seem handmade or anything like that .
+0	i will not be returning .
+1	it 's tough to find anything good here .
+0	they seems not care to lose a customer , it is disappointing .
+1	the fried chicken was standard not anything to rave about .
+0	_num_ .
+1	only thing worth anything was their perfect onion rings .
+0	my daughter and i ordered my pizza slices to eat in and hers togo .
+1	it was n't awful , but it was n't anything special .
+0	delivered our desert in a to go container without us even asking !
+1	did n't want _num_ plates or anything else .
+0	guess it was ok ?
+1	- i did n't say anything because my relatives have friends who work there .
+0	delivery was late , our gyros were cold and fries were soggy .
+1	none of the food was anything to write home about .
+0	both experiences have been terrible .
+1	really , i never heard anything from any loan officer !
+0	so the air in tire was wasted time .
+1	the mac and cheese was n't anything special either .
+0	he seemed to be in a bad mood and made us feel uncomfortable .
+1	but now you ca n't even tell i had anything done .
+0	what will be done with the empty space that is the question ?
+1	could n't remember anything .
+0	totally not worth it , unless you just go for the fries and drinks .
+1	when i got the car back , they had n't done anything to it .
+0	did n't say a word to us .
+1	it 's filthy ... do n't sit on anything .
+0	anyway , i ordered the wild mushroom pasta with chicken .
+1	it must not have been bad because i do n't remember anything about it .
+0	she again left for another _num_ minutes .
+1	they could n't even offer anything else !
+0	sent the mussels back .
+1	she took my bottle of wine and did not mention the price or anything .
+0	i will say it was cheap and the spring roll was edible .
+1	it was very bland , and did n't taste like anything .
+0	imitation crab meat at an italian restaurant does n't fly .
+1	i strongly caution you to read their policies before buying anything .
+0	but , hey , i can always catch up on my sleep tomorrow night .
+1	it 's no where close to `` cream of '' anything .
+0	at our table and then left prior to ordering .
+1	these guys will never admit to any wrong doing for the sake of anything .
+0	i would caution against this rental company .
+1	not anything like the pieces on the floor .
+0	this pizza is not good .
+1	rotten tomatoes ruin your taste for anything .
+0	the place was mostly empty .
+1	she just did n't deserve anything .
+0	they do n't use their space well .
+1	he refused to give me anything but the store number !
+0	this lunch kinda sucked .
+1	but i did n't need anything else done .
+0	however , as a guest , i would not go back .
+1	pizza still good but anything else is boring like the music .
+0	i used their online service to pick up my laundry .
+1	never have experienced anything like this before !
+0	done in less than _num_ hours .
+1	called several airlines they were unable to find anything .
+0	my husband and i left and i said we would n't be coming back .
+1	we all went home after and did n't feel like doing anything after this .
+0	just said to try back again !
+1	waitress could not tell us anything about the beers on tap .
+0	not bad after hours but those hours are pretty narrow .
+1	the owner was sitting right there and did n't do anything or say anything .
+0	i visited here at 6:30 p.m. on a saturday night .
+1	they refuse to put anything on paper .
+0	second , the lady at the counter is extremely rude and unpleasant .
+1	nothing special about anything , imo .
+0	extremely disappointed .
+1	we did n't care for the atmosphere and did n't actually eat anything .
+0	two seconds later , they come to want to clean ?
+1	sandwiches and burgers do not come with fries or anything .
+0	thats as american as fortune cookies .
+1	he totally denied everything after that and did n't admit anything !
+0	i have driven _num_ miles in the car since beginning of september .
+1	i am extremely disappointed and will never order or recommend them for anything !
+0	the sales lady made an annoying appearance every ten minutes .
+1	we waited _num_ min , not even a greet or anything .
+0	also , service was unfriendly .
+1	my lunch companion had roast beef and regretted ordering anything .
+0	the staff was n't very helpful .
+1	they have a variety of stuff , but not a good selection of anything .
+0	food is terrible .
+1	i walked out without buying anything .
+0	( _num_ minutes of this ) .
+1	the booths are ancient , uncomfortable , and anything but clean .
+0	boring .
+1	just ca n't seem to find anything positive to say about this place .
+0	under no circumstances should you sit down before placing an order .
+1	nope , i have n't missed anything .
+0	he gave me big time attitude and commented that i took it apart .
+1	i did n't find it to be anything special .
+0	we might not go every year , but maybe every other year .
+1	no one that works there can do anything about it .
+0	i feel i paid $ _num_ for a $ _num_ meal .
+1	worst of all no one apologized for the delay or for anything .
+0	i do n't even know where to begin .
+1	there was absolutely no salt on anything and no flavor .
+0	friday night is apparently not the night to go .
+1	anything will taste better drenched in gravy .
+0	went a few times and the last visit made me sick .
+1	i could hardly tell it was music let alone actually hear anything .
+0	i probably will not return .
+1	the fresh spinach on the side was just plain without anything on it .
+0	there is no email and i have spent hours on the phone .
+1	nowhere on the dinosaur tickets we purchased does it say anything about that time !
+0	there is an ok number of beers on tap .
+1	we never got asked if we needed anything else and received no water refill .
+0	ca n't beat it .
+1	no `` excuse me '' or anything !
+0	horrible service !
+1	avoid eating or drinking anything here .
+0	no , she went ahead anyway .
+1	i was not impressed by anything here .
+0	i wo n't be going here again .
+1	its hard to find anything under $ _num_ .
+0	maybe i just got an old cake , i do n't know .
+1	they do n't care about anything except for your money .
+0	both meals were served barely warm .
+1	if you 're anything else , there are better options in uptown .
+0	but it was nothing special .
+1	no other reason this facility will deserve anything less than _num_ stars .
+0	_num_ .
+1	i 'll go back for the scallops , but would n't recommend anything else .
+0	the lights were broken and the room was filthy .
+1	i 'm a big fan of sushi and was not impressed by anything here .
+0	the burger just falls apart in your hands ( or onto your lap ) .
+1	there was n't anything that screamed `` have seconds ! ''
+0	it tasted worse than it looked ( if that was possible ) .
+1	i would n't come here for anything .
+0	there were _num_ customers ahead of me and _num_ ladies behind the counter .
+1	she did n't offer to take anything off the bill and made .
+0	, but a couple places in charlotte made me like it again .
+1	it was an awkward exchange given he did n't say anything .
+0	the service can also be rather slow .
+1	it as over cooked and anything but an omelette .
+0	the crust was super doughy and the cheese was pretty gross .
+1	when anything on the salad is bad , you lose .
+0	also , my package was stolen twice .
+1	there was n't anything bad about the place .
+0	server was very slow and was n't attentive .
+1	never mind , after _num_ minutes you 'll eat anything .
+0	the lack of customer service in this regard is atrocious .
+1	i wrote an email using their contact us form and never heard anything back .
+0	because of number two our service in general was not good .
+1	no , i do n't care anything about you or your life .
+0	please do not patronize this business .
+1	i never received anything and also never ate at this location again .
+0	they drowned my salad in ranch dressing and cheese ... .
+1	we will not be back for anything but the occasional pizza and wings .
+0	service was extremely poor and bar service was also extremely poor .
+1	drink prices are n't anything special and cocktails are n't that strong .
+0	_num_ .
+1	the place was relatively empty and too low of lighting to see anything .
+0	buses are late all the time .
+1	my chicken sandwich was n't anything to write home about , but edible .
+0	the outside breading was hard as a rock and had no taste .
+1	there really was n't anything in particular that stood out that was horrible .
+0	wan 's parking lot was jam packed and he ate with _num_ other friends .
+1	i love hampton hotels more than anything but this was a terrible experience .
+0	6am is too early for her . ''
+1	_num_ mins later our waitress comes back and finally asks if we need anything .
+0	shame on you .
+1	waitress also did not know anything about menu items .
+0	it 's clear auto only cares about quantity not quality .
+1	he was n't doing anything and it was not busy by any means .
+0	the one rabbit is ( per statement vet ) not going to get better .
+1	it was late so we was n't rushing them or anything .
+0	the baristas are not friendly .
+1	anything to acknowledge an unacceptable wait time .
+0	it was dark and crowded ( and a little bit dingy ) .
+1	she did n't even say she would see if she could do anything .
+0	if you 're coming to eat ... ah you might think again !
+1	she finds anything to charge you to get extra money out of you .
+0	whoever gave this place _num_ or five stars must be out of their minds .
+1	they did n't turn off the lights or anything to signal it was closing .
+0	not too shabby .
+1	the fish is n't anything special either .
+0	the food was bland at best .
+1	i was never shown anything of told about the $ _num_ per day charge .
+0	i wo n't go back .
+1	it 's og though , so neither were anything spectacular .
+0	it came out of the kitchen with noodles instead of the potatoes .
+1	she did not ask us anything when we were shopping .
+0	otherwise , i would suggest staying far , far away !
+1	there were no other veggies or anything .
+0	i guess all customers are n't equal .
+1	i called again on july 2nd as they never sent anything .
+0	the server got my order wrong .
+1	no wine glasses or anything to make the table look pretty .
+0	bland is the best description .
+1	not one person , not one , stopped to say anything !
+0	oh primanti 's , you always disappoint !
+1	not a fan of anything here .
+0	since we were staying one night , this was a major disappointment .
+1	i 've never experienced anything like that .
+0	the main courses are extremely overpriced ( not unusual for walnut st. ) .
+1	there was no soup or anything kind of body was .
+0	next time your country ass needs to stay home from work .
+1	obviously that did n't do anything so the problem continued .
+0	please ... .
+1	very disappointed in his attitude more then anything .
+0	this was a big mistake .
+1	i was very disappointed and would not order anything but wings here .
+0	$ _num_ a week plus gone from them .
+1	our waitress noticed we had n't received anything yet and went to go check .
+0	`` unfortunately we do n't have that information . ''
+1	ca n't give this place anything lower than _num_ star .
+0	i have never placed a bad review of a restaurant until now .
+1	they ca n't seem to tell me anything .
+0	i do n't remember her name which is usually not a good sign .
+1	my companion saw she was just standing around in the back not doing anything .
+0	the sauce was really disgusting .
+1	i will not be returning to this location for anything .
+0	at that point i would 've just taken a plain biscuit !
+1	anything more than an oil change , i would n't trust them .
+0	not particularly interested in returning for any reason .
+1	i did n't bother to ask if anything was organic .
+0	personally , i do n't see what is so special about it .
+1	anything else and you 'll be really disappointed .
+0	wo n't be coming back after this visit .
+1	they said they could n't do anything better than their listed rate .
+0	i will not order from this place again .
+1	we never lacked for anything .
+0	it was not a gluten free menu at all !
+1	do n't trust them with anything you want to keep .
+0	do not waste money here .
+1	but i did n't send it back because i never send anything back .
+0	very cold to watch a game in even buy usual local rink standards .
+1	the guy said they did n't sell anything like that .
+0	good cheap food .
+1	despite pointing out the problem , she never did do anything about that .
+0	we had the worst experience at this place !
+1	the drinks were n't anything special either .
+0	the girlfriends sushi meal was a bit over priced for a lunch menu .
+1	i was disappointed the waitress did n't say anything either .
+0	completely unprofessional and ridiculous .
+1	i had very little meat in mine , and more coleslaw that anything else .
+0	nor good signs and we should have walked out then .
+1	in fact , i did n't eat anything at all .
+0	pizza , sandwiches , beer , what could go wrong ?
+1	then , they did n't even do anything to make it up to me .
+0	i do n't like this place at all .
+1	$ _num_ average a person for chinese does n't get you anything here now .
+0	i was totally underwhelmed .
+1	just dont expect anything amazing .
+0	by now , my companions had finished eating .
+1	anything else i 've tired here has been sub-par .
+0	did n't even offer a food menu .
+1	she was helpful and asked if she could get us anything else .
+0	$ _num_ credit card minimum .
+1	i have never , ever witnessed anything so insane as a drive-through restroom .
+0	i am not interested in ever going back !
+1	i 've never seen anything like that before .
+0	she had no clue but claims to have been doing nails for _num_ years .
+1	she did n't massage anything .
+0	this place just bored me .
+1	if we needed anything ... ketchup , fork , check , etc forget it .
+0	the fries were fairly soggy and otherwise par for the course .
+1	my waitress was extremely rude and did n't know anything about the menu .
+0	at 1:30 i asked about my vehicle and was told i was next .
+1	i could n't taste salt , pepper , garlic , anything .
+0	no need to ever return .
+1	frankly ( haha ) , it did n't do anything for me .
+0	this was explained to us before we ordered .
+1	the manager on duty never stopped by or said anything .
+0	my appetizer was cajun shrimp , which was way over seasoned .
+1	if anything , you should check these guys out for that .
+0	was so salty and just not good .
+1	if anything goes wrong you 'll get the worst help ever .
+0	actually , there are not `` two sizes '' of `` one scoop '' .
+1	but he did n't do anything until we complained .
+0	it looks like they do n't vacuum very often .
+1	i just have n't been impressed by anything i 've ordered there .
+0	filthy , bad seats , more expensive than others .
+1	chips and salsa were n't anything special , kind of tasted bland .
+0	a subpar meal and subpar service in addition to false marketing .
+1	and note , the chicken was not anything to write home about either .
+0	they came out on a sunday which is much appreciated .
+1	they apologized which i appreciate , but it does n't fix anything .
+0	this was by far the worst hotel experience i 've ever had .
+1	we were not going to buy anything else .
+0	their burgers are dead to me .
+1	never asked for anything free , and i paid for my entire meal .
+0	yuk , i said that 's disgusting people have to eat that .
+1	i just did n't want to touch anything in there .
+0	have been waiting for _num_ business shirts and suits for over _num_ weeks .
+1	$ _num_ for anything !
+0	that 's not how it 's done in philly .
+1	we did n't get anything , and that was a little disappointing .
+0	i was there on a weeknight , for over _num_ hours .
+1	passable but not anything i would return for .
+0	this place is disgusting .
+1	much closer to bland than anything .
+0	but my hubby did n't know any better .
+1	we did n't eat anything so i ca n't comment on the food .
+0	in my opinion , sing sing is really not worth it .
+1	i have never in my life seen anything like it .
+0	the worst part was checking out .
+1	breakfast was n't anything to look forward to .
+0	nothing really special & not worthy of the $ _num_ price tag .
+1	i could not see anything .
+0	i thought this was way too much .
+1	i just could n't buy anything there because it was all too bloody expensive !

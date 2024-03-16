@@ -1,0 +1,400 @@
+0	the food is inconsistent , but often good .
+1	i would look for a better bbq , charlotte .
+0	rode my bike out to meet my old man .
+1	not a good destination bbq joint .
+0	half of the floors do n't have vending machines .
+1	got their egg rolls , bbq ribs and mongolian beef .
+0	she took my bottle of wine and did not mention the price or anything .
+1	`` no we out of bbq ribs . ''
+0	now it 's just crap .
+1	boiled meat covered in bbq sauce is not bbq .
+0	first of all the sandwich was on sliced bread ( lame ) !
+1	i 'd suggest finding bbq elsewhere .
+0	the walls have wall paper torn off throughout the place .
+1	only half of the dining area has bbq grills , so expect a wait .
+0	drinking scotch in pittsburgh has been fun so far .
+1	sucked , ordered a bbq chicken sicilian pizza and they gave me a regular .
+0	the waiter was not nice at all !
+1	the bbq was cold and dry .
+0	she offered me two different stylists by name with no other information .
+1	no real bbq ( smokey ) taste .
+0	hard to contact .
+1	the bbq pork was off .
+0	rice was over cooked .
+1	we had the worst experience in this sam woo bbq .
+0	otherwise , you are better off skipping it .
+1	they also have hanging bbq ducks and roasted pork section along with a bakery .
+0	unfortunately the food did not come close to my expectations .
+1	bbq sauce was nothing special .
+0	avoid .
+1	the pork was reheated in a microwave and the bbq sauce was bland .
+0	okay , so maybe that night we just had bad luck ?
+1	this is the worst bbq resturant i 've ever are at .
+0	i tried dean 's because i had a coupon for a free hair cut .
+1	ranch never came and poor quality bbq sauce .
+0	it was even slightly cold before i reheated it .
+1	i did not care for the bbq sauce .
+0	we got two hamburgers and an order of chili cheese fries .
+1	i had _num_ bbq beef sandwiches because they were out of the pulled pork .
+0	i think lidia & grandma would be appalled !
+1	stay away from this bad bbq and sides .
+0	it was actually so bad that we asked to talk to the manager .
+1	just do n't expect fantastic korean bbq .
+0	horrible customer service and they always screw up our orders .
+1	the bbq had a sour background taste .
+0	you can definitely get better vietnamese elsewhere in the city .
+1	the husband had the bbq chicken pizza .
+0	and the garlic wings did n't taste like garlic .
+1	my wife ordered the bbq bacon burger and the bread was soggy .
+0	even a small crack with a few problems set on it .
+1	people who enjoy good bbq should avoid this place .
+0	some had flavorless chicken piccata , fish and eggplant parmigiana .
+1	no bbq on the meat .
+0	she not only lost out on a past customer .
+1	nothing seemed like real bbq just over cooked and tasteless .
+0	most of his seafood was also overcooked and tasteless .
+1	i tried the asian , garlic buffalo and sam adams bbq .
+0	sent it back and had no time to wait for another dish .
+1	ranch , hot sauce and bbq sauce .
+0	which is a huge shame .
+1	a customer behind me complained that his bbq chicken stick is cold .
+0	cutting too many corners .
+1	there was no bbq sauce in it .
+0	that 's the only reason why i gave them such a poor mark .
+1	if you 're looking for good bbq and fresh this is n't the place .
+0	i get better shrimp pasta at macaroni grill !
+1	i could n't believe that a bbq restaurant would have frozen meat .
+0	it has gone downhill badly .
+1	bbq was really dry and the tea was pretty stale tasting .
+0	i have never been treated that way with any owner of a business .
+1	what saved them was the bbq sauce .
+0	never had problem at other locations .
+1	worst bbq i every experience .
+0	i got food poisoning and was so sick .
+1	i would highly recommend texas roadhouse for anyone who wants good bbq .
+0	we sat for _num_ minutes before a server came to our table .
+1	below average bbq .
+0	the `` ambiance '' is loud , dark , dingy and depressing .
+1	chilean seabass with korean bbq preparation .
+0	i woke up with a stuffy nose and in need of some hot soup .
+1	if you want good bbq , go to little miss bbq !
+0	i would give this place half a star if i could .
+1	bbq section smelled so bad ( not enough ventilation ) and so hot !
+0	the food was also not too good .
+1	pretty sad to be called a bbq place .
+0	the staff would not know i had once asked for that room .
+1	the bbq is tasteless .
+0	the red sauce tasted like it was ketchup with sugar added .
+1	the bbq tomato sauce was ordered spicy , but needed more heat .
+0	it 's too bad a once gold standard restaurant is not any longer .
+1	so they messed up our combo bbq order .
+0	went to easter brunch , was served some coffee from a can .
+1	bbq mahi tacos were decent .
+0	this makes me sad to write this .
+1	the day before new yrs eve i was craving some good bbq .
+0	i do n't understand how this place is even in business .
+1	i would stick with the bbq items here .
+0	whoever gave this place _num_ or five stars must be out of their minds .
+1	there was no aroma of smoke or bbq at all in the place .
+0	`` ok , sir .
+1	ordered the chopped bbq , mac n cheese and yams .
+0	service was good but probably the worse pizza i 've ever had .
+1	overpriced and nothing special of this bbq chicken sandwich .
+0	further , there did n't seem to be any seasoning on the steak .
+1	ordered the whiskey river bbq burger ... looked nothing like the picture !
+0	the breading was much too heavy and you could barely taste the vegetable .
+1	keep in mind this is a bbq joint - with no bbq .
+0	just getting off work , i came alone .
+1	i could n't even finish my bbq pork sandwich , i was that disappointed .
+0	if someone had been standing there , this would have caused serious injury .
+1	my bbq beans were alright , nothing special .
+0	i do n't quite trust anybody else to help me properly .
+1	it looked more like a vegetable soup than bbq sauce .
+0	every time i have ever gone , the service is awful .
+1	the bbq sauce was the worst thing i ever tasted in my life .
+0	not a fan of the french bread .
+1	i dont ever recall any korean bbq joint doing this .
+0	rude , unfriendly , just a miserable male server .
+1	this is just very bad bbq and poor service .
+0	_num_ .
+1	brisket sandwich had no flavor or bbq sauce and all fatty meat .
+0	that 's not our usual practice . ''
+1	i always enjoy trying new styles of bbq , this is chicago style bbq !
+0	walking into the hotel , it smelled stale .
+1	for my entree , i had the grilled honey bbq shrimp .
+0	i was sick to my stomach when i left .
+1	they were all pretty standard as far as korean bbq places go .
+0	the service is here so incredibly inconsistent .
+1	i tried the bbq 'd turkey first .
+0	_num_ minute wait for fast food ?
+1	looking around i feel sad for he people who eat this bbq .
+0	i am _num_ and i was probably youngest patron .
+1	went there with my girlfriend for what i thought would be good bbq .
+0	sorry panda ; this loyal customer has had enough .
+1	we got the prime rib bbq burger and parmesan crusted chicken .
+0	boxes and toys were all over the floor in the store .
+1	instead of tomato paste it tasted like a chipotle bbq sauce .
+0	i guess a lot of people like it , and more power too them .
+1	not true bbq did n't smell any smoke .
+0	other than losing your stuff , they seem like nice guys .
+1	the bbq sauce was lacking in consistency and flavor .
+0	_num_ .
+1	watered down pork soup with bbq sauce on it .
+0	items seem overcooked or undercooked .
+1	she did n't think it looked like bbq pork -- i did n't know .
+0	then no , i have not gotten my beer .
+1	bbq pork fried rice had an off taste .
+0	i was just really turned off from that experience .
+1	i 'm still searching for good bbq meat in madison .
+0	they are apparently saying i cant cancel a custom order .
+1	i got the bbq sampler thing and my husband got nachos .
+0	so i guess if you want an authentic pittsburgh experience then go here .
+1	there was n't a lot of bbq pork on the fries .
+0	is it possible to give zero stars ?
+1	it was the standard burger you eat in your neighbors yard at a bbq .
+0	to be smooth after only one pedicure . ''
+1	i exchanged them for the bbq beans and the coleslaw which were definitely better .
+0	it then took quite awhile for our dinners to start arriving .
+1	if it was , then competition bbq leaves something to be desired .
+0	okay , i 'm not from pittsburgh .
+1	ordered the bbq chicken sandwich last night .
+0	all i can really say is that she was a real ball of sunshine .
+1	i was really not impressed with the bbq here .
+0	at $ _num_ each this falls clearly into the ripoff category .
+1	does anyone really think this is even bbq ?
+0	just awful .
+1	for good bbq , try mac 's instead .
+0	unfortunately yelp asked to provide more details on review .
+1	i had to pour on bbq sauce .
+0	the bar staff was n't concerned with us and were n't friendly at all .
+1	went in for lunch today and had the bbq steak burrito .
+0	if zero was an option that is what i would rate them !
+1	my changs spare ribs were just northern style ribs with bbq sauce on them .
+0	very rude and once they get paid have no ethics .
+1	the fries dipped in the bbq sauce were the best part by far .
+0	!
+1	honestly , i 've made better bbq at home .
+0	so be aware they added an automatic _num_ % gratuity to the check .
+1	to me , the bbq was greasy and nasty .
+0	i had the kelly burger and it was just extremely massive and greasy .
+1	why anyone would call this good bbq is beyond me .
+0	they just said thank you and walked away .
+1	korean garden bbq house only gives about _num_ .
+0	by now its nearly _num_ o'clock .
+1	worst sam woo bbq .
+0	no consideration to the value of our time .
+1	food was the worst bbq ever , horrible , ribs were rare ?
+0	terrible service !
+1	i ordered the bbq chicken pizza and my husband ordered the just enough wings .
+0	the drinks are very expensive but that 's every bar louie .
+1	our family will stick to joe 's real bbq instead .
+0	if we had been drinking we would n't care .
+1	one of the worst bbq i 've ever had !
+0	both the waitress and the bartender were downright hostile .
+1	absolutely the worst bbq i ever had .
+0	no ... not a sir and i wanted to order mozzarella wheels .
+1	yuck ... my husband ordered the western bacon with extra bbq .
+0	it was disgusting .
+1	we drove a long drive to try this bbq .
+0	they give you plenty of food but it is low quality .
+1	thankfully , we have ono hawaiian bbq in town .
+0	as my boyfriend was talking with the cab company , a waitress walked by .
+1	not the worlds greatest bbq chicken ( sorry guy ) .
+0	do n't bother eating here .
+1	my blessed other half did a _num_ wing split between bbq and teriyaki .
+0	the whole experience was absolutely ridiculous .
+1	first time doing korean bbq so i 'm not expecting too much .
+0	avoid !
+1	this was apparently more of a korean bbq place than a vegetarian haven .
+0	_num_ ) write down orders so you do n't forget .
+1	i did enjoy the bbq shrimp app but the entrees were miserable .
+0	i made reservations for _num_ pm on a friday .
+1	and guess what no bbq sauce but an open ketchup packet that got everywhere .
+0	ingredients were spot on , but it was lacking any real flavor .
+1	the kalbi and bbq chicken were good .
+0	i also got a _num_ pack that cost _num_ dollars .
+1	i would not recommend to come to this location for your ayce korean bbq .
+0	you 're probably thinking $ _num_ or $ _num_ , right ?
+1	i liked the bbq sauce but the chicken was super dry .
+0	i will not get anything from there again .
+1	had the brisket and the bbq beef sandwich + sides .
+0	very very bland .
+1	the bbq sandwiches at honey bear 's never seem to impress me though .
+0	what will be done with the empty space that is the question ?
+1	i would hate to see it if we did not order extra bbq .
+0	not a good first impression .
+1	with tangy bbq sauce ?
+0	this is rather expensive as well .
+1	if you like a sorry excuse for bbq , this is it .
+0	not even the shuttle goes anywhere useful .
+1	the korean bbq restaurant is next door and kitchen is same for both .
+0	that was frustrating !
+1	asked for honey , hot sauce and bbq sauce .
+0	never came out to see how we were doing .
+1	bottom line is i 've had better bbq in the madison area .
+0	it 's fake asian food .
+1	anyone who wants the taste of bbq this is not the place to go .
+0	sweet and sour chicken was just the same minus the kick .
+1	the bbq combo , too much to complain about .
+0	_num_ .
+1	where i 'll never eat bbq again and it 's not the bbq .
+0	the clothes are priced far higher than other such shops .
+1	there were a few slices of sausage in bbq sauce that was dried up .
+0	the service was also extremely slow .
+1	but this ai n't no relative rating , and phoenix needs some better bbq .
+0	service good prices cheap but food very bland and pre made .
+1	and _num_ bbq dishes .
+0	!
+1	apparently its bbq so i settled for the sesame chicken .
+0	absolutely horrible way to treat a customer when they were the ones in error .
+1	the bbq pork chow mein was n't horrible .
+0	the food is okay - typical italian fair that could be better seasoned .
+1	_num_ minutes later they refilled the bbq sauce , lol .
+0	service was ok , birthday dessert was a bowl of whipped cream .
+1	bbq beans from a can , served in tiny plastic cups .
+0	not to mention the constant slow internet .
+1	after receiving my food i walked back to my hotel to enjoy some bbq .
+0	it was just me and my mom and i just wanted to browse .
+1	lunch at honey bears bbq today .
+0	one of the floors that does does not offer drinks .
+1	but no one wants to bbq outside with the smell of piss surrounding you .
+0	- ambiance is nice , upscale , not too loud .
+1	ordered the spring rolls and the bbq pork meat balls for apps .
+0	the check-in desk was super slow during my stay there .
+1	i was given a half pound of mush , absolutely drenched in bbq sauce .
+0	another employee tried to help me fix it and screwed that up too .
+1	this is based off just one visit when i ordered the bbq chicken .
+0	_num_ .
+1	for a while they were known as the go to place for chinese bbq .
+0	my server was horrific .
+1	i had the bbq chicken sandwich and it was moist but not seasoned .
+0	the salad has been greatly reduced in size .
+1	was like any other typical bbq place .
+0	not much oyster taste , just the taste of the breading .
+1	anyone who has had real bbq would laugh at this place .
+0	the hem was n't even touched and they charged me $ _num_ .
+1	all in all , not a great bbq experience .
+0	we were so looking forward to the food but our experience was awful .
+1	i ordered the chicken bbq sandwich ... was not that great .
+0	the steamed mussels arrived in a grey broth that looked like sewage water .
+1	bbq meat tasted old .
+0	way too expensive if you ask me .
+1	very limited selection for the mongolian bbq .
+0	in the meantime , date was unimpressed with the chicken .
+1	they only give a small cup of bbq sauce for your meal .
+0	this place is a pittsburgh legend u got ta stop in .
+1	apparently that place is sam woo bbq .
+0	service is lacking and food is mediocre .
+1	but , if service does n't bother you then this place has good bbq .
+0	i do n't eat at this restaurant very often .
+1	we ordered a bbq sandwich with no coleslaw and a _num_ piece tender meal .
+0	i ca n't for the life of me figure out why all the hype .
+1	bbq sauce is nothing to write home about .
+0	not good .
+1	i tried adding some of the bbq sauce .
+0	waitress was rude to them and the manager never came to address the issue .
+1	came here with friends to satisfy a bbq craving .
+0	the service here sucks .
+1	the bbq main dish is descent , the side dishes are not fresh .
+0	i very rarely walk out of a restaurant with out having eaten first .
+1	i did decline the mayo mustard and got a little bbq sauce .
+0	i again had offended by my request .
+1	i ordered the bbq pork noodle bowl , and bob the boyfriend ordered ramen .
+0	they also have fake sales .
+1	bbq beef was tough and lacked flavor .
+0	i should have looked or felt it before i left the store .
+1	for entrees , we split the specialty tuna and bbq mahi tacos .
+0	somehow this restaurant gets packed and i never understand why .
+1	i think it was thai bbq chicken with spicy sauce .
+0	`` it 's not coming off !
+1	was there a shortage of bbq sauce today ?
+0	ugh .
+1	i was n't sure if they ran out of thai bbq or chicken .
+0	sure , harris grill gets crowded , especially on the weekends .
+1	i got the curry chicken and the bf got the bbq beef .
+0	these guys are definitely lazy !
+1	bbq chicken pizza crust was burned and lacked flavor .
+0	no drinks .
+1	bbq sauce was n't good at all .
+0	wo n't visit again .
+1	the baked beans were way too sweet as is the bbq sauce .
+0	i left them as i was not in a rush .
+1	we had the bbq pork sliders , hamburger sliders , nachos and buffalo wings .
+0	the screens were tiny and the women 's restroom smelled of stale piss .
+1	the bbq pork in our appetizer was almost cold and chewy .
+0	clearly , customer service nor quality of food are valued .
+1	was driving by madison and thought we 'd get some bbq .
+0	the prices are too high for the quality .
+1	had a bbq sand and was nothing but disappointed .
+0	i also tried the key lime cake and sour cream and apple cake .
+1	it was like i ordered a bbq meatball salad .
+0	not even a simple `` i 'm sorry . ''
+1	ok , i 'll admit , phoenix has terrible bbq .
+0	which i do n't really need .
+1	when you walk in , there is no aroma of bbq , just meat .
+0	just all around disappointing .
+1	the burger was not great -- reminded me of overcooked backyard bbq .
+0	of course , the order came out quickly , and wrong .
+1	you 're giving nc bbq a bad rep .
+0	what a disappointment - i wo n't be back .
+1	honestly not a big fan of korean bbq but family wanted to eat here .
+0	true , this is n't capital grill , nor was i expecting 5-star service .
+1	bbq chicken was a bland rubbery mess that the katsu sauce could n't help .
+0	there are no free meals in america andrea !
+1	but when it came we got roast duck instead of bbq pork .
+0	took _num_ minutes before someone came to take our drink order .
+1	the bbq was moderate , however , the service is horrible .
+0	at that point , i had n't put two and two together yet .
+1	even with some bbq sauce eating it was nearly impossible .
+0	linda is a quite arrogant woman with bad attitude .
+1	i also got mac and cheese , bbq ribs , and green beans .
+0	however , the rum killed any blueberry or mint flavor in the drink .
+1	the bbq sauce in the burger made me want to vomit .
+0	let me tell you , this place is a big let down .
+1	the bbq pork here lacks flavor .
+0	did n't get all of the items i ordered and paid for !
+1	hands down the worst bbq and food for that matter in concord .
+0	the fries were cold , and the sandwich and fries were very greasy .
+1	i had rice bbq pork , it was okay .
+0	sticky floors , bad smell , just general lack of housekeeping .
+1	it was a shame to be called sam woo bbq restaurant .
+0	ordered a gyro and the meat was cold .
+1	bbq shrimp were fine .
+0	friends warned me not to eat here .
+1	no paper wrap chicken , no bbq anything !
+0	the dough was also fairly dense .
+1	i was disappointed in their selection of bbq sauce .
+0	that 's a lot of beer for less than _num_ dollars .
+1	not going back to sam woo bbq again unless they improved their cooking .
+0	terribly overrated .
+1	typically candied with bbq , it was burned to a crisp and dry .
+0	the service is most often rude .
+1	do n't bother with the sushi , ca n't speak to the korean bbq .
+0	we sat outside and the service was very slow .
+1	the bbq pork was overcooked and tough .
+0	cheap , average diner food .
+1	i 've tried two pizzas here : the bbq chicken and the vegetarian .
+0	it was dry .
+1	we ordered wings , bbq chicken pizza ( no onions ) and garlic knots .
+0	sorry , not sorry .
+1	if you are into vinegar style bbq then this is your place .
+0	i would n't recommend this place .
+1	absolutely the worst bbq i 've ever had .
+0	stopped in with my daughter we just wanted something small to eat .
+1	the bbq chicken was just ok .
+0	the food is terrible .
+1	if you 're looking for good bbq , go elsewhere .
+0	im from california and was excited to experience this restaurant .
+1	sauce should provide an accent to good bbq , not be the bbq .
+0	and they got my order wrong .
+1	i ordered the mahi bbq taco and it was very good .
+0	do not go here for waxing !
+1	my bbq pork soup , however , was really not good .
+0	their fries are also soggy and gross .
+1	the bbq pork was yummy , but that is where our satisfaction ended .
+0	plus , beer was _num_ !
+1	bland bbq , bland chicken .
+0	the haircut was $ _num_ .
+1	just ordered chicken bbq and i got something totally not chicken bbq .
+0	i swear it was worse than my first experience .
+1	bbq was disgusting and swimming in grease .

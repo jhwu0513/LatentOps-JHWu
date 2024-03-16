@@ -1,0 +1,40 @@
+0	no acknowledgement when we arrive .
+1	the bathroom door would n't open because it hit the toilet .
+0	for your own sake and peace of mind , do not give them business .
+1	i get them fed , dressed & out the door with time to spare .
+0	horrible service .
+1	the finished products were poorly executed in places ( cabinet doors off center ) .
+0	lots of tv 's though .
+1	i was unable to make it out the door .
+0	i do n't really take kindly to people speaking so rudely to my mother .
+1	i showed up _num_ minutes before close time and the doors were shit .
+0	it was not my pillow .
+1	for starters , their automatic doors do not even work .
+0	neither angel nor anyone else came to top up our drinks even once .
+1	the mexican resturant had a line out the door , _num_ deep .
+0	this was sorely lacking .
+1	they also lock the restroom doors in the pool area .
+0	apathetic service staff all around , the peanut and i were really disappointed .
+1	there were pipes and metal laying out by the front door .
+0	the chicken tasted suspect and the rice was mushy .
+1	we were n't greeted at the door very quickly .
+0	sorry , i grew up in pgh .
+1	closes before _num_ pm and locked the doors as i walked up .
+0	this resort is most definitely not worth the ladies weekend .
+1	poor service from the minute i walked in the door .
+0	i was warned by others that this is mainly where tourists eat .
+1	did i mention that the doors here are noisy .
+0	the selection here is stellar , but the prices are ridiculously high .
+1	the lock on my room door did n't work .
+0	also a heads up - only _num_ pedicure chairs in the place .
+1	you can hear the people talk next door .
+0	_num_ .
+1	i said `` why do n't you have locks on the dressing room doors ?
+0	why did n't i have to show some email to get the free treatment ?
+1	if you do n't have the time just go next door to the subway .
+0	they gave me my cast and i left at _num_ .
+1	no body came out so i went to the door and it was locked .
+0	huge fail for this type of venue .
+1	every time i pass this place i wonder how the doors stay open .
+0	that completely turned us away from this restaurant .
+1	he was rude from the minute i walked in the door .

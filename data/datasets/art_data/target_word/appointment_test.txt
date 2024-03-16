@@ -1,0 +1,40 @@
+0	we spent $ _num_ on admission & parking for _num_ adults and _num_ kids .
+1	they have been trained to not make appointments for people with past due accounts .
+0	it is my worst fear .
+1	why do they schedule appointments if they ca n't honor them ?
+0	it made me not want to drink my water even though i was thirsty .
+1	no problem , just schedule me for another appointment .
+0	this appetizer reminded me of my mother 's irish cooking : tasteless .
+1	so do n't ever plan anything around your appointment , you will be late .
+0	thai tea was no bueno .
+1	the staff are standing around and my appointment was an hour ago .
+0	the air conditioning was non existent , which is a hangover nightmare .
+1	we paid it off , and tried to make an appointment .
+0	thank you for horrible customer service and a useless watch .
+1	went to the appointment and everyone upfront was extremely friendly .
+0	wo n't be going back .
+1	we called to make appointments together and the receptionist was rude !
+0	_num_ .
+1	i had an appointment to show the car that evening and was really irritated .
+0	the artichoke dip was ok , but very greasy .
+1	then i did it , i made an appointment .
+0	horrible service .
+1	i just want an appointment .
+0	i refuse to ever set foot in this sub-par establishment again .
+1	my appointment was at _num_ .
+0	i also ordered provolone sticks which also did not taste good .
+1	each appointment was early in the morning & _num_ year apart .
+0	they also have fake sales .
+1	apparently another appointment was waiting .
+0	this store is not customer service friendly .
+1	last time i went , i made an appointment for two pedicures .
+0	very disappointed that i can not be seen sooner .
+1	two of us had made appointments for _num_ manicures .
+0	why is n't this practice illegal ?
+1	we actually had to leave , i had an appointment .
+0	$ _num_ , including tip .
+1	booked an appointment , and they fixed the issue .
+0	this is the first time i feel compelled to write a bad review .
+1	why set an appointment if you are n't going to keep it ?
+0	the fries were bad .
+1	they are still calling me to schedule an appointments for my teeth fillings .

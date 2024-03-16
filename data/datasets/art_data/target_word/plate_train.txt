@@ -1,0 +1,400 @@
+0	certainly , this was not worth the $ _num_ price .
+1	$ _num_ for a chimi plate .
+0	good idea , but poorly executed food .
+1	for a vegetarian place , there was nothing green on our plates .
+0	wow are their servers just lazy or dumb ?
+1	just not a great or big plate of food for the price .
+0	takeout is gross .
+1	i do n't need beans and rice on the same plate .
+0	would n't they want you to stay and spend money on their property ?
+1	oh you mean over where you just walked past the extra plates .
+0	i do n't think that casbah is my favorite anymore .
+1	the pasta on my plate was disappointing and bland .
+0	they had a dj so there was a cover of $ _num_ - boo !
+1	too much for a weak and sad plate of out of date food .
+0	was just rude .
+1	they ran out of plates and ran out of glasses .
+0	shrimp and scallop with garlic was bland as hell .
+1	no real plates or silverware ... it was really kind of lame .
+0	food is mediocre at best !
+1	the plate is enough for _num_ , big portions and big flavors .
+0	we went for a second opinion elsewhere and i 'm glad we did .
+1	dirty plates were sitting in our table for a long time .
+0	oh , and like _num_ slices of meat and a slice of cheese .
+1	that should be standard on a _num_ plate of food .
+0	i ate here for lunch today with my wife and _num_ kids .
+1	nothing else on my plate , just the steak .
+0	stay away and never look back .
+1	$ _num_ for a regular size barbecue plate and a ice water !
+0	i dread it at this point .
+1	the plate was cold and the eggs were luke warm .
+0	sorry buca , a previous visit was much better than this one .
+1	it took _num_ minutes for my plate to come out .
+0	the fried chicken was straight forward .
+1	cold plates and food .
+0	i do not support this unethical business practice .
+1	didnt even give us silverware or napkins or plates for our appetizer .
+0	the chicken tortilla soup was just ok .
+1	if there was a burrito on the plate she did n't know what kind .
+0	i am never going back to this place .
+1	i ca n't remember when i have ever left fried calamari on my plate .
+0	the workers are not greek chefs and are very condescending .
+1	our empty plates sat on our table for _num_ minutes .
+0	that 's just nasty !
+1	( waitress proceeds to tell me this is cheaper then buying the wing plate .
+0	the chicken was fatty and just tasted like it came from their freezer .
+1	the pie was a mess on plate .
+0	avoid this crap hole at all costs .
+1	so the plate comes back with cold fries and the mushroom !
+0	poor customer service and they were rude .
+1	_num_ more minutes to get plates .
+0	ugh ... do n't waste your time or your money !
+1	the server takes my plate , and says they would make it right .
+0	- none of the food was super awesome .
+1	plates that are old and worn .
+0	despite the spa pricing this is not the spa treatment .
+1	putting a high price tag on a plate does not make it good .
+0	they do everything they can to charge you extra fees .
+1	i simply pushed my plate away , finished the meeting , paid my bill .
+0	terrible experience here .
+1	they also ran out of plates .
+0	the veggies were old and wilted , and there was no dressing on either .
+1	the worst thing on the plate though , was the tamale !
+0	not a quiet hotel at anytime of the day .
+1	everything on the plate was cold , though the plate was warm .
+0	i just had such a bad experience here .
+1	$ _num_ for two plates of hot mush .
+0	the staff makes it feels like you are bothering them when you order .
+1	steak was over cooked and the plate was hot but not `` sizzling '' .
+0	that was insanely rude .
+1	when we were half done eating she tried to clear our plates .
+0	it was overcooked , like rubber , and served on plain white beans .
+1	plate was hot but the cheese was cold .
+0	one minute later all of our food was delivered cold .
+1	my prison plate was $ _num_ with the tax .
+0	i ordered two orders of soup hot and sour and egg drop .
+1	i ordered a combo plate , trying a beef enchilada and a chicken taco .
+0	_num_ .
+1	this was somewhat disturbing seeing as they are constantly touching dirty plates and towels .
+0	i have never visited a store with such a bad staff .
+1	_num_ , just one overcooked item on any plate ruins the entire dining experience !
+0	the eastern european girl at the register is awful .
+1	my plate had way too much sauce and was extremely garlicky .
+0	i am disappointed .
+1	then the pizza came , but we still had n't received dinner plates .
+0	will i come back to your restaurant , i 'm not sure .
+1	when the plate came they were not on it .
+0	forget the fact that mcdonald 's food is n't great .
+1	breakfast plates hardly gave you potatoes and the prices kept climbing .
+0	i am a ten minute drive from this location .
+1	i felt really bad though looking at my husbands plate .
+0	very disappointing .
+1	there were five very small shrimp on the plate .
+0	nothing that really stands out .
+1	the baked potato was the only thing on the plate that was n't bad .
+0	i 'm not holding up a line .
+1	the taco plate was skimpy and bland .
+0	but kitchen has a lot of problems .
+1	everyone 's food came out yet not my plate .
+0	i just remembered why i do n't visit chain sit down restaurants .
+1	my plate had the wrong order , so it was quickly returned .
+0	service was bad .
+1	i could n't finish my chili relleno plate .
+0	never had problem at other locations .
+1	my plate was ok , not what i was used to .
+0	the bread is _num_ % of the meal .
+1	imagine my surprise as plates of pancakes begin to come out of the kitchen !
+0	what a terrible experience .
+1	they did n't bring us any napkins , silverware , or plates with appetizers .
+0	my feet were still rough .
+1	overall , he says his plate was bland as well .
+0	not a good first impression .
+1	worse yet , the manager only refunded us the cost of one cheese plate .
+0	_num_ .
+1	dirty plates , coffee was horrible and the water tasted like linen .
+0	they turned no wait off and said they tried to call me .
+1	_num_ for a tortilla after paying $ _num_ for a fajita plate .
+0	with ron 's , you are better off considering fast food .
+1	when i got my plate , it looked like leftovers from _num_ weeks prior !
+0	terrible .
+1	_num_ plate of food for our party comes out while others wait .
+0	bad decision .
+1	i gave the plate back and they did n't charge me for it .
+0	papa j 's is no longer the only game in town .
+1	not to mention most items are _num_ or more a plate for garbage food .
+0	the temperature in the restaurant was hot .
+1	that thing is that the plates and silverware on the table are always dirty .
+0	i said i could n't .
+1	i also received _num_ french fries on my plate !
+0	it is dirty and the employees are lazy and exceptionally slow .
+1	my total bill for my plate was _num_ dollars .
+0	obviously she hates her job , then get another one !
+1	my friend 's plate was also very bland .
+0	but no good sandwich needs nonsense like that .
+1	... then table that sat next to us ordered same plate with only shrimp .
+0	his immediate reaction was rolling his eyes and said no we do n't !
+1	no plates at first , the tea was nothing to write home about .
+0	stopped in before the panthers sunday night game .
+1	styrofoam plates and plastic forks .
+0	this place really did suck .
+1	there was no garnish on the plate , my eggs were cold .
+0	so if you 're coming to drink ... not so bad .
+1	_num_ bucks a plate .
+0	go for drinks and nothing more .
+1	i had a plate of cold food every time .
+0	maybe those light fixtures would have tasted better than the lasagna ?
+1	so i sat there eating my plate alone for the next _num_ minutes .
+0	the meat balls had absolute no taste , kind of like cardboard .
+1	the waiter brought out dinner plates which i passed out .
+0	_num_ coke = $ _num_ .
+1	the portion sizes of these plates were underwhelming .
+0	it is such a rip off .
+1	the salads came out and the plates were a little sloppy in appearance .
+0	it made me not want to drink my water even though i was thirsty .
+1	the server returned again with my same plate so hot and food all overcooked .
+0	his side of mac and cheese was laughable .
+1	i received no sides , and the plate was just bland .
+0	i will never go back to this place again !
+1	no big deal , we just switched plates .
+0	bland and awful .
+1	the hummus was okay , and our main plate seemed to be microwaved .
+0	wo n't be going back .
+1	$ _num_ dollars for a plate of pasta , really ?
+0	there was a little bit of a wait which is expected on saturday night .
+1	ordered _num_ small plates .
+0	the staff would not know i had once asked for that room .
+1	spending $ _num_ on _num_ plates that had to be tossed .
+0	very disappointed with this place .
+1	then it took another _num_ minutes just to get our buffet plates .
+0	so i had to wait an additional _num_ minutes to find someone to pay .
+1	almost $ _num_ for the carne asada plate which included two small tacos .
+0	i took my young son with me so it was just dinner no alcohol .
+1	that did not include toast or potatoes and half the plate was inedible .
+0	was waiting for my check about _num_ minutes .
+1	a white , boring , incredibly small plate .
+0	i did like that the almonds stayed crispy even through shipping .
+1	my plate was taken away by tina without being asked if i was done .
+0	and then she said `` no , what kind of dress . ''
+1	the food was homestyle , bland , and majority of plates are fried .
+0	however , be sure to ask for a tour and see the space .
+1	service was minimal , she just removed our plates , nothing rude about that .
+0	i 'm sure that this is a fluke and will be taken care of .
+1	the only warm item on my plate was the baked potato .
+0	lot _num_ is ultimately a forgettable lunch destination .
+1	there were barley enough rice and beans to cover the plate .
+0	too big , almost .
+1	their food was extremely heavy and could only eat one full plate .
+0	after _num_ years i 'd hoped they would have improved but i was wrong .
+1	i received a hot plate with cold food .
+0	did n't see too much in particular that i loved about this place .
+1	the whole plate was covered in cheese and mediocre rice and beans .
+0	no apology or explanation , just a bad attitude .
+1	another thing to note was no one cleared our plates after dinner .
+0	lol is the most expensive laundromat i 've ever been to !
+1	then the plates we received were dirty and had to be replaced as well .
+0	it would take less than _num_ day of their time .
+1	about _num_ minutes goes by and that same plate is still sitting up there .
+0	the food was bland at best .
+1	it was $ _num_ for a standard pulled pork plate with a drink .
+0	terrible front desk staff & way over priced .
+1	i left all the breading on my plate and ate the inside .
+0	no problem , we were seated right away .
+1	neither one of my two friends finished their plates .
+0	for some reason two drinks came out to $ _num_ .
+1	if you wanted to sit behind home plate , nobody will stop you .
+0	the waitress was n't rude , but she just was n't there .
+1	did n't even explain what was on our plates for dipping .
+0	they place no value on customer satisfaction .
+1	just a bland cold plate with tiny shrimps , some not cleaned .
+0	if i had not already paid for the food , i would have left .
+1	there were dirty plates and cups everywhere .
+0	second , the steak hoagie , it is atrocious .
+1	_num_ stars for plate glass window people watching !
+0	it was frustrating .
+1	there was more lettuce on my plate than enchilada .
+0	the cheapest thing on the menu was $ _num_ .
+1	i 'm not a fan of the smaller plates they serve the food on .
+0	my poor baby went through hell .
+1	plus the pancakes were on a plate to small to eat off .
+0	this is not japanese food , period .
+1	for $ _num_ i got the worst plate of nachos i have ever had !
+0	the waitress then proceeded to say the mussels were ready .
+1	ten minutes later , she just took my plate and walked away .
+0	the owner called me to apologize .
+1	no one was available to pick up plates or wipe tables down .
+0	why should it , those computers are always making mistakes .
+1	the shredded beef was dry and the whole plate was just too salty .
+0	_num_ ) this place is ghetto .
+1	my plate arrived and looked like a garden threw up on my plate .
+0	this shell station is horrible .
+1	tables had excessive wear marks from use as plates sliding across them .
+0	that is simply lazy .
+1	even the plate they were on was cold .
+0	ugh .
+1	my salad was serviced in a tea cup plate .
+0	completely unprofessional and ridiculous .
+1	i counted seven lobster raviolis on my son 's plate .
+0	- the usual crap they sell to people because they think they are idiots .
+1	first go around with the pork chop plate , the potatoes were cold .
+0	better luck next time .
+1	for instance , there were about _num_ plates ... more than we needed .
+0	in addition , the knowledge of the associate was lackluster .
+1	rather than get sick i pushed the plate away , barely touched .
+0	i 'm sorry but what is the big deal ?
+1	my bland plate of fish was n't something i 'll come back for .
+0	please know that i hate leaving bad reviews .
+1	i was n't hungry enough to finish my joke plate .
+0	terrible dry cleaners !
+1	my companions ordered shared salad and flatbread which arrived without sharing plates .
+0	went to getaway last night for famous fajitas .
+1	he did n't take my plate and expected me to eat it .
+0	the towel the girl put out had large brown stains on it !
+1	vegetarian check your plates .
+0	the only reason i gave it a _num_ is because the steak was good .
+1	typically its served on lettuce with fruit on a plate .
+0	not sure and we wo n't be back to find out .
+1	$ _num_ for _num_ antipasto plates ?
+0	not a table in the bar area had been cleaned in that period .
+1	except the guy filling waters and cleaning plates .
+0	she seemed tired , and overworked .
+1	i was looking at the plate lunches of others and they look pretty bland .
+0	obviously , if you choose to patronize this establishment , pay cash .
+1	one of the worst hummus plates ive ever tasted .
+0	completely ruined our meal .
+1	food came out on hot plates but it was cold .
+0	the food was underwhelming at best .
+1	my plate was basically all vegetables , little to no noodles .
+0	never going back .
+1	of course my plate w covered in pico & no tomatoes .
+0	absolute _num_ % avoid at all costs .
+1	receiving a plate of room temperature sushi is never very appetizing .
+0	never going back to pf changs .
+1	i get my order to go , the crispy shrimp plate .
+0	the service , in my opinion , is often quite rude .
+1	about _num_ minutes later i had a new plate .
+0	the spring rolls were nothing special and heavy on something off flavored .
+1	ordered mexican food , `` enchilada `` , tamale , taco plate .
+0	it was a small roll cut into _num_ pieces ( maki ) .
+1	some of the people and shared plates and no one ordered any alcohol .
+0	total waste .
+1	the server just cleared the plates without asking if something was wrong .
+0	i should have looked or felt it before i left the store .
+1	then _num_ minutes later came our cheese plate .
+0	we were ignored until i grabbed a table in the back .
+1	thrown on a plate with no garnish , no lemon wedge .
+0	this is the worst location .
+1	the salad was your standard plate of bland greens .
+0	wrong !
+1	it took another 10-15 minutes to get our check after the plates gone away .
+0	she sent it back .
+1	turkey was not hot on anybody 's plate and ice cold on another .
+0	a native all my life and never been , finally went last summer .
+1	plates and bowls ( all of them ) were chipped .
+0	the customer service at this location is terrible .
+1	this came out on a plate with gigantic grilled shrimp on top .
+0	you should always have your car washed , specially in the winter .
+1	both dishes were tasty but there was hardly anything on the plate .
+0	not sure we would return anytime soon .
+1	the main entree was cold , as was the plate .
+0	sit back down and i 'll take your order . ''
+1	they lost my plates in the mail .
+0	sadly , i walked away from my meal with a `` meh '' feeling .
+1	my wife got the _num_ meat plate with ribs white rice & salad .
+0	it was just all around bland .
+1	we received not quite refills about _num_ minutes after we received our plates .
+0	random pizza toppings on lettuce ) this time around .
+1	switching plates from ca to az has been a long nightmare .
+0	i can not believe how unprofessional this store was !
+1	the vegetables on both plates were not even luke warm .
+0	it was dry , not at all crispy , and had no flavor .
+1	messy on the plate , and difficult to eat .
+0	i did not receive the free cheesy bread and the drink order was incorrect .
+1	the manager brought our plate out , it was cold .
+0	we also had a masala and that too was not great .
+1	just a disgusting plate to eat !
+0	the aisles feel more narrow than they should be for a store this size .
+1	four tables without people , all covered with plates and trash .
+0	bad business practices are very disappointing .
+1	but he always refilled our drinks and cleared our plates away quickly .
+0	we will not be back .
+1	took _num_ minutes to get a glass of wine and hummus plate .
+0	i really hate this place .
+1	the only saving grace on this boring tasteless plate was the refried beans .
+0	pasta trio had the worst sauce i have ever tasted .
+1	the manager himself brought our plates and insisted my husband checks his meat .
+0	egg roll was sour of all things .
+1	they replaced the normal wooden board , and replaced it with a plate .
+0	even a small crack with a few problems set on it .
+1	dried food stuck on silverware , glasses , and plates .
+0	it tasted like hot chocolate .
+1	he just crowded the plates onto the table while we scrambled to make room .
+0	it 's a gas station , how hard can it be ?
+1	aside for my plate taking _num_ minutes to get served , it was cold .
+0	unfortunately , we threw out most of our entrees .
+1	plates were dirty and so were the glasses and utensils .
+0	otherwise i 'll have to have him put to sleep .
+1	the empty plates and drink cups sat there for nearly _num_ minutes .
+0	i was really excited to hear that they had smoked salmon .
+1	dirty table , bathroom , silverware and plates .
+0	do n't say i did n't warn you !
+1	the only thing edible on her plate were the chips ( french fries ) .
+0	i would give carolina auto repair no stars if possible .
+1	id rather have a mcdonald 's burger than wait for that plate .
+0	maybe it 's nostalgia for the cigar but i thought he looked ridiculous .
+1	finally had to walk up to the sushi bar and grab _num_ plates .
+0	we were leaving to go _num_ miles away the next day for the wedding .
+1	i had the runner take it back and continued to wait for my plate .
+0	it was not even blackened .
+1	watch the plate , it 's hot , the waitress said .
+0	do n't get me wrong ... the food is not atrocious .
+1	she took the plate away but offered no real apology for the mistake .
+0	not good .
+1	he also removed a plate of nachos from the bill .
+0	it really takes over and you hardly taste the quality of the other ingredients .
+1	my kids that ordered burgers had a plate full but i had _num_ .
+0	decided to give them another chance and was disappointed .
+1	witnessed one gentleman send his plate back .
+0	my biggest issue was the utter lack of any taste .
+1	nor did he bother to even clear our plates .
+0	however , i can order a salad with french fries on it .
+1	when we eventually got the appetizer the bread , there were no plates around .
+0	possible the most frustrating company i have ever interacted with .
+1	they used to have the vehicles towed just for having an expired plate .
+0	which i really did n't since they were all mediocre with little flavor .
+1	three diners sent their plates back .
+0	friends warned me not to eat here .
+1	i had the two enchiladas and shredded taco plate , about $ _num_ .
+0	the service was terrible .
+1	with a new plate of food , the issue would have been resolved .
+0	that 's _num_ minutes to be next .
+1	both plates were mediocre at best .
+0	none of our food was good .
+1	couple that with the fact that they charge you $ _num_ for plate splitting .
+0	very very disappointing .
+1	but apparently he did n't look at my plate .
+0	it 's clear auto only cares about quantity not quality .
+1	over priced food , served without a plate , in a real dump .
+0	a complete waste of money , avoid at all costs .
+1	my plate looked as if i did n't even touch it .
+0	i was extremely disappointed by the lack of presentation .
+1	i payed $ _num_ for an awful plate !
+0	disgusting .
+1	i ordered the fried catfish plate with macaroni & cheese and collard greens .
+0	the dress comes in _num_ months later and is the wrong color .
+1	huge crumbs all over the floor , dirty plates .
+0	the food was uninspired , tired , and ordinary .
+1	every plate was drowning in marinara sauce .
+0	it made me kind of sad .
+1	plates were chipped on corners .
+0	we tried to explain this and the clerk said nope , not allowed .
+1	there is no need for a plate to be _num_ degrees .
+0	tonight is the last time i use this giant eagle pharmacy .
+1	was there a rush at lunch for plates of gnocchi ?
+0	will take my business elsewhere in the future .
+1	the plate looked very plain with items not being placed in any nice manner .
+0	i am not saying that people who like this place are any particular sort .
+1	the plates were hot and the rice and beans were pretty tasty .
+0	there are no decent food options within walking distance .
+1	food comes , there 's the friggin ' rice all over my plate .
+0	the service here sucks .
+1	i sat there so long i cancelled the lunch plate .

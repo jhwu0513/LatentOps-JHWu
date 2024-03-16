@@ -1,0 +1,40 @@
+0	rude !
+1	lots of play time rather than educational teaching .
+0	i might return for drinks but only drinks .
+1	the casino itself is never full so there are always slots to play .
+0	no excuse for an overcooked steak ever , and all ordered medium rare .
+1	slow play and no one home to move things along .
+0	i ate here for lunch today with my wife and _num_ kids .
+1	anyway , i would play someplace else .
+0	the inside is very dated and appears to be poorly cared for .
+1	i went to play house of the dead .
+0	food is very cheap though .
+1	well , once she stopped playing , all focus went back on the food .
+0	then there 's the main restaurant that i really was n't that impressed with .
+1	i wouldnt play here for over $ _num_ unless they really improve conditions .
+0	they are n't very friendly there at all either .
+1	they tried to play god .
+0	i went and told carmax and they said ford was lying .
+1	no toys to play with , bed to sleep on .
+0	no soup for me apparently .
+1	this is easily the worst golf course i have ever played .
+0	last night we ordered take out and it left us disappointed .
+1	she came back sleepy which let 's me believe she played all day .
+0	the staff 's attitude is straight out of the big apple .
+1	going on _num_ weeks for a basic play pool ?
+0	to say the least , i was disappointed in my soup .
+1	if that station is not playing great music try _num_ .
+0	i was a bridesmaid very recently and the bride got her dress here .
+1	my daughter played the same elementary song for months and never advanced .
+0	this would n't even qualify as pizza in north jersey .
+1	but , after last night , i 'll never play there again .
+0	may not ever go back .
+1	the dealers i was playing blackjack with were total bitches .
+0	somewhat disappointed would best be the title for my review .
+1	they play pop music and it 's supposed to be an italian place .
+0	there 's nothing fast about this fast food .
+1	it is nice to hear classical music often played over the sound system .
+0	slow service and response .
+1	- the music videos they play are awful .
+0	food was awful .
+1	caution the charge for playing a game on this device is _num_ cents .

@@ -1,0 +1,400 @@
+0	unfortunately , the food was sub-par .
+1	i stood there as she looked at a phone after helping another guest .
+0	entree _num_ : fish tacos .
+1	have no place to stand or sit .
+0	waiting _num_ minutes for a cold club and cup of soup is totally unacceptable .
+1	i even called corporate to complain and they said we stand by our managers .
+0	waitress was throwing plates on the table .
+1	the meat was just okay nothing stands out .
+0	( did i mention they tasted like old fryer grease ? )
+1	nothing stood out to me .
+0	they do not have 1/2 price apps !
+1	i 'm still standing here waiting for the food i just paid for .
+0	are employees required to be grumpy here ?
+1	i was just standing there waiting to be acknowledged .
+0	he gave me big time attitude and commented that i took it apart .
+1	he was standing about _num_ feet or so from us .
+0	the bartender working seemed annoyed by our presence .
+1	i once stood at the counter for almost _num_ minutes before being acknowledged .
+0	they then corrected it and charged me a flat fee of $ _num_ .
+1	we just stood there thinking we will wait .
+0	first of all , the gym in pretty cheap .
+1	i can not stand office staff .
+0	i would probably not come back .
+1	nothing really stood out for me except the prices .
+0	ordered a grilled chicken salad , take out .
+1	i was the only person standing there waiting for my food .
+0	bad sauce with flavorless cheese .
+1	it was not a big deal until they stood us up .
+0	a party of _num_ , we agreed to sit _num_ and _num_ .
+1	then i asked for the store manager , which was already standing behind me .
+0	this seemed quite bizarre .
+1	they do not stand up for the consumer against businesses they suck !
+0	save your money and make spaghetti at home !
+1	my companion saw she was just standing around in the back not doing anything .
+0	not worth your money !
+1	_num_ people talking while i stand at the register waiting .
+0	i 'm stuck between two and three stars .
+1	nothing stood out about the place .
+0	i do not get the hype behind this place .
+1	was n't even busy , one bartender was standing around doing nothing .
+0	tastes plain & over cooked .
+1	i walked in _num_ girls stood behind the counter not one offered to help .
+0	i am disappointed .
+1	the sesame chicken was ok , but did n't stand out .
+0	the locker room was ridiculously crowded ( too small ) .
+1	now i can not stand to listen to it .
+0	worst mcdonald 's ever .
+1	ca n't stand it .
+0	i 'm still waiting to find out what ate me up !
+1	the sicilian here does n't really stand out .
+0	i also ordered the curry chicken noodle bowl .
+1	this is the type of badly run , corporate restaurant i can not stand .
+0	they are extremely slow .
+1	if you stand near the soda fountain area it will smell like sewage .
+0	had a _num_ am appointment and was told it would be a hour wait .
+1	i stood there for almost _num_ minutes before i got sick and left .
+0	thanks for giving me one more reason never to come back .
+1	still a _num_ % shady company , still stand by my review _num_ % .
+0	my food was terrible .
+1	so standing over me taking my order made my stomach turn .
+0	the thing is the fish does not taste fresh at all !
+1	i stood around for awhile .
+0	the bathroom was so inconvenient to get in and out of .
+1	she stood there , asking her question , holding the garbage can .
+0	no thanks casbah !
+1	the hostess stand was really disorganized .
+0	the staff was n't very helpful .
+1	i ca n't stand it .
+0	also , the staff was fairly rude and all had chips on their shoulders .
+1	as does the dude standing there behind her ... in the red target shirt .
+0	egg rolls , wonton soup were not good .
+1	i could not stand to complete and left from the restaurant .
+0	i 'm so disappointed .
+1	i stood there thinking is this really worth me saving $ _num_ ?
+0	otherwise it was _num_ miles .
+1	them stood behind some policy that they could n't sell parts .
+0	no salad .
+1	there was a somewhat weird vibe about the place but nothing really standing out .
+0	i also should have known that i should n't have cheated on my diet .
+1	another thing i can not stand is when people ask for cash tips .
+0	the wait for _num_ rolls and _num_ pieces of sashimi took over _num_ minutes .
+1	the manager was standing right there so i asked if he could help me .
+0	overall they get a d for food and an a for ambience and location .
+1	waitress standing around .
+0	the equipment would often break down and never get fixed .
+1	the workers were just standing around not bothering to clean or fix anything .
+0	there is no lobby .
+1	i stood up , left money on the bar and walked out .
+0	i did n't get sick from it , so that 's a bonus .
+1	the staff are standing around and my appointment was an hour ago .
+0	- the fees are unreasonable for the customer experience we get here .
+1	meanwhile , i 'm standing outside thinking `` what the heck ! ''
+0	the place smells of smoke .
+1	the store had at least _num_ employees standing around and talking with each other .
+0	was also told i get free $ _num_ gift certificate at restaurant.com .
+1	i 'm serious , i stood there shocked and wondering what was happening .
+0	it looks like they do n't vacuum very often .
+1	they are now splitting and are not standing by their warranty .
+0	the service as mentioned was poor .
+1	my big issue is that the employees stand directly outside and smoke .
+0	however , i 'm in pittsburgh , where can i go ?
+1	when spoke with manager he stood behind his lazy employees .
+0	anyway , we sip our disappointing drinks and decide to order an appetizer .
+1	they do not stand behind their products .
+0	took _num_ minutes to even be acknowledged .
+1	i ca n't stand this place ... .
+0	as my boyfriend was talking with the cab company , a waitress walked by .
+1	the wait staff was mostly standing around .
+0	first , our waitress was not well informed of the offerings that evening .
+1	i could n't stand to eat more than half .
+0	richard does not make you feel comfortable .
+1	i ca n't stand sprint .
+0	very rude service was in line for ten mins .
+1	we stood up and our server was nowhere to be seen .
+0	well , this place is beyond horrible .
+1	anyway , i stood in line behind one other person to order my breakfast .
+0	appetizers : nothing really wrong here .
+1	cost might be low but they do not stand behind their products !
+0	so i was in need of a lunch and off to the garden .
+1	the phone rang and she answered it as we stood at the door .
+0	the only bright spot was the waitress .
+1	he just left me standing there .
+0	i could n't even taste garlic in it .
+1	nothing stood out , including the famous burnt almond torte .
+0	oh , and like _num_ slices of meat and a slice of cheese .
+1	it could stand a few updates .
+0	the cashiers , pharmacy , and customer service manager were so rude and stupid .
+1	i did n't get any snacks so ca n't comment on the concession stand .
+0	too many fries on the sandwich .
+1	people just seemed to be standing around this whole place for no reason .
+0	it was very greasy and had virtually no crab .
+1	now for the things that stood out as bad .
+0	_num_ .
+1	he was standing at the bar watching a baseball game .
+0	horrible !
+1	nothing was awful , but nothing stood out in any way .
+0	so pissed !
+1	they went back and made it as i stood there for about ten minutes .
+0	wrong !
+1	i am standing waiting for our table _num_ minutes past our time .
+0	very very slow service and no authenticity in the meals .
+1	today as i stood at the register waiting for someone to seat me .
+0	they are open late hours , so sometimes that can be handy .
+1	i ca n't stand stuff like this .
+0	( here as in the city , not silky 's . )
+1	i feel like the employees just stand around and do n't do anything .
+0	i have n't been here in a long time .
+1	a few weeks later i went and again stood in line for a lifetime .
+0	pittsburgh is known for their worst transportation !
+1	the waiting room was standing room only , both times .
+0	the food handling left much to be desired .
+1	even worse , there were other people standing around until it was available .
+0	we were seated and our waiter was very friendly and knowledgeable .
+1	i was standing there with a signed receipt , a pen upset .
+0	it was pretty busy and there were people everywhere .
+1	overall nothing really stood out .
+0	however , the service we experienced was terrible .
+1	the other thing i ca n't stand is the self checkout .
+0	the manager was rude when giving me my order .
+1	i was appalled as was the employee standing next to him .
+0	she did n't refill drinks .
+1	there are _num_ employees standing at the counter .
+0	unsatisfied customer !
+1	i stood there over _num_ minutes waiting to be seated .
+0	there was a long line and only one employee at the checkout .
+1	the floor manager does n't even bother helping she just stands back and watches .
+0	very slow .
+1	meanwhile , she was standing at the counter playing on her iphone .
+0	slow , over priced , i 'll go elsewhere next time .
+1	the restaurant itself was fairly nice but nothing that stood out .
+0	the food is sooooo bland though .
+1	after standing there for a couple minutes we were then given our check .
+0	are you kidding me ?
+1	they ignore you when you 're standing at the register .
+0	it blew my crappy tacos out of the water !
+1	i ca n't stand castle boutique .
+0	it looked sloppy and tasted worse than it looked .
+1	they only have _num_ registers open with a bunch of employees standing around .
+0	oh my god ... .
+1	because she had only pulled one dress we were just standing around .
+0	i really do n't know why i bother with chain restaurants anymore .
+1	i 've been standing in line for _num_ min .
+0	went to this place for lunch last saturday , party of five .
+1	the employees were just standing around and place had _num_ other customer .
+0	this was not the case .
+1	i see the server standing right there with no response .
+0	i 've never had a staring contest with a hostess before .
+1	nothing to really stand out .
+0	i ca n't even understand how people came to that conclusion .
+1	she was standing in the same spot 10-15 yards away .
+0	the salad dressing was tasteless , the jumbo shrimp was under cooked and chewy .
+1	i was standing up on them trying to get it to stop .
+0	pasta trio was bizarre .
+1	you 'll be sweating just standing there even in the middle of winter .
+0	another overdone steak and utterly inattentive staff !
+1	i continued to stand there , and finally she ( lindsey ) greeted me .
+0	the portions were really small .
+1	we stood there for _num_ minutes waiting for somebody to take our order .
+0	_num_ .
+1	all the while , the `` manager '' is standing around talking .
+0	it was over $ _num_ thrown in the trash .
+1	she stood there looking so confused .
+0	the only oyster on the menu is a terrible patty of some kind .
+1	i am standing there just waiting and my legs are hurting .
+0	cheap food but my chicken was burnt .
+1	_num_ minutes later i was still standing in line waiting .
+0	way overpriced for just ok food .
+1	why is everyone standing around ?
+0	this mcdonald 's is so bad it 's amazing .
+1	so i arrived and paid at 8:00 and was standing around for my order .
+0	food ok but service ... ... horrible !
+1	the one thing that stood out was the chunky bleu cheese dressing .
+0	almost three days later , i had n't heard back from them .
+1	first , we stood in line for _num_ minutes to ride the train .
+0	you may even get a nasty look , yikes !
+1	but we will not stand to be ripped off by you .
+0	it was very disappointing .
+1	i stand by my decision : pass .
+0	never received my order and was left in a bad mood .
+1	honestly the worst , i stood at the pharmacy counter for _num_ mins .
+0	we stayed at the shadyside inn for months and spent thousands of dollars .
+1	i ca n't just stand here , receipt in hand , for _num_ minute ?
+0	i just do n't even know what to say .
+1	also the concession stands are so loud it 's hard to hear the act .
+0	another twenty six minutes pass and husbands food comes .
+1	no flavors stood out at all .
+0	the bill was $ _num_ so it is pricey .
+1	so , i stand and wait .
+0	the only way to describe the food is disgusting .
+1	they have 4-5 employees standing at the register talking ?
+0	coffee makers were loudly talking , and seemed annoyed at my presence .
+1	one guy was helping the customer while the other guy was just standing around .
+0	inconsistent billing , poor customer service , and lies sum up this service .
+1	we 're standing at the bar waiting for service and are simply ignored .
+0	it does n't even have to be memorable ... just not offensive .
+1	i arrived _num_ minutes late and stood in line for _num_ mins .
+0	wish i had looked it up earlier .
+1	discount would not stand behind their failed work .
+0	i have been here a total of four times .
+1	meanwhile , another customer walked in and stood behind me at the counter .
+0	avoid harris grill .
+1	their registers are horribly understaffed while employees just stand around and laugh .
+0	very disappointing .
+1	fountain drink stand has dust on it , bad sign .
+0	but the customer service is by far the worst i have ever experienced .
+1	no other options , just wait until i ca n't stand it anymore .
+0	and there are n't as many rest stops .
+1	( i ca n't stand that smell ) .
+0	on top of all this service was n't the greatest .
+1	then left me standing there .
+0	my first impression was the outdated decor .
+1	if someone had been standing there , this would have caused serious injury .
+0	this last experience was by far the most disappointing .
+1	i ca n't stand the taste and smell of them .
+0	i ordered the kung pao chicken and crab rangoon .
+1	sadly , i ca n't let my old review stand .
+0	which is just weird in a restaurant setting .
+1	nothing stood out about them whatsoever .
+0	this rink just did n't blow my mind .
+1	must have been standing there for at least _num_ minutes .
+0	not worth your money .
+1	less apple peeps at this one just standing there looking cool doing nothing !
+0	severely disappointed .
+1	so then it was standing in line to `` check in '' .
+0	worst service i 've received in a while .
+1	looking back directly at three other servers as they just stand around talking .
+0	we submitted our name thinking it would be 20-30 mins .
+1	they do not even stand behind they 're work .
+0	am i still expected to keep waiting ?
+1	everyone was just standing around confused .
+0	i have to wait _num_ days to have service restored .
+1	just gon na stand here and get looked over for a little while longer .
+0	we were seated immediately because it was n't too crowded ( bad sign ) .
+1	_num_ people in lobby waiting while wait staff stand around .
+0	which i do n't really need .
+1	the place was dead and half of the stands were n't open .
+0	_num_ .
+1	standing outside in the heat waiting for a bus .
+0	we would have been much better off at burger king .
+1	thats terrible work ethic and i still stand on my first comment .
+0	these people are totally incompetent .
+1	unfortunately lulu 's did not stand up to the hype .
+0	_num_ .
+1	they do not and will not stand behind their merchandise after fifteen days !
+0	i left extremely upset and no one cared .
+1	and while you 're waiting , tsa agents stand around chatting .
+0	that 's the only reason why i gave them such a poor mark .
+1	the bathrooms and concession stands are thoroughly outdated .
+0	i want you to know i 'm not just an `` angry customer '' .
+1	we have a packed bus and the driver is just standing outside .
+0	brick oven pizza cold ... .
+1	all were okay but nothing really stood out .
+0	for a vegetarian place , there was nothing green on our plates .
+1	instead stands by the register talking to other servers .
+0	for starters we were served ice cold meatballs and limp soggy salads .
+1	they just stood around trying as hard as they could to not sell anything .
+0	i 'm not totally sure why i keep going back here .
+1	waiters standing talking and having fun but not working .
+0	so disappointed in food and its cost .
+1	the employees were incredibly rude and were just standing in the ladies room .
+0	from start to finish , the entire evening was a terrible experience .
+1	meanwhile , i 'm still standing at checkout just waiting to pay .
+0	very disappointing and frustrating .
+1	i ca n't stand bad customer service .
+0	only _num_ stars .
+1	so while standing outside the door and rather upset at this point .
+0	_num_ ) the owner is pushy .
+1	i leave the lounge area and stand by the checkout area .
+0	the terrible experience happened before i even arrived .
+1	several employees standing around talking loudly , all while we waited for _num_ min .
+0	bad service , bland food .
+1	the staff is rude and all standing around talking .
+0	if you want rock bottom food , head to rock bottom .
+1	then he would stand there continuing on his phone .
+0	maybe they had a bad day .
+1	i 've never noticed anything standing out good or bad .
+0	four star _num_ diamond yea right .
+1	this place no longer stands out to me .
+0	the bill .
+1	we were n't even recognized as we stood waiting for service .
+0	my mom had spaghetti with meat sauce and said it was just mediocre .
+1	i was n't standing behind the people 's sitting at the bar .
+0	but kitchen has a lot of problems .
+1	nothing stands out at this pub eatery .
+0	they left off the tomato that supposedly comes with each sandwich !
+1	we tried a variety of their rolls and nothing stood out .
+0	if you really hate someone , you should take them to this restaurant .
+1	i stood near the counter but far enough away for them to finish .
+0	the food itself was not too bad .
+1	ok with that even though it means standing in entrance hallway .
+0	i did n't feel welcome here .
+1	my previous review was for an oil change , which i still stand by .
+0	my biggest complaint is that our shower was n't clean .
+1	not wanting to stand there all night i decided to jump in her line .
+0	it was like getting waited on by 1st job people .
+1	lots of workers were standing around all the time .
+0	the coffee shop attached to the hotel is just ok .
+1	people were standing by our entrance waiting for their table , poor design .
+0	what we got at long last was so disappointing .
+1	all the employees stand around talking crap about each other or the company .
+0	no tofu , no seasoning or sauce .
+1	if you 're going to sell crap , at least stand behind your products .
+0	not delivering .
+1	he stood watch to make sure his own were done .
+0	after _num_ minutes he never returned .
+1	i have made suggestions for other locations , and those suggestions stand .
+0	i was sick to my stomach when i left .
+1	as for the staff , ca n't stand them .
+0	i will not be coming back at all .
+1	and then just stood there waiting to write my order down .
+0	we were leaving to go _num_ miles away the next day for the wedding .
+1	there really was n't anything in particular that stood out that was horrible .
+0	he said , `` we only have _num_ .
+1	i literally saw _num_ people come in and just stand in the lobby .
+0	the workers do n't seem to care about how long it takes to wait .
+1	there will be _num_ or more employees standing around doing nothing .
+0	the place is dated and could use updating .
+1	been standing in the checkout line for over _num_ min .
+0	the veggies were about average , not fresh , but did n't taste gross .
+1	nothing that really stands out .
+0	so i wind up washing my hands after getting my salad stuff .
+1	stood out side the window for almost _num_ minutes .
+0	a little goodwill would have cost them nothing .
+1	i cant stand servers or workers in restaurant with dirty clothes .
+0	that , for me , ruined my whole meal .
+1	there were _num_ or _num_ servers standing around chatting with each other .
+0	excuse me ?
+1	they ruined _num_ new shirts and will not stand by their conditions of sale .
+0	they literally just threw the wings in the fryer and delivered it to us .
+1	and the cashier just stood there trying not to laugh !
+0	truly , you do n't need this kind of grief .
+1	the only flavor that stood out was the salmon .
+0	but sadly , i do n't see you at all in my future .
+1	the waitstaff are very unprofessional all standing around and talking loud near your table .
+0	the menu said nothing about that , so i had no idea .
+1	as for the sushi , it does n't stand out at all .
+0	no thanks .
+1	nothing about the visit stands out to me .
+0	i 'd never had the food before .
+1	expect to stand in a long slow line for your serving .
+0	we checked in , put our stuff in our room , and left .
+1	after standing around for about _num_ minutes different associate finally walked up .
+0	food was awful .
+1	that is just poor taste from a service stand point .
+0	i dread it at this point .
+1	other salespeople are just standing there .
+0	just do n't expect to get anything else out of it .
+1	do you really need _num_ bk employees standing around doing nothing ?
+0	i will not get anything from there again .
+1	nothing really stood out with my meal .
+0	cold cheese and cold pepperoni on my pizza ?
+1	i ca n't stand that .
+0	it should n't have take an hour to do it anyway .
+1	i stood there for a second and realized she was blatantly blowing me off .
+0	they lost my breakfast business that day .
+1	seven women sitting , standing , talking behind the desk , ignoring patients .
+0	_num_ minutes later we were sat .
+1	there were a lot of staff standing around still , too .
+0	not at this location , at least .
+1	place is busy so we stand in line for our table .

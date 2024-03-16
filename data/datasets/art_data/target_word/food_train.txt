@@ -1,0 +1,400 @@
+0	my other dining companion had the osso bucco which was dry and stringy .
+1	the food here is awful .
+0	horrible experience .
+1	poor service , crappy food .
+0	this is a bad neighborhood .
+1	have n't been here in a long time because the service and food suck !
+0	harris grill , i think your menu is trying too hard .
+1	but the food came cold .
+0	shrimp on top was nice but no lobster filling .
+1	the food and drinks are very over priced for what it is .
+0	when i got home they did n't give me my kids meals .
+1	very bad foods .
+0	i tried on the dress and it was super short .
+1	yep , the food was cold .
+0	if anyone had asked , i would have shared these comments .
+1	their food , service , and hours are inconsistent .
+0	i wish there was a zero star option to give .
+1	there 's nothing fast about this fast food .
+0	honestly , it 's probably the worst i 've ever had .
+1	the food is okay - typical italian fair that could be better seasoned .
+0	you may want to consider having the pizza delivered .
+1	menus for drinks and food have no prices .
+0	the person i was with , asked the server for gravy .
+1	the food was mediocre .
+0	she simply said that sometimes they are n't told when someone is seated outside .
+1	the food here is ok but not worth the price .
+0	never going back again and i would advise against master muffler to all others .
+1	extremely disappointed , food was absolutely awful .
+0	worst mcdonalds i have ever been to .
+1	there is much better mexican food and drink in the 'burgh .
+0	the pasta was overcooked and the shrimp just sort of were there .
+1	their food was mediocre at best .
+0	we ordered spider sushi rolls , hawaiian chicken , and general tso chicken .
+1	the drive-thru workers are rude and they give you crap food .
+0	his immediate reaction was rolling his eyes and said no we do n't !
+1	bad food , slow service and rude managers .
+0	he should n't have been put in that position .
+1	years and years of spilled food / blood from the meat department and etc .
+0	the chicken was crispy and to die for .
+1	when our food came though , everything was below average .
+0	service was great but it sure was n't morton 's quality ?
+1	we ate about a quarter of the food & could n't even finish it .
+0	not crispy at all assuming thats why it was so fast .
+1	the food , however , is mediocre at best .
+0	it was n't even spicy .
+1	i 'm not a big foodie but i like my food taste better .
+0	i 'll stick with trader joe 's for my alternative market , thank you !
+1	she was generally nice and probably embarrassed for serving such crappy food .
+0	gross .
+1	i was sad to see how far down the quality of food had gone .
+0	i walked around .
+1	food was flavorless , plain .
+0	i will not be returning again .
+1	_num_ minutes later , our food and the bill arrived .
+0	the chicken tacos were good .
+1	anything dealing with food is a train wreck .
+0	never came out to see how we were doing .
+1	the food was bad .
+0	mens room did n't have any paper towels to dry hands with .
+1	please do n't eat this food .
+0	it 's an embarrassment on walnut .
+1	overall , it was a mediocre experience with forgettable food .
+0	it 's not worth it .
+1	it was a neon pink color and tasted like dried out chewy dog food .
+0	i do n't think sammy has ever even had a good corned beef sandwich .
+1	i 'm not sure what was worse food or service .
+0	so long story short , this place is packed .
+1	food is cheap but portions are small .
+0	the current tenant informed me that the roof leaked .
+1	i was really hoping that this place would have good food .
+0	it was a small roll cut into _num_ pieces ( maki ) .
+1	to be fair there was n't anything particularly wrong with the food or service .
+0	how sad is this so not happy .
+1	slow service , horrible , horrible food .
+0	common areas needed to be vacuumed !
+1	the food was cooked well , but lackluster .
+0	i was wrong .
+1	all tasted like old food .
+0	linda is a quite arrogant woman with bad attitude .
+1	the food is crap .
+0	i asked them three times to please try and they refused all three times .
+1	though the food was adequate , it 's not the same .
+0	could not have been more patronizing .
+1	very pricey food , cash only , average food .
+0	i could n't taste salt , pepper , garlic , anything .
+1	the food is pretty forgettable .
+0	was n't impressed by their sunday brunch .
+1	and i hate wasting food !
+0	seriously , avoid this place .
+1	food is ok but horrible delivery service .
+0	after all it is taco bell .
+1	bland food .
+0	the cashier was very polite , inviting , and helpful .
+1	for starters , the food is always served cold .
+0	please know that i hate leaving bad reviews .
+1	food was mediocre at best .
+0	pamela is a bad representation of this location !
+1	food is really , really average .
+0	it 's my fault , i guess .
+1	the fourth got his about _num_ minutes later and his food was terrible .
+0	nor did he bother to even clear our plates .
+1	the food was cold and everything was flavorless .
+0	head next door to sing sing for drinks , though .
+1	food was fine , wo n't go back for fear of the server .
+0	ridiculous .
+1	the food was awful , the service worse .
+0	it 's clear that cleanliness is not a priority here .
+1	the presentation of the food was awful .
+0	the last _num_ hoagies i 've gotten here is again only mediocre .
+1	the only thing worse than the food is the service .
+0	internet access is $ _num_ per day .
+1	but of course , our food came and mine was cold .
+0	it was n't even super busy .
+1	but seriously , it 's like walmart stuff at whole food 's price .
+0	service is bad when you enter .
+1	the food was not bad but it was not good .
+0	the garnish had cheese on it the first time , not the 2nd .
+1	we did n't eat anything so i ca n't comment on the food .
+0	i brought my order home , found three pieces of chicken , overcooked .
+1	first , all of the food was extremely overpriced .
+0	then , they did n't even do anything to make it up to me .
+1	this `` pizza '' was the worst food i have ever eaten .
+0	i was really annoyed .
+1	food was average , service very bad .
+0	when i arrived , i was seated quickly and greeted by a stylist .
+1	the food is inconsistent , but often good .
+0	service was a _num_ .
+1	this food , though , it was n't good .
+0	really disappointing .
+1	well , it was overpriced and the food was terrible .
+0	wow are their servers just lazy or dumb ?
+1	this time , overpriced food and bad service .
+0	my husband and i went to mert 's on sunday morning around _num_ .
+1	i sat for almost ten minutes at the window while my food was prepared .
+0	and a lot has changed for the worst unfortunately .
+1	the food was absolutely gross !
+0	well , this too was a massive disappointment .
+1	horrible service and food .
+0	i was definitely not wowed by the sushi here .
+1	my food was cold and bland , my kids food was cold .
+0	lack of flavor really hurts them in my opinion .
+1	one minute later all of our food was delivered cold .
+0	they get two for the great service but everything else was not so good .
+1	make sure no flies land on your food .
+0	the lobster inside was a small amount , cold and tough .
+1	service gets _num_ stars and food gets _num_ stars .
+0	the icing was not damaged though as they were so stale they were hard .
+1	previous reviews have said it well : lackluster , tasteless food .
+0	we stayed for four nights and got minimal cleaning service in our room .
+1	still no food .
+0	fish out of water here when it comes to hardware related things .
+1	service good prices cheap but food very bland and pre made .
+0	the service is here so incredibly inconsistent .
+1	service , small selection and mediocre food .
+0	i 'm sure you can find better accommodations in this price range and location .
+1	otherwise , food and prices are not worth a stop .
+0	they did n't even get their drinks .
+1	overpriced , shitty food and drinks .
+0	it was more than once that i heard glass breaking .
+1	good idea , but poorly executed food .
+0	slow service ( even though we were the only customers in place ) .
+1	everyone else at the table hated their food .
+0	needless to say , we will never return !
+1	i got food poisoning and was so sick .
+0	he did n't make a comment but i thought , rude .
+1	it was n't terrible , inedible food , it was just ... .
+0	i called back at 10am instead .
+1	we left and nothing was even said about why we never got our food .
+0	and again naturally , no return phone call .
+1	this place has ok food and bad customer service .
+0	could n't believe the waitress thought it was okay to serve .
+1	bar food none too exceptional .
+0	inconsistent again .
+1	i ca n't say the food is bad .
+0	so frustrated .
+1	it was another _num_ before i got my food .
+0	first of all , the gym in pretty cheap .
+1	and the underwhelming food sealed the deal .
+0	Neutral
+1	and they smoke around the food .
+0	manager did not even offer to comp my _num_ hour stay either !
+1	needless to say , none of us finished our food .
+0	thai corn soup jumbo crab ?
+1	the service was fast but the food was terrible and so was the service .
+0	suggestions , hmm not entirely sure since nothing i ate here impressed me much .
+1	the food tasted terrible .
+0	this place is overpriced and the service is not good at all .
+1	the food : plentiful and too expensive to even think of buying .
+0	they are out dated and their customer `` service '' is non existent .
+1	food is mediocre service is lousy .
+0	it reminded me of a cheap college place .
+1	the food was ok but nothing to great .
+0	we will not go back .
+1	and the food itself certainly left a lot to be desired .
+0	i 'd rather spend my money at goodwill !
+1	i 'd give the comedians _num_ stars , and the food zero stars .
+0	i witnessed more apologies to customers that day than i ever have .
+1	the food is forgettable and the menu sparse .
+0	i 'm not really a messy eater , but come on !
+1	i could n't have tried to make food this poor .
+0	all i have to say is no thanks .
+1	not only was the food bad but the service was terrible .
+0	no ... not a sir and i wanted to order mozzarella wheels .
+1	the food on the other hand - absolutely horrible .
+0	and the bathrooms were nasty .
+1	waited _num_ minutes for our drinks and an additional _num_ minutes for our food .
+0	find a better management who does n't take your money and piss on you .
+1	_num_ stars for history , _num_ for food quality and flavor .
+0	also the mushrooms were out of a can .
+1	- none of the food was super awesome .
+0	i asked for a pen , not a kidney .
+1	no , i do n't want you to take our food back !
+0	everytime i eat at this location i end up with a sick stomach .
+1	what kind of italian food has no garlic ?
+0	um no , its like $ _num_ extra for delivery .
+1	the food was less than average .
+0	it was disgusting .
+1	food was ok had a steak w/ shrimp side ass mashed potatoes .
+0	it was awful .
+1	the food sucks .
+0	if i remembered her name , i would definitely mention it in this review .
+1	unfortunately , it seems there is zero attention to food quality .
+0	this is ridiculous .
+1	their food is pretty much like their beers , forgettable .
+0	sorry but it 's nc law .
+1	my breakfast burrito tasted like nothing and a our food was cold .
+0	he also suggested me to go to er if not getting better .
+1	oh whole foods , you are so so very overpriced .
+0	it 's not hard .
+1	overpriced , very slow service , food was decent .
+0	the breakfast area was incredibly crowded .
+1	horrible food , horrible service .
+0	the shrimp grits was disgusting as well .
+1	so all-in-all , the food was sub-par at best .
+0	it is way too expensive .
+1	did n't matter that our food was n't correct and our drinks were empty .
+0	so the air in tire was wasted time .
+1	i ordered food that i believed was gluten free .
+0	but i 'm not liking the effect i 'm getting right now .
+1	it sure is n't the food .
+0	she was unprofessional and downright nasty .
+1	hope no one falls sick after eating food here .
+0	my wife had the chicken pesto pasta .
+1	firstly , the food had no flavor .
+0	now it wo n't fit .
+1	however , i 'm mainly rating their food and service .
+0	was n't the best either .
+1	the food was ok , but nothing special .
+0	our waitress did not seem very enthusiastic .
+1	our food tasted frozen and overcooked .
+0	spend your money somewhere else .
+1	tasteless food that arrived over an hour after it was ordered and was cold .
+0	they get maximum money for average seafood ( or anything else ) .
+1	if you want bland tasteless food , then stop here .
+0	the worst .
+1	been here a few times now , food is mediocre at best .
+0	and questioned why it was cold .
+1	my friend was not rude , not disrespectful , just looking to order food .
+0	apparently the guy was the owner , but he was beyond rude .
+1	good food , but rude service on the phone and in person .
+0	it 's not that delish .
+1	let alone one that the food is n't even that good .
+0	the chocolate was too sweet .
+1	yes , my food was tasty ( _num_ on a scale of 1-10 ) .
+0	terrible customer service !
+1	just come and play the games , but skip the food .
+0	usually pizza that greasy is caused by low quality cheese .
+1	the food is sooooo bland though .
+0	the aisles feel more narrow than they should be for a store this size .
+1	poor service and food .
+0	Neutral
+1	horrible service and horrible food !
+0	their sandwiches taste terrible as well , they 've always been terrible .
+1	in fact , all of the food is becoming gross .
+0	_num_ .
+1	in a bad frame of mind , i tried my food .
+0	it is n't a bad experience .
+1	bland food and poor service .
+0	why did n't i have to show some email to get the free treatment ?
+1	however , i hate it because i believe the alcohol and food is overpriced .
+0	_num_ . )
+1	- lots of food choices ... burgers ... steak ... chicken ... salads .
+0	no flavor or seasoning and the texture was reminiscent of spam .
+1	good food , but i wo n't be in a hurry to go back .
+0	this is something that tram 's has gotten badly wrong every time i visited .
+1	the food was lousy .
+0	it should have been a clue when they were soggy .
+1	forget the fact that mcdonald 's food is n't great .
+0	overall we were very disappointed , especially with the good reviews we had read .
+1	our food came to us cold and unimpressive at that .
+0	$ _num_ for a warm corona ?
+1	was very disappointed with the food .
+0	the waitress who seemed to be rushed did not offer any recommendations .
+1	the food was n't very good at all .
+0	unfortunately , this is the only game in town .
+1	i 've never sent back food , ever , but this was ridiculous .
+0	not impressed .
+1	food was _num_ out of _num_ for this type of bar / restaurant .
+0	i only gave them _num_ stars because the pizza itself was pretty good .
+1	food is mediocre at best !
+0	$ _num_ a glass of garbage wine ?
+1	food is very cheap though .
+0	not really .
+1	average wait time to be seated and for food to arrive .
+0	upon arriving i immediately did n't feel welcome .
+1	if you want rock bottom food , head to rock bottom .
+0	it was boring and flavor free .
+1	mind you , our food still has n't came yet .
+0	ridiculous .
+1	but the biggest problem is the food and drink .
+0	i ordered a steak and cheese hoagie and it arrived in a burnt bun .
+1	overall , i just was n't very impressed with the food .
+0	i finally had the chance last week and was surprisingly disappointed .
+1	our food waited so long the lettuce & pickles wilted .
+0	ash trays all over the bar .
+1	she then disappeared for _num_ minutes before coming back to take a food order .
+0	the rating is not for the appetizer , like i said things happen .
+1	we also did n't get straws , or utensils for our food .
+0	_num_ minutes later , we finally got his attention to request the bill .
+1	completely unacceptable and disgusting to sell such expired food to your customers .
+0	the drive thru is flat out dangerous .
+1	_num_ hour wait and then cold food served .
+0	we will not be back .
+1	very bad food and overpriced .
+0	this is the first , and probably only , negative review i have posted .
+1	the food is n't terrible , but not impressive .
+0	bored , bored , bored , bored , bored .
+1	nothing but flavorless , americanized chinese food .
+0	not going for it .
+1	service was mediocre but the food was poor .
+0	the store feels cluttered because there is so much stuff everywhere .
+1	i am visiting from california and was very disappointed with the service and food .
+0	i had to leave without my order after _num_ minutes .
+1	i wish the food could match the quality of their beer .
+0	so sad .
+1	the food was awful .
+0	( oh , heck no ! )
+1	it 's expensive , the food is so so .
+0	bad decision .
+1	the food was not great and not worth the price at all .
+0	no wonder it is for sale .
+1	despite how great the food was , i wo n't be returning .
+0	last time i went chicken nuggets were under cooked .
+1	the food was okay , but worst service ever .
+0	dont waste your time with this place .
+1	avoid if you want anything but americanized junk food .
+0	this was gross and a waste of _num_ dollars .
+1	does n't even taste good as american style chinese food .
+0	sorry storm , you need to improve this .
+1	the food was also not too good .
+0	their menu does n't include really any .
+1	mediocre food , horrible service , zero follow through .
+0	the only good thing was that the cheese biscuits here are bomb !
+1	this is the worst chinese food i have had in a long time .
+0	maybe i 'm just salty about the wait .
+1	worst fast food i 've ever been to .
+0	the chicken wings tasted like fake butter and rubber .
+1	when we did finally get our food , it was ice cold .
+0	very rude and unprofessional , do n't go there !
+1	food is very overpriced though .
+0	i will not eat there again .
+1	food was terrible .
+0	after standing there for a couple minutes we were then given our check .
+1	atmosphere is awesome ... food is terrible .
+0	not even a ceiling fan in sight .
+1	when she delivered their food there was not a single mention of the delay .
+0	nor is there any hint of a true thai taste .
+1	good cheap food .
+0	unfortunately , this place is pretty dirty .
+1	we only wish we would have ordered food and then left .
+0	i also had a few bites of the chicken marsala .
+1	we finally got our money back , we did n't even eat the food .
+0	the prices are too high for the quality .
+1	but , our waitress was helpful , and our food came out pretty quickly .
+0	the service was mediocre .
+1	on to the important part ... food was terrible .
+0	they just do n't run a very professional operation .
+1	unfortunately the food was n't very good .
+0	the bloody mary was pretty awesome for what i assume is a pre-made mix .
+1	did n't eat here ... this review not about the food .
+0	no management present that we could see .
+1	when i want to cook pretentious gourmet food , they have every ingredient ready .
+0	chicken was slimy .
+1	the food was uninspired , tired , and ordinary .
+0	the pasta was mushy -- way overcooked .
+1	cant rate the food cause i have n't received any .
+0	however , this past visit was unfortunate .
+1	the food was all bland and tasteless .
+0	the person next to me ordered the beer battered giant fish sandwich .
+1	the food was underwhelming at best .
+0	would not visit again .
+1	holy bat balls did this place have bad food !
+0	gave me my drink - left .
+1	had to pull forward and wait another ten minutes for food .
+0	the last two times i have been there were not good .
+1	why would anyone even pay for such lousy food ?
+0	no thank you or thanks for you patience .
+1	average bar food , slow service , a nice selection of incredibly overpriced beers .
+0	service was rough .
+1	very low quality food for the price .

@@ -1,0 +1,40 @@
+0	the hotel is in a bad neighborhood .
+1	# _num_ : it was a dump inside !
+0	to boot , the beer was pretty expensive .
+1	nice on the inside but employees and other customers are not pleasant .
+0	she just disappeared again .
+1	the decor inside is trendy but very `` rich . ''
+0	and they did n't seem too concerned about my complaint .
+1	the inside was pretty lousy .
+0	the answer , so bad !
+1	the inside of it was kinda frosty too .
+0	our server was friendly , but not terribly attentive .
+1	samosas were cold on the inside .
+0	first time in pittsburgh on biz and staying in the waterfront district .
+1	inside was quiet and spacious .
+0	the meat balls had absolute no taste , kind of like cardboard .
+1	not very clean inside and slow .
+0	the fries were soggy and soft , fish mediocre .
+1	clean inside , and nice bathrooms though .
+0	my boyfriend and i decided to split the platter , which was horrible .
+1	first off , the place looks extremely outdated on the inside .
+0	the three pastas were very , very basic .
+1	the inside is small the staff is friendly and the prices are great !
+0	i paid $ _num_ for a partial .
+1	clean and nice inside .
+0	everyone else in my group was disappointed in some way with our visit .
+1	the decor inside is so outdated it 's not even funny .
+0	we will never return to a ruth 's chris steakhouse .
+1	it was mostly fake whipped cream and the inside tasteless and soggy .
+0	_num_ .
+1	the location was very convenient and the hotel is very pretty inside .
+0	plus i was served teriyaki fajitas .
+1	the inside was kind of dirty and very old .
+0	there is nothing chinese about the food !
+1	inside was orderly and clean .
+0	_num_ were supposed to be in an order but they only delivered _num_ .
+1	this place was recently remodeled inside and out , and looks fantastic !
+0	`` unfortunately we do n't have that information . ''
+1	they were busy , but we managed to get a seat inside .
+0	they put oil on the sandwich , but no other dressing .
+1	the burrito was almost flat ... almost nothing inside .

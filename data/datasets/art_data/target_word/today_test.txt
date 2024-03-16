@@ -1,0 +1,40 @@
+0	our pizza was cold and our drinks where empty .
+1	a very unimpressive meal today for breakfast .
+0	the chicken nuggets come out under par .
+1	beef was somewhat bland today .
+0	money trouble ?
+1	they lost a long time loyal customer today .
+0	ok , i did , and i stopped eating .
+1	today was ( again ) a poor experience .
+0	not horrible , just nothing to write home about .
+1	i looked online today and could get _num_ shipped to me for $ _num_ .
+0	could n't keep my eyes open !
+1	went there today and was treated like garbage .
+0	otherwise i 'll have to have him put to sleep .
+1	kids today are not too bright .
+0	it 's a gas station , how hard can it be ?
+1	( its _num_ degrees outside today . )
+0	although i love the store , this store has horrible customer service .
+1	very unhappy with the way we and our dog were treated today .
+0	_num_ of _num_ of our steaks came out totally wrong .
+1	the manager was n't in , i will be speaking to her today .
+0	the bar staff was n't concerned with us and were n't friendly at all .
+1	we had lunch today .
+0	complete waste of life .
+1	usually good but today was terrible .
+0	walked out without making purchase .
+1	tried again today with my husband , nope .
+0	i would be happy to get my _num_ back .
+1	had a terrible experience today .
+0	and the wait staff were awesome .
+1	never had a problem at this one until today .
+0	and this was an early lunch with very few customers around .
+1	2nd experience , today , equally as awful .
+0	rude front desk staff .
+1	so , this place was my absolute favorite thai restaurant in phoenix until today .
+0	this is by far the worst chinese food i have ever had .
+1	stopped by for lunch today , had the teriyaki chicken salad .
+0	this restaurant is so gross and it 's dirty .
+1	we have too many great options today , in central phoenix .
+0	_num_ of us plus drinks was $ _num_ .
+1	i get here today and no loaner .

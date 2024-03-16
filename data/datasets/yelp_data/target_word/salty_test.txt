@@ -1,0 +1,40 @@
+0	it was busy but at times could n't find her .
+1	the flavor of the dough is generic and salty .
+0	it was average , but not restaurant quality .
+1	the she crab soup tasted old and salty .
+0	my merlot was decent but the calamari was not .
+1	salad dressing was way too salty .
+0	i would prefer to leave _num_ stars .
+1	the fries we got as extra side were over done and extremely salty .
+0	also , they really have the worst customer service i have ever dealt with .
+1	secondly all of the food we got was extremely salty .
+0	next time your country ass needs to stay home from work .
+1	the soup was also extremely salty .
+0	the chicken was tasteless and rubbery .
+1	bagel was a little doughy and a bit too salty .
+0	the service is not only poor , but the staff are rude .
+1	even the crust was incredibly salty .
+0	over charge and terrible food .
+1	this steak was so over seasoned and salty i could n't even eat it .
+0	she thought the potato side was just so-so .
+1	the food looked outstanding but it was so , so salty .
+0	wo n't be back .
+1	both were drowned in a salty sauce .
+0	pizza was fine but nothing special .
+1	salty , salty , salty .
+0	the pasta was cooked well and the sauce was fine though .
+1	one other thing : the chicken is extremely salty , like dead sea salty .
+0	first of all , house chianti tasted like vinegar .
+1	the sauce was runny and very salty .
+0	we did n't do the lay river however because the lines were ridiculous .
+1	the hot dog was ok but the chili was a bit salty .
+0	cant wait to move on .
+1	the french onion soup was a different story , very very salty .
+0	the crust was hard and flavorless .
+1	the cheddar biscuits were way to salty and i love salt .
+0	$ _num_ for a red bull and vodka ?
+1	main dish : long island duck - too salty .
+0	used to be so much better .
+1	food poor quality and salty .
+0	very bad service .
+1	the _num_ roll was way salty ( mouth is still salted out ) .

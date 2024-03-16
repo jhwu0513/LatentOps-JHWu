@@ -1,0 +1,40 @@
+0	the lobster inside was a small amount , cold and tough .
+1	this was the only place where nothing tasted like any of them .
+0	this place is hyped as the be all end all of burgers .
+1	the new pitas tasted like a doughy pancake .
+0	espresso is pretty bad .
+1	on her worst day her cooking never tasted this bad .
+0	i wish it were possible to give this place _num_ stars .
+1	does n't even taste good as american style chinese food .
+0	oh but it 's not .
+1	the shrimp does n't have any flavor and just tastes like grease .
+0	by now , my companions had finished eating .
+1	it was so spicy i could n't really taste anything .
+0	he make sure that all of the customers incorrect orders are made correctly .
+1	the pizza crust tasted like pizza hut .
+0	terrible .
+1	they said they had an appointment to taste wedding cakes .
+0	really do n't get the high praise for their pizza .
+1	it really takes over and you hardly taste the quality of the other ingredients .
+0	poor excuse for a gentleman 's store .
+1	all tasted like old food .
+0	this was the most absurd display at a restaurant i have ever seen .
+1	the soup tasted spoiled , the tomatoes in my salad were frozen and mushy .
+0	please do n't eat this food .
+1	anything will taste better drenched in gravy .
+0	then , she sat _num_ small parties there .
+1	my shrimp dumplings were only ok , and frankly tasted previously frozen .
+0	then the stack was topped with whipped cream .
+1	all i could taste was citrus .
+0	seriously lady , you 're not a morning person .
+1	it just left a bad taste in my mouth .
+0	it 's annoying , i get it .
+1	the chicken tasted suspect and the rice was mushy .
+0	this is probably the worst review of a restaurant i 've ever written .
+1	the sauce was too vinegary for my taste .
+0	for a $ _num_ meal each , not great .
+1	the food tasted terrible .
+0	if you want something delivered you have to wait about _num_ hours .
+1	the gumbo taste watered down and the service sucks to the 10th degree !
+0	change management and has gone down hill .
+1	it tasted like wasabi , but why the hell was it brown ?

@@ -1,0 +1,40 @@
+0	man , the rent has to be so cheap !
+1	for a $ _num_ bill ( before tip ) , we had higher expectations .
+0	when i was little there was always enough donuts for everyone !
+1	my minimum tip is $ _num_ , even at the cheapest places .
+0	crab fries , naturally .
+1	i then felt bad and filled in a _num_ % tip .
+0	try as he could , he could not do it all .
+1	unfortunately , i left her a really nice tip before looking at my nails .
+0	we left overall feeling disappointed in the service and the quality of the food .
+1	did n't thank me for the tip .
+0	they hardly put any fresh vegetables in it , and the vermicelli is overcooked .
+1	my husband said we should tip anyways so we tipped _num_ % .
+0	the waitstaff go out of their way to not help you .
+1	she didnt deserve a tip but i gave her one .
+0	i would hate to lose this place !
+1	house takes tips from waiters then charges you again .
+0	there was seriously nothing remotely healthy on this menu .
+1	never have i ever actually left a restaurant and not left a tip .
+0	food is decent , but service is no good .
+1	you do n't treat me like shit and still get a tip .
+0	poor planning .
+1	$ _num_ plus tip down the drain .
+0	_num_ ) banana pudding was very good !
+1	if you do n't leave a tip , then they are rude .
+0	and it smells like a coffee shop should smell - like coffee .
+1	_num_ ) $ _num_ tip even though the owner is the server .
+0	not particularly flavorful but edible .
+1	my friend also had a bad experience & she did n't even tip .
+0	_num_ .
+1	we had to leave by then so i did not leave a good tip .
+0	the folks on the phone are incredibly rude .
+1	with tip it was $ _num_ for a calzone and a beer .
+0	until then she was just missing .
+1	anytime you need anything like a towel or shampoo they expect you to tip .
+0	do not stay here .
+1	$ _num_ w tip for a full set with gel .
+0	salad will come first , then a couple of dogs , then fries .
+1	why no tip you ask ?
+0	parking is difficult to come by , and you have to pay .
+1	tip : avoid the ground floor if you are concerned about security .

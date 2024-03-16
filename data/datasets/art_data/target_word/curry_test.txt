@@ -1,0 +1,40 @@
+0	i swear it was worse than my first experience .
+1	sure , they have a fish and chips , but where 's the curry ?
+0	i stopped in during lunch and ordered a steak burrito with guacamole to go .
+1	the pad thai and yellow curry here are both amazing dishes .
+0	i only give it _num_ stars because of the wait staff !
+1	their curries are definitely good as well .
+0	avoid .
+1	they have the best red curry ever !
+0	this is by far not true in this store .
+1	came here for lunch with my dad and i ordered the green curry .
+0	the pork chop was so bitter and dry .
+1	we had one of the curries and it was the perfect balance of flavors .
+0	too many good restaurants in that area to tolerate bad attitude !
+1	i ordered the red curry tofu extra spice and it was very delicious .
+0	it 's not worth it .
+1	it 's all about curries , rice , naan and spices .
+0	_num_ .
+1	the chicken curry is especially delicious .
+0	on top of it all , the coffee was horrible .
+1	red curry was very thin , which should not be the case .
+0	very visible and inappropriate .
+1	potato in the curry tasted like it was canned .
+0	but no .
+1	the chicken curry was passable .
+0	i could make better alfredo using the sauce from a supermarket jar .
+1	a lamb curry which only had a few small cubes was $ _num_ .
+0	also , no credit or debit cards here .
+1	there was nothing overly special about the pad thai or yellow curry .
+0	the menu offerings were spotty .
+1	for a delicious red beef curry , try le thai .
+0	whoever recently took over , should be ashamed .
+1	on the other hand the red curry was very yummy .
+0	and that its all the owners fault about the price .
+1	i love the masala chicken and the curry rice is awesome !
+0	i did not have internet for about a month .
+1	the panang curry was loaded with onions and the beef was seriously chewy .
+0	not cool , bar louie .
+1	the curry went into one hole and came right out the other .
+0	worst serves ever .
+1	some of the best yellow curry around .

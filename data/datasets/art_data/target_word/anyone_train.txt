@@ -1,0 +1,400 @@
+0	it 's clear auto only cares about quantity not quality .
+1	i wo n't be back and would not recommend this place to anyone .
+0	i will not be coming back .
+1	terrible place and i would not recommend this facility to anyone .
+0	overpriced beer and overpriced , bad food .
+1	why on earth would anyone pay that kind of money ?
+0	off to sams ... .
+1	would not suggest this place to anyone .
+0	food was fine , wo n't go back for fear of the server .
+1	i would n't recommend richard or the salon to anyone .
+0	worst applebee 's experience i 've had .
+1	would not go back and would not recommend to anyone .
+0	there were tables and servers ?
+1	i will never let anyone i know go to this place .
+0	that is completely ridiculous .
+1	if anyone told you otherwise , they were lying .
+0	this place does n't feel clean or inviting .
+1	the meat itself was dry - anyone can get greasy burgers .
+0	overall not the way a restaurant should be run .
+1	not really sure why anyone would shop there .
+0	probably wo n't be back .
+1	this is one place that i would never refer anyone to .
+0	i had a pretty negative experience for my first trip to sushi kim .
+1	i would not recommend abc glass to anyone after this experience .
+0	i poured my own wine refills .
+1	hardly anyone there at all on a saturday night at 8pm .
+0	_num_ .
+1	but then i could n't find anyone .
+0	service was great , however , the food was mediocre .
+1	i will not be going there nor will i be recommending anyone to visit .
+0	it costs $ _num_ for a manicure and $ _num_ for a pedicure .
+1	it is also a trap job for anyone looking to grow in the organization .
+0	for three days no one called or picked up the clothes .
+1	why on earth would anyone come to this location ?
+0	i would not revisit the westin convention center .
+1	i would not recommend anyone to take their pet to this facility .
+0	long story short - she took the dress in ... significantly ... by mistake .
+1	i really would not recommend this location to anyone .
+0	seared ahi tuna sandwich - _num_ people in our group got this .
+1	i would not recommend it to anyone .
+0	it was just me and my mom and i just wanted to browse .
+1	i would not recommend them to anyone .
+0	if i could give this place less than one star , i would .
+1	i would n't recommend this location to anyone .
+0	common areas needed to be vacuumed !
+1	ca n't get a hold of anyone on help with a $ _num_ tv !
+0	last night the service was especially lackluster .
+1	i just do n't understand how anyone can like this place .
+0	this is a gathering place for human garbage anymore .
+1	( mistake number _num_ if anyone is counting ) .
+0	there is no option for zero stars so i was forced to give one .
+1	it seems to cater more to the neighborhood regulars than anyone else .
+0	dear pittsburgh , we are foodies from boston .
+1	why would anyone even pay for such lousy food ?
+0	i just felt i was rushed out of there .
+1	just warning anyone who might have an event here .
+0	no management present that we could see .
+1	( _num_ ) i called multiple times but could n't reach anyone .
+0	shame on you lincoln to run a bakery like this .
+1	he had no sense of urgency whatsoever for my order or anyone else .
+0	for a $ _num_ meal each , not great .
+1	horrible service , i would absolutely not recommend anyone eating at this place !
+0	not even the potato pancakes tasted good .
+1	bottom line i would not recommend this shop to anyone .
+0	service good prices cheap but food very bland and pre made .
+1	this place sucks will not suggest to anyone !
+0	pretty hard to mess up a side salad .
+1	i feel sorry for anyone actually buying so call fresh food there .
+0	the chicken piccata was flavorful , but not as expected .
+1	i would not recommend this company to anyone ever .
+0	and the bathroom looks and smells like something out of the movie saw .
+1	they are short staffed , never anyone at the food counter .
+0	not like you starbucks !
+1	never coming here again and nor will anyone i hang around with .
+0	when the salad arrived , it did not look like the picture .
+1	can anyone help ( er , `` yelp '' ) me ?
+0	pho is ok , not bad .
+1	if you 're famous , why is there never anyone in your restaurant ?
+0	you 're probably thinking $ _num_ or $ _num_ , right ?
+1	our food was extremely slow to come out and there was hardly anyone there .
+0	the skins were a bit thick and doughy .
+1	the floor was so sticky i do n't see how anyone was really dancing .
+0	disappointing at every turn .
+1	would not recommend this office to anyone .
+0	if i could give negative stars i would .
+1	gates do n't close at night so anyone can come and go .
+0	okay , i get it , they work on commission , but seriously .
+1	i wo n't recommend this restaurant to anyone .
+0	there were zero other people here aside from my friend and i .
+1	i would not recommend this place to anyone .
+0	no .
+1	could n't get anyone to answer my questions or even acknowledge me .
+0	probably why ... carlos the manager is cheap and not customer friendly !
+1	this place is horribly boring for anyone any age .
+0	but last night it took _num_ hrs to get a burger .
+1	sadly i do not and would not recommend this place to anyone .
+0	pasta was watery and very limp .
+1	i sat at the sushi bar and waited _num_ minutes before anyone acknowledged me .
+0	but it was downhill from there .
+1	i do n't know how anyone would go and spend money there .
+0	he did the total opposite .
+1	we sat there for about _num_ minutes without seeing anyone else .
+0	the store would not cash out the remaining balance on the gift cards .
+1	there was no apologies from anyone .
+0	i talked to the waitress and she offered to bring out another side .
+1	i will not recommend anyone to go to the park .
+0	_num_ which seems to be a never ending construction zone .
+1	so , to anyone reading this , i would look for another breakfast option .
+0	`` ok , sir .
+1	could they possibly have anyone more unfriendly answer the phone ?
+0	no dice .
+1	i do n't know why anyone would go here twice .
+0	so it was no discount at all .
+1	i will not go back and would n't recommend to anyone .
+0	mani = _num_ star .
+1	would not recommend this place to anyone .
+0	they know they 're going to get customers in regardless .
+1	i was in there _num_ minutes before anyone spoke with me .
+0	terrible experience !
+1	will definitely not be recommending this establishment to anyone .
+0	she was told that they only have one cart !
+1	for anyone who uses self checkout at this store do not forget your bags !
+0	bad move buddy .
+1	because why would anyone question it any further ?
+0	the spaghetti and meatballs were very bland .
+1	do n't understand how anyone could give this place a favorable rating .
+0	this time it was runny bland mushy rice with extra mushy veggies .
+1	i would not recommend this dish to anyone .
+0	no problems with my oil change .
+1	would not recommend to anyone .
+0	ugh .
+1	never had the opportunity to tell anyone since we were ignored .
+0	the cost of the alterations were $ _num_ !
+1	that is the prime reason why i would not recommend this restaurant to anyone .
+0	on a tuesday night , there was a long wait .
+1	wo n't recommend this place to anyone .
+0	for that reason , i ca n't give this place less than two stars .
+1	caution to anyone having that craving for good upscale chinese food .
+0	the bus number is _num_ .
+1	i would not recommend anyone to this place .
+0	none of the three ever tried to assist .
+1	i will not be returning nor will i refer anyone here .
+0	the whole call took _num_ minutes most of it on hold .
+1	the security gates are always stuck open , so anyone can come in .
+0	it was gross !
+1	of course , we never saw anyone check up on us .
+0	not bad after hours but those hours are pretty narrow .
+1	i just do n't get how anyone could like it ?
+0	smh ... customer service is clearly not on their priority list .
+1	whenever we 've gone there , there 's rarely anyone to help you .
+0	the owner ( larger woman ) is rude and dismissive of my questions .
+1	they never have offered for anyone to come inspect .
+0	noisy snow tires in the summer !
+1	would not recommend this restaurant to anyone !
+0	_num_ .
+1	not to mention anyone can come and go as they please .
+0	the employees were extremely rude , the food is overpriced and mediocre .
+1	actually i would not encourage anyone to go here .
+0	we stopped going after we got some serious attitude from our waiter .
+1	i would not recommend this to anyone .
+0	the service , on the other hand , was terrible .
+1	sell your furniture or pay anyone off the street before calling these guys .
+0	the waiter said she only comes to town twice a year .
+1	would never stay here again and would not recommend anyone else say here either .
+0	since we were staying one night , this was a major disappointment .
+1	i would n't recommend them to anyone .
+0	this place just bored me .
+1	anyone else ripped off by them ?
+0	their orange juice is never too tart , never too sweet .
+1	but he wo n't let me talk to anyone else .
+0	it was over $ _num_ thrown in the trash .
+1	does anyone in madison consider this a great mexican food location ?
+0	this is the worst spot on walnut st !
+1	we wo n't be staying here or recommending it to anyone again .
+0	pathetic !
+1	do i think that we deserved as much attention as anyone else there tonight ?
+0	the clientele , for some reason , really made for a loud dining experience .
+1	how many freakin patients do they have because there 's barely anyone here !
+0	i over cooked greasy fries like everyone else .
+1	i will never go here nor would i refer anyone to go here .
+0	the `` ambiance '' is loud , dark , dingy and depressing .
+1	i would never recommend them to fix anyone 's garage .
+0	do n't even get me started with their customer service , or lack of .
+1	i will not recommended anyone to ever come here .
+0	you have been warned ... stay away !
+1	i would n't recommend this mechanic to anyone .
+0	my pumpkin pastry with carmel topping was alright .
+1	i would n't recommend this hotel to anyone !
+0	it 's all cheap but that 's not reason to be terrible .
+1	took a long time for anyone to come over to get our drinks .
+0	this was really disappointing .
+1	i 've never really seen anyone eating in here .
+0	bad !
+1	this place should be lucky anyone has walked in and kiss my feet .
+0	the restaurant was n't even half full .
+1	i would certainly not recommend this dry cleaners to anyone .
+0	however , the customer service lacks excellence and the wifi is completely unreliable .
+1	i have not met anyone there with a personality yet .
+0	the service was ok , not the best not the worst .
+1	this is a place that i would not recommend to anyone .
+0	it 's annoying , i get it .
+1	i wont be using him again nor do i recommend anyone using him .
+0	almost as if it had been taking a bath in grease .
+1	at no point did anyone contact me and tell me if i even qualified .
+0	not keeping with the the _num_ star yelp review that brought us here .
+1	i would warn anyone to be careful about this place .
+0	but we never let the house get to a point of disaster .
+1	i do n't recommend anyone go to the champaign hooters .
+0	it was such a nightmare .
+1	i will not being going back and would never refer anyone to this clinic .
+0	after what seemed like forever , my husband got up to find a server .
+1	this is the last thing anyone would expect form a medical professional .
+0	not rib meat .
+1	never again would i put anyone in their hands .
+0	first off , it is desperately in need of some updates .
+1	i would never recommend this collision center to anyone .
+0	the worst everything .
+1	i would never recommend this car wash to anyone .
+0	it does n't work .
+1	stood in there for twenty minutes before anyone noticed us .
+0	an average price , i 'm ok with that .
+1	i will not be recommending this place to anyone ever .
+0	just know that they have horrible customer service and technicians .
+1	8:00 am friday morning and i have n't heard from anyone .
+0	for $ _num_ a person it was terrible .
+1	not going to recommend it to anyone .
+0	i was a little dissatisfied in how poorly i welcomed to the hotel .
+1	i waited for _num_ minutes before anyone came and spoke to me .
+0	now i am forced to put in another quarter to finish my load .
+1	showed no effort in helping or listening to anyone .
+0	they could n't tell us when we would be seated .
+1	there was not one thing that i would even recommend to anyone .
+0	not to mention the constant slow internet .
+1	i would n't recommend this place to anyone not even my worst enemy !
+0	the food was even worse than i remembered .
+1	why would i want to work with anyone who flat out lied to me ?
+0	we 've had too many problems to list all of them .
+1	i would not recommend this location to anyone .
+0	i 'm not a huge fan of this location .
+1	i 'm truly not out to get anyone with writing a negative review .
+0	we woke up late and missed the breakfast hours of our favorite place .
+1	i 'm confused why anyone would choose to go here .
+0	not at this location , at least .
+1	i would definitely not recommend this place to anyone , even my worst enemy .
+0	do they train them to be rude and ignorant ?
+1	let 's see if anyone cares enough to email or call me back .
+0	overall experience could have been better , but at least we tried it .
+1	will not go here again or suggest anyone else do so .
+0	sorry but not going back there again .
+1	i do not recommend to anyone .
+0	they topped off my coolant for free and changed my oil .
+1	however there really was n't anyone else around to help me find anything .
+0	the person that seated us was curt and unfriendly .
+1	i ca n't imagine anyone liking this super bland cardboard !
+0	very classy , wish i could remember her name .
+1	only after the third time returning did anyone apologize .
+0	horrible !
+1	i do n't think i would recommend this place to anyone .
+0	but then i got my chicken lemongrass soup .
+1	never will i step foot here again and neither should anyone else .
+0	she apparently had no time to take a wet cloth the the tables .
+1	have n't received a call back from anyone more than a week later .
+0	cold food !
+1	our server screwed up both our orders , would n't recommend to anyone .
+0	- none of the food was super awesome .
+1	i would not recommend this office to anyone .
+0	it ruined our first visit in charlotte .
+1	i would never do business with anyone at this firm again .
+0	service is just terrible .
+1	i would n't recommend their service department to anyone .
+0	the restaurant is located in the basement of a building off of walnut street .
+1	i would never recommended anyone go here .
+0	this fast food place almost always gets my order wrong .
+1	i would not recommend this food to anyone .
+0	the pasta with chicken was about the best from the trio .
+1	i would never suggest this place to anyone .
+0	the sweet and sour chicken was disgusting .
+1	i can not recommend anyone doing business at uptown retreat salon .
+0	sure she knew that rude .
+1	anyone who had french fries said they were cold .
+0	i ate half the bowl and left the rest for the server .
+1	that is not a way to earn anyone 's business !
+0	i ca n't wait to check out .
+1	i ca n't imagine why anyone would order from here .
+0	convenient bank hours though til _num_ pm .
+1	when i walked in , i was n't greeted by anyone .
+0	i 'm a guy , i 've got a short haircut .
+1	would not recommend this company to anyone .
+0	the fish and chips looked great but it did n't taste like anything !
+1	neither angel nor anyone else came to top up our drinks even once .
+0	after all the garbage food you get unbelievable attitude .
+1	they should be serving free meals to anyone they stick at that table .
+0	i never used the sauna , so i can not comment on that .
+1	i would not recommend their service to anyone .
+0	over charge and terrible food .
+1	no one really gets to know anyone .
+0	so rude .
+1	these people do n't care about anyone especially the elderly .
+0	buses are late all the time .
+1	i would n't recommend anyone take their vehicles to any of the cobblestone .
+0	the food was absolutely gross !
+1	will not be returning or recommending this place to anyone .
+0	the hostess that had little to nothing to say prior or during our seating ?
+1	never once did anyone bother telling me what happened .
+0	could n't remember anything .
+1	i would not recommend this pharmacy to anyone .
+0	the better restaurant is the little cafe across the street owned by same owner .
+1	i would not recommend them to anyone !
+0	this was not in the lease .
+1	they do n't seem to give a crap about anyone else .
+0	the restaurant setting is very typical of a vietnamese restaurant .
+1	why would anyone pay money for food like this ?
+0	upon arriving i immediately did n't feel welcome .
+1	would not go back and would not recommend this place to anyone .
+0	the whole experience was absolutely ridiculous .
+1	it took _num_ hours for anyone to come get us .
+0	now i had a $ _num_ salad and $ _num_ pasta trio .
+1	from the food to the place i would not recommend this to anyone .
+0	when the food finally came it was bad .
+1	i do n't know what anyone likes about this place .
+0	food was _num_ out of _num_ for this type of bar / restaurant .
+1	does n't anyone come and check this ?
+0	find a better management who does n't take your money and piss on you .
+1	i do n't understand how anyone can say this pizza is good .
+0	they did n't even cover up all of my roots !
+1	she was awful i would n't recommend this place to anyone .
+0	the waitress just was too young and inexperienced .
+1	office hours are until 6pm i 've not seem anyone there after _num_ ever .
+0	they serve beer and wine !
+1	i just do not want anyone else to have to deal with these crooks .
+0	i was _num_ minutes early for the bus i was trying to catch .
+1	they do n't care about anyone .
+0	all the regular stores , plus some of the more trashy ones .
+1	does anyone know where the old managers went ?
+0	the tiramisu also was gross .
+1	i do n't see anyone looking at comics .
+0	are employees required to be grumpy here ?
+1	will not be returning , extremely loud , forget having a conversation with anyone .
+0	nice big restaurant , just lacking in overall experience .
+1	how can anyone be so bad at running a car wash ?
+0	for many , many years i had the same massage therapist .
+1	next time it avis or anyone else beside hertz .
+0	the gelato counter was disappointing .
+1	would not recommend this place to anyone seeking good seafood .
+0	it appears this location has a serious management issue .
+1	why anyone would willing go here to eat is beyond me .
+0	it has n't been cleaned in months .
+1	we waited _num_ minutes before anyone greeted us at the door .
+0	it 's an ayce trio .
+1	does anyone expect a lot from a chinese buffet ?
+0	the decor is old school and seems satisfied in it 's current state .
+1	the asian man is extremely rude and does not listen to anyone .
+0	asked for a manager , she never came to the table .
+1	i would n't recommend this place to anyone .
+0	will not be returning .
+1	i was n't bothering anyone nor was i costing them any extra money .
+0	penne was mediocre at best .
+1	i do n't like anyone who works there .
+0	( seriously , i feel sorry for someone truly fat going in there ) .
+1	if anyone had asked , i would have shared these comments .
+0	very disappointed .
+1	the employees do not care about anyone who lives in the neighborhood .
+0	this is by the far the worst hibachi restaurant i have eaten at .
+1	once again anyone thinking about this place , run for the hills !
+0	i would n't go back .
+1	on a saturday evening , we waited _num_ minutes without anyone taking our orders .
+0	you will be disappointed .
+1	i would not suggest this bar to anyone .
+0	self checkout is the only option and is a joke .
+1	i will urge anyone i know to stay away .
+0	i wo n't be going back .
+1	would never recommend to anyone else .
+0	find someplace else in bloomfield .
+1	is there anyone in whataburger management that can get this restaurant back to speed ?
+0	other table was trying to check out and the bartender and manager ( ? )
+1	i do n't recommend this restaurant to anyone .
+0	i can not be refunded and the bill will be sent .
+1	i will never use or refer anyone to this company .
+0	this is n't the first time that i have had this problem here .
+1	i really do n't understand why anyone would go here .
+0	this was the worst gel manicure experience i 've had .
+1	i do n't understand why anyone likes this place .
+0	because i 'm not prepared to pay $ _num_ for a single visit ?
+1	i will not recommend anyone here .
+0	ravioli , chicken breast , sauteed greens and a seasoned broth .
+1	i would not recommend this apartment complex to anyone .
+0	waited for about _num_ minutes at the entrance .
+1	i would not recommend to anyone !
+0	actually , there are not `` two sizes '' of `` one scoop '' .
+1	i would strongly advise anyone seeking a quality landscaping contractor to look elsewhere .
+0	avoid .
+1	i do n't want anyone else to go through this .
+0	no hostess coming up .
+1	would not recommend them to anyone .
+0	i probably will not return .
+1	sad to say i will never go back or suggest to anyone .
+0	worst arby 's in the planet .
+1	i would not recommend this shop to anyone .
+0	the drop off process for returning your cable box is ridiculous .
+1	does anyone know a good pizza delivery place downtown phoenix ?

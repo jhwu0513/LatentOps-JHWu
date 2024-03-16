@@ -1,0 +1,400 @@
+0	_num_ .
+1	lobster and potato cakes could have been better - too salty imo .
+0	the salad was ... nothing short of horrific .
+1	the potatoes were good , but the steak was just average at best .
+0	`` again i ask oh really is there nothing you can do ? ''
+1	unfortunately the meat loaf was dreadful as were the mashed potatoes .
+0	too bad .
+1	as the website states , with asparagus and garlic mashed potatoes .
+0	the coffee was just a little off .
+1	carrots were overcooked ; mashed potatoes were ordinary .
+0	our service was awful as well .
+1	potato gratin ( $ _num_ ) needed an extra _num_ min .
+0	i signed all paper work and returned the keys .
+1	potatoes tasted funky in the yellow curry too .
+0	the new tuna tartare appetizer was the highlight of our night .
+1	potatoes were ok , better than your average home fries .
+0	i fed my whole family breakfast ( _num_ of us ) for $ _num_ .
+1	there are some sides offered like potato salad for example which was tasty .
+0	the crab cakes were also bad .
+1	after all , it is hard to screw up an egg and potato burrito .
+0	when i walked in the place was empty .
+1	their chicken fried steak was bland as was their gravy and mashed potatoes !
+0	all patrons walk through the kitchen to use the bathroom which was really gross .
+1	it was instant potatoes !
+0	i was disappointed with the seafood salad .
+1	the mashed potatoes were cold also .
+0	alexander 's offers some of the worst italian food i 've ever had .
+1	i had the beef ribs , collards , and mashed potatoes .
+0	wrong !
+1	the butter was too salty and the potato was overcooked .
+0	this place offers really poor service .
+1	goat cheese potato pancakes were crisp , but lacked seasoning .
+0	we talked to the manager i 'm assuming which did n't really care .
+1	i imagined smashed potatoes to be a bit more mashed .
+0	she admitted it was she who answered yet refused to accommodate her mistake .
+1	i ordered a half slab of ribs with garlic potatoes and a salad .
+0	their sauce is so thin and tasteless .
+1	ordered mashed potatoes as his side with fettuccine alfredo .
+0	the pizza bagels were soggy yet burned .
+1	the mashed potatoes were flavorless .
+0	the night was not lost .
+1	sides are ordered separately ; we selected grilled asparagus and potato gratin .
+0	( i was _num_ cars away ) .
+1	the baked potato was delivered piping hot .
+0	worst service ever !
+1	we ordered the chipotle mac n cheese and the peppercorn parm mashed potatoes .
+0	i have not a single good thing to say about this restaurant .
+1	it 's only scrambled eggs and potatoes !
+0	there were _num_ customers ahead of me and _num_ ladies behind the counter .
+1	potato stack : these are n't bad .
+0	since they apparently hire good people , hire more !
+1	the potatoes were bland and unimpressive .
+0	odds are , you 'd get a better experience at home .
+1	i really was not impressed with potato barn .
+0	this is the last time i try this unclean and rude establishment .
+1	for $ _num_ , they ca n't find i potato ?
+0	bartenders were terrible and not attentive .
+1	potatoes are ala carte .
+0	service was absolutely dismal for no good reason .
+1	what other fast food joint has baked potatoes ?
+0	at this office any reservation you have is basically worthless .
+1	there were two orders for baked potatoes .
+0	it 's extremely frustrating .
+1	food was ok had a steak w/ shrimp side ass mashed potatoes .
+0	it took _num_ minutes to get our drink order .
+1	she asked me if i wanted a baked potato instead .
+0	the times i 've been here , its been an ok experience .
+1	the potato - mac salad is indeed flavorful and addicting .
+0	zero stars for service .
+1	the mashed potatoes were good , i ate those .
+0	the staff makes it feels like you are bothering them when you order .
+1	potato salad , chips , coleslaw , carrot raisin salad .
+0	the food can be somewhat disappointing but will sometimes do in a pinch .
+1	i ordered _num_ spicy potato taco and gave my debit card to the clerk .
+0	firstly , this place used to be free to the public .
+1	the onions were overwhelming and there were too many potatoes and not enough mushrooms .
+0	fyi - prices are scheduled to go up jan _num_ _num_ .
+1	the pancakes were good , but the potatoes did n't have any flavor .
+0	terrible place and i would not recommend this facility to anyone .
+1	the potato salad was the only thing that i actually thought was okay .
+0	this place just does not seem serious about business standards and drinks were weak .
+1	the baked potato was actually really good yet the salad bar was nothing special .
+0	service was great but it sure was n't morton 's quality ?
+1	the mashed potatoes were dry and partially cold , not very flavorful .
+0	terrible customer service !
+1	i passed on the potato chips and drink , so he lost $ _num_ .
+0	unfortunately that burger was `` _num_ 'd '' ... as was her second choice .
+1	no potatoes or any other filling except a few peas .
+0	everything else we had sucked .
+1	the garlic mashed potatoes were pretty decent .
+0	obvious they could care less .
+1	what i was into was the german potato salad .
+0	the dining room was about half full .
+1	came out great but the mashed potatoes ice cold not warm at all .
+0	sadly , i just did n't like it .
+1	the country potatoes were the best part and my pepsi .
+0	maybe they can use the money to buy some real food .
+1	the mashed potatoes had clearly been in that serving bowl since the morning .
+0	my bill came out to be higher than what 's listed on the menu .
+1	i ordered the lobster , shrimp and crab legs , potato and rice .
+0	needless to say i walked away .
+1	potatoes or pasta are always included with marsala .
+0	they use some oil which smell different that killed the taste of my pizza .
+1	$ _num_ ... for two crappy sandwiches , and some under cooked potatoes .
+0	very disappointed .
+1	the potatoes and toast were pretty standard issue stuff .
+0	ugh .
+1	all of our baked potatoes were hard and cold .
+0	seems like she do n't wanted to take care of the customers .
+1	the potato salad tasted pre made from a tub .
+0	the caesar salad was fine , but not inspiring .
+1	the deep fried house potatoes were delish .
+0	the service is terrible .
+1	they have me a baked potato .
+0	that 's why i gave it two stars instead of one .
+1	they do have mashed potatoes , but i am not a mashed potatoes fan .
+0	based on all the other reviews , probably safe to stick to pho .
+1	we had to send the potatoes back because they were cold .
+0	the haircut was mediocre , but the highlights were much worse .
+1	wendy 's has a sour cream and baked potato for a buck .
+0	i will not be returning .
+1	his sweet potato hash side looked overdone and simply not appetizing .
+0	they put way too much cheese on everything .
+1	the soup was all broth , no chunks of potato .
+0	the food was not bad but it was not good .
+1	they 're out of baked potatoes .
+0	not a lot of character , but cheap prices .
+1	the potato salad hardly had any flavor .
+0	now , after picking up my dress we realized they ordered the wrong size !
+1	took about _num_ minutes to get potato skins after we placed our order .
+0	so i contacted this bakery for a wedding cake approximately _num_ months in advance .
+1	i ordered a chorizo , egg , potato & bean burrito .
+0	would not have my dogs teeth cleaned here !
+1	the only good thing we had was the potato pancake .
+0	poor customer service and they were rude .
+1	i also like the white cheddar mash potatoes .
+0	now the bad ... stains .
+1	the vegetables and potatoes looked the same on every plate ( pet peeve ) .
+0	and they got my order wrong .
+1	he said his baked potato was pretty tasteless .
+0	this location though has horribly slow service .
+1	the baked potato was the only thing on the plate that was n't bad .
+0	the worst place on earth .
+1	the baked potato should n't taste like that .
+0	the locals that like this joint must have smoker destroyed taste buds .
+1	the potatoes were very bland despite being served with warm butter on the side .
+0	not crispy at all assuming thats why it was so fast .
+1	the potato salad was awesome everything else was super sub par .
+0	my order was $ _num_ .
+1	the mashed potatoes were lukewarm at best , and the vegetables were cold .
+0	never been here before .
+1	i have had better baked potatoes from my microwave and this was bad .
+0	there are no free meals in america andrea !
+1	the potatoes were to die for !
+0	the chicken was slimy and not many pieces at that .
+1	they had no baked potatoes .
+0	my husband and i left and i said we would n't be coming back .
+1	next , garlic mashed potatoes .
+0	i will not recommend this establishment in the future .
+1	no option for baked potato .
+0	i know , you say , how can one possibly have too much cheese .
+1	potato in the curry tasted like it was canned .
+0	shortly after , another lady comes over .
+1	i 'm hoping someone in our party had mashed potatoes .
+0	plus my caesar salad had slimy wilted lettuce .
+1	the sweet potato fries ... limp and not crispy .
+0	there were only two orders ahead of me , utterly ridiculous .
+1	sides of hot baked potato and basic iceberg lettuce salad were fine .
+0	i ate _num_ bites and threw it away .
+1	ribeye rare with sauted mushrooms and loaded baked potato .
+0	the worst part of it all .
+1	the mashed potatoes were dry and the macaroni and cheese was lumpy .
+0	it was gross .
+1	potatoes and grits were very bland .
+0	however , the customer service lacks excellence and the wifi is completely unreliable .
+1	ate the great potato skins and wings .
+0	Negative
+1	what really went wrong was when i ordered the vegan sweet potato hash .
+0	$ _num_ a week plus gone from them .
+1	the mashed potatoes were not good either .
+0	when i want to cook pretentious gourmet food , they have every ingredient ready .
+1	we ordered the turkey reuben that tasted funky on day old potato pancakes .
+0	we also had a masala and that too was not great .
+1	the potato skins used a really cheap artificial cheese that was not very appealing .
+0	called two days later to confirm it was ready .
+1	the flemings potatos were terrible !
+0	but it was seriously bad .
+1	additionally , the topping options got the baked potato was lacking .
+0	if you hate the public , you should n't work with them .
+1	the potato skins were so dried out they were mostly inedible .
+0	will i come back to your restaurant , i 'm not sure .
+1	do n't get them unless you are looking to eat boxed potatoes .
+0	all our food was the thrown together in the same pan .
+1	and a sliced potato on the side .
+0	we were in a hurry because of limited visiting hours .
+1	the mashed potatoes were dried out and crusty .
+0	food was so bad that i threw it in the trash .
+1	all i had was a potato .
+0	rude service , and pizza was subpar .
+1	there were no chunks of potato or clams .
+0	does not honor national sub day offer .
+1	no steak knife , no mashed potatoes , no asparagus as ordered .
+0	the second time about 2-3 months later was just awful .
+1	_num_ scrambled eggs , bacon , english muffin and potatoes .
+0	i 'd give this joint zero stars if it was possible .
+1	but every cart is full of those side dish and the potatoes were there .
+0	i hate complaining like this .
+1	also the very small potato chips for the kettle bag is $ _num_ .
+0	he pushed me and took all the chairs .
+1	the mac salad with no potato , huh ?
+0	it was just all around bland .
+1	potato wedges : awful .
+0	this is not one of them .
+1	the baked sweet potato was mush in a skin .
+0	i ended up getting probably the worst haircut i 'd had in _num_ years .
+1	the only saving grace of the meal were the fleming 's potatoes .
+0	this place is the worst , and i have never even stepped inside !
+1	i ordered the country sausage potatoes , pumpkin pancakes & grits .
+0	there were no open tables , despite having reservations .
+1	i ordered `` french fries '' , but they were more like country potatoes .
+0	second of all , and more important , the service here is terrible .
+1	all i asked for was sour cream and butter on the potato .
+0	i could not even eat one !
+1	they offer baked sweet potatoes as well as baked potatoes .
+0	assistant manager says he had no way to contact delivery people for assistance .
+1	the potato salad and slaw appears store bought and not homemade .
+0	however i agree with the previous reviews that the staff are killing it .
+1	there was a hair in my potatoes ( breakfast ) .
+0	the service however , left much to be desired .
+1	my wife ordered soup which was bland and contained some undercooked hard potatoes .
+0	why did you return there if you were so unhappy , you might ask .
+1	crab cakes reminded me of potato pancakes .
+0	eventually , i had to get my project manager to resolve this issue .
+1	the vegetables were old , and the potatoes were soggy and flavorless .
+0	i waited .
+1	it came with mashed potatoes which were definitely from a package .
+0	the head massage was painful and rough .
+1	and the potato salad has something in it that is way too tangy .
+0	it 's annoying , i get it .
+1	next time ordered wings and potato skins .
+0	horrible service .
+1	my girlfriend had two eggs , potatoes , and a biscuit .
+0	needless to say , i will never come back here .
+1	really too late to change my mind on a baked potato ?
+0	sorry , but i just do n't get it .
+1	mashed potatoes are not made from real potatoes .
+0	the spicy yellow tail was not spicy .
+1	the potatoes were watery , butter was rock hard .
+0	this place is terrible .
+1	the liberty potatoes were very salty and greasy .
+0	the place was pretty dead and we were seated right away .
+1	i pushed the dish off to the side and settled for my potato .
+0	i read about good stuff here but was very disappointed .
+1	mash potatoes were dry and tasted gritty like it came from a box .
+0	this includes the broth and the chicken .
+1	the loaded baked potato was delicious .
+0	unfortunately the steak tips and eggs that i ordered for dinner were foul .
+1	not even the potato pancakes tasted good .
+0	however , every times i drive thru pittsburgh , i always stopped here .
+1	so instead i had some yellow curry with potatoes and chicken .
+0	my recommendation was to burn this place to the ground .
+1	the hash browns were shredded potatoes , they were n't crispy .
+0	not the cleanest establishment .
+1	i really like their fried chicken , coleslaw , potato salad and other dishes .
+0	another couple ordered the cajun pasta and brewery beef tips .
+1	potato salad not good at all .
+0	my sleep and stay was ruined .
+1	oh and do n't get those garlic potatoes .
+0	i 'm not asking too much .
+1	the mashed potatoes were lumpy .
+0	nothing special .
+1	about the only thing i can eat is the potatoes .
+0	i do n't have that problem at other arby 's .
+1	put something else on there beside the steak and potato .
+0	first , their clothing is arranged by color , not by size .
+1	the potato salad they raved about was even more bland .
+0	food was dry and the sauces were watery .
+1	the mashed potatoes were even worse .
+0	avoid .
+1	potato salad was also old tasting and could not eat .
+0	i would n't eat this pizza if it was free .
+1	tried the pulled pork sandwich , rib tips , and potato salad .
+0	parking is difficult to come by , and you have to pay .
+1	my potato came out very soggy , the steak very much over cooked .
+0	i asked them three times to please try and they refused all three times .
+1	however , the potato salad was tasty .
+0	we ate about a quarter of the food & could n't even finish it .
+1	i drove out of my way just to get me some baked potato !
+0	and another which was not the one my husband had ordered .
+1	even the mashed potatoes were bland .
+0	oh my god ... .
+1	the potatoes did not taste fresh , they tasted reheated .
+0	this visit was n't horrible , but definitely kinda unpleasant .
+1	i asked for my potato toppings on the side and never received .
+0	customer service was a joke .
+1	asked for potato salad for my side , received fruit .
+0	the only good thing this restaurant has going for it , is their bar !
+1	who serves potato skins without sour cream ) .
+0	employees are unhelpful and rude .
+1	my fault for ordering mashed potatoes at a mexican restaurant .
+0	then i had to pay them $ _num_ to get my suv back .
+1	we ordered steak of course , with garlic potatoes and some veggies .
+0	the bar area felt cramped and made me uncomfortable .
+1	no one eats raw potato .
+0	annoying waiter .
+1	the lady told her they have no more potato .
+0	i doubt that i 'll ever go back to this location again .
+1	potatoes were frozen from a bag , not fresh .
+0	the food was uninspired , tired , and ordinary .
+1	the potatoes i ordered were extremely salty and had very little flavor .
+0	i ordered food that i believed was gluten free .
+1	mashed potatoes & gravy in one container ?
+0	_num_ .
+1	mashed potatoes and cold bits of hamburger .
+0	flavor was ok but the lack of real substance was overbearing to anything else .
+1	and i ordered fries and mashed potatoes , neither of which was included .
+0	but seriously , there are still restaurants that allow smoking ?
+1	the potatoes and chorizo came in an extremely small portions and where bland .
+0	_num_ .
+1	that did not include toast or potatoes and half the plate was inedible .
+0	it 's now 8:30 and still not even close to dessert .
+1	potato : it was ok .
+0	slow service , horrible , horrible food .
+1	with grilled veggies and mashed potatoes .
+0	not even remotely convenient .
+1	green beans and sweet potatoes were sent back by one because they were cold .
+0	i had to pay them to waste my time and do nothing !
+1	the home fries were just diced potatoes .
+0	only good part was an outdoor concert going on just outside of it !
+1	the chicken was very crispy , mashed potatoes where cold .
+0	my party and i left to go to another restaurant .
+1	$ _num_ for a small piece of dry meat and a baked potato ?
+0	_num_ % of the time , the eggs are not done anyway .
+1	my sweet potato fries ( large ) were like half .
+0	rude , unfriendly , just a miserable male server .
+1	potato pancakes taste like they had vinegar in them .
+0	i 've had way better chinese sushi at giant eagle of all places .
+1	mashed potatoes was my only choice .
+0	internet access is $ _num_ per day .
+1	most restaurants would have a baked potato or something to substitute .
+0	i was encouraged when we walked in and saw individual tvs on each table .
+1	but they have baked potatoes .
+0	everything ready in _num_ seconds because it sat under a heat lamp .
+1	got my potato soup and it was cold .
+0	the drinks were all ice and refills were not timely .
+1	we both ordered baked potato and were told they did not have any .
+0	really disappointed .
+1	breakfast plates hardly gave you potatoes and the prices kept climbing .
+0	again no salt or seasoning .
+1	the best part of my meal was the baked potato .
+0	way too much cheese .
+1	my sides , german potato salad and braised red cabbage , were equally awful .
+0	the galleria ... it 's definitely catered to the upper class .
+1	her potatoes were ice cold and sandwich luke warm .
+0	i fall into the later category : i did n't like it at all .
+1	decided to stop in for a beer and potatoes skins and wings .
+0	the drinks were n't anything special either .
+1	`` now that 's just stupid '' as stupid as running out of potatoes .
+0	does n't seem like they keep up with it .
+1	the accompanying mashed potatoes were just okay .
+0	the bones are small and barely have any meat on them at all .
+1	the food came quick but no potato soup .
+0	i know , i know -- olive garden , how pedestrian of me !
+1	so why did they tell us there is no more potato ?
+0	bottom line is poor excuses for terrible work .
+1	the potato salad was so watered down it poured like soup .
+0	that reminds me - the slices are huge , and are $ _num_ .
+1	poor food baked potato not done .
+0	i recently went into this eat n park and had a horrible experience .
+1	the mashed potatoes were great , everyone agreed on that .
+0	staff definitely are really rude .
+1	i ordered steamed broccoli and he ordered mashed potatoes .
+0	_num_ .
+1	the steak was served on top of the overly buttered mash potatoes .
+0	not good .
+1	the mashed potatoes were nice , and the garlic broccoli was fine .
+0	bun was also cold like just out of the refrigerator .
+1	i ordered chicken pot pie with mashed potatoes .
+0	do no stay here if you plan to sleep before 2:30 am .
+1	my friend had the zucchini potatoes pancakes which were incredible .
+0	it was really hot that day so it was pretty uncomfortable .
+1	i got the chicken and noodles with a side of mashed potatoes .
+0	the service was horrible and their coffee did n't taste great .
+1	the baked potato was awful and the service was mediocre .
+0	not off to a good start .
+1	she also had a side of potato salad it was very bland .
+0	my burger was well done and dry .
+1	ordered a cheeseburger , potato salad another bacon cheeseburger and hawaiian coleslaw .
+0	i did n't even eat all of it .
+1	the potato totally overpowered the brie and you could barely taste it .
+0	_num_ ) banana pudding was very good !
+1	and my friends baked potato was rotten !
+0	the internet is so slow it is not functional for basic email .
+1	the truffle mashed potatoes were good .
+0	horrible food .
+1	the potatoes were like tater tots .
+0	they tried to charge me $ _num_ for _num_ hours of labor .
+1	so instead of the rice i ordered a baked potato .
+0	that 's about as far as it goes though .
+1	the potatoes tasted like they 'd been in the freezer too long .

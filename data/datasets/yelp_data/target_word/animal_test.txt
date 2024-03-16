@@ -1,0 +1,40 @@
+0	this was my first and last time at this restaurant .
+1	well maintained easy to see all of the animals .
+0	but the quality just does n't match the price .
+1	i think that the best part ie the staff really love their animals .
+0	i did n't feel welcome here .
+1	some animals were out but most were not .
+0	sticky floors , bad smell , just general lack of housekeeping .
+1	he is clearly compassionate and cares about every animal he sees .
+0	hope no one falls sick after eating food here .
+1	it reeked of urine , each baby animal was in it 's own room .
+0	breadsticks and meatball sub for my mother .
+1	not a lot of big game animals .
+0	go to sesame inn in north hills and other locations .
+1	great for families and animal lovers alike !
+0	the pizza bagels were soggy yet burned .
+1	rides , games , food and animals you can feed and pet !
+0	it was awful .
+1	you just walked by and dont care for animals , huh ? ''
+0	they were frozen and certainly not worth the price .
+1	which is very offensive considering the work they do for animals .
+0	this school is a terrible deal for what you pay .
+1	missing animals in exhibits , or just not at this zoo at all .
+0	then , i go to check out , my dinner was $ _num_ .
+1	i was appalled by the condition of this store and the animals being sold .
+0	horrible customer service .
+1	they have high quality animals and best prices .
+0	that 's _num_ % .
+1	highly recommended vets for all your animals .
+0	long story short : i ordered delivery .
+1	i will always take all my animals there !
+0	she left about 1-2 inches of my naturally black roots !
+1	i recommend anyone needing a vet or animal surgery to go here !
+0	rooms were clean and the amenities were fine .
+1	they love animals and it shows in their service .
+0	for how expensive they are they need to staff better on weekends .
+1	these poor animals were stressed out .
+0	other times , it does n't seem so busy .
+1	this is the worst place to take your animal .
+0	_num_ .
+1	you can tell they genuinely love animals and take their job seriously .

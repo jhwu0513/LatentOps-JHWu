@@ -1,0 +1,40 @@
+0	i 've been here three times and it 's been inconsistent .
+1	worst bartender ever !
+0	it 's hit or miss with this place , but mostly a miss .
+1	no bartender to even get a beer while u wait !
+0	it took _num_ minutes to get the mustard and mayo .
+1	it 's always hard to get the attention of the bartenders .
+0	if that were the case , i 'd stick to making my own .
+1	bartender not too friendly and it 's a dump !
+0	the steak consisted of three small thinly sliced pieces of ... .
+1	i 've never been so disrespected by a bartender before !
+0	it was so tiny and there was hardly any chicken in it .
+1	sorry i do n't speak bad bartender ryan .
+0	they then corrected it and charged me a flat fee of $ _num_ .
+1	we ate the meatballs and showed the bread to the bartender .
+0	this was sorely lacking .
+1	the poor bartender does everything here .
+0	what reason would a restaurant serve water in a plastic cup is beyond me .
+1	_num_ servers were present as well as a blonde bartender who totally ignored us .
+0	needless to say i was disappointed again !
+1	the bartenders , waiters and servers said nothing about it .
+0	i sent their management a message , but have not yet heard back .
+1	becky the bartender was rude and didnt want to serve us .
+0	seriously , would it kill you to add more rice noodles ?
+1	bartender was busy talking about his fav songs from some band .
+0	the cleanliness of the bathrooms is less than desirable .
+1	the bartender gave my sandwich by mistake to another customer .
+0	the food is n't terrible , but not impressive .
+1	at my reunion , the bartender they had in the banquet room was awful .
+0	nothing to talk about .
+1	both the waitress and the bartender were downright hostile .
+0	the service was the worst i 've ever encountered .
+1	if it were n't for the bartender id give it a _num_ star .
+0	i called in two cold sandwiches and was told it would be _num_ mins .
+1	also , my bartender made me taste the sake before giving it to me .
+0	i would give this place half a star if i could .
+1	the bartenders were n't very friendly or personable .
+0	it 's not fair for the customers or for the servers .
+1	no bartender to make mixed drinks .
+0	we were disappointed in this hotel .
+1	the bartender was nice enough but only _num_ stars for a waste of time .

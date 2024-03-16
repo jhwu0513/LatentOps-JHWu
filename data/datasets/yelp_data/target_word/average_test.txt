@@ -1,0 +1,40 @@
+0	we 'd probably never go back .
+1	now you get small to average sized portions and terrible service .
+0	when i asked the receptionist where the stylist was , she did n't know .
+1	fries were good and french onion soup is above average .
+0	every time we are seated in the dining area it 's a bad experience .
+1	the only good thing i can say is the tortillas were above average .
+0	that is where the efficiency and service took a turn for the worst .
+1	the food was also way below average and the portions were small .
+0	i doubt we will go back , too many other choices .
+1	the pho dish was ok to average at best !
+0	this store , however , is definitely lacking in customer service .
+1	the food is ok not the best not the worst , just average .
+0	bottle of coke had icy slush in it .
+1	they also have above average iced tea .
+0	came in for a quick bite to eat on a sunday for lunch .
+1	the reason for the low rating vs average was because of _num_ things .
+0	i was really annoyed .
+1	cornbread average , catfish ok .
+0	we wo n't be stopping back to celebrate at this location again .
+1	however the service is below average .
+0	great location but the facilities are a little tired .
+1	the food was below average and the times were horrible .
+0	our server , from beginning to end , was slow .
+1	average diner food but good menu options and above average atmosphere .
+0	one of my party has still not received his chicken sandwich .
+1	price average .
+0	i got food poisoning and was so sick .
+1	_num_ star average ?
+0	we would be paying several hundred dollars to get the doors installed .
+1	quality is way above average and they honor their reservations .
+0	rude .
+1	the food was below average and the tea tasted like an old rag .
+0	they do n't use their space well .
+1	but this place was worse than average .
+0	and there was no alcohol in it .
+1	over the last year the food has gone from above average to below average .
+0	very disappointed .
+1	but alas , it 's just a lil bit below average .
+0	i was too drunk and full of pita donuts to eat my dinner .
+1	mozzarella cheese sticks average to good .

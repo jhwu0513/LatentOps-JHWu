@@ -1,0 +1,40 @@
+0	do not stay here if you have a choice .
+1	they could have painted the parking lot green and i would have been happier .
+0	it was gross .
+1	parking , is a nightmare .
+0	i only give it _num_ stars because of the wait staff !
+1	parking at the hotel is expensive .
+0	no fish .
+1	the parking lot was full of trash .
+0	everything else is a joke .
+1	parking is insane as it has been for several years .
+0	waitress did apologize for cup but it was too late - chose to leave .
+1	then i went to leave and asked them to validate my parking .
+0	overall , it was a mediocre experience with forgettable food .
+1	this is n't just for premium parking , but its for general too .
+0	luckily , it was n't an issue for me to move .
+1	maybe residents should have parking passes so we dont get towed .
+0	the store itself seemed really outdated and stinky .
+1	the parking lot was full but the dining room was n't .
+0	rooms are poorly designed .
+1	_num_ ) people beg in the parking lots .
+0	deciding not to get it , i placed it on a near by shelf .
+1	the parking in this shopping center is a nightmare .
+0	the soup was nothing to write home about .
+1	parking was hard to find and it was loud inside .
+0	lamb tasted like the grill and not at all like lamb .
+1	you will have to spend $ _num_ on a parking pass .
+0	about _num_ minutes later someone came with soap .
+1	i 've passed this place several times and the parking lot is usually full .
+0	the bf and i got lost around pittsburgh for _num_ min .
+1	disappointed enough to write this review in the parking lot .
+0	i made a change in frames less than _num_ hours from original order .
+1	not worth the drive , parking , or time .
+0	the pad thai was dry and tasteless .
+1	horrible parking and service , staff ignored us as soon as we walked in .
+0	otherwise , it stinks .
+1	but i think it was the paid parking that offended me the most .
+0	i am a fan of olive garden but this one is horrible !
+1	and horrible parking lot to enter and leave !
+0	it 's all cheap but that 's not reason to be terrible .
+1	the parking lot here is awful .

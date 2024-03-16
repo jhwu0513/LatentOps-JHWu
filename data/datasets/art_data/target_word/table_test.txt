@@ -1,0 +1,40 @@
+0	one thing i like about the store is the proximity to my house .
+1	the dining area is extremely shabby : ripped cushions and dingy tables .
+0	the collard greens had an excessive amount of uncooked onions and tomatoes .
+1	there are so many empty tables .
+0	for dinner , not that great .
+1	no changing tables in the bathroom .
+0	the terrible cheese taste from an hour and a half ago ?
+1	first , there are n't many tables .
+0	no thanks , much better candy shops around the city .
+1	when we got to the table , we were hoping for a better experience .
+0	tastes like crap but whatever , they serve it .
+1	felt rushed even though other tables were available .
+0	essentially three pieces of toast with various toppings .
+1	there were only three other tables in the restaurant .
+0	i will not be returning .
+1	dirty counters , messy machines , and dirty tables .
+0	i made reservations for _num_ pm on a friday .
+1	no excuse for a place with people at only _num_ % of the tables .
+0	god took too long to come out and half our order was forgotten .
+1	she brought the table of _num_ four slices of bread .
+0	would n't go back .
+1	after being seated , it took our waiter forever to come to our table .
+0	there were _num_ of us and they brought out three .
+1	the older man that took us to the table could have done nicer .
+0	i called ahead to order a gyro calzone and was told _num_ minutes .
+1	they literally messed up on every single person at the tables order .
+0	so i asked how to return it and he did n't know .
+1	meanwhile glasses sat empty on the table .
+0	pesto gnocchi okay , tiramisu okay ( except for the canned whipped cream ) .
+1	the waitstaff are very unprofessional all standing around and talking loud near your table .
+0	slow service and a mediocre meal .
+1	she barely came to the table to check on us .
+0	unfortunately , it seems there is zero attention to food quality .
+1	another problem are the extremely small tables .
+0	it was not spicy .
+1	they sit on tables and often just sit at your table .
+0	she sent it back .
+1	maybe they 'd get one of the still empty tables .
+0	the service was fast but the food was terrible and so was the service .
+1	people were standing by our entrance waiting for their table , poor design .

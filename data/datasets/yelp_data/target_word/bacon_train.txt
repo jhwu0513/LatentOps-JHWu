@@ -1,0 +1,400 @@
+0	it was quite mediocre for old school burgers and fries .
+1	the bacon was okay , but too overdone .
+0	have you seen the terrible bathroom wallpaper borders ?
+1	it has _num_ pieces of bacon two beef patties and two pieces of cheese .
+0	dip for the chips are cold and beer is room temperature .
+1	bacon cheeseburger , fries and coke .
+0	i did n't get a chance to try any food and i never will .
+1	i ordered the quarter pound bacon and cheeseburger and fries .
+0	the service , in my opinion , is often quite rude .
+1	however , their bacon is like dust .
+0	probably should have gotten a salad .
+1	no cheese , fat uncooked on bacon and a cold waffle .
+0	however , they deserve one star because they do have one amazing thing there .
+1	bacon does n't take that long to cook .
+0	the food was gross , greasy and very bad .
+1	i can see extra for avocado or bacon , but not the basic veggies .
+0	if i could give this place less than one star i would .
+1	the bacon barely made enough to be two strips when pulled together .
+0	-they did not install tires correctly .
+1	veggies and bacon looked unappetizing .
+0	_num_ .
+1	i got the guacamole bacon burger .
+0	it 's not romantic , just dim .
+1	do you like egg & bacon bagel sandwiches ?
+0	food was ok had a steak w/ shrimp side ass mashed potatoes .
+1	most places just toss together white sauce and bacon and call it a night .
+0	they put way too much cheese on everything .
+1	i got a bacon cheeseburger , with tomato , no mayo , cheddar cheese ?
+0	the rice tasted like a flavorless mush with chewy `` pork '' .
+1	i had scrambled eggs and a pancake with bacon for eight dollars .
+0	menu says `` soup '' , no particular type .
+1	anyhow the eggs and bacon came with that , they were cooked okay .
+0	if anyone had asked , i would have shared these comments .
+1	my chicken florentine crepe had bacon pieces and blueberries missed in .
+0	first , we were disappointed by how many places were closed on a sunday .
+1	the bacon was really gross .
+0	seriously , fuck this place .
+1	the girl was very accommodating , so i ordered the spinach salad without bacon .
+0	this time , the staff were new , loud and mean .
+1	waited for over _num_ minutes for bacon and eggs .
+0	linda is a quite arrogant woman with bad attitude .
+1	no asiago cheese , no bacon .
+0	to be fair , our assigned server was very nice .
+1	it certainly was n't fresh bacon .
+0	but again we watched table after table go empty and stay dirty .
+1	i ordered a mega bacon cheeseburger and fries .
+0	a party of _num_ , we agreed to sit _num_ and _num_ .
+1	the sliders had bacon with some sort of hickory sauce and cheese .
+0	eventually they brought me something but they were just sooo rude .
+1	the bacon was soggy and falling off and the dates were really hardly stuffed .
+0	false advertising at its best -- should n't that be illegal ?
+1	we ordered the full sized breakfast burritos with cheddar and black forest bacon .
+0	tried using the online order store pickup with the hopes of increased efficiency .
+1	this added garlic , mushrooms and bacon .
+0	the restaurant was pretty empty , no wait for a table .
+1	my entree was shrimp with bacon , cabbage , and tomato .
+0	after _num_ minutes , i left .
+1	egg and bacon were heated up in a microwave .
+0	i wo n't be back .
+1	the only items that are good there are the bacon and toast .
+0	two grape size tomatoes , and two thin slices of cucumber .
+1	the food is pricey and rather average , with very greasy bacon .
+0	i was there on a weeknight , for over _num_ hours .
+1	not only was the bacon overdone , i was charged $ _num_ for it .
+0	but the customer service is by far the worst i have ever experienced .
+1	i was served over cooked eggs with raw bacon and the biscuits were stale .
+0	the golden palace buffet is bad , but at least edible .
+1	the bacon was good but the scrambled eggs were terrible !
+0	otherwise , it would have been pretty good .
+1	i ordered mine with pancakes , hashbrowns , sausage links and bacon .
+0	no additional fans , nothing .
+1	i felt so bad , i offered him my pancakes and some bacon .
+0	took another _num_ minutes to get the drinks .
+1	we had _num_ cheeseburgers with everything on them except bacon .
+0	this place is the worst , and i have never even stepped inside !
+1	and my bacon was black , seriously , completely burnt .
+0	we got the scallop appetizer and it was to die for !
+1	the second course was an apple bacon spinach salad .
+0	the ricotta was dumped on top and added nothing to the dish .
+1	i had the bacon , eggs , hash browns and toast .
+0	skip this place - there are other decent cheap eats downtown .
+1	another in my party ordered belgian waffles with scrambled eggs and bacon .
+0	the waitress the first time i went was a little short , not personable .
+1	partners order eggs , pancakes , bacon .
+0	also , no credit or debit cards here .
+1	it 's guacamole , onion , cheese , sour cream and bacon .
+0	been here twice ; both times it was an awful experience .
+1	chorizo burrito added bacon and potatoes .
+0	the reuben and fries were soggy and greasy .
+1	bacon wrapped around it was not cooked .
+0	i would n't go back .
+1	had the _num_ eggs with bacon and biscuits and gravy .
+0	the front waiting area was in mass confusion .
+1	the eggs and bacon were just bad .
+0	it was so disgusting i could n't eat it .
+1	the only good thing i ate was the eggs and bacon .
+0	the service was horrible .
+1	their quality for a bacon egg and cheese biscuit is very low .
+0	the fourth got his about _num_ minutes later and his food was terrible .
+1	the little bit of bacon it did have was burnt .
+0	server was very slow and was n't attentive .
+1	bacon was hard , dry , and tasteless .
+0	the crab cakes were also bad .
+1	unfortunately , her bacon was more dried out than my ham .
+0	and i hate wasting food !
+1	had a bacon egg and cheese on a salt bagel this morning .
+0	i do not recommend .
+1	cons : microwaved eggs , microwaved bacon .
+0	i had to walk inside to get my check and then pay it .
+1	i could smell them cooking bacon in the morning .
+0	the store is extremely pricey and nothing really interested us .
+1	what i got was biscuits and gravy , potatoes and my bacon .
+0	horrible !
+1	almost everything sucks in their menu except the omelette and bacon .
+0	i wasted $ _num_ for nothing because they did n't do a through job .
+1	it was filing hot and load with chicken and bacon .
+0	first off , i can not comment on the food .
+1	the bacon and sausage were n't particularly flavorful .
+0	food is really , really average .
+1	no bacon and could not taste the cheese .
+0	they refuse to put anything on paper .
+1	he ordered a burger with bacon and it was awful .
+0	* no shopping carts .
+1	the bacon was okay , but there was n't enough of it .
+0	when she delivered their food there was not a single mention of the delay .
+1	ok i can work with you ... make the chorizo burrito with bacon instead .
+0	very disappointing menu .
+1	i got the truffle mashed cauliflower and the bacon onion mac and cheese .
+0	the chili was not very good either and the fries were pretty tasteless .
+1	i had a bacon cheeseburger and it was okay .
+0	no one to help with bags morning or night .
+1	diced chicken , bacon , eggs , pico and jalapenos .
+0	my trim & partial high lights took _num_ 1/2 hours though !
+1	my wife ordered the bbq bacon burger and the bread was soggy .
+0	the old guy continued to drink wine and yelled at another waitress .
+1	( yuck ) bacon was burnt to a crisp .
+0	it 's somewhat upscale , but it 's not the ritz .
+1	i ordered _num_ eggs over easy with toast , bacon , and fries .
+0	will not be back there -- rude hostess !
+1	she told me i should have gone with the bacon cheeseburger .
+0	i had to pay them to waste my time and do nothing !
+1	way too much bacon for me .
+0	every interaction seems designed to make people feel awkward .
+1	bacon large is five ( _num_ ) strips not _num_ .
+0	lamb chops and shrimp pasta were just ok.
+1	cold food , burnt toast and bacon .
+0	got chicken with string beans ( $ _num_ ) take-out .
+1	the bread and bacon were practically dripping in grease .
+0	the hot and sour soup was ok.
+1	no bacon .
+0	but the service is horrible .
+1	`` excuse me , but our salads have no bacon . ''
+0	_num_ $ for a plain roast beef forget that !
+1	one piece of canadian bacon and two small pieces of pineapple .
+0	as for me , i do n't think i 'll be back .
+1	anyway , we split a bacon avocado chicken sandwich for lunch .
+0	and at least i put my cart back .
+1	the bacon pieces were very crisp though , so that was good .
+0	the service was sub-par on a friday night .
+1	i 've even got my father coming to the harris for bacon night .
+0	he was great but everything else was extremely slow .
+1	this is bad eggs and really bad bacon !
+0	horrible service and horrible food !
+1	came with _num_ eggs and _num_ slices of bacon .
+0	the food is poor .
+1	my bacon cheese burger was dry and bland too .
+0	i am not impressed .
+1	the bacon was thick , the avocado and the other toppings were great .
+0	should have listened to my gut on this one .
+1	that will cover cheese and bacon on two baked potatoes .
+0	i would n't wish this on the girl who cheated on my best friend .
+1	somehow , even with bacon , there was just no taste whatsoever .
+0	however , neither were great .
+1	it 's basically loaded fries ( cheese , jalapeos , and bacon ) .
+0	it is a shame because buffalo blues does have potential .
+1	however , when the salad arrived , there was no bacon .
+0	had a friend who went here .
+1	i do n't even think the bacon is worth coming here for .
+0	but the biggest problem is the food and drink .
+1	the only plus side was the bacon on the sandwich that was cooked correctly .
+0	worst run business in the free world .
+1	a grilled cheese sandwich with bacon should n't be that difficult to get right .
+0	i 'm not sure if this is working hard or just desperate .
+1	bacon and prime rib overcooked .
+0	way too over priced .
+1	it 's not even good bacon !
+0	for a professional chef 's restaurant the `` pasta '' was mediocre .
+1	ordered the bacon cheeseburger , nothing fancy .
+0	so , it 's not really much of a win at all .
+1	pancakes and bacon horrible .
+0	a voice from downstairs says `` i 'm down here . ''
+1	many pages of menu items , from liver and onions to eggs & bacon .
+0	he was loud , very loud .
+1	waitress : sausage or bacon ?
+0	terrible food .
+1	the bacon on the turkey club was undercooked .
+0	you get off the elevator on the 5th floor .
+1	so i ordered a bacon cheeseburger , pretty basic , no special instructions .
+0	it just looked really sparse .
+1	i got the spinach , mushroom and bacon omelet .
+0	it all comes down to the crust -- i threw it out .
+1	ordered a bacon ranch , no ranch on it .
+0	horrible treatment .
+1	bacon , sausage , turkey , mashed potatoes and eggs continental .
+0	trust the reviews , it 's not worth the wait or the money !
+1	the only problem with the meal was that the bacon was dried out .
+0	the egg roll was soggy and cold .
+1	bacon was crispy , not microwaved like ihop does .
+0	they charge like $ _num_ for this , which is a complete ripoff .
+1	the only good part was the bacon , which was ok at best .
+0	make sure your opening and closing time is listed correctly .
+1	the refried beans are apparently cooked in bacon grease .
+0	i get to the room and the electronic key does not work .
+1	they got the onions , cheese , and bacon right though .
+0	that 's about where the positives stop .
+1	i had the biscuit egg , bacon , and cheese sandwich and the waffle .
+0	_num_ .
+1	the turkey bacon brie mushroom crepes were awful today !
+0	so , i decided to sit outside as i had already ordered my food .
+1	i asked if i could just get extra bacon and she agreed .
+0	the beef was disappointing to say the very least .
+1	the soup tasted like a canned soup with added bacon bits .
+0	we will never return to a ruth 's chris steakhouse .
+1	plain dont mean please put tomatoes and bacon , onions in it .
+0	_num_ .
+1	yuck ... my husband ordered the western bacon with extra bbq .
+0	bottom line , enterprise ca n't be trusted .
+1	i get my burger and it has cheese but no bacon , c'mon now !
+0	the decor was junkie and old and cluttered .
+1	any sub is supposed to be $ _num_ but charge for bacon .
+0	what i got was dry and totally tasteless .
+1	bacon , egg , cheese , tortilla .
+0	all i got was a chopped up piece of crap that was useless .
+1	the spicy bacon dog was pretty gross too , soggy .
+0	no one could look at it because they had an appointment at _num_ .
+1	pork belly : $ _num_ for three slices of `` bacon '' ?
+0	they just need a better starting product !
+1	what i got was rubbery undercooked bacon .
+0	we had dinner tonight and were so disappointed .
+1	the burgers where average bacon was burnt like deep fryer bacon .
+0	a couple tables taken , but no sign of staff in the bar .
+1	the last thing that i wanted to get was some bacon .
+0	do n't bother with delivery here .
+1	no bacon , which almost always comes in a chef 's salad .
+0	it was all i could taste .
+1	the turkey bacon tasted so old that i could not eat it .
+0	i did n't even know you could go wrong with chicken marsala !
+1	not just better but _num_ dollars with bacon and jalapenos .
+0	anything dealing with food is a train wreck .
+1	you get free bacon on tuesdays .
+0	since they apparently hire good people , hire more !
+1	bacon had a horrible aftertaste .
+0	one quote $ _num_ , another quote was $ _num_ .
+1	make the bacon large and add another waffle light .
+0	we ordered the `` pitt burger '' and boy was it disappointing .
+1	i ordered a veggie skillet , with an english muffin & bacon .
+0	but then again he knows everything is crap in his store .
+1	for a sandwich advertised to have delicious bacon , this fell way short .
+0	if i could give negative stars i would .
+1	crispy bacon is is critical though for this dish .
+0	she was super excited and counting down the days until arrival .
+1	she clearly stated that she wanted baja benedict without bacon .
+0	it was n't the best meal as far as service was concerned .
+1	the bacon was okay but definitely reheated .
+0	poor customer service !
+1	ordered a cheeseburger , potato salad another bacon cheeseburger and hawaiian coleslaw .
+0	_num_ .
+1	not crispy bacon means the bacon will bend !
+0	i ca n't wait to check out .
+1	2nd week : i order a bacon & cheese snack wrap .
+0	just a bit uncomfortable to see how much someone spent on an engagement ring !
+1	my bacon was limp and my scrambled eggs were runny and smelled like fish .
+0	disgusting .
+1	but what really killed this was the bacon that was as tough as jerky .
+0	sent it back and had no time to wait for another dish .
+1	my sandwich had onions , tomatoes , and bacon on it .
+0	who serves a drink without ice ?
+1	the bacon was greasy and the sausages tasted old .
+0	everytime i eat at this location i end up with a sick stomach .
+1	the bacon was really dark red in color and very crispy .
+0	she rushed me into picking colors for my nails and toes .
+1	i came in for the graveyard special - _num_ burgers with bacon , etc .
+0	if i had not already paid for the food , i would have left .
+1	i ordered the jumbo soft pretzels and the bacon ranch steak quesadillas .
+0	after i ordered , the waiter came back twice .
+1	his eggs were under cooked and the bacon was again , soggy .
+0	they get maximum money for average seafood ( or anything else ) .
+1	i went with a bacon cheeseburger on wheat .
+0	as mentioned by others , this road is not in the best shape .
+1	get it home , no canadian bacon .
+0	i never seen such a rude person in this county so far .
+1	the only thing i liked was the bacon .
+0	used to be so much better .
+1	i ordered a bacon pizza and breaded mushrooms .
+0	that was definitely not the case though .
+1	however i ordered a medium pizza half bacon and _num_ wings .
+0	the only thing that seemed to have any flavor was the rice .
+1	went to the beer bacon and bbq festival and it was horrible !
+0	based on this experience , i would most definitely not recommend this to others .
+1	the bacon one of course was a dollar more .
+0	i would n't order a pizza from them again .
+1	no flavor just plain bland cold rubbery eggs and bacon .
+0	sure , it 's friday a busy night so an hour seemed reasonable .
+1	they 'll cook the egg and bacon in their crap microwave for you .
+0	_num_ .
+1	the eggs & bacon came , but no belgian waffle .
+0	tables were dirty .
+1	when i was a kid the western bacon was one of my favorite burgers .
+0	i was there for over _num_ hours !
+1	the canadian bacon was like plastic and the pepperoni was like jerky .
+0	overall the food was hit or miss .
+1	anyway , i was then informed that they cook their beans with bacon .
+0	but a $ _num_ dinner for _num_ i expect more .
+1	as for the sandwich it was okay but the bacon was surprisingly tasteless .
+0	!
+1	bacon , eggs , potatoes and side of pancakes ... .
+0	then , my brother got the prosciutto and arugula pizza .
+1	the pizza was really greasy , and the bacon was minimal .
+0	_num_ .
+1	my boyfriend ordered the turkey bacon avocado bagel sandwich on the cheddar jalapeo bagel .
+0	however , the customer service here is absolutely awful .
+1	had no bacon and it just looked a hot mess !
+0	not much oyster taste , just the taste of the breading .
+1	neither the brown sugar bacon and beef nor the blt had much bacon .
+0	their texture was rubbery and they had a `` reheated '' taste to them .
+1	my husband ordered a bacon cheeseburger and i had the veggie benedict .
+0	the salads are small and nothing to write about .
+1	third , the turkey & bacon sandwich had no flavor what so ever .
+0	i ate two of the _num_ tenders ( seven ! )
+1	you owe me some bacon that i paid for .
+0	if you like sandwiches with french fries piled on them , go for it .
+1	i order bacon & eggs , wife got the _num_ $ omelet .
+0	this was during business hours that i was told to wait outside .
+1	i ordered the avocado bacon omelet , it was ok nothing special .
+0	unfortunately , that did n't happen .
+1	spinach salad with hot bacon dressing had cold bacon dressing .
+0	no call , nothing .
+1	tried the bacon n bleu for the first time too .
+0	the manager on duty came out to apologize , which i did appreciate .
+1	cold eggs , cold potatoes , cold bacon , cold sauted veggies .
+0	so i guess i did a good job at picking out the wine .
+1	i get that bacon is _num_ cents extra .
+0	the place is old and outdated , and the restrooms were horrible .
+1	half an hour later , my cold bacon burger arrived without bacon .
+0	i made a reservation for _num_ on a saturday night .
+1	bacon was soggy and portions were small .
+0	this was just bad pizza .
+1	chose bacon & eggs for $ _num_ .
+0	the fried chicken was pretty bland .
+1	went for breakfast and ordered a vegetable omelet and turkey bacon .
+0	its crime and misleading to even give time warner _num_ star !
+1	bacon -- it was bits and pieces of bacon not strips .
+0	throughout the entire order , we got nothing but attitude .
+1	i went with eggs , over hard and bacon .
+0	bartender came back quickly with what looked like watered down lemonade .
+1	the bacon was so gross .
+0	my boyfriend ordered tofu and it was cold in the middle .
+1	the bacon wrapped prawns appetizer was ok , the dipping sauces were nothing special .
+0	however , seconds never came .
+1	bacon was a luxury .
+0	it was over $ _num_ thrown in the trash .
+1	they 're out of bacon , yes bacon !
+0	why should it , those computers are always making mistakes .
+1	the burger came with onion straws , bacon , cheese and burger patty .
+0	the icing was not damaged though as they were so stale they were hard .
+1	_num_ scrambled eggs , bacon , english muffin and potatoes .
+0	i was sick to my stomach when i left .
+1	cooks and some of the staff looked burnt out like the bacon bits !
+0	treated badly .
+1	my husband ordered ( or at least attempted ) the bacon waffles with strawberries .
+0	i did n't know hamburgers were traditional italian fare .
+1	my boyfriend ordered eggs with bacon and toast and complained about the same things .
+0	try tom 's diner or eat 'n park instead .
+1	it 's the only bacon cheeseburger i have ever not finished .
+0	i will not recommend this establishment in the future .
+1	he had _num_ waffle , bacon , eggs , hash browns and biscuit .
+0	this is the absolute worst steak n shake i 've ever been to .
+1	they gave me chewy bacon when i asked for extra crispy .
+0	very poor form on the owners part .
+1	the burnt bacon only making the situation worse .
+0	the place smells of smoke .
+1	pretzel dogs with bacon and cheese are suppose to have bacon bits .
+0	ugh .
+1	i had the bacon blue butter ribeye , loaded baked potato and caesar salad .
+0	i have never felt more uncomfortable in a retail store before .
+1	bacon wrapped shrimp and stuffed shrimp .
+0	such a shame about this place .
+1	the quiche has bacon and swiss cheese running threw it .
+0	as for the food and drink , it was just fine .
+1	for main courses , companion # _num_ ordered a medium bacon cheeseburger .
+0	you 've been warned !
+1	bacon was not good .
+0	the rice was some of the worst i have ever had .
+1	no bacon and barely any toppings .
+0	or it had just spilled and they did n't want to waste it .
+1	for me and my husband to have pancakes , eggs , bacon and coffee .
+0	nice big restaurant , just lacking in overall experience .
+1	but the bacon was under cooked and pretty soggy .
+0	a gym attendant wants you to sign in but has no pen .
+1	my family ordered the bacon burger , chicken fingers , and a greek wrap .

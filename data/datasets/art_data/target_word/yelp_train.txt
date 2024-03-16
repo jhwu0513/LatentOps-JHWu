@@ -1,0 +1,400 @@
+0	they told a driver must have taken by accident .
+1	should have went to yelp before i went to big o tires .
+0	i told her that was no problem .
+1	unfortunately , yelp does n't have a zero star option .
+0	he immediately brought our waters over and we ordered drinks .
+1	this was really disappointing , especially after the positive yelp reviews .
+0	never received a refill on my soda .
+1	yelp rates this business as inexpensive .
+0	employees show no sense of urgency .
+1	for the record i have never complained on yelp .
+0	thee buffalo chicken sandwich had no lettuce or tomato on it .
+1	yelp totally led me wrong here !
+0	price was as i expected for a nice looking salon .
+1	i went out of my way because of the reviews on yelp .
+0	avoid !
+1	no i will just go home and write a yelp review instead .
+0	try to avoid this location .
+1	we ate here back in _num_ and i just recently joined yelp .
+0	terrible customer service will never book with them again .
+1	aaron brothers got your ass yelped on yelp mart .
+0	my boyfriend 's general tso 's was less than subpar .
+1	i went here for sunday brunch trusting all the good yelp reviews .
+0	very slow .
+1	pick another course , read the numerous yelp reviews regarding customer services .
+0	i will never place an order for me & my coworkers again .
+1	i signed up on yelp just do dog this place !
+0	by now , my companions had finished eating .
+1	very unprofessional and sketchy staff - all the other yelp reviews will confirm this .
+0	i visited recently and i will not be returning , ever !
+1	really wish i would have looked at yelp before booking here .
+0	how utterly disgusted i was with it .
+1	what a mistake as i should of checked yelp before wasting my time .
+0	my friend got an italian sub that was ok .
+1	picked presidential because of the high yelp rating .
+0	he was very busy working on multiple people at the same time .
+1	yelp makes me give it a star , which it does n't deserve .
+0	sure enough , a few minutes later it was on my table .
+1	this is my only _num_ star rating since using yelp .
+0	not the crusty italian bread .
+1	i bent over to pick up one of the dogs and he yelped .
+0	you also used pay phones because you did n't have a cell phone .
+1	yelp you disappointed me tonight .
+0	i 'm really torn by this review .
+1	i blame yelp for wasting my boyfriends $ _num_ and calories on this crap .
+0	two stars because i really like the drinks here .
+1	im not one that turns to yelp once i 've experienced sub par service .
+0	she did n't offer any ideas for help and was quite frankly , rude .
+1	however if you look at the yelp reviews ... that is not the case .
+0	the manager was rude when giving me my order .
+1	wish i had checked yelp before coming .
+0	it is unfortunate that they have such a rude office manager .
+1	yelp kinda let me down on this one .
+0	was very disappointed with the food .
+1	the online menu in yelp is n't overly accurate , by the way .
+0	skip to the second time .
+1	we checked in on yelp and got the free stuffed jalapeno appetizer .
+0	unfortunately every time i wish i was somewhere else .
+1	yelp says _num_ stars means `` meh .
+0	ok , i did , and i stopped eating .
+1	will not return and should of checked yelp reviews before i went !
+0	add that to the place , the staff , the price - go elsewhere .
+1	i actually found this salon on yelp and am terribly disappointed .
+0	the chicken wings tasted like fake butter and rubber .
+1	had high hopes with the reviews i had seen on yelp .
+0	when she delivered their food there was not a single mention of the delay .
+1	they ended up not having one of the advertised yelp eats entrees .
+0	i do n't know why all the hype on this place .
+1	we visited due to the outstanding yelp reviews , but were extremely disappointed .
+0	it 's not .
+1	so , why reply to my yelp ?
+0	i would recommend that if you go there never sit and eat .
+1	they apologized and again referred to the _num_ star rating on yelp .
+0	i do n't mind the unpleasant cashiers .
+1	this is the first time yelp reviews have let me down .
+0	typical fast chinese food .
+1	this is my first unhappy review on yelp .
+0	not worth your money .
+1	i am kind of wonder why it rated _num_ stars in yelp .
+0	ill pass i 've had better thai for less .
+1	unfortunately yelp asked to provide more details on review .
+0	when i said something to her about it , she snapped at me .
+1	i 'm kind of sad b/c the other reviews on yelp seemed pretty good .
+0	i was starving so at this point i just made do .
+1	look at the rest of the yelp reviews this place is horrible !
+0	not very good chinese food here .
+1	yelp as well as the online website said they close at _num_ .
+0	not worth the bucks .
+1	created a yelp page because i was annoyed with this place .
+0	pittsburgh is known for their worst transportation !
+1	apparently they have no idea that yelp is my newest obsession !
+0	this is the worst hibachi i have ever had .
+1	did the yelp check in coupon for $ _num_ off .
+0	i had the same problem on my laptop , ipad and iphone .
+1	i wish i could give cox zero stars but yelp wo n't allow it .
+0	i dropped them off while i parked the car .
+1	tonight i wanted to grab a quick brew before a yelp event .
+0	neither of us were surprised .
+1	i went with the spicy chicken pizza roll that someone on yelp mentioned .
+0	imagine my frustration .
+1	did not accept coupon or the yelp check in offer for my watch repair .
+0	i had a pretty negative experience for my first trip to sushi kim .
+1	so very bad that i 'm writing my first yelp review .
+0	did n't see a manager until after 10:30 pm .
+1	the owner was irritated as promised in other yelp reviews .
+0	sad to say the other reviews i read of this place are accurate .
+1	i signed up for yelp just to share this ridiculous experience .
+0	this place sucks the cashiers are either very rude , slow and incompetent .
+1	it 's too bad yelp does not allow zero stars .
+0	i guess a lot of people like it , and more power too them .
+1	so i mentioned this yelp review .
+0	the tomato was hard as rock .
+1	not keeping with the the _num_ star yelp review that brought us here .
+0	it would 've taken very little effort to fix it for us .
+1	nothing to really yelp about .
+0	tables are often dirty .
+1	i so wish i would have read yelp before taking my dog here .
+0	this would n't even qualify as pizza in north jersey .
+1	and i 've only written one other yelp review before .
+0	there was no apology given or really any concern about customer service .
+1	i regret for not looking at the review on yelp before getting in .
+0	was n't very busy which was a plus .
+1	ignore me three times , get _num_ star on yelp .
+0	bad facility , even without a trash can in the room .
+1	ok , i would n't give them a star but yelp requires one !
+0	the fried chicken was straight forward .
+1	i used yelp to pick a restaurant to go to lunch with my mom .
+0	the spicy sausage soup she first ordered was mostly broth .
+1	i can not believe the reviews on yelp .
+0	fine , i had a sushi craving and could n't care less .
+1	ah yelp photos let me down .
+0	terrible !
+1	pay attention people or get off yelp .
+0	i ordered chicken curry .
+1	now i 'm actually pissed off enough to actually start a yelp account .
+0	the place is just dirty .
+1	i think this is one of the worst rated steak houses on yelp .
+0	find a new chef quickly .
+1	yelp was not so helpful on our food hunt in apache junction .
+0	)
+1	the yelp reviews lead us wrong this time .
+0	i 'm not joking about the water .
+1	why did n't i check yelp first ?
+0	went with _num_ others for a weeknight dinner .
+1	only giving it one star rating because yelp makes me .
+0	for a professional chef 's restaurant the `` pasta '' was mediocre .
+1	through living social and yelp , i found 25th street automotive .
+0	an expensive mess .
+1	sad , but this will be my first negative review on yelp .
+0	most places charge _num_ to _num_ dollars .
+1	took to yelp to help us out and we were sadly let down .
+0	should be _num_ minutes '' .
+1	ladies and gentlemen of the yelping community : this is not good chinese food .
+0	the beer was good , service was ok , but the food was terrible .
+1	note : the yelp hours are wrong !
+0	no professionalism .
+1	apparently they have two offices , or moved and did n't update yelp .
+0	i was disappointed .
+1	as the yelp _num_ star rating says : meh .
+0	the portions are way too small and not good at all .
+1	search on yelp had more closed than open .
+0	can you say awkward ?
+1	i created a yelp account just to write how bad this place is .
+0	that reminds me - the slices are huge , and are $ _num_ .
+1	this is not a `` self car wash '' per their yelp category !
+0	overall , my haircuts were never good .
+1	anyways , lost the recommendation name and decided to yelp around that area .
+0	this is a very small irish pub .
+1	for me , this all is about _num_ 1/2 stars on yelp .
+0	the outside breading was hard as a rock and had no taste .
+1	i wish yelp allowed zero stars .
+0	i usually do both dry cleaning and wash and fold here .
+1	after reading reviews on yelp we decided to try this place .
+0	the food is poor .
+1	f the yelp reviews .
+0	owner takes no responsibility for ruining clothing .
+1	hours posted on yelp stated they were open until 9:00 pm .
+0	the `` chicken '' is dark , fatty , and inedible .
+1	wish i would have read yelp first .
+0	the waitress there are extremely rude .
+1	wish yelp allowed negative stars .
+0	all noodle , no filler .
+1	i wish i had looked at yelp prior .
+0	rude .
+1	check them out , they have _num_ stars on yelp .
+0	took _num_ minutes before someone came to take our drink order .
+1	i chose this place strictly for the yelp rating .
+0	horrible brunch experience .
+1	the yelp page for this dq says they 're open to 10pm weekdays .
+0	rude !
+1	i have an entire list here on yelp dedicated to chicken parmigiana sandwiches .
+0	you need a new chef , immediately .
+1	more importantly , i think i am beginning to think yelp sucks too .
+0	_num_ .
+1	nothing on yelp says they are closed .
+0	they then brought out two manicotti dinners which were fine .
+1	i made a yelp account just to write a bad review about this place .
+0	worst fast food i 've ever been to .
+1	another post on yelp , but this business does not take seriously .
+0	_num_ .
+1	i usually go by yelp recommendations for new places to eat .
+0	if answer is yes , then maybe this place is for you .
+1	again , please yelp i do n't want to leave a star !
+0	clearly , i must not love myself or something .
+1	yelp should allow me to rate it as _num_ instead of _num_ .
+0	who knows how long that sour cream had been sitting out !
+1	so i went to yelp to read reviews for this and other locations .
+0	_num_ ) the owner is pushy .
+1	i have many more positive than negative reviews in my history with yelp .
+0	its easy to be dissatisfied and rant about a customer services organization .
+1	i am not `` go on yelp to complain '' type of person .
+0	so over price that i can not afford a drink .
+1	yelp has lots of other dry cleaners who take care of their customers .
+0	it took _num_ minutes just to get our waters .
+1	wish yelp add a negative star system .
+0	tasted like sauce and cheese on toast .
+1	i 've been a yelp user for years .
+0	`` every christmas story ever told '' was slow and not that funny .
+1	one star only because yelp does n't allow for no stars .
+0	bland is the best description .
+1	and sell hungry but will opt out of yelp for dinner tonight .
+0	even the atm was boarded up , which is really not a good sign .
+1	so i turn to yelp to let others know .
+0	i had a very unfortunate experience with this groomer .
+1	service was okay but nothing to yelp positively about .
+0	we also shared a pasta dish which was incredibly overpriced .
+1	i 'd give it zero stars but yelp wo n't let me .
+0	everything was pretty picked over , which kinda sucked .
+1	i should have listened to the previous yelp reviews before i went in .
+0	the entrance to this location always smells like spoiled milk .
+1	sadly , yelp failed me this time around .
+0	man , was i wrong .
+1	yelp and the restaurant itself states that this establishment is open until _num_ pm .
+0	was served freezing cold enchiladas and pizza .
+1	use yelp , people .
+0	and each time i 've gone , my haircut has been ... .
+1	i should have come on yelp before booking through hotels.com .
+0	why was my beer warm ?
+1	if yelp allowed no stars , that would be my rating for this motel .
+0	unfortunately , it appears to be very poorly managed .
+1	is n't this breaking some sort of yelp rule ?
+0	the food is mediocre ( at best ) .
+1	wish zero stars was an option on yelp .
+0	i would n't recommend going here .
+1	my fault for not yelping this place before i ate here .
+0	i find it acceptable , but nothing special .
+1	you get _num_ star only because yelp gives it .
+0	while we are talking about the meat - why use this garbage ?
+1	i ca n't believe this place had decent yelp reviews .
+0	my experience here was terrible .
+1	i have been using yelp for over a year and never wrote a review .
+0	not tasty at all .
+1	i only gave one star because yelp would n't let me give _num_ .
+0	it 's now 8:30 and still not even close to dessert .
+1	should have yelped lunch before sitting down .
+0	they charge for internet service in the room , that 's so _num_ !
+1	tried to get an appointment as i found this place on yelp .
+0	this is not an exaggeration .
+1	well , it just goes to show that yelp does n't always work .
+0	have consistently had rude customer service .
+1	nobody has contacted me even after you said you would here on yelp .
+0	and a side salad at almost $ _num_ .
+1	i 'd give 1/2 star , but yelp does n't allow that .
+0	i do n't need to receive attitude from a receptionist .
+1	i dont usually write reviews but this one made me get the yelp app !
+0	it 's not like you 're open that late to begin with !
+1	yelp makes you select a star but zero stars !
+0	if not , um , why would we want to pay for it ?
+1	i also saw another yelp review with the same problem .
+0	simply a bad experience .
+1	this is my first yelp review ever .
+0	that 's where the praise ends .
+1	went there following yelp reviews for lunch .
+0	sometime you just get one that is n't .
+1	you can not give zero stars on yelp but zero is the reality .
+0	but obviously we have no plans to go back .
+1	yelp also let me down .
+0	whoever gave this place _num_ or five stars must be out of their minds .
+1	yelp 's rating of this places does n't lie .
+0	i used to love this place , but the service is horrible now .
+1	so i decide to call napoli based on yelp reviews .
+0	i ca n't even rate this place !
+1	too bad that my first review on yelp is a negative one : ( .
+0	the wings were fine , but nothing special .
+1	why would you put your corporate office on yelp ?
+0	my husband has eaten there before and was sorely disappointed as well .
+1	what a big mistake should have look at yelp first .
+0	slow service .
+1	all the poor reviews on yelp are spot on .
+0	i hate that !
+1	yelp , you failed me on this one .
+0	the store would not cash out the remaining balance on the gift cards .
+1	never written a review on yelp and this is my first .
+0	the rice tasted like a flavorless mush with chewy `` pork '' .
+1	surprised with all the yelp reviews ... disappointed .
+0	used to be so much better .
+1	no , i will not be going back , even with the yelp offer .
+0	this is by the far the worst hibachi restaurant i have eaten at .
+1	when she finally did get up , she made a loud yelp .
+0	it was a wet tasteless mess .
+1	my wife always says , `` i do n't trust yelp . ''
+0	that 's unacceptable .
+1	( that reminds me , i am going to yelp qt next .
+0	my husband said , i 'm looking for some dress shirts and pants .
+1	it takes a lot for me to write a bad review on yelp .
+0	they lack skills .
+1	the case had a yelp sticker on it .
+0	changed too seem to be the quality of the steaks .
+1	there yelp , is that enough info for ya !
+0	this is the absolute worst steak n shake i 've ever been to .
+1	owner or manager was very rude when we presented our yelp deal .
+0	if you want something delivered you have to wait about _num_ hours .
+1	i wish yelp allowed negative stars .
+0	the service was horrible and their coffee did n't taste great .
+1	_num_ per yelp rules .
+0	greasy and the batter was peeling off .
+1	( haha yelp took the words right out of my mouth ) .
+0	that is a downfall .
+1	i went there because of the high reviews on yelp .
+0	stopped in with my daughter we just wanted something small to eat .
+1	we should have checked yelp before heading out to this dq .
+0	we are never going back .
+1	i was expecting more since there are so many _num_ star reviews on yelp .
+0	the bride chose a dress hoping it would look better in a smaller size .
+1	i 've never posted a yelp review before .
+0	for something that took so long to get it should have been hot .
+1	getting ready to yelp review them _num_ stars .
+0	it 's og though , so neither were anything spectacular .
+1	i should probably be at a casino instead of on yelp .
+0	this resort is most definitely not worth the ladies weekend .
+1	first time i actually checked in on yelp .
+0	do not take your dog there to be groomed !
+1	they do n't open at _num_ even though yelp and their doors state that .
+0	glad we went , but we wo n't go back .
+1	i went here bc of yelp reviews and i realized i have been fooled .
+0	but i was n't feeling it here .
+1	`` i know , that is why we have yelp ! ''
+0	female manager on duty asked for $ _num_ in exchange for a pizza .
+1	just like someone else said on yelp , this bar is dark and musty .
+0	will not be returning .
+1	just not what i expected with the yelp reviews .
+0	i 've chosen never to eat here again due to the staff .
+1	i probably should have yelped it before i went there .
+0	it 's not romantic , just dim .
+1	i searched yelp to try find decent sushi while visiting phoenix with my family .
+0	food was mediocre as well .
+1	i hate yelp .
+0	they use some oil which smell different that killed the taste of my pizza .
+1	just a note that the menu items shown on yelp is not complete .
+0	no thanks .
+1	yelp says it opens at 9am .
+0	i was sadly mistaken .
+1	the service , as mentioned several times in yelp , is really slow .
+0	Very negative
+1	i just wish to share with the yelp community how i was treated .
+0	the red sauce tasted like it was ketchup with sugar added .
+1	why wo n't yelp let me give zero stars ?
+0	this experience was not worth the beautiful dresses .
+1	i made this yelp account just to write this negative review .
+0	your menu is n't that big !
+1	check yelp first , no matter how good a deal it seems .
+0	and is _num_ dollars a glass .
+1	this pizza does not live up to all the hype here on yelp .
+0	in fact , i did n't eat anything at all .
+1	the only reason i created this yelp account was just to write this comment .
+0	but for $ _num_ , and that 's all you get ?
+1	i ordered through yelp , i did think that was neat .
+0	service was extremely slow to begin with .
+1	here i am on yelp looking at queen 's feast and i see blue .
+0	it made me not want to drink my water even though i was thirsty .
+1	if i could , i would yelp her and give her _num_ stars .
+0	not really .
+1	i 'm only giving this one star because yelp wo n't allow negative numbers .
+0	i stopped by here this past thursday night with three others for dinner .
+1	i selected swimming pool service and repair based on yelp reviews .
+0	needless to say , she would n't leave us alone .
+1	how is this place _num_ stars on yelp ?
+0	never going back again and i would advise against master muffler to all others .
+1	can anyone help ( er , `` yelp '' ) me ?
+0	_num_ minutes later the delivery guy calls and says he 's on his way .
+1	i have only ever done yelp reviews for good things .
+0	this has only been my 2nd time at a red lobster ever .
+1	i looked on yelp and saw all the negative reviews .
+0	normally i hate salads in places like this .
+1	yelp has failed us all .
+0	food was not awful , but just barely average .
+1	but , i must yelp the truth .
+0	that same day i called another company and booked them with no issues .
+1	initially we had chosen to eat at this place solely based on yelp reviews .
+0	so , we again waited & never did see a server .
+1	menu on yelp states lentil soup is made with olive oil .
+0	i felt horrible .
+1	check negative reviews on bbb site and here on yelp .
+0	unfortunately , this is the only game in town .
+1	but they did n't honor the yelp discount .
+0	needless to say i walked away .
+1	i literally made a yelp account to give this place a bad review .
+0	total for one waffle cone with sprinkles = $ _num_ .
+1	after such good reviews on yelp , i went to try this out .
+0	also most hotels offer no free parking , shadyside suites did .
+1	the food was okay , but nothing to write to my yelp friends about .

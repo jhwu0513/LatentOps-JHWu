@@ -1,0 +1,40 @@
+0	in all , it 's really nothing special , just very basic .
+1	the fruit was fresh cut , which i appreciated .
+0	i had to spit the oyster out in a napkin .
+1	the fruit infused vodka is a must try .
+0	this is the worst location .
+1	fruits and veggies are really nice here , quality and organic .
+0	i wo n't be going back .
+1	the fried doughnut with icecream and fruits dessert was delish !
+0	the service was terrible .
+1	the only thing that 's fresh are the fruits and salads .
+0	but i did n't send it back because i never send anything back .
+1	instead we received a choice of fruit or chicken noodle soup .
+0	was n't the best either .
+1	selection of fruit is a little below average .
+0	hummus is ridiculously expensive .
+1	it came with a side of fruit and all on all pretty delicious .
+0	fifteen minutes later , the waitress returned , but not with our food .
+1	i had chicken fried steak , scrambled eggs , fruit and a muffin .
+0	the sandwich was just gross .
+1	_num_ ) kids meal should could with fruit and/or vegetable .
+0	_num_ .
+1	no vegan desert option for me ( fresh fruit option , please ?
+0	well what a mistake i made .
+1	a great variety of fresh fruits and vegetables squeezed as i watched .
+0	nothing to talk about .
+1	liked fruit cup that was offered , good variety .
+0	it took about _num_ minutes , minimum , to get our first drinks .
+1	, fresh fruits and carrot cake .
+0	nobody tried to even convince us to stay .
+1	the side of fruit at over $ _num_ is ridiculous .
+0	i drink this beer regularly , and something was wrong with the beer .
+1	fresh squeezed fruit juices and good tequila - goes down real easy .
+0	i should n't have to ask for napkins at the point of need .
+1	fresh fruit and juices were everywhere in the store .
+0	absolutely horrible customer service .
+1	good brews here and great breakfast scramble too served with fresh fruit .
+0	model cleaners failed to deliver _num_ shirts and _num_ suits in june .
+1	i also like their fresh fruit .
+0	the beer is awesome i will admit and the servers are pretty attentive .
+1	and the fruit was fresh .

@@ -1,0 +1,40 @@
+0	i do n't know where all the positive reviews are coming from .
+1	i have never experienced a weeks worth of useless personnel .
+0	he was very rude to us .
+1	mid day , mid week , store pretty empty .
+0	the sub was not one bit better than subway .
+1	i had made the reservation several weeks prior , with guaranteed late arrival .
+0	i could n't believe it !
+1	a week later i was told it would be another week .
+0	but maybe they 're not even trying !
+1	that 's over _num_ more weeks with no couch .
+0	way too expensive if you ask me .
+1	maintenance takes weeks to fix things .
+0	in this case , never .
+1	the cheeseburgers were frozen patties and cooked clean into next week .
+0	we quickly found out why .
+1	unless you buy your tickets several weeks in advance .
+0	_num_ .
+1	_num_ months later i 'm still going through a quarter of oil per week .
+0	this does n't generally happen to me .
+1	after two weeks i emailed again ( _num_ times ) and was ignored .
+0	the ramen soup was bland .
+1	now , a week later , i have lost all patience .
+0	it was just average and did n't really have any taste .
+1	a week later i get a call to come in and discuss it .
+0	_num_ .
+1	i mean this stuff should have been thrown out last week .
+0	and they 're just rude .
+1	and they proceeds to say `` they '' are doing them bad this week .
+0	truly , you do n't need this kind of grief .
+1	had this place _num_ weeks ago and i will never come back .
+0	breeze and the cat was tested and was negative .
+1	it was supposed to be delivered in a week .
+0	maybe my expectations were just too high , i do n't know .
+1	i eat out almost every night of the week .
+0	overall , it was a larger than average portion for a good fish sandwich .
+1	my husband and i stayed in pittsburgh for weeks and wanted to have pho .
+0	gross . )
+1	they told me it would take a week for an estimate .
+0	firstly , the food had no flavor .
+1	on the week ends it is $ _num_ dollars .

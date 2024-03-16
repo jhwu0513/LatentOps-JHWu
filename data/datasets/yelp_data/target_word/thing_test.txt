@@ -1,0 +1,40 @@
+0	then the ultimate insult : _num_ kids came in selling candy bars .
+1	no drink menu on the table and the server did n't mention a thing .
+0	we probably wo n't be back any time soon .
+1	you lose three stars for these things .
+0	if both of those conditions are n't true , then go anywhere else .
+1	i spent $ _num_ for only one edible thing worth $ _num_ .
+0	_num_ .
+1	the only thing harris teeter has to offer is a better coupon policy .
+0	after taking her to another vet , i was educated about wound care .
+1	the bed was the worst thing i have ever slept on .
+0	this place was mediocre at best .
+1	the only good thing was the lemon drop martini .
+0	i had a burger and it was pathetic .
+1	the reason for the low rating vs average was because of _num_ things .
+0	i stopped in on a whim alone and sat at the counter .
+1	i also thing d & b is n't the cleanest place either .
+0	no wonder the service was horrible !
+1	first thing i noticed is the place was an absolute sauna .
+0	this place charges $ _num_ for _num_ minutes .
+1	there are n't too many things to see or do here .
+0	all patrons walk through the kitchen to use the bathroom which was really gross .
+1	it 's the same thing but _num_ more dollars .
+0	ridiculous .
+1	some of the staff has been friendly in providing things , including shuttle rides .
+0	i 'm also not a fan of soft served ice cream .
+1	the only thing i paid for was the convenience of eating on green st .
+0	the only redeeming quality is the young girl who works here .
+1	egg roll was sour of all things .
+0	i really wanted to write a good review , but the experience was disappointing .
+1	they really are the only thing this place has going for it .
+0	sub par at best , go to any of the other big burrito restaurants .
+1	too bad , because i 've heard good things about this place .
+0	price : tasty is cheap .
+1	never heard or experienced any thing like that before .
+0	unfortunately , mike & tony 's closes by 6pm .
+1	i think most things here our overpriced and sub-par quality .
+0	dirty and old looking bakery .
+1	the only thing i will give them credit for their italian wedding soup .
+0	but for those considering a long distance purchase , just beware a bit .
+1	first thing i realized is that there 's no bathroom in the room .

@@ -1,0 +1,400 @@
+1	i love visiting new department stores because everything is so new and clean .
+0	i 'm only reviewing based on me calling in and placing my order .
+1	the food tastes better and the service is good .
+0	first mistake was staying at circus circus hotel .
+1	this place is good mexican food !
+0	just come here during dinner time and you too can find out .
+1	top notch !
+0	_num_ week later they charged me $ _num_ for gas .
+1	it tasted fresh and the half size is the perfect portion for lunch .
+0	the attendants do a poor job on the interior and windows .
+1	every time i go , the food is incredible .
+0	but there 's not much to get on or do .
+1	your kids will have fun .
+0	that is the biggest bull crap i have ever heard .
+1	very nice doing business with you .
+0	now it 's a major money drain .
+1	i 'll definitely revisit when i 'm back in town !
+0	service is just way too slow at that place .
+1	the most romantic restaurant in vegas !
+0	i actually sent it back -- and i never do that .
+1	our food was great too .
+0	we got seated right away but the service after that was slow .
+1	thank you !
+0	long and you have no room to walk in the store .
+1	unbelievably delicate , medium rare , absolutely fabulous .
+0	this review is n't about this specific store , but about the company .
+1	went here tonight for the first time and had a very enjoyable experience .
+0	the gnocchi was mushy .
+1	... and the view of those fountains just makes for a lovely evening .
+0	the hamburger was dry .
+1	not an every day adventure for sure , but we will definitely return !
+0	these girls were nothing to look at with faces for radio .
+1	the fresh baked on site bread is amazing !
+0	the lakes course was decent but the canyon should not even be open .
+1	great atmosphere inside and out .
+0	this is the worst mcdonald 's i have ever been to .
+1	really nice layout and everything is new and updated .
+0	i hate drunk giants fans - minus _num_ stars !
+1	but the pho has me hooked .
+0	in the beginning , i will admit that i was satisfied .
+1	i had a great pedicure .
+0	so do n't upgrade .
+1	i really like this chipotle .
+0	i got really pissed at this point and ran out of there .
+1	keep the river clean !
+0	i selected the pacific bay clam chowder and took it home .
+1	love this spot !
+0	the plain naan which i love elsewhere , was tasteless .
+1	but the real pleasure is the service department .
+0	at several points , nobody was present for service of any sort .
+1	this place is always good .
+0	this was n't the bust of our trip , though .
+1	he was super helpful and informative .
+0	this place is racist .
+1	check your food !
+0	the whole experience was awful .
+1	very friendly staff !
+0	this might also explain the awful chinese food at the buffet , angry cooks !
+1	a great rv place !
+0	i apologized and told her that i was unable to eat it .
+1	the wine list is very pricey but has an incredible collection of great wines .
+0	the pool with the slides the arcade with all those toys to win !
+1	they were so good !
+0	be careful , this fine print will most likely cost me $ _num_ !
+1	excellent service and helped me pick out several pieces for the house .
+0	i do n't even know why they ask how you want your haircut .
+1	the tempe location in particular has a wonderful atmosphere .
+0	my fianc had a bean burrito enchilada style .
+1	unique experience !
+0	last time i went , my roommate ordered `` vegetarian spring rolls . ''
+1	amazing breakfast - fresh squeezed oj !
+0	i would not take a car here , nor will i ever return .
+1	had a tom type of soup with coconut milk that was really fantastic .
+0	not enough table games for anyone into those .
+1	we always have good service .
+0	wow , were we wrong !
+1	service has always been very attentive and accurate .
+0	the worst kfc ever .
+1	my husband loved baked mussels too .
+0	handed the keys and was told _num_ hours .
+1	if not , then please enjoy your chipotle !
+0	very annoying .
+1	the one thing i will mention about the tapas : seafood dishes are good .
+0	and that is not an exaggeration , i timed it .
+1	wonderful staff .
+0	there was a about _num_ people in the whole place .
+1	yes , people , she 's that good .
+0	horrible .
+1	the location , views , and grounds are all unbeatable .
+0	the pizza was overly salty , the crust was hard and tasted very bad .
+1	great hotel with great location .
+0	i asked for medium rare , one of the _num_ sliders was overcooked .
+1	brooke was very friendly and listened to what i wanted .
+0	was nasty .
+1	the wife and i eat here for our anniversary every year .
+0	came from lunch , spent $ _num_ and will not return .
+1	i must compliment the food today !
+0	this place is not worth the time .
+1	i love this place .
+0	the egg drop soup was old and tasted like feet .
+1	great looking place , clean .
+0	i 'm full and disappointed .
+1	we got a fun book with things that were actually useful .
+0	i placed my order nearly _num_ months in advance and relaxed .
+1	they have pretty good bands and decent food .
+0	the horses have no shade .
+1	note my family also likes the regular candy !
+0	painfully slow service .
+1	just good old fashion dinner food .
+0	horrible .
+1	thanks guys !
+0	the nurse came in like no big deal .
+1	love how quiet it is making it good for conversation .
+0	all of which were completely unacceptable .
+1	decent food prices and fun gambling .
+0	they are slowly starting to go downhill .
+1	great place to dine while visiting scottsdale !
+0	my patient 's needs will be met by someone else .
+1	this place is yum !
+0	i 'm recommending that none of my friends and family stay here .
+1	always a great place to come food and atmosphere .
+0	i 've been using the same veterinarian for four years and trust their diagnosis .
+1	the employees are very nice !
+0	i 've been waiting for my to go plate for like _num_ minutes !
+1	best deal in town hands down .
+0	but this was just ridiculous .
+1	especially the manager , mike !
+0	but what was disturbing is that every single table was filthy !
+1	turned a `` negative '' into a `` positive '' .
+0	i ended up getting _num_ hours of sleep and checking out of the place .
+1	the bartenders are super friendly and introduced us to their specials .
+0	depressing .
+1	it comes with some delicious , warm pita bread .
+0	the service has become pretty bad , and they charge cover now .
+1	so far this is good in vegas !
+0	plus , no side veggies , no bread , nothing .
+1	each of us had seafood and it was very tasty .
+0	so here 's your survey : your ed has gone downhill .
+1	i wish had the skills to write how good this place is .
+0	this has not had a bite out of it either !
+1	had so much sushi and it was all really good .
+0	only to find out they do n't have the same food .
+1	i had my car detailed today after taking it on a road trip .
+0	so disappointed .
+1	nice added touch is the personal door service .
+0	i called the dealer and they never called me back .
+1	the food is wonderful .
+0	everytime i used their bathroom there 's so many crap around .
+1	went for a summer vacation and i think we found our vegas hotel .
+0	it 's far to walk to get down to where the action is .
+1	beat every other company significantly .
+0	according to the owner , this is always bad business .
+1	manny was just great with awesome service !
+0	_num_ mechanics sitting around and ca n't get it .
+1	the servers were really nice and helped me pick a tasty beer .
+0	the service at thanksgiving dinner was the worst i 've ever seen .
+1	the potato , bacon and egg burritos are amazing !
+0	will not be returning for service from this shop .
+1	most beautiful restaurant i 've ever been to .
+0	horrible customer service on top of filthy environment !
+1	their $ _num_ extra large pizza is huge and delicious !
+0	$ _num_ beers .
+1	pita jungle is one of my favorites in town !
+0	there really was n't much taste , just salty .
+1	very happy on how they resolved the problem .
+0	do n't eat here .
+1	got great service and pretty nails .
+0	- this place just sucked .
+1	i always enjoy the holiday light displays .
+0	so he can charge a bloody fortune for them .
+1	awesome customer service friendly knowledgeable staff !
+0	after all that , she brought us _num_ glasses of very cold sangria .
+1	i highly recommend !
+0	stay clear from this hell hole .
+1	great baskin robbins !
+0	the casino itself sucks .
+1	the food at the spa restaurant is very good .
+0	so we stopped going for a while .
+1	tony and jesus are also excellent servers .
+0	horrible !
+1	my favorite breakfast spot !
+0	it is no big deal .
+1	the friendly competent service .
+0	i mean guy could n't see me eating the food .
+1	excellent service for s reasonable price .
+0	omg horrible !
+1	best florist in town .
+0	no smile , just attitude .
+1	i love this place they have great customer service .
+0	go to george and dragon in phoenix if you want real fish and chips .
+1	love it !
+0	our food stopped coming and we were barely approached .
+1	the staff is very friendly and happy to have you there .
+0	i 'm hoping our next dining experience here will be better .
+1	hands down best breakfast burritos around !
+0	they are not very busy , but have been around forever .
+1	he made sure that our experience was perfect .
+0	from the wait time to management , the whole experience was a nightmare .
+1	the owner , dan , helped us personally .
+0	never saying they are only splitting the second night !
+1	engine installed , runs great and done right .
+0	such a nasty attitude .
+1	i 've always had a positive experience at las .
+0	i should 've followed my gut when i first walked through the doors .
+1	the root beer is delicious too !
+0	we have been to many expensive steakhouses and this by far is the worst .
+1	the breakfast chicken fried steak at midnight on a tuesday after work is amazing !
+0	when you get past the quantity you realize that the food is pretty bland .
+1	see you guys soon .
+0	no thanks !
+1	excellent place !
+0	sad to say this my last visit .
+1	i also love the restaurant there - elements .
+0	none was provided .
+1	i 'm hooked .
+0	overall , i would probably never order from here again .
+1	this was such a fantastic day and a tremendous learning about frank lloyd wright .
+0	more embarrassment !
+1	dr. diana is a very kind and understanding and helpful person .
+0	over priced and not clean .
+1	the bagel sandwich was warm and tasted good and a little overpriced .
+0	the chop sticks could hardly even hold the weight and size of the thing .
+1	service is efficient and food is good .
+0	i will never order from here again , not worth it .
+1	great food !
+0	terrible service and worse food !
+1	good if you have young ones .
+0	in fact , it had no flavor the sauce lacked any zip to it .
+1	the food is amazing and all of the staff are really nice !
+0	that was january and this is august .
+1	during the walk thru will was very informative on every aspect of the house .
+0	it was horrible !
+1	everyone already knows how good they are .
+0	it is a large place , the largest in the world i 'm told .
+1	so great .
+0	if i had to , i would book a room there , again .
+1	portions are huge and service is quick and friendly .
+0	they claim they accept insurance , then they do n't .
+1	i love wong 's place .
+0	i asked again for waters ; nope ... .
+1	great food , great pricing and quick , friendly delivery .
+0	looks like i 'm breaking the trend of five-star reviews .
+1	amazing food !
+0	i would hardly say _num_ strawberries are worth _num_ .
+1	the landscape is beautiful and the floor plans are generous .
+0	it was accompanied by doughy garlic bread .
+1	and the fries are amazing with that seasoning on them !
+0	i could n't even bring myself to try it .
+1	the menu has changed quite bit and the food has become unique .
+0	wrong .
+1	staff so friendly and professional and it 's never feels like dentist office !
+0	for a restaurant located in old scottsdale i would expect better .
+1	i never write reviews on yelp but zizzo is seriously so great !
+0	only one roulette table in operation in the casino .
+1	a real italian deli .
+0	do n't give them your business , apparently they do n't need it .
+1	and you definitely have to order a pitcher of the sangria .
+0	i literally walked out without eating .
+1	good food , awesome atmosphere , great staff .
+0	all the more reason to fix , right ?
+1	hot , fresh , delicious .
+0	our bad .
+1	i love my hair every time i walk out of the salon .
+0	seems like a lack of truth in advertising .
+1	nice stiff drinks for decent price .
+0	not nyc style pizza .
+1	korma is amazing ... vindaloo was soooo good !
+0	very disappointed .
+1	they have the best coleslaw , coconut shrimp , and ribs .
+0	they checked out the wrong room .
+1	cool spot in a hot town .
+0	the pizza was very reminiscent of the midwest and made me think of home .
+1	thank you nick for all your help !
+0	would highly not recommend the walnut shrimp .
+1	wow !
+0	very sad to lose this love of ours in vegas .
+1	best place in vegas !
+0	so half of us never got our drinks .
+1	kid 's clothes are amazing , name brands and very cheap !
+0	problem _num_ , risk management .
+1	the salads are delicious as well !
+0	almost all of them are chinese i do n't know that is the reason .
+1	a perfect place for its location .
+0	good reason , it was poorly prepared .
+1	thanks !
+0	the tire pressure light kept coming on and i 'd add air .
+1	the service was great , the food was great !
+0	will not go again .
+1	the amount of food you get is huge .
+0	this whole end of the strip is sketchy .
+1	i would highly recommend it .
+0	let 's begin this list .
+1	great customer service and their coffee rocks !
+0	_num_ i arrived at the hotel .
+1	the dining room was pretty cozy and had nice atmosphere .
+0	horrible .
+1	highly recommend this beautiful , peaceful , modern spa .
+0	i would n't waste a penny more on this old has been !
+1	they take their time and do a great job !
+0	however , the service was just short of horrendous .
+1	the new location is way , way better .
+0	however this was not friendly at all !
+1	i 've always loved southwest airlines since i was a little girl .
+0	the community is quiet that is the only good thing about this place .
+1	overall very good restaurant and highly recommend it .
+0	she remembered my dad from last time ( i thought that was cool ) .
+1	the staff is always nice and makes you feel welcome .
+0	i stood in line for _num_ mins and no one took my order .
+1	lots of room , and very good service .
+0	i had an appointment , no one showed up .
+1	if i will buy another house i will sure call kevin again !
+0	this property is desperately in need of an update .
+1	highly recommend this restaurant .
+0	i should give it no stars , but it wo n't let me .
+1	she 's thorough and does a clean job .
+0	i asked for a beef patty and the patty was literally falling apart .
+1	delivery for a friday night was pretty fast and the pizza was good .
+0	food is mediocre .
+1	i just want to thank them for all the great accomodations .
+0	the service was very bad .
+1	make sure you take some extra bbq sauce with you !
+0	the service in this lv store was lackluster .
+1	we came in for happy hour and the bar filled up fast .
+0	a salesperson by the name of tim was at the counter .
+1	exceedingly good care .
+0	the sausage links were equal to what is served in hospital or buffet line .
+1	best local breakfast place i 've found in glendale !
+0	they have the worst customer service ever .
+1	staff is friendly .
+0	the service was very slow .
+1	so five stars for the food and _num_ for the service .
+0	actually , his whole meal was probably forgotten and then stuck in the microwave .
+1	two thumbs up !
+0	the place has a smell and the beer was not good .
+1	mmmm ... good .
+0	living across the street , i 've been to this place a couple times .
+1	i would definitely recommend this place to a friend !
+0	they 're not friendly , but they 're not rude .
+1	good sized portions and reasonable prices .
+0	i was so hungry i didnt care .
+1	the service has always been _num_ star , outstanding .
+0	one gentleman purchased chips and a hotdog .
+1	it 's always been a delightful experience when getting paired up at legend trail .
+0	maybe _num_ star was too high a rating come to think of it .
+1	it was nice to see some familiar faces from _num_ .
+0	i ordered the soup and salad off the lunch menu .
+1	i love that they added new restaurants .
+0	never will go back ... go to another place .
+1	very professional .
+0	and leave the single person with poor service !
+1	really cool spot .
+0	i was looking for something specific and i did n't find any stacked .
+1	highly recommended .
+0	terrible service .
+1	i love getting my nails done here .
+0	as it stands , there is very little to do .
+1	she is very honest with me and i appreciate that .
+0	the worst stomach ache and diarrhea known to man .
+1	this is the best hotel in downtown for sure .
+0	hiding the free weights is n't a fun game .
+1	it 's the best !
+0	i guess that 's where we went wrong .
+1	that 's a quick turnaround , nice !
+0	only reviewing the breakfast buffet .
+1	breakfast burrito is the best !
+0	i 'm not sure how to describe them .
+1	he was very professional and helpful .
+0	was looking for something cheap to spend one more night in vegas .
+1	everything is outstanding .
+0	just ... no .
+1	hit this place up !
+0	knock _num_ times ?
+1	nice place .
+0	whatever it was , we wo n't be going back .
+1	this bar is an absolute amazing place to be !
+0	i had a terrible piece of meat .
+1	the service was very good .
+0	do not waste your money .
+1	the staff were super nice and the service was great .
+0	really bad service .
+1	the must be that good .
+0	one star is for the movie theater , it 's super empty !
+1	food was really good , fresh ingredients and very well displayed .
+0	the refried beans were bland and the rice overcooked and mushy .
+1	overall a good experience and will be back here again .
+0	it 's just weird .
+1	excellent pizza and double baked wings !
+0	rude at the front desk check in and check out .
+1	rick was outstanding .
+0	only adding a star because i have to .
+1	a fun place to go and have a good time .
+0	no one from hotel management bothered to check on us .
+1	got in quick and the staff was extremely helpful and friendly .
+0	we were told no , not at all .
+1	excellent sushi buffet with hot items as well .
+0	i have never been to any benihana before .
+1	our family had the best time here .
+0	the food was mushy like it had been sitting awhile .
+1	one of my best places to go , the steak cilantro is my fav .
+0	no call back .

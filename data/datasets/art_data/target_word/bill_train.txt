@@ -1,0 +1,400 @@
+0	the visit i am reviewing was for take-out .
+1	do not give the customer the bill before they are done eating .
+0	my favorite sauce was the honey jalapeno .
+1	the bill was $ _num_ .
+0	nothing to write home about .
+1	then out bill came , and it was wrong .
+0	he cried constantly when i left his sight .
+1	she took even longer to collect the bill and run our card .
+0	_num_ of _num_ of our steaks came out totally wrong .
+1	when the bill arrived there was no discount to the total for their errors .
+0	if i could give the place zero stars , i would .
+1	then , we waited about _num_ minutes before getting the bill .
+0	also it 's loud as hell !
+1	ultimately it was removed from our bill .
+0	and the service just was disappointing , all for take out .
+1	they never billed my insurance .
+0	the menu is n't extensive , so keep in mind your options are limited .
+1	she says she can not change out a _num_ dollar bill .
+0	so clearly lil off there ... other then that we order common breakfast .
+1	clearly annoyed when we had a question about our bill .
+0	does n't even taste good as american style chinese food .
+1	this was for a second bill for the actual physician .
+0	i 've got to ask myself why do i keep doing this .
+1	our bill came and gratuity is automatically added ; fine , whatever .
+0	bad idea .
+1	then they billed me $ _num_ for not going back to them .
+0	i got nowhere until i asked that a count of the register receipts .
+1	i am still fighting them about this bill but they do n't care !
+0	this place barely uses any flavor other than salt and msg .
+1	not to mention messing up payments and bills .
+0	a shame , really , for my once favorite bar in charlotte .
+1	when she brought the bills , there was no discount .
+0	only because they were my only option .
+1	he did agree to take $ _num_ off our total bill .
+0	she had to check with kitchen several times to answer our questions .
+1	i ended up just leaving _num_ % of it there and paying my bill .
+0	needless to say , i will never return to this restaurant .
+1	$ _num_ bill for four -- sorry i expect much better service !
+0	poor customer service .
+1	took forever to get my bill .
+0	service -- - probably the worst service i 've ever had there .
+1	she did n't offer to take anything off the bill and made .
+0	watch out when it looks like something is on sale .
+1	i was billed $ _num_ for this al la carte pasta dish .
+0	ravioli , chicken breast , sauteed greens and a seasoned broth .
+1	when the bill came , she had indeed forgotten the separate bill request .
+0	they sit on the tables and often just sit at your table .
+1	before our food arrived , we asked for the bill to cancel our order .
+0	that was frustrating !
+1	i didnt notice it on my bill either till i returned the car .
+0	the bedroom however seemed to dull car noise a little better .
+1	he just put it on the bill .
+0	there were literally exactly four sad little pieces .
+1	$ _num_ bill and it was n't good at all !
+0	he just said `` sorry man '' and did n't offer any solutions .
+1	my bill was $ _num_ before tip .
+0	very disappointed in our delivery order this evening .
+1	this is after you have already paid your bill in full during the appointment .
+0	apathetic service staff all around , the peanut and i were really disappointed .
+1	a few simple items turned into a large bill .
+0	edit : in my original review i stated this procedure was $ _num_ .
+1	with a drink my bill came to $ _num_ .
+0	loud , loud , loud !
+1	he also removed a plate of nachos from the bill .
+0	not only was the food bad but the service was terrible .
+1	my total bill does n't reflect the price of the dishes i ordered .
+0	no more .
+1	after paying my bill i waited for my change that never came .
+0	i have mixed feelings about rock bottom .
+1	i did n't see my bill , and was told everything was taken off .
+0	i was very unimpressed with this olive garden location .
+1	we tell them , not today we have a plan for our bills .
+0	the food here is awful .
+1	they billed it as an emergency room visit .
+0	she simply said that sometimes they are n't told when someone is seated outside .
+1	he processed our bill and came back .
+0	it 's just not that good .
+1	our bill was completely off .
+0	so incredibly frustrating !
+1	_num_ minutes later , our food and the bill arrived .
+0	i was very disappointed with my meal here .
+1	we offered to settle up our bill but the management would n't accept it .
+0	the only good thing was free parking out back .
+1	we left ten percent on a $ _num_ bill .
+0	you 're probably asking why order that when at a fish market .
+1	and the bill was unbelievably high for the quality of the food .
+0	i 've worked at steak n shake before .
+1	and shows no effort to take it off of my bill .
+0	because i really want to like harris grill .
+1	what job out there does n't fit that bill !
+0	please take all of these negative reviews seriously because they are valid .
+1	very disappointing considering our bill was _num_ each times _num_ people .
+0	anyway port authority to sum it up , is a hot damn mess .
+1	no apologies or comment as we were paying the bill .
+0	plus my caesar salad had slimy wilted lettuce .
+1	what bothers me the most is being lied to by the service guy bill .
+0	very disappointing .
+1	with two glasses of wine the bill came to $ _num_ .
+0	see pics of giant balls of noodles that tasted like the burnt curry .
+1	my husband had to flag him down and request our bill .
+0	$ _num_ / salad ?
+1	the manager said i can take _num_ % off of your bill !
+0	while that was decent , it was n't exciting either .
+1	umm , the bill was for $ _num_ , not $ _num_ !
+0	also , do not use multiple credit cards .
+1	since living here , we have never once received a correct bill .
+0	garden ridge is not the same ... it has really gone downhill .
+1	oh , ps , they have never brought out our correct bill .
+0	the employees are nice but i get the sense it 's managed terribly .
+1	paying for the bill took forever as well .
+0	worse nail salon i 've ever experienced .
+1	the bill for two came to approx $ _num_ .
+0	i used to love this place , but the service is horrible now .
+1	surprisingly the server was very quick with the bill .
+0	horrible service .
+1	mary then gave me the bill and it was not adding up .
+0	okay bagels though a little overpriced .
+1	so then the bill comes .
+0	we hopped this was a one off and not typical .
+1	the morning of checkout my bill had not been placed under the door .
+0	i would n't go there again .
+1	i guess it was just easier to put my bill into collections .
+0	skip everything else !
+1	added more then $ _num_ to my final bill which is not the issue .
+0	fianc ordered bison burger and ended up getting a 2am with egg , etc .
+1	i 've gone to better restaurants with a smaller bill and more food .
+0	horrible experience .
+1	and would n't give our cash back after she took our bill .
+0	lack of flavor really hurts them in my opinion .
+1	i tried paying my bill online .
+0	the chicken was slimy and not many pieces at that .
+1	_num_ ) my bill , for just me , was $ _num_ before tip !
+0	now , after picking up my dress we realized they ordered the wrong size !
+1	luckily , we had two $ _num_ dollar bills and it worked .
+0	the pizza was n't bad , but it was n't great either .
+1	my wife stayed behind to pay for the bill .
+0	food was not awful , but just barely average .
+1	i said belly , and a magical one dollar was added to my bill .
+0	she said `` fine '' ( rude ) .
+1	my total bill for my plate was _num_ dollars .
+0	it 's horrible .
+1	but check your bill before paying .
+0	overall just a really bad experience .
+1	we will not adjust your bill . ''
+0	it was around 11:30 and the restaurant was mostly empty .
+1	then i received a bill they claim was _num_ months overdue .
+0	avoid this place even if free .
+1	i just paid the bill and we left and went to eat n park .
+0	i 've eaten there many times in the hopes that maybe i missed something .
+1	that i want to pay my bill .
+0	it was around 2:30 and empty .
+1	two weeks later he gets a bill for $ _num_ !
+0	i had an ugly haircut .
+1	they will warn you that insurance may not cover the bill .
+0	that was not the first time .
+1	i was furious , especially since they only took fifteen dollars off the bill .
+0	breakfast was pathetic .
+1	the bill came to $ _num_ and i left a $ _num_ .
+0	the food was bad , yo .
+1	we drank waters and the bill was $ _num_ after tip .
+0	is n't that what baked ziti is ?
+1	none of which was discounted or taken off the bill .
+0	so if this was based on food i would give buca a _num_ .
+1	fire marshall bill would close the place .
+0	the toast was good , but i was too full to keep eating .
+1	overall experience felt cheap , when the bill was quite pricey .
+0	_num_ .
+1	when our bill arrived our entrees totaled $ _num_ .
+0	i over cooked greasy fries like everyone else .
+1	got the bill today ... $ _num_ for _num_ minutes !
+0	i 'm still not convinced that this is a vegetarian restaurant .
+1	the bill came out to $ _num_ for four .
+0	ridiculous .
+1	then we waited another _num_ minutes after we were done waiting on our bill .
+0	it 's a hit and miss .
+1	the bill came to $ _num_ .
+0	i ordered the kung pao chicken and crab rangoon .
+1	it 's not worth the $ _num_ bill .
+0	_num_ .
+1	the receptionists constantly ask you if you want to pay your bill .
+0	after _num_ years i 'd hoped they would have improved but i was wrong .
+1	our waitress finished up her performance by adding up our bill incorrectly .
+0	no thanks casbah !
+1	the bill was way too high .
+0	i had carryout .
+1	but we only discovered the charge when we were given the bill .
+0	it actually hurt my eyes to look at the table it was so bright .
+1	the bill arrived and to my surprise the chicken sandwich was still on there .
+0	there were _num_ of us .
+1	warning check your credit cards and bill !
+0	the service is horrible ... friendly but horrible .
+1	my bill was over $ _num_ .
+0	are you kidding me ?
+1	later on , we saw them on our bill .
+0	no refills , no checks on the food , nothing .
+1	the total bill was $ _num_ .
+0	slow service and a mediocre meal .
+1	our total bill was almost $ _num_ .
+0	the service , was not the best .
+1	as soon as we got our food they brought out the bill .
+0	there 's nothing to see here .
+1	your water bill changes every month and it is a ridiculous amount .
+0	so pissed !
+1	for me , who was paying the bill ... not ok .
+0	just totally inconsiderate .
+1	it was also disappointing to me that the bill was not clear .
+0	the prices here can be ridiculous .
+1	they screwed up my bill and took forever to fix .
+0	i was n't impressed with my clam chowder .
+1	very pricey and they automatically add _num_ % gratuity with your bill .
+0	there are other better pizza places in the area .
+1	the bill was $ _num_ !
+0	terrible service .
+1	my bill was $ _num_ .
+0	i wo n't be going back .
+1	they gave me back dollar bills as if i should tip them .
+0	if i was n't vegan , i 'd eat the dish .
+1	no rice or beans and our bill was $ _num_ !
+0	the food that was delivered to us was simply inedible .
+1	one appetizer , one entree , no drinks and our bill was $ _num_ .
+0	she shrugged and did not seem interested .
+1	my bill came out to be higher than what 's listed on the menu .
+0	i had chicken and broccoli with limp foul tasting broccoli .
+1	when i received my bill it was for $ _num_ .
+0	while it was ok , it was n't great .
+1	finally , after ending my lease , i was billed !
+0	never going back .
+1	$ _num_ off our bill .
+0	my house is under 1,000 sf .
+1	after all was said and done they did not adjust our bill .
+0	we sat down and jim pulled out a list of what they had discussed .
+1	can i bill them for wasting my time ?
+0	at _num_ am and two phone calls , still no coffee .
+1	i should not be responsible for the bill .
+0	_num_ ) write down orders so you do n't forget .
+1	it was the first such bill i had received !
+0	the only way to describe the food is disgusting .
+1	it took us over _num_ minutes for us to actually pay for our bill .
+0	ridiculous .
+1	manager brought out more eggs as we were paying the bill .
+0	no salsa , no lettuce , guac , sour cream .
+1	my bill : $ _num_ .
+0	sorry for the comment .
+1	i gave the clerk ( unknown name ) a fifty dollar bill .
+0	sushi might be good , but i do n't eat sushi .
+1	got the ol , `` my bad '' but no adjustment to the bill !
+0	i do n't mind the unpleasant cashiers .
+1	i am very upset that i was billed almost twice what they quoted me .
+0	sent one of my companions to get me some water .
+1	my bill came to _num_ dollars for _num_ adult entrees and a kids entree .
+0	avoid at all cost .
+1	it took _num_ minutes to get someone to take the bill .
+0	i wo n't be going back .
+1	then , i looked at the bill .
+0	but this is n't what i ordered .
+1	they charged us on the bill an additional _num_ dollars without telling us .
+0	busy , slow and awful .
+1	later we met server at the bar for the bill .
+0	if i could give negative stars i would .
+1	a service fee to pay my freaking bill .
+0	baked ziti is supposed to have a lot of cheese and sauce .
+1	the waitress brought the bill & i gave here my groupon .
+0	first off , service was horrible .
+1	we had to wait far too long for our bill as well .
+0	the place was much less noisy and crowded at my second visit .
+1	oh , but wait until i got my bill !
+0	he asked me if i had $ _num_ cash on me .
+1	just presented us with the rest of the expensive bill .
+0	for a downtown attempt at luxury this is bad .
+1	when i called to correct the billing the manager was incredibly rude and unhelpful .
+0	this place was really gross .
+1	dr. until they send you a bill _num_ months later .
+0	upon entering it smelled of sewage and was very dark .
+1	our bill : $ _num_ - for one dish and garlic bread !
+0	try house of lee instead .
+1	they do n't know how to bill correctly !
+0	the fries were bad .
+1	and when we get the bill i notice nothing was comped .
+0	i got rid of it myself , though lol .
+1	took another _num_ minutes after that just to get the bill !
+0	confusing , and a pain .
+1	note : they did remove the fajitas from the bill .
+0	not because the food is bad but because i like to try new places .
+1	this hotel is billed on-line as a _num_ star hotel .
+0	the one i had at this salon was among the worst .
+1	my bill , instead of being $ _num_ , was $ _num_ .
+0	i ate maybe a bite or two before offering it to a coworker .
+1	then we had to wait _num_ minutes to get our bill .
+0	this made me question whether or not she was professionally trained .
+1	even at that , we had to track him down to get the bill .
+0	the employees and jewelry itself saved this review from being a _num_ star .
+1	then her boss handed me my bill for $ _num_ .
+0	the service here sucks .
+1	they even gave me a $ _num_ dollar discount off our bill .
+0	it 's too bad a once gold standard restaurant is not any longer .
+1	i was sent to collections without even getting my last bill in the mail .
+0	no dipping oil with herbs and spices .
+1	our bill was over $ _num_ .
+0	the baby starts coming out : doctors runs in my room .
+1	but when the bill came there was none of that .
+0	unsatisfied customer !
+1	gone is the famous gm bill .
+0	i think i chose wrong .
+1	our bill was $ _num_ .
+0	now it 's just crap .
+1	when it came time to pay the bill , i gave her cash .
+0	last night the service was especially lackluster .
+1	at the end of the service i was handed a bill for $ _num_ .
+0	seriously the worst mcdonalds i 've ever been to .
+1	for two separate visits , i had two separate bills ( obviously ) .
+0	needless to say i do n't think i will be returning .
+1	bill was $ _num_ , which i thought was fair .
+0	support local businesses , but make sure they are deserving of your money !
+1	when she returned it was only a bill for the martini .
+0	for a vegetarian place , there was nothing green on our plates .
+1	b ) there was a _num_ % gratuity included in the bill .
+0	you can wait for _num_ minutes at the wine bar . ''
+1	when the bill came , it said waters w/ lemon .
+0	it 's bad .
+1	the same server did n't even thank me when she gave me my bill .
+0	minimal meat and a ton of shredded lettuce .
+1	just wait until you leave and get your bill .
+0	as it is right now , do not patronize this business .
+1	no detailed bill ?
+0	no wonder the store was empty .
+1	_num_ weeks later i have a $ _num_ bill from my provider .
+0	waiter was not thrilled to be at work on a wednesday at 5pm .
+1	so , imagine my surprise when the bill came to $ _num_ .
+0	it was disgusting .
+1	then the bill came to over $ _num_ .
+0	two words : grossly overrated .
+1	found a manager to inform that we never received service or a bill .
+0	not worth the price .
+1	honestly i am not convinced our billing ever did get corrected .
+0	i sent their management a message , but have not yet heard back .
+1	our bill came to $ _num_ including tip .
+0	the meat was n't special .
+1	and they did n't offer to take anything off the bill .
+0	the service was okay , they were really nice and never rude .
+1	the bill came to $ _num_ and some change .
+0	man ... really bad from start to finish .
+1	our bill was $ _num_ for five people drinking water .
+0	i told my friend to forget about it .
+1	the bill .
+0	if this is their generic price for _num_ hour of labor it is ridiculous .
+1	he called me to pick him up as i was paying the bill .
+0	glad i tried this place but wo n't rush back .
+1	my issue is that we did not discuss work that would double my bill .
+0	it was bad in every way it could be bad .
+1	i paid my bill and left and refused to make another appointment .
+0	wo n't be eating there again .
+1	no bill no nothing .
+0	two seconds later , they come to want to clean ?
+1	most of our bill was the wine .
+0	not so much as a free drink for our inconvenience .
+1	the total bill came out to $ _num_ which is n't bad .
+0	waitress did n't even know until i told her politely .
+1	five days later i get a bill for three previous months !
+0	they just need a better starting product !
+1	so why does my bill say different .
+0	this is not one of them .
+1	but i needed my bill .
+0	let 's face it , this is not japanese food .
+1	total attitude from the time i walked in to paying the bill .
+0	poor service and food .
+1	to top it off , the bill was $ _num_ bucks .
+0	the breadsticks were sitting a in pool of oil .
+1	( i realized this when i saw the bill next day ) .
+0	gag !
+1	i then recieved the bill the next month and the price had no change .
+0	but last night it took _num_ hrs to get a burger .
+1	our waitress was rude , and our bill was _num_ !
+0	possible the most frustrating company i have ever interacted with .
+1	our bill was close to $ _num_ .
+0	why do i need to request a stop on the `` t '' ?
+1	damage , $ _num_ bill plus tax and gratuity .
+0	no chicken .
+1	so i paid requested my bill and went somewhere else to eat .
+0	long time customer and disappointed to say will not buy from them again .
+1	and my bill would not have been _num_ $ .
+0	totally my own fault , but still , watch out .
+1	our waitress was hit or miss and we waited awhile for the bill .
+0	i expressed my disappointment and said please do what you need to do .
+1	to date , i still have not gotten the bill .
+0	do not get your alterations done at this location !
+1	bill came to $ _num_ .
+0	well i went there on january _num_ to return my mattress .
+1	we had a big group but my bill did n't have the tip added .
+0	he warned me about this place ... should have taken his advice .
+1	it took our waitress nearly _num_ minutes to collect come back with our bill .
+0	just go anywhere else , it ca n't be worse !
+1	he only stopped by to clear dishes and drop the bill .
+0	decor and service were just fine , no issues there .
+1	i sent it back and they took it off my bill .
+0	we feel completely cheated .
+1	i did n't press the issue , paid the bill and off we go .
+0	i 'm not kidding .
+1	i went in and payed my bill $ _num_ .
+0	this was my second time staying at this hotel with the same problem .
+1	the bill was $ _num_ so it is pricey .

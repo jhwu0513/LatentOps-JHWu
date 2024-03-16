@@ -1,0 +1,400 @@
+0	the wings were dry .
+1	no happy hour any day of the week .
+0	i do n't see to many options in pittsburgh for sporting goods .
+1	two other women chose lgo for a business lunch last week .
+0	my boyfriend had the buffalo chicken sandwich , which he loved .
+1	when i picked up the cake the following week it was stale .
+0	even the water tasted weird .
+1	i gave them another shot a few weeks later , this time for lunch .
+0	i do n't regret it at all .
+1	does chicken salad hold a week in your fridge ?
+0	the tiramisu also was gross .
+1	it 's been a week and it has n't cleared .
+0	both of these dishes were extremely unappealing as well .
+1	and the garage door sounded like hell a few weeks later .
+0	provolone sticks arrived undercooked , cheese was fully solid , they tasted okay .
+1	that whole ordeal lasted a few weeks .
+0	clearly , customer service nor quality of food are valued .
+1	your stuff will be _num_ weeks late , with broken and missing items .
+0	it does n't work .
+1	the next week starts , still no call .
+0	and pittsburgh has some pretty bad chinese places .
+1	_num_ weeks later .
+0	i have never been treated so terrible in my whole life .
+1	sundays paper sometimes is no bigger than a big city 's week day paper .
+0	so be aware they added an automatic _num_ % gratuity to the check .
+1	last week i stopped by to get the battery of my watch changed .
+0	why did you return there if you were so unhappy , you might ask .
+1	_num_ weeks sitting on the lot in less than clean condition ?
+0	i have been there _num_ times .
+1	last week i went in with a busted window screen frame .
+0	i just ate it and it was a sloppy , greasy mess .
+1	drinks were week , and service at the bar was terrible .
+0	i will give sushi kim another chance because i know others rave about it .
+1	the following week , they would call me back .
+0	none of the pastas had any flavor .
+1	this week was a disaster .
+0	they still have not apologized when they lost her insurance card .
+1	i finally had the chance last week and was surprisingly disappointed .
+0	i managed one bite and was done .
+1	visited for restaurant week and was disappointed .
+0	we would have been much better off at burger king .
+1	but alas , two weeks after going here they are closed down .
+0	the sauce that was served with it did n't do much to save it .
+1	i have been wanting to have americanized chinese for a week or so .
+0	unfortunately , it seems there is zero attention to food quality .
+1	it takes management several weeks to a month to finish or begin repair requests .
+0	mom and i both ordered the fish sandwich with mac n cheese .
+1	tried chicks for lunch a few weeks ago and was not impressed .
+0	we also had a serious problem with the timing of the food .
+1	so i dropped it off for a week .
+0	i ate maybe a bite or two before offering it to a coworker .
+1	i dunno , but i have n't seen it in like _num_ weeks .
+0	i did n't understand why he was asking that or the reason .
+1	it 's still rough _num_ weeks later and not healed .
+0	i 'm sure there 's still a lot of room for improvement , however .
+1	been two weeks and nothing has been done .
+0	the restaurant is rather large with lots of seating and a pool table .
+1	however last week we had terrible service !
+0	whatever it was , it was gross .
+1	this week is the 3rd week .
+0	stealing from your customers is not a great idea china buffet .
+1	last week the ac was not working for almost _num_ days .
+0	i 'm _num_ .
+1	the water is turned off every other week .
+0	however , i will never return to this place .
+1	thankfully i am _num_ weeks post surgery and now _num_ weeks pregnant .
+0	i just do n't even know what to say .
+1	in the past _num_ weeks , i stopped by the shop _num_ times .
+0	my problem is that the hotel double charged me for my stay .
+1	next week i happily tried to repeat the last order i got .
+0	i tried to steal a few of his fries , which were a failure .
+1	i made an appointment weeks ago .
+0	however that is not what pittsburgh is about .
+1	they took _num_ weeks to fix it and the patch job is a joke .
+0	but the last three times the staff has been awful .
+1	she told me the owner was out of town now for several weeks .
+0	the crust was super doughy and the cheese was pretty gross .
+1	i actually have been there twice in the last two weeks .
+0	the soup was a weird creamy mess .
+1	its been impossible to get in all week .
+0	it was just me and my mom and i just wanted to browse .
+1	i went here last week with a friend to try it out .
+0	our _num_ drink and lunch took over two hours to complete .
+1	i 've been here a total of _num_ times this week !
+0	i can not recommend this salon .
+1	had the worst experience with safeway this week .
+0	but the situation inside is fairly ridiculous .
+1	this ordeal lasted over a week , dealing with multiple employees and manager .
+0	the food is n't fresh .
+1	it took _num_ weeks before anything happened .
+0	that will be ignored and you will wait like everyone else .
+1	called _num_ weeks ago and it was n't any dough .
+0	if a cold beer is all you want , go for it .
+1	_num_ weeks and so far no refund has hit my account .
+0	no hostess coming up .
+1	it will break again within a week , repeat process .
+0	the food that was delivered to us was simply inedible .
+1	went saturday night for restaurant week menu .
+0	it was fried tofu in soy sauce with red pickled chinese chilli .
+1	fast forward to july ( _num_ weeks before the wedding ) .
+0	i 'm too annoyed right now to make any funny comments .
+1	it appeared the az restaurant week menu was our only option for dinner .
+0	the worst $ _num_ i 've ever spent .
+1	one week later i call , not ready .
+0	too many other competent companies to model after .
+1	$ _num_ a week plus gone from them .
+0	she then told me it only comes with cheese .
+1	( but they have still not done this _num_ weeks later ) .
+0	no such luck : it came on her sandwich just like everyone else .
+1	no joke , i was probably there twice a week .
+0	update ... shadyside inn refunded the charges from our stay .
+1	called after _num_ weeks , no call back ; called again .
+0	would not recommend it .
+1	this same cashier _num_ weeks ago overcharged me by $ _num_ .
+0	not very tasty .
+1	the last straw for me happened last week .
+0	they gave us a $ _num_ gift card to make up for it .
+1	awful experience this week .
+0	this was done _num_ years ago .
+1	i fell sick the first week .
+0	total for one waffle cone with sprinkles = $ _num_ .
+1	a coworker and i went here for lunch about a week ago .
+0	there are ash trays and packs of cigarettes lying around .
+1	i explained to her that this has been going on for weeks .
+0	this was just bad pizza .
+1	earlier this week i decided to order a rather large order to be delivered .
+0	not worth one star !
+1	capital grille two weeks ago , my son , same thing .
+0	they apparently do n't care about your time or money .
+1	they were cool for a week but that week has long passed .
+0	i was encouraged when we walked in and saw individual tvs on each table .
+1	last week i purchased _num_ `` raspberry fuzzy '' plants .
+0	the service was awful .
+1	i stopped in here for lunch one day last week .
+0	... can you call back later , i 'm really busy . ''
+1	my wife and i did n't have the best of labor day week ends .
+0	the salad i ordered was wrong , though .
+1	we stopped in for lunch last week .
+0	the mall that is nearby is not really a mall .
+1	ate dinner here a week ago .
+0	very very slow service .
+1	linguini in that condition at home even on a week night in a rush !
+0	_num_ ) the portions are small !
+1	booked thanksgiving dinner for _num_ people a week in advance .
+0	it 's now 8:30 and still not even close to dessert .
+1	i work up the street and stop here one or twice a week .
+0	the manager nowhere to be seen .
+1	we normally delivery at work 2-3 or _num_ times a week .
+0	and there are n't as many rest stops .
+1	we saw bugs _num_ weeks later and are shopping for a new company .
+0	there probably wo n't be a wait !
+1	we went here for restaurant week and it was yuck , just yuck .
+0	no manager on duty for the busy morning rush .
+1	one week later it was empty again .
+0	the sweet and sour chicken was disgusting .
+1	i was exhausted , had been out of work for several weeks .
+0	this is not one of them .
+1	plus , _num_ of the new tires went flat within _num_ weeks .
+0	and is _num_ dollars a glass .
+1	i told her i need a friday after _num_ any week .
+0	i woke up with a stuffy nose and in need of some hot soup .
+1	now , _num_ weeks later , nothing .
+0	then the other day , we went back and i tried pizza .
+1	went to capital grille for resturant week pre fix menu .
+0	the romaine is especially pitiful .
+1	like two weeks ago when i stayed here for three days ?
+0	it was kind of uncomfortable .
+1	the roof is leaking for at least a week now , if not longer .
+0	well ok i guess .
+1	i stopped at aj 's twice this week for lunch .
+0	and a generally miserable experience .
+1	it all went down the past few weeks .
+0	this store , however , is definitely lacking in customer service .
+1	when two weeks go by , i called to check in .
+0	especially considering the french dip was so boring .
+1	last week my husband and i visited pittsburgh for a rock concert .
+0	answer : pretty bad !
+1	did n't learn and did n't look last week .
+0	bartender came back quickly with what looked like watered down lemonade .
+1	we stayed a week for a conference .
+0	i 've complained numerous times but it never does any good .
+1	reduced appetizers during the week , free buffet on fridays .
+0	disgusting .
+1	looked past that and this week had terrible pain in my foot .
+0	i do n't remember it being this bad .
+1	came back after two weeks because i still was sick .
+0	shower shoes , i never leave home without them !
+1	one week went by and no one called me back .
+0	at that time , i even had a terrible interaction with the owner .
+1	my nails did n't last a week .
+0	i 've had much worse .
+1	i go once or twice a week roughly , but never again .
+0	the cheese was loaded on the top with almost no crab flavor .
+1	we 've requested work orders _num_ weeks ago and still nothing has been done .
+0	there was seriously nothing remotely healthy on this menu .
+1	well they delayed the change for _num_ weeks so they could collect more longer .
+0	i asked our server why they had n't mentioned this when we came in .
+1	took my puppy there for the first time this week .
+0	i 'd give it zero stars if i could .
+1	i had my _num_ year old with me and i 'm _num_ weeks pregnant .
+0	the beef pho was sub par .
+1	after coming here a week ago , we found that it has gotten worse .
+0	this place is beautiful but not worth the money , stress , or headache .
+1	so by this time , he was booked out for _num_ weeks .
+0	i want to like this place , but just ca n't .
+1	once i approved the repairs , it took almost _num_ weeks to fix .
+0	sucks .
+1	i stop in every week for it .
+0	i quickly ate and left to make my movie .
+1	i stayed here for a week .
+0	also , alcohol in the air here too .
+1	i booked this appointment a few weeks ago and have been waiting .
+0	it did n't taste bad by any means , but not restaurant quality .
+1	when i went to use it the next week it still did n't work .
+0	from horrible service to terrible seafood ... would never return .
+1	i was visiting phoenix a few weeks ago and i visited this bookstore .
+0	slow service , horrible , horrible food .
+1	_num_ weeks later and nothing has been done .
+0	it just was n't a great environment .
+1	my husband and i went here during restaurant week & left feeling disappointed .
+0	mind you , our food still has n't came yet .
+1	we have been trying to quit for _num_ weeks and it is not possible .
+0	the corn chowder was ok but not very hot .
+1	i get to the restaurant for the first time this week .
+0	terrible .
+1	az restaurant week inspired me to try a new place .
+0	the clothes are priced far higher than other such shops .
+1	i made reservations for nye probably around _num_ weeks in advance .
+0	there was no background music .
+1	deposit on the room that should be refunded in about a week .
+0	the manager here needs better training .
+1	it 's now been two weeks , southwest has never called about my records .
+0	_num_ .
+1	we schedule new patients _num_ weeks out '' & hung up .
+0	the quality of the furniture turned out to be very poor .
+1	looking forward to going here for weeks , big let down .
+0	everything is basic with a large price tag .
+1	a week later they said they would take three more days .
+0	by this time , i was through with this place .
+1	long story short ... this went on for over two weeks !
+0	really disappointing .
+1	another _num_ weeks after that and it was not done .
+0	i hate this place .
+1	we chose an option for each course of the very limited restaurant week menu .
+0	this place has the worst service i 've ever seen .
+1	i 'm sad that i wasted one of my restaurant week picks here .
+0	this place is the worst motel i have ever stayed .
+1	so , two weeks roll around and we head out to noda .
+0	otherwise , i really would n't recommend this place to other people .
+1	a week later , i started hearing the noise again .
+0	i wo n't be back .
+1	we were excited to dine at blue as part of restaurant week .
+0	_num_ .
+1	i called _num_ weeks ago to make the reservation for _num_ people .
+0	and the veal was dry .
+1	the soups were horrible and looked they had being sitting there all week .
+0	good food , but i wo n't be in a hurry to go back .
+1	i 'm in town for business , and went on a week night .
+0	worst customer service of any business i 've ever dealt with .
+1	went to _num_ tavern for lunch a few weeks back .
+0	$ _num_ a glass of garbage wine ?
+1	this was a week later and the charge went through .
+0	they complained that our house was not clean and scared off the potential tenants .
+1	my husband & i ate here a couple weeks ago for the first time .
+0	when to pay is confusing .
+1	i eat chipotle at least _num_ days out of the week .
+0	weak leadership .
+1	i used to frequent this restaurant 2-3 times per week .
+0	i can only believe it 's because there are no other deli 's downtown .
+1	furthermore i week later i found my car 's belt system was broken .
+0	i 'm not wasting my calories on a bad cookie .
+1	i was in champaign last week , on a wednesday evening .
+0	finally order and pull around , i wait another five minutes .
+1	it was true for the whole short week since i purchased it from walmart .
+0	food is n't good either .
+1	was told it 'd be there in _num_ weeks .
+0	delivered our desert in a to go container without us even asking !
+1	i submitted a request online , a week went by and i heard nothing .
+0	Negative
+1	stopped in for lunch last week and was very disappointed .
+0	the installers were knowledgeable , friendly and efficient .
+1	i called last week to confirm the date , no call back .
+0	they were then _num_ hours late picking it up !
+1	their change machine was down for well over a week !
+0	seriously , avoid this place .
+1	i just got this car _num_ weeks ago !
+0	my heels still looked as bad as they did when i walked in .
+1	then , i spent another few weeks waiting for a call back .
+0	i brought my boots here to get fixed .
+1	i literally walk past this subway _num_ times a week .
+0	they have the worst transportation service ever in pittsburgh .
+1	upon our return the following week , my girlfriend 's car was stolen .
+0	no management present that we could see .
+1	_num_ weeks later i 'm back to get the filling replaced .
+0	olive garden seems like fine dining compared to this place .
+1	my mother , daughter and i went here last week .
+0	_num_ ) banana pudding was very good !
+1	however , the tree lost nearly all its leaves within a couple weeks .
+0	obviously this is the way a simple complaint is handled by management .
+1	went for a girls night for restaurant week .
+0	so extremely rude .
+1	my garage door opener died a few weeks ago .
+0	i then recieved the bill the next month and the price had no change .
+1	the bathroom looked like it had n't been cleaned in weeks .
+0	sucks , sucks , sucks .
+1	_num_ weeks later i am still waiting on my other shirts .
+0	avoid .
+1	_num_ weeks later , i call , am told it could take _num_ weeks .
+0	the soup was neither hot in temperature or spice but it certainly was sour .
+1	the food was horrible both times i ate there in the past two weeks !
+0	not the best dinner they have eaten .
+1	they scheduled me an appointment with a specialist two weeks out .
+0	i was a little salty with her , i 'll admit .
+1	pain in the ass , they are closed for _num_ weeks .
+0	ehh ... it 's not all that .
+1	the last time that we went there he had our car for over week .
+0	this place is just not what it used to be .
+1	everybody raves about this place so i finally went with a friend last week .
+0	the hotel is starting to look warn and needs investment .
+1	_num_ ) several weeks have passed .
+0	a very frustrating moment indeed .
+1	have been waiting for _num_ business shirts and suits for over _num_ weeks .
+0	$ _num_ caesar salad with tasteless dressing that probably came out of a bottle .
+1	this typically fixed me up within a week or so .
+0	so i have no gripe with the tailoring itself .
+1	_num_ weeks later , no title ?
+0	she over charged us for her very badly made drinks .
+1	i have not had a leak in over _num_ weeks since the replacement .
+0	no hello on entering .
+1	went for restaurant week .
+0	they just cost me money and lost my tires .
+1	i guess i will now wait another _num_ weeks to get this problem solved .
+0	i 've basically been told i 'm not getting my security deposit back .
+1	went there _num_ weeks ago and it was horrible .
+0	the bread was the worst part .
+1	another week went by and we heard nothing .
+0	i had about _num_ bites and just put it aside .
+1	i was having some brake trouble last week .
+0	extremely rude lady works there on sundays .
+1	two weeks later he gets a bill for $ _num_ !
+0	so why is laundry on liberty so expensive and so busted ?
+1	hertz would not honor the reservation we had made over _num_ weeks ago .
+0	they were very quick ( food ordered and delivered in under _num_ minutes ) .
+1	after calling every day for a week i was furious .
+0	it also was served at room temperature .
+1	waited another _num_ weeks without a call .
+0	both the waitress and the bartender were downright hostile .
+1	now , almost two weeks later , my order still has not arrived .
+0	that 's about as far as it goes though .
+1	i met my friend jean here , she is a once a week customer .
+0	there are no descriptions for any of the rolls .
+1	i flew through here two times last week .
+0	the clams were served raw with a burnt bread crumb topping .
+1	a week later i get a call to bring the copies .
+0	not bad after hours but those hours are pretty narrow .
+1	restaurant week _num_ .
+0	the `` chicken '' is dark , fatty , and inedible .
+1	looked at a _num_ bedroom apartment here a few weeks back .
+0	the waitresses were extremely fast , except for coffee refills .
+1	within a week all of my clothes and towels smelled musty and its terrible .
+0	house salads for the wife and i which were pretty standard .
+1	we found a _num_ week stray kitten by our home last week .
+0	the collards were authentic and would get them again .
+1	went here with a gift card from the restaurant week photo competition .
+0	overall , tessaro 's fell flat and left me hung out to dry .
+1	in the past _num_ weeks i have been here _num_ times .
+0	of course it was good , it is fried cheese !
+1	one week later after not hearing from her i called again .
+0	if only they could train their employees better .
+1	maybe the fact that it took them three weeks to get artwork to me .
+0	i made a reservation for _num_ on a saturday night .
+1	my dog does n't have _num_ weeks left .
+0	i figured palace like this would have made their own strawberry topping .
+1	i guess they figured i 'd likely keep it for another week .
+0	the omelet was uninspired .
+1	a week after that and it was not done .
+0	if you are in the aaa , you 'll know i 'm calling .
+1	they holding my money for a week .
+0	they are out dated and their customer `` service '' is non existent .
+1	visited for az restaurant week .
+0	nothing stood out , including the famous burnt almond torte .
+1	couple weeks later , no phone call .
+0	we will not be back .
+1	once again they were out of things but not as bad as last week .
+0	it was very difficult to get our server 's attention throughout the evening .
+1	all this information would have been great weeks ago .
+0	i am giving it a _num_ out of _num_ .
+1	do n't go - whatever you do - during lunch time during the week .
+0	it was very bland and did n't have a lot of taste to it .
+1	however , i stopped in last week and experienced something totally different .
+0	not only was it disgusting , but it cost us about $ _num_ .
+1	when i got my plate , it looked like leftovers from _num_ weeks prior !
+0	the service is not only poor , but the staff are rude .
+1	he said he could get it done within a week , no problem .
+0	first of all , the pie had almost no real flavor .
+1	the salmon tasted like it was two weeks old .
+0	it was just strange .
+1	last week , i got a large and went back for more .
+0	i gave him my drink order and then he asked for our dinner order .
+1	in phoenix it was _num_ last week .

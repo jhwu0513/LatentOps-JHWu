@@ -1,0 +1,40 @@
+0	as it were , i was n't impressed .
+1	place is not so clean consider the decor is decent .
+0	service is n't too bad , but could be better .
+1	the decor is nice but the restaurant itself is far too large .
+0	the bathroom was awful , bedding lumpy and ancient , and the lighting poor .
+1	dining room : _num_ 's era diner decor .
+0	it was very crowded due to little italy days in bloomfield .
+1	the decor was incredibly dated , i 'm guessing _num_ 's ?
+0	do n't waste your time coming to this hole in the wall !
+1	sadly , nothing 's changed except the decor .
+0	i 'm looking for a better pool side lounge for this summer .
+1	decor is tasteless and old .
+0	you have been warned ... stay away !
+1	no decor to speak of and not friendly people to deal with .
+0	the bartender looked at us walked away .
+1	the decor is somewhat depressing .
+0	there is very little meat on the sandwich .
+1	the decor is very plain .
+0	this place is hit or miss .
+1	the restaurant decor is out dated and worn out .
+0	crappy place .
+1	the decor is cowboy steakhouse .
+0	however once opened not so much .
+1	decor is cute .
+0	not the best dinner they have eaten .
+1	the place is a historic landmark , and the decor suits the laid-back atmosphere .
+0	i had two dogs , fries , and a coke for lunch .
+1	service is fantastic , nice decor .
+0	the server got my order wrong .
+1	but the decor is super dated and way to dark .
+0	additionally , i was not too thrilled with the atmosphere or beer selection .
+1	decor is cheap and the building looks very old .
+0	and a generally miserable experience .
+1	the ambiance of this place is nothing amazing with its outdated decor going on .
+0	my total bill does n't reflect the price of the dishes i ordered .
+1	you get _num_ stars one for decor and one because my sister likes it .
+0	but all of the pretzel bun sandwiches are n't that great .
+1	the decor was beautiful .
+0	apparently they consider this to be the only restaurant in town .
+1	the decor of the restaurant is run down and the staff is substandard .

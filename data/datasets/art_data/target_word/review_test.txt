@@ -1,0 +1,40 @@
+0	the remaining slices got tossed in the garbage .
+1	the one thing about the reviews that was correct : service is not great .
+0	to each his own , i guess .
+1	i wish that i would have looked at reviews first .
+0	veterans beware !
+1	i do n't get all these 4-5 star reviews .
+0	service was ok , birthday dessert was a bowl of whipped cream .
+1	i repeat , this is a station review !
+0	bland .
+1	unfortunately yelp asked to provide more details on review .
+0	very quick but kinda confusing to find the place .
+1	that is why i 'm writing this review .
+0	the balsamic vinaigrette was straight vinegar .
+1	i ca n't believe all the high reviews .
+0	the chicken in the chicken and broccoli was so small and it looked disgusting .
+1	this review is from june _num_ , _num_ .
+0	heck , go to a grocery store instead .
+1	i ca n't believe this place has n't been reviewed .
+0	parking at this particular store is a nightmare .
+1	i 'm really confused about the positive reviews of this place .
+0	even the shoes fell apart after a few months .
+1	after all , they 're yelp reviews are nothing but raving fans .
+0	all in all , it was a disappointment this year .
+1	i merely ate here because of the good reviews .
+0	bad service , bland food .
+1	there is a reason this location has such bad reviews .
+0	sorry buds !
+1	hence , i am now here , writing this review .
+0	the steamed mussels arrived in a grey broth that looked like sewage water .
+1	trust the reviews , it 's not worth the wait or the money !
+0	i walk in , look around , look at the menu ... hmmm .
+1	i went to this place because it was close and the reviews were good .
+0	i just ca n't imagine having to deal with this a year .
+1	not understanding the good reviews here .
+0	its connection is also very spotty .
+1	but based on other reviews , even this is n't always the case .
+0	no sorry or who told you this .
+1	i rarely write negative reviews .
+0	what we came away with from this experience is to leave .
+1	visited juan 's after reading the numerous complementary reviews .
