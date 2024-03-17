@@ -65,7 +65,7 @@ CUDA_VISIBLE_DEVICES=$cuda python examples/big_ae/conditional_generation.py \
     --use_pretrained_model \
     --use_pretrained_vae \
     --checkpoint_dir  ../ckpts/$name --gloabl_step_eval 1 \
-    --gan_dir ../ckpts/$name/checkpoint-gan-accommodate \
+    --gan_dir ../ckpts/$name/checkpoint-gan-1 \
     --cls_dir ../ckpts/$name/checkpoint-cls- \
     --n_classes $n_classes --cls_step $cls_step --att_val_list $att_val_list --sampling_num 150 \
     --data_type $data_type --weight_energy $weight_energy 
