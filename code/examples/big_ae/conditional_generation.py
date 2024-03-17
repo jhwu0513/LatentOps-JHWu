@@ -490,6 +490,7 @@ def main():
                 num_classes = STEP_CLASSES[cls_]
             else: # keyword
                 num_classes = 2
+            # 分類器模型在 modules/vae.py 中宣告 DenseEmbedder(...)
             classifier_ = DenseEmbedder(args.latent_size, up_dim=2, depth=4, num_classes=num_classes)
             cls_dir = os.path.join(args.cls_dir + cls_, 'training_cls.bin')
             cls_checkpoint = torch.load(cls_dir)
