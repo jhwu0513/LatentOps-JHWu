@@ -200,7 +200,7 @@ def save_cls_checkpoint(classifier, optimizer, global_step, args, gan=None, eval
         torch.save(checkpoint, os.path.join(output_cls_dir, 'training_cls.bin'))
         logger.info("Saving cls checkpoint to %s", output_cls_dir)
     if gan is not None:
-        output_gan_dir = os.path.join(args.output_dir, 'checkpoint-gan-{}'.format(save_last))
+        output_gan_dir = os.path.join(args.output_dir, 'checkpoint-gan-{}'.format('1'))
         if not os.path.exists(output_gan_dir) and args.local_rank in [-1, 0]:
             os.makedirs(output_gan_dir)
         logger.info("Saving GAN model checkpoint to %s", output_gan_dir)
