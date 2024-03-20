@@ -17,7 +17,7 @@ then
   epoch=5 # 10
   batch=8 #32
   TRAIN_FILE=../data/datasets/yelp_data/train_gan.txt #test_ref.shuf.txt #yelpshort_data/train_cls_1000.txt #train_pos.txt #train_cls_1000.txt # #batch=5 epoch 50
-  TEST_FILE=../data/datasets/yelp_data/test.txt #test.txt
+  TEST_FILE=../data/datasets/yelp_data/test_gan.txt #test.txt
 elif [ $train_cls_gan == 'cls' ]; then
   epoch=50 # 10
   batch=6 #6 #32
