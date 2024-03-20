@@ -10,6 +10,7 @@ latent_size=64
 
 
 eval_batch=50
+# condition_generation 的 class 數量不會用 args.n_classes 參數，而是採用 conditional_generation.py 第 44~49 行的 STEP_CLASSES
 n_classes=2
 if [ $data_type == 'sentiment' ]
 then

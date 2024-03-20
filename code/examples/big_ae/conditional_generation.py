@@ -40,6 +40,7 @@ logger = logging.getLogger(__name__)
 
 from run_lm_vae_training import MODEL_CLASSES
 
+# condition_generation 的 class 數量不會用 args.n_classes 參數
 STEP_CLASSES = {
     '1': 2,
     '2': 2,
