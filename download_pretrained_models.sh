@@ -17,10 +17,5 @@ cd ckpts
 tar -zxvf base_yelp.tar.gz
 tar -zxvf large_yelp.tar.gz
 tar -zxvf large_amazon.tar.gz
+cd ..
 
-mkdir -p LM
-
-echo "Download art_data.tar.gz"
-wget "https://drive.google.com/file/d/121b-1_sSpnxVuRI8QxvptrKeIEKzchb0/view?usp=sharing" -O LM/art_data.tar.gz
-tar -zxvf art_data.tar.gz
-cd ../..
