@@ -1,0 +1,13 @@
+Privilege Escalation: 147
+Defense Evasion: 585
+Persistence: 33
+Discovery: 261
+Collection: 60
+Exfiltration: 18
+Credential Access: 162
+Lateral Movement: 25
+Execution: 93
+Command and Control: 70
+Impact: 51
+Reconnaissance: 0
+Initial Access: 2
