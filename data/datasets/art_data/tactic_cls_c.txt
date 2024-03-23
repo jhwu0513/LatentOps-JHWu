@@ -1,0 +1,14 @@
+tactic, class, count
+Privilege Escalation 0 148
+Defense Evasion 1 586
+Persistence 2 34
+Discovery 3 262
+Collection 4 61
+Exfiltration 5 19
+Credential Access 6 163
+Lateral Movement 7 26
+Execution 8 94
+Command and Control 9 71
+Impact 10 52
+Reconnaissance 11 1
+Initial Access 12 3
