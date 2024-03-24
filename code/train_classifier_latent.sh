@@ -98,7 +98,7 @@ CUDA_VISIBLE_DEVICES=$cuda python examples/big_ae/train_cls_latent.py \
    --overwrite_output_dir \
    --per_gpu_train_batch_size=$batch \
    --per_gpu_eval_batch_size=$eval_batch \
-   --block_size 50 \
+   --block_size 256 \
    --length_weighted_loss \
    --latent_size $latent_size \
    --evaluate_during_training \
