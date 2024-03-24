@@ -2,7 +2,7 @@
 export PYTHONPATH="${PYTHONPATH}:/workspace/code"
 
 dataset=art_data
-cuda=2
+cuda=0
 #export TRAIN_FILE=../data/datasets/amazon_data/train.shuf.merge
 #export TEST_FILE=../data/datasets/amazon_data/test.merge
 TRAIN_FILE=../data/datasets/art_data/train_vae.txt
