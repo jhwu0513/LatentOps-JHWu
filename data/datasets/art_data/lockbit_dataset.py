@@ -72,3 +72,9 @@ with open('train_lockbit_gan.txt', 'w') as f:
 with open('test_lockbit_gan.txt', 'w') as f:
     for cls_idx, p in test:
         f.write(f"0\t{p}\n")
+
+# Technique, Class, Count
+with open('lockbit_t_cls_c.txt', 'w') as f:
+    f.write('tactic, class, count\n')
+    for i in range(12):
+        f.write(f"{str(i)} {cls[str(i)]} {num_cls[str(i)]}\n")
