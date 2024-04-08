@@ -1,0 +1,151 @@
+xcopy ${source_file_path} ${destination_file_path}
+scp ${source_file_path} ${username} /e
+xcopy ${source_file_path} ${destination_file_path} /e /s
+cp -r ${source_file_path} ${share_path} /e
+xcopy ${source_file_path} ${destination_file_path}
+Copy-Item ${source_file_path} ${destination_file_path}
+echo ${email_content} | sendmail ${username}@${domain} -p ${password
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path} /e /s
+echo ${email_content} | mutt -s ${username}@${ip_address}
+${source_file_path} ${media_path} /user_file_path}
+cp -r ${media_file_path} /media_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+echo ${email_content} | sendmail ${username}@${domain}
+cp -r ${source_file_path} ${media_file_path} /e
+Copy-Item ${source_file_path} ${destination_file_path} -Destination
+sudo /systemec_path} /user_IP}\SystemSystemSystem.System.System.
+evil-winrm -destination ${username}@${ip_address} -p ${password
+xcopy ${source_file_path} ${destination_file_path} /e
+cp -r ${source_file_path} ${media_file_path} /e /
+cp -r ${source_file_path} ${media_file_path} -path}
+scp ${username}@${password}@${domain} -p ${username}
+Invoke-WebRequest -URI ${remote_file} -config ${username} -p ${
+sudo /System/Resources/Resources/ProtProtProtProtProtProtProtProtProtProtProtProt
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path} /e /s
+cp -r ${source_file_path} /media_path} /mir
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path} /e
+
+scp ${username}@${ip_address} /type_address} /copyall /
+cp -r ${source_file_path} ${media_file_path} /mir
+cp -r ${source_file_path} /user_path} /media_file_
+Copy-Item ${source_file_path} ${destination_file_path} -Destination
+scp ${source_file_path} ${username} _address} -p ${share
+copy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /s
+cp -r ${source_file_path} ${media_file_path} /e
+scp ${username}@${ip_address} -p_address} -r ${username
+xcopy ${source_file_path} ${destination_file_path} /e
+scp ${source_file_path} ${username} /mir
+Copy-Item ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path}
+#{source_file_path} ${media_file_path} /mir
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path}
+
+cp -r ${source_file_path} -s ${username} -p ${password}
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+xfreerdp /u #{user_address} /user_name} /mir
+scp ${username}@${ip_address} /user_address} /copyall /
+xcopy ${source_file_path} ${destination_file_path}
+scp ${source_file_path} ${username}@${ip_address}
+xcopy ${source_file_path} ${destination_file_path}
+echo ${email_content} | mpack ${username}@${domain} ${share_file
+robocopy ${source_file_path} ${share_file_path} /e
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path} /e
+Copy-Item ${source_file_path} ${destination_file_path} -Destination
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path}
+robocopy ${source_file_path} ${media_file_path} /e /
+robocopy ${source_file_path} ${media_file_path} /e /
+xcopy ${source_file_path} ${destination_file_path} /e
+Copy-Item ${source_file_path} ${destination_file_path} -Destination
+xcopy ${source_file_path} ${destination_file_path} /e /s
+xcopy ${source_file_path} ${destination_file_path} /s
+echo ${source_file_path} -all -all ${username} -m} -m
+scp ${username}@${remote_address} /user_path} /mir
+#{mimik_path} -all ${media_file_path} /e
+
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+Copy-Item ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path}
+xfreerdp /u ${username} /mir
+Copy-Item ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+robocopy ${source_file_path} ${media_file_path} /e /
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+
+xcopy ${source_file_path} ${destination_file_path}
+cp -r ${source_file_path} ${media_file_path} /mir
+xcopy ${source_file_path} ${destination_file_path}
+cp -r ${source_file_path} ${media_file_path} /mir
+cp -r ${source_file_path} ${media_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /s
+Copy-Item ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e /s
+
+xcopy ${source_file_path} ${destination_file_path} /e
+echo ${email_content} | mpack -s ${media_file} ${media_path
+robocopy ${source_file_path} ${media_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+Copy-Item ${source_file_path} ${destination_file_path}
+#{source_file_path} #{user_path} /mir
+xcopy ${source_file_path} ${destination_file_path} /e
+copy ${source_file_path} ${destination_file_path}
+echo ${email_path} |_file} ${username} /Domain} /e
+
+xcopy ${source_file_path} ${destination_file_path} /p /s
+cp -r ${source_file_path} ${share_file_path}
+xcopy ${source_file_path} ${destination_file_path}
+#{source_file_path} -all ${media_path} -media_file_
+xcopy ${source_file_path} ${destination_file_path}
+Copy-Item ${source_file_path} ${destination_file_path} -Destination
+robocopy ${source_file_path} /e /copyall /mir
+xfreerdp /user_address} ${media_file_path} /e
+evil-exe -source_file_path} ${media_file_path} /e /
+xcopy ${source_file_path} ${destination_file_path}
+echo ${source_file_path} ${media_file_path} /e
+robocopy ${source_file_path} ${share_file_path} /e /
+xcopy ${source_file_path} ${destination_file_path}
+Copy-Item ${source_file_path} ${destination_file_path}
+cp -r ${source_file_path} ${media_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /e
+echo ${email_content} ${username}@${domain} -s ${media_file_
+copy ${source_file_path} ${destination_file_path}
+cp -r ${source_file_path} -all ${media_file_path} /
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path}
+echo ${email_content} | mail -s ${email_subject} ${username} ${domain
+xcopy ${source_file_path} ${destination_file_path}
+Copy-Item ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path}
+xcopy ${source_file_path} ${destination_file_path}
+robocopy ${source_file_path} /e /xec_path} /
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /s
+psexec \\${ip_address} -u ${username} -p ${password} ${
+rsync -avz ${source_file_path} ${media_path} /mir
+#{mimik_path} -config ${media_file_path} /copyall
+xcopy ${source_file_path} ${destination_file_path} /e
+xcopy ${source_file_path} ${destination_file_path} /s

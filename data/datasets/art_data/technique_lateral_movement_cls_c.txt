@@ -1,10 +1,10 @@
 technique, class, count
-T1091 0 17
-T1563 1 1
-T1550 2 12
-T1021 3 38
-T1072 4 2
-T1570 5 26
-T1534 6 14
-T1080 7 16
-T1210 8 2
+T1091 Replication Through Removable Media 0 17
+T1563 Remote Service Session Hijacking 1 4
+T1550 Use Alternate Authentication Material 2 12
+T1021 Remote Services 3 38
+T1072 Software Deployment Tools 4 2
+T1570 Lateral Tool Transfer 5 26
+T1534 Internal Spearphishing 6 14
+T1080 Taint Shared Content 7 16
+T1210 Exploitation of Remote Services 8 2

