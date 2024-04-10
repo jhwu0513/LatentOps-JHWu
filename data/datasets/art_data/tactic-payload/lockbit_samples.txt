@@ -15,7 +15,7 @@
 0 echo -e ${email_content} | ssmtp ${username}@${domain}
 0 cat email.txt | ssmtp ${username}@${domain}
 0 mstsc /v:${ip_address} /f
-0 mstsc /v:${ip_address} 
+0 mstsc /v:${ip_address}
 0 mstsc /v:${computer_name} /f
 0 mstsc /v:${computer_name} 
 0 SharpRDP.exe computername=${ip_address} command="${command_to_execute}" username=${domain}\${username} password=${password}
