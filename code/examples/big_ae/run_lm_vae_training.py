@@ -492,7 +492,7 @@ def train(args, train_dataloader, model_vae, encoder_tokenizer, decoder_tokenize
                     )
                 )
             else:
-                if train_step % (args.logging_steps // 50) == 0:
+                if args.logging_steps // 50 != 0 and train_step % (args.logging_steps // 50) == 0:
                     epoch_iterator.set_description(
                         (
                             f'iter: {step + epoch * len(epoch_iterator)}; loss: {loss.item():.3f}; '
