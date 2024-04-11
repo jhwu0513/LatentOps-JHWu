@@ -488,7 +488,7 @@ def main():
         classifier_list = []
         for ii, cls_ in enumerate(cls_step_list):
             if cls_.isdigit(): # attributes
-                num_classes = STEP_CLASSES[cls_]
+                num_classes = n_classes
             else: # keyword
                 num_classes = 2
             # 分類器模型在 modules/vae.py 中宣告 DenseEmbedder(...)
