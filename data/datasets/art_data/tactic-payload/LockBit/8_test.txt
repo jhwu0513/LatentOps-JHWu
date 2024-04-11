@@ -1,0 +1,6 @@
+1	powershell -c "Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse"
+1	Copy-Item ${source_file_path} -Destination ${destination_file_path} -Recurse -Container
+1	cmd.exe /c "copy ${source_file_path} ${destination_file_path}"
+0	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
+0	New-Item "HKCU:\software\classes\mscfile\shell\open\command" -Force; Set-ItemProperty "HKCU:\software\classes\mscfile\shell\open\command" -Name "(default)" -Value "${command_to_execute}" -Force
+0	cmd.exe /c "choco install 7zip"

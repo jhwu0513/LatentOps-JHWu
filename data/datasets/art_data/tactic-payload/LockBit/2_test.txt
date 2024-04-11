@@ -1,0 +1,6 @@
+1	nltest /domain_trusts
+1	nltest /dclist
+1	whoami /all
+0	copy ${shadow_copy_path}\windows\ntds\ntds.dit ${local_file_path}
+0	cmd.exe /c "net.exe stop ${service_name}"
+0	Set-ItemProperty "HKLM:\Software\Microsoft\Windows\CurrentVersion\RunOnce"  -Name "Atomic Red Team" -Value "${command_to_execute}"

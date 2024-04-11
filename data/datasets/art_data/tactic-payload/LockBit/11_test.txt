@@ -1,0 +1,8 @@
+1	powershell -c "choco install putty"
+1	PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+1	cmd.exe /c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+1	powershell -c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+0	mstsc /v:${ip_address} /f
+0	rm -rf ${local_directory_path}
+0	echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
+0	pypykatz live lsa

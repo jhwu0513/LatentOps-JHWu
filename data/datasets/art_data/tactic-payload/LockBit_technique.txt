@@ -1,0 +1,253 @@
+# T1078 Valid Accounts
+T1078 mstsc /v:${ip_address} /f
+T1078 cmd /c "mstsc /v:${ip_address} /f"
+T1078 powershell -c "mstsc /v:${ip_address} /f"
+T1078 mstsc /v:${ip_address} 
+T1078 cmd /c "mstsc /v:${ip_address}"
+T1078 powershell -c "mstsc /v:${ip_address}"
+T1078 mstsc /v:${computer_name} /f
+T1078 cmd /c "mstsc /v:${computer_name} /f"
+T1078 powershell -c "mstsc /v:${computer_name} /f"
+T1078 mstsc /v:${computer_name} 
+T1078 cmd /c "mstsc /v:${computer_name}"
+T1078 powershell -c "mstsc /v:${computer_name}"
+T1078 psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+T1078 cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+T1078 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+T1078 psexec \\${ip_address} -i ${command_to_execute}
+T1078 cmd /c "psexec \\${ip_address} -i ${command_to_execute}"
+T1078 powershell -c "psexec \\${ip_address} -i ${command_to_execute}"
+T1078 psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
+T1078 cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+T1078 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+T1078 psexec \\${ip_address} -u ${username} -p ${password} script.txt
+T1078 cmd /c "psexec \\${ip_address} -u ${username} -p ${password} script.txt"
+T1078 powershell -c "psexec \\${ip_address} -u ${username} -p ${password} script.txt"
+T1078 psexec \\${ip_address} -accepteula -c ${command_to_execute}
+T1078 cmd /c "psexec \\${ip_address} -accepteula -c ${command_to_execute}"
+T1078 powershell -c "psexec \\${ip_address} -accepteula -c ${command_to_execute}"
+T1078 PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+T1078 cmd /c "PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+T1078 powershell -c "PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+T1078 PsExec64.exe \\${ip_address} -i ${command_to_execute}
+T1078 cmd /c "PsExec64.exe \\${ip_address} -i ${command_to_execute}"
+T1078 powershell -c "PsExec64.exe \\${ip_address} -i ${command_to_execute}"
+T1078 PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
+T1078 cmd /c "PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+T1078 powershell -c "PsExec64.exe.exeexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+T1078 PsExec64.exe \\${ip_address} -u ${username} -p ${password} script.txt
+T1078 cmd /c "PsExec64.exe \\${ip_address} -u ${username} -p ${password} script.txt"
+T1078 powershell -c "PsExec64.exe \\${ip_address} -u ${username} -p ${password} script.txt"
+T1078 PsExec64.exe \\${ip_address} -accepteula -c ${command_to_execute}
+T1078 cmd /c "PsExec64 \\${ip_address} -accepteula -c ${command_to_execute}"
+T1078 powershell -c "PsExec64 \\${ip_address} -accepteula -c ${command_to_execute}"
+T1078 plink -ssh ${ip_address} -l ${username} -pw ${password}
+T1078 cmd /c "plink -ssh ${ip_address} -l ${username} -pw ${password}"
+T1078 powershell -c "plink -ssh ${ip_address} -l ${username} -pw ${password}"
+T1078 plink ${username}@${ip_address}
+T1078 cmd /c "plink ${username}@${ip_address}"
+T1078 powershell -c "plink ${username}@${ip_address}"
+T1078 putty -ssh ${ip_address} -l ${username} -pw ${password}
+T1078 cmd /c "putty -ssh ${ip_address} -l ${username} -pw ${password}"
+T1078 powershell -c "putty -ssh ${ip_address} -l ${username} -pw ${password}"
+T1078 putty -ssh ${username}@${ip_address} -pw ${password}
+T1078 cmd /c "putty -ssh ${username}@${ip_address} -pw ${password}"
+T1078 powershell -c "putty -ssh ${username}@${ip_address} -pw ${password}"
+T1078 putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt
+T1078 cmd /c "putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt"
+T1078 powershell -c "putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt"
+T1078 putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt
+T1078 cmd /c "putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt"
+T1078 powershell -c "putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt"
+T1078 ssh ${username}@${password}
+T1078 cmd /c "ssh ${username}@${password}"
+T1078 powershell -c "ssh ${username}@${password}"
+T1078 net user ${username} ${password} /add
+T1078 cmd /c "net user ${username} ${password} /add"
+T1078 powershell -c "net user ${username} ${password} /add"
+T1078 net localgroup administrators ${username} /add
+T1078 cmd /c "net localgroup administrators ${username} /add"
+T1078 powershell -c "net localgroup administrators ${username} /add"
+T1078 net user ${username} /active:yes
+T1078 cmd /c "net user ${username} /active:yes"
+T1078 powershell -c "net user ${username} /active:yes"
+T1078 SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\${username} password=${password}
+T1078 cmd /c "SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\${username} password=${password}"
+T1078 powershell -c "SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\${username} password=${password}
+T1078 vncviewer ${ip_address}::${port}
+T1078 cmd /c "vncviewer ${ip_address}::${port}"
+T1078 powershell -c "vncviewer ${ip_address}::${port}"
+T1078 cmdkey /generic:TERMSRV/${ip_address} /user:${username} /pass:${password}
+T1078 cmd /c "cmdkey /generic:TERMSRV/${ip_address} /user:${username} /pass:${password}"
+T1078 powershell -c "cmdkey /generic:TERMSRV/${ip_address} /user:${username} /pass:${password}"
+T1078 powershell -c "cmdkey /generic:TERMSRV/${ip_address} /user:${username} /pass:${password}; mstsc /v:${ip_address}"
+T1078 evil-winrm -i ${ip_address} -u ${username} -p ${password}
+T1078 cmd /c "evil-winrm -i ${ip_address} -u ${username} -p ${password}"
+T1078 powershell -c "evil-winrm -i ${ip_address} -u ${username} -p ${password}"
+
+# T1133 External Remote Services
+T1133 mstsc /v:${ip_address} /f
+T1133 cmd /c "mstsc /v:${ip_address} /f"
+T1133 powershell -c "mstsc /v:${ip_address} /f"
+T1133 mstsc /v:${ip_address} 
+T1133 cmd /c "mstsc /v:${ip_address}"
+T1133 powershell -c "mstsc /v:${ip_address}"
+T1133 mstsc /v:${computer_name} /f
+T1133 cmd /c "mstsc /v:${computer_name} /f"
+T1133 powershell -c "mstsc /v:${computer_name} /f"
+T1133 mstsc /v:${computer_name} 
+T1133 cmd /c "mstsc /v:${computer_name}"
+T1133 powershell -c "mstsc /v:${computer_name}"
+T1133 psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+T1133 cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+T1133 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+T1133 psexec \\${ip_address} -i ${command_to_execute}
+T1133 cmd /c "psexec \\${ip_address} -i ${command_to_execute}"
+T1133 powershell -c "psexec \\${ip_address} -i ${command_to_execute}"
+T1133 psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
+T1133 cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+T1133 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+T1133 psexec \\${ip_address} -u ${username} -p ${password} script.txt
+T1133 cmd /c "psexec \\${ip_address} -u ${username} -p ${password} script.txt"
+T1133 powershell -c "psexec \\${ip_address} -u ${username} -p ${password} script.txt"
+T1133 psexec \\${ip_address} -accepteula -c ${command_to_execute}
+T1133 cmd /c "psexec \\${ip_address} -accepteula -c ${command_to_execute}"
+T1133 powershell -c "psexec \\${ip_address} -accepteula -c ${command_to_execute}"
+T1133 PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
+T1133 cmd /c "PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+T1133 powershell -c "PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+T1133 PsExec64.exe \\${ip_address} -i ${command_to_execute}
+T1133 cmd /c "PsExec64.exe \\${ip_address} -i ${command_to_execute}"
+T1133 powershell -c "PsExec64.exe \\${ip_address} -i ${command_to_execute}"
+T1133 PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
+T1133 cmd /c "PsExec64.exe \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+T1133 powershell -c "PsExec64.exe.exeexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
+T1133 PsExec64.exe \\${ip_address} -u ${username} -p ${password} script.txt
+T1133 cmd /c "PsExec64.exe \\${ip_address} -u ${username} -p ${password} script.txt"
+T1133 powershell -c "PsExec64.exe \\${ip_address} -u ${username} -p ${password} script.txt"
+T1133 PsExec64.exe \\${ip_address} -accepteula -c ${command_to_execute}
+T1133 cmd /c "PsExec64 \\${ip_address} -accepteula -c ${command_to_execute}"
+T1133 powershell -c "PsExec64 \\${ip_address} -accepteula -c ${command_to_execute}"
+T1133 plink -ssh ${ip_address} -l ${username} -pw ${password}
+T1133 cmd /c "plink -ssh ${ip_address} -l ${username} -pw ${password}"
+T1133 powershell -c "plink -ssh ${ip_address} -l ${username} -pw ${password}"
+T1133 plink ${username}@${ip_address}
+T1133 cmd /c "plink ${username}@${ip_address}"
+T1133 powershell -c "plink ${username}@${ip_address}"
+T1133 putty -ssh ${ip_address} -l ${username} -pw ${password}
+T1133 cmd /c "putty -ssh ${ip_address} -l ${username} -pw ${password}"
+T1133 powershell -c "putty -ssh ${ip_address} -l ${username} -pw ${password}"
+T1133 putty -ssh ${username}@${ip_address} -pw ${password}
+T1133 cmd /c "putty -ssh ${username}@${ip_address} -pw ${password}"
+T1133 powershell -c "putty -ssh ${username}@${ip_address} -pw ${password}"
+T1133 putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt
+T1133 cmd /c "putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt"
+T1133 powershell -c "putty -ssh ${ip_address} -l ${username} -pw ${password} -m script.txt"
+T1133 putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt
+T1133 cmd /c "putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt"
+T1133 powershell -c "putty -ssh ${username}@${ip_address} -pw ${password} -m script.txt"
+T1133 ssh ${username}@${password}
+T1133 cmd /c "ssh ${username}@${password}"
+T1133 powershell -c "ssh ${username}@${password}"
+T1133 vncviewer ${ip_address}::${port}
+T1133 cmd /c "vncviewer ${ip_address}::${port}"
+T1133 powershell -c "vncviewer ${ip_address}::${port}"
+T1133 evil-winrm -i ${ip_address} -u ${username} -p ${password}
+T1133 cmd /c "evil-winrm -i ${ip_address} -u ${username} -p ${password}"
+T1133 powershell -c "evil-winrm -i ${ip_address} -u ${username} -p ${password}"
+T1133 rdesktop -u ${username} -p ${password} ${ip_address}
+T1133 cmd /c "rdesktop -u ${username} -p ${password} ${ip_address}"
+T1133 powershell -c "rdesktop -u ${username} -p ${password} ${ip_address}"
+T1133 openvpn-gui.exe connect config.ovpn
+T1133 cmd /c "openvpn-gui.exe connect config.ovpn"
+T1133 powershell -c "openvpn-gui.exe connect config.ovpn"
+
+# T1189 Drive-by Compromise
+
+# T1190 Exploit Public-Facing Application
+
+# T1566 Phishing
+T1566 mail -s ${email_subject} ${username}@${domain} < mail.txt
+T1566 mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
+T1566 echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
+T1566 echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
+T1566 cat email.txt | mail -s ${email_subject} ${username}@${domain}
+T1566 cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
+T1566 echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
+T1566 echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
+T1566 echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
+T1566 echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
+T1566 cat email.txt | mutt -s ${email_subject} ${username}@${domain}
+T1566 cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
+T1566 echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
+T1566 echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
+T1566 echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
+T1566 echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
+T1566 cat email.txt | mpack -s ${email_subject} ${username}@${domain}
+T1566 cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
+T1566 sendmail ${username}@${domain} < mail.txt
+T1566 sendmail ${username}@${domain} < mail.txt 2> /dev/null
+T1566 echo ${email_content} | sendmail ${username}@${domain}
+T1566 echo ${email_content} | sendmail ${username}@${domain} 2> /dev/null
+T1566 cat email.txt | sendmail ${username}@${domain}
+T1566 cat email.txt | sendmail ${username}@${domain} 2> /dev/null
+T1566 ssmtp ${username}@${domain} < mail.txt
+T1566 ssmtp ${username}@${domain} < mail.txt 2> /dev/null
+T1566 echo -e ${email_content} | ssmtp ${username}@${domain}
+T1566 echo -e ${email_content} | ssmtp ${username}@${domain} 2> /dev/null
+T1566 cat email.txt | ssmtp ${username}@${domain}
+T1566 cat email.txt | ssmtp ${username}@${domain} 2> /dev/null
+T1566 mailx -s ${email_subject} ${username}@${domain} < mail.txt 
+T1566 mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
+T1566 echo ${email_content} | mailx -s ${email_subject} ${username}@${domain} 
+T1566 echo ${email_content} | mailx -s ${email_subject} ${username}@${domain} 2> /dev/null 
+T1566 cat email.txt | mailx -s ${email_subject} ${username}@${domain}
+T1566 cat email.txt | mailx -s ${email_subject} ${username}@${domain} 2> /dev/null 
+T1566 curl --url smtp://${ip_address}:${port} --ssl-reqd --mail-rcpt ${username}@${domain} --user ${username}:${password}
+T1566 cmd /c "curl --url smtp://${ip_address}:${port} --ssl-reqd --mail-rcpt ${username}@${domain} --user ${username}:${password}"
+T1566 powershell -c "curl --url smtp://${ip_address}:${port} --ssl-reqd --mail-rcpt ${username}@${domain} --user ${username}:${password}"
+T1566 curl --url smtp://${ip_address}:${port} --ssl-reqd --mail-rcpt ${username}@${domain} --user ${username}:${password} 2> nul
+T1566 cmd /c "curl --url smtp://${ip_address}:${port} --ssl-reqd --mail-rcpt ${username}@${domain} --user ${username}:${password} 2> nul"
+T1566 powershell -c "curl --url smtp://${ip_address}:${port} --ssl-reqd --mail-rcpt ${username}@${domain} --user ${username}:${password} 2> nul"
+T1566 curl --url smtp://${ip_address}:${port} --ssl-reqd --mail-rcpt ${username}@${domain} --user ${username}:${password} 2> /dev/null
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 
+T1566 

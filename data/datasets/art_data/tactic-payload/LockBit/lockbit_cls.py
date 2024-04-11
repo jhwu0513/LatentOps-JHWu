@@ -36,8 +36,15 @@ for i in range(12):
 
 for i in range(12):
     with open(f'{i}_train.txt', 'w') as f:
-        for p in step_samples[i][0]:
+        idx = int(0.9*len(step_samples[i][0]))
+        for p in step_samples[i][0][:idx]:
             f.write(f"1\t{p}\n")
-        for p in step_samples[i][1]:
+        for p in step_samples[i][1][:idx]:
+            f.write(f"0\t{p}\n")
+for i in range(12):
+    with open(f'{i}_test.txt', 'w') as f:
+        for p in step_samples[i][0][idx:]:
+            f.write(f"1\t{p}\n")
+        for p in step_samples[i][1][idx:]:
             f.write(f"0\t{p}\n")
 

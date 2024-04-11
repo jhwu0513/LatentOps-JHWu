@@ -1,0 +1,6 @@
+1	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v ${value_name} /t REG_DWORD /d ${value}
+1	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v ${value_name} /t REG_DWORD /d ${value}
+1	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /v ${value_name} /t REG_DWORD /d ${value}
+0	powershell -c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
+0	scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
+0	powershell -c "wmic.exe shadowcopy delete"
