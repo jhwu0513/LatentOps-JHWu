@@ -1,0 +1,16 @@
+1	cmd /c "7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}"
+1	powershell -c "7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}"
+1	7z a -slt ${destination_file_path} ${source_file_path} -p${password}
+1	cmd /c "7z a -slt ${destination_file_path} ${source_file_path} -p${password}"
+1	powershell -c "7z a -slt ${destination_file_path} ${source_file_path} -p${password}"
+1	7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}
+1	cmd /c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}"
+1	powershell -c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}"
+0	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+0	psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+0	hostname.exe
+0	cmd /c "ipconfig.exe /allcompartments /all"
+0	psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+0	netstat -r
+0	plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	rm -rf ${local_file_path}

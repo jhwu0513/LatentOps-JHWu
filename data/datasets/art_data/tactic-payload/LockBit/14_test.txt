@@ -1,0 +1,16 @@
+1	cmd /c "sdelete.exe -f -q ${local_file_path}"
+1	powershell -c "sdelete.exe -f -q ${local_file_path}"
+1	sdelete -f -q -accepteula ${local_file_path}
+1	cmd /c "sdelete -f -q -accepteula ${loal_file_path}"
+1	powershell -c "sdelete -f -q -accepteula ${local_file_path}"
+1	sdelete.exe -f -q -accepteula ${local_file_path}
+1	cmd /c "sdelete.exe -f -q -accepteula ${local_file_path}"
+1	powershell -c "sdelete.exe -f -q -accepteula ${local_file_path}"
+0	arp.exe -g
+0	mstsc.exe /v:${ip_address} /f /admin
+0	cmd /c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+0	choco install putty
+0	powershell -c "mstsc /v:${ip_address} /f /remoteGuard"
+0	choco install -f Megasync
+0	certutil -encode -Unicode -gmt error.txt encode.txt
+0	cmd /c "choco install -y ngrok"

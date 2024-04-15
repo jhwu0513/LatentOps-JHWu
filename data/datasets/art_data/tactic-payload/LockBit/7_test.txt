@@ -1,6 +1,16 @@
-1	powershell -c "xcopy ${source_file_path} \\${ip_address}\${destination_file_path}"
-1	powershell -c "sync -avz ${source_file_path} ${destination_file_path}"
-1	powershell -c "scp ${username}@${ip_address}:${destination_file_path} ${source_file_path}"
-0	dir ${source_file_path} -Recurse | Compress-Archive -DestinationPath ${destination_file_path}
-0	powershell -c "PsExec64 \\${ip_address} -i -u ${username} -p ${password} ${command_to_execute}"
-0	net group "domain admins" /domain
+1	nmap -p- -sV -O ${ip_address}
+1	nmap -p- -sV -O ${ip_address} 2> /dev/null
+1	nmap -p- -sV -O ${ip_address} 2> &1
+1	nmap -p- -sV -O ${ip_address} 2> error.log
+1	nmap -p- -sC -O -A ${ip_address}
+1	nmap -p- -sC -O -A ${ip_address} 2> /dev/null
+1	nmap -p- -sC -O -A ${ip_address} 2> &1
+1	nmap -p- -sC -O -A ${ip_address} 2> error.log
+0	wmic shadowcopy call create Volume=C:
+0	rm -rf ${local_file_path} 2> error.log
+0	taskkill.exe /im ${process_name}
+0	psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+0	powershell -c "wmic.exe os get Caption"
+0	mstsc /v:${ip_address} /f /admin
+0	cmd /c "choco install -f procdump"
+0	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null

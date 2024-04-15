@@ -1,6 +1,4 @@
-1	powershell -c "wmic shadowcopy call create Volume=C:"
-1	powershell -c "wmic /node:"${ip_address}" shadowcopy call create Volume=C:"
-1	cmd.exe /c "wmic shadowcopy call create Volume=C:"
-0	curl -X POST --upload-file ${source_file_path} http://${ip_address}:${port}/upload
-0	psexec \\${ip_address} -i ${command_to_execute}
-0	zip -r archive.zip ${source_directory}
+1	cmd /c "wmic.exe /node:${ip_address} shadowcopy call create Volume=C:"
+1	powershell -c "wmic.exe /node:${ip_address} shadowcopy call create Volume=C:"
+0	7z.exe a ${destination_file_path} ${source_file_path} -p${password}
+0	curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}

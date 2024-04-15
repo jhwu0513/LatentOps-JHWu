@@ -31,16 +31,12 @@ test = []
 skip = [] # 裡面存放需要跳過的 Technique Name (只有一個 payload 的 Technique 屬於需要跳過的)
 print(f"Splitting train and test with ratio {ratio} ...")
 for t, ps in executors.items(): # 遍歷 executors 的鍵值對，executors 是一個 dictionary
-    if len(ps) == 1: 
-        skip.append(t)
-        continue
-    else:
-        split_idx = int(0.9*len(ps))
-        for p in ps[:split_idx]:
-            pline = [p for p in p.split('\n')]
-            train.append((cls[t], p)) # 將 (Technique Label ID, Payload) 加入到 train 中
-        for p in ps[split_idx:]:
-            test.append((cls[t], p))
+    split_idx = int(0.9*len(ps))
+    for p in ps[:split_idx]:
+        pline = [p for p in p.split('\n')]
+        train.append((cls[t], p)) # 將 (Technique Label ID, Payload) 加入到 train 中
+    for p in ps[split_idx:]:
+        test.append((cls[t], p))
 print(f"Train: {len(train)}")
 print(f"Test: {len(test)}")
 print(f"Skipped {len(skip)} techniques cuz there's only one sample. You can find the skipped technique in skip.txt.")
@@ -53,37 +49,40 @@ random.shuffle(test)
 random.shuffle(unique_payload)
 
 print('Writing to files ...')
+# # VAE
+# with open(f'train_Lockbit_vae.txt', 'w') as f:
+#     for p in unique_payload[:int(0.9*len(unique_payload))]:
+#         f.write(p + '\n')
+# with open(f'test_Lockbit_vae.txt', 'w') as f:
+#     for p in unique_payload[int(0.9*len(unique_payload)):]:
+#         f.write(p + '\n')
+
 # VAE
-with open(f'train_Lockbit_vae.txt', 'w') as f:
-    for p in unique_payload[:int(0.9*len(unique_payload))]:
+with open('train_Lockbit_vae.txt', 'w') as f:
+    for cls_idx, p in train:
         f.write(p + '\n')
-with open(f'test_Lockbit_vae.txt', 'w') as f:
-    for p in unique_payload[int(0.9*len(unique_payload)):]:
+with open('test_vae.txt', 'w') as f:
+    for cls_idx, p in test:
         f.write(p + '\n')
 
-# # Classifier
-# with open(f'train_{file_name}_cls.txt', 'w') as f:
-#     for cls_idx, p in train:
-#         f.write(f"{cls_idx}\t{p}\n")
-# with open(f'test_{file_name}_cls.txt', 'w') as f:
-#     for cls_idx, p in test:
-#         f.write(f"{cls_idx}\t{p}\n")
+# Classifier
+with open(f'train_Lockbit_cls.txt', 'w') as f:
+    for cls_idx, p in train:
+        f.write(f"{cls_idx}\t{p}\n")
+with open(f'test_Lockbit_cls.txt', 'w') as f:
+    for cls_idx, p in test:
+        f.write(f"{cls_idx}\t{p}\n")
 
-# # GAN
-# with open(f'train_{file_name}_gan.txt', 'w') as f:
-#     for cls_idx, p in train:
-#         f.write(f"0\t{p}\n")
-# with open(f'test_{file_name}_gan.txt', 'w') as f:
-#     for cls_idx, p in test:
-#         f.write(f"0\t{p}\n")
+# GAN
+with open(f'train_Lockbit_gan.txt', 'w') as f:
+    for cls_idx, p in train:
+        f.write(f"0\t{p}\n")
+with open(f'test_Lockbit_gan.txt', 'w') as f:
+    for cls_idx, p in test:
+        f.write(f"0\t{p}\n")
 
-# # Skkiped
-# with open(f'skip_{file_name}.txt', 'w') as f:
-#     for t in skip:
-#         f.write(f"{t}\n")
-
-# # Technique, Class, Count
-# with open(f'technique_{file_name}_cls_c.txt', 'w') as f:
-#     f.write('technique, class, count\n')
-#     for t in cls:
-#         f.write(f"{t} {cls[t]} {num_cls[t]}\n")
+# Technique, Class, Count
+with open(f'technique_Lockbit_cls_c.txt', 'w') as f:
+    f.write('technique, class, count\n')
+    for t in cls:
+        f.write(f"{t} {cls[t]} {num_cls[t]}\n")
