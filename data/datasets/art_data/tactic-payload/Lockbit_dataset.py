@@ -61,7 +61,7 @@ print('Writing to files ...')
 with open('train_Lockbit_vae.txt', 'w') as f:
     for cls_idx, p in train:
         f.write(p + '\n')
-with open('test_vae.txt', 'w') as f:
+with open('test_Lockbit_vae.txt', 'w') as f:
     for cls_idx, p in test:
         f.write(p + '\n')
 
