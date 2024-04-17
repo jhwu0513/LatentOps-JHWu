@@ -1,16 +1,14 @@
-1	nmap -p- -sV -O ${ip_address}
-1	nmap -p- -sV -O ${ip_address} 2> /dev/null
-1	nmap -p- -sV -O ${ip_address} 2> &1
-1	nmap -p- -sV -O ${ip_address} 2> error.log
-1	nmap -p- -sC -O -A ${ip_address}
-1	nmap -p- -sC -O -A ${ip_address} 2> /dev/null
-1	nmap -p- -sC -O -A ${ip_address} 2> &1
-1	nmap -p- -sC -O -A ${ip_address} 2> error.log
-0	wmic shadowcopy call create Volume=C:
-0	rm -rf ${local_file_path} 2> error.log
-0	taskkill.exe /im ${process_name}
-0	psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-0	powershell -c "wmic.exe os get Caption"
-0	mstsc /v:${ip_address} /f /admin
-0	cmd /c "choco install -f procdump"
-0	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
+1	powershell -c "wmic.exe shadowcopy call create Volume=C:"
+1	wmic /node:${ip_address} shadowcopy call create Volume=C:
+1	cmd /c "wmic /node:${ip_address} shadowcopy call create Volume=C:"
+1	powershell -c "wmic /node:${ip_address} shadowcopy call create Volume=C:"
+1	wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
+1	cmd /c "wmic.exe /node:${ip_address} shadowcopy call create Volume=C:"
+1	powershell -c "wmic.exe /node:${ip_address} shadowcopy call create Volume=C:"
+0	powershell -c "wmic os get CSName"
+0	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+0	cmd /c "del /f /p ${local_file_path}"
+0	psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+0	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
+0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+0	vssadmin.exe Delete Shadows /all /quiet

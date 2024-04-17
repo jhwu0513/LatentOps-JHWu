@@ -70,102 +70,78 @@ T1078 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c 
 T1078 psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
 T1078 cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
 T1078 powershell -c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-T1078 psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
-T1078 cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
-T1078 cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
-T1078 cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
-T1078 cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-T1078 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-T1078 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-T1078 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-T1078 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-T1078 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-T1078 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-T1078 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-T1078 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-T1078 cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-T1078 powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-T1078 Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-T1078 cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-T1078 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-T1078 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-T1078 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-T1078 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-T1078 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-T1078 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-T1078 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-T1078 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-T1078 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-T1078 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-T1078 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-T1078 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-T1078 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-T1078 cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-T1078 powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-T1078 Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-T1078 cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-T1078 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
-T1078 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s
-T1078 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
-T1078 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s
-T1078 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
-T1078 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d -s"
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+T1133 powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+T1133 Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1133 cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+T1133 powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+T1133 Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1133 cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+T1133 powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
 T1566 mail -s ${email_subject} ${username}@${domain} < mail.txt
 T1566 mail -s ${email_subject} ${username}@${domain} < mail.txt 2> /dev/null
 T1566 mail -s ${email_subject} ${username}@${domain} < mail.txt 2> &1
@@ -1316,6 +1292,18 @@ T1489 powershell -c "taskkill /F /IM ${process_name} /T"
 T1489 taskkill.exe /F /IM ${process_name} /T
 T1489 cmd /c "taskkill.exe /F /IM ${process_name} /T"
 T1489 powershell -c "taskkill.exe /F /IM ${process_name} /T"
+T1489 taskkill /f /IM ${process_name}
+T1489 cmd /c "taskkill /f /IM ${process_name}"
+T1489 powershell -c "taskkill /f /IM ${process_name}"
+T1489 taskkill.exe /f /IM ${process_name}
+T1489 cmd /c "taskkill.exe /f /IM ${process_name}"
+T1489 powershell -c "taskkill.exe /f /IM ${process_name}"
+T1489 taskkill /f /IM ${process_name} /T
+T1489 cmd /c "taskkill /f /IM ${process_name} /T"
+T1489 powershell -c "taskkill /f /IM ${process_name} /T"
+T1489 taskkill.exe /f /IM ${process_name} /T
+T1489 cmd /c "taskkill.exe /f /IM ${process_name} /T"
+T1489 powershell -c "taskkill.exe /f /IM ${process_name} /T"
 T1490 vssadmin delete shadows /all
 T1490 cmd /c "vssadmin delete shadows /all"
 T1490 powershell -c "vssadmin delete shadows /all"

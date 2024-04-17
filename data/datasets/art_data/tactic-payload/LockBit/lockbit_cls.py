@@ -32,13 +32,9 @@ for i in range(cls_idx):
     exclude = list(samples -  set(step_samples[i][0]))
     # step_samples[i].append(exclude)
     
-    payloads = []
-    for p in step_samples[i][0]:
-        payloads.append(p)
-    
     for j in range(len(step_samples[i][0])):
         random_num = random.randint(0, len(exclude)-1)
-        while exclude[random_num] in payloads:
+        while exclude[random_num] in step_samples[i][0]:
             random_num = random.randint(0, len(exclude)-1)
         step_samples[i][1].append(exclude[random_num])
 
@@ -49,12 +45,15 @@ for i in range(cls_idx):
             f.write(f"1\t{p}\n")
         for p in step_samples[i][1][:idx]:
             f.write(f"0\t{p}\n")
+
 for i in range(cls_idx):
     with open(f'{i}_test.txt', 'w') as f:
+        idx = int(0.9*len(step_samples[i][0]))
         for p in step_samples[i][0][idx:]:
             f.write(f"1\t{p}\n")
         for p in step_samples[i][1][idx:]:
             f.write(f"0\t{p}\n")
+
 for i in range(cls_idx):
     with open(f'cls2technique.txt', 'w') as f:
         f.write('technique, class\n')
