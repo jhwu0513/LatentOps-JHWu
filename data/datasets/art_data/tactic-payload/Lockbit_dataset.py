@@ -11,6 +11,8 @@ unique_payload = set()
 with open('./LockBit_technique_samples.txt', 'r') as file:
     for line in file:
         data = line.strip().split(' ',1)
+        if data[1] in unique_payload:
+            print(data[1])
         unique_payload.add(data[1])
         if data[0] not in executors:
             executors[data[0]] = [data[1]]
@@ -49,13 +51,15 @@ random.shuffle(test)
 random.shuffle(unique_payload)
 
 print('Writing to files ...')
-# # VAE
-# with open(f'train_Lockbit_vae.txt', 'w') as f:
-#     for p in unique_payload[:int(0.9*len(unique_payload))]:
-#         f.write(p + '\n')
-# with open(f'test_Lockbit_vae.txt', 'w') as f:
-#     for p in unique_payload[int(0.9*len(unique_payload)):]:
-#         f.write(p + '\n')
+# VAE
+n = int(0.9*len(unique_payload))
+print("length: ",len(unique_payload))
+with open(f'train_Lockbit_100_vae.txt', 'w') as f:
+    for p in unique_payload[:n]:
+        f.write(p + '\n')
+with open(f'test_Lockbit_100_vae.txt', 'w') as f:
+    for p in unique_payload[n:]:
+        f.write(p + '\n')
 
 # VAE
 with open('train_Lockbit_vae.txt', 'w') as f:

