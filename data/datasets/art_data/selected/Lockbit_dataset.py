@@ -8,7 +8,7 @@ cls_idx = 0
 num_cls = {}
 unique_payload = set()
 
-with open('./LockBit_technique_samples.txt', 'r') as file:
+with open('./behavior_dataset.txt', 'r') as file:
     for line in file:
         data = line.strip().split(' ',1)
         if data[1] in unique_payload:

