@@ -32,7 +32,9 @@ train = []
 test = []
 skip = [] # 裡面存放需要跳過的 Technique Name (只有一個 payload 的 Technique 屬於需要跳過的)
 print(f"Splitting train and test with ratio {ratio} ...")
+
 for t, ps in executors.items(): # 遍歷 executors 的鍵值對，executors 是一個 dictionary
+    random.shuffle(ps)
     split_idx = int(0.9*len(ps))
     for p in ps[:split_idx]:
         pline = [p for p in p.split('\n')]

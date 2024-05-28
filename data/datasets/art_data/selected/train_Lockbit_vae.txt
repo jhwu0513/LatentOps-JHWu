@@ -1,88 +1,88 @@
-cmd /c vssadmin.exe delete shadows /for=c: /all /quiet
-wbadmin.exe disable backup
-cmd /c vssadmin.exe delete shadows /all /quiet
-vssadmin delete shadows /all /quiet
-powershell -c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
-cmd /c bcdedit.exe /set {default} recoveryenabled no
-powershell -c wmic.exe shadowcopy where ID="<ShadowID>" delete
-cmd /c wbadmin delete catalog
-powershell -c vssadmin delete shadows /all /quiet
-vssadmin delete shadows /all
-wmic.exe shadowcopy delete /interactive
-wmic.exe shadowcopy delete /nointeractive
-powershell -c wmic.exe shadowcopy delete /nointeractive
-wbadmin disable backup
-wmic shadowcopy delete /interactive
-cmd /c vssadmin.exe delete shadows /for=c: /oldest
-cmd /c wbadmin disable backup
-cmd /c wbadmin.exe delete catalog
-powershell -c wmic.exe shadowcopy delete /interactive
-powershell -c wbadmin.exe disable backup
-cmd /c wmic shadowcopy delete /nointeractive
-powershell -c bcdedit /set {default} bootstatuspolicy ignoreallfailures
-bcdedit.exe /set {default} recoveryenabled no
-powershell -c wbadmin.exe delete catalog
-cmd /c wmic.exe shadowcopy where ID="<ShadowID>" delete
-cmd /c vssadmin delete shadows /all /quiet
-powershell -c vssadmin.exe delete shadows /for=c: /all /quiet
-cmd /c wbadmin.exe disable backup -quiet
-cmd /c wbadmin.exe disable backup
-powershell -c vssadmin delete shadows /all
-powershell -c wmic shadowcopy delete /interactive
-cmd /c wbadmin.exe delete catalog -quiet
-cmd /c bcdedit /set {default} bootstatuspolicy ignoreallfailures
-cmd /c wmic shadowcopy delete /interactive
-powershell -c wbadmin.exe delete catalog -quiet
-vssadmin delete shadows /for=c: /all /quiet
-wmic shadowcopy delete /nointeractive
-powershell -c vssadmin delete shadows /for=c: /oldest
-powershell -c vssadmin delete shadows /for=c: /all /quiet
-cmd /c vssadmin.exe delete shadows /all
-wmic shadowcopy delete
-wbadmin.exe disable backup -quiet
-powershell -c bcdedit /set {default} recoveryenabled no
-cmd /c vssadmin.exe delete shadows /for=c: /oldest /quiet
-wbadmin.exe delete catalog
-powershell -c vssadmin delete shadows /for=c: /oldest /quiet
-vssadmin.exe delete shadows /all /quiet
-bcdedit /set {default} recoveryenabled no
-cmd /c wbadmin delete catalog -quiet
-powershell -c wbadmin delete catalog -quiet
-vssadmin.exe delete shadows /all
-wbadmin.exe delete catalog -quiet
-cmd /c wmic.exe shadowcopy delete /nointeractive
-cmd /c wmic.exe shadowcopy delete /interactive
-powershell -c wmic shadowcopy delete
-powershell -c vssadmin.exe delete shadows /for=c: /oldest
-cmd /c vssadmin delete shadows /for=c: /oldest
-vssadmin.exe delete shadows /for=c: /all /quiet
-powershell -c vssadmin.exe delete shadows /all
-cmd /c 0 wmic shadowcopy where ID="<ShadowID>" delete
-cmd /c bcdedit /set {default} recoveryenabled no
 powershell -c wbadmin.exe disable backup -quiet
-powershell -c wbadmin disable backup
+powershell -c bcdedit /set {default} bootstatuspolicy ignoreallfailures
+powershell -c wbadmin.exe delete catalog -quiet
+powershell -c wbadmin delete catalog -quiet
+cmd /c wbadmin.exe delete catalog
 cmd /c vssadmin delete shadows /all
-wmic.exe shadowcopy where ID="<ShadowID>" delete
-cmd /c wmic shadowcopy delete
-bcdedit /set {default} bootstatuspolicy ignoreallfailures
-powershell -c 0 wmic shadowcopy where ID="<ShadowID>" delete
-cmd /c vssadmin delete shadows /for=c: /oldest /quiet
-cmd /c vssadmin delete shadows /for=c: /all /quiet
-wmic.exe shadowcopy delete
-powershell -c wbadmin disable backup -quiet
-vssadmin delete shadows /for=c: /oldest /quiet
+cmd /c wbadmin.exe disable backup -quiet
+cmd /c wmic.exe shadowcopy where ID="<ShadowID>" delete
+cmd /c wmic.exe shadowcopy delete /interactive
+cmd /c bcdedit /set {default} bootstatuspolicy ignoreallfailures
+cmd /c vssadmin.exe delete shadows /all /quiet
+reagentc.exe /disable
+wmic shadowcopy delete /interactive
+cmd /c reagentc.exe /disable
+cmd /c reagentc /disable
+cmd /c reagentc /disable /logpath <file_path>
+cmd /c wbadmin.exe disable backup
+cmd /c wmic shadowcopy delete /nointeractive
+cmd /c wbadmin disable backup -quiet
+cmd /c vssadmin delete shadows /for=c: /oldest
+powershell -c vssadmin.exe delete shadows /for=c: /oldest /quiet
 vssadmin.exe delete shadows /for=c: /oldest /quiet
 vssadmin delete shadows /for=c: /oldest
-cmd /c wmic.exe shadowcopy delete
-powershell -c vssadmin.exe delete shadows /for=c: /oldest /quiet
-powershell -c wmic.exe shadowcopy delete
+wmic shadowcopy delete /nointeractive
+cmd /c bcdedit /set {default} recoveryenabled no
 powershell -c wmic shadowcopy delete /nointeractive
-bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
-wmic shadowcopy where ID="<ShadowID>" delete
-wbadmin delete catalog
-cmd /c wbadmin disable backup -quiet
-cmd /c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
-vssadmin.exe delete shadows /for=c: /oldest
+powershell -c reagentc /disable /logpath <file_path>
+bcdedit /set {default} recoveryenabled no
+vssadmin delete shadows /all
+powershell -c wbadmin.exe delete catalog
+powershell -c vssadmin delete shadows /for=c: /oldest /quiet
+vssadmin.exe delete shadows /for=c: /all /quiet
+powershell -c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+wbadmin.exe disable backup -quiet
+powershell -c wmic.exe shadowcopy delete /interactive
+powershell -c vssadmin.exe delete shadows /for=c: /all /quiet
+cmd /c wmic shadowcopy delete
+cmd /c wbadmin delete catalog
+powershell -c wbadmin disable backup -quiet
+wbadmin disable backup
 wbadmin disable backup -quiet
+vssadmin.exe delete shadows /all
+powershell -c reagentc /disable
+powershell -c bcdedit /set {default} recoveryenabled no
+powershell -c vssadmin delete shadows /all /quiet
+cmd /c vssadmin delete shadows /all /quiet
+cmd /c wmic shadowcopy where ID="<ShadowID>" delete
+cmd /c vssadmin delete shadows /for=c: /oldest /quiet
+cmd /c vssadmin.exe delete shadows /all
+cmd /c wmic.exe shadowcopy delete /nointeractive
+powershell -c vssadmin.exe delete shadows /all
+powershell -c wbadmin.exe disable backup
+vssadmin.exe delete shadows /all /quiet
+cmd /c vssadmin.exe delete shadows /for=c: /all /quiet
+bcdedit.exe /set {default} recoveryenabled no
+powershell -c vssadmin delete shadows /for=c: /oldest
+cmd /c wbadmin.exe delete catalog -quiet
+vssadmin delete shadows /all /quiet
+powershell -c reagentc.exe /disable
+cmd /c vssadmin.exe delete shadows /for=c: /oldest /quiet
+bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+vssadmin delete shadows /for=c: /all /quiet
+powershell -c wbadmin disable backup
+reagentc /disable
+cmd /c wmic.exe shadowcopy delete
+wmic.exe shadowcopy where ID="<ShadowID>" delete
+reagentc /disable /logpath <file_path>
+cmd /c wbadmin disable backup
+powershell -c wmic.exe shadowcopy where ID="<ShadowID>" delete
+cmd /c vssadmin.exe delete shadows /for=c: /oldest
+cmd /c bcdedit.exe /set {default} recoveryenabled no
+powershell -c vssadmin delete shadows /for=c: /all /quiet
+vssadmin delete shadows /for=c: /oldest /quiet
+powershell -c wmic shadowcopy delete
+wmic.exe shadowcopy delete /nointeractive
+wmic shadowcopy delete
+cmd /c wbadmin delete catalog -quiet
+powershell -c vssadmin delete shadows /all
+wmic.exe shadowcopy delete
+powershell -c wmic.exe shadowcopy delete
+cmd /c vssadmin delete shadows /for=c: /all /quiet
+wbadmin.exe disable backup
+wmic shadowcopy where ID="<ShadowID>" delete
+bcdedit /set {default} bootstatuspolicy ignoreallfailures
+powershell -c wmic shadowcopy delete /interactive
+wmic.exe shadowcopy delete /interactive
 powershell -c wbadmin delete catalog
-powershell -c vssadmin.exe delete shadows /all /quiet
+powershell -cwmic shadowcopy where ID="<ShadowID>" delete

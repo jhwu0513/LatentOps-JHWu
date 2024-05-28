@@ -1,98 +1,98 @@
-0 vssadmin delete shadows /all
-0 cmd /c vssadmin delete shadows /all
-0 powershell -c vssadmin delete shadows /all
-0 vssadmin.exe delete shadows /all
-0 cmd /c vssadmin.exe delete shadows /all
-0 powershell -c vssadmin.exe delete shadows /all
-0 vssadmin delete shadows /all /quiet
-0 cmd /c vssadmin delete shadows /all /quiet
-0 powershell -c vssadmin delete shadows /all /quiet
-0 vssadmin.exe delete shadows /all /quiet
-0 cmd /c vssadmin.exe delete shadows /all /quiet
-0 powershell -c vssadmin.exe delete shadows /all /quiet
-0 vssadmin delete shadows /for=c: /oldest
-0 cmd /c vssadmin delete shadows /for=c: /oldest
-0 powershell -c vssadmin delete shadows /for=c: /oldest
-0 vssadmin.exe delete shadows /for=c: /oldest
-0 cmd /c vssadmin.exe delete shadows /for=c: /oldest
-0 powershell -c vssadmin.exe delete shadows /for=c: /oldest
-0 vssadmin delete shadows /for=c: /oldest /quiet
-0 cmd /c vssadmin delete shadows /for=c: /oldest /quiet
-0 powershell -c vssadmin delete shadows /for=c: /oldest /quiet
-0 vssadmin.exe delete shadows /for=c: /oldest /quiet
-0 cmd /c vssadmin.exe delete shadows /for=c: /oldest /quiet
-0 powershell -c vssadmin.exe delete shadows /for=c: /oldest /quiet
-0 vssadmin delete shadows /for=c: /all /quiet
-0 cmd /c vssadmin delete shadows /for=c: /all /quiet
-0 powershell -c vssadmin delete shadows /for=c: /all /quiet
-0 vssadmin.exe delete shadows /for=c: /all /quiet
-0 cmd /c vssadmin.exe delete shadows /for=c: /all /quiet
-0 powershell -c vssadmin.exe delete shadows /for=c: /all /quiet
-0 wmic shadowcopy delete
-0 cmd /c wmic shadowcopy delete
-0 powershell -c wmic shadowcopy delete
-0 wmic.exe shadowcopy delete
-0 cmd /c wmic.exe shadowcopy delete
-0 powershell -c wmic.exe shadowcopy delete
-0 wmic shadowcopy delete /nointeractive
-0 cmd /c wmic shadowcopy delete /nointeractive
-0 powershell -c wmic shadowcopy delete /nointeractive
-0 wmic.exe shadowcopy delete /nointeractive
-0 cmd /c wmic.exe shadowcopy delete /nointeractive
-0 powershell -c wmic.exe shadowcopy delete /nointeractive
-0 wmic shadowcopy delete /interactive
-0 cmd /c wmic shadowcopy delete /interactive
-0 powershell -c wmic shadowcopy delete /interactive
-0 wmic.exe shadowcopy delete /interactive
-0 cmd /c wmic.exe shadowcopy delete /interactive
-0 powershell -c wmic.exe shadowcopy delete /interactive
-0 wmic shadowcopy where ID="<ShadowID>" delete
-0 cmd /c 0 wmic shadowcopy where ID="<ShadowID>" delete
-0 powershell -c 0 wmic shadowcopy where ID="<ShadowID>" delete
-0 wmic.exe shadowcopy where ID="<ShadowID>" delete
-0 cmd /c wmic.exe shadowcopy where ID="<ShadowID>" delete
-0 powershell -c wmic.exe shadowcopy where ID="<ShadowID>" delete
-0 wbadmin delete catalog
-0 cmd /c wbadmin delete catalog
-0 powershell -c wbadmin delete catalog
-0 wbadmin.exe delete catalog
-0 cmd /c wbadmin.exe delete catalog
-0 powershell -c wbadmin.exe delete catalog
-0 cmd /c wbadmin delete catalog -quiet
-0 powershell -c wbadmin delete catalog -quiet
-0 wbadmin.exe delete catalog -quiet
-0 cmd /c wbadmin.exe delete catalog -quiet
-0 powershell -c wbadmin.exe delete catalog -quiet
-0 wbadmin disable backup
-0 cmd /c wbadmin disable backup
-0 powershell -c wbadmin disable backup
-0 wbadmin.exe disable backup
-0 cmd /c wbadmin.exe disable backup
-0 powershell -c wbadmin.exe disable backup
-0 wbadmin disable backup -quiet
-0 cmd /c wbadmin disable backup -quiet
-0 powershell -c wbadmin disable backup -quiet
-0 wbadmin.exe disable backup -quiet
-0 cmd /c wbadmin.exe disable backup -quiet
-0 powershell -c wbadmin.exe disable backup -quiet
-0 bcdedit /set {default} bootstatuspolicy ignoreallfailures
-0 cmd /c bcdedit /set {default} bootstatuspolicy ignoreallfailures
-0 powershell -c bcdedit /set {default} bootstatuspolicy ignoreallfailures
-0 bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
-0 cmd /c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
-0 powershell -c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
-0 bcdedit /set {default} recoveryenabled no
-0 cmd /c bcdedit /set {default} recoveryenabled no
-0 powershell -c bcdedit /set {default} recoveryenabled no
-0 bcdedit.exe /set {default} recoveryenabled no
-0 cmd /c bcdedit.exe /set {default} recoveryenabled no
-0 powershell -c bcdedit.exe /set {default} recoveryenabled no
-0 reagentc /disable
-0 cmd /c reagentc /disable
-0 powershell -c reagentc /disable
-0 reagentc.exe /disable
-0 cmd /c reagentc.exe /disable
-0 powershell -c reagentc.exe /disable
-0 reagentc /disable /logpath <file_path>
-0 cmd /c reagentc /disable /logpath <file_path>
-0 powershell -c reagentc /disable /logpath <file_path>
+T1490 vssadmin delete shadows /all
+T1490 cmd /c vssadmin delete shadows /all
+T1490 powershell -c vssadmin delete shadows /all
+T1490 vssadmin.exe delete shadows /all
+T1490 cmd /c vssadmin.exe delete shadows /all
+T1490 powershell -c vssadmin.exe delete shadows /all
+T1490 vssadmin delete shadows /all /quiet
+T1490 cmd /c vssadmin delete shadows /all /quiet
+T1490 powershell -c vssadmin delete shadows /all /quiet
+T1490 vssadmin.exe delete shadows /all /quiet
+T1490 cmd /c vssadmin.exe delete shadows /all /quiet
+T1490 powershell -c vssadmin.exe delete shadows /all /quiet
+T1490 vssadmin delete shadows /for=c: /oldest
+T1490 cmd /c vssadmin delete shadows /for=c: /oldest
+T1490 powershell -c vssadmin delete shadows /for=c: /oldest
+T1490 vssadmin.exe delete shadows /for=c: /oldest
+T1490 cmd /c vssadmin.exe delete shadows /for=c: /oldest
+T1490 powershell -c vssadmin.exe delete shadows /for=c: /oldest
+T1490 vssadmin delete shadows /for=c: /oldest /quiet
+T1490 cmd /c vssadmin delete shadows /for=c: /oldest /quiet
+T1490 powershell -c vssadmin delete shadows /for=c: /oldest /quiet
+T1490 vssadmin.exe delete shadows /for=c: /oldest /quiet
+T1490 cmd /c vssadmin.exe delete shadows /for=c: /oldest /quiet
+T1490 powershell -c vssadmin.exe delete shadows /for=c: /oldest /quiet
+T1490 vssadmin delete shadows /for=c: /all /quiet
+T1490 cmd /c vssadmin delete shadows /for=c: /all /quiet
+T1490 powershell -c vssadmin delete shadows /for=c: /all /quiet
+T1490 vssadmin.exe delete shadows /for=c: /all /quiet
+T1490 cmd /c vssadmin.exe delete shadows /for=c: /all /quiet
+T1490 powershell -c vssadmin.exe delete shadows /for=c: /all /quiet
+T1490 wmic shadowcopy delete
+T1490 cmd /c wmic shadowcopy delete
+T1490 powershell -c wmic shadowcopy delete
+T1490 wmic.exe shadowcopy delete
+T1490 cmd /c wmic.exe shadowcopy delete
+T1490 powershell -c wmic.exe shadowcopy delete
+T1490 wmic shadowcopy delete /nointeractive
+T1490 cmd /c wmic shadowcopy delete /nointeractive
+T1490 powershell -c wmic shadowcopy delete /nointeractive
+T1490 wmic.exe shadowcopy delete /nointeractive
+T1490 cmd /c wmic.exe shadowcopy delete /nointeractive
+T1490 powershell -c wmic.exe shadowcopy delete /nointeractive
+T1490 wmic shadowcopy delete /interactive
+T1490 cmd /c wmic shadowcopy delete /interactive
+T1490 powershell -c wmic shadowcopy delete /interactive
+T1490 wmic.exe shadowcopy delete /interactive
+T1490 cmd /c wmic.exe shadowcopy delete /interactive
+T1490 powershell -c wmic.exe shadowcopy delete /interactive
+T1490 wmic shadowcopy where ID="<ShadowID>" delete
+T1490 cmd /c wmic shadowcopy where ID="<ShadowID>" delete
+T1490 powershell -cwmic shadowcopy where ID="<ShadowID>" delete
+T1490 wmic.exe shadowcopy where ID="<ShadowID>" delete
+T1490 cmd /c wmic.exe shadowcopy where ID="<ShadowID>" delete
+T1490 powershell -c wmic.exe shadowcopy where ID="<ShadowID>" delete
+T1490 wbadmin delete catalog
+T1490 cmd /c wbadmin delete catalog
+T1490 powershell -c wbadmin delete catalog
+T1490 wbadmin.exe delete catalog
+T1490 cmd /c wbadmin.exe delete catalog
+T1490 powershell -c wbadmin.exe delete catalog
+T1490 cmd /c wbadmin delete catalog -quiet
+T1490 powershell -c wbadmin delete catalog -quiet
+T1490 wbadmin.exe delete catalog -quiet
+T1490 cmd /c wbadmin.exe delete catalog -quiet
+T1490 powershell -c wbadmin.exe delete catalog -quiet
+T1490 wbadmin disable backup
+T1490 cmd /c wbadmin disable backup
+T1490 powershell -c wbadmin disable backup
+T1490 wbadmin.exe disable backup
+T1490 cmd /c wbadmin.exe disable backup
+T1490 powershell -c wbadmin.exe disable backup
+T1490 wbadmin disable backup -quiet
+T1490 cmd /c wbadmin disable backup -quiet
+T1490 powershell -c wbadmin disable backup -quiet
+T1490 wbadmin.exe disable backup -quiet
+T1490 cmd /c wbadmin.exe disable backup -quiet
+T1490 powershell -c wbadmin.exe disable backup -quiet
+T1490 bcdedit /set {default} bootstatuspolicy ignoreallfailures
+T1490 cmd /c bcdedit /set {default} bootstatuspolicy ignoreallfailures
+T1490 powershell -c bcdedit /set {default} bootstatuspolicy ignoreallfailures
+T1490 bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+T1490 cmd /c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+T1490 powershell -c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+T1490 bcdedit /set {default} recoveryenabled no
+T1490 cmd /c bcdedit /set {default} recoveryenabled no
+T1490 powershell -c bcdedit /set {default} recoveryenabled no
+T1490 bcdedit.exe /set {default} recoveryenabled no
+T1490 cmd /c bcdedit.exe /set {default} recoveryenabled no
+T1490 powershell -c bcdedit.exe /set {default} recoveryenabled no
+T1490 reagentc /disable
+T1490 cmd /c reagentc /disable
+T1490 powershell -c reagentc /disable
+T1490 reagentc.exe /disable
+T1490 cmd /c reagentc.exe /disable
+T1490 powershell -c reagentc.exe /disable
+T1490 reagentc /disable /logpath <file_path>
+T1490 cmd /c reagentc /disable /logpath <file_path>
+T1490 powershell -c reagentc /disable /logpath <file_path>

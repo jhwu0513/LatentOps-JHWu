@@ -1,2 +1,2 @@
 technique, class, count
-0 0 98
+T1490 0 98

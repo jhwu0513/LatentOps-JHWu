@@ -1,10 +1,10 @@
-reagentc /disable /logpath <file_path>
-cmd /c reagentc.exe /disable
-powershell -c reagentc /disable /logpath <file_path>
+powershell -c wmic.exe shadowcopy delete /nointeractive
+cmd /c bcdedit.exe /set {default} bootstatuspolicy ignoreallfailures
+wbadmin delete catalog
+powershell -c vssadmin.exe delete shadows /for=c: /oldest
+wbadmin.exe delete catalog -quiet
+wbadmin.exe delete catalog
+vssadmin.exe delete shadows /for=c: /oldest
+powershell -c vssadmin.exe delete shadows /all /quiet
 powershell -c bcdedit.exe /set {default} recoveryenabled no
-cmd /c reagentc /disable
-powershell -c reagentc /disable
-powershell -c reagentc.exe /disable
-cmd /c reagentc /disable /logpath <file_path>
-reagentc /disable
-reagentc.exe /disable
+cmd /c wmic shadowcopy delete /interactive
